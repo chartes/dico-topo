@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- C. Burette -->
+<!-- Elément racine du schéma XML -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <!-- Déclaration des éléments de type simple (ne contiennent que du texte, pas d'attributs ou de sous-éléments) -->
+  <xs:element name="pg" type="xs:positiveInteger"/>
+  <xs:element name="ads" type="xs:string"/>
+  <!-- Déclaration des éléments de type complexe -->
+  <xs:element name="DICTIONNAIRE"> <!-- <DICTIONNAIRE> possède des attributs et des sous-éléments, pas de noeuds textuels. --> 
+    <xs:annotation>
+      <xs:documentation>Elément racine</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="article" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="departement" type="xs:string" use="required"/>
+      <xs:attribute name="dep" type="xs:positiveInteger" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article"> <!-- <article> possède des attributs et des sous-éléments, pas de noeuds textuels. -->  
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="vedette" minOccurs="1" maxOccurs="1"/>
+        <xs:element ref="definition" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="forme_ancienne" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="commentaire" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="insee" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:choice>
+      <xs:attribute name="id" type="xs:ID" use="required"/>
+      <xs:attribute name="pg" type="xs:positiveInteger" use="required"/>
+      <xs:attribute name="tm" type="xs:positiveInteger" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vedette">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="definition">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="typologie" minOccurs="0" maxOccurs="unbounded" />
+        <xs:element ref="localisation" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="renvoi" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="forme_ancienne" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="forme_ancienne2" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="forme_ancienne">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="renvoi" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="note" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="typologie" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="localisation" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="commentaire">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="p" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="typologie">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="localisation">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/> <!-- 1 -->
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/> <!-- 1 -->
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="date">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reference">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="renvoi" minOccurs="0" maxOccurs="2"/> <!-- DT71 -->
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="renvoi">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"></xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="forme_ancienne2">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="localisation" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="p">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="reference" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="renvoi" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="note" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="forme_ancienne2" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="localisation" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+      <xs:attribute name="type" type="xs:string" use="optional" fixed="small"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="note">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="p" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- N'est pas mixte car contient toujours un élément <p>. -->
+  <xs:element name="i">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="pg" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="ads" minOccurs="0" maxOccurs="3"/>
+        <xs:element ref="pti" minOccurs="0" maxOccurs="3"/>
+        <xs:element ref="x" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sup">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element ref="i" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pti">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element ref="ads" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="x">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="4"/>
+        <xs:element ref="sm" minOccurs="0" maxOccurs="4"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="1"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sm">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="sup" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="pg" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="insee" type="xs:string"/>
+</xs:schema>

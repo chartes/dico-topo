@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT DICTIONNAIRE (article)* >
+<!ATTLIST DICTIONNAIRE departement CDATA #REQUIRED>
+<!ELEMENT article ( vedette, definition?, (forme_ancienne | commentaire )* ) >
+<!ENTITY % textformatting "#PCDATA | pg | sm | sup | i | x | y" >
+<!-- other elements -->
+<!ATTLIST article id CDATA #REQUIRED>
+<!ATTLIST article pg CDATA #REQUIRED>
+<!ELEMENT vedette (%textformatting; | reference | date | note)*>
+<!ELEMENT definition (%textformatting; | typologie | localisation | date | reference | renvoi | forme_ancienne2)*>
+<!ELEMENT typologie (%textformatting;)*>
+<!ELEMENT localisation ( %textformatting; | date | reference )* >
+<!ELEMENT forme_ancienne ( %textformatting; | localisation | date | reference | renvoi )* >
+<!ELEMENT forme_ancienne2 ( %textformatting; | localisation | date | reference | renvoi )* >
+<!ELEMENT commentaire ( p )* >
+<!ELEMENT renvoi (%textformatting; | date)*>
+<!ELEMENT p ( %textformatting; | date | reference | renvoi | forme_ancienne2 | note)* >
+<!ELEMENT date (%textformatting;)*>
+<!ELEMENT reference (%textformatting; | date | renvoi)*>
+<!ELEMENT pg (#PCDATA) >
+<!-- mark-up elements -->
+<!ELEMENT sup ( #PCDATA | x)* >
+<!ELEMENT i ( #PCDATA | pg | sm | sup | x)*>
+<!ELEMENT sm ( #PCDATA | i | sup | x)* >
+<!ELEMENT x ( #PCDATA | sm | sup | i | pg | date)* >
+<!ELEMENT note ( p )* >
