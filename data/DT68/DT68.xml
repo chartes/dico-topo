@@ -3,6 +3,7 @@
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
+
 <!DOCTYPE DICTIONNAIRE SYSTEM "DT68.dtd">
 <DICTIONNAIRE departement="Haut-Rhin" dep="68">
    <article id="DT68-00001" pg="1">
@@ -342,7 +343,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Aspach-le-Bas</localisation>.</definition>
    </article>
-   <article id="DT68-00039" pg="2">
+   <article type="commune" id="DT68-00039" pg="2">
       <vedette>
          <sm>Algolsheim,</sm>
       </vedette>
@@ -387,7 +388,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00042" pg="2">
+   <article type="commune" id="DT68-00042" pg="2">
       <vedette>
          <sm>Allemand-Rombach (L'),</sm> en allem. <sm>Deutsch-Rumbach,</sm>
       </vedette>
@@ -745,7 +746,7 @@
       <definition>
          <typologie>ancienne ferme</typologie>, <localisation>commune de la Poutroye</localisation> (Cassini).</definition>
    </article>
-   <article id="DT68-00067" pg="3">
+   <article type="commune" id="DT68-00067" pg="3">
       <vedette>
          <sm>Altenach,</sm> en français <sm>Attegney,</sm>
       </vedette>
@@ -762,7 +763,7 @@
       </commentaire>
       <insee>68002</insee>
    </article>
-   <article id="DT68-00068" pg="4">
+   <article type="commune" id="DT68-00068" pg="4">
       <vedette>
          <sm>Altenbach,</sm>
       </vedette>
@@ -1031,7 +1032,7 @@
       <definition>
          <typologie>canton</typologie> des <localisation>territoires de Liebentzwiller et de Leymen</localisation>.</definition>
    </article>
-   <article id="DT68-00097" pg="4">
+   <article type="commune" id="DT68-00097" pg="4">
       <vedette>
          <sm>Altkirch,</sm>
       </vedette>
@@ -1455,7 +1456,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Gildwiller</localisation>.</definition>
    </article>
-   <article id="DT68-00144" pg="5">
+   <article type="commune" id="DT68-00144" pg="5">
       <vedette>
          <sm>Ammerschwihr,</sm>
       </vedette>
@@ -1510,7 +1511,7 @@
       </commentaire>
       <insee>68005</insee>
    </article>
-   <article id="DT68-00145" pg="6">
+   <article type="commune" id="DT68-00145" pg="6">
       <vedette>
          <sm>Ammertzwiller,</sm>
       </vedette>
@@ -1647,7 +1648,7 @@
       <forme_ancienne>- <i>Angkhers graben</i> 
          <reference>(terr. de Massevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00160" pg="6">
+   <article type="commune" id="DT68-00160" pg="6">
       <vedette>
          <sm>Andelnans,</sm>
       </vedette>
@@ -1719,7 +1720,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Vögtlinshofen</localisation>, en <date>1488</date> (urb. de Marbach).</definition>
    </article>
-   <article id="DT68-00167" pg="6">
+   <article type="commune" id="DT68-00167" pg="6">
       <vedette>
          <sm>Andolsheim,</sm>
       </vedette>
@@ -1749,7 +1750,7 @@
       </commentaire>
       <insee>68007</insee>
    </article>
-   <article id="DT68-00168" pg="6">
+   <article type="commune" id="DT68-00168" pg="6">
       <vedette>
          <sm>Angeot,</sm> en allemand <sm>Engelsod</sm> ou mieux <sm>Ingelsod,</sm>
       </vedette>
@@ -1837,7 +1838,7 @@
       <definition>
          <typologie>montagne</typologie>, <localisation>entre Étueffont-Bas, Étueffont-Haut et Petit-Magny</localisation>.</definition>
    </article>
-   <article id="DT68-00173" pg="7">
+   <article type="commune" id="DT68-00173" pg="7">
       <vedette>
          <sm>Anjoutey,</sm>
       </vedette>
@@ -1943,7 +1944,7 @@
          <date>1453</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00183" pg="7">
+   <article type="commune" id="DT68-00183" pg="7">
       <vedette>
          <sm>Appenwihr,</sm>
       </vedette>
@@ -2059,7 +2060,7 @@
          <p>- On place généralement cette ville à Horbourg ; cependant Walckenaer l'a placée à Artzenheim (Géogr. des Gaules, I, 323), et M. Coste a établi, en dernier lieu, qu'elle était située près de Grussenheim (Revue d'Als. de 1862, p. 245).</p>
       </commentaire>
    </article>
-   <article id="DT68-00195" pg="7">
+   <article type="commune" id="DT68-00195" pg="7">
       <vedette>
          <sm>Argiésans,</sm>
       </vedette>
@@ -2144,7 +2145,7 @@
       <forme_ancienne>- <i>Bois d'Arseau</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00202" pg="7">
+   <article type="commune" id="DT68-00202" pg="7">
       <vedette>
          <sm>Artzenheim,</sm>
       </vedette>
@@ -2181,7 +2182,7 @@
          <p>- On y reçoit de jeunes orphelins et des enfants pauvres.</p>
       </commentaire>
    </article>
-   <article id="DT68-00205" pg="7">
+   <article type="commune" id="DT68-00205" pg="7">
       <vedette>
          <sm>Aspach,</sm>
       </vedette>
@@ -2220,7 +2221,7 @@
       <definition>
          <typologie>ruisseau et ferme</typologie> à <localisation>Wintzenheim</localisation>.</definition>
    </article>
-   <article id="DT68-00208" pg="8">
+   <article type="commune" id="DT68-00208" pg="8">
       <vedette>
          <sm>Aspach-le-Bas</sm> ou <sm>Niederaspach,</sm>
       </vedette>
@@ -2243,7 +2244,7 @@
       </commentaire>
       <insee>68011</insee>
    </article>
-   <article id="DT68-00209" pg="8">
+   <article type="commune" id="DT68-00209" pg="8">
       <vedette>
          <sm>Aspach-le-Haut</sm> ou <sm>Oberaspach,</sm>
       </vedette>
@@ -2351,7 +2352,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00217" pg="8">
+   <article type="commune" id="DT68-00217" pg="8">
       <vedette>
          <sm>Attenschwiller,</sm>
       </vedette>
@@ -2439,7 +2440,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune d'Oberhergheim</localisation>.</definition>
    </article>
-   <article id="DT68-00224" pg="8">
+   <article type="commune" id="DT68-00224" pg="8">
       <vedette>
          <sm>Aubure,</sm> en allemand <sm>Altwihr,</sm>
       </vedette>
@@ -2632,7 +2633,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00244" pg="9">
+   <article type="commune" id="DT68-00244" pg="9">
       <vedette>
          <sm>Auxelles-Bas,</sm> en allemand <sm>Nieder-Assel,</sm>
       </vedette>
@@ -2654,7 +2655,7 @@
       </commentaire>
       <insee>90005</insee>
    </article>
-   <article id="DT68-00245" pg="9">
+   <article type="commune" id="DT68-00245" pg="9">
       <vedette>
          <sm>Auxelles-Haut,</sm> en allemand <sm>Ober-Assel,</sm>
       </vedette>
@@ -2937,7 +2938,7 @@
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Lièpvre</localisation>, affluent du ruisseau des Prés-Mont.</definition>
    </article>
-   <article id="DT68-00279" pg="9">
+   <article type="commune" id="DT68-00279" pg="9">
       <vedette>
          <sm>Baldersheim,</sm>
       </vedette>
@@ -2974,7 +2975,7 @@
                <sup>e</sup> siècle</date>, le décanat du Sundgau fut partagé en deux, dont l'un conserva le nom de <i>Sundgau</i> et dont l'autre fut appelé <i>décanat de Massevaux</i> (<renvoi>voir ces mots</renvoi>). En <date>1779</date>, il fut encore détaché vingt-neuf paroisses du décanat du Sundgau, qui formèrent un décanat particulier, séparé du diocèse de Bâle et réuni à celui de Besançon (<renvoi>voir ce mot</renvoi>).</p>
       </commentaire>
    </article>
-   <article id="DT68-00281" pg="10">
+   <article type="commune" id="DT68-00281" pg="10">
       <vedette>
          <sm>Balgau,</sm>
       </vedette>
@@ -3009,7 +3010,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation> et ruisseau affluent du Grand-Rombach.</definition>
    </article>
-   <article id="DT68-00283" pg="10">
+   <article type="commune" id="DT68-00283" pg="10">
       <vedette>
          <sm>Ballersdorf,</sm> en franç. <sm>Baudricourt,</sm>
       </vedette>
@@ -3117,7 +3118,7 @@
       <definition>
          <typologie>forêt</typologie>, <localisation>commune d'Ellbach</localisation>.</definition>
    </article>
-   <article id="DT68-00294" pg="10">
+   <article type="commune" id="DT68-00294" pg="10">
       <vedette>
          <sm>Balschwiller,</sm>
       </vedette>
@@ -3173,7 +3174,7 @@
       </vedette>
       <definition>en <date>1394</date> (cart. Murb.), <typologie>ruisseau</typologie> à <localisation>Guebwiller</localisation>.</definition>
    </article>
-   <article id="DT68-00297" pg="10">
+   <article type="commune" id="DT68-00297" pg="10">
       <vedette>
          <sm>Baltzenheim,</sm>
       </vedette>
@@ -3296,7 +3297,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Dietwiller</localisation>.</definition>
    </article>
-   <article id="DT68-00310" pg="10">
+   <article type="commune" id="DT68-00310" pg="10">
       <vedette>
          <sm>Bantzenheim,</sm>
       </vedette>
@@ -3314,7 +3315,7 @@
       </commentaire>
       <insee>68020</insee>
    </article>
-   <article id="DT68-00311" pg="11">
+   <article type="commune" id="DT68-00311" pg="11">
       <vedette>
          <sm>Banvillars,</sm>
       </vedette>
@@ -3569,7 +3570,7 @@
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Biederthal</localisation>.</definition>
    </article>
-   <article id="DT68-00339" pg="11">
+   <article type="commune" id="DT68-00339" pg="11">
       <vedette>
          <sm>Baroche (La),</sm> en allemand <sm>Zell,</sm>
       </vedette>
@@ -3662,7 +3663,7 @@
          <date>1550</date> 
          <reference>(urb. de S<sup>t</sup>-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00349" pg="11">
+   <article type="commune" id="DT68-00349" pg="11">
       <vedette>
          <sm>Bartenheim,</sm>
       </vedette>
@@ -3833,7 +3834,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bitschwiller</localisation>.</definition>
    </article>
-   <article id="DT68-00369" pg="12">
+   <article type="commune" id="DT68-00369" pg="12">
       <vedette>
          <sm>Battenheim,</sm>
       </vedette>
@@ -3965,7 +3966,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Étueffont-Bas</localisation>.</definition>
    </article>
-   <article id="DT68-00380" pg="12">
+   <article type="commune" id="DT68-00380" pg="12">
       <vedette>
          <sm>Bavilliers,</sm>
       </vedette>
@@ -4028,7 +4029,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Sévenans</localisation>.</definition>
    </article>
-   <article id="DT68-00386" pg="12">
+   <article type="commune" id="DT68-00386" pg="12">
       <vedette>
          <sm>Beaucourt,</sm>
       </vedette>
@@ -4072,7 +4073,7 @@
          <date>1441</date> 
          <reference>(urb. de Ribeaupierre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00390" pg="12">
+   <article type="commune" id="DT68-00390" pg="12">
       <vedette>
          <sm>Beblenheim,</sm>
       </vedette>
@@ -4322,7 +4323,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Michelbach-le-Haut</localisation>.</definition>
    </article>
-   <article id="DT68-00416" pg="13">
+   <article type="commune" id="DT68-00416" pg="13">
       <vedette>
          <sm>Belfort,</sm>
       </vedette>
@@ -4420,7 +4421,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de la Chapelle-sous-Chaux</localisation>.</definition>
    </article>
-   <article id="DT68-00424" pg="13">
+   <article type="commune" id="DT68-00424" pg="13">
       <vedette>
          <sm>Belmagny,</sm> en allem. <sm>Bernetzwiller,</sm>
       </vedette>
@@ -4506,7 +4507,7 @@
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Frais</localisation>.</definition>
    </article>
-   <article id="DT68-00432" pg="13">
+   <article type="commune" id="DT68-00432" pg="13">
       <vedette>
          <sm>Bendorf,</sm>
       </vedette>
@@ -4557,7 +4558,7 @@
       <definition>
          <typologie>ruisseau</typologie> à <localisation>Illhäusern</localisation>.</definition>
    </article>
-   <article id="DT68-00437" pg="14">
+   <article type="commune" id="DT68-00437" pg="14">
       <vedette>
          <sm>Bennwihr,</sm>
       </vedette>
@@ -4622,7 +4623,7 @@
       <definition>
          <typologie>chemins</typologie>, <localisation>commune de Battenheim</localisation>.</definition>
    </article>
-   <article id="DT68-00443" pg="14">
+   <article type="commune" id="DT68-00443" pg="14">
       <vedette>
          <sm>Berentzwiller,</sm>
       </vedette>
@@ -4691,7 +4692,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00450" pg="14">
+   <article type="commune" id="DT68-00450" pg="14">
       <vedette>
          <sm>Bergheim</sm> ou <sm>Oberbergheim,</sm>
       </vedette>
@@ -4730,7 +4731,7 @@
       </commentaire>
       <insee>68028</insee>
    </article>
-   <article id="DT68-00451" pg="14">
+   <article type="commune" id="DT68-00451" pg="14">
       <vedette>
          <sm>Bergholtz,</sm>
       </vedette>
@@ -4757,7 +4758,7 @@
          <reference>(Als. dipl. II, 389)</reference>.</forme_ancienne>
       <insee>68029</insee>
    </article>
-   <article id="DT68-00452" pg="14">
+   <article type="commune" id="DT68-00452" pg="14">
       <vedette>
          <sm>Bergholtz-Zell,</sm>
       </vedette>
@@ -4820,7 +4821,7 @@
          <date>1655</date> 
          <reference>(cens. du chap. de Belfort)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00458" pg="14">
+   <article type="commune" id="DT68-00458" pg="14">
       <vedette>
          <sm>Bermont,</sm>
       </vedette>
@@ -4881,7 +4882,7 @@
          <p>- Ce nom se trouve cité dans l'indication des confins de la Hart, dans l'ordre suivant : Ruescheim, Ruhunlewa, Berinhuson, Müetersheim. Ruescheim étant Ruestenhart et Ruhunlewa étant Roggenhausen, Berinhuson doit être Münckhausen.</p>
       </commentaire>
    </article>
-   <article id="DT68-00463" pg="14">
+   <article type="commune" id="DT68-00463" pg="14">
       <vedette>
          <sm>Bernwiller,</sm>
       </vedette>
@@ -4898,7 +4899,7 @@
       </commentaire>
       <insee>68031</insee>
    </article>
-   <article id="DT68-00464" pg="14">
+   <article type="commune" id="DT68-00464" pg="14">
       <vedette>
          <sm>Berrwiller,</sm>
       </vedette>
@@ -5000,7 +5001,7 @@
       <definition>
          <date>1567</date>, à <localisation>Dolleren</localisation> (terrier de Massevaux).</definition>
    </article>
-   <article id="DT68-00474" pg="15">
+   <article type="commune" id="DT68-00474" pg="15">
       <vedette>
          <sm>Bessoncourt,</sm> en allem. <sm>Bischingen</sm> ou <sm>Büssingen,</sm>
       </vedette>
@@ -5056,7 +5057,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Orbey</localisation>.</definition>
    </article>
-   <article id="DT68-00479" pg="15">
+   <article type="commune" id="DT68-00479" pg="15">
       <vedette>
          <sm>Bethonvilliers,</sm> en allem. <sm>Bettwiller,</sm>
       </vedette>
@@ -5135,7 +5136,7 @@
       <definition>
          <typologie>colline</typologie>, <localisation>commune de Linsdorf</localisation>.</definition>
    </article>
-   <article id="DT68-00487" pg="15">
+   <article type="commune" id="DT68-00487" pg="15">
       <vedette>
          <sm>Bettendorf,</sm>
       </vedette>
@@ -5161,7 +5162,7 @@
       <definition>
          <typologie>vallon</typologie> appelé <sm>Krachen</sm> dans la langue du pays, <localisation>commune d'Oberlarg</localisation>.</definition>
    </article>
-   <article id="DT68-00489" pg="15">
+   <article type="commune" id="DT68-00489" pg="15">
       <vedette>
          <sm>Bettlach,</sm>
       </vedette>
@@ -5323,7 +5324,7 @@
       <forme_ancienne>- <i>Le Bile</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00505" pg="15">
+   <article type="commune" id="DT68-00505" pg="15">
       <vedette>
          <sm>Biederthal,</sm>
       </vedette>
@@ -5425,7 +5426,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Biesheim</localisation>.</definition>
    </article>
-   <article id="DT68-00515" pg="16">
+   <article type="commune" id="DT68-00515" pg="16">
       <vedette>
          <sm>Biesheim,</sm>
       </vedette>
@@ -5728,7 +5729,7 @@
       <definition>
          <typologie>vallon</typologie>, <localisation>communes de Riquewihr et de Ribeauvillé</localisation>.</definition>
    </article>
-   <article id="DT68-00540" pg="17">
+   <article type="commune" id="DT68-00540" pg="17">
       <vedette>
          <sm>Biltzheim,</sm>
       </vedette>
@@ -6039,7 +6040,7 @@
          <date>1422</date> 
          <reference>(rôle de Turckheim)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00569" pg="17">
+   <article type="commune" id="DT68-00569" pg="17">
       <vedette>
          <sm>Bischwihr,</sm>
       </vedette>
@@ -6059,7 +6060,7 @@
       </commentaire>
       <insee>68038</insee>
    </article>
-   <article id="DT68-00570" pg="17">
+   <article type="commune" id="DT68-00570" pg="17">
       <vedette>
          <sm>Bisel,</sm> en franç. <sm>Becheul,</sm>
       </vedette>
@@ -6130,7 +6131,7 @@
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Obermuespach</localisation>.</definition>
    </article>
-   <article id="DT68-00576" pg="18">
+   <article type="commune" id="DT68-00576" pg="18">
       <vedette>
          <sm>Bitschwiller,</sm>
       </vedette>
@@ -6767,7 +6768,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
             <sup>e</sup> siècle</date> 
          <reference>(Mülhaus. Gesch. 124)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00639" pg="19">
+   <article type="commune" id="DT68-00639" pg="19">
       <vedette>
          <sm>Blodelsheim,</sm>
       </vedette>
@@ -6835,7 +6836,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <date>1550</date>, à <localisation>Hüssern</localisation> (urb. de S<sup>t</sup>-Amarin).</definition>
    </article>
-   <article id="DT68-00644" pg="19">
+   <article type="commune" id="DT68-00644" pg="19">
       <vedette>
          <sm>Blotzheim,</sm>
       </vedette>
@@ -7505,7 +7506,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <date>1567</date> 
          <reference>(terr. de Massevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00714" pg="21">
+   <article type="commune" id="DT68-00714" pg="21">
       <vedette>
          <sm>Bollwiller,</sm>
       </vedette>
@@ -7595,7 +7596,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> des <localisation>territoires de Burnhaupt-le-Bas et de Burnhaupt-le-Haut</localisation>.</definition>
    </article>
-   <article id="DT68-00722" pg="21">
+   <article type="commune" id="DT68-00722" pg="21">
       <vedette>
          <sm>Bonhomme (Le),</sm>
       </vedette>
@@ -7763,7 +7764,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Saint-Hippolyte</localisation>.</definition>
    </article>
-   <article id="DT68-00738" pg="21">
+   <article type="commune" id="DT68-00738" pg="21">
       <vedette>
          <sm>Boron,</sm>
       </vedette>
@@ -7866,7 +7867,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Andolsheim</localisation>.</definition>
    </article>
-   <article id="DT68-00748" pg="22">
+   <article type="commune" id="DT68-00748" pg="22">
       <vedette>
          <sm>Botans,</sm>
       </vedette>
@@ -7994,7 +7995,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <forme_ancienne>- <i>Cense des Bourdons</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00763" pg="22">
+   <article type="commune" id="DT68-00763" pg="22">
       <vedette>
          <sm>Bourg,</sm>
       </vedette>
@@ -8005,7 +8006,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>90016</insee>
    </article>
-   <article id="DT68-00764" pg="22">
+   <article type="commune" id="DT68-00764" pg="22">
       <vedette>
          <sm>Bourgfelden,</sm>
       </vedette>
@@ -8035,7 +8036,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Vézelois</localisation>.</definition>
    </article>
-   <article id="DT68-00767" pg="22">
+   <article type="commune" id="DT68-00767" pg="22">
       <vedette>
          <sm>Bourogne,</sm> en allemand <sm>Boringen</sm> ou <sm>Böll,</sm>
       </vedette>
@@ -8111,7 +8112,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00774" pg="22">
+   <article type="commune" id="DT68-00774" pg="22">
       <vedette>
          <sm>Bouxwiller,</sm>
       </vedette>
@@ -8435,7 +8436,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Breitenbach</localisation>, affluent du Thannbächle.</definition>
    </article>
-   <article id="DT68-00807" pg="23">
+   <article type="commune" id="DT68-00807" pg="23">
       <vedette>
          <sm>Brebotte,</sm> en allemand <sm>Bruderbach,</sm>
       </vedette>
@@ -8462,7 +8463,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Réchésy</localisation>.</definition>
    </article>
-   <article id="DT68-00809" pg="23">
+   <article type="commune" id="DT68-00809" pg="23">
       <vedette>
          <sm>Bréchaumont,</sm> en allemand <sm>Brückenswiller,</sm>
       </vedette>
@@ -8541,7 +8542,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Courtavon</localisation>.</definition>
    </article>
-   <article id="DT68-00817" pg="23">
+   <article type="commune" id="DT68-00817" pg="23">
       <vedette>
          <sm>Breitenbach,</sm>
       </vedette>
@@ -8927,7 +8928,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <forme_ancienne>- <i>Presteneck</i> 
          <reference>(Als. ill. IV, 200)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00862" pg="24">
+   <article type="commune" id="DT68-00862" pg="24">
       <vedette>
          <sm>Bretagne,</sm> en allemand <sm>Brett,</sm>
       </vedette>
@@ -8957,9 +8958,8 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Willer (canton de Thann)</localisation>.</definition>
-      <insee/>
    </article>
-   <article id="DT68-00865" pg="24">
+   <article type="commune" id="DT68-00865" pg="24">
       <vedette>
          <sm>Bretten,</sm>
       </vedette>
@@ -9152,7 +9152,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation>, affluent de la Goutte-Sainte-Catherine.</definition>
    </article>
-   <article id="DT68-00881" pg="24">
+   <article type="commune" id="DT68-00881" pg="24">
       <vedette>
          <sm>Brinckheim,</sm>
       </vedette>
@@ -9179,7 +9179,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>68054</insee>
    </article>
-   <article id="DT68-00882" pg="24">
+   <article type="commune" id="DT68-00882" pg="24">
       <vedette>
          <sm>Brinighofen,</sm>
       </vedette>
@@ -9570,7 +9570,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Courtavon</localisation>.</definition>
    </article>
-   <article id="DT68-00927" pg="25">
+   <article type="commune" id="DT68-00927" pg="25">
       <vedette>
          <sm>Bruebach,</sm>
       </vedette>
@@ -9743,7 +9743,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <date>1565</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00942" pg="26">
+   <article type="commune" id="DT68-00942" pg="26">
       <vedette>
          <sm>Buc,</sm>
       </vedette>
@@ -9909,7 +9909,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Seppois-le-Haut</localisation>.</definition>
    </article>
-   <article id="DT68-00960" pg="26">
+   <article type="commune" id="DT68-00960" pg="26">
       <vedette>
          <sm>Buetwiller,</sm>
       </vedette>
@@ -9942,7 +9942,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-00962" pg="26">
+   <article type="commune" id="DT68-00962" pg="26">
       <vedette>
          <sm>Bühl,</sm>
       </vedette>
@@ -10051,7 +10051,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ruisseau</typologie> venant du <localisation>Rothenbrand</localisation> et se jetant dans la Dollern après avoir traversé les <localisation>deux villages de Burbach</localisation>.</definition>
    </article>
-   <article id="DT68-00971" pg="26">
+   <article type="commune" id="DT68-00971" pg="26">
       <vedette>
          <sm>Burbach-le-Bas,</sm> en all. <sm>Niederburbach,</sm>
       </vedette>
@@ -10068,7 +10068,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>68045</insee>
    </article>
-   <article id="DT68-00972" pg="26">
+   <article type="commune" id="DT68-00972" pg="26">
       <vedette>
          <sm>Burbach-le-Haut,</sm> en allemand <sm>Oberburbach,</sm>
       </vedette>
@@ -10232,7 +10232,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <date>1548</date> 
          <reference>(urb. de l'hôp. de Mulh.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-00985" pg="27">
+   <article type="commune" id="DT68-00985" pg="27">
       <vedette>
          <sm>Burnhaupt-le-Bas,</sm> en allemand <sm>Nieder-Burnhaupt,</sm> en patois <sm>Es-Benotte,</sm>
       </vedette>
@@ -10261,7 +10261,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <reference>(urb. des pays d'Autr.)</reference>.</forme_ancienne>
       <insee>68059</insee>
    </article>
-   <article id="DT68-00986" pg="27">
+   <article type="commune" id="DT68-00986" pg="27">
       <vedette>
          <sm>Burnhaupt-le-Haut,</sm> en allemand <sm>Ober-Burnhaupt,</sm>
       </vedette>
@@ -10338,7 +10338,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Ungersheim</localisation>.</definition>
    </article>
-   <article id="DT68-00993" pg="27">
+   <article type="commune" id="DT68-00993" pg="27">
       <vedette>
          <sm>Buschwiller,</sm>
       </vedette>
@@ -10693,10 +10693,13 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
    </article>
    <article id="DT68-01029" pg="28">
       <vedette>
-         <sm>Carlishausen</sm> 
-         <reference>(Armor. d'Alsace, p. 277)</reference>,</vedette>
+         <sm>Carlishausen,</sm> 
+      </vedette>
       <definition>situé probablement <localisation>non loin de Biss</localisation>, sur le <i>Karlisweg.</i>
       </definition>
+      <forme_ancienne>
+         <i>Carlishausen</i> 
+         <reference>(Armor. d'Alsace, p. 277)</reference>.</forme_ancienne>
       <commentaire>
          <p>
             <renvoi>- Voy. <sm>Bilgerweg.</sm>
@@ -10711,7 +10714,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Riedisheim</localisation>.</definition>
    </article>
-   <article id="DT68-01031" pg="28">
+   <article type="commune" id="DT68-01031" pg="28">
       <vedette>
          <sm>Carspach,</sm>
       </vedette>
@@ -10855,7 +10858,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Dorans et d'Offemont</localisation>.</definition>
    </article>
-   <article id="DT68-01045" pg="29">
+   <article type="commune" id="DT68-01045" pg="29">
       <vedette>
          <sm>Cernay,</sm> en allemand <sm>Sennheim,</sm>
       </vedette>
@@ -10918,7 +10921,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <forme_ancienne>- <i>La ferme Chatemberg</i> 
          <reference>(tabl. des dist.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01048" pg="29">
+   <article type="commune" id="DT68-01048" pg="29">
       <vedette>
          <sm>Chalampé,</sm>
       </vedette>
@@ -11246,7 +11249,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Baroche</localisation>.</definition>
    </article>
-   <article id="DT68-01087" pg="29">
+   <article type="commune" id="DT68-01087" pg="29">
       <vedette>
          <sm>Chapelle-sous-Chaux (La),</sm> en allemand <sm>Cappeltscha,</sm>
       </vedette>
@@ -11260,7 +11263,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>90057</insee>
    </article>
-   <article id="DT68-01088" pg="29">
+   <article type="commune" id="DT68-01088" pg="29">
       <vedette>
          <sm>Chapelle-sous-Rougemont (La),</sm> en allemand <sm>Welschen Kappelen,</sm>
       </vedette>
@@ -11390,7 +11393,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune d'Éloye</localisation>.</definition>
    </article>
-   <article id="DT68-01102" pg="30">
+   <article type="commune" id="DT68-01102" pg="30">
       <vedette>
          <sm>Charmois,</sm> en allemand <sm>Zarmwiller,</sm>
       </vedette>
@@ -11523,7 +11526,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Trétudans</localisation>.</definition>
    </article>
-   <article id="DT68-01116" pg="30">
+   <article type="commune" id="DT68-01116" pg="30">
       <vedette>
          <sm>Châtenois,</sm> en allemand <sm>Kestenholtz,</sm>
       </vedette>
@@ -11672,7 +11675,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>hameau</typologie>, <localisation>commune du Puix</localisation>, <localisation>canton de Giromagny</localisation>.</definition>
    </article>
-   <article id="DT68-01132" pg="30">
+   <article type="commune" id="DT68-01132" pg="30">
       <vedette>
          <sm>Chaux,</sm> en allemand <sm>Tscha,</sm>
       </vedette>
@@ -11707,7 +11710,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-01134" pg="30">
+   <article type="commune" id="DT68-01134" pg="30">
       <vedette>
          <sm>Chavanatte,</sm> en allemand <sm>Klein-Schaffnat,</sm>
       </vedette>
@@ -11733,7 +11736,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Trétudans</localisation>.</definition>
    </article>
-   <article id="DT68-01136" pg="31">
+   <article type="commune" id="DT68-01136" pg="31">
       <vedette>
          <sm>Chavannes-les-Grands,</sm> en allemand <sm>Gross-Schaffnat,</sm>
       </vedette>
@@ -11761,7 +11764,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>90025</insee>
    </article>
-   <article id="DT68-01137" pg="31">
+   <article type="commune" id="DT68-01137" pg="31">
       <vedette>
          <sm>Chavannes-sur-l'Étang,</sm> en allemand <sm>Schaffnat am Weyer,</sm>
       </vedette>
@@ -11950,7 +11953,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <forme_ancienne>- <i>Chivregoutte</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01157" pg="31">
+   <article type="commune" id="DT68-01157" pg="31">
       <vedette>
          <sm>Chèvremont,</sm> en allemand <sm>Geisenberg,</sm>
       </vedette>
@@ -12377,7 +12380,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <p>- Les localités incorporées dans ce décanat sont : Alschwiller, Baldersheim, Battenheim, Bergholtz, Berrwiller, Cernay, Ensisheim, Feldkirch, Gueberschwihr, Guebwiller, Gundolsheim, Hartmannswiller, Hattstatt, Höwenstein, Isenheim, Jungholtz, Kingersheim, Machtolsheim, Meyenheim, Mittelentzen, Munwiller, Niederentzen, Oberentzen, Orschwihr, Ossenbach, Ostein, Pfaffenheim, Pulversheim, Rädersheim, Reguisheim, Rouffach, Ruelisheim, Sausheim, Schauenberg, Soultz, Soultzmatt, Staffelfelden, Steinbach, Suntheim, Uffholtz, Ungersheim, Vögtlinshofen, Wattwiller, Westhalten, Wintzfelden, Wittenheim et Wuenheim.</p>
       </commentaire>
    </article>
-   <article id="DT68-01201" pg="32">
+   <article type="commune" id="DT68-01201" pg="32">
       <vedette>
          <sm>Collonge (La),</sm>
       </vedette>
@@ -12391,7 +12394,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       </commentaire>
       <insee>90059</insee>
    </article>
-   <article id="DT68-01202" pg="32">
+   <article type="commune" id="DT68-01202" pg="32">
       <vedette>
          <sm>Colmar,</sm>
       </vedette>
@@ -12961,7 +12964,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Saint-Côme</localisation>.</definition>
    </article>
-   <article id="DT68-01249" pg="34">
+   <article type="commune" id="DT68-01249" pg="34">
       <vedette>
          <sm>Courcelles,</sm> en allemand <sm>Kurzell,</sm>
       </vedette>
@@ -13028,7 +13031,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ancien pâturage</typologie>, <localisation>commune de Grandvillars</localisation>.</definition>
    </article>
-   <article id="DT68-01255" pg="34">
+   <article type="commune" id="DT68-01255" pg="34">
       <vedette>
          <sm>Courtavon,</sm> en allemand <sm>Odendorf,</sm>
       </vedette>
@@ -13052,7 +13055,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Moval</localisation>.</definition>
    </article>
-   <article id="DT68-01257" pg="34">
+   <article type="commune" id="DT68-01257" pg="34">
       <vedette>
          <sm>Courtelevant,</sm> en allemand <sm>Hebsdorf,</sm>
       </vedette>
@@ -13161,7 +13164,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <forme_ancienne>- <i>Étang des Craches</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01268" pg="34">
+   <article type="commune" id="DT68-01268" pg="34">
       <vedette>
          <sm>Cravanche,</sm>
       </vedette>
@@ -13371,7 +13374,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires d'Essert et de Roppe</localisation>.</definition>
    </article>
-   <article id="DT68-01291" pg="35">
+   <article type="commune" id="DT68-01291" pg="35">
       <vedette>
          <sm>Croix,</sm>
       </vedette>
@@ -13462,7 +13465,6 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
          <typologie>ancien village cité</typologie>, en <date>1185</date>, avec Ernwiller, au <localisation>canton de Cernay</localisation>.</definition>
       <forme_ancienne>- <i>Quicquid habebant in villa de</i> Culenseym, <i>in grangia que dicitur Anewilre</i> 
          <reference>(parch. de Lucell.)</reference>.</forme_ancienne>
-      <insee/>
    </article>
    <article id="DT68-01301" pg="35">
       <vedette>
@@ -13478,7 +13480,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Fêche-l'Église</localisation>.</definition>
    </article>
-   <article id="DT68-01303" pg="35">
+   <article type="commune" id="DT68-01303" pg="35">
       <vedette>
          <sm>Cunelière,</sm> en allemand <sm>Löffeldorf,</sm>
       </vedette>
@@ -13625,7 +13627,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation>.</definition>
    </article>
-   <article id="DT68-01319" pg="36">
+   <article type="commune" id="DT68-01319" pg="36">
       <vedette>
          <sm>Danjoutin,</sm>
       </vedette>
@@ -13655,7 +13657,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>colline</typologie>, <localisation>commune de Walheim</localisation>.</definition>
    </article>
-   <article id="DT68-01321" pg="36">
+   <article type="commune" id="DT68-01321" pg="36">
       <vedette>
          <sm>Dannemarie,</sm> en allemand <sm>Dammerkirch,</sm>
       </vedette>
@@ -13830,7 +13832,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Oberlarg</localisation>.</definition>
    </article>
-   <article id="DT68-01333" pg="36">
+   <article type="commune" id="DT68-01333" pg="36">
       <vedette>
          <sm>Delle,</sm> jadis <sm>Delle-sur-Joncs,</sm> en allemand <sm>Dattenried,</sm>
       </vedette>
@@ -13964,7 +13966,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Habsheim</localisation>.</definition>
    </article>
-   <article id="DT68-01343" pg="37">
+   <article type="commune" id="DT68-01343" pg="37">
       <vedette>
          <sm>Denney,</sm> en allemand <sm>Düringen,</sm>
       </vedette>
@@ -14044,7 +14046,7 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Grandvillars</localisation>.</definition>
    </article>
-   <article id="DT68-01349" pg="37">
+   <article type="commune" id="DT68-01349" pg="37">
       <vedette>
          <sm>Dessenheim,</sm>
       </vedette>
@@ -14105,11 +14107,12 @@ la Soc. hist. d'Als. III, 209)</reference>.</commentaire>
    </article>
    <article id="DT68-01354" pg="37">
       <vedette>
-         <sm>Didattium,</sm> 
-         <reference>ex <sm>Ptolemæi</sm> geogr. lib. II,
-cap. <sm>ix.</sm>
-         </reference>
+         <sm>Didattium,</sm>
       </vedette>
+      <forme_ancienne>
+         <i>Didattium</i>, <reference>ex <sm>Ptolemæi</sm> geogr. lib. II, cap. <sm>ix.</sm>
+         </reference>
+      </forme_ancienne>
       <commentaire>
          <p>- D'après Tschudi et Guillimann, cette ancienne ville des Séquaniens devrait être cherchée à Thann (Als. ill. I, 99) ; mais rien ne justifie cette opinion. La ville de Delle (<i>Datira, Dadila</i>) semble offrir plus de ressemblance avec le nom de <i>Didattium.</i>
          </p>
@@ -14232,7 +14235,7 @@ cap. <sm>ix.</sm>
          <date>1550</date> 
          <reference>(urb. de Saint-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01364" pg="37">
+   <article type="commune" id="DT68-01364" pg="37">
       <vedette>
          <sm>Dieffmatten,</sm>
       </vedette>
@@ -14404,7 +14407,7 @@ cap. <sm>ix.</sm>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-01380" pg="38">
+   <article type="commune" id="DT68-01380" pg="38">
       <vedette>
          <sm>Dietwiller,</sm>
       </vedette>
@@ -14492,7 +14495,7 @@ cap. <sm>ix.</sm>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-01387" pg="38">
+   <article type="commune" id="DT68-01387" pg="38">
       <vedette>
          <sm>Dirlinsdorf,</sm> en français <sm>Triaucourt,</sm>
       </vedette>
@@ -14599,7 +14602,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>quartier</typologie> à <localisation>Bitschwiller</localisation>.</definition>
    </article>
-   <article id="DT68-01397" pg="38">
+   <article type="commune" id="DT68-01397" pg="38">
       <vedette>
          <sm>Dolleren,</sm>
       </vedette>
@@ -14712,7 +14715,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Cernay</localisation>.</definition>
    </article>
-   <article id="DT68-01407" pg="39">
+   <article type="commune" id="DT68-01407" pg="39">
       <vedette>
          <sm>Dorans,</sm>
       </vedette>
@@ -15088,7 +15091,7 @@ cap. <sm>ix.</sm>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-01448" pg="39">
+   <article type="commune" id="DT68-01448" pg="39">
       <vedette>
          <sm>Dürmenach,</sm>
       </vedette>
@@ -15162,7 +15165,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>colline</typologie>, <localisation>communes de Hochstatt, de Spechbach-le-Haut et de Bernwiller</localisation>.</definition>
    </article>
-   <article id="DT68-01454" pg="40">
+   <article type="commune" id="DT68-01454" pg="40">
       <vedette>
          <sm>Dürrenentzen,</sm>
       </vedette>
@@ -15773,7 +15776,7 @@ cap. <sm>ix.</sm>
          <date>1453</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01516" pg="41">
+   <article type="commune" id="DT68-01516" pg="41">
       <vedette>
          <sm>Eglingen,</sm>
       </vedette>
@@ -15830,7 +15833,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Mörnach</localisation>.</definition>
    </article>
-   <article id="DT68-01522" pg="41">
+   <article type="commune" id="DT68-01522" pg="41">
       <vedette>
          <sm>Eguenigue,</sm> en allemand <sm>Egelingen,</sm>
       </vedette>
@@ -15856,7 +15859,7 @@ cap. <sm>ix.</sm>
       </commentaire>
       <insee>90036</insee>
    </article>
-   <article id="DT68-01523" pg="41">
+   <article type="commune" id="DT68-01523" pg="41">
       <vedette>
          <sm>Eguisheim,</sm>
       </vedette>
@@ -16151,7 +16154,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Riquewihr</localisation>.</definition>
    </article>
-   <article id="DT68-01548" pg="42">
+   <article type="commune" id="DT68-01548" pg="42">
       <vedette>
          <sm>Ellbach,</sm> en français <sm>Erbe,</sm>
       </vedette>
@@ -16249,7 +16252,7 @@ cap. <sm>ix.</sm>
          <date>1460</date> 
          <reference>(rôles de Saint-Morand)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01556" pg="42">
+   <article type="commune" id="DT68-01556" pg="42">
       <vedette>
          <sm>Éloye,</sm>
       </vedette>
@@ -16322,7 +16325,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>colline</typologie>, <localisation>commune de Buschwiller</localisation>.</definition>
    </article>
-   <article id="DT68-01563" pg="43">
+   <article type="commune" id="DT68-01563" pg="43">
       <vedette>
          <sm>Emlingen,</sm>
       </vedette>
@@ -16393,7 +16396,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>chemin</typologie>, <localisation>commune de Dirlinsdorf</localisation>.</definition>
    </article>
-   <article id="DT68-01570" pg="43">
+   <article type="commune" id="DT68-01570" pg="43">
       <vedette>
          <sm>Enderlé,</sm>
       </vedette>
@@ -16627,7 +16630,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Poutroye</localisation>.</definition>
    </article>
-   <article id="DT68-01596" pg="43">
+   <article type="commune" id="DT68-01596" pg="43">
       <vedette>
          <sm>Enschingen,</sm>
       </vedette>
@@ -16652,7 +16655,7 @@ cap. <sm>ix.</sm>
       </commentaire>
       <insee>68081</insee>
    </article>
-   <article id="DT68-01597" pg="43">
+   <article type="commune" id="DT68-01597" pg="43">
       <vedette>
          <sm>Ensisheim,</sm>
       </vedette>
@@ -17256,7 +17259,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Fislis</localisation>.</definition>
    </article>
-   <article id="DT68-01656" pg="45">
+   <article type="commune" id="DT68-01656" pg="45">
       <vedette>
          <sm>Eschbach,</sm>
       </vedette>
@@ -17279,7 +17282,6 @@ cap. <sm>ix.</sm>
       </vedette>
       <definition>
          <typologie>canton</typologie> des <localisation>territoires de Roderen (canton de Ribeauvillé) et de Bergheim</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-01658" pg="45">
       <vedette>
@@ -17350,7 +17352,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>mine de fer</typologie>, <localisation>commune d'Hartmannswiller</localisation>.</definition>
    </article>
-   <article id="DT68-01664" pg="45">
+   <article type="commune" id="DT68-01664" pg="45">
       <vedette>
          <sm>Eschentzwiller,</sm>
       </vedette>
@@ -17601,7 +17603,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Hirtzbach</localisation>.</definition>
    </article>
-   <article id="DT68-01691" pg="46">
+   <article type="commune" id="DT68-01691" pg="46">
       <vedette>
          <sm>Essert,</sm>
       </vedette>
@@ -17748,7 +17750,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de la Chapelle-sous-Chaux</localisation>.</definition>
    </article>
-   <article id="DT68-01706" pg="46">
+   <article type="commune" id="DT68-01706" pg="46">
       <vedette>
          <sm>Éteimbes,</sm> en allemand <sm>Welschen-Steinbach,</sm>
       </vedette>
@@ -17782,7 +17784,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Magstatt-le-Bas</localisation>.</definition>
    </article>
-   <article id="DT68-01709" pg="46">
+   <article type="commune" id="DT68-01709" pg="46">
       <vedette>
          <sm>Étueffont-Bas,</sm> en allemand <sm>Nieder Stauffen,</sm>
       </vedette>
@@ -17816,7 +17818,7 @@ cap. <sm>ix.</sm>
       </commentaire>
       <insee>90041</insee>
    </article>
-   <article id="DT68-01710" pg="46">
+   <article type="commune" id="DT68-01710" pg="46">
       <vedette>
          <sm>Étueffont-Haut,</sm> en allemand <sm>Ober Stauffen,</sm>
       </vedette>
@@ -17892,7 +17894,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>Les Evaux de Christé</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01717" pg="47">
+   <article type="commune" id="DT68-01717" pg="47">
       <vedette>
          <sm>Évette,</sm>
       </vedette>
@@ -18571,7 +18573,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>communes d'Oltingen et de Lutter</localisation>.</definition>
    </article>
-   <article id="DT68-01796" pg="48">
+   <article type="commune" id="DT68-01796" pg="48">
       <vedette>
          <sm>Falckwiller,</sm>
       </vedette>
@@ -18830,7 +18832,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>La Favernos</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01827" pg="49">
+   <article type="commune" id="DT68-01827" pg="49">
       <vedette>
          <sm>Faverois,</sm> en allemand <sm>Faverach,</sm>
       </vedette>
@@ -18885,7 +18887,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Meroux</localisation>.</definition>
    </article>
-   <article id="DT68-01832" pg="49">
+   <article type="commune" id="DT68-01832" pg="49">
       <vedette>
          <sm>Fêche-l'Église,</sm>
       </vedette>
@@ -18991,7 +18993,7 @@ cap. <sm>ix.</sm>
          <date>1548</date> 
          <reference>(urb. de l'hôp. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01839" pg="49">
+   <article type="commune" id="DT68-01839" pg="49">
       <vedette>
          <sm>Feldbach,</sm>
       </vedette>
@@ -19019,7 +19021,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Massevaux</localisation> ; <date>1568</date> (terr. de Massevaux).</definition>
    </article>
-   <article id="DT68-01841" pg="49">
+   <article type="commune" id="DT68-01841" pg="49">
       <vedette>
          <sm>Feldkirch,</sm>
       </vedette>
@@ -19101,7 +19103,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Hirtzbach</localisation>.</definition>
    </article>
-   <article id="DT68-01847" pg="49">
+   <article type="commune" id="DT68-01847" pg="49">
       <vedette>
          <sm>Felleringen,</sm>
       </vedette>
@@ -19124,7 +19126,7 @@ cap. <sm>ix.</sm>
       </commentaire>
       <insee>68089</insee>
    </article>
-   <article id="DT68-01848" pg="49">
+   <article type="commune" id="DT68-01848" pg="49">
       <vedette>
          <sm>Felon,</sm>
       </vedette>
@@ -19278,7 +19280,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Florimont</localisation>.</definition>
    </article>
-   <article id="DT68-01863" pg="50">
+   <article type="commune" id="DT68-01863" pg="50">
       <vedette>
          <sm>Ferrette,</sm> en allemand <sm>Pfirt,</sm>
       </vedette>
@@ -19412,7 +19414,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>Fessen Eck</i> 
          <reference>(anc. cad.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01866" pg="50">
+   <article type="commune" id="DT68-01866" pg="50">
       <vedette>
          <sm>Fessenheim,</sm>
       </vedette>
@@ -19765,7 +19767,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>Fichetal</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01908" pg="51">
+   <article type="commune" id="DT68-01908" pg="51">
       <vedette>
          <sm>Fislis</sm> ou <sm>Fislach,</sm>
       </vedette>
@@ -19819,7 +19821,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Ruederbach</localisation>.</definition>
    </article>
-   <article id="DT68-01913" pg="51">
+   <article type="commune" id="DT68-01913" pg="51">
       <vedette>
          <sm>Flaxlanden,</sm>
       </vedette>
@@ -19962,7 +19964,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Fülleren</localisation>.</definition>
    </article>
-   <article id="DT68-01929" pg="51">
+   <article type="commune" id="DT68-01929" pg="51">
       <vedette>
          <sm>Florimont,</sm> en allemand <sm>Blumenberg,</sm>
       </vedette>
@@ -20080,7 +20082,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>communes de Châtenois</localisation> (<i>la noz du Fol</i>), <localisation>Suarce</localisation> (<i>l'aige du Fol</i>) et <localisation>Montreux-Château</localisation>.</definition>
    </article>
-   <article id="DT68-01940" pg="52">
+   <article type="commune" id="DT68-01940" pg="52">
       <vedette>
          <sm>Folgensbourg,</sm>
       </vedette>
@@ -20197,7 +20199,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Orbey</localisation>.</definition>
    </article>
-   <article id="DT68-01952" pg="52">
+   <article type="commune" id="DT68-01952" pg="52">
       <vedette>
          <sm>Fontaine,</sm> en allemand <sm>Brunn,</sm>
       </vedette>
@@ -20257,7 +20259,7 @@ cap. <sm>ix.</sm>
          <date>1655</date> 
          <reference>(cens. du chap. de Belfort)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-01958" pg="52">
+   <article type="commune" id="DT68-01958" pg="52">
       <vedette>
          <sm>Fontenelle,</sm>
       </vedette>
@@ -20581,7 +20583,7 @@ cap. <sm>ix.</sm>
       <definition>
          <typologie>ruisseau</typologie> venant du <localisation>ban de Carspach</localisation> et se versant dans le canal du Rhône au Rhin à <localisation>Hagenbach</localisation>.</definition>
    </article>
-   <article id="DT68-01997" pg="53">
+   <article type="commune" id="DT68-01997" pg="53">
       <vedette>
          <sm>Fortschwihr,</sm>
       </vedette>
@@ -20823,7 +20825,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Roppe</localisation>.</definition>
    </article>
-   <article id="DT68-02024" pg="53">
+   <article type="commune" id="DT68-02024" pg="53">
       <vedette>
          <sm>Foussemagne,</sm>
       </vedette>
@@ -20852,7 +20854,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>Martinay sur Fraymont</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02026" pg="53">
+   <article type="commune" id="DT68-02026" pg="53">
       <vedette>
          <sm>Frais,</sm>
       </vedette>
@@ -20880,7 +20882,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune d'Argiésans</localisation>.</definition>
    </article>
-   <article id="DT68-02029" pg="53">
+   <article type="commune" id="DT68-02029" pg="53">
       <vedette>
          <sm>Francken,</sm>
       </vedette>
@@ -21134,7 +21136,7 @@ cap. <sm>ix.</sm>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-02056" pg="54">
+   <article type="commune" id="DT68-02056" pg="54">
       <vedette>
          <sm>Fréland,</sm> en allemand <sm>Urbach,</sm>
       </vedette>
@@ -21326,7 +21328,7 @@ cap. <sm>ix.</sm>
          <date>1453</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02073" pg="54">
+   <article type="commune" id="DT68-02073" pg="54">
       <vedette>
          <sm>Friessen,</sm> en français <sm>Frechone,</sm>
       </vedette>
@@ -21428,7 +21430,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Massevaux</localisation>.</definition>
    </article>
-   <article id="DT68-02084" pg="55">
+   <article type="commune" id="DT68-02084" pg="55">
       <vedette>
          <sm>Froide-Fontaine,</sm> en allemand <sm>Kaltenbrunn,</sm>
       </vedette>
@@ -21636,7 +21638,7 @@ cap. <sm>ix.</sm>
       <definition>
          <localisation>commune de Hochstatt</localisation>.</definition>
    </article>
-   <article id="DT68-02103" pg="55">
+   <article type="commune" id="DT68-02103" pg="55">
       <vedette>
          <sm>Fröningen,</sm>
       </vedette>
@@ -21920,7 +21922,7 @@ cap. <sm>ix.</sm>
          <date>1389</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02132" pg="56">
+   <article type="commune" id="DT68-02132" pg="56">
       <vedette>
          <sm>Fülleren,</sm>
       </vedette>
@@ -23344,7 +23346,7 @@ cap. <sm>ix.</sm>
       <forme_ancienne>- <i>Geissrick</i> 
          <reference>(Dépôt de la guerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02296" pg="59">
+   <article type="commune" id="DT68-02296" pg="59">
       <vedette>
          <pg>59</pg>
          <sm>Geishausen,</sm>
@@ -23391,7 +23393,7 @@ cap. <sm>ix.</sm>
          <date>1407</date> 
          <reference>(cens. de la camerene de Munster)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02300" pg="59">
+   <article type="commune" id="DT68-02300" pg="59">
       <vedette>
          <sm>Geispitzen,</sm>
       </vedette>
@@ -23449,7 +23451,7 @@ cap. <sm>ix.</sm>
          <date>1453</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02306" pg="59">
+   <article type="commune" id="DT68-02306" pg="59">
       <vedette>
          <sm>Geiswasser,</sm>
       </vedette>
@@ -24006,7 +24008,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune d'Hochstatt</localisation>.</definition>
    </article>
-   <article id="DT68-02371" pg="60">
+   <article type="commune" id="DT68-02371" pg="60">
       <vedette>
          <sm>Gildwiller,</sm> en français <sm>Haute-Église,</sm>
       </vedette>
@@ -24072,7 +24074,7 @@ de S<sup>t</sup>-Am.).</definition>
       <forme_ancienne>- <i>Girangoutte</i> 
          <reference>(tabl. des dist.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02377" pg="60">
+   <article type="commune" id="DT68-02377" pg="60">
       <vedette>
          <sm>Giromagny,</sm>
       </vedette>
@@ -24500,7 +24502,7 @@ de S<sup>t</sup>-Am.).</definition>
          <date>1569</date> 
          <reference>(terr. de Massevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02423" pg="61">
+   <article type="commune" id="DT68-02423" pg="61">
       <vedette>
          <sm>Goldbach,</sm>
       </vedette>
@@ -24616,7 +24618,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>montagne</typologie>, <localisation>communes de Krüth et d'Oderen</localisation>.</definition>
    </article>
-   <article id="DT68-02435" pg="61">
+   <article type="commune" id="DT68-02435" pg="61">
       <vedette>
          <sm>Gommersdorf,</sm> en français <sm>Gomacourt,</sm>
       </vedette>
@@ -25241,7 +25243,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune de Réchésy</localisation> ; <date>1582</date> (terr. de Saint-Ulrich).</definition>
    </article>
-   <article id="DT68-02516" pg="62">
+   <article type="commune" id="DT68-02516" pg="62">
       <vedette>
          <sm>Grandvillars,</sm> en allemand <sm>Granwiller,</sm>
       </vedette>
@@ -25549,7 +25551,7 @@ de S<sup>t</sup>-Am.).</definition>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-02549" pg="63">
+   <article type="commune" id="DT68-02549" pg="63">
       <vedette>
          <sm>Grentzingen,</sm>
       </vedette>
@@ -25710,7 +25712,7 @@ de S<sup>t</sup>-Am.).</definition>
          <date>1278-1493</date> 
          <reference>(reg. d'Unterlinden)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02566" pg="64">
+   <article type="commune" id="DT68-02566" pg="64">
       <vedette>
          <sm>Griesbach,</sm>
       </vedette>
@@ -25955,7 +25957,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>communes de Dorans et de Moval</localisation>.</definition>
    </article>
-   <article id="DT68-02595" pg="64">
+   <article type="commune" id="DT68-02595" pg="64">
       <vedette>
          <sm>Grosne,</sm> en allemand <sm>Welschen Gruene,</sm>
       </vedette>
@@ -26278,7 +26280,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune de Roderen (canton de Thann)</localisation>.</definition>
    </article>
-   <article id="DT68-02631" pg="65">
+   <article type="commune" id="DT68-02631" pg="65">
       <vedette>
          <sm>Grussenheim,</sm>
       </vedette>
@@ -26405,7 +26407,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Aspach</localisation>.</definition>
    </article>
-   <article id="DT68-02644" pg="65">
+   <article type="commune" id="DT68-02644" pg="65">
       <vedette>
          <sm>Gueberschwihr,</sm>
       </vedette>
@@ -26461,7 +26463,7 @@ de S<sup>t</sup>-Am.).</definition>
       </commentaire>
       <insee>68111</insee>
    </article>
-   <article id="DT68-02645" pg="65">
+   <article type="commune" id="DT68-02645" pg="65">
       <vedette>
          <sm>Guebwiller,</sm>
       </vedette>
@@ -26550,7 +26552,7 @@ de S<sup>t</sup>-Am.).</definition>
          <reference>(Als. dipl. II, 313)</reference>.</forme_ancienne>
       <insee>68112</insee>
    </article>
-   <article id="DT68-02646" pg="66">
+   <article type="commune" id="DT68-02646" pg="66">
       <vedette>
          <sm>Guémar,</sm>
       </vedette>
@@ -26627,7 +26629,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Évette</localisation>.</definition>
    </article>
-   <article id="DT68-02649" pg="66">
+   <article type="commune" id="DT68-02649" pg="66">
       <vedette>
          <sm>Guevenatten,</sm>
       </vedette>
@@ -26649,7 +26651,7 @@ de S<sup>t</sup>-Am.).</definition>
       </commentaire>
       <insee>68114</insee>
    </article>
-   <article id="DT68-02650" pg="66">
+   <article type="commune" id="DT68-02650" pg="66">
       <vedette>
          <sm>Guewenheim,</sm> en français <sm>Geaunay,</sm>
       </vedette>
@@ -26799,7 +26801,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Stosswihr</localisation>.</definition>
    </article>
-   <article id="DT68-02666" pg="66">
+   <article type="commune" id="DT68-02666" pg="66">
       <vedette>
          <sm>Gundolsheim,</sm>
       </vedette>
@@ -26844,7 +26846,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune de Willer (canton de Thann)</localisation>.</definition>
    </article>
-   <article id="DT68-02669" pg="67">
+   <article type="commune" id="DT68-02669" pg="67">
       <vedette>
          <sm>Günspach,</sm>
       </vedette>
@@ -27075,7 +27077,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>canton</typologie> des <localisation>territoires de Largitzen et d'Uberstrass</localisation>.</definition>
    </article>
-   <article id="DT68-02695" pg="67">
+   <article type="commune" id="DT68-02695" pg="67">
       <vedette>
          <sm>Habsheim,</sm>
       </vedette>
@@ -27283,7 +27285,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Bergheim</localisation>.</definition>
    </article>
-   <article id="DT68-02714" pg="68">
+   <article type="commune" id="DT68-02714" pg="68">
       <vedette>
          <sm>Hagenbach,</sm>
       </vedette>
@@ -27354,7 +27356,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>communes de Berentzwiller et de Jettingen</localisation>.</definition>
    </article>
-   <article id="DT68-02719" pg="68">
+   <article type="commune" id="DT68-02719" pg="68">
       <vedette>
          <sm>Hagenthal-le-Bas,</sm> en allemand <sm>Niederhagenthal,</sm>
       </vedette>
@@ -27374,7 +27376,7 @@ de S<sup>t</sup>-Am.).</definition>
       </commentaire>
       <insee>68120</insee>
    </article>
-   <article id="DT68-02720" pg="68">
+   <article type="commune" id="DT68-02720" pg="68">
       <vedette>
          <sm>Hagenthal-le-Haut,</sm> en allemand <sm>Oberhagenthal,</sm>
       </vedette>
@@ -27878,7 +27880,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>ancienne cour franche</typologie> à <localisation>Hattstatt</localisation>.</definition>
    </article>
-   <article id="DT68-02775" pg="69">
+   <article type="commune" id="DT68-02775" pg="69">
       <vedette>
          <sm>Hartmannswiller,</sm>
       </vedette>
@@ -28111,7 +28113,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Hattstatt</localisation>.</definition>
    </article>
-   <article id="DT68-02800" pg="70">
+   <article type="commune" id="DT68-02800" pg="70">
       <vedette>
          <sm>Hattstatt,</sm>
       </vedette>
@@ -28227,7 +28229,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>colline</typologie>, <localisation>commune d'Uberstrass</localisation>.</definition>
    </article>
-   <article id="DT68-02811" pg="70">
+   <article type="commune" id="DT68-02811" pg="70">
       <vedette>
          <sm>Haulenrain,</sm>
       </vedette>
@@ -28299,7 +28301,7 @@ de S<sup>t</sup>-Am.).</definition>
          <date>1581</date> 
          <reference>(Revue d'Als. IX, 504)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02819" pg="70">
+   <article type="commune" id="DT68-02819" pg="70">
       <vedette>
          <sm>Hausgauen,</sm>
       </vedette>
@@ -28745,7 +28747,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>fossé</typologie>, <localisation>commune de Soultz</localisation>.</definition>
    </article>
-   <article id="DT68-02868" pg="71">
+   <article type="commune" id="DT68-02868" pg="71">
       <vedette>
          <sm>Hecken,</sm>
       </vedette>
@@ -28817,7 +28819,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune de Weegscheid</localisation> ; <date>1567</date> (terr. de Massevaux).</definition>
    </article>
-   <article id="DT68-02876" pg="71">
+   <article type="commune" id="DT68-02876" pg="71">
       <vedette>
          <sm>Hegenheim,</sm>
       </vedette>
@@ -29446,7 +29448,7 @@ de S<sup>t</sup>-Am.).</definition>
       <forme_ancienne>- <i>Beblenheid</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02940" pg="72">
+   <article type="commune" id="DT68-02940" pg="72">
       <vedette>
          <sm>Heiteren,</sm>
       </vedette>
@@ -29554,7 +29556,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires d'Hausgauen et d'Heywiller</localisation>.</definition>
    </article>
-   <article id="DT68-02950" pg="73">
+   <article type="commune" id="DT68-02950" pg="73">
       <vedette>
          <sm>Helfrantzkirch,</sm>
       </vedette>
@@ -29777,7 +29779,7 @@ de S<sup>t</sup>-Am.).</definition>
       <forme_ancienne>- <i>Henzelle</i> 
          <reference>(tabl. des dist.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-02974" pg="73">
+   <article type="commune" id="DT68-02974" pg="73">
       <vedette>
          <sm>Henflingen,</sm>
       </vedette>
@@ -29956,7 +29958,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de l'Allemand-Rombach</localisation>.</definition>
    </article>
-   <article id="DT68-02995" pg="73">
+   <article type="commune" id="DT68-02995" pg="73">
       <vedette>
          <sm>Herlisheim,</sm>
       </vedette>
@@ -30640,7 +30642,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <localisation>commune de Thann</localisation>.</definition>
    </article>
-   <article id="DT68-03066" pg="75">
+   <article type="commune" id="DT68-03066" pg="75">
       <vedette>
          <sm>Hesingen,</sm>
       </vedette>
@@ -30707,7 +30709,7 @@ de S<sup>t</sup>-Am.).</definition>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Burnhaupt-le-Bas</localisation>.</definition>
    </article>
-   <article id="DT68-03072" pg="75">
+   <article type="commune" id="DT68-03072" pg="75">
       <vedette>
          <sm>Hettenschlag,</sm>
       </vedette>
@@ -30965,7 +30967,7 @@ rôle, du <date>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Manspach</localisation>.</definition>
    </article>
-   <article id="DT68-03102" pg="76">
+   <article type="commune" id="DT68-03102" pg="76">
       <vedette>
          <sm>Heywiller,</sm>
       </vedette>
@@ -31177,7 +31179,7 @@ rôle, du <date>
          <date>1490</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03124" pg="76">
+   <article type="commune" id="DT68-03124" pg="76">
       <vedette>
          <sm>Hindlingen,</sm> en français <sm>Eintreigne,</sm>
       </vedette>
@@ -31435,7 +31437,7 @@ rôle, du <date>
          <date>1564</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03152" pg="77">
+   <article type="commune" id="DT68-03152" pg="77">
       <vedette>
          <sm>Hirsingen,</sm>
       </vedette>
@@ -31490,7 +31492,7 @@ rôle, du <date>
       <forme_ancienne>- <i>Hirtzmühle</i> 
          <reference>(carte hydr.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03157" pg="77">
+   <article type="commune" id="DT68-03157" pg="77">
       <vedette>
          <sm>Hirtzbach,</sm>
       </vedette>
@@ -31618,7 +31620,7 @@ rôle, du <date>
       <definition>
          <localisation>commune de Schlierbach</localisation>.</definition>
    </article>
-   <article id="DT68-03171" pg="77">
+   <article type="commune" id="DT68-03171" pg="77">
       <vedette>
          <sm>Hirtzfelden,</sm>
       </vedette>
@@ -31819,7 +31821,7 @@ rôle, du <date>
       <forme_ancienne>- <i>Hostaden</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03194" pg="78">
+   <article type="commune" id="DT68-03194" pg="78">
       <vedette>
          <sm>Hochstatt,</sm>
       </vedette>
@@ -32432,7 +32434,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <localisation>communes de Hausgauen, Schwoben et Willer</localisation>.</definition>
    </article>
-   <article id="DT68-03249" pg="79">
+   <article type="commune" id="DT68-03249" pg="79">
       <vedette>
          <sm>Hohroth,</sm>
       </vedette>
@@ -32541,7 +32543,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       </vedette>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Baldersheim, Kaysersberg, Pulversheim et Walbach (canton de Wintzenheim)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-03261" pg="80">
       <vedette>
@@ -32778,7 +32779,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1561</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03290" pg="80">
+   <article type="commune" id="DT68-03290" pg="80">
       <vedette>
          <sm>Holtzwihr,</sm>
       </vedette>
@@ -32804,7 +32805,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       </commentaire>
       <insee>68143</insee>
    </article>
-   <article id="DT68-03291" pg="80">
+   <article type="commune" id="DT68-03291" pg="80">
       <vedette>
          <sm>Homatt,</sm>
       </vedette>
@@ -32830,7 +32831,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          </p>
       </commentaire>
    </article>
-   <article id="DT68-03293" pg="80">
+   <article type="commune" id="DT68-03293" pg="80">
       <vedette>
          <sm>Hombourg,</sm>
       </vedette>
@@ -32900,7 +32901,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Courtavon</localisation>.</definition>
    </article>
-   <article id="DT68-03300" pg="80">
+   <article type="commune" id="DT68-03300" pg="80">
       <vedette>
          <sm>Horbourg,</sm>
       </vedette>
@@ -33160,7 +33161,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <typologie>cantons</typologie> des <localisation>territoires de Bettendorf et de Willer (canton d'Altkirch)</localisation>.</definition>
       <forme_ancienne>- <i>Hospach</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
-      <insee/>
    </article>
    <article id="DT68-03328" pg="81">
       <vedette>
@@ -33215,7 +33215,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation>.</definition>
    </article>
-   <article id="DT68-03334" pg="81">
+   <article type="commune" id="DT68-03334" pg="81">
       <vedette>
          <sm>Housen,</sm>
       </vedette>
@@ -33589,7 +33589,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1278-1493</date> 
          <reference>(reg. d'Unterlinden)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03377" pg="82">
+   <article type="commune" id="DT68-03377" pg="82">
       <vedette>
          <sm>Hunawihr,</sm>
       </vedette>
@@ -33662,7 +33662,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <localisation>commune de Largitzen</localisation>.</definition>
    </article>
-   <article id="DT68-03383" pg="82">
+   <article type="commune" id="DT68-03383" pg="82">
       <vedette>
          <sm>Hundsbach,</sm>
       </vedette>
@@ -34165,7 +34165,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <localisation>c<sup>ne</sup> de Felleringen</localisation>, <date>1550</date> 
          <reference>(urb. de Saint-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03434" pg="83">
+   <article type="commune" id="DT68-03434" pg="83">
       <vedette>
          <sm>Huningue,</sm>
       </vedette>
@@ -34333,7 +34333,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Fessenheim</localisation>.</definition>
    </article>
-   <article id="DT68-03450" pg="84">
+   <article type="commune" id="DT68-03450" pg="84">
       <vedette>
          <sm>Hüsseren,</sm>
       </vedette>
@@ -34377,7 +34377,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <commentaire>
          <p>- Dépendait du baill. de Saint-Amarin.</p>
       </commentaire>
-      <insee/>
    </article>
    <article id="DT68-03452" pg="84">
       <vedette>
@@ -34746,7 +34745,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1412</date> 
          <reference>(reg. Lucell.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03490" pg="85">
+   <article type="commune" id="DT68-03490" pg="85">
       <vedette>
          <sm>Illfurth,</sm>
       </vedette>
@@ -34772,7 +34771,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <reference>(Trouillat, <i>Monum.</i> IV, 168)</reference>.</forme_ancienne>
       <insee>68152</insee>
    </article>
-   <article id="DT68-03491" pg="85">
+   <article type="commune" id="DT68-03491" pg="85">
       <vedette>
          <sm>Illhäusern,</sm>
       </vedette>
@@ -34795,7 +34794,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1436</date> 
          <reference>(abb. de Sainte-Croix)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03493" pg="85">
+   <article type="commune" id="DT68-03493" pg="85">
       <vedette>
          <sm>Illzach,</sm>
       </vedette>
@@ -34962,7 +34961,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Largitzen</localisation>.</definition>
    </article>
-   <article id="DT68-03506" pg="85">
+   <article type="commune" id="DT68-03506" pg="85">
       <vedette>
          <sm>Ingersheim,</sm>
       </vedette>
@@ -35159,7 +35158,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <localisation>commune de Leimbach</localisation>.</definition>
    </article>
-   <article id="DT68-03523" pg="86">
+   <article type="commune" id="DT68-03523" pg="86">
       <vedette>
          <sm>Isenheim,</sm>
       </vedette>
@@ -35457,7 +35456,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <localisation>commune de Sainte-Croix-en-Plaine</localisation>.</definition>
    </article>
-   <article id="DT68-03555" pg="87">
+   <article type="commune" id="DT68-03555" pg="87">
       <vedette>
          <sm>Jebsheim,</sm>
       </vedette>
@@ -35627,7 +35626,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1489</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03572" pg="87">
+   <article type="commune" id="DT68-03572" pg="87">
       <vedette>
          <sm>Jettingen,</sm>
       </vedette>
@@ -35706,7 +35705,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <forme_ancienne>- <i>Janesberg</i> 
          <reference>(Dépôt de la guerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03579" pg="87">
+   <article type="commune" id="DT68-03579" pg="87">
       <vedette>
          <sm>Joncherey,</sm>
       </vedette>
@@ -36153,7 +36152,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       </vedette>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Spechbach-le-Haut, Fislis, Grentzingen, Hegenheim, Walbach (canton de Landser)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-03627" pg="88">
       <vedette>
@@ -36955,7 +36953,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Lucelle</localisation>.</definition>
    </article>
-   <article id="DT68-03721" pg="90">
+   <article type="commune" id="DT68-03721" pg="90">
       <vedette>
          <sm>Kappelen,</sm>
       </vedette>
@@ -37448,7 +37446,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Ammerschwihr</localisation>.</definition>
    </article>
-   <article id="DT68-03776" pg="91">
+   <article type="commune" id="DT68-03776" pg="91">
       <vedette>
          <sm>Katzenthal,</sm>
       </vedette>
@@ -37603,7 +37601,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <localisation>commune de Mertzen</localisation>.</definition>
    </article>
-   <article id="DT68-03791" pg="91">
+   <article type="commune" id="DT68-03791" pg="91">
       <vedette>
          <sm>Kaysersberg,</sm>
       </vedette>
@@ -37850,7 +37848,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1488</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03815" pg="92">
+   <article type="commune" id="DT68-03815" pg="92">
       <vedette>
          <sm>Kembs,</sm>
       </vedette>
@@ -38197,7 +38195,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <forme_ancienne>- <i>Kintzelen feld</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03852" pg="93">
+   <article type="commune" id="DT68-03852" pg="93">
       <vedette>
          <sm>Kientzheim,</sm>
       </vedette>
@@ -38299,7 +38297,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
          <date>1544</date> 
          <reference>(reg. des pres. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-03858" pg="93">
+   <article type="commune" id="DT68-03858" pg="93">
       <vedette>
          <sm>Kiffis,</sm>
       </vedette>
@@ -38385,7 +38383,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       </vedette>
       <definition>
          <typologie>canton</typologie> des <localisation>territoires de Luemschwiller et de Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-03865" pg="93">
       <vedette>
@@ -38581,7 +38578,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Seppois-le-Haut</localisation>.</definition>
    </article>
-   <article id="DT68-03884" pg="94">
+   <article type="commune" id="DT68-03884" pg="94">
       <vedette>
          <sm>Kirchberg,</sm>
       </vedette>
@@ -39452,7 +39449,7 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <definition>
          <typologie>colline</typologie>, <localisation>commune de Flaxlanden</localisation>.</definition>
    </article>
-   <article id="DT68-03988" pg="95">
+   <article type="commune" id="DT68-03988" pg="95">
       <vedette>
          <sm>Knöringen,</sm>
       </vedette>
@@ -39656,7 +39653,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <forme_ancienne>- <i>Kohlhütt,</i> 
          <date>1690</date> 
          <reference>(abb. de Sainte-Croix)</reference>.</forme_ancienne>
-      <insee/>
    </article>
    <article id="DT68-04008" pg="96">
       <vedette>
@@ -39667,7 +39663,6 @@ du village à l'ancienne voie romaine, vers Wentzwiller ; à <localisation>Bisel
       <forme_ancienne>- <i>Charbonnière</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-kohlhutte
 <article id="DT68-04009" pg="96">
       <vedette>
          <sm>Kohlritt</sm> ou <sm>Kohlritti,</sm>
@@ -39869,7 +39864,7 @@ kohlhutte
       <definition>
          <typologie>ancienne gravière</typologie> à <localisation>Sainte-Croix-en-Plaine</localisation>, où furent enterrés les Cosaques tués au combat de 1814.</definition>
    </article>
-   <article id="DT68-04033" pg="96">
+   <article type="commune" id="DT68-04033" pg="96">
       <vedette>
          <sm>Köstlach,</sm>
       </vedette>
@@ -39918,7 +39913,7 @@ kohlhutte
          <date>1414</date> 
          <reference>(rôle d'Oltingen)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04036" pg="96">
+   <article type="commune" id="DT68-04036" pg="96">
       <vedette>
          <sm>Kötzingen,</sm>
       </vedette>
@@ -40654,7 +40649,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie>, <localisation>communes de Wiedensohlen et d'Urschenheim</localisation>.</definition>
    </article>
-   <article id="DT68-04125" pg="98">
+   <article type="commune" id="DT68-04125" pg="98">
       <vedette>
          <sm>Krüth,</sm>
       </vedette>
@@ -40776,7 +40771,7 @@ kohlhutte
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Kuenheim</localisation>.</definition>
    </article>
-   <article id="DT68-04139" pg="98">
+   <article type="commune" id="DT68-04139" pg="98">
       <vedette>
          <sm>Kuenheim,</sm>
       </vedette>
@@ -41004,7 +40999,6 @@ kohlhutte
       </vedette>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Heimersdorf, Knöringen, Steinsultz, Stetten, Wentzwiller, Willer (canton d'Altkirch), Wolschwiller</localisation>, etc.</definition>
-      <insee/>
    </article>
    <article id="DT68-04166" pg="98">
       <vedette>
@@ -41918,7 +41912,7 @@ kohlhutte
       <forme_ancienne>- <i>Landsborn</i> 
          <reference>(Cass.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04272" pg="100">
+   <article type="commune" id="DT68-04272" pg="100">
       <vedette>
          <sm>Landser,</sm>
       </vedette>
@@ -42463,7 +42457,7 @@ kohlhutte
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de la Chapelle-sous-Chaux</localisation>.</definition>
    </article>
-   <article id="DT68-04330" pg="102">
+   <article type="commune" id="DT68-04330" pg="102">
       <vedette>
          <sm>Largitzen,</sm>
       </vedette>
@@ -42807,7 +42801,7 @@ kohlhutte
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Stosswihr</localisation>.</definition>
    </article>
-   <article id="DT68-04362" pg="103">
+   <article type="commune" id="DT68-04362" pg="103">
       <vedette>
          <sm>Lautenbach,</sm>
       </vedette>
@@ -42848,7 +42842,7 @@ kohlhutte
       <definition>
          <localisation>commune d'Oderen</localisation>.</definition>
    </article>
-   <article id="DT68-04364" pg="103">
+   <article type="commune" id="DT68-04364" pg="103">
       <vedette>
          <sm>Lautenbach-Zell,</sm>
       </vedette>
@@ -42874,7 +42868,7 @@ kohlhutte
       </commentaire>
       <insee>68178</insee>
    </article>
-   <article id="DT68-04365" pg="103">
+   <article type="commune" id="DT68-04365" pg="103">
       <vedette>
          <sm>Lauw,</sm>
       </vedette>
@@ -42913,7 +42907,7 @@ kohlhutte
          </p>
       </commentaire>
    </article>
-   <article id="DT68-04367" pg="103">
+   <article type="commune" id="DT68-04367" pg="103">
       <vedette>
          <sm>Lebetain,</sm> en allemand <sm>Liebenthal,</sm>
       </vedette>
@@ -43105,7 +43099,7 @@ kohlhutte
          <date>1568</date> 
          <reference>(terr. de Mass.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04388" pg="103">
+   <article type="commune" id="DT68-04388" pg="103">
       <vedette>
          <sm>Leimbach,</sm>
       </vedette>
@@ -43533,7 +43527,7 @@ kohlhutte
          <p>- Dép. de la grande mairie de l'Assise.</p>
       </commentaire>
    </article>
-   <article id="DT68-04431" pg="104">
+   <article type="commune" id="DT68-04431" pg="104">
       <vedette>
          <sm>Leval,</sm>
       </vedette>
@@ -43547,7 +43541,7 @@ kohlhutte
       </commentaire>
       <insee>90066</insee>
    </article>
-   <article id="DT68-04432" pg="104">
+   <article type="commune" id="DT68-04432" pg="104">
       <vedette>
          <sm>Levoncourt,</sm> en allemand <sm>Lufendorf,</sm>
       </vedette>
@@ -43689,7 +43683,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Metzeral</localisation>, affluent du Kolbenbach.</definition>
    </article>
-   <article id="DT68-04445" pg="105">
+   <article type="commune" id="DT68-04445" pg="105">
       <vedette>
          <sm>Leymen,</sm>
       </vedette>
@@ -43887,7 +43881,7 @@ kohlhutte
          </p>
       </commentaire>
    </article>
-   <article id="DT68-04462" pg="105">
+   <article type="commune" id="DT68-04462" pg="105">
       <vedette>
          <sm>Liebentzwiller,</sm>
       </vedette>
@@ -43942,7 +43936,7 @@ kohlhutte
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Turckheim</localisation>.</definition>
    </article>
-   <article id="DT68-04467" pg="105">
+   <article type="commune" id="DT68-04467" pg="105">
       <vedette>
          <sm>Liebsdorf,</sm> en français <sm>Lebeucourt,</sm>
       </vedette>
@@ -44012,7 +44006,7 @@ kohlhutte
       <definition>
          <localisation>commune de Schlierbach</localisation>.</definition>
    </article>
-   <article id="DT68-04473" pg="106">
+   <article type="commune" id="DT68-04473" pg="106">
       <vedette>
          <sm>Lièpvre,</sm> en allem. <sm>Leberau,</sm>
       </vedette>
@@ -44129,7 +44123,7 @@ kohlhutte
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Lutter</localisation>.</definition>
    </article>
-   <article id="DT68-04481" pg="106">
+   <article type="commune" id="DT68-04481" pg="106">
       <vedette>
          <sm>Ligsdorf,</sm>
       </vedette>
@@ -44372,7 +44366,7 @@ kohlhutte
       <forme_ancienne>- <i>Lingut</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04507" pg="106">
+   <article type="commune" id="DT68-04507" pg="106">
       <vedette>
          <sm>Linsdorf,</sm>
       </vedette>
@@ -44898,7 +44892,7 @@ kohlhutte
          <date>1475</date> 
          <reference>(reg. des domin. de Colmar)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04565" pg="107">
+   <article type="commune" id="DT68-04565" pg="107">
       <vedette>
          <sm>Logelnheim,</sm>
       </vedette>
@@ -45351,7 +45345,7 @@ kohlhutte
          <date>1616</date> 
          <reference>(cens. du chap. de Belfort)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04610" pg="108">
+   <article type="commune" id="DT68-04610" pg="108">
       <vedette>
          <sm>Lucelle,</sm> en allem. <sm>Lützel,</sm>
       </vedette>
@@ -45482,7 +45476,7 @@ kohlhutte
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Biederthal</localisation>.</definition>
    </article>
-   <article id="DT68-04618" pg="109">
+   <article type="commune" id="DT68-04618" pg="109">
       <vedette>
          <sm>Luemschwiller,</sm>
       </vedette>
@@ -45956,7 +45950,7 @@ kohlhutte
          <date>1345</date> 
          <reference>(reg. Lucell.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04669" pg="110">
+   <article type="commune" id="DT68-04669" pg="110">
       <vedette>
          <sm>Lutran,</sm> en allem. <sm>Lutteren,</sm>
       </vedette>
@@ -45984,7 +45978,7 @@ kohlhutte
       </commentaire>
       <insee>68192</insee>
    </article>
-   <article id="DT68-04670" pg="110">
+   <article type="commune" id="DT68-04670" pg="110">
       <vedette>
          <sm>Luttenbach,</sm>
       </vedette>
@@ -46035,7 +46029,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Soultz</localisation>.</definition>
    </article>
-   <article id="DT68-04675" pg="110">
+   <article type="commune" id="DT68-04675" pg="110">
       <vedette>
          <sm>Lutter,</sm>
       </vedette>
@@ -46302,7 +46296,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie>, <localisation>communes de Florimont, Boron et Grosne</localisation>.</definition>
    </article>
-   <article id="DT68-04699" pg="111">
+   <article type="commune" id="DT68-04699" pg="111">
       <vedette>
          <sm>Madeleine (La),</sm>
       </vedette>
@@ -46366,7 +46360,7 @@ kohlhutte
       <definition>
          <localisation>commune de Courtavon</localisation>.</definition>
    </article>
-   <article id="DT68-04706" pg="111">
+   <article type="commune" id="DT68-04706" pg="111">
       <vedette>
          <sm>Magny,</sm> en allemand <sm>Menglatt</sm> ou <sm>Mendelach,</sm>
       </vedette>
@@ -46419,7 +46413,7 @@ kohlhutte
       <forme_ancienne>- <i>Le Magnier</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04709" pg="111">
+   <article type="commune" id="DT68-04709" pg="111">
       <vedette>
          <sm>Magny (Gros-),</sm> en allemand <sm>Gross-Menglatt,</sm>
       </vedette>
@@ -46451,7 +46445,7 @@ kohlhutte
       <forme_ancienne>- <i>La Magnie</i> 
          <reference>(Dépôt de la guerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04711" pg="111">
+   <article type="commune" id="DT68-04711" pg="111">
       <vedette>
          <sm>Magny (Petit-),</sm> en allemand <sm>Klein-Menglatt,</sm>
       </vedette>
@@ -46471,7 +46465,7 @@ kohlhutte
       </commentaire>
       <insee>90079</insee>
    </article>
-   <article id="DT68-04712" pg="111">
+   <article type="commune" id="DT68-04712" pg="111">
       <vedette>
          <sm>Magstatt-le-Bas,</sm> en allemand <sm>Niedermagstatt,</sm>
       </vedette>
@@ -46494,7 +46488,7 @@ kohlhutte
       </commentaire>
       <insee>68197</insee>
    </article>
-   <article id="DT68-04713" pg="111">
+   <article type="commune" id="DT68-04713" pg="111">
       <vedette>
          <sm>Magstatt-le-Haut,</sm> en allemand <sm>Obermagstatt,</sm>
       </vedette>
@@ -46674,7 +46668,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie>, <localisation>communes de Cunelière et de Foussemagne</localisation>.</definition>
    </article>
-   <article id="DT68-04733" pg="112">
+   <article type="commune" id="DT68-04733" pg="112">
       <vedette>
          <sm>Malmerspach,</sm>
       </vedette>
@@ -46930,7 +46924,7 @@ kohlhutte
       <definition>
          <localisation>commune d'Illzach</localisation>.</definition>
    </article>
-   <article id="DT68-04760" pg="112">
+   <article type="commune" id="DT68-04760" pg="112">
       <vedette>
          <sm>Manspach,</sm> en français <sm>Mempe,</sm>
       </vedette>
@@ -47181,7 +47175,6 @@ kohlhutte
       </vedette>
       <definition>
          <localisation>communes de Buschwiller, d'Eglingen, d'Heywiller, de Hochstatt, de Tagolsheim, de Walbach (canton de Landser)</localisation>, etc.</definition>
-      <insee/>
    </article>
    <article id="DT68-04787" pg="113">
       <vedette>
@@ -47437,7 +47430,7 @@ kohlhutte
          <date>1312</date> 
          <reference>(abb. de Sainte-Croix)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04815" pg="114">
+   <article type="commune" id="DT68-04815" pg="114">
       <vedette>
          <pg>114</pg>
          <sm>Massevaux,</sm> en allemand <sm>Masmünster,</sm> grécisé <sm>Masopolis,</sm>
@@ -47980,7 +47973,7 @@ kohlhutte
       <definition>
          <localisation>commune de Willer</localisation>, <date>1550</date> (urb. de Saint-Amarin).</definition>
    </article>
-   <article id="DT68-04874" pg="115">
+   <article type="commune" id="DT68-04874" pg="115">
       <vedette>
          <sm>Menoncourt,</sm> en allemand <sm>Mimingen,</sm>
       </vedette>
@@ -48139,7 +48132,7 @@ kohlhutte
       <definition>
          <localisation>commune de Reppe</localisation>, <date>1581</date> (terr. de Saint-Ulrich).</definition>
    </article>
-   <article id="DT68-04891" pg="115">
+   <article type="commune" id="DT68-04891" pg="115">
       <vedette>
          <sm>Meroux,</sm> en allemand <sm>Mörlingen,</sm>
       </vedette>
@@ -48248,7 +48241,7 @@ kohlhutte
       <definition>
          <localisation>commune de Katzenthal</localisation>.</definition>
    </article>
-   <article id="DT68-04900" pg="115">
+   <article type="commune" id="DT68-04900" pg="115">
       <vedette>
          <sm>Mertzen,</sm> en français <sm>Meurenche,</sm>
       </vedette>
@@ -48379,7 +48372,7 @@ kohlhutte
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Mertzen</localisation>.</definition>
    </article>
-   <article id="DT68-04912" pg="116">
+   <article type="commune" id="DT68-04912" pg="116">
       <vedette>
          <sm>Merxheim,</sm>
       </vedette>
@@ -48414,7 +48407,7 @@ kohlhutte
       </commentaire>
       <insee>68203</insee>
    </article>
-   <article id="DT68-04913" pg="116">
+   <article type="commune" id="DT68-04913" pg="116">
       <vedette>
          <sm>Mésiré,</sm> en allemand <sm>Miserach,</sm>
       </vedette>
@@ -48532,7 +48525,7 @@ kohlhutte
          <date>1589</date> 
          <reference>(<i>Alsatia</i> de 1856-1857, p. 289)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04924" pg="116">
+   <article type="commune" id="DT68-04924" pg="116">
       <vedette>
          <sm>Metzeral,</sm>
       </vedette>
@@ -48674,7 +48667,7 @@ kohlhutte
          <date>1303</date> 
          <reference>(Trouillat, <i>Monum.</i> III, 57)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04939" pg="116">
+   <article type="commune" id="DT68-04939" pg="116">
       <vedette>
          <sm>Meyenheim,</sm>
       </vedette>
@@ -48860,7 +48853,7 @@ kohlhutte
       <forme_ancienne>- <i>S<sup>t</sup> Sébastien</i> 
          <reference>(Cass.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-04957" pg="117">
+   <article type="commune" id="DT68-04957" pg="117">
       <vedette>
          <sm>Michelbach,</sm>
       </vedette>
@@ -48893,7 +48886,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau</typologie> prend sa source à <localisation>Michelbach-le-Haut</localisation> et se réunit à celui de Ranspach pour former l'Altebach.</definition>
    </article>
-   <article id="DT68-04959" pg="117">
+   <article type="commune" id="DT68-04959" pg="117">
       <vedette>
          <sm>Michelbach-le-Bas,</sm> en allemand <sm>Niedermichelbach,</sm>
       </vedette>
@@ -48918,7 +48911,7 @@ kohlhutte
       </commentaire>
       <insee>68207</insee>
    </article>
-   <article id="DT68-04960" pg="117">
+   <article type="commune" id="DT68-04960" pg="117">
       <vedette>
          <sm>Michelbach-le-Haut,</sm> en allemand <sm>Obermichelbach,</sm>
       </vedette>
@@ -49367,7 +49360,7 @@ kohlhutte
       <forme_ancienne>- <i>Gresson le moyen</i> 
          <reference>(Dépôt de la guerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05006" pg="118">
+   <article type="commune" id="DT68-05006" pg="118">
       <vedette>
          <sm>Mittelmuespach,</sm>
       </vedette>
@@ -49413,7 +49406,7 @@ kohlhutte
       <forme_ancienne>- <date>1456</date> 
          <reference>(urb. de la cellenie de Munster)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05010" pg="118">
+   <article type="commune" id="DT68-05010" pg="118">
       <vedette>
          <sm>Mittelwihr,</sm>
       </vedette>
@@ -49493,7 +49486,7 @@ kohlhutte
       <definition>
          <typologie>scierie</typologie>, <localisation>commune de Sewen</localisation>.</definition>
    </article>
-   <article id="DT68-05015" pg="118">
+   <article type="commune" id="DT68-05015" pg="118">
       <vedette>
          <sm>Mitzach,</sm>
       </vedette>
@@ -49641,7 +49634,7 @@ kohlhutte
       <forme_ancienne>- <i>Montlembach</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05027" pg="119">
+   <article type="commune" id="DT68-05027" pg="119">
       <vedette>
          <sm>Mollau,</sm>
       </vedette>
@@ -49771,7 +49764,6 @@ kohlhutte
       </vedette>
       <definition>
          <localisation>canton de Hirtzbach</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-05040" pg="119">
       <vedette>
@@ -49824,7 +49816,7 @@ kohlhutte
       <forme_ancienne>- <i>Les Bullions</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05046" pg="119">
+   <article type="commune" id="DT68-05046" pg="119">
       <vedette>
          <sm>Montbouton,</sm>
       </vedette>
@@ -49933,7 +49925,7 @@ kohlhutte
          <date>1601</date> 
          <reference>(cens. du chap. de Belfort)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05058" pg="119">
+   <article type="commune" id="DT68-05058" pg="119">
       <vedette>
          <sm>Montreux-Château,</sm> en allemand <sm>Münsterol die Burg,</sm>
       </vedette>
@@ -49973,7 +49965,7 @@ kohlhutte
       </commentaire>
       <insee>90071</insee>
    </article>
-   <article id="DT68-05059" pg="120">
+   <article type="commune" id="DT68-05059" pg="120">
       <vedette>
          <sm>Montreux-Jeune,</sm> en allemand <sm>Jung-Münsterol,</sm>
       </vedette>
@@ -49987,7 +49979,7 @@ kohlhutte
       </commentaire>
       <insee>68214</insee>
    </article>
-   <article id="DT68-05060" pg="120">
+   <article type="commune" id="DT68-05060" pg="120">
       <vedette>
          <sm>Montreux-Vieux,</sm> en allemand <sm>Alt-Münsterol,</sm>
       </vedette>
@@ -50056,7 +50048,7 @@ kohlhutte
       <definition>
          <localisation>commune de Dornach</localisation>.</definition>
    </article>
-   <article id="DT68-05066" pg="120">
+   <article type="commune" id="DT68-05066" pg="120">
       <vedette>
          <sm>Moos,</sm>
       </vedette>
@@ -50096,7 +50088,7 @@ kohlhutte
       <definition>
          <typologie>ruisseau et colline</typologie>, <localisation>commune de Magstatt-le-Haut</localisation>.</definition>
    </article>
-   <article id="DT68-05069" pg="120">
+   <article type="commune" id="DT68-05069" pg="120">
       <vedette>
          <sm>Moosch,</sm>
       </vedette>
@@ -50201,7 +50193,7 @@ kohlhutte
       <definition>
          <localisation>commune de Vourvenans</localisation>.</definition>
    </article>
-   <article id="DT68-05079" pg="120">
+   <article type="commune" id="DT68-05079" pg="120">
       <vedette>
          <sm>Mördergrub,</sm>
       </vedette>
@@ -50394,7 +50386,7 @@ kohlhutte
          </p>
       </commentaire>
    </article>
-   <article id="DT68-05099" pg="121">
+   <article type="commune" id="DT68-05099" pg="121">
       <vedette>
          <sm>Mörnach,</sm>
       </vedette>
@@ -50485,7 +50477,7 @@ kohlhutte
          <p>- Le fort Mortier est situé sur le territoire de Volgelsheim. Louis XIV ayant cédé la ville de Vieux-Brisach, par suite du traité de Ryswick, ne conserva que la tête de pont située sur la rive gauche du Rhin et en fit le fort Mortier.</p>
       </commentaire>
    </article>
-   <article id="DT68-05107" pg="121">
+   <article type="commune" id="DT68-05107" pg="121">
       <vedette>
          <sm>Mortzwiller,</sm>
       </vedette>
@@ -50515,7 +50507,7 @@ kohlhutte
       <definition>
          <typologie>colline</typologie>, <localisation>commune de Perouse</localisation>.</definition>
    </article>
-   <article id="DT68-05109" pg="121">
+   <article type="commune" id="DT68-05109" pg="121">
       <vedette>
          <sm>Morvillars,</sm> en allemand <sm>Welsch-Morswiller,</sm>
       </vedette>
@@ -50543,7 +50535,6 @@ kohlhutte
       </vedette>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Berentzwiller, Hausgauen, Heidwiller, Jettingen, Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-05111" pg="121">
       <vedette>
@@ -51338,7 +51329,7 @@ kohlhutte
       <definition>
          <localisation>commune de Chèvremont</localisation>.</definition>
    </article>
-   <article id="DT68-05218" pg="122">
+   <article type="commune" id="DT68-05218" pg="122">
       <vedette>
          <sm>Moval,</sm>
       </vedette>
@@ -51577,7 +51568,7 @@ kohlhutte
       <definition>
          <localisation>commune de Reiningen</localisation>.</definition>
    </article>
-   <article id="DT68-05241" pg="123">
+   <article type="commune" id="DT68-05241" pg="123">
       <vedette>
          <sm>Mühlbach,</sm>
       </vedette>
@@ -51791,7 +51782,7 @@ kohlhutte
          <typologie>f<sup>es</sup>
          </typologie>, <localisation>commune de la Baroche</localisation>.</definition>
    </article>
-   <article id="DT68-05264" pg="124">
+   <article type="commune" id="DT68-05264" pg="124">
       <vedette>
          <sm>Mulhouse,</sm> en allemand <sm>Mülhausen,</sm>
       </vedette>
@@ -52049,7 +52040,7 @@ kohlhutte
       <definition>
          <localisation>commune de Reiningen</localisation>.</definition>
    </article>
-   <article id="DT68-05283" pg="124">
+   <article type="commune" id="DT68-05283" pg="124">
       <vedette>
          <sm>Münckhausen,</sm>
       </vedette>
@@ -52124,7 +52115,7 @@ kohlhutte
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Felleringen</localisation>.</definition>
    </article>
-   <article id="DT68-05290" pg="125">
+   <article type="commune" id="DT68-05290" pg="125">
       <vedette>
          <sm>Munster,</sm>
       </vedette>
@@ -52222,7 +52213,7 @@ kohlhutte
       <definition>
          <localisation>communes de Ferrette et de Vieux-Ferrette</localisation>.</definition>
    </article>
-   <article id="DT68-05295" pg="125">
+   <article type="commune" id="DT68-05295" pg="125">
       <vedette>
          <sm>Muntzenheim,</sm>
       </vedette>
@@ -52248,7 +52239,7 @@ kohlhutte
       </commentaire>
       <insee>68227</insee>
    </article>
-   <article id="DT68-05296" pg="125">
+   <article type="commune" id="DT68-05296" pg="125">
       <vedette>
          <sm>Munwiller,</sm>
       </vedette>
@@ -52288,7 +52279,7 @@ kohlhutte
       <definition>
          <localisation>communes de Buc et d'Essert</localisation>.</definition>
    </article>
-   <article id="DT68-05299" pg="125">
+   <article type="commune" id="DT68-05299" pg="125">
       <vedette>
          <sm>Murbach,</sm>
       </vedette>
@@ -52413,7 +52404,6 @@ kohlhutte
       </vedette>
       <definition>
          <localisation>communes de Burnhaupt-le-Bas, Francken, Illfurth, Tagolsheim, Uberstrass, Willer (canton d'Altkirch)</localisation>, etc.</definition>
-      <insee/>
    </article>
    <article id="DT68-05309" pg="126">
       <vedette>
@@ -52823,7 +52813,7 @@ kohlhutte
          <date>1307</date> 
          <reference>(Als. dipl. II, 86)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05359" pg="126">
+   <article type="commune" id="DT68-05359" pg="126">
       <vedette>
          <sm>Nambsheim,</sm>
       </vedette>
@@ -53157,7 +53147,6 @@ kohlhutte
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Roderen (canton de Thann)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-05398" pg="127">
       <vedette>
@@ -53224,7 +53213,7 @@ kohlhutte
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Wihr-au-Val</localisation>.</definition>
    </article>
-   <article id="DT68-05406" pg="127">
+   <article type="commune" id="DT68-05406" pg="127">
       <vedette>
          <sm>Neuf-Brisach,</sm> en allemand <sm>Neu-Breisach,</sm>
       </vedette>
@@ -53440,7 +53429,7 @@ kohlhutte
       <definition>
          <typologie>étang</typologie>, <localisation>commune de Rimbach</localisation>, <localisation>canton de Massevaux</localisation>.</definition>
    </article>
-   <article id="DT68-05428" pg="128">
+   <article type="commune" id="DT68-05428" pg="128">
       <vedette>
          <sm>Neuwiller,</sm>
       </vedette>
@@ -53495,7 +53484,7 @@ kohlhutte
       <definition>
          <localisation>commune de Vétrigne</localisation>.</definition>
    </article>
-   <article id="DT68-05434" pg="128">
+   <article type="commune" id="DT68-05434" pg="128">
       <vedette>
          <sm>Niederbruck,</sm>
       </vedette>
@@ -53525,7 +53514,7 @@ kohlhutte
       <definition>
          <typologie>pâturage</typologie>, <localisation>commune de Willer (canton de Thann)</localisation>.</definition>
    </article>
-   <article id="DT68-05436" pg="128">
+   <article type="commune" id="DT68-05436" pg="128">
       <vedette>
          <sm>Niederentzen,</sm>
       </vedette>
@@ -53557,7 +53546,7 @@ kohlhutte
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Niederhergheim</localisation>.</definition>
    </article>
-   <article id="DT68-05438" pg="128">
+   <article type="commune" id="DT68-05438" pg="128">
       <vedette>
          <sm>Niederhergheim,</sm>
       </vedette>
@@ -53605,7 +53594,7 @@ kohlhutte
          <date>1550</date> 
          <reference>(urb. de Saint-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05440" pg="128">
+   <article type="commune" id="DT68-05440" pg="128">
       <vedette>
          <sm>Niederlarg,</sm>
       </vedette>
@@ -53631,7 +53620,7 @@ kohlhutte
       <forme_ancienne>- <i>Vorder-Lauchen</i> 
          <reference>(tabl. des dist.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05442" pg="128">
+   <article type="commune" id="DT68-05442" pg="128">
       <vedette>
          <sm>Niedermorschwihr,</sm>
       </vedette>
@@ -53676,7 +53665,7 @@ kohlhutte
          <date>1548</date> 
          <reference>(urb. de l'hôp. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05444" pg="128">
+   <article type="commune" id="DT68-05444" pg="128">
       <vedette>
          <sm>Niedermuespach,</sm>
       </vedette>
@@ -53955,7 +53944,7 @@ kohlhutte
       <definition>
          <localisation>commune de Massevaux</localisation>, <date>1568</date> (terr. de Massevaux).</definition>
    </article>
-   <article id="DT68-05477" pg="129">
+   <article type="commune" id="DT68-05477" pg="129">
       <vedette>
          <sm>Niffer,</sm>
       </vedette>
@@ -54881,7 +54870,7 @@ kohlhutte
       <definition>
          <localisation>commune de Felon</localisation>.</definition>
    </article>
-   <article id="DT68-05572" pg="131">
+   <article type="commune" id="DT68-05572" pg="131">
       <vedette>
          <sm>Novillard,</sm> en allemand <sm>Neuwiller,</sm>
       </vedette>
@@ -55162,7 +55151,7 @@ kohlhutte
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Bendorf</localisation>.</definition>
    </article>
-   <article id="DT68-05598" pg="132">
+   <article type="commune" id="DT68-05598" pg="132">
       <vedette>
          <sm>Oberhergheim,</sm>
       </vedette>
@@ -55240,7 +55229,7 @@ kohlhutte
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sewen</localisation>.</definition>
    </article>
-   <article id="DT68-05602" pg="132">
+   <article type="commune" id="DT68-05602" pg="132">
       <vedette>
          <sm>Oberlarg</sm> ou <sm>Welschenlarg,</sm> en patois <sm>Lairdge,</sm>
       </vedette>
@@ -55296,7 +55285,7 @@ kohlhutte
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Aubure</localisation>.</definition>
    </article>
-   <article id="DT68-05606" pg="132">
+   <article type="commune" id="DT68-05606" pg="132">
       <vedette>
          <sm>Obermorschwihr,</sm>
       </vedette>
@@ -55326,7 +55315,7 @@ kohlhutte
       </commentaire>
       <insee>68244</insee>
    </article>
-   <article id="DT68-05607" pg="133">
+   <article type="commune" id="DT68-05607" pg="133">
       <vedette>
          <sm>Obermorschwiller,</sm>
       </vedette>
@@ -55347,7 +55336,7 @@ kohlhutte
       </commentaire>
       <insee>68245</insee>
    </article>
-   <article id="DT68-05608" pg="133">
+   <article type="commune" id="DT68-05608" pg="133">
       <vedette>
          <sm>Obermuespach,</sm>
       </vedette>
@@ -55568,7 +55557,7 @@ kohlhutte
       <definition>
          <typologie>étang</typologie>, <localisation>commune de Heimersdorf</localisation>.</definition>
    </article>
-   <article id="DT68-05632" pg="133">
+   <article type="commune" id="DT68-05632" pg="133">
       <vedette>
          <sm>Obersaasheim,</sm>
       </vedette>
@@ -55819,7 +55808,7 @@ kohlhutte
          <date>1456</date> 
          <reference>(cens. de la cellenie de Munster)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05662" pg="134">
+   <article type="commune" id="DT68-05662" pg="134">
       <vedette>
          <sm>Oderen,</sm>
       </vedette>
@@ -55867,7 +55856,7 @@ kohlhutte
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Soultz</localisation>.</definition>
    </article>
-   <article id="DT68-05666" pg="134">
+   <article type="commune" id="DT68-05666" pg="134">
       <vedette>
          <sm>Offemont,</sm>
       </vedette>
@@ -56133,7 +56122,7 @@ kohlhutte
       <definition>
          <localisation>commune de Soultz</localisation>.</definition>
    </article>
-   <article id="DT68-05687" pg="134">
+   <article type="commune" id="DT68-05687" pg="134">
       <vedette>
          <sm>Oltingen,</sm>
       </vedette>
@@ -56177,7 +56166,7 @@ kohlhutte
       <definition>
          <localisation>commune d'Orschwihr</localisation>.</definition>
    </article>
-   <article id="DT68-05691" pg="135">
+   <article type="commune" id="DT68-05691" pg="135">
       <vedette>
          <sm>Orbey,</sm>
       </vedette>
@@ -56289,7 +56278,7 @@ kohlhutte
          <date>1582</date> 
          <reference>(terr. de Saint-Ulrich)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05701" pg="135">
+   <article type="commune" id="DT68-05701" pg="135">
       <vedette>
          <sm>Orschwihr,</sm>
       </vedette>
@@ -56390,7 +56379,7 @@ kohlhutte
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Uberstrass</localisation>.</definition>
    </article>
-   <article id="DT68-05708" pg="135">
+   <article type="commune" id="DT68-05708" pg="135">
       <vedette>
          <sm>Ossenbach</sm> ou <sm>Osenbach,</sm>
       </vedette>
@@ -56428,7 +56417,7 @@ kohlhutte
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Gueberschwihr</localisation>.</definition>
    </article>
-   <article id="DT68-05712" pg="135">
+   <article type="commune" id="DT68-05712" pg="135">
       <vedette>
          <sm>Ostein,</sm>
       </vedette>
@@ -56514,7 +56503,7 @@ kohlhutte
       <definition>
          <localisation>commune de Burbach-le-Haut</localisation>, <date>1568</date> (terr. de Massevaux).</definition>
    </article>
-   <article id="DT68-05722" pg="135">
+   <article type="commune" id="DT68-05722" pg="135">
       <vedette>
          <sm>Ostheim,</sm>
       </vedette>
@@ -56645,7 +56634,7 @@ kohlhutte
       <definition>
          <typologie>vallée</typologie>, <localisation>commune de Kaysersberg</localisation>.</definition>
    </article>
-   <article id="DT68-05733" pg="136">
+   <article type="commune" id="DT68-05733" pg="136">
       <vedette>
          <sm>Ottmarsheim,</sm>
       </vedette>
@@ -57285,7 +57274,7 @@ kohlhutte
       <definition>
          <localisation>commune de Dannemarie</localisation>, <date>1421</date> (rôles de Saint-Morand).</definition>
    </article>
-   <article id="DT68-05800" pg="137">
+   <article type="commune" id="DT68-05800" pg="137">
       <vedette>
          <sm>Perouse,</sm>
       </vedette>
@@ -57451,7 +57440,7 @@ kohlhutte
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Florimont</localisation>.</definition>
    </article>
-   <article id="DT68-05814" pg="138">
+   <article type="commune" id="DT68-05814" pg="138">
       <vedette>
          <sm>Petitcroix,</sm> en allemand <sm>Klein-Kreuz,</sm>
       </vedette>
@@ -57496,7 +57485,7 @@ kohlhutte
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Florimont</localisation>.</definition>
    </article>
-   <article id="DT68-05817" pg="138">
+   <article type="commune" id="DT68-05817" pg="138">
       <vedette>
          <sm>Petite-Fontaine,</sm> en allemand <sm>Klein-Brunn,</sm>
       </vedette>
@@ -57556,7 +57545,7 @@ kohlhutte
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sainte-Marie-aux-Mines</localisation>.</definition>
    </article>
-   <article id="DT68-05823" pg="138">
+   <article type="commune" id="DT68-05823" pg="138">
       <vedette>
          <sm>Petit-Landau,</sm> en allemand <sm>Klein-Landau,</sm>
       </vedette>
@@ -57703,7 +57692,7 @@ Speckel.</reference>
          <date>1616</date> 
          <reference>(terr. de Feldbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05839" pg="138">
+   <article type="commune" id="DT68-05839" pg="138">
       <vedette>
          <sm>Pfaffenheim,</sm>
       </vedette>
@@ -58120,7 +58109,7 @@ Speckel.</reference>
          <date>1514</date> 
          <reference>(rôles d'Eguisheim)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05881" pg="139">
+   <article type="commune" id="DT68-05881" pg="139">
       <vedette>
          <sm>Pfetterhausen,</sm> en français <sm>Perouse,</sm>
       </vedette>
@@ -58526,7 +58515,7 @@ Speckel.</reference>
          <date>1299</date> 
          <reference>(reg. Lucell.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-05924" pg="140">
+   <article type="commune" id="DT68-05924" pg="140">
       <vedette>
          <sm>Phaffans,</sm> en allemand <sm>Pfeffingen,</sm>
       </vedette>
@@ -59107,7 +59096,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation>.</definition>
    </article>
-   <article id="DT68-05992" pg="141">
+   <article type="commune" id="DT68-05992" pg="141">
       <vedette>
          <sm>Poutroye (La),</sm> en allemand <sm>Schnierlach,</sm>
       </vedette>
@@ -59507,7 +59496,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Levoncourt</localisation>.</definition>
    </article>
-   <article id="DT68-06039" pg="142">
+   <article type="commune" id="DT68-06039" pg="142">
       <vedette>
          <sm>Puix (Le),</sm> en allemand <sm>Sood,</sm>
       </vedette>
@@ -59525,9 +59514,9 @@ Speckel.</reference>
       <commentaire>
          <p>- Dépendait de la seigneurie de Florimont.</p>
       </commentaire>
-      <insee>90064 90065</insee>
+      <insee>90064</insee>
    </article>
-   <article id="DT68-06040" pg="142">
+   <article type="commune" id="DT68-06040" pg="142">
       <vedette>
          <sm>Puix (Le),</sm> en allemand <sm>Soda,</sm>
       </vedette>
@@ -59542,7 +59531,7 @@ Speckel.</reference>
       <commentaire>
          <p>- Paroisse du décanat de Granges (alm. d'Als. de 1783). - Dépendait de la mairie du Haut-Rosemont.</p>
       </commentaire>
-      <insee>90064 90065</insee>
+      <insee>90065</insee>
    </article>
    <article id="DT68-06041" pg="142">
       <vedette>
@@ -59570,7 +59559,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Moulin à poudre</i> 
          <reference>(Dépôt de la guerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06044" pg="142">
+   <article type="commune" id="DT68-06044" pg="142">
       <vedette>
          <sm>Pulversheim,</sm>
       </vedette>
@@ -59954,7 +59943,7 @@ Speckel.</reference>
       <definition>
          <typologie>puits dans la Hart</typologie>, <localisation>commune de Battenheim</localisation>, près duquel se trouvent plusieurs tumulus.</definition>
    </article>
-   <article id="DT68-06087" pg="143">
+   <article type="commune" id="DT68-06087" pg="143">
       <vedette>
          <sm>Rädersdorf,</sm>
       </vedette>
@@ -59986,7 +59975,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68259</insee>
    </article>
-   <article id="DT68-06088" pg="143">
+   <article type="commune" id="DT68-06088" pg="143">
       <vedette>
          <sm>Rädersheim,</sm>
       </vedette>
@@ -60284,7 +60273,7 @@ Speckel.</reference>
          <date>1543</date> 
          <reference>(rôle de Rouffach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06123" pg="144">
+   <article type="commune" id="DT68-06123" pg="144">
       <vedette>
          <sm>Rammersmatt,</sm>
       </vedette>
@@ -60419,7 +60408,7 @@ Speckel.</reference>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Sainte-Croix-aux-Mines</localisation>.</definition>
    </article>
-   <article id="DT68-06137" pg="144">
+   <article type="commune" id="DT68-06137" pg="144">
       <vedette>
          <sm>Ranspach,</sm>
       </vedette>
@@ -60448,7 +60437,7 @@ Speckel.</reference>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Ranspach</localisation>.</definition>
    </article>
-   <article id="DT68-06139" pg="144">
+   <article type="commune" id="DT68-06139" pg="144">
       <vedette>
          <sm>Ranspach-le-Bas,</sm> en allemand <sm>Niederranspach,</sm>
       </vedette>
@@ -60486,7 +60475,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68263</insee>
    </article>
-   <article id="DT68-06140" pg="144">
+   <article type="commune" id="DT68-06140" pg="144">
       <vedette>
          <sm>Ranspach-le-Haut,</sm> en allemand <sm>Oberranspach,</sm>
       </vedette>
@@ -60520,7 +60509,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Helfrantzkirch</localisation>, <date>1535</date> (terr. de Saint-Alban).</definition>
    </article>
-   <article id="DT68-06143" pg="144">
+   <article type="commune" id="DT68-06143" pg="144">
       <vedette>
          <sm>Rantzwiller,</sm>
       </vedette>
@@ -60935,7 +60924,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Fröningen</localisation>.</definition>
    </article>
-   <article id="DT68-06188" pg="145">
+   <article type="commune" id="DT68-06188" pg="145">
       <vedette>
          <sm>Réchésy,</sm> en allemand <sm>Röschlach</sm> ou <sm>Röschli,</sm>
       </vedette>
@@ -60965,7 +60954,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Vézelois</localisation>.</definition>
    </article>
-   <article id="DT68-06190" pg="145">
+   <article type="commune" id="DT68-06190" pg="145">
       <vedette>
          <sm>Rechotte,</sm>
       </vedette>
@@ -61100,7 +61089,7 @@ Speckel.</reference>
             <sup>e</sup> siècle</date>… <i>Recorbey,</i>&gt; <date>1468</date> 
          <reference>(urb. de Froide-Fontaine)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06204" pg="145">
+   <article type="commune" id="DT68-06204" pg="145">
       <vedette>
          <sm>Recouvrance,</sm>
       </vedette>
@@ -61213,7 +61202,7 @@ Speckel.</reference>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de l'Allemand-Rombach</localisation>.</definition>
    </article>
-   <article id="DT68-06214" pg="146">
+   <article type="commune" id="DT68-06214" pg="146">
       <vedette>
          <sm>Reguisheim,</sm>
       </vedette>
@@ -61808,7 +61797,7 @@ Speckel.</reference>
       <definition>
          <localisation>communes d'Argiésans et de Châtenois</localisation>.</definition>
    </article>
-   <article id="DT68-06269" pg="147">
+   <article type="commune" id="DT68-06269" pg="147">
       <vedette>
          <sm>Reppe,</sm> en allemand <sm>Rispach,</sm>
       </vedette>
@@ -61926,7 +61915,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Vourvenans</localisation>.</definition>
    </article>
-   <article id="DT68-06282" pg="147">
+   <article type="commune" id="DT68-06282" pg="147">
       <vedette>
          <sm>Retzwiller,</sm> en français <sm>Rieveler,</sm>
       </vedette>
@@ -62164,10 +62153,14 @@ Speckel.</reference>
    </article>
    <article id="DT68-06305" pg="148">
       <vedette>
-         <sm>Ribeaugoutte,</sm> en allemand <sm>Klein-Rappoltstein</sm> 
-         <reference>(Als. ill. IV, 288)</reference>,</vedette>
+         <sm>Ribeaugoutte,</sm> en allemand <sm>Klein-Rappoltstein</sm>,
+      </vedette>
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Poutroye</localisation>.</definition>
+      <forme_ancienne>
+         <i>Klein-Rappolstein</i> 
+         <reference>(Als. ill. IV, 288)</reference>
+      </forme_ancienne>
    </article>
    <article id="DT68-06306" pg="148">
       <vedette>
@@ -62232,7 +62225,7 @@ Speckel.</reference>
          <p>Plus tard la seigneurie entière se trouve divisée en huit bailliages, dont les chefs-lieux étaient Bergheim, Guémar, Heiteren, Orbey, Ribeauvillé, Sainte-Marie-aux-Mines, Wihr-au-Val et Zellenberg ; enfin, après l'organisation de l'intendance d'Alsace, elle ne forma plus qu'un bailliage de la subdélégation de Colmar.</p>
       </commentaire>
    </article>
-   <article id="DT68-06307" pg="149">
+   <article type="commune" id="DT68-06307" pg="149">
       <vedette>
          <sm>Ribeauvillé,</sm> en allemand <sm>Rappoltsweiler,</sm>
       </vedette>
@@ -62518,7 +62511,7 @@ Speckel.</reference>
          <p>- Les <i>Rietingerfeld</i> et les <i>Rietingermatten</i> sont cités dans l'anc. cadastre.</p>
       </commentaire>
    </article>
-   <article id="DT68-06333" pg="149">
+   <article type="commune" id="DT68-06333" pg="149">
       <vedette>
          <sm>Riedisheim,</sm>
       </vedette>
@@ -62576,7 +62569,7 @@ Speckel.</reference>
          <date>1548</date> 
          <reference>(urb. de l'hôp. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06337" pg="150">
+   <article type="commune" id="DT68-06337" pg="150">
       <vedette>
          <sm>Riedwihr,</sm>
       </vedette>
@@ -62608,7 +62601,7 @@ Speckel.</reference>
       <definition>
          <typologie>chemin</typologie>, <localisation>commune de Fülleren</localisation>.</definition>
    </article>
-   <article id="DT68-06339" pg="150">
+   <article type="commune" id="DT68-06339" pg="150">
       <vedette>
          <sm>Rierevescemont,</sm>
       </vedette>
@@ -62651,7 +62644,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Riestmatt</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06343" pg="150">
+   <article type="commune" id="DT68-06343" pg="150">
       <vedette>
          <sm>Riespach,</sm>
       </vedette>
@@ -62686,10 +62679,14 @@ Speckel.</reference>
    </article>
    <article id="DT68-06344" pg="150">
       <vedette>
-         <sm>Rieth</sm> 
-         <reference>(Cass.)</reference>,</vedette>
+         <sm>Rieth,</sm> 
+      </vedette>
       <definition>
          <typologie>ancienne ferme</typologie>, <localisation>commune de Luttenbach</localisation>.</definition>
+      <forme_ancienne>
+         <i>Rieth</i> 
+         <reference>(Cass.)</reference>
+      </forme_ancienne>
    </article>
    <article id="DT68-06345" pg="150">
       <vedette>
@@ -62939,7 +62936,7 @@ Speckel.</reference>
          <p>- Elle prend les eaux du canal Vauban à Neuf-Brisach et les déverse dans la Blind, à Jebsheim.</p>
       </commentaire>
    </article>
-   <article id="DT68-06375" pg="151">
+   <article type="commune" id="DT68-06375" pg="151">
       <vedette>
          <pg>151</pg>
          <sm>Rimbach,</sm>
@@ -62959,9 +62956,9 @@ Speckel.</reference>
       <forme_ancienne>- <i>Ultra rivulum fluentem de Rinpach,</i> 
          <date>1291</date> 
          <reference>(Trouillat, <i>Monum.</i> II, 510)</reference>.</forme_ancienne>
-      <insee>68274 68275</insee>
+      <insee>68274</insee>
    </article>
-   <article id="DT68-06376" pg="151">
+   <article type="commune" id="DT68-06376" pg="151">
       <vedette>
          <sm>Rimbach,</sm>
       </vedette>
@@ -62984,7 +62981,7 @@ Speckel.</reference>
          <p>- Dép. de la juridiction du plaid de Guewenheim et plus tard du baill. de Massevaux.</p>
          <p>Le ruisseau de Rimbach afflue à la Dollern.</p>
       </commentaire>
-      <insee>68274 68275</insee>
+      <insee>68275</insee>
    </article>
    <article id="DT68-06377" pg="151">
       <vedette>
@@ -62996,7 +62993,7 @@ Speckel.</reference>
          <date>1550</date> 
          <reference>(urb. de S<sup>t</sup>-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06378" pg="151">
+   <article type="commune" id="DT68-06378" pg="151">
       <vedette>
          <sm>Rimbach-Zell,</sm>
       </vedette>
@@ -63243,7 +63240,7 @@ Speckel.</reference>
          <date>1550</date> 
          <reference>(urb. de S<sup>t</sup>-Amarin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06404" pg="151">
+   <article type="commune" id="DT68-06404" pg="151">
       <vedette>
          <sm>Riquewihr,</sm>
       </vedette>
@@ -63645,7 +63642,7 @@ Speckel.</reference>
       <definition>
          <localisation>communes d'Huningue et de Village-Neuf</localisation>.</definition>
    </article>
-   <article id="DT68-06448" pg="152">
+   <article type="commune" id="DT68-06448" pg="152">
       <vedette>
          <sm>Rivière (La),</sm>
       </vedette>
@@ -63678,7 +63675,7 @@ Speckel.</reference>
          <date>1582</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06450" pg="152">
+   <article type="commune" id="DT68-06450" pg="152">
       <vedette>
          <sm>Rixheim,</sm>
       </vedette>
@@ -63906,7 +63903,7 @@ Speckel.</reference>
          <date>1734</date> 
          <reference>(rôles de Kientzheim)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06470" pg="153">
+   <article type="commune" id="DT68-06470" pg="153">
       <vedette>
          <sm>Roderen,</sm>
       </vedette>
@@ -63926,9 +63923,9 @@ Speckel.</reference>
       <commentaire>
          <p>- Paroisse du décanat d'<i>ultra colles Ottonis</i> (Lib. marc.). - Roderen dépendait du baill. de Bergheim.</p>
       </commentaire>
-      <insee>68280 68279</insee>
+      <insee>68280</insee>
    </article>
-   <article id="DT68-06471" pg="153">
+   <article type="commune" id="DT68-06471" pg="153">
       <vedette>
          <sm>Roderen,</sm>
       </vedette>
@@ -63961,7 +63958,7 @@ Speckel.</reference>
       <commentaire>
          <p>- En cette même année <date>1361</date>, cette mairie fut réunie à la juridiction de la ville de Thann, dont ses habitants devinrent bourgeois.</p>
       </commentaire>
-      <insee>68280 68279</insee>
+      <insee>68279</insee>
    </article>
    <article id="DT68-06472" pg="153">
       <vedette>
@@ -64054,7 +64051,7 @@ Speckel.</reference>
       <definition>
          <typologie>montagne</typologie>, <localisation>entre Altkirch et Hirsingen</localisation>.</definition>
    </article>
-   <article id="DT68-06480" pg="153">
+   <article type="commune" id="DT68-06480" pg="153">
       <vedette>
          <sm>Roggenhausen,</sm>
       </vedette>
@@ -64253,7 +64250,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-06501" pg="154">
       <vedette>
@@ -64323,7 +64319,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire d'Ensisheim</localisation>.</definition>
    </article>
-   <article id="DT68-06508" pg="154">
+   <article type="commune" id="DT68-06508" pg="154">
       <vedette>
          <sm>Romagny,</sm> en allemand <sm>Willeren,</sm>
       </vedette>
@@ -64349,9 +64345,9 @@ Speckel.</reference>
       <commentaire>
          <p>- Dép. du domaine de Montreux.</p>
       </commentaire>
-      <insee>68282 90086</insee>
+      <insee>68282</insee>
    </article>
-   <article id="DT68-06509" pg="154">
+   <article type="commune" id="DT68-06509" pg="154">
       <vedette>
          <sm>Romagny,</sm> en allemand <sm>Welschennest,</sm>
       </vedette>
@@ -64369,7 +64365,7 @@ Speckel.</reference>
       <commentaire>
          <p>- Dép. de la seign. de Rougemont.</p>
       </commentaire>
-      <insee>68282 90086</insee>
+      <insee>90086</insee>
    </article>
    <article id="DT68-06510" pg="154">
       <vedette>
@@ -64409,7 +64405,6 @@ Speckel.</reference>
          <reference>(urb. des redev. en deniers de Mulhouse)</reference>.</forme_ancienne>
       <forme_ancienne>- <i>Rohm</i> 
          <reference>(cad.)</reference>.</forme_ancienne>
-      <insee/>
    </article>
    <article id="DT68-06514" pg="154">
       <vedette>
@@ -64637,7 +64632,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sultzeren</localisation>.</definition>
    </article>
-   <article id="DT68-06537" pg="154">
+   <article type="commune" id="DT68-06537" pg="154">
       <vedette>
          <sm>Roppe,</sm> en allemand <sm>Roppach,</sm>
       </vedette>
@@ -64696,7 +64691,7 @@ Speckel.</reference>
          <date>1490</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06540" pg="155">
+   <article type="commune" id="DT68-06540" pg="155">
       <vedette>
          <sm>Roppentzwiller,</sm>
       </vedette>
@@ -64727,7 +64722,7 @@ Speckel.</reference>
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Massevaux</localisation>.</definition>
    </article>
-   <article id="DT68-06542" pg="155">
+   <article type="commune" id="DT68-06542" pg="155">
       <vedette>
          <sm>Rorschwihr,</sm>
       </vedette>
@@ -64858,7 +64853,7 @@ Speckel.</reference>
       <definition>
          <localisation>communes de Mittelmuespach et de Linsdorf</localisation>.</definition>
    </article>
-   <article id="DT68-06551" pg="155">
+   <article type="commune" id="DT68-06551" pg="155">
       <vedette>
          <sm>Rosenau (La),</sm>
       </vedette>
@@ -65612,7 +65607,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Roderen (canton de Ribeauvillé)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-06635" pg="157">
       <vedette>
@@ -65661,7 +65655,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Vellescot</localisation>.</definition>
    </article>
-   <article id="DT68-06641" pg="157">
+   <article type="commune" id="DT68-06641" pg="157">
       <vedette>
          <sm>Rouffach,</sm>
       </vedette>
@@ -65768,7 +65762,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-06643" pg="157">
+   <article type="commune" id="DT68-06643" pg="157">
       <vedette>
          <sm>Rougegoutte,</sm>
       </vedette>
@@ -65795,7 +65789,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Baroche</localisation>.</definition>
    </article>
-   <article id="DT68-06645" pg="157">
+   <article type="commune" id="DT68-06645" pg="157">
       <vedette>
          <sm>Rougemont,</sm> en allemand <sm>Rothenberg</sm> ou <sm>Rothenburg,</sm>
       </vedette>
@@ -66357,11 +66351,16 @@ Speckel.</reference>
    </article>
    <article id="DT68-06702" pg="159">
       <vedette>
-         <sm>Ruhunleuua</sm> 
-         <reference>(Trouillat, <i>Monum.</i> I, 145)</reference> et <sm>Rubunlevva</sm> 
-         <reference>(Trouillat, <i>Monum.</i> I, 168)</reference>,</vedette>
+         <sm>Ruhunleuua</sm> et <sm>Rubunlevva</sm>,
+      </vedette>
       <definition>
          <typologie>cité</typologie> en <date>1004</date> et <date>1040</date>, sur les <localisation>confins de la Hart</localisation>.</definition>
+      <forme_ancienne>
+         <i>Ruhunleuua</i> 
+         <reference>(Trouillat, <i>Monum.</i> I, 145)</reference>.</forme_ancienne>
+      <forme_ancienne>
+         <i>Rubunlevva</i> 
+         <reference>(Trouillat, <i>Monum.</i> I, 168)</reference>.</forme_ancienne>
       <commentaire>
          <p>D'après le rang qu'il occupe dans la série des villages cités aux passages indiqués, ce nom paraît devoir s'appliquer au village actuel de Roggenhausen.</p>
       </commentaire>
@@ -66436,7 +66435,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Rammersbach</i> 
          <reference>(carte hydrogr.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06711" pg="159">
+   <article type="commune" id="DT68-06711" pg="159">
       <vedette>
          <sm>Rumersheim,</sm>
       </vedette>
@@ -66879,7 +66878,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Kaysersberg</localisation>.</definition>
    </article>
-   <article id="DT68-06764" pg="160">
+   <article type="commune" id="DT68-06764" pg="160">
       <vedette>
          <sm>Saint-Amarin,</sm>
       </vedette>
@@ -67092,7 +67091,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-06776" pg="161">
+   <article type="commune" id="DT68-06776" pg="161">
       <vedette>
          <sm>Saint-Côme,</sm> en allemand <sm>Sanct-Cosman,</sm>
       </vedette>
@@ -67178,7 +67177,7 @@ Speckel.</reference>
          <date>1407</date> 
          <reference>(cens. de la camerene de Munster)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06782" pg="161">
+   <article type="commune" id="DT68-06782" pg="161">
       <vedette>
          <sm>Saint-Dizier,</sm> en allem. <sm>Sanct-Störigen,</sm>
       </vedette>
@@ -67373,7 +67372,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-06800" pg="162">
+   <article type="commune" id="DT68-06800" pg="162">
       <vedette>
          <sm>Sainte-Croix-aux-Mines,</sm> en allemand <sm>Sanct-Kreuz-im-Leberthal,</sm>
       </vedette>
@@ -67387,7 +67386,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68294</insee>
    </article>
-   <article id="DT68-06801" pg="162">
+   <article type="commune" id="DT68-06801" pg="162">
       <vedette>
          <sm>Sainte-Croix-en-Plaine,</sm> en allemand <sm>Heilig-Kreuz,</sm>
       </vedette>
@@ -67501,7 +67500,7 @@ Speckel.</reference>
             <sup>e</sup> siècle</date> 
          <reference>(Grandidier, <i>Hist. d'Als.</i> p. j, II, 74)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06807" pg="162">
+   <article type="commune" id="DT68-06807" pg="162">
       <vedette>
          <sm>Sainte-Marie-aux-Mines,</sm> en allemand <sm>Markirch,</sm>
       </vedette>
@@ -67767,7 +67766,7 @@ Speckel.</reference>
       <definition>
          <typologie>vignoble</typologie>, <localisation>commune de Bergheim</localisation>.</definition>
    </article>
-   <article id="DT68-06831" pg="163">
+   <article type="commune" id="DT68-06831" pg="163">
       <vedette>
          <sm>Saint-Germain,</sm>
       </vedette>
@@ -67874,7 +67873,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-06837" pg="163">
+   <article type="commune" id="DT68-06837" pg="163">
       <vedette>
          <sm>Saint-Hippolyte,</sm> en allemand <sm>Sanct-Pilt,</sm>
       </vedette>
@@ -68045,7 +68044,7 @@ Speckel.</reference>
       </vedette>
       <definition>à <localisation>Romagny (canton de Massevaux)</localisation>.</definition>
    </article>
-   <article id="DT68-06847" pg="164">
+   <article type="commune" id="DT68-06847" pg="164">
       <vedette>
          <sm>Saint-Louis,</sm>
       </vedette>
@@ -68564,7 +68563,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Fontaine de Saint-Thiébeusse</i> 
          <reference>(Revue d'Als. II, 482)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-06891" pg="165">
+   <article type="commune" id="DT68-06891" pg="165">
       <vedette>
          <sm>Saint-Ulrich,</sm>
       </vedette>
@@ -68716,7 +68715,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Danjoutin</localisation>.</definition>
    </article>
-   <article id="DT68-06903" pg="166">
+   <article type="commune" id="DT68-06903" pg="166">
       <vedette>
          <sm>Salbert (Le),</sm>
       </vedette>
@@ -71192,7 +71191,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Schielmühl</i> 
          <reference>(carte hydrog.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07181" pg="171">
+   <article type="commune" id="DT68-07181" pg="171">
       <vedette>
          <sm>Schlierbach,</sm>
       </vedette>
@@ -71752,7 +71751,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <localisation>communes de Hesingen, Köstlach, Mühlbach, Strueth, Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-07248" pg="172">
       <vedette>
@@ -72683,7 +72681,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-07353" pg="174">
       <vedette>
@@ -73285,7 +73282,7 @@ Speckel.</reference>
          <date>1453</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07423" pg="175">
+   <article type="commune" id="DT68-07423" pg="175">
       <vedette>
          <sm>Schweighausen,</sm>
       </vedette>
@@ -73412,7 +73409,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <localisation>communes d'Aspach-le-Haut et de Roderen (canton de Thann)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-07433" pg="175">
       <vedette>
@@ -73676,7 +73672,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Pfaffenheim</localisation>.</definition>
    </article>
-   <article id="DT68-07460" pg="176">
+   <article type="commune" id="DT68-07460" pg="176">
       <vedette>
          <sm>Schwoben,</sm>
       </vedette>
@@ -74013,7 +74009,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Rimbach (canton de Massevaux)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-07501" pg="177">
       <vedette>
@@ -74466,7 +74461,7 @@ Speckel.</reference>
       <definition>
          <typologie>montagne et forêt</typologie>, <localisation>commune d'Oberlarg</localisation>.</definition>
    </article>
-   <article id="DT68-07548" pg="177">
+   <article type="commune" id="DT68-07548" pg="177">
       <vedette>
          <sm>Sentheim,</sm>
       </vedette>
@@ -74487,7 +74482,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68304</insee>
    </article>
-   <article id="DT68-07549" pg="178">
+   <article type="commune" id="DT68-07549" pg="178">
       <vedette>
          <sm>Seppois-le-Bas,</sm>
       </vedette>
@@ -74515,7 +74510,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68305</insee>
    </article>
-   <article id="DT68-07550" pg="178">
+   <article type="commune" id="DT68-07550" pg="178">
       <vedette>
          <sm>Seppois-le-Haut,</sm>
       </vedette>
@@ -74547,7 +74542,7 @@ Speckel.</reference>
       <definition>
          <typologie>ancien peuple gaulois</typologie> qui habitait <localisation>entre la Saône et le Rhin, le Jura et les Vosges</localisation>, et par conséquent la plus grande partie de la Haute-Alsace <reference>(Als. ill. I, 31)</reference>.</definition>
    </article>
-   <article id="DT68-07553" pg="178">
+   <article type="commune" id="DT68-07553" pg="178">
       <vedette>
          <sm>Sermamagny,</sm>
       </vedette>
@@ -74633,7 +74628,7 @@ Speckel.</reference>
          <date>1405</date> 
          <reference>(cart. de Murbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07559" pg="178">
+   <article type="commune" id="DT68-07559" pg="178">
       <vedette>
          <sm>Sevenans,</sm>
       </vedette>
@@ -74676,7 +74671,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Châtenois</localisation>.</definition>
    </article>
-   <article id="DT68-07562" pg="178">
+   <article type="commune" id="DT68-07562" pg="178">
       <vedette>
          <sm>Sewen,</sm>
       </vedette>
@@ -74740,7 +74735,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Siebach</i> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07567" pg="178">
+   <article type="commune" id="DT68-07567" pg="178">
       <vedette>
          <sm>Sickert,</sm>
       </vedette>
@@ -74882,7 +74877,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Sidenbaden</i> 
          <reference>(anc. cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07583" pg="179">
+   <article type="commune" id="DT68-07583" pg="179">
       <vedette>
          <sm>Sierentz,</sm>
       </vedette>
@@ -75056,7 +75051,7 @@ Speckel.</reference>
          <date>1544</date> 
          <reference>(reg. des pres. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07600" pg="179">
+   <article type="commune" id="DT68-07600" pg="179">
       <vedette>
          <sm>Sigolsheim,</sm> en français <sm>Savamont,</sm>
       </vedette>
@@ -75566,7 +75561,6 @@ Speckel.</reference>
             <date>1488&gt;</date> 
             <reference>(urb. de Marbach)</reference>.</forme_ancienne2>
       </definition>
-      <insee/>
    </article>
    <article id="DT68-07652" pg="180">
       <vedette>
@@ -75741,7 +75735,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Saint-Hippolyte</localisation>.</definition>
    </article>
-   <article id="DT68-07673" pg="181">
+   <article type="commune" id="DT68-07673" pg="181">
       <vedette>
          <sm>Sondernach,</sm>
       </vedette>
@@ -75755,7 +75749,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68311</insee>
    </article>
-   <article id="DT68-07674" pg="181">
+   <article type="commune" id="DT68-07674" pg="181">
       <vedette>
          <sm>Sondersdorf,</sm>
       </vedette>
@@ -75888,7 +75882,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-07690" pg="181">
+   <article type="commune" id="DT68-07690" pg="181">
       <vedette>
          <sm>Soppe-le-Bas,</sm> en allemand <sm>Nieder-Sultzbach,</sm>
       </vedette>
@@ -75914,7 +75908,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68313</insee>
    </article>
-   <article id="DT68-07691" pg="181">
+   <article type="commune" id="DT68-07691" pg="181">
       <vedette>
          <sm>Soppe-le-Haut,</sm> en allemand <sm>Ober-Sultzbach,</sm>
       </vedette>
@@ -75981,7 +75975,7 @@ Speckel.</reference>
             <reference>(cadastre)</reference>.</forme_ancienne2>
       </definition>
    </article>
-   <article id="DT68-07697" pg="181">
+   <article type="commune" id="DT68-07697" pg="181">
       <vedette>
          <sm>Soultz</sm> ou <sm>Ober-Soultz,</sm>
       </vedette>
@@ -76082,7 +76076,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68315</insee>
    </article>
-   <article id="DT68-07698" pg="182">
+   <article type="commune" id="DT68-07698" pg="182">
       <vedette>
          <sm>Soultzbach,</sm>
       </vedette>
@@ -76111,7 +76105,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68316</insee>
    </article>
-   <article id="DT68-07699" pg="182">
+   <article type="commune" id="DT68-07699" pg="182">
       <vedette>
          <sm>Soultzmatt,</sm>
       </vedette>
@@ -76321,7 +76315,7 @@ Speckel.</reference>
          <date>1394</date> 
          <reference>(rôle de Gildwiller)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07720" pg="182">
+   <article type="commune" id="DT68-07720" pg="182">
       <vedette>
          <sm>Spechbach-le-Bas,</sm> en allemand <sm>Niederspechbach,</sm>
       </vedette>
@@ -76350,7 +76344,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68319</insee>
    </article>
-   <article id="DT68-07721" pg="183">
+   <article type="commune" id="DT68-07721" pg="183">
       <vedette>
          <pg>183</pg>
          <sm>Spechbach-le-Haut</sm> ou <sm>Oberspechbach,</sm>
@@ -76877,7 +76871,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Heidwiller</localisation>.</definition>
    </article>
-   <article id="DT68-07783" pg="184">
+   <article type="commune" id="DT68-07783" pg="184">
       <vedette>
          <sm>Staffelfelden,</sm>
       </vedette>
@@ -77175,7 +77169,7 @@ Speckel.</reference>
             <date>1616</date> 
             <reference>(terr. de Feldb.)</reference>,</forme_ancienne2> etc.</definition>
    </article>
-   <article id="DT68-07814" pg="184">
+   <article type="commune" id="DT68-07814" pg="184">
       <vedette>
          <sm>Steinbach,</sm>
       </vedette>
@@ -77328,7 +77322,7 @@ Speckel.</reference>
       <definition>
          <typologie>ancien château</typologie> représenté, en <date>1579</date>, par la carte de Speckel, <localisation>près du Rhin</localisation>, à la <localisation>hauteur de Fessenheim</localisation>.</definition>
    </article>
-   <article id="DT68-07830" pg="185">
+   <article type="commune" id="DT68-07830" pg="185">
       <vedette>
          <sm>Steinbrunn-le-Bas</sm> ou <sm>Niedersteinbrunn,</sm>
       </vedette>
@@ -77366,7 +77360,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68323</insee>
    </article>
-   <article id="DT68-07831" pg="185">
+   <article type="commune" id="DT68-07831" pg="185">
       <vedette>
          <sm>Steinbrunn-le-Haut</sm> ou <sm>Obersteinbrunn,</sm>
       </vedette>
@@ -77675,7 +77669,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Sentheim</localisation>, <date>1568</date> (terr. de Massev.).</definition>
    </article>
-   <article id="DT68-07863" pg="185">
+   <article type="commune" id="DT68-07863" pg="185">
       <vedette>
          <sm>Steinsultz,</sm>
       </vedette>
@@ -77850,7 +77844,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Dolleren</localisation>, <date>1567</date> (terr. de Massevaux).</definition>
    </article>
-   <article id="DT68-07884" pg="186">
+   <article type="commune" id="DT68-07884" pg="186">
       <vedette>
          <sm>Sternenberg,</sm>
       </vedette>
@@ -77921,7 +77915,7 @@ Speckel.</reference>
          <date>1421</date> 
          <reference>(rôles de Saint-Morand)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07891" pg="186">
+   <article type="commune" id="DT68-07891" pg="186">
       <vedette>
          <sm>Stetten,</sm>
       </vedette>
@@ -78451,7 +78445,7 @@ Speckel.</reference>
       <definition>
          <typologie>cantons</typologie> des <localisation>territoires de Bettendorf, Brinighofen, Courtavon, Falckwiller, Sainte-Croix-en-Plaine et Niedermorschwiller</localisation>.</definition>
    </article>
-   <article id="DT68-07952" pg="187">
+   <article type="commune" id="DT68-07952" pg="187">
       <vedette>
          <sm>Storckensohn,</sm>
       </vedette>
@@ -78526,7 +78520,7 @@ Speckel.</reference>
          <date>1537</date> 
          <reference>(rôle de Niedermorschwiller)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-07959" pg="187">
+   <article type="commune" id="DT68-07959" pg="187">
       <vedette>
          <sm>Stosswihr,</sm>
       </vedette>
@@ -78931,7 +78925,7 @@ Speckel.</reference>
          <date>1421</date> 
          <reference>(rôles de Saint-Morand)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08000" pg="188">
+   <article type="commune" id="DT68-08000" pg="188">
       <vedette>
          <sm>Strueth,</sm>
       </vedette>
@@ -79151,7 +79145,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Balschwiller</localisation>.</definition>
    </article>
-   <article id="DT68-08026" pg="189">
+   <article type="commune" id="DT68-08026" pg="189">
       <vedette>
          <sm>Suarce,</sm> en all. <sm>Schwertz,</sm>
       </vedette>
@@ -79351,7 +79345,7 @@ Speckel.</reference>
          <date>1489</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08045" pg="189">
+   <article type="commune" id="DT68-08045" pg="189">
       <vedette>
          <sm>Sultzeren,</sm>
       </vedette>
@@ -79504,7 +79498,7 @@ Speckel.</reference>
                <sup>e</sup> siècle</date>, paroisse du décanat de <i>citra colles Ottonis</i> (Lib. marc.). - La maison de l'ordre Teutonique fut transférée à Soultz. Un couvent de femmes qui s'y trouvait aussi fut transféré à Guebwiller <date>vers 1289</date> (Ann. de Colmar, 140).</p>
       </commentaire>
    </article>
-   <article id="DT68-08053" pg="190">
+   <article type="commune" id="DT68-08053" pg="190">
       <vedette>
          <sm>Sundhofen,</sm>
       </vedette>
@@ -79743,7 +79737,7 @@ Speckel.</reference>
       <definition>
          <typologie>forêt</typologie>, <localisation>commune de Sainte-Croix-en-Plaine</localisation>.</definition>
    </article>
-   <article id="DT68-08078" pg="190">
+   <article type="commune" id="DT68-08078" pg="190">
       <vedette>
          <sm>Tagolsheim,</sm>
       </vedette>
@@ -79769,7 +79763,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68332</insee>
    </article>
-   <article id="DT68-08079" pg="190">
+   <article type="commune" id="DT68-08079" pg="190">
       <vedette>
          <sm>Tagsdorf,</sm>
       </vedette>
@@ -80522,7 +80516,7 @@ Speckel.</reference>
       <definition>
          <typologie>montagne</typologie> à <localisation>Massevaux</localisation>.</definition>
    </article>
-   <article id="DT68-08164" pg="192">
+   <article type="commune" id="DT68-08164" pg="192">
       <vedette>
          <sm>Thann,</sm>
       </vedette>
@@ -80668,7 +80662,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Roppentzwiller</localisation>.</definition>
    </article>
-   <article id="DT68-08174" pg="193">
+   <article type="commune" id="DT68-08174" pg="193">
       <vedette>
          <pg>193</pg>
          <sm>Thannenkirch,</sm>
@@ -80800,7 +80794,7 @@ Speckel.</reference>
          <p>- Ce nom leur vient de ce que, dans la croyance populaire, leur débordement présage une année de cherté.</p>
       </commentaire>
    </article>
-   <article id="DT68-08188" pg="193">
+   <article type="commune" id="DT68-08188" pg="193">
       <vedette>
          <sm>Thiancourt,</sm>
       </vedette>
@@ -81627,7 +81621,7 @@ Speckel.</reference>
          <date>1394</date> 
          <reference>(urb. des pays d'Autr.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08277" pg="195">
+   <article type="commune" id="DT68-08277" pg="195">
       <vedette>
          <sm>Traubach-le-Bas</sm> ou <sm>Niedertraubach,</sm>
       </vedette>
@@ -81659,7 +81653,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68336</insee>
    </article>
-   <article id="DT68-08278" pg="195">
+   <article type="commune" id="DT68-08278" pg="195">
       <vedette>
          <sm>Traubach-le-Haut</sm> ou <sm>Obertraubach,</sm>
       </vedette>
@@ -81804,7 +81798,7 @@ Speckel.</reference>
       <definition>
          <typologie>champs</typologie>, <localisation>commune de Vézelois</localisation> (ancien cadastre).</definition>
    </article>
-   <article id="DT68-08294" pg="195">
+   <article type="commune" id="DT68-08294" pg="195">
       <vedette>
          <sm>Trétudans,</sm>
       </vedette>
@@ -82256,7 +82250,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Rimbach (canton de Massevaux)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-08339" pg="196">
       <vedette>
@@ -82475,7 +82468,7 @@ Speckel.</reference>
       <forme_ancienne>- <date>1421</date> 
          <reference>(rôles de Saint-Morand)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08366" pg="196">
+   <article type="commune" id="DT68-08366" pg="196">
       <vedette>
          <sm>Turckheim,</sm>
       </vedette>
@@ -82584,7 +82577,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Zillisheim</localisation>.</definition>
    </article>
-   <article id="DT68-08372" pg="197">
+   <article type="commune" id="DT68-08372" pg="197">
       <vedette>
          <sm>Uberkümen,</sm>
       </vedette>
@@ -82612,7 +82605,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Mittelmuespach</localisation>.</definition>
    </article>
-   <article id="DT68-08374" pg="197">
+   <article type="commune" id="DT68-08374" pg="197">
       <vedette>
          <sm>Uberstrass,</sm> en français patois <sm>Schu-Étrées,</sm>
       </vedette>
@@ -82719,7 +82712,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune d'Altenach</localisation>.</definition>
    </article>
-   <article id="DT68-08385" pg="197">
+   <article type="commune" id="DT68-08385" pg="197">
       <vedette>
          <sm>Uffheim,</sm>
       </vedette>
@@ -82745,7 +82738,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68341</insee>
    </article>
-   <article id="DT68-08386" pg="197">
+   <article type="commune" id="DT68-08386" pg="197">
       <vedette>
          <sm>Uffholtz,</sm>
       </vedette>
@@ -82851,7 +82844,7 @@ Speckel.</reference>
       <definition>
          <typologie>moulin</typologie>, <localisation>commune d'Ungersheim</localisation>.</definition>
    </article>
-   <article id="DT68-08396" pg="197">
+   <article type="commune" id="DT68-08396" pg="197">
       <vedette>
          <sm>Ungersheim,</sm>
       </vedette>
@@ -83076,7 +83069,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Riedisheim</localisation>.</definition>
    </article>
-   <article id="DT68-08417" pg="198">
+   <article type="commune" id="DT68-08417" pg="198">
       <vedette>
          <sm>Urbès,</sm>
       </vedette>
@@ -83105,7 +83098,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68344</insee>
    </article>
-   <article id="DT68-08418" pg="198">
+   <article type="commune" id="DT68-08418" pg="198">
       <vedette>
          <sm>Urcerey,</sm>
       </vedette>
@@ -83158,7 +83151,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Willer (canton d'Altkirch)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-08423" pg="198">
       <vedette>
@@ -83203,7 +83195,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Bantzenheim</localisation>.</definition>
    </article>
-   <article id="DT68-08428" pg="198">
+   <article type="commune" id="DT68-08428" pg="198">
       <vedette>
          <sm>Urschenheim,</sm>
       </vedette>
@@ -83544,19 +83536,25 @@ Speckel.</reference>
    </article>
    <article id="DT68-08465" pg="199">
       <vedette>
-         <sm>Val de Rosemont,</sm> en allem. <sm>Rosenfelserthal</sm> ou <sm>Rosenthal</sm> 
-         <reference>(Als. ill. IV, 119)</reference>.</vedette>
+         <sm>Val de Rosemont,</sm> en allem. <sm>Rosenfelserthal</sm> ou <sm>Rosenthal</sm>.
+      </vedette>
+      <forme_ancienne>
+         <i>Rosenfelserthal</i>, <reference>(Als. ill. IV, 119)</reference>.</forme_ancienne>
+      <forme_ancienne>
+         <i>Rosenthal</i>, <reference>(Als. ill. IV, 119)</reference>.</forme_ancienne>
       <commentaire>
          <p>- Cette vallée comprend la plus grande partie du canton de Giromagny.</p>
       </commentaire>
    </article>
    <article id="DT68-08466" pg="199">
       <vedette>
-         <sm>Val de Saint-Amarin</sm> ou <sm>Froideval</sm> 
-         <reference>(Als. ill. IV, 222)</reference>.</vedette>
+         <sm>Val de Saint-Amarin</sm> ou <sm>Froideval</sm>.</vedette>
       <forme_ancienne>- <i>Pedagium in valle Amarini,</i> 
          <date>1229</date> 
          <reference>(Als. dipl. I, 365)</reference>.</forme_ancienne>
+      <forme_ancienne>
+         <i>Froideval</i> 
+         <reference>(Als. ill. IV, 222)</reference>.</forme_ancienne>
       <commentaire>
          <p>- Cette vallée comprend tout le canton de Saint-Amarin et une partie de celui de Thann.</p>
       </commentaire>
@@ -83610,7 +83608,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-08471" pg="199">
+   <article type="commune" id="DT68-08471" pg="199">
       <vedette>
          <sm>Valdieu,</sm>
       </vedette>
@@ -83672,7 +83670,7 @@ Speckel.</reference>
          <p>- Cette vallée comprend tout le canton de la Poutroye.</p>
       </commentaire>
    </article>
-   <article id="DT68-08473" pg="200">
+   <article type="commune" id="DT68-08473" pg="200">
       <vedette>
          <pg>200</pg>
          <sm>Valdoye,</sm>
@@ -83816,7 +83814,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Votenbach</i> 
          <reference>(carte hydrog.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08489" pg="200">
+   <article type="commune" id="DT68-08489" pg="200">
       <vedette>
          <sm>Vauthiermont,</sm> en all. <sm>Walthersberg,</sm>
       </vedette>
@@ -83883,7 +83881,7 @@ Speckel.</reference>
             <reference>(cad.)</reference> ;</forme_ancienne2> 
          <localisation>de Perouse</localisation>, etc.</definition>
    </article>
-   <article id="DT68-08495" pg="200">
+   <article type="commune" id="DT68-08495" pg="200">
       <vedette>
          <sm>Vellescot,</sm> en all. <sm>Hanedorf,</sm>
       </vedette>
@@ -84149,7 +84147,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune d'Essert</localisation>.</definition>
    </article>
-   <article id="DT68-08523" pg="201">
+   <article type="commune" id="DT68-08523" pg="201">
       <vedette>
          <sm>Vescemont,</sm> en allem. <sm>Wessenberg,</sm>
       </vedette>
@@ -84211,7 +84209,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Heimsbrunn</localisation>.</definition>
    </article>
-   <article id="DT68-08528" pg="201">
+   <article type="commune" id="DT68-08528" pg="201">
       <vedette>
          <sm>Vétrigne,</sm> en allemand <sm>Würteringen,</sm>
       </vedette>
@@ -84264,7 +84262,7 @@ Speckel.</reference>
          <date>1717</date> 
          <reference>(rôle de Sigolsheim)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08532" pg="201">
+   <article type="commune" id="DT68-08532" pg="201">
       <vedette>
          <sm>Vézelois,</sm> en allemand <sm>Wieswald,</sm>
       </vedette>
@@ -84480,7 +84478,7 @@ Speckel.</reference>
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Rougemont</localisation>.</definition>
    </article>
-   <article id="DT68-08556" pg="201">
+   <article type="commune" id="DT68-08556" pg="201">
       <vedette>
          <sm>Vieux-Ferrette,</sm> en allemand <sm>Alten Pfirdt,</sm>
       </vedette>
@@ -84516,7 +84514,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune du Salbert</localisation>.</definition>
    </article>
-   <article id="DT68-08559" pg="201">
+   <article type="commune" id="DT68-08559" pg="201">
       <vedette>
          <sm>Vieux-Thann,</sm> en allemand <sm>Alt Thann,</sm>
       </vedette>
@@ -84588,7 +84586,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-08564" pg="202">
+   <article type="commune" id="DT68-08564" pg="202">
       <vedette>
          <sm>Village-Neuf (Le),</sm> en allem. <sm>Neudorf,</sm>
       </vedette>
@@ -84604,7 +84602,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68349</insee>
    </article>
-   <article id="DT68-08565" pg="202">
+   <article type="commune" id="DT68-08565" pg="202">
       <vedette>
          <sm>Villars-le-Sec,</sm>
       </vedette>
@@ -84795,7 +84793,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Rouffach</localisation>.</definition>
    </article>
-   <article id="DT68-08582" pg="202">
+   <article type="commune" id="DT68-08582" pg="202">
       <vedette>
          <sm>Vogelgrün,</sm>
       </vedette>
@@ -84915,7 +84913,7 @@ Speckel.</reference>
          <date>1522</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08595" pg="202">
+   <article type="commune" id="DT68-08595" pg="202">
       <vedette>
          <sm>Vögtlinshofen,</sm>
       </vedette>
@@ -85058,7 +85056,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Falckwiller</localisation>.</definition>
    </article>
-   <article id="DT68-08612" pg="203">
+   <article type="commune" id="DT68-08612" pg="203">
       <vedette>
          <sm>Volgelsheim,</sm>
       </vedette>
@@ -85333,7 +85331,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de l'Allemand-Rombach</localisation>.</definition>
    </article>
-   <article id="DT68-08635" pg="203">
+   <article type="commune" id="DT68-08635" pg="203">
       <vedette>
          <sm>Vourvenans,</sm>
       </vedette>
@@ -85525,7 +85523,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Tagsdorf</localisation>.</definition>
    </article>
-   <article id="DT68-08656" pg="204">
+   <article type="commune" id="DT68-08656" pg="204">
       <vedette>
          <sm>Walbach,</sm>
       </vedette>
@@ -85541,9 +85539,9 @@ Speckel.</reference>
       <forme_ancienne>- <i>Von der Walpach,</i> 
          <date>1421</date> 
          <reference>(rôles de Saint-Morand)</reference>.</forme_ancienne>
-      <insee>68353 68354</insee>
+      <insee>68353</insee>
    </article>
-   <article id="DT68-08657" pg="204">
+   <article type="commune" id="DT68-08657" pg="204">
       <vedette>
          <sm>Walbach,</sm>
       </vedette>
@@ -85566,7 +85564,7 @@ Speckel.</reference>
          </p>
          <p>Le ruiss. de Walbach, appelé aujourd'hui <i>Winckelbach,</i> est un affluent de la Fecht.</p>
       </commentaire>
-      <insee>68353 68354</insee>
+      <insee>68354</insee>
    </article>
    <article id="DT68-08658" pg="204">
       <vedette>
@@ -85739,7 +85737,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>By Waldthusenbrunnen jnn Bergholtz Bann,</i> en <date>1554</date> 
          <reference>(reg. des préb. de Mulhouse)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08675" pg="204">
+   <article type="commune" id="DT68-08675" pg="204">
       <vedette>
          <sm>Waldighofen,</sm>
       </vedette>
@@ -85816,7 +85814,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Liebsdorf</localisation>.</definition>
    </article>
-   <article id="DT68-08684" pg="205">
+   <article type="commune" id="DT68-08684" pg="205">
       <vedette>
          <sm>Walheim,</sm>
       </vedette>
@@ -85910,7 +85908,7 @@ Speckel.</reference>
       <definition>
          <typologie>ruisseau</typologie> à <localisation>Munster</localisation>.</definition>
    </article>
-   <article id="DT68-08694" pg="205">
+   <article type="commune" id="DT68-08694" pg="205">
       <vedette>
          <sm>Waltenheim,</sm>
       </vedette>
@@ -86193,7 +86191,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Hochstatt</localisation>.</definition>
    </article>
-   <article id="DT68-08726" pg="205">
+   <article type="commune" id="DT68-08726" pg="205">
       <vedette>
          <sm>Wasserbourg,</sm>
       </vedette>
@@ -86363,7 +86361,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Jettingen</localisation>, <date>1540</date> (terr. de Saint-Alban).</definition>
    </article>
-   <article id="DT68-08742" pg="206">
+   <article type="commune" id="DT68-08742" pg="206">
       <vedette>
          <sm>Wattwiller,</sm>
       </vedette>
@@ -86476,7 +86474,7 @@ Speckel.</reference>
          <date>1517</date> 
          <reference>(Mat. Berler, 12)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08749" pg="206">
+   <article type="commune" id="DT68-08749" pg="206">
       <vedette>
          <sm>Weckolsheim,</sm>
       </vedette>
@@ -86506,7 +86504,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68360</insee>
    </article>
-   <article id="DT68-08750" pg="206">
+   <article type="commune" id="DT68-08750" pg="206">
       <vedette>
          <sm>Weegscheid,</sm>
       </vedette>
@@ -87053,7 +87051,7 @@ Speckel.</reference>
             <sm>xiv</sm>
             <sup>e</sup> siècle</date> (rôle de Zimmerbach).</definition>
    </article>
-   <article id="DT68-08810" pg="207">
+   <article type="commune" id="DT68-08810" pg="207">
       <vedette>
          <sm>Wentzwiller,</sm>
       </vedette>
@@ -87121,7 +87119,7 @@ Speckel.</reference>
          <date>1567</date> 
          <reference>(terr. de Massevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08814" pg="208">
+   <article type="commune" id="DT68-08814" pg="208">
       <vedette>
          <sm>Werentzhausen,</sm>
       </vedette>
@@ -87312,7 +87310,7 @@ Speckel.</reference>
          <date>1490</date> 
          <reference>(urb. de Marbach)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08832" pg="208">
+   <article type="commune" id="DT68-08832" pg="208">
       <vedette>
          <sm>Westhalten,</sm>
       </vedette>
@@ -87362,7 +87360,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-08836" pg="208">
+   <article type="commune" id="DT68-08836" pg="208">
       <vedette>
          <sm>Wettolsheim,</sm>
       </vedette>
@@ -87622,7 +87620,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Willer (canton de Thann)</localisation>.</definition>
    </article>
-   <article id="DT68-08859" pg="209">
+   <article type="commune" id="DT68-08859" pg="209">
       <vedette>
          <sm>Wickerschwihr,</sm>
       </vedette>
@@ -87803,7 +87801,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Nambsheim</localisation>.</definition>
    </article>
-   <article id="DT68-08878" pg="209">
+   <article type="commune" id="DT68-08878" pg="209">
       <vedette>
          <sm>Wiedensohlen,</sm>
       </vedette>
@@ -87949,7 +87947,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-08886" pg="210">
+   <article type="commune" id="DT68-08886" pg="210">
       <vedette>
          <sm>Wihr-au-Val,</sm>
       </vedette>
@@ -87995,7 +87993,7 @@ Speckel.</reference>
          <reference>(Als. dipl. II, 319)</reference>.</forme_ancienne>
       <insee>68368</insee>
    </article>
-   <article id="DT68-08887" pg="210">
+   <article type="commune" id="DT68-08887" pg="210">
       <vedette>
          <sm>Wihr-en-Plaine,</sm>
       </vedette>
@@ -88079,7 +88077,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Burbach-le-Bas</localisation>.</definition>
    </article>
-   <article id="DT68-08895" pg="210">
+   <article type="commune" id="DT68-08895" pg="210">
       <vedette>
          <sm>Wildenstein,</sm>
       </vedette>
@@ -88161,7 +88159,7 @@ Speckel.</reference>
       <definition>
          <typologie>dép.</typologie> de <localisation>Kirchberg</localisation>.</definition>
    </article>
-   <article id="DT68-08904" pg="210">
+   <article type="commune" id="DT68-08904" pg="210">
       <vedette>
          <sm>Willer,</sm>
       </vedette>
@@ -88176,9 +88174,9 @@ Speckel.</reference>
       <commentaire>
          <p>- Paroisse du décanat du Sundgau (Lib. marc.). - Dépendait de la mairie du val de Hundsbach.</p>
       </commentaire>
-      <insee>68371 68372</insee>
+      <insee>68371</insee>
    </article>
-   <article id="DT68-08905" pg="210">
+   <article type="commune" id="DT68-08905" pg="210">
       <vedette>
          <sm>Willer,</sm>
       </vedette>
@@ -88201,7 +88199,7 @@ Speckel.</reference>
       <commentaire>
          <p>- C'était une paroisse du décanat de Massevaux (alm. d'Alsace de 1783). - Dépendait du baill. de Saint-Amarin.</p>
       </commentaire>
-      <insee>68371 68372</insee>
+      <insee>68372</insee>
    </article>
    <article id="DT68-08906" pg="210">
       <vedette>
@@ -88384,7 +88382,7 @@ Speckel.</reference>
       <definition>
          <typologie>ruisseau</typologie> à <localisation>Wintzenheim</localisation>.</definition>
    </article>
-   <article id="DT68-08925" pg="211">
+   <article type="commune" id="DT68-08925" pg="211">
       <vedette>
          <sm>Winckel,</sm> en français <sm>Vanchelle,</sm>
       </vedette>
@@ -88412,7 +88410,7 @@ Speckel.</reference>
       </commentaire>
       <insee>68373</insee>
    </article>
-   <article id="DT68-08926" pg="211">
+   <article type="commune" id="DT68-08926" pg="211">
       <vedette>
          <sm>Winckel,</sm>
       </vedette>
@@ -88427,7 +88425,7 @@ Speckel.</reference>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sultzeren</localisation>.</definition>
    </article>
-   <article id="DT68-08928" pg="211">
+   <article type="commune" id="DT68-08928" pg="211">
       <vedette>
          <sm>Winckel,</sm>
       </vedette>
@@ -88738,7 +88736,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-08957" pg="212">
+   <article type="commune" id="DT68-08957" pg="212">
       <vedette>
          <pg>212</pg>
          <sm>Wintzenheim,</sm>
@@ -88927,7 +88925,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Witzel,</i> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08974" pg="212">
+   <article type="commune" id="DT68-08974" pg="212">
       <vedette>
          <sm>Wittelsheim,</sm>
       </vedette>
@@ -89048,7 +89046,7 @@ Speckel.</reference>
       <forme_ancienne>- <i>Witenthal</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-08982" pg="212">
+   <article type="commune" id="DT68-08982" pg="212">
       <vedette>
          <sm>Wittersdorf,</sm>
       </vedette>
@@ -89420,7 +89418,7 @@ Speckel.</reference>
          <date>1567</date> 
          <reference>(terr. de Massevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-09019" pg="213">
+   <article type="commune" id="DT68-09019" pg="213">
       <vedette>
          <sm>Wolfersdorf,</sm> en français <sm>Wolficourt,</sm>
       </vedette>
@@ -89486,7 +89484,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune d'Eschentzwiller</localisation>.</definition>
    </article>
-   <article id="DT68-09026" pg="213">
+   <article type="commune" id="DT68-09026" pg="213">
       <vedette>
          <sm>Wolfgantzen,</sm>
       </vedette>
@@ -89832,7 +89830,6 @@ Speckel.</reference>
       </vedette>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Willer (canton de Thann)</localisation>.</definition>
-      <insee/>
    </article>
    <article id="DT68-09062" pg="214">
       <vedette>
@@ -89926,7 +89923,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Thann</localisation>.</definition>
    </article>
-   <article id="DT68-09070" pg="214">
+   <article type="commune" id="DT68-09070" pg="214">
       <vedette>
          <sm>Wolschwiller,</sm>
       </vedette>
@@ -89971,7 +89968,7 @@ Speckel.</reference>
       <definition>
          <localisation>commune de Heiteren</localisation>.</definition>
    </article>
-   <article id="DT68-09073" pg="215">
+   <article type="commune" id="DT68-09073" pg="215">
       <vedette>
          <sm>Wuenheim,</sm>
       </vedette>
@@ -90513,7 +90510,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-09130" pg="216">
+   <article type="commune" id="DT68-09130" pg="216">
       <vedette>
          <sm>Zäsingen,</sm>
       </vedette>
@@ -90620,7 +90617,7 @@ Speckel.</reference>
          </p>
       </commentaire>
    </article>
-   <article id="DT68-09138" pg="216">
+   <article type="commune" id="DT68-09138" pg="216">
       <vedette>
          <sm>Zellenberg,</sm>
       </vedette>
@@ -90914,7 +90911,7 @@ Speckel.</reference>
          <date>1431</date> 
          <reference>(reg. Lucell.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT68-09170" pg="217">
+   <article type="commune" id="DT68-09170" pg="217">
       <vedette>
          <sm>Ziehlbach,</sm>
       </vedette>
@@ -91052,7 +91049,7 @@ Speckel.</reference>
       <definition>
          <typologie>canton</typologie> du <localisation>territoire de Kientzheim</localisation>, cité en <date>1734</date> (rôle de Kientzheim).</definition>
    </article>
-   <article id="DT68-09184" pg="217">
+   <article type="commune" id="DT68-09184" pg="217">
       <vedette>
          <sm>Zimmerbach,</sm>
       </vedette>
@@ -91099,7 +91096,7 @@ Speckel.</reference>
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Saint-Hippolyte</localisation>.</definition>
    </article>
-   <article id="DT68-09188" pg="217">
+   <article type="commune" id="DT68-09188" pg="217">
       <vedette>
          <sm>Zimmersheim,</sm>
       </vedette>
