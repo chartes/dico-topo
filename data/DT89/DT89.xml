@@ -3,6 +3,7 @@
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
+
 <!DOCTYPE DICTIONNAIRE SYSTEM "DT89.dtd">
 <DICTIONNAIRE departement="Yonne" dep="89">
    <article id="DT89-00001" pg="1">
@@ -128,7 +129,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Tannerre</localisation>.</definition>
    </article>
-   <article id="DT89-00013" pg="1">
+   <article type="commune" id="DT89-00013" pg="1">
       <vedette>
          <sm>Aigremont,</sm>
       </vedette>
@@ -194,7 +195,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Chichery</localisation>.</definition>
    </article>
-   <article id="DT89-00018" pg="1">
+   <article type="commune" id="DT89-00018" pg="1">
       <vedette>
          <sm>Aisy,</sm>
       </vedette>
@@ -432,7 +433,7 @@
          <p>Ancy-le-Franc était jadis du pagus de Tonnerre, du diocèse de Langres, de la province de l'Île-de-France, et siége d'une prévôté du baill. de Tonnerre. La baronnie d'Ancy-le-Franc relevait en arrière-fief du roi ou du duché de Bourgogne, et en fief du ch. de Crusy.</p>
       </commentaire>
    </article>
-   <article id="DT89-00043" pg="2">
+   <article type="commune" id="DT89-00043" pg="2">
       <vedette>
          <sm>Ancy-le-Serveux,</sm>
       </vedette>
@@ -469,7 +470,7 @@
       </commentaire>
       <insee>89006</insee>
    </article>
-   <article id="DT89-00044" pg="2">
+   <article type="commune" id="DT89-00044" pg="2">
       <vedette>
          <sm>Andries,</sm>
       </vedette>
@@ -499,7 +500,7 @@
       </vedette>
       <definition>situés commune de ce nom.</definition>
    </article>
-   <article id="DT89-00046" pg="2">
+   <article type="commune" id="DT89-00046" pg="2">
       <vedette>
          <sm>Angely,</sm>
       </vedette>
@@ -580,7 +581,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cart. de l'hôpital de Tonnerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00053" pg="2">
+   <article type="commune" id="DT89-00053" pg="2">
       <vedette>
          <sm>Annay-la-Côte,</sm>
       </vedette>
@@ -615,7 +616,7 @@
       </commentaire>
       <insee>89009</insee>
    </article>
-   <article id="DT89-00054" pg="3">
+   <article type="commune" id="DT89-00054" pg="3">
       <vedette>
          <sm>Annay-sur-Serain,</sm>
       </vedette>
@@ -635,7 +636,7 @@
       </commentaire>
       <insee>89010</insee>
    </article>
-   <article id="DT89-00055" pg="3">
+   <article type="commune" id="DT89-00055" pg="3">
       <vedette>
          <sm>Annéot,</sm>
       </vedette>
@@ -674,7 +675,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00057" pg="3">
+   <article type="commune" id="DT89-00057" pg="3">
       <vedette>
          <sm>Annoux,</sm>
       </vedette>
@@ -719,7 +720,7 @@
          <date>1470</date> 
          <reference>(chap. d'Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00059" pg="3">
+   <article type="commune" id="DT89-00059" pg="3">
       <vedette>
          <sm>Anstrude,</sm>
       </vedette>
@@ -771,7 +772,7 @@
          <p>— Lieu détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-00062" pg="3">
+   <article type="commune" id="DT89-00062" pg="3">
       <vedette>
          <sm>Appoigny,</sm>
       </vedette>
@@ -929,7 +930,7 @@
       <definition>
          <localisation>commune d'Aillant</localisation>.</definition>
    </article>
-   <article id="DT89-00072" pg="3">
+   <article type="commune" id="DT89-00072" pg="3">
       <vedette>
          <sm>Arces,</sm>
       </vedette>
@@ -1092,7 +1093,7 @@
          <date>1611</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00085" pg="4">
+   <article type="commune" id="DT89-00085" pg="4">
       <vedette>
          <sm>Arcy-sur-Cure,</sm>
       </vedette>
@@ -1167,7 +1168,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Cudot</localisation>.</definition>
    </article>
-   <article id="DT89-00090" pg="4">
+   <article type="commune" id="DT89-00090" pg="4">
       <vedette>
          <sm>Argentenay,</sm>
       </vedette>
@@ -1188,7 +1189,7 @@
       </commentaire>
       <insee>89016</insee>
    </article>
-   <article id="DT89-00091" pg="4">
+   <article type="commune" id="DT89-00091" pg="4">
       <vedette>
          <sm>Argenteuil,</sm>
       </vedette>
@@ -1303,7 +1304,7 @@
          <p>— L'Armançon était, il y a deux siècles, navigable jusqu'à Tonnerre (Coulon, les Rivières de France, I, 74).</p>
       </commentaire>
    </article>
-   <article id="DT89-00097" pg="4">
+   <article type="commune" id="DT89-00097" pg="4">
       <vedette>
          <sm>Armeau,</sm>
       </vedette>
@@ -1417,7 +1418,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Martin-d'Ordon</localisation>.</definition>
    </article>
-   <article id="DT89-00107" pg="5">
+   <article type="commune" id="DT89-00107" pg="5">
       <vedette>
          <sm>Arthonnay,</sm>
       </vedette>
@@ -1475,7 +1476,7 @@
          <typologie>hameau détruit</typologie>, <localisation>commune de Bussy-le-Repos</localisation> 
          <reference>(reg. de l'état civil, <date>an 1719</date>)</reference>.</definition>
    </article>
-   <article id="DT89-00112" pg="5">
+   <article type="commune" id="DT89-00112" pg="5">
       <vedette>
          <sm>Asnières,</sm>
       </vedette>
@@ -1526,7 +1527,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(<i>Gesta pontif. Autiss.</i> Vie d'Angelelme)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00116" pg="5">
+   <article type="commune" id="DT89-00116" pg="5">
       <vedette>
          <sm>Asquins,</sm>
       </vedette>
@@ -1599,7 +1600,7 @@
          <date>1514</date> 
          <reference>(petit cart. de Saint-Michel)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00120" pg="5">
+   <article type="commune" id="DT89-00120" pg="5">
       <vedette>
          <sm>Athie,</sm>
       </vedette>
@@ -1755,7 +1756,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Piffonds</localisation>.</definition>
    </article>
-   <article id="DT89-00133" pg="5">
+   <article type="commune" id="DT89-00133" pg="5">
       <vedette>
          <sm>Augy,</sm>
       </vedette>
@@ -2079,7 +2080,7 @@
       <definition>
          <localisation>commune de Fontaines</localisation>.</definition>
    </article>
-   <article id="DT89-00156" pg="6">
+   <article type="commune" id="DT89-00156" pg="6">
       <vedette>
          <sm>Avrolles,</sm>
       </vedette>
@@ -2249,7 +2250,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villethierry</localisation>.</definition>
    </article>
-   <article id="DT89-00168" pg="7">
+   <article type="commune" id="DT89-00168" pg="7">
       <vedette>
          <sm>Bagneaux,</sm>
       </vedette>
@@ -2550,7 +2551,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saints</localisation>.</definition>
    </article>
-   <article id="DT89-00196" pg="7">
+   <article type="commune" id="DT89-00196" pg="7">
       <vedette>
          <sm>Baon,</sm>
       </vedette>
@@ -3061,7 +3062,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Rogny</localisation>.</definition>
    </article>
-   <article id="DT89-00258" pg="8">
+   <article type="commune" id="DT89-00258" pg="8">
       <vedette>
          <sm>Bassou,</sm>
       </vedette>
@@ -3326,7 +3327,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villeneuve-les-Genêts</localisation>.</definition>
    </article>
-   <article id="DT89-00288" pg="9">
+   <article type="commune" id="DT89-00288" pg="9">
       <vedette>
          <sm>Bazarne,</sm>
       </vedette>
@@ -3587,7 +3588,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Malicorne</localisation>.</definition>
    </article>
-   <article id="DT89-00314" pg="10">
+   <article type="commune" id="DT89-00314" pg="10">
       <vedette>
          <sm>Beaumont,</sm>
       </vedette>
@@ -3907,7 +3908,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Vénizy</localisation>.</definition>
    </article>
-   <article id="DT89-00349" pg="10">
+   <article type="commune" id="DT89-00349" pg="10">
       <vedette>
          <sm>Beauvilliers,</sm>
       </vedette>
@@ -3921,7 +3922,7 @@
       </commentaire>
       <insee>89032</insee>
    </article>
-   <article id="DT89-00350" pg="10">
+   <article type="commune" id="DT89-00350" pg="10">
       <vedette>
          <sm>Beauvoir,</sm>
       </vedette>
@@ -4041,7 +4042,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chevillon</localisation>.</definition>
    </article>
-   <article id="DT89-00364" pg="11">
+   <article type="commune" id="DT89-00364" pg="11">
       <vedette>
          <sm>Beine,</sm>
       </vedette>
@@ -4167,7 +4168,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villeroy</localisation>.</definition>
    </article>
-   <article id="DT89-00375" pg="11">
+   <article type="commune" id="DT89-00375" pg="11">
       <vedette>
          <sm>Belle-Chaume,</sm>
       </vedette>
@@ -4327,7 +4328,7 @@
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de Nailly</localisation>.</definition>
    </article>
-   <article id="DT89-00395" pg="11">
+   <article type="commune" id="DT89-00395" pg="11">
       <vedette>
          <sm>Belliole (La),</sm>
       </vedette>
@@ -4413,7 +4414,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Malicorne</localisation>.</definition>
    </article>
-   <article id="DT89-00405" pg="11">
+   <article type="commune" id="DT89-00405" pg="11">
       <vedette>
          <sm>Béon,</sm>
       </vedette>
@@ -4717,7 +4718,7 @@
          <date>884</date> 
          <reference>(cart. gén. de l'Yonne, I, 111)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00440" pg="12">
+   <article type="commune" id="DT89-00440" pg="12">
       <vedette>
          <sm>Bernouil,</sm>
       </vedette>
@@ -4910,7 +4911,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Ferté-Loupière</localisation>.</definition>
    </article>
-   <article id="DT89-00464" pg="12">
+   <article type="commune" id="DT89-00464" pg="12">
       <vedette>
          <sm>Béru,</sm>
       </vedette>
@@ -4947,7 +4948,7 @@
          <typologie>montagne</typologie>, sur laquelle s'élevait l'ancien château de
             <localisation>Tonnerre</localisation> (<reference>(Cart. de Saint-Michel de Tonnerre)</reference>.</definition>
     </article>
-   <article id="DT89-00466" pg="12">
+   <article type="commune" id="DT89-00466" pg="12">
       <vedette>
          <sm>Bessy,</sm>
       </vedette>
@@ -5016,7 +5017,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Arcy-sur-Cure</localisation>.</definition>
    </article>
-   <article id="DT89-00470" pg="13">
+   <article type="commune" id="DT89-00470" pg="13">
       <vedette>
          <sm>Beugnon,</sm>
       </vedette>
@@ -5360,7 +5361,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chaumot</localisation>.</definition>
    </article>
-   <article id="DT89-00510" pg="13">
+   <article type="commune" id="DT89-00510" pg="13">
       <vedette>
          <sm>Blacy,</sm>
       </vedette>
@@ -5465,7 +5466,7 @@
                <sup>e</sup> siècle</date> (B<sup>in</sup> de la Soc. des sciences de l'Yonne, <date>1858</date>).</p>
       </commentaire>
    </article>
-   <article id="DT89-00521" pg="14">
+   <article type="commune" id="DT89-00521" pg="14">
       <vedette>
          <sm>Blannay,</sm>
       </vedette>
@@ -5534,7 +5535,7 @@
             justice de <localisation>Seignelay</localisation>, dont il relevait (<reference>Masle,
                 notaire ; arch. de l'Yonne)</reference>.</definition>
     </article>
-   <article id="DT89-00527" pg="14">
+   <article type="commune" id="DT89-00527" pg="14">
       <vedette>
          <sm>Bleigny-le-Carreau,</sm>
       </vedette>
@@ -5617,7 +5618,7 @@
          <date>1560</date> 
          <reference>(abb. Saint-Germain)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-00530" pg="14">
+   <article type="commune" id="DT89-00530" pg="14">
       <vedette>
          <sm>Bligny-en-Othe,</sm>
       </vedette>
@@ -5759,7 +5760,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sept-Fonds</localisation>.</definition>
    </article>
-   <article id="DT89-00543" pg="14">
+   <article type="commune" id="DT89-00543" pg="14">
       <vedette>
          <sm>Bœurs,</sm>
       </vedette>
@@ -5921,7 +5922,7 @@
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de Saint-Julien-du-Sault</localisation>.</definition>
    </article>
-   <article id="DT89-00564" pg="15">
+   <article type="commune" id="DT89-00564" pg="15">
       <vedette>
          <sm>Bois-d'Arcy,</sm>
       </vedette>
@@ -6332,7 +6333,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Toucy</localisation>.</definition>
    </article>
-   <article id="DT89-00620" pg="15">
+   <article type="commune" id="DT89-00620" pg="15">
       <vedette>
          <sm>Bonnard,</sm>
       </vedette>
@@ -6635,7 +6636,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Mailly-le-Château</localisation>.</definition>
    </article>
-   <article id="DT89-00656" pg="16">
+   <article type="commune" id="DT89-00656" pg="16">
       <vedette>
          <sm>Bordes (Les),</sm>
       </vedette>
@@ -7033,7 +7034,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martin-d'Ordon</localisation>.</definition>
    </article>
-   <article id="DT89-00702" pg="17">
+   <article type="commune" id="DT89-00702" pg="17">
       <vedette>
          <sm>Bouilly,</sm>
       </vedette>
@@ -7910,7 +7911,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bléneau</localisation>.</definition>
    </article>
-   <article id="DT89-00800" pg="19">
+   <article type="commune" id="DT89-00800" pg="19">
       <vedette>
          <sm>Branches,</sm>
       </vedette>
@@ -7989,7 +7990,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Bris</localisation>.</definition>
    </article>
-   <article id="DT89-00808" pg="19">
+   <article type="commune" id="DT89-00808" pg="19">
       <vedette>
          <sm>Brannay,</sm>
       </vedette>
@@ -8583,7 +8584,7 @@
       <definition>
          <typologie>maison</typologie>, <localisation>commune de Domecy-sur-Cure</localisation>.</definition>
    </article>
-   <article id="DT89-00866" pg="20">
+   <article type="commune" id="DT89-00866" pg="20">
       <vedette>
          <sm>Brion,</sm>
       </vedette>
@@ -8861,7 +8862,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Montacher</localisation>.</definition>
    </article>
-   <article id="DT89-00898" pg="21">
+   <article type="commune" id="DT89-00898" pg="21">
       <vedette>
          <sm>Brosses,</sm>
       </vedette>
@@ -9516,7 +9517,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Moutiers</localisation>.</definition>
    </article>
-   <article id="DT89-00975" pg="22">
+   <article type="commune" id="DT89-00975" pg="22">
       <vedette>
          <sm>Bussières,</sm>
       </vedette>
@@ -9541,7 +9542,7 @@
       </commentaire>
       <insee>89058</insee>
    </article>
-   <article id="DT89-00976" pg="22">
+   <article type="commune" id="DT89-00976" pg="22">
       <vedette>
          <sm>Bussy-en-Othe,</sm>
       </vedette>
@@ -9582,7 +9583,7 @@
       </commentaire>
       <insee>89059</insee>
    </article>
-   <article id="DT89-00977" pg="22">
+   <article type="commune" id="DT89-00977" pg="22">
       <vedette>
          <sm>Bussy-le-Repos,</sm>
       </vedette>
@@ -9633,7 +9634,7 @@
       <definition>
          <typologie>maison</typologie>, <localisation>commune de Lainsecq</localisation>.</definition>
    </article>
-   <article id="DT89-00981" pg="23">
+   <article type="commune" id="DT89-00981" pg="23">
       <vedette>
          <sm>Butteaux,</sm>
       </vedette>
@@ -9920,7 +9921,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-01015" pg="23">
+   <article type="commune" id="DT89-01015" pg="23">
       <vedette>
          <sm>Carisey,</sm>
       </vedette>
@@ -10364,7 +10365,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Celle-Saint-Cyr</localisation>.</definition>
    </article>
-   <article id="DT89-01070" pg="24">
+   <article type="commune" id="DT89-01070" pg="24">
       <vedette>
          <sm>Celle-Saint-Cyr (La),</sm>
       </vedette>
@@ -10438,7 +10439,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Grandchamp</localisation>.</definition>
    </article>
-   <article id="DT89-01075" pg="24">
+   <article type="commune" id="DT89-01075" pg="24">
       <vedette>
          <sm>Censy,</sm>
       </vedette>
@@ -10509,7 +10510,7 @@
          <p>— <date>1679</date>, rôle des feux du baill. d'Avallon (arch. de la Côte-d'Or).</p>
       </commentaire>
    </article>
-   <article id="DT89-01081" pg="24">
+   <article type="commune" id="DT89-01081" pg="24">
       <vedette>
          <sm>Cérilly,</sm>
       </vedette>
@@ -10588,7 +10589,7 @@
          <date>1760</date> 
          <reference>(plan de la terre de Prunoy, arch. du ch.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01084" pg="25">
+   <article type="commune" id="DT89-01084" pg="25">
       <vedette>
          <sm>Césy,</sm>
       </vedette>
@@ -10741,7 +10742,7 @@
          <date>1163</date> 
          <reference>(cart. gén. de l'Yonne, II, 149)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01095" pg="25">
+   <article type="commune" id="DT89-01095" pg="25">
       <vedette>
          <sm>Chailley,</sm>
       </vedette>
@@ -10973,7 +10974,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Sainte-Magnance</localisation>.</definition>
    </article>
-   <article id="DT89-01119" pg="26">
+   <article type="commune" id="DT89-01119" pg="26">
       <vedette>
          <sm>Chambeugle,</sm>
       </vedette>
@@ -11032,7 +11033,7 @@
                <sup>e</sup> siècle</date>). — Siége d'une prévôté ressort. au baill. de Tonnerre.</p>
       </commentaire>
    </article>
-   <article id="DT89-01124" pg="26">
+   <article type="commune" id="DT89-01124" pg="26">
       <vedette>
          <sm>Chamoux,</sm>
       </vedette>
@@ -11103,7 +11104,7 @@
       <definition>
          <localisation>commune de Merry-Sec</localisation>.</definition>
    </article>
-   <article id="DT89-01131" pg="26">
+   <article type="commune" id="DT89-01131" pg="26">
       <vedette>
          <sm>Champcevrais,</sm>
       </vedette>
@@ -11415,7 +11416,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Levis</localisation>.</definition>
    </article>
-   <article id="DT89-01169" pg="26">
+   <article type="commune" id="DT89-01169" pg="26">
       <vedette>
          <sm>Champignelles,</sm>
       </vedette>
@@ -11445,7 +11446,7 @@
       </commentaire>
       <insee>89073</insee>
    </article>
-   <article id="DT89-01170" pg="27">
+   <article type="commune" id="DT89-01170" pg="27">
       <vedette>
          <sm>Champigny,</sm>
       </vedette>
@@ -11536,7 +11537,7 @@
          <date>1665</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01178" pg="27">
+   <article type="commune" id="DT89-01178" pg="27">
       <vedette>
          <sm>Champlay,</sm>
       </vedette>
@@ -11646,7 +11647,7 @@
          <p>Il y avait autref. un ch. qui est détruit, et qui relevait en fief du comté de Joigny.</p>
       </commentaire>
    </article>
-   <article id="DT89-01185" pg="27">
+   <article type="commune" id="DT89-01185" pg="27">
       <vedette>
          <sm>Champlost,</sm>
       </vedette>
@@ -11844,7 +11845,7 @@
          <date>1143</date> 
          <reference>(cart. gén. de l'Yonne, I, 368 et 511)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01202" pg="28">
+   <article type="commune" id="DT89-01202" pg="28">
       <vedette>
          <sm>Champs,</sm>
       </vedette>
@@ -11917,7 +11918,7 @@
          <p>— <date>1516</date> (minutes d'Armant, notaire). — Lieu détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-01210" pg="28">
+   <article type="commune" id="DT89-01210" pg="28">
       <vedette>
          <sm>Champvallon,</sm>
       </vedette>
@@ -11941,7 +11942,7 @@
       </commentaire>
       <insee>89078</insee>
    </article>
-   <article id="DT89-01211" pg="28">
+   <article type="commune" id="DT89-01211" pg="28">
       <vedette>
          <sm>Chamvres,</sm>
       </vedette>
@@ -12180,7 +12181,7 @@
          <p>Autrefois comm<sup>rie</sup> dépendant de celle de Pontaubert, ordre de Saint-Jean-de-Jérusalem, <date>1486</date> (terrier d'Avallon, Côte-d'Or). — Lieu détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-01237" pg="28">
+   <article type="commune" id="DT89-01237" pg="28">
       <vedette>
          <sm>Chapelle-sur-Oreuse (La),</sm>
       </vedette>
@@ -12197,7 +12198,7 @@
       </commentaire>
       <insee>89080</insee>
    </article>
-   <article id="DT89-01238" pg="28">
+   <article type="commune" id="DT89-01238" pg="28">
       <vedette>
          <sm>Chapelle-Vaupeltaigne (La),</sm>
       </vedette>
@@ -12227,7 +12228,7 @@
       </commentaire>
       <insee>89081</insee>
    </article>
-   <article id="DT89-01239" pg="29">
+   <article type="commune" id="DT89-01239" pg="29">
       <vedette>
          <sm>Chapelle-Vieille-Forêt (La),</sm>
       </vedette>
@@ -12483,7 +12484,7 @@
       <definition>
          <typologie>ruisseau</typologie> prend sa source à <localisation>Charency</localisation> (Nièvre) et se jette dans la Cure, <localisation>commune de Pierre-Pertuis</localisation>.</definition>
    </article>
-   <article id="DT89-01261" pg="29">
+   <article type="commune" id="DT89-01261" pg="29">
       <vedette>
          <sm>Charentenay,</sm>
       </vedette>
@@ -12648,7 +12649,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Quarré-les-Tombes</localisation>.</definition>
    </article>
-   <article id="DT89-01279" pg="30">
+   <article type="commune" id="DT89-01279" pg="30">
       <vedette>
          <sm>Charmoy,</sm>
       </vedette>
@@ -12936,7 +12937,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-01308" pg="30">
+   <article type="commune" id="DT89-01308" pg="30">
       <vedette>
          <sm>Chassignelles,</sm>
       </vedette>
@@ -12980,7 +12981,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(chap. d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01310" pg="30">
+   <article type="commune" id="DT89-01310" pg="30">
       <vedette>
          <sm>Chassy,</sm>
       </vedette>
@@ -13014,7 +13015,7 @@
       </commentaire>
       <insee>89088</insee>
    </article>
-   <article id="DT89-01311" pg="31">
+   <article type="commune" id="DT89-01311" pg="31">
       <vedette>
          <sm>Chastellux,</sm>
       </vedette>
@@ -13043,7 +13044,7 @@
       </commentaire>
       <insee>89089</insee>
    </article>
-   <article id="DT89-01312" pg="31">
+   <article type="commune" id="DT89-01312" pg="31">
       <vedette>
          <sm>Chastenay-le-Bas,</sm>
       </vedette>
@@ -13375,7 +13376,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Avallon</localisation>.</definition>
    </article>
-   <article id="DT89-01351" pg="32">
+   <article type="commune" id="DT89-01351" pg="32">
       <vedette>
          <pg>32</pg>
          <sm>Châtel-Censoir,</sm>
@@ -13413,7 +13414,7 @@
       </commentaire>
       <insee>89091</insee>
    </article>
-   <article id="DT89-01352" pg="32">
+   <article type="commune" id="DT89-01352" pg="32">
       <vedette>
          <sm>Châtel-Gérard,</sm>
       </vedette>
@@ -13792,7 +13793,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune d'Appoigny</localisation> ; appartenait autrefois aux évêques d'Auxerre.</definition>
    </article>
-   <article id="DT89-01400" pg="32">
+   <article type="commune" id="DT89-01400" pg="32">
       <vedette>
          <sm>Chaumont,</sm>
       </vedette>
@@ -13842,7 +13843,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chaumont</localisation>.</definition>
    </article>
-   <article id="DT89-01405" pg="33">
+   <article type="commune" id="DT89-01405" pg="33">
       <vedette>
          <sm>Chaumot,</sm>
       </vedette>
@@ -14005,7 +14006,7 @@
          <date>1624</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01423" pg="33">
+   <article type="commune" id="DT89-01423" pg="33">
       <vedette>
          <sm>Chemilly-près-Seignelay,</sm>
       </vedette>
@@ -14030,7 +14031,7 @@
       </commentaire>
       <insee>89096</insee>
    </article>
-   <article id="DT89-01424" pg="33">
+   <article type="commune" id="DT89-01424" pg="33">
       <vedette>
          <sm>Chemilly-sur-Serain,</sm>
       </vedette>
@@ -14177,7 +14178,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dixmont</localisation>.</definition>
    </article>
-   <article id="DT89-01436" pg="34">
+   <article type="commune" id="DT89-01436" pg="34">
       <vedette>
          <sm>Chêne-Arnoult,</sm>
       </vedette>
@@ -14283,7 +14284,7 @@
          <date>1391</date> 
          <reference>(archev. de Sens, compte de Nailly)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01447" pg="34">
+   <article type="commune" id="DT89-01447" pg="34">
       <vedette>
          <sm>Cheney,</sm>
       </vedette>
@@ -14335,7 +14336,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Moutiers</localisation>.</definition>
    </article>
-   <article id="DT89-01450" pg="34">
+   <article type="commune" id="DT89-01450" pg="34">
       <vedette>
          <sm>Cheny,</sm>
       </vedette>
@@ -14565,7 +14566,7 @@
       <definition>
          <typologie>hameau</typologie>, dépendant des <localisation>communes de Piffonds et de Subligny</localisation>.</definition>
    </article>
-   <article id="DT89-01466" pg="35">
+   <article type="commune" id="DT89-01466" pg="35">
       <vedette>
          <sm>Chéu,</sm>
       </vedette>
@@ -14646,7 +14647,7 @@
       <definition>
          <typologie>hameaux</typologie> des <localisation>communes de Bussy-le-Repos, Piffonds, Villefranche</localisation>.</definition>
    </article>
-   <article id="DT89-01473" pg="35">
+   <article type="commune" id="DT89-01473" pg="35">
       <vedette>
          <sm>Chevannes,</sm>
       </vedette>
@@ -14717,7 +14718,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bussy-le-Repos</localisation> ; détruite.</definition>
    </article>
-   <article id="DT89-01478" pg="35">
+   <article type="commune" id="DT89-01478" pg="35">
       <vedette>
          <sm>Chevillon,</sm>
       </vedette>
@@ -14834,7 +14835,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bœurs</localisation>.</definition>
    </article>
-   <article id="DT89-01489" pg="35">
+   <article type="commune" id="DT89-01489" pg="35">
       <vedette>
          <sm>Chichée,</sm>
       </vedette>
@@ -14862,7 +14863,7 @@
       </commentaire>
       <insee>89104</insee>
    </article>
-   <article id="DT89-01490" pg="36">
+   <article type="commune" id="DT89-01490" pg="36">
       <vedette>
          <sm>Chichery,</sm>
       </vedette>
@@ -14884,7 +14885,7 @@
       </commentaire>
       <insee>89105</insee>
    </article>
-   <article id="DT89-01491" pg="36">
+   <article type="commune" id="DT89-01491" pg="36">
       <vedette>
          <sm>Chichy,</sm>
       </vedette>
@@ -14931,7 +14932,7 @@
          <p>Fief relevant de Courtenay, <date>1760</date> (ém. de Saxe, inv. de la terre de Chaumot).</p>
       </commentaire>
    </article>
-   <article id="DT89-01495" pg="36">
+   <article type="commune" id="DT89-01495" pg="36">
       <vedette>
          <sm>Chigy,</sm>
       </vedette>
@@ -14975,7 +14976,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Privé</localisation>.</definition>
    </article>
-   <article id="DT89-01499" pg="36">
+   <article type="commune" id="DT89-01499" pg="36">
       <vedette>
          <sm>Chitry,</sm>
       </vedette>
@@ -15199,7 +15200,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-01519" pg="36">
+   <article type="commune" id="DT89-01519" pg="36">
       <vedette>
          <sm>Cisery,</sm>
       </vedette>
@@ -15237,7 +15238,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villeneuve-les-Genêts</localisation>.</definition>
    </article>
-   <article id="DT89-01522" pg="36">
+   <article type="commune" id="DT89-01522" pg="36">
       <vedette>
          <sm>Civry,</sm>
       </vedette>
@@ -15663,7 +15664,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Louesme</localisation>.</definition>
    </article>
-   <article id="DT89-01572" pg="37">
+   <article type="commune" id="DT89-01572" pg="37">
       <vedette>
          <sm>Collan,</sm>
       </vedette>
@@ -15707,7 +15708,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-01575" pg="38">
+   <article type="commune" id="DT89-01575" pg="38">
       <vedette>
          <pg>38</pg>
          <sm>Collemiers,</sm>
@@ -15872,7 +15873,7 @@
          <date>vers 860</date> 
          <reference>(cart. gén. de l'Yonne, I, 21)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01593" pg="38">
+   <article type="commune" id="DT89-01593" pg="38">
       <vedette>
          <sm>Commissey,</sm>
       </vedette>
@@ -15947,7 +15948,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Fontenoy</localisation>.</definition>
    </article>
-   <article id="DT89-01599" pg="38">
+   <article type="commune" id="DT89-01599" pg="38">
       <vedette>
          <sm>Compigny,</sm>
       </vedette>
@@ -16248,7 +16249,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Fournaudin</localisation>.</definition>
    </article>
-   <article id="DT89-01630" pg="39">
+   <article type="commune" id="DT89-01630" pg="39">
       <vedette>
          <sm>Cornant,</sm>
       </vedette>
@@ -16568,7 +16569,7 @@
          <date>1537</date> 
          <reference>(Armant, notaire à Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01667" pg="40">
+   <article type="commune" id="DT89-01667" pg="40">
       <vedette>
          <pg>40</pg>
          <sm>Coulangeron,</sm>
@@ -16700,7 +16701,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Privé</localisation>.</definition>
    </article>
-   <article id="DT89-01674" pg="40">
+   <article type="commune" id="DT89-01674" pg="40">
       <vedette>
          <sm>Coulours,</sm>
       </vedette>
@@ -16883,7 +16884,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martin-des-Champs</localisation>.</definition>
    </article>
-   <article id="DT89-01692" pg="40">
+   <article type="commune" id="DT89-01692" pg="40">
       <vedette>
          <sm>Courceaux,</sm>
       </vedette>
@@ -17065,7 +17066,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Fargeau</localisation>.</definition>
    </article>
-   <article id="DT89-01709" pg="41">
+   <article type="commune" id="DT89-01709" pg="41">
       <vedette>
          <sm>Courgenay,</sm>
       </vedette>
@@ -17091,7 +17092,7 @@
       </commentaire>
       <insee>89122</insee>
    </article>
-   <article id="DT89-01710" pg="41">
+   <article type="commune" id="DT89-01710" pg="41">
       <vedette>
          <sm>Courgis,</sm>
       </vedette>
@@ -17414,7 +17415,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Vaumort</localisation>.</definition>
    </article>
-   <article id="DT89-01733" pg="42">
+   <article type="commune" id="DT89-01733" pg="42">
       <vedette>
          <sm>Courtoin,</sm>
       </vedette>
@@ -17433,7 +17434,7 @@
       </commentaire>
       <insee>89126</insee>
    </article>
-   <article id="DT89-01734" pg="42">
+   <article type="commune" id="DT89-01734" pg="42">
       <vedette>
          <sm>Courtois,</sm>
       </vedette>
@@ -17522,7 +17523,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Grandchamp</localisation>.</definition>
    </article>
-   <article id="DT89-01741" pg="42">
+   <article type="commune" id="DT89-01741" pg="42">
       <vedette>
          <sm>Coutarnoux,</sm>
       </vedette>
@@ -17594,7 +17595,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Poinchy</localisation>.</definition>
    </article>
-   <article id="DT89-01748" pg="42">
+   <article type="commune" id="DT89-01748" pg="42">
       <vedette>
          <sm>Crain,</sm>
       </vedette>
@@ -17650,7 +17651,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bléneau</localisation>.</definition>
    </article>
-   <article id="DT89-01752" pg="42">
+   <article type="commune" id="DT89-01752" pg="42">
       <vedette>
          <sm>Cravan,</sm>
       </vedette>
@@ -18149,7 +18150,7 @@
          <p>Cruzy était, <date>avant 1789</date>, du dioc. de Langres et de la prov. de l'Île-de-France ; chef-lieu d'une châtellenie du comté de Tonnerre relev. du duché de Bourgogne, au ch. de Châtillon ; siége d'un baill. considérable composé de 23 prévôtés ressort. au baill. royal de Sens.</p>
       </commentaire>
    </article>
-   <article id="DT89-01801" pg="43">
+   <article type="commune" id="DT89-01801" pg="43">
       <vedette>
          <sm>Cry,</sm>
       </vedette>
@@ -18187,7 +18188,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cart. de Pontigny, f° 21 r°)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01803" pg="43">
+   <article type="commune" id="DT89-01803" pg="43">
       <vedette>
          <sm>Cudot,</sm>
       </vedette>
@@ -18402,7 +18403,7 @@
       <definition>
          <localisation>commune de Blacy</localisation>, <typologie>château détruit</typologie>, relaté dans une pièce de <date>1569</date> (papiers Baudenet de Perrigny).</definition>
    </article>
-   <article id="DT89-01819" pg="44">
+   <article type="commune" id="DT89-01819" pg="44">
       <vedette>
          <sm>Cussy-les-Forges,</sm>
       </vedette>
@@ -18448,7 +18449,7 @@
          <p>Ce lieu était situé en Bourgogne et ressortissait au baill. de Noyers.</p>
       </commentaire>
    </article>
-   <article id="DT89-01821" pg="44">
+   <article type="commune" id="DT89-01821" pg="44">
       <vedette>
          <sm>Cusy,</sm>
       </vedette>
@@ -18477,7 +18478,7 @@
          <reference>(C. 101, plan, arch. de l'Yonne)</reference> ; à cette époque, c'était un h. dép. d'Ancy-le-Franc, dioc. de Langres, prov. de l'Île-de-France, et prévôté dép. du baill. et de l'élection de Tonnerre.</forme_ancienne>
       <insee>89005</insee>
    </article>
-   <article id="DT89-01822" pg="44">
+   <article type="commune" id="DT89-01822" pg="44">
       <vedette>
          <sm>Cuy,</sm>
       </vedette>
@@ -18549,7 +18550,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villeneuve-la-Dondagre</localisation> ; <typologie>fief</typologie> appart. au chapitre de Sens, <date>1467</date> (chapitre de Sens).</definition>
    </article>
-   <article id="DT89-01828" pg="45">
+   <article type="commune" id="DT89-01828" pg="45">
       <vedette>
          <pg>45</pg>
          <sm>Dannemoine,</sm>
@@ -18927,7 +18928,7 @@
          <date>1780</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01875" pg="45">
+   <article type="commune" id="DT89-01875" pg="45">
       <vedette>
          <sm>Dicy,</sm>
       </vedette>
@@ -18957,7 +18958,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Montacher</localisation>.</definition>
    </article>
-   <article id="DT89-01877" pg="45">
+   <article type="commune" id="DT89-01877" pg="45">
       <vedette>
          <sm>Diges,</sm>
       </vedette>
@@ -18992,7 +18993,7 @@
          <date>1384</date> 
          <reference>(E. c<sup>ne</sup> d'Arcy, archives de l'Yonne)</reference> ; fief relev. de la terre d'Arcy-sur-Cure.</forme_ancienne>
    </article>
-   <article id="DT89-01879" pg="45">
+   <article type="commune" id="DT89-01879" pg="45">
       <vedette>
          <sm>Dilo,</sm>
       </vedette>
@@ -19019,7 +19020,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villefranche</localisation>.</definition>
    </article>
-   <article id="DT89-01881" pg="46">
+   <article type="commune" id="DT89-01881" pg="46">
       <vedette>
          <sm>Dissangis,</sm>
       </vedette>
@@ -19114,7 +19115,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Champignelles</localisation>.</definition>
    </article>
-   <article id="DT89-01887" pg="46">
+   <article type="commune" id="DT89-01887" pg="46">
       <vedette>
          <sm>Dollot,</sm>
       </vedette>
@@ -19147,7 +19148,7 @@
       </commentaire>
       <insee>89143</insee>
    </article>
-   <article id="DT89-01888" pg="46">
+   <article type="commune" id="DT89-01888" pg="46">
       <vedette>
          <sm>Domats,</sm>
       </vedette>
@@ -19194,7 +19195,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Perreux</localisation>.</definition>
    </article>
-   <article id="DT89-01891" pg="46">
+   <article type="commune" id="DT89-01891" pg="46">
       <vedette>
          <sm>Domecy-sur-Cure,</sm>
       </vedette>
@@ -19217,7 +19218,7 @@
       </commentaire>
       <insee>89145</insee>
    </article>
-   <article id="DT89-01892" pg="46">
+   <article type="commune" id="DT89-01892" pg="46">
       <vedette>
          <sm>Domecy-sur-le-Vault,</sm>
       </vedette>
@@ -19347,7 +19348,7 @@
          <date>1680</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-01905" pg="46">
+   <article type="commune" id="DT89-01905" pg="46">
       <vedette>
          <sm>Dracy,</sm>
       </vedette>
@@ -19403,7 +19404,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villiers-Saint-Benoît</localisation>.</definition>
    </article>
-   <article id="DT89-01909" pg="47">
+   <article type="commune" id="DT89-01909" pg="47">
       <vedette>
          <sm>Druyes,</sm>
       </vedette>
@@ -19658,7 +19659,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Sépaux</localisation>.</definition>
    </article>
-   <article id="DT89-01934" pg="47">
+   <article type="commune" id="DT89-01934" pg="47">
       <vedette>
          <sm>Dyé,</sm>
       </vedette>
@@ -19785,7 +19786,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Noyers</localisation>.</definition>
    </article>
-   <article id="DT89-01948" pg="48">
+   <article type="commune" id="DT89-01948" pg="48">
       <vedette>
          <sm>Églény,</sm>
       </vedette>
@@ -19891,7 +19892,7 @@
                <sup>e</sup> siècle</date> et aujourd'hui détruite.</p>
       </commentaire>
    </article>
-   <article id="DT89-01951" pg="48">
+   <article type="commune" id="DT89-01951" pg="48">
       <vedette>
          <sm>Égriselles-le-Bocage,</sm>
       </vedette>
@@ -20101,7 +20102,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villeneuve-sur-Yonne</localisation>.</definition>
    </article>
-   <article id="DT89-01971" pg="48">
+   <article type="commune" id="DT89-01971" pg="48">
       <vedette>
          <sm>Épineau-les-Voves,</sm>
       </vedette>
@@ -20181,7 +20182,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Verlin</localisation>.</definition>
    </article>
-   <article id="DT89-01975" pg="49">
+   <article type="commune" id="DT89-01975" pg="49">
       <vedette>
          <sm>Épineuil,</sm>
       </vedette>
@@ -20302,7 +20303,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Domats</localisation>.</definition>
    </article>
-   <article id="DT89-01986" pg="49">
+   <article type="commune" id="DT89-01986" pg="49">
       <vedette>
          <sm>Escamps,</sm>
       </vedette>
@@ -20387,7 +20388,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Parly</localisation>, <date>1520</date> (chapitre d'Auxerre) ; aujourd'hui détruit.</definition>
    </article>
-   <article id="DT89-01990" pg="49">
+   <article type="commune" id="DT89-01990" pg="49">
       <vedette>
          <sm>Escolives,</sm>
       </vedette>
@@ -20423,7 +20424,7 @@
       </commentaire>
       <insee>89155</insee>
    </article>
-   <article id="DT89-01991" pg="49">
+   <article type="commune" id="DT89-01991" pg="49">
       <vedette>
          <sm>Esnon,</sm>
       </vedette>
@@ -20489,7 +20490,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Flacy</localisation>.</definition>
    </article>
-   <article id="DT89-01997" pg="49">
+   <article type="commune" id="DT89-01997" pg="49">
       <vedette>
          <sm>Essert,</sm>
       </vedette>
@@ -20557,7 +20558,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(obit. Saint-Étienne, au <date>19 nov.</date> Lebeuf, Histoire d'Auxerre, pr. IV, 2<sup>e</sup> éd.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02002" pg="50">
+   <article type="commune" id="DT89-02002" pg="50">
       <vedette>
          <sm>Étais-la-Sauvin,</sm>
       </vedette>
@@ -20725,7 +20726,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Montacher</localisation>.</definition>
    </article>
-   <article id="DT89-02023" pg="50">
+   <article type="commune" id="DT89-02023" pg="50">
       <vedette>
          <sm>Étaules,</sm>
       </vedette>
@@ -20769,7 +20770,7 @@
          <date>1768</date> 
          <reference>(plan de la terre de Prunoy, arch. du ch.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02026" pg="50">
+   <article type="commune" id="DT89-02026" pg="50">
       <vedette>
          <sm>Étigny,</sm>
       </vedette>
@@ -20794,7 +20795,7 @@
       </commentaire>
       <insee>89160</insee>
    </article>
-   <article id="DT89-02027" pg="50">
+   <article type="commune" id="DT89-02027" pg="50">
       <vedette>
          <sm>Étivey,</sm>
       </vedette>
@@ -20851,7 +20852,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>communes de Fontaines et de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-02032" pg="50">
+   <article type="commune" id="DT89-02032" pg="50">
       <vedette>
          <sm>Évry,</sm>
       </vedette>
@@ -21349,7 +21350,7 @@
          <p>— Fief relev. des comtes de Joigny (Davier, Mém. ms sur Joigny, etc. II).</p>
       </commentaire>
    </article>
-   <article id="DT89-02090" pg="52">
+   <article type="commune" id="DT89-02090" pg="52">
       <vedette>
          <sm>Ferté-Loupière (La),</sm>
       </vedette>
@@ -21388,7 +21389,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Perreux</localisation>.</definition>
    </article>
-   <article id="DT89-02092" pg="52">
+   <article type="commune" id="DT89-02092" pg="52">
       <vedette>
          <sm>Festigny,</sm>
       </vedette>
@@ -21498,7 +21499,7 @@
          <typologie>lieu détruit</typologie>, <localisation>commune de Venoy</localisation> 
          <reference>(cart. gén. de l'Yonne, I, 8, <date>an 634</date>, au cadastre, sect. E, <i>les Flacis</i>)</reference>.</definition>
    </article>
-   <article id="DT89-02106" pg="52">
+   <article type="commune" id="DT89-02106" pg="52">
       <vedette>
          <sm>Flacy,</sm>
       </vedette>
@@ -21584,7 +21585,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Stigny</localisation>.</definition>
    </article>
-   <article id="DT89-02115" pg="52">
+   <article type="commune" id="DT89-02115" pg="52">
       <vedette>
          <sm>Fleurigny,</sm>
       </vedette>
@@ -21617,7 +21618,7 @@
       <definition>
          <typologie>hameaux</typologie> des <localisation>communes de Malicorne, Paron et Subligny</localisation>.</definition>
    </article>
-   <article id="DT89-02117" pg="52">
+   <article type="commune" id="DT89-02117" pg="52">
       <vedette>
          <sm>Fleury,</sm>
       </vedette>
@@ -21651,7 +21652,7 @@
          <date>1157</date> 
          <reference>(cart. gén. de l'Yonne, II, 87)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02119" pg="52">
+   <article type="commune" id="DT89-02119" pg="52">
       <vedette>
          <sm>Fley,</sm>
       </vedette>
@@ -21771,7 +21772,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-02124" pg="53">
+   <article type="commune" id="DT89-02124" pg="53">
       <vedette>
          <sm>Foissy,</sm>
       </vedette>
@@ -21814,7 +21815,7 @@
       </commentaire>
       <insee>89171</insee>
    </article>
-   <article id="DT89-02125" pg="53">
+   <article type="commune" id="DT89-02125" pg="53">
       <vedette>
          <sm>Foissy-lez-Vézelay,</sm>
       </vedette>
@@ -22062,7 +22063,7 @@
          <p>— Fief relevant du comté de Tonnerre ; siége d'une prévôté ressortissant au baill. de la même ville.</p>
       </commentaire>
    </article>
-   <article id="DT89-02156" pg="53">
+   <article type="commune" id="DT89-02156" pg="53">
       <vedette>
          <sm>Fontaine-la-Gaillarde,</sm>
       </vedette>
@@ -22140,7 +22141,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Verlin</localisation>.</definition>
    </article>
-   <article id="DT89-02161" pg="54">
+   <article type="commune" id="DT89-02161" pg="54">
       <vedette>
          <sm>Fontaines,</sm>
       </vedette>
@@ -22257,7 +22258,7 @@
                <sup>e</sup> siècle</date>, l'abbaye de Reigny.</p>
       </commentaire>
    </article>
-   <article id="DT89-02173" pg="54">
+   <article type="commune" id="DT89-02173" pg="54">
       <vedette>
          <sm>Fontenailles,</sm>
       </vedette>
@@ -22285,7 +22286,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Andryes</localisation>.</definition>
    </article>
-   <article id="DT89-02175" pg="54">
+   <article type="commune" id="DT89-02175" pg="54">
       <vedette>
          <sm>Fontenay-près-Chablis,</sm>
       </vedette>
@@ -22307,7 +22308,7 @@
       </commentaire>
       <insee>89175</insee>
    </article>
-   <article id="DT89-02176" pg="54">
+   <article type="commune" id="DT89-02176" pg="54">
       <vedette>
          <sm>Fontenay-près-Vézelay,</sm>
       </vedette>
@@ -22329,7 +22330,7 @@
       </commentaire>
       <insee>89176</insee>
    </article>
-   <article id="DT89-02177" pg="54">
+   <article type="commune" id="DT89-02177" pg="54">
       <vedette>
          <sm>Fontenay-sous-Fouronnes,</sm>
       </vedette>
@@ -22384,7 +22385,7 @@
          <typologie>hôpital</typologie>, <localisation>commune de Tonnerre</localisation>, <date>1160</date> à <date>1180</date> 
          <reference>(<i>hospitalis B.M. Fontenellarum,</i> cart. gén. de l'Yonne, II, 127)</reference>.</definition>
    </article>
-   <article id="DT89-02182" pg="54">
+   <article type="commune" id="DT89-02182" pg="54">
       <vedette>
          <sm>Fontenouilles,</sm>
       </vedette>
@@ -22398,7 +22399,7 @@
       </commentaire>
       <insee>89178</insee>
    </article>
-   <article id="DT89-02183" pg="54">
+   <article type="commune" id="DT89-02183" pg="54">
       <vedette>
          <sm>Fontenoy,</sm>
       </vedette>
@@ -22847,7 +22848,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Fontenoy</localisation>.</definition>
    </article>
-   <article id="DT89-02231" pg="55">
+   <article type="commune" id="DT89-02231" pg="55">
       <vedette>
          <sm>Fouchères,</sm>
       </vedette>
@@ -23147,7 +23148,7 @@
          <date>1521</date>, appelé aussi alors <i>les Boises-Blanches</i> 
          <reference>(abb. Saint-Germain d'Auxerre, état des biens)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02265" pg="56">
+   <article type="commune" id="DT89-02265" pg="56">
       <vedette>
          <sm>Fournaudin,</sm>
       </vedette>
@@ -23293,7 +23294,7 @@
          <p>— Autref. siége d'une prévôté qui s'étendait sur le ch. de Fourolles et les quatre h. de Beauregard, de Meslières, des Quesneaux et des Picards, avec appel au baill. de Sens.</p>
       </commentaire>
    </article>
-   <article id="DT89-02284" pg="56">
+   <article type="commune" id="DT89-02284" pg="56">
       <vedette>
          <sm>Fouronnes,</sm>
       </vedette>
@@ -23674,7 +23675,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Beine</localisation> ; détruite en <date>1789</date>.</definition>
    </article>
-   <article id="DT89-02325" pg="57">
+   <article type="commune" id="DT89-02325" pg="57">
       <vedette>
          <sm>Fresnes,</sm>
       </vedette>
@@ -23856,7 +23857,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Saint-Martin-sur-Ocre</localisation>.</definition>
    </article>
-   <article id="DT89-02345" pg="58">
+   <article type="commune" id="DT89-02345" pg="58">
       <vedette>
          <pg>58</pg>
          <sm>Fulvy,</sm>
@@ -23915,7 +23916,7 @@
          <date>1760</date> 
          <reference>(plan, abb. de Pontigny)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02350" pg="58">
+   <article type="commune" id="DT89-02350" pg="58">
       <vedette>
          <sm>Fyé,</sm>
       </vedette>
@@ -24846,7 +24847,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villeneuve-les-Genêts</localisation>.</definition>
    </article>
-   <article id="DT89-02465" pg="60">
+   <article type="commune" id="DT89-02465" pg="60">
       <vedette>
          <sm>Germigny,</sm>
       </vedette>
@@ -24918,7 +24919,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Leugny</localisation>.</definition>
    </article>
-   <article id="DT89-02472" pg="60">
+   <article type="commune" id="DT89-02472" pg="60">
       <vedette>
          <sm>Gigny,</sm>
       </vedette>
@@ -25090,7 +25091,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Fargeau</localisation>.</definition>
    </article>
-   <article id="DT89-02489" pg="60">
+   <article type="commune" id="DT89-02489" pg="60">
       <vedette>
          <sm>Girolles,</sm>
       </vedette>
@@ -25142,7 +25143,7 @@
          <date>1659</date> 
          <reference>(terrier des Robineaux ; chartreux de Béon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02492" pg="60">
+   <article type="commune" id="DT89-02492" pg="60">
       <vedette>
          <sm>Gisy-les-Nobles,</sm>
       </vedette>
@@ -25206,7 +25207,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Gy-l'Évêque</localisation>.</definition>
    </article>
-   <article id="DT89-02497" pg="60">
+   <article type="commune" id="DT89-02497" pg="60">
       <vedette>
          <sm>Givry,</sm>
       </vedette>
@@ -25250,7 +25251,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Saint-Martin-du-Tertre</localisation>.</definition>
    </article>
-   <article id="DT89-02500" pg="61">
+   <article type="commune" id="DT89-02500" pg="61">
       <vedette>
          <pg>61</pg>
          <sm>Gland,</sm>
@@ -25730,7 +25731,7 @@
          <p>Granchettes était, <date>avant 1789</date>, du dioc. avec titre de prévôté, et du baill. de Sens et de la prov. de l'Île-de-France.</p>
       </commentaire>
    </article>
-   <article id="DT89-02556" pg="61">
+   <article type="commune" id="DT89-02556" pg="61">
       <vedette>
          <sm>Grandchamp,</sm>
       </vedette>
@@ -25952,7 +25953,7 @@
       <definition>
          <typologie>métairie</typologie>, <localisation>commune de Lavau</localisation>, <date>1477</date>, chapitre de Saint-Fargeau ; aujourd'hui <typologie>lieu détruit</typologie>, sur le territoire du <localisation>hameau de la Déchausserie</localisation>.</definition>
    </article>
-   <article id="DT89-02584" pg="62">
+   <article type="commune" id="DT89-02584" pg="62">
       <vedette>
          <sm>Grange-le-Bocage,</sm>
       </vedette>
@@ -26450,7 +26451,7 @@
          <date>864</date> 
          <reference>(cart. gén. de l'Yonne, I, 89)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02641" pg="63">
+   <article type="commune" id="DT89-02641" pg="63">
       <vedette>
          <sm>Grimault,</sm>
       </vedette>
@@ -26540,7 +26541,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saints</localisation>.</definition>
    </article>
-   <article id="DT89-02648" pg="64">
+   <article type="commune" id="DT89-02648" pg="64">
       <vedette>
          <pg>64</pg>
          <sm>Gron,</sm>
@@ -26786,7 +26787,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Diges</localisation>.</definition>
    </article>
-   <article id="DT89-02674" pg="64">
+   <article type="commune" id="DT89-02674" pg="64">
       <vedette>
          <sm>Guerchy,</sm>
       </vedette>
@@ -27269,7 +27270,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Dixmont</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-02734" pg="65">
+   <article type="commune" id="DT89-02734" pg="65">
       <vedette>
          <sm>Gurgy,</sm>
       </vedette>
@@ -27322,7 +27323,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martin-d'Ordon</localisation>.</definition>
    </article>
-   <article id="DT89-02739" pg="65">
+   <article type="commune" id="DT89-02739" pg="65">
       <vedette>
          <sm>Gy-l'Évêque,</sm>
       </vedette>
@@ -27558,7 +27559,7 @@
       <forme_ancienne>— <i>Haulte-Feuille,</i> 
          <date>1480</date> ; seigneurie <reference>(ém. Rogres de Champignelles)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02768" pg="66">
+   <article type="commune" id="DT89-02768" pg="66">
       <vedette>
          <sm>Hauterive,</sm>
       </vedette>
@@ -27743,7 +27744,7 @@
          <date>1684</date> 
          <reference>(terrier de Lisle ; ém. Bertier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02788" pg="66">
+   <article type="commune" id="DT89-02788" pg="66">
       <vedette>
          <sm>Héry,</sm>
       </vedette>
@@ -28170,7 +28171,7 @@
       </vedette>
       <definition>prend sa source à <localisation>Armes</localisation>, <localisation>commune de Saints</localisation>, et se jette dans le Branlin, même territoire.</definition>
    </article>
-   <article id="DT89-02834" pg="67">
+   <article type="commune" id="DT89-02834" pg="67">
       <vedette>
          <sm>Irancy,</sm>
       </vedette>
@@ -28207,7 +28208,7 @@
          <date>1493</date> 
          <reference>(chap. d'Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02836" pg="67">
+   <article type="commune" id="DT89-02836" pg="67">
       <vedette>
          <sm>Island,</sm>
       </vedette>
@@ -28568,7 +28569,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Fontenouilles</localisation>.</definition>
    </article>
-   <article id="DT89-02872" pg="68">
+   <article type="commune" id="DT89-02872" pg="68">
       <vedette>
          <sm>Jaulges,</sm>
       </vedette>
@@ -28715,7 +28716,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martin-du-Tertre</localisation>.</definition>
    </article>
-   <article id="DT89-02884" pg="69">
+   <article type="commune" id="DT89-02884" pg="69">
       <vedette>
          <sm>Joigny,</sm>
       </vedette>
@@ -28847,7 +28848,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Perreux</localisation>.</definition>
    </article>
-   <article id="DT89-02895" pg="69">
+   <article type="commune" id="DT89-02895" pg="69">
       <vedette>
          <sm>Jouancy,</sm>
       </vedette>
@@ -28942,7 +28943,7 @@
          <date>1772</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02905" pg="69">
+   <article type="commune" id="DT89-02905" pg="69">
       <vedette>
          <sm>Joux-la-Ville,</sm>
       </vedette>
@@ -28974,7 +28975,7 @@
       </commentaire>
       <insee>89208</insee>
    </article>
-   <article id="DT89-02906" pg="69">
+   <article type="commune" id="DT89-02906" pg="69">
       <vedette>
          <sm>Jouy,</sm>
       </vedette>
@@ -29067,7 +29068,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Chevillon</localisation>.</definition>
    </article>
-   <article id="DT89-02915" pg="70">
+   <article type="commune" id="DT89-02915" pg="70">
       <vedette>
          <sm>Jully,</sm>
       </vedette>
@@ -29108,7 +29109,7 @@
          <date>1751</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02917" pg="70">
+   <article type="commune" id="DT89-02917" pg="70">
       <vedette>
          <sm>Junay,</sm>
       </vedette>
@@ -29138,7 +29139,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Fontaines</localisation>.</definition>
    </article>
-   <article id="DT89-02919" pg="70">
+   <article type="commune" id="DT89-02919" pg="70">
       <vedette>
          <sm>Jussy,</sm>
       </vedette>
@@ -29263,7 +29264,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Maligny</localisation> ; détruit.</definition>
    </article>
-   <article id="DT89-02934" pg="70">
+   <article type="commune" id="DT89-02934" pg="70">
       <vedette>
          <sm>Laduz,</sm>
       </vedette>
@@ -29304,7 +29305,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chaumont</localisation>.</definition>
    </article>
-   <article id="DT89-02936" pg="70">
+   <article type="commune" id="DT89-02936" pg="70">
       <vedette>
          <sm>Lailly,</sm>
       </vedette>
@@ -29334,7 +29335,7 @@
       </commentaire>
       <insee>89214</insee>
    </article>
-   <article id="DT89-02937" pg="70">
+   <article type="commune" id="DT89-02937" pg="70">
       <vedette>
          <sm>Lain,</sm>
       </vedette>
@@ -29360,7 +29361,7 @@
       <definition>
          <typologie>hameaux</typologie>, <localisation>commune de Bœurs</localisation>.</definition>
    </article>
-   <article id="DT89-02939" pg="70">
+   <article type="commune" id="DT89-02939" pg="70">
       <vedette>
          <sm>Lainsecq,</sm>
       </vedette>
@@ -29418,7 +29419,7 @@
          <date>1548</date> 
          <reference>(bibl. de Sens, terre de Molinons)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-02941" pg="71">
+   <article type="commune" id="DT89-02941" pg="71">
       <vedette>
          <sm>Lalande,</sm>
       </vedette>
@@ -29626,7 +29627,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Flogny</localisation>.</definition>
    </article>
-   <article id="DT89-02967" pg="71">
+   <article type="commune" id="DT89-02967" pg="71">
       <vedette>
          <sm>Lasson,</sm>
       </vedette>
@@ -29768,7 +29769,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Étaules</localisation>.</definition>
    </article>
-   <article id="DT89-02982" pg="71">
+   <article type="commune" id="DT89-02982" pg="71">
       <vedette>
          <sm>Lavau,</sm>
       </vedette>
@@ -29915,7 +29916,7 @@
       <definition>
          <typologie>ruisseau</typologie>, prend sa source à <localisation>Rugny</localisation> et se jette dans l'Étourny à <localisation>Trichey</localisation>.</definition>
    </article>
-   <article id="DT89-02997" pg="72">
+   <article type="commune" id="DT89-02997" pg="72">
       <vedette>
          <sm>Leugny,</sm>
       </vedette>
@@ -29967,7 +29968,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Moutiers</localisation>.</definition>
    </article>
-   <article id="DT89-03000" pg="72">
+   <article type="commune" id="DT89-03000" pg="72">
       <vedette>
          <sm>Levis,</sm>
       </vedette>
@@ -30019,7 +30020,7 @@
          <p>— Ce lieu a été détruit pendant les guerres civiles, et la ferme qui existait encore au dernier siècle a été démolie en <date>1789</date>.</p>
       </commentaire>
    </article>
-   <article id="DT89-03002" pg="72">
+   <article type="commune" id="DT89-03002" pg="72">
       <vedette>
          <sm>Lezinnes,</sm>
       </vedette>
@@ -30074,7 +30075,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Tonnerre</localisation>.</definition>
    </article>
-   <article id="DT89-03007" pg="72">
+   <article type="commune" id="DT89-03007" pg="72">
       <vedette>
          <sm>Lichères-près-Aigremont,</sm>
       </vedette>
@@ -30103,7 +30104,7 @@
       </commentaire>
       <insee>89224</insee>
    </article>
-   <article id="DT89-03008" pg="72">
+   <article type="commune" id="DT89-03008" pg="72">
       <vedette>
          <sm>Lichères-près-Vézelay,</sm>
       </vedette>
@@ -30181,7 +30182,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Champignelles</localisation>.</definition>
    </article>
-   <article id="DT89-03016" pg="72">
+   <article type="commune" id="DT89-03016" pg="72">
       <vedette>
          <sm>Lignoreilles,</sm>
       </vedette>
@@ -30335,7 +30336,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villefranche</localisation>.</definition>
    </article>
-   <article id="DT89-03022" pg="73">
+   <article type="commune" id="DT89-03022" pg="73">
       <vedette>
          <sm>Lindry,</sm>
       </vedette>
@@ -30406,7 +30407,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Champignelles</localisation>.</definition>
    </article>
-   <article id="DT89-03027" pg="73">
+   <article type="commune" id="DT89-03027" pg="73">
       <vedette>
          <sm>Lixy,</sm>
       </vedette>
@@ -30684,7 +30685,7 @@
          <p>— Lieu inconnu.</p>
       </commentaire>
    </article>
-   <article id="DT89-03057" pg="74">
+   <article type="commune" id="DT89-03057" pg="74">
       <vedette>
          <sm>Looze,</sm>
       </vedette>
@@ -30805,7 +30806,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villiers-Saint-Benoît</localisation>.</definition>
    </article>
-   <article id="DT89-03068" pg="74">
+   <article type="commune" id="DT89-03068" pg="74">
       <vedette>
          <sm>Louesme,</sm>
       </vedette>
@@ -30960,7 +30961,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT89-03084" pg="74">
+   <article type="commune" id="DT89-03084" pg="74">
       <vedette>
          <sm>Lucy-le-Bois,</sm>
       </vedette>
@@ -30983,7 +30984,7 @@
       </commentaire>
       <insee>89232</insee>
    </article>
-   <article id="DT89-03085" pg="74">
+   <article type="commune" id="DT89-03085" pg="74">
       <vedette>
          <sm>Lucy-sur-Cure,</sm>
       </vedette>
@@ -31026,7 +31027,7 @@
       </commentaire>
       <insee>89233</insee>
    </article>
-   <article id="DT89-03086" pg="75">
+   <article type="commune" id="DT89-03086" pg="75">
       <vedette>
          <sm>Lucy-sur-Yonne,</sm>
       </vedette>
@@ -31208,7 +31209,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Martin-des-Champs</localisation>.</definition>
    </article>
-   <article id="DT89-03109" pg="75">
+   <article type="commune" id="DT89-03109" pg="75">
       <vedette>
          <sm>Magny,</sm>
       </vedette>
@@ -31316,7 +31317,7 @@
          <p>— Lieu détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-03116" pg="75">
+   <article type="commune" id="DT89-03116" pg="75">
       <vedette>
          <sm>Maillot,</sm>
       </vedette>
@@ -31358,7 +31359,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Jaulges</localisation>.</definition>
    </article>
-   <article id="DT89-03119" pg="75">
+   <article type="commune" id="DT89-03119" pg="75">
       <vedette>
          <sm>Mailly-la-Ville,</sm>
       </vedette>
@@ -31375,7 +31376,7 @@
       </commentaire>
       <insee>89237</insee>
    </article>
-   <article id="DT89-03120" pg="75">
+   <article type="commune" id="DT89-03120" pg="75">
       <vedette>
          <sm>Mailly-le-Château,</sm>
       </vedette>
@@ -31936,7 +31937,7 @@
          <typologie>hameau</typologie>, <localisation>commune de Ravières</localisation>, qualifié ferme en <date>1787</date> 
          <reference>(C. 101, arch. de l'Yonne)</reference>.</definition>
    </article>
-   <article id="DT89-03188" pg="77">
+   <article type="commune" id="DT89-03188" pg="77">
       <vedette>
          <sm>Malay-le-Roi</sm> ou <sm>le Petit,</sm>
       </vedette>
@@ -31972,7 +31973,7 @@
       </commentaire>
       <insee>89240</insee>
    </article>
-   <article id="DT89-03189" pg="77">
+   <article type="commune" id="DT89-03189" pg="77">
       <vedette>
          <sm>Malay-le-Vicomte</sm> ou <sm>le Grand,</sm>
       </vedette>
@@ -32068,7 +32069,7 @@
          <typologie>ferme</typologie>, <localisation>commune de Theil</localisation>, <date>1780</date> 
          <reference>(plan du cad. C. 84, <i>Malheurtis</i>)</reference> ; lieu détruit.</definition>
    </article>
-   <article id="DT89-03196" pg="77">
+   <article type="commune" id="DT89-03196" pg="77">
       <vedette>
          <sm>Malicorne,</sm>
       </vedette>
@@ -32104,7 +32105,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Denis-sur-Ouanne</localisation>.</definition>
    </article>
-   <article id="DT89-03198" pg="77">
+   <article type="commune" id="DT89-03198" pg="77">
       <vedette>
          <sm>Maligny,</sm>
       </vedette>
@@ -32378,7 +32379,7 @@
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de la Celle-Saint-Cyr</localisation>.</definition>
    </article>
-   <article id="DT89-03230" pg="78">
+   <article type="commune" id="DT89-03230" pg="78">
       <vedette>
          <sm>Marchais-Beton,</sm>
       </vedette>
@@ -32733,7 +32734,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Piffonds</localisation>.</definition>
    </article>
-   <article id="DT89-03270" pg="79">
+   <article type="commune" id="DT89-03270" pg="79">
       <vedette>
          <sm>Marmeaux,</sm>
       </vedette>
@@ -32871,7 +32872,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sauvigny-le-Bois</localisation>.</definition>
    </article>
-   <article id="DT89-03282" pg="79">
+   <article type="commune" id="DT89-03282" pg="79">
       <vedette>
          <sm>Marsangy,</sm>
       </vedette>
@@ -33535,7 +33536,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Domats</localisation>.</definition>
    </article>
-   <article id="DT89-03351" pg="81">
+   <article type="commune" id="DT89-03351" pg="81">
       <vedette>
          <sm>Mélisey,</sm>
       </vedette>
@@ -33597,7 +33598,7 @@
          <date>1751</date> 
          <reference>(reg. de l'état civil d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-03355" pg="81">
+   <article type="commune" id="DT89-03355" pg="81">
       <vedette>
          <sm>Menades,</sm>
       </vedette>
@@ -33696,7 +33697,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Précy</localisation>.</definition>
    </article>
-   <article id="DT89-03365" pg="81">
+   <article type="commune" id="DT89-03365" pg="81">
       <vedette>
          <sm>Mercy,</sm>
       </vedette>
@@ -33728,7 +33729,7 @@
       </vedette>
       <definition>prend sa source à <localisation>Brienon</localisation> et s'y jette dans la Brumance.</definition>
    </article>
-   <article id="DT89-03367" pg="81">
+   <article type="commune" id="DT89-03367" pg="81">
       <vedette>
          <sm>Méré,</sm>
       </vedette>
@@ -33888,7 +33889,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT89-03377" pg="81">
+   <article type="commune" id="DT89-03377" pg="81">
       <vedette>
          <sm>Merry-la-Vallée,</sm>
       </vedette>
@@ -33933,7 +33934,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Joux-la-Ville</localisation>.</definition>
    </article>
-   <article id="DT89-03379" pg="82">
+   <article type="commune" id="DT89-03379" pg="82">
       <vedette>
          <sm>Merry-Sec,</sm>
       </vedette>
@@ -33975,7 +33976,7 @@
       </commentaire>
       <insee>89252</insee>
    </article>
-   <article id="DT89-03380" pg="82">
+   <article type="commune" id="DT89-03380" pg="82">
       <vedette>
          <sm>Merry-sur-Yonne,</sm>
       </vedette>
@@ -34308,7 +34309,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-03420" pg="82">
+   <article type="commune" id="DT89-03420" pg="82">
       <vedette>
          <sm>Mézilles,</sm>
       </vedette>
@@ -34360,7 +34361,7 @@
       <definition>
          <typologie>hameaux</typologie>, <localisation>communes de Moutiers et de Pourrain</localisation>.</definition>
    </article>
-   <article id="DT89-03423" pg="82">
+   <article type="commune" id="DT89-03423" pg="82">
       <vedette>
          <sm>Michery,</sm>
       </vedette>
@@ -34408,7 +34409,7 @@
          <p>Il dépendait autrefois de la seigneurie de Saint-Fargeau.</p>
       </commentaire>
    </article>
-   <article id="DT89-03426" pg="83">
+   <article type="commune" id="DT89-03426" pg="83">
       <vedette>
          <sm>Migé,</sm>
       </vedette>
@@ -34443,7 +34444,7 @@
       </commentaire>
       <insee>89256</insee>
    </article>
-   <article id="DT89-03427" pg="83">
+   <article type="commune" id="DT89-03427" pg="83">
       <vedette>
          <sm>Migennes,</sm>
       </vedette>
@@ -34611,7 +34612,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sementron</localisation>.</definition>
    </article>
-   <article id="DT89-03444" pg="83">
+   <article type="commune" id="DT89-03444" pg="83">
       <vedette>
          <sm>Milly,</sm>
       </vedette>
@@ -34895,7 +34896,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Bléneau</localisation>.</definition>
    </article>
-   <article id="DT89-03476" pg="84">
+   <article type="commune" id="DT89-03476" pg="84">
       <vedette>
          <sm>Molay,</sm>
       </vedette>
@@ -34920,7 +34921,7 @@
       </commentaire>
       <insee>89259</insee>
    </article>
-   <article id="DT89-03477" pg="84">
+   <article type="commune" id="DT89-03477" pg="84">
       <vedette>
          <sm>Molesme,</sm>
       </vedette>
@@ -34946,7 +34947,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune d'Épineuil</localisation>, ancienne propriété de l'abbaye de Molesme.</definition>
    </article>
-   <article id="DT89-03479" pg="84">
+   <article type="commune" id="DT89-03479" pg="84">
       <vedette>
          <sm>Molinons,</sm>
       </vedette>
@@ -34980,7 +34981,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bœurs</localisation>.</definition>
    </article>
-   <article id="DT89-03481" pg="84">
+   <article type="commune" id="DT89-03481" pg="84">
       <vedette>
          <sm>Molosme,</sm>
       </vedette>
@@ -35102,7 +35103,7 @@
          <date>1780</date> 
          <reference>(plan, abb. de Vauluisant)</reference>, autref. siége d'une mairie ressort. au baill. de Sens.</forme_ancienne>
    </article>
-   <article id="DT89-03491" pg="84">
+   <article type="commune" id="DT89-03491" pg="84">
       <vedette>
          <sm>Monéteau,</sm>
       </vedette>
@@ -35209,7 +35210,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Bibl. hist. de l'Yonne, I, 58 ; Vie de saint Germain)</reference>.</definition>
    </article>
-   <article id="DT89-03500" pg="85">
+   <article type="commune" id="DT89-03500" pg="85">
       <vedette>
          <sm>Montacher,</sm>
       </vedette>
@@ -35670,7 +35671,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Rogny</localisation>.</definition>
    </article>
-   <article id="DT89-03549" pg="86">
+   <article type="commune" id="DT89-03549" pg="86">
       <vedette>
          <sm>Montigny,</sm>
       </vedette>
@@ -35755,7 +35756,7 @@
             <sm>xv</sm>
             <sup>e</sup> siècle</date> (arch. de Vausse).</definition>
    </article>
-   <article id="DT89-03556" pg="86">
+   <article type="commune" id="DT89-03556" pg="86">
       <vedette>
          <sm>Montillot,</sm>
       </vedette>
@@ -36023,7 +36024,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Martin-sur-Armançon</localisation>.</definition>
    </article>
-   <article id="DT89-03581" pg="87">
+   <article type="commune" id="DT89-03581" pg="87">
       <vedette>
          <sm>Montréal,</sm>
       </vedette>
@@ -36115,7 +36116,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Druyes</localisation>.</definition>
    </article>
-   <article id="DT89-03590" pg="87">
+   <article type="commune" id="DT89-03590" pg="87">
       <vedette>
          <sm>Mont-Saint-Sulpice (Le),</sm>
       </vedette>
@@ -36538,7 +36539,7 @@
          <p>— Anc. prévôté s'étendant sur le château et deux maisons construites dans l'enclave du fief (Tarbé, Cout. de Sens, <date>1783</date>, 564) ; le château est détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-03638" pg="88">
+   <article type="commune" id="DT89-03638" pg="88">
       <vedette>
          <sm>Mothe-aux-Aulnais (La),</sm>
       </vedette>
@@ -36831,7 +36832,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Denis-sur-Ouanne</localisation>.</definition>
    </article>
-   <article id="DT89-03672" pg="89">
+   <article type="commune" id="DT89-03672" pg="89">
       <vedette>
          <sm>Mouffy,</sm>
       </vedette>
@@ -37600,7 +37601,7 @@
       <definition>
          <typologie>hameau et château</typologie>, <localisation>commune de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-03775" pg="90">
+   <article type="commune" id="DT89-03775" pg="90">
       <vedette>
          <sm>Moulins-près-Noyers,</sm>
       </vedette>
@@ -37629,7 +37630,7 @@
       </commentaire>
       <insee>89271</insee>
    </article>
-   <article id="DT89-03776" pg="90">
+   <article type="commune" id="DT89-03776" pg="90">
       <vedette>
          <sm>Moulins-sur-Ouanne,</sm>
       </vedette>
@@ -37715,7 +37716,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bléneau</localisation>.</definition>
    </article>
-   <article id="DT89-03784" pg="91">
+   <article type="commune" id="DT89-03784" pg="91">
       <vedette>
          <sm>Moutiers,</sm>
       </vedette>
@@ -37879,7 +37880,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Toucy</localisation>.</definition>
    </article>
-   <article id="DT89-03801" pg="91">
+   <article type="commune" id="DT89-03801" pg="91">
       <vedette>
          <sm>Nailly,</sm>
       </vedette>
@@ -38179,7 +38180,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villeneuve-les-Genêts</localisation>.</definition>
    </article>
-   <article id="DT89-03824" pg="92">
+   <article type="commune" id="DT89-03824" pg="92">
       <vedette>
          <sm>Neuilly,</sm>
       </vedette>
@@ -38228,7 +38229,7 @@
          <date>1684</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-03826" pg="92">
+   <article type="commune" id="DT89-03826" pg="92">
       <vedette>
          <sm>Neuvy-Sautour,</sm>
       </vedette>
@@ -38262,7 +38263,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Levis</localisation>.</definition>
    </article>
-   <article id="DT89-03829" pg="92">
+   <article type="commune" id="DT89-03829" pg="92">
       <vedette>
          <sm>Nitry,</sm>
       </vedette>
@@ -38311,7 +38312,7 @@
       </vedette>
       <definition>commence à <localisation>Decize</localisation> (Nièvre), entre dans le <localisation>département de l'Yonne</localisation> au-dessus de Coulanges et se termine à <localisation>Auxerre</localisation>.</definition>
    </article>
-   <article id="DT89-03831" pg="92">
+   <article type="commune" id="DT89-03831" pg="92">
       <vedette>
          <sm>Noé,</sm>
       </vedette>
@@ -38588,7 +38589,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Tonnerre</localisation>.</definition>
    </article>
-   <article id="DT89-03853" pg="93">
+   <article type="commune" id="DT89-03853" pg="93">
       <vedette>
          <sm>Nuits,</sm>
       </vedette>
@@ -38933,7 +38934,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Vaudeurs</localisation>.</definition>
    </article>
-   <article id="DT89-03884" pg="94">
+   <article type="commune" id="DT89-03884" pg="94">
       <vedette>
          <sm>Ormes (Les),</sm>
       </vedette>
@@ -38954,7 +38955,7 @@
       <definition>
          <typologie>hameaux</typologie>, <localisation>communes de Saint-Martin-sur-Ouanne et de Vernoy</localisation>.</definition>
    </article>
-   <article id="DT89-03886" pg="94">
+   <article type="commune" id="DT89-03886" pg="94">
       <vedette>
          <sm>Ormoy,</sm>
       </vedette>
@@ -39041,7 +39042,7 @@
          <date>1164</date> 
          <reference>(cart. gén. de l'Yonne, II, 166)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-03891" pg="94">
+   <article type="commune" id="DT89-03891" pg="94">
       <vedette>
          <sm>Ouanne,</sm>
       </vedette>
@@ -39171,7 +39172,7 @@
          <p>— Fief relev. de la terre de la Ferté-Loupière, <date>1704</date> (arch. de l'Yonne).</p>
       </commentaire>
    </article>
-   <article id="DT89-03899" pg="95">
+   <article type="commune" id="DT89-03899" pg="95">
       <vedette>
          <sm>Pacy-sur-Armançon,</sm>
       </vedette>
@@ -39309,7 +39310,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Joux-la-Ville</localisation>, <date>1527</date> (abbaye de Reigny) ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-03913" pg="95">
+   <article type="commune" id="DT89-03913" pg="95">
       <vedette>
          <sm>Pailly,</sm>
       </vedette>
@@ -39668,7 +39669,7 @@
          <date>1745</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-03950" pg="96">
+   <article type="commune" id="DT89-03950" pg="96">
       <vedette>
          <sm>Parly-les-Robins,</sm>
       </vedette>
@@ -39710,7 +39711,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Pourrain</localisation>.</definition>
    </article>
-   <article id="DT89-03953" pg="96">
+   <article type="commune" id="DT89-03953" pg="96">
       <vedette>
          <sm>Paron,</sm>
       </vedette>
@@ -39733,7 +39734,7 @@
       </commentaire>
       <insee>89287</insee>
    </article>
-   <article id="DT89-03954" pg="96">
+   <article type="commune" id="DT89-03954" pg="96">
       <vedette>
          <sm>Paroy-en-Othe,</sm>
       </vedette>
@@ -39759,7 +39760,7 @@
       </commentaire>
       <insee>89288</insee>
    </article>
-   <article id="DT89-03955" pg="96">
+   <article type="commune" id="DT89-03955" pg="96">
       <vedette>
          <sm>Paroy-sur-Tholon,</sm>
       </vedette>
@@ -39790,7 +39791,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Piffonds</localisation>.</definition>
    </article>
-   <article id="DT89-03957" pg="96">
+   <article type="commune" id="DT89-03957" pg="96">
       <vedette>
          <sm>Pasilly,</sm>
       </vedette>
@@ -39856,7 +39857,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Migennes</localisation>.</definition>
    </article>
-   <article id="DT89-03964" pg="96">
+   <article type="commune" id="DT89-03964" pg="96">
       <vedette>
          <sm>Passy,</sm>
       </vedette>
@@ -40101,7 +40102,7 @@
       <definition>
          <typologie>manœuvrerie</typologie>, <localisation>commune de Cudot</localisation>.</definition>
    </article>
-   <article id="DT89-03991" pg="97">
+   <article type="commune" id="DT89-03991" pg="97">
       <vedette>
          <sm>Percey,</sm>
       </vedette>
@@ -40196,7 +40197,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villeneuve-Saint-Salve</localisation>.</definition>
    </article>
-   <article id="DT89-03999" pg="97">
+   <article type="commune" id="DT89-03999" pg="97">
       <vedette>
          <sm>Perreuse,</sm>
       </vedette>
@@ -40246,7 +40247,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Sauveur</localisation>.</definition>
    </article>
-   <article id="DT89-04004" pg="97">
+   <article type="commune" id="DT89-04004" pg="97">
       <vedette>
          <sm>Perreux-les-Bois,</sm>
       </vedette>
@@ -40318,7 +40319,7 @@
          <p>Perrigny était, <date>avant 1789</date>, du dioc. de Langres, de la prov. de Bourgogne et du baill. de Noyers.</p>
       </commentaire>
    </article>
-   <article id="DT89-04011" pg="97">
+   <article type="commune" id="DT89-04011" pg="97">
       <vedette>
          <sm>Perrigny,</sm>
       </vedette>
@@ -40359,7 +40360,7 @@
          <date>1690</date> 
          <reference>(recette d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04013" pg="97">
+   <article type="commune" id="DT89-04013" pg="97">
       <vedette>
          <sm>Perrigny-sur-Armançon,</sm>
       </vedette>
@@ -40790,7 +40791,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bœurs</localisation>.</definition>
    </article>
-   <article id="DT89-04060" pg="98">
+   <article type="commune" id="DT89-04060" pg="98">
       <vedette>
          <sm>Pierre-Pertuis,</sm>
       </vedette>
@@ -40839,7 +40840,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Tannerre</localisation>.</definition>
    </article>
-   <article id="DT89-04065" pg="98">
+   <article type="commune" id="DT89-04065" pg="98">
       <vedette>
          <sm>Piffonds,</sm>
       </vedette>
@@ -40951,7 +40952,7 @@
          <date>1702</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04076" pg="99">
+   <article type="commune" id="DT89-04076" pg="99">
       <vedette>
          <sm>Pimelles,</sm>
       </vedette>
@@ -41087,7 +41088,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Aignan</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04092" pg="99">
+   <article type="commune" id="DT89-04092" pg="99">
       <vedette>
          <sm>Pizy,</sm>
       </vedette>
@@ -41312,7 +41313,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Malicorne</localisation>.</definition>
    </article>
-   <article id="DT89-04117" pg="99">
+   <article type="commune" id="DT89-04117" pg="99">
       <vedette>
          <sm>Plessis-du-Mée,</sm>
       </vedette>
@@ -41341,7 +41342,7 @@
       </commentaire>
       <insee>89469</insee>
    </article>
-   <article id="DT89-04118" pg="100">
+   <article type="commune" id="DT89-04118" pg="100">
       <vedette>
          <sm>Plessis-Saint-Jean,</sm>
       </vedette>
@@ -41443,7 +41444,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Poilly-près-Aillant</localisation>.</definition>
    </article>
-   <article id="DT89-04128" pg="100">
+   <article type="commune" id="DT89-04128" pg="100">
       <vedette>
          <sm>Poilly-sur-Serain,</sm>
       </vedette>
@@ -41481,7 +41482,7 @@
       </commentaire>
       <insee>89303</insee>
    </article>
-   <article id="DT89-04129" pg="100">
+   <article type="commune" id="DT89-04129" pg="100">
       <vedette>
          <sm>Poilly-sur-Tholon,</sm>
       </vedette>
@@ -41512,7 +41513,7 @@
       </commentaire>
       <insee>89304</insee>
    </article>
-   <article id="DT89-04130" pg="100">
+   <article type="commune" id="DT89-04130" pg="100">
       <vedette>
          <sm>Poinchy,</sm>
       </vedette>
@@ -41866,7 +41867,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Lavau</localisation>.</definition>
    </article>
-   <article id="DT89-04167" pg="101">
+   <article type="commune" id="DT89-04167" pg="101">
       <vedette>
          <sm>Pontaubert,</sm>
       </vedette>
@@ -41940,7 +41941,7 @@
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de Seignelay</localisation>.</definition>
    </article>
-   <article id="DT89-04174" pg="101">
+   <article type="commune" id="DT89-04174" pg="101">
       <vedette>
          <sm>Pontigny,</sm>
       </vedette>
@@ -42028,7 +42029,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sépaux</localisation> ; nouvellement fondé.</definition>
    </article>
-   <article id="DT89-04183" pg="101">
+   <article type="commune" id="DT89-04183" pg="101">
       <vedette>
          <sm>Pont-sur-Vanne,</sm>
       </vedette>
@@ -42234,7 +42235,7 @@
       <forme_ancienne>— <i>Petit-Lézard,</i> 
          <date>1789</date>.</forme_ancienne>
    </article>
-   <article id="DT89-04202" pg="102">
+   <article type="commune" id="DT89-04202" pg="102">
       <vedette>
          <sm>Postolle (La),</sm>
       </vedette>
@@ -42400,7 +42401,7 @@
          <date>1145</date> 
          <reference>(cart. gén. de l'Yonne, II, 62)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04221" pg="102">
+   <article type="commune" id="DT89-04221" pg="102">
       <vedette>
          <sm>Pourrain,</sm>
       </vedette>
@@ -42580,7 +42581,7 @@
       <definition>
          <typologie>autrefois fief</typologie> au faubourg de la <localisation>commune de Bassou</localisation>.</definition>
    </article>
-   <article id="DT89-04239" pg="103">
+   <article type="commune" id="DT89-04239" pg="103">
       <vedette>
          <sm>Précy,</sm>
       </vedette>
@@ -42632,7 +42633,7 @@
          <p>Autref. du dioc. d'Autun, de la prov. de Bourgogne et du baill. d'Avallon, dép. de la baronnie de Pierre-Pertuis.</p>
       </commentaire>
    </article>
-   <article id="DT89-04241" pg="103">
+   <article type="commune" id="DT89-04241" pg="103">
       <vedette>
          <sm>Précy-le-Sec,</sm>
       </vedette>
@@ -42675,7 +42676,7 @@
       </vedette>
       <definition>prend sa source à <localisation>Sincey</localisation> (Côte-d'Or) et se jette dans le Cousin à <localisation>Cussy-les-Forges</localisation>.</definition>
    </article>
-   <article id="DT89-04244" pg="103">
+   <article type="commune" id="DT89-04244" pg="103">
       <vedette>
          <sm>Prégilbert,</sm>
       </vedette>
@@ -42693,7 +42694,7 @@
       </commentaire>
       <insee>89314</insee>
    </article>
-   <article id="DT89-04245" pg="103">
+   <article type="commune" id="DT89-04245" pg="103">
       <vedette>
          <sm>Préhy,</sm>
       </vedette>
@@ -43071,7 +43072,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Léger</localisation>.</definition>
    </article>
-   <article id="DT89-04283" pg="104">
+   <article type="commune" id="DT89-04283" pg="104">
       <vedette>
          <sm>Provency,</sm>
       </vedette>
@@ -43166,7 +43167,7 @@
          <p>La ferme est détruite depuis vingt ans.</p>
       </commentaire>
    </article>
-   <article id="DT89-04291" pg="104">
+   <article type="commune" id="DT89-04291" pg="104">
       <vedette>
          <sm>Prunoy,</sm>
       </vedette>
@@ -43422,7 +43423,7 @@
       <definition>
          <localisation>commune de Villiers-Vineux</localisation>.</definition>
    </article>
-   <article id="DT89-04318" pg="105">
+   <article type="commune" id="DT89-04318" pg="105">
       <vedette>
          <sm>Quenne,</sm>
       </vedette>
@@ -43531,7 +43532,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Gigny</localisation>, autrefois fief et manoir avec ferme, et relev. en fief de la terre de Gigny.</definition>
    </article>
-   <article id="DT89-04329" pg="105">
+   <article type="commune" id="DT89-04329" pg="105">
       <vedette>
          <sm>Quincerot,</sm>
       </vedette>
@@ -43986,7 +43987,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>communes de Chichery et de Gurgy</localisation>.</definition>
    </article>
-   <article id="DT89-04381" pg="106">
+   <article type="commune" id="DT89-04381" pg="106">
       <vedette>
          <sm>Ravières,</sm>
       </vedette>
@@ -44050,7 +44051,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sainte-Colombe-sur-Loing</localisation>.</definition>
    </article>
-   <article id="DT89-04387" pg="106">
+   <article type="commune" id="DT89-04387" pg="106">
       <vedette>
          <sm>Rebourceaux,</sm>
       </vedette>
@@ -45017,7 +45018,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dicy</localisation>.</definition>
    </article>
-   <article id="DT89-04500" pg="108">
+   <article type="commune" id="DT89-04500" pg="108">
       <vedette>
          <sm>Roffey,</sm>
       </vedette>
@@ -45066,7 +45067,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Prunoy</localisation>.</definition>
    </article>
-   <article id="DT89-04503" pg="109">
+   <article type="commune" id="DT89-04503" pg="109">
       <vedette>
          <sm>Rogny,</sm>
       </vedette>
@@ -45189,7 +45190,7 @@
          <date>1740</date> 
          <reference>(abb. de Pontigny)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04515" pg="109">
+   <article type="commune" id="DT89-04515" pg="109">
       <vedette>
          <sm>Ronchères,</sm>
       </vedette>
@@ -45553,7 +45554,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chevillon</localisation>.</definition>
    </article>
-   <article id="DT89-04561" pg="110">
+   <article type="commune" id="DT89-04561" pg="110">
       <vedette>
          <sm>Rousson,</sm>
       </vedette>
@@ -45583,7 +45584,7 @@
       </commentaire>
       <insee>89327</insee>
    </article>
-   <article id="DT89-04562" pg="110">
+   <article type="commune" id="DT89-04562" pg="110">
       <vedette>
          <sm>Rouvray,</sm>
       </vedette>
@@ -45684,7 +45685,7 @@
       <definition>
          <typologie>hameau et château</typologie>, <localisation>commune de Pourrain</localisation>.</definition>
    </article>
-   <article id="DT89-04571" pg="110">
+   <article type="commune" id="DT89-04571" pg="110">
       <vedette>
          <sm>Rozoy,</sm>
       </vedette>
@@ -46057,7 +46058,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Beauvoir</localisation>.</definition>
    </article>
-   <article id="DT89-04616" pg="111">
+   <article type="commune" id="DT89-04616" pg="111">
       <vedette>
          <sm>Rugny,</sm>
       </vedette>
@@ -46292,7 +46293,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villebougis</localisation>.</definition>
    </article>
-   <article id="DT89-04639" pg="111">
+   <article type="commune" id="DT89-04639" pg="111">
       <vedette>
          <sm>Sacy,</sm>
       </vedette>
@@ -46318,7 +46319,7 @@
       </commentaire>
       <insee>89330</insee>
    </article>
-   <article id="DT89-04640" pg="111">
+   <article type="commune" id="DT89-04640" pg="111">
       <vedette>
          <sm>Sainpuits,</sm>
       </vedette>
@@ -46335,7 +46336,7 @@
       </commentaire>
       <insee>89331</insee>
    </article>
-   <article id="DT89-04641" pg="111">
+   <article type="commune" id="DT89-04641" pg="111">
       <vedette>
          <sm>Saint-Agnan,</sm>
       </vedette>
@@ -46373,7 +46374,7 @@
       <definition>
          <localisation>commune de Châtel-Gérard</localisation>, qui a reçu son nom de celui d'une chapelle qui y <pg>112</pg>existait sous le vocable de ce saint, et qui était autrefois un lieu de pèlerinage pour les enfants malades.</definition>
    </article>
-   <article id="DT89-04644" pg="112">
+   <article type="commune" id="DT89-04644" pg="112">
       <vedette>
          <sm>Saint-André,</sm>
       </vedette>
@@ -46435,7 +46436,7 @@
          <p>Le fief relevait du château d'Avallon.</p>
       </commentaire>
    </article>
-   <article id="DT89-04650" pg="112">
+   <article type="commune" id="DT89-04650" pg="112">
       <vedette>
          <sm>Saint-Aubin-Château-Neuf,</sm>
       </vedette>
@@ -46456,7 +46457,7 @@
       </commentaire>
       <insee>89334</insee>
    </article>
-   <article id="DT89-04651" pg="112">
+   <article type="commune" id="DT89-04651" pg="112">
       <vedette>
          <sm>Saint-Aubin-sur-Yonne,</sm>
       </vedette>
@@ -46611,7 +46612,7 @@
       <forme_ancienne>— <i>Saint-Bonnet,</i> fief et seigneurie, c<sup>ne</sup> de Levis, contigu au monastère, app. à l'abb. Saint-Germain, <date>1773</date> 
          <reference>(f. Saint-Germain)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04664" pg="112">
+   <article type="commune" id="DT89-04664" pg="112">
       <vedette>
          <sm>Saint-Brancher,</sm>
       </vedette>
@@ -46631,7 +46632,7 @@
       </commentaire>
       <insee>89336</insee>
    </article>
-   <article id="DT89-04665" pg="112">
+   <article type="commune" id="DT89-04665" pg="112">
       <vedette>
          <sm>Saint-Bris,</sm>
       </vedette>
@@ -46710,7 +46711,7 @@
       <definition>
          <typologie>chapelle</typologie>, <localisation>commune de Fontaines</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04671" pg="113">
+   <article type="commune" id="DT89-04671" pg="113">
       <vedette>
          <sm>Saint-Clément,</sm>
       </vedette>
@@ -46743,7 +46744,7 @@
          <date>1127</date> 
          <reference>(cart. Saint-Michel, D, bibl. de Tonnerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04673" pg="113">
+   <article type="commune" id="DT89-04673" pg="113">
       <vedette>
          <sm>Sainte-Colombe-près-l'Isle,</sm>
       </vedette>
@@ -46770,7 +46771,7 @@
          <p>Une communauté de religieuses est établie depuis quelques années dans les anciens bâtiments réparés.</p>
       </commentaire>
    </article>
-   <article id="DT89-04675" pg="113">
+   <article type="commune" id="DT89-04675" pg="113">
       <vedette>
          <sm>Sainte-Colombe-sur-Loing,</sm>
       </vedette>
@@ -46786,7 +46787,7 @@
       </commentaire>
       <insee>89340</insee>
    </article>
-   <article id="DT89-04676" pg="113">
+   <article type="commune" id="DT89-04676" pg="113">
       <vedette>
          <sm>Saint-Cydroine,</sm>
       </vedette>
@@ -46816,7 +46817,7 @@
       </commentaire>
       <insee>89218</insee>
    </article>
-   <article id="DT89-04677" pg="113">
+   <article type="commune" id="DT89-04677" pg="113">
       <vedette>
          <sm>Saint-Cyr-les-Colons,</sm>
       </vedette>
@@ -46861,7 +46862,7 @@
          <date>1441</date> 
          <reference>(abb. Saint-Julien d'Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04679" pg="113">
+   <article type="commune" id="DT89-04679" pg="113">
       <vedette>
          <sm>Saint-Denis-près-Sens,</sm>
       </vedette>
@@ -46880,7 +46881,7 @@
       </commentaire>
       <insee>89342</insee>
    </article>
-   <article id="DT89-04680" pg="113">
+   <article type="commune" id="DT89-04680" pg="113">
       <vedette>
          <sm>Saint-Denis-sur-Ouanne,</sm>
       </vedette>
@@ -47061,7 +47062,7 @@
       <definition>
          <localisation>commune d'Auxerre</localisation> ; existait autrefois près d'une source d'eau à l'ouest de la ville.</definition>
    </article>
-   <article id="DT89-04693" pg="114">
+   <article type="commune" id="DT89-04693" pg="114">
       <vedette>
          <sm>Saint-Georges,</sm>
       </vedette>
@@ -47150,7 +47151,7 @@
             </date>, sur l'emplacement d'un ancien château élevé sur le mont Brenn, auj. mont Brun, était fortifiée au moyen âge.</p>
       </commentaire>
    </article>
-   <article id="DT89-04701" pg="114">
+   <article type="commune" id="DT89-04701" pg="114">
       <vedette>
          <sm>Saint-Germain-des-Champs,</sm>
       </vedette>
@@ -47351,7 +47352,7 @@
          <p>— <date>1410</date>, détruite depuis longtemps (pouillé de Sens, <date>1695</date>, p. 173).</p>
       </commentaire>
    </article>
-   <article id="DT89-04720" pg="115">
+   <article type="commune" id="DT89-04720" pg="115">
       <vedette>
          <sm>Saint-Léger-de-Foucheret,</sm>
       </vedette>
@@ -47420,7 +47421,7 @@
          <date>1146</date> à <date>1169</date> 
          <reference>(cart. gén. de l'Yonne, I, 417)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04726" pg="115">
+   <article type="commune" id="DT89-04726" pg="115">
       <vedette>
          <sm>Saint-Loup-d'Ordon,</sm>
       </vedette>
@@ -47469,7 +47470,7 @@
       <definition>
          <typologie>chapelle</typologie>, <localisation>commune de Plessis-Saint-Jean</localisation>, à 400<sup>m</sup> au-dessus du <localisation>hameau de la Garenne</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04729" pg="115">
+   <article type="commune" id="DT89-04729" pg="115">
       <vedette>
          <sm>Sainte-Magnance,</sm>
       </vedette>
@@ -47654,7 +47655,7 @@
       </vedette>
       <definition>prend sa source à <localisation>Marmeaux</localisation> et se jette dans le Serain à <localisation>Montréal</localisation>.</definition>
    </article>
-   <article id="DT89-04747" pg="116">
+   <article type="commune" id="DT89-04747" pg="116">
       <vedette>
          <sm>Saint-Martin-des-Champs,</sm>
       </vedette>
@@ -47670,7 +47671,7 @@
       </commentaire>
       <insee>89352</insee>
    </article>
-   <article id="DT89-04748" pg="116">
+   <article type="commune" id="DT89-04748" pg="116">
       <vedette>
          <sm>Saint-Martin-d'Ordon,</sm>
       </vedette>
@@ -47687,7 +47688,7 @@
       </commentaire>
       <insee>89353</insee>
    </article>
-   <article id="DT89-04749" pg="116">
+   <article type="commune" id="DT89-04749" pg="116">
       <vedette>
          <sm>Saint-Martin-du-Tertre,</sm>
       </vedette>
@@ -47719,7 +47720,7 @@
       </commentaire>
       <insee>89354</insee>
    </article>
-   <article id="DT89-04750" pg="116">
+   <article type="commune" id="DT89-04750" pg="116">
       <vedette>
          <sm>Saint-Martin-sur-Armançon,</sm>
       </vedette>
@@ -47740,7 +47741,7 @@
       </commentaire>
       <insee>89355</insee>
    </article>
-   <article id="DT89-04751" pg="116">
+   <article type="commune" id="DT89-04751" pg="116">
       <vedette>
          <sm>Saint-Martin-sur-Ocre,</sm>
       </vedette>
@@ -47762,7 +47763,7 @@
       </commentaire>
       <insee>89356</insee>
    </article>
-   <article id="DT89-04752" pg="116">
+   <article type="commune" id="DT89-04752" pg="116">
       <vedette>
          <sm>Saint-Martin-sur-Oreuse,</sm>
       </vedette>
@@ -47789,7 +47790,7 @@
       </commentaire>
       <insee>89414</insee>
    </article>
-   <article id="DT89-04753" pg="116">
+   <article type="commune" id="DT89-04753" pg="116">
       <vedette>
          <sm>Saint-Martin-sur-Ouanne,</sm>
       </vedette>
@@ -47817,7 +47818,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Fargeau</localisation>.</definition>
    </article>
-   <article id="DT89-04755" pg="116">
+   <article type="commune" id="DT89-04755" pg="116">
       <vedette>
          <sm>Saint-Maurice-aux-Riches-Hommes,</sm>
       </vedette>
@@ -47839,7 +47840,7 @@
       </commentaire>
       <insee>89359</insee>
    </article>
-   <article id="DT89-04756" pg="117">
+   <article type="commune" id="DT89-04756" pg="117">
       <vedette>
          <sm>Saint-Maurice-le-Vieil,</sm>
       </vedette>
@@ -47856,7 +47857,7 @@
       </commentaire>
       <insee>89360</insee>
    </article>
-   <article id="DT89-04757" pg="117">
+   <article type="commune" id="DT89-04757" pg="117">
       <vedette>
          <sm>Saint-Maurice-Thizouaille,</sm>
       </vedette>
@@ -47931,7 +47932,7 @@
          <typologie>chapelle</typologie>, <localisation>commune de Villiers-sur-Tholon</localisation>, <date>1456</date> 
          <reference>(pouillé de Sens de <date>1695</date>, p. 173)</reference> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04763" pg="117">
+   <article type="commune" id="DT89-04763" pg="117">
       <vedette>
          <sm>Saint-Moré,</sm>
       </vedette>
@@ -47991,7 +47992,7 @@
             <sm>xii</sm>
             <sup>e</sup> siècle</date>, un château fort appart. aux comtes d'Auxerre, avec chapelle sous le vocable de sainte Anastasie ; lieu détruit.</forme_ancienne>
    </article>
-   <article id="DT89-04766" pg="117">
+   <article type="commune" id="DT89-04766" pg="117">
       <vedette>
          <sm>Sainte-Pallaye,</sm>
       </vedette>
@@ -48025,7 +48026,7 @@
          <date>1192</date> 
          <reference>(cart. gén. de l'Yonne, II, 442)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04768" pg="117">
+   <article type="commune" id="DT89-04768" pg="117">
       <vedette>
          <sm>Saint-Père,</sm>
       </vedette>
@@ -48177,7 +48178,7 @@
          <date>1216</date> 
          <reference>(chap. de Sens)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04781" pg="118">
+   <article type="commune" id="DT89-04781" pg="118">
       <vedette>
          <sm>Saint-Privé,</sm>
       </vedette>
@@ -48261,7 +48262,7 @@
          <p>Saint-Romain-le-Preux était, <date>avant 1789</date>, du dioc. de Sens, de la prov. de l'Île-de-France et de la justice de Sépaux, avec ressort au baill. de la Coudre.</p>
       </commentaire>
    </article>
-   <article id="DT89-04789" pg="118">
+   <article type="commune" id="DT89-04789" pg="118">
       <vedette>
          <sm>Saints,</sm>
       </vedette>
@@ -48335,7 +48336,7 @@
       <forme_ancienne>— <i>Saint-Sauveur-lez-Sens,</i> 
          <date>1756</date>, fief à l'abb. Saint-Jean <reference>(plan général sur lequel sont figurées la chapelle et des tombes dans le cimetière : f. Saint-Jean, arch. de l'Yonne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04792" pg="118">
+   <article type="commune" id="DT89-04792" pg="118">
       <vedette>
          <sm>Saint-Sérotin,</sm>
       </vedette>
@@ -48382,7 +48383,7 @@
       <forme_ancienne>— <i>Saint-Val,</i> chapelle en <date>1664</date> 
          <reference>(pouillé du dioc. de Sens de <date>1695</date>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04796" pg="119">
+   <article type="commune" id="DT89-04796" pg="119">
       <vedette>
          <pg>119</pg>
          <sm>Saint-Valérien,</sm>
@@ -48411,7 +48412,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Chevannes</localisation> (Cassini).</definition>
    </article>
-   <article id="DT89-04799" pg="119">
+   <article type="commune" id="DT89-04799" pg="119">
       <vedette>
          <sm>Saint-Vinnemer,</sm>
       </vedette>
@@ -48460,7 +48461,7 @@
          <p>— Six petits étangs portent ce nom et alimentent le ruisseau.</p>
       </commentaire>
    </article>
-   <article id="DT89-04801" pg="119">
+   <article type="commune" id="DT89-04801" pg="119">
       <vedette>
          <sm>Saintes-Vertus,</sm>
       </vedette>
@@ -48531,7 +48532,7 @@
          <localisation>commune de Toucy</localisation> ; <typologie>lieu détruit</typologie> 
          <date>avant 1780</date>.</definition>
    </article>
-   <article id="DT89-04807" pg="119">
+   <article type="commune" id="DT89-04807" pg="119">
       <vedette>
          <sm>Saligny,</sm>
       </vedette>
@@ -48647,7 +48648,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martin-des-Champs</localisation>.</definition>
    </article>
-   <article id="DT89-04820" pg="119">
+   <article type="commune" id="DT89-04820" pg="119">
       <vedette>
          <sm>Sambourg,</sm>
       </vedette>
@@ -48703,7 +48704,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Jouy</localisation>.</definition>
    </article>
-   <article id="DT89-04823" pg="119">
+   <article type="commune" id="DT89-04823" pg="119">
       <vedette>
          <sm>Santigny,</sm>
       </vedette>
@@ -48828,7 +48829,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Champignelles</localisation>.</definition>
    </article>
-   <article id="DT89-04835" pg="120">
+   <article type="commune" id="DT89-04835" pg="120">
       <vedette>
          <sm>Sarry,</sm>
       </vedette>
@@ -49218,7 +49219,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Béon</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04873" pg="120">
+   <article type="commune" id="DT89-04873" pg="120">
       <vedette>
          <sm>Sauvigny-le-Beuréal,</sm>
       </vedette>
@@ -49245,7 +49246,7 @@
       </commentaire>
       <insee>89377</insee>
    </article>
-   <article id="DT89-04874" pg="121">
+   <article type="commune" id="DT89-04874" pg="121">
       <vedette>
          <sm>Sauvigny-le-Bois,</sm>
       </vedette>
@@ -49311,7 +49312,7 @@
          <date>1788</date> 
          <reference>(reg. de l'état civil)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04879" pg="121">
+   <article type="commune" id="DT89-04879" pg="121">
       <vedette>
          <sm>Savigny,</sm>
       </vedette>
@@ -49331,7 +49332,7 @@
       </commentaire>
       <insee>89380</insee>
    </article>
-   <article id="DT89-04880" pg="121">
+   <article type="commune" id="DT89-04880" pg="121">
       <vedette>
          <sm>Savigny-en-Terre-Plaine,</sm>
       </vedette>
@@ -49371,7 +49372,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Ferté-Loupière</localisation>.</definition>
    </article>
-   <article id="DT89-04884" pg="121">
+   <article type="commune" id="DT89-04884" pg="121">
       <vedette>
          <sm>Sceaux,</sm>
       </vedette>
@@ -49579,7 +49580,7 @@
          <sm>Seignelay</sm> (chapelle Saint-Jean),</vedette>
       <definition>située sur le Tureau, à gauche de la route de <localisation>Brienon</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04899" pg="121">
+   <article type="commune" id="DT89-04899" pg="121">
       <vedette>
          <sm>Sementron,</sm>
       </vedette>
@@ -49616,7 +49617,7 @@
          <date>1501</date> 
          <reference>(abb. Saint-Germain d'Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04901" pg="122">
+   <article type="commune" id="DT89-04901" pg="122">
       <vedette>
          <sm>Senan,</sm>
       </vedette>
@@ -49693,7 +49694,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Saint-Clément</localisation>.</definition>
    </article>
-   <article id="DT89-04907" pg="122">
+   <article type="commune" id="DT89-04907" pg="122">
       <vedette>
          <sm>Sennevoy-le-Bas,</sm>
       </vedette>
@@ -49713,7 +49714,7 @@
       </commentaire>
       <insee>89385</insee>
    </article>
-   <article id="DT89-04908" pg="122">
+   <article type="commune" id="DT89-04908" pg="122">
       <vedette>
          <sm>Sennevoy-le-Haut,</sm>
       </vedette>
@@ -49834,7 +49835,7 @@
       <definition>
          <typologie>ancien grand chemin</typologie> qui partait de <localisation>Saint-Sauveur</localisation> et se dirigeait vers <localisation>Courtenay par Sept-Fonds, Villeneuve-les-Genêts, Champignelles, Charny et Dicy</localisation>.</definition>
    </article>
-   <article id="DT89-04915" pg="122">
+   <article type="commune" id="DT89-04915" pg="122">
       <vedette>
          <sm>Sépaux</sm> ou <sm>Sépeaux,</sm>
       </vedette>
@@ -49870,7 +49871,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Rogny</localisation>.</definition>
    </article>
-   <article id="DT89-04917" pg="123">
+   <article type="commune" id="DT89-04917" pg="123">
       <vedette>
          <sm>Sept-Fonds,</sm>
       </vedette>
@@ -49952,7 +49953,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Subligny</localisation>.</definition>
    </article>
-   <article id="DT89-04921" pg="123">
+   <article type="commune" id="DT89-04921" pg="123">
       <vedette>
          <sm>Serbonnes,</sm>
       </vedette>
@@ -50054,7 +50055,7 @@
          <date>1543</date> 
          <reference>(tabell. d'Auxerre, portef. IV)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04926" pg="123">
+   <article type="commune" id="DT89-04926" pg="123">
       <vedette>
          <sm>Sermizelles,</sm>
       </vedette>
@@ -50118,7 +50119,7 @@
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Charbuy</localisation>, qui se jette à <localisation>Guerchy</localisation> dans le Ravillon.</definition>
    </article>
-   <article id="DT89-04930" pg="123">
+   <article type="commune" id="DT89-04930" pg="123">
       <vedette>
          <sm>Serrigny,</sm>
       </vedette>
@@ -50185,7 +50186,7 @@
          <p>— Autref. siége d'une prévôté ressort. au baill. de Vauluisant.</p>
       </commentaire>
    </article>
-   <article id="DT89-04935" pg="123">
+   <article type="commune" id="DT89-04935" pg="123">
       <vedette>
          <sm>Sery,</sm>
       </vedette>
@@ -50268,7 +50269,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Chastenay</localisation>, appelé aussi <i>Chichon ;</i> aujourd'hui détruit.</definition>
    </article>
-   <article id="DT89-04941" pg="124">
+   <article type="commune" id="DT89-04941" pg="124">
       <vedette>
          <sm>Siéges (Les),</sm>
       </vedette>
@@ -50458,7 +50459,7 @@
          <date>879</date> 
          <reference>(cart. gén. de l'Yonne, II, p. 8)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-04959" pg="124">
+   <article type="commune" id="DT89-04959" pg="124">
       <vedette>
          <sm>Sognes,</sm>
       </vedette>
@@ -50577,7 +50578,7 @@
          <p>— Théâtre principal de la bataille de Fontenoy, en <date>841</date>.</p>
       </commentaire>
    </article>
-   <article id="DT89-04967" pg="124">
+   <article type="commune" id="DT89-04967" pg="124">
       <vedette>
          <sm>Sommecaise,</sm>
       </vedette>
@@ -50648,7 +50649,7 @@
       <forme_ancienne>— <i>Sourlum</i> ou <i>la Picardie</i> 
          <reference>(Cassini)</reference> ; lieu auj. détruit.</forme_ancienne>
    </article>
-   <article id="DT89-04971" pg="125">
+   <article type="commune" id="DT89-04971" pg="125">
       <vedette>
          <sm>Sormery,</sm>
       </vedette>
@@ -50741,7 +50742,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Tannerre</localisation>.</definition>
    </article>
-   <article id="DT89-04979" pg="125">
+   <article type="commune" id="DT89-04979" pg="125">
       <vedette>
          <sm>Soucy,</sm>
       </vedette>
@@ -50794,7 +50795,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Dixmont</localisation> ; aujourd'hui détruite.</definition>
    </article>
-   <article id="DT89-04981" pg="125">
+   <article type="commune" id="DT89-04981" pg="125">
       <vedette>
          <sm>Sougères,</sm>
       </vedette>
@@ -51033,7 +51034,7 @@
          <p>Ces moulins, auj. détruits, étaient situés rive gauche de l'Yonne, sous les murs de la cité romaine.</p>
       </commentaire>
    </article>
-   <article id="DT89-04997" pg="126">
+   <article type="commune" id="DT89-04997" pg="126">
       <vedette>
          <pg>126</pg>
          <sm>Stigny,</sm>
@@ -51074,7 +51075,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Aisy</localisation>.</definition>
    </article>
-   <article id="DT89-04999" pg="126">
+   <article type="commune" id="DT89-04999" pg="126">
       <vedette>
          <sm>Subligny,</sm>
       </vedette>
@@ -51237,7 +51238,7 @@
          <p>— Fief relev. de l'év. d'Auxerre, en <date>1500</date> (inv. des arch. de l'év. d'Auxerre, Bibl. imp. f. Saint-Germain, n° 1595).</p>
       </commentaire>
    </article>
-   <article id="DT89-05013" pg="126">
+   <article type="commune" id="DT89-05013" pg="126">
       <vedette>
          <sm>Taingy,</sm>
       </vedette>
@@ -51279,7 +51280,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Levis</localisation>.</definition>
    </article>
-   <article id="DT89-05015" pg="126">
+   <article type="commune" id="DT89-05015" pg="126">
       <vedette>
          <sm>Talcy,</sm>
       </vedette>
@@ -51390,7 +51391,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Montillot</localisation>.</definition>
    </article>
-   <article id="DT89-05023" pg="126">
+   <article type="commune" id="DT89-05023" pg="126">
       <vedette>
          <sm>Tanlay,</sm>
       </vedette>
@@ -51415,7 +51416,7 @@
       </commentaire>
       <insee>89407</insee>
    </article>
-   <article id="DT89-05024" pg="127">
+   <article type="commune" id="DT89-05024" pg="127">
       <vedette>
          <sm>Tannerre,</sm>
       </vedette>
@@ -51720,7 +51721,7 @@
       <definition>
          <typologie>château</typologie>, <localisation>commune de Fontaines</localisation>.</definition>
    </article>
-   <article id="DT89-05058" pg="127">
+   <article type="commune" id="DT89-05058" pg="127">
       <vedette>
          <sm>Tharoiseau,</sm>
       </vedette>
@@ -51753,7 +51754,7 @@
       </commentaire>
       <insee>89409</insee>
    </article>
-   <article id="DT89-05059" pg="127">
+   <article type="commune" id="DT89-05059" pg="127">
       <vedette>
          <sm>Tharot,</sm>
       </vedette>
@@ -51791,7 +51792,7 @@
       </commentaire>
       <insee>89410</insee>
    </article>
-   <article id="DT89-05060" pg="128">
+   <article type="commune" id="DT89-05060" pg="128">
       <vedette>
          <pg>128</pg>
          <sm>Theil,</sm>
@@ -51874,7 +51875,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dixmont</localisation>.</definition>
    </article>
-   <article id="DT89-05065" pg="128">
+   <article type="commune" id="DT89-05065" pg="128">
       <vedette>
          <sm>Thizy,</sm>
       </vedette>
@@ -51948,7 +51949,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Cerisiers</localisation>.</definition>
    </article>
-   <article id="DT89-05069" pg="128">
+   <article type="commune" id="DT89-05069" pg="128">
       <vedette>
          <sm>Thorey,</sm>
       </vedette>
@@ -51975,7 +51976,7 @@
       </commentaire>
       <insee>89413</insee>
    </article>
-   <article id="DT89-05070" pg="128">
+   <article type="commune" id="DT89-05070" pg="128">
       <vedette>
          <sm>Thorigny,</sm>
       </vedette>
@@ -52111,7 +52112,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Champigny</localisation>.</definition>
    </article>
-   <article id="DT89-05080" pg="128">
+   <article type="commune" id="DT89-05080" pg="128">
       <vedette>
          <sm>Thury,</sm>
       </vedette>
@@ -52214,7 +52215,7 @@
       </vedette>
       <definition>prend sa source à <localisation>Rigny</localisation> (Aube) et se jette dans la Vanne, <localisation>commune de Flacy</localisation>.</definition>
    </article>
-   <article id="DT89-05087" pg="129">
+   <article type="commune" id="DT89-05087" pg="129">
       <vedette>
          <sm>Tissey,</sm>
       </vedette>
@@ -52260,7 +52261,7 @@
          <p>Le pagus de Tonnerre était du dioc. de Langres ; le comté de Tonnerre relev., au moyen âge, de l'évêque de Langres pour une grande partie, et les baronnies de Cruzy et de Griselles et leurs dépendances relev. du duc de Bourgogne ; tout l'est du comté, étranger auj. au département de l'Yonne, relevait de l'évêque de Châlons-sur-Marne.</p>
       </commentaire>
    </article>
-   <article id="DT89-05090" pg="129">
+   <article type="commune" id="DT89-05090" pg="129">
       <vedette>
          <sm>Tonnerre,</sm>
       </vedette>
@@ -52709,7 +52710,7 @@
       <definition>
          <typologie>château</typologie>, <localisation>commune de Villefargeau</localisation>.</definition>
    </article>
-   <article id="DT89-05130" pg="130">
+   <article type="commune" id="DT89-05130" pg="130">
       <vedette>
          <sm>Treigny,</sm>
       </vedette>
@@ -52829,7 +52830,7 @@
          <typologie>lieu inconnu</typologie>, <date>580</date> 
          <reference>(cart. gén. de l'Yonne, I, 19)</reference>.</definition>
    </article>
-   <article id="DT89-05143" pg="130">
+   <article type="commune" id="DT89-05143" pg="130">
       <vedette>
          <sm>Trévilly,</sm>
       </vedette>
@@ -52867,7 +52868,7 @@
          <date>1543</date> 
          <reference>(rôles des feux du baill. d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05145" pg="130">
+   <article type="commune" id="DT89-05145" pg="130">
       <vedette>
          <sm>Trichey,</sm>
       </vedette>
@@ -52979,7 +52980,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Fontaines</localisation>.</definition>
    </article>
-   <article id="DT89-05155" pg="131">
+   <article type="commune" id="DT89-05155" pg="131">
       <vedette>
          <sm>Tronchoy,</sm>
       </vedette>
@@ -53103,7 +53104,7 @@
       <definition>
          <typologie>manœuvrerie</typologie>, <localisation>commune de Mézilles</localisation>.</definition>
    </article>
-   <article id="DT89-05169" pg="131">
+   <article type="commune" id="DT89-05169" pg="131">
       <vedette>
          <sm>Trucy-sur-Yonne,</sm>
       </vedette>
@@ -53183,7 +53184,7 @@
       <definition>
          <typologie>tuileries</typologie> des <localisation>communes d'Annay-sur-Serain ; Auxerre ; Bâle, à Parly ; Bazarme, Bléneau ; Bonne-Racine, à Héry ; du Bourbon, à Dixmont ; de Buisson, à Migé ; de la Haute-Cave, à Charny ; Champvallon ; Charbonnière, à Magny ; Chevannes ; des Cordiers, à Migé ; Courboissy, à Charny ; Cravan ; Creuza, à Chitry ; Égriselles-le-Bocage, Escamps ; Gabuet, à Migé ; Gerand, au Mont-Saint-Sulpice ; Grange-le-Bocage, Hauterive, l'Isle-sur-Serain, Jaulges, Jully, Merry-la-Vallée, Perrigny ; de la Proste, au Mont-Saint-Sulpice ; des Prud'hommes, à Brannay ; Prunoy ; de la Quillonnerie et de la Rigole, à Bléneau ; Rome, à Chigy ; Saint-Aubin-sur-Yonne, Seint-Martin-sur-Oreuse, Saligny, Soucy ; Vauchery, à Seignelay ; Vaudevanne, à Chailley ; Vernoy, Vertron, à Montacher ; Villefargeau, Villiers-sur-Tholon</localisation>.</definition>
    </article>
-   <article id="DT89-05178" pg="131">
+   <article type="commune" id="DT89-05178" pg="131">
       <vedette>
          <sm>Turny,</sm>
       </vedette>
@@ -53392,7 +53393,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Saint-Julien-du-Sault</localisation>.</definition>
    </article>
-   <article id="DT89-05199" pg="132">
+   <article type="commune" id="DT89-05199" pg="132">
       <vedette>
          <sm>Val-de-Mercy,</sm>
       </vedette>
@@ -53579,7 +53580,7 @@
          <date>864</date> 
          <reference>(cart. gén. de l'Yonne, I, 89)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05217" pg="133">
+   <article type="commune" id="DT89-05217" pg="133">
       <vedette>
          <sm>Vallan,</sm>
       </vedette>
@@ -53730,7 +53731,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Mézilles</localisation>.</definition>
    </article>
-   <article id="DT89-05232" pg="133">
+   <article type="commune" id="DT89-05232" pg="133">
       <vedette>
          <sm>Vallery,</sm>
       </vedette>
@@ -53886,7 +53887,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-05247" pg="133">
+   <article type="commune" id="DT89-05247" pg="133">
       <vedette>
          <sm>Vareilles,</sm>
       </vedette>
@@ -53937,7 +53938,7 @@
       <forme_ancienne>— <i>La Varaine,</i> 
          <date>1779</date>, avec titre de fief <reference>(ém. Rogres)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05250" pg="134">
+   <article type="commune" id="DT89-05250" pg="134">
       <vedette>
          <sm>Varennes,</sm>
       </vedette>
@@ -54026,7 +54027,7 @@
          <date>1137</date> 
          <reference>(cart. gén. de l'Yonne, I, 316, 317)</reference> ; détruit.</forme_ancienne>
    </article>
-   <article id="DT89-05257" pg="134">
+   <article type="commune" id="DT89-05257" pg="134">
       <vedette>
          <sm>Vassy,</sm>
       </vedette>
@@ -54253,7 +54254,7 @@
          <date>1528</date> 
          <reference>(abb. de Reigny)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05278" pg="134">
+   <article type="commune" id="DT89-05278" pg="134">
       <vedette>
          <sm>Vaudeurs,</sm>
       </vedette>
@@ -54529,7 +54530,7 @@
          <date>1679</date> 
          <reference>(rôles des feux du baill. d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05300" pg="135">
+   <article type="commune" id="DT89-05300" pg="135">
       <vedette>
          <sm>Vault-de-Lugny (Le),</sm>
       </vedette>
@@ -54683,7 +54684,7 @@
          <p>— Lieu auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-05311" pg="136">
+   <article type="commune" id="DT89-05311" pg="136">
       <vedette>
          <sm>Vaumort,</sm>
       </vedette>
@@ -54899,7 +54900,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Fournaudin</localisation>.</definition>
    </article>
-   <article id="DT89-05331" pg="136">
+   <article type="commune" id="DT89-05331" pg="136">
       <vedette>
          <sm>Vaux,</sm>
       </vedette>
@@ -55083,7 +55084,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Sauveur</localisation>.</definition>
    </article>
-   <article id="DT89-05345" pg="136">
+   <article type="commune" id="DT89-05345" pg="136">
       <vedette>
          <sm>Vénizy,</sm>
       </vedette>
@@ -55113,7 +55114,7 @@
       </commentaire>
       <insee>89436</insee>
    </article>
-   <article id="DT89-05346" pg="137">
+   <article type="commune" id="DT89-05346" pg="137">
       <vedette>
          <sm>Venouse,</sm>
       </vedette>
@@ -55158,7 +55159,7 @@
       </commentaire>
       <insee>89437</insee>
    </article>
-   <article id="DT89-05347" pg="137">
+   <article type="commune" id="DT89-05347" pg="137">
       <vedette>
          <sm>Venoy,</sm>
       </vedette>
@@ -55253,7 +55254,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Turny</localisation>.</definition>
    </article>
-   <article id="DT89-05357" pg="137">
+   <article type="commune" id="DT89-05357" pg="137">
       <vedette>
          <sm>Vergigny,</sm>
       </vedette>
@@ -55287,7 +55288,7 @@
       </commentaire>
       <insee>89439</insee>
    </article>
-   <article id="DT89-05358" pg="137">
+   <article type="commune" id="DT89-05358" pg="137">
       <vedette>
          <sm>Verlin,</sm>
       </vedette>
@@ -55426,7 +55427,7 @@
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Santigny</localisation>, qui se jette dans le ruisseau de Saint-Martin à <localisation>Marmeaux</localisation>.</definition>
    </article>
-   <article id="DT89-05372" pg="137">
+   <article type="commune" id="DT89-05372" pg="137">
       <vedette>
          <sm>Vernoy,</sm>
       </vedette>
@@ -55481,7 +55482,7 @@
          <date>1504</date> 
          <reference>(év. d'Auxerre, compte de la châtellenie de Toucy)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05375" pg="138">
+   <article type="commune" id="DT89-05375" pg="138">
       <vedette>
          <sm>Véron,</sm>
       </vedette>
@@ -55647,7 +55648,7 @@
       <definition>
          <typologie>château</typologie>, <localisation>commune de Vernoy</localisation>, aujourd'hui détruit, et dont il reste de vastes fossés.</definition>
    </article>
-   <article id="DT89-05393" pg="138">
+   <article type="commune" id="DT89-05393" pg="138">
       <vedette>
          <sm>Vertilly,</sm>
       </vedette>
@@ -55804,7 +55805,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT89-05402" pg="139">
+   <article type="commune" id="DT89-05402" pg="139">
       <vedette>
          <sm>Vezinnes,</sm>
       </vedette>
@@ -55960,7 +55961,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Bussy-le-Repos</localisation>.</definition>
    </article>
-   <article id="DT89-05414" pg="139">
+   <article type="commune" id="DT89-05414" pg="139">
       <vedette>
          <sm>Vignes,</sm>
       </vedette>
@@ -56148,7 +56149,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Pasumot, Mém. géogr. 1<sup>re</sup> édit. 67)</reference>.</definition>
    </article>
-   <article id="DT89-05430" pg="139">
+   <article type="commune" id="DT89-05430" pg="139">
       <vedette>
          <sm>Villeblevin,</sm>
       </vedette>
@@ -56194,7 +56195,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Villeblevin</localisation>.</definition>
    </article>
-   <article id="DT89-05432" pg="140">
+   <article type="commune" id="DT89-05432" pg="140">
       <vedette>
          <sm>Villebougis,</sm>
       </vedette>
@@ -56265,7 +56266,7 @@
          <p>Ce lieu avait titre de fief en <date>1520</date> (chap. de Sens, liasse Fouchères), et il fut réuni, pour l'exercice de la justice, au baill. de Saint-Valérien.</p>
       </commentaire>
    </article>
-   <article id="DT89-05436" pg="140">
+   <article type="commune" id="DT89-05436" pg="140">
       <vedette>
          <sm>Villechétive,</sm>
       </vedette>
@@ -56286,7 +56287,7 @@
       </commentaire>
       <insee>89451</insee>
    </article>
-   <article id="DT89-05437" pg="140">
+   <article type="commune" id="DT89-05437" pg="140">
       <vedette>
          <sm>Villecien,</sm>
       </vedette>
@@ -56340,7 +56341,7 @@
          <date>1685</date> 
          <reference>(terrier de Collemiers, abb. Saint-Remy de Sens)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05440" pg="140">
+   <article type="commune" id="DT89-05440" pg="140">
       <vedette>
          <sm>Villefargeau,</sm>
       </vedette>
@@ -56392,7 +56393,7 @@
          <p>Bailliage ressort. à celui de Sens. La seigneurie de Ville-Folle appart. autrefois à l'archev. de Sens et avait le titre de châtellenie comprenant Bussy et Rousson (f. archev. de Sens).</p>
       </commentaire>
    </article>
-   <article id="DT89-05442" pg="140">
+   <article type="commune" id="DT89-05442" pg="140">
       <vedette>
          <sm>Villefranche,</sm>
       </vedette>
@@ -56419,7 +56420,7 @@
       <definition>
          <typologie>hameaux</typologie>, <localisation>communes de Coulours et des Bordes</localisation>.</definition>
    </article>
-   <article id="DT89-05444" pg="140">
+   <article type="commune" id="DT89-05444" pg="140">
       <vedette>
          <sm>Villegardin,</sm>
       </vedette>
@@ -56457,7 +56458,7 @@
          <date>1544</date> 
          <reference>(abb. de Vauluisant)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05446" pg="141">
+   <article type="commune" id="DT89-05446" pg="141">
       <vedette>
          <sm>Villemanoche,</sm>
       </vedette>
@@ -56484,7 +56485,7 @@
       </commentaire>
       <insee>89456</insee>
    </article>
-   <article id="DT89-05447" pg="141">
+   <article type="commune" id="DT89-05447" pg="141">
       <vedette>
          <sm>Villemer,</sm>
       </vedette>
@@ -56519,7 +56520,7 @@
          <p>— <date>1587</date>, fief relev. du b<sup>on</sup> de Toucy (dénombrement de la seigneurie).</p>
       </commentaire>
    </article>
-   <article id="DT89-05449" pg="141">
+   <article type="commune" id="DT89-05449" pg="141">
       <vedette>
          <sm>Villenavotte,</sm>
       </vedette>
@@ -56600,7 +56601,7 @@
          <p>Villeneuve-l'Archevêque était, <date>avant 1789</date>, de la prov. de l'Île-de-France, élection de Sens, et siége d'un baill. seigneurial ressort. à celui de cette ville.</p>
       </commentaire>
    </article>
-   <article id="DT89-05454" pg="141">
+   <article type="commune" id="DT89-05454" pg="141">
       <vedette>
          <sm>Villeneuve-la-Dondagre,</sm>
       </vedette>
@@ -56616,7 +56617,7 @@
       </commentaire>
       <insee>89459</insee>
    </article>
-   <article id="DT89-05455" pg="141">
+   <article type="commune" id="DT89-05455" pg="141">
       <vedette>
          <sm>Villeneuve-la-Guyard,</sm>
       </vedette>
@@ -56640,7 +56641,7 @@
       </commentaire>
       <insee>89460</insee>
    </article>
-   <article id="DT89-05456" pg="141">
+   <article type="commune" id="DT89-05456" pg="141">
       <vedette>
          <sm>Villeneuve-les-Genêts,</sm>
       </vedette>
@@ -56684,7 +56685,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-05459" pg="141">
+   <article type="commune" id="DT89-05459" pg="141">
       <vedette>
          <sm>Villeneuve-Saint-Salve,</sm>
       </vedette>
@@ -56777,7 +56778,7 @@
       <forme_ancienne>— <i>Villeperdue,</i> 
          <date>1481</date>, masure appart. à l'abb. Saint-Marien <reference>(f. Saint-Marien d'Auxerre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05463" pg="142">
+   <article type="commune" id="DT89-05463" pg="142">
       <vedette>
          <sm>Villeperrot,</sm>
       </vedette>
@@ -56865,7 +56866,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sainte-Colombe-sur-Loing</localisation>.</definition>
    </article>
-   <article id="DT89-05468" pg="142">
+   <article type="commune" id="DT89-05468" pg="142">
       <vedette>
          <sm>Villeroy,</sm>
       </vedette>
@@ -56916,7 +56917,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d'Andries</localisation>.</definition>
    </article>
-   <article id="DT89-05472" pg="142">
+   <article type="commune" id="DT89-05472" pg="142">
       <vedette>
          <sm>Villethierry,</sm>
       </vedette>
@@ -56950,7 +56951,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Ferté-Loupière</localisation>.</definition>
    </article>
-   <article id="DT89-05474" pg="142">
+   <article type="commune" id="DT89-05474" pg="142">
       <vedette>
          <sm>Villevallier,</sm>
       </vedette>
@@ -57002,7 +57003,7 @@
       <definition>
          <typologie>hameaux</typologie>, <localisation>commune de Villiers-Louis</localisation>.</definition>
    </article>
-   <article id="DT89-05478" pg="142">
+   <article type="commune" id="DT89-05478" pg="142">
       <vedette>
          <sm>Villiers-Bonneux,</sm>
       </vedette>
@@ -57080,7 +57081,7 @@
          <date>1257</date> 
          <reference>(abb. de Reigny)</reference> ; jadis paroisse succurs. de Trichey.</forme_ancienne>
    </article>
-   <article id="DT89-05482" pg="143">
+   <article type="commune" id="DT89-05482" pg="143">
       <vedette>
          <sm>Villiers-les-Hauts,</sm>
       </vedette>
@@ -57126,7 +57127,7 @@
       <forme_ancienne>— <i>Villiers-Tournois,</i> métairie et moulin, <date>1702</date> 
          <reference>(abb. Saint-Germain, plan)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05485" pg="143">
+   <article type="commune" id="DT89-05485" pg="143">
       <vedette>
          <sm>Villiers-Louis,</sm>
       </vedette>
@@ -57164,7 +57165,7 @@
          <date>1548</date> 
          <reference>(compte du chap. d'Avallon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05487" pg="143">
+   <article type="commune" id="DT89-05487" pg="143">
       <vedette>
          <sm>Villiers-Saint-Benoit,</sm>
       </vedette>
@@ -57196,7 +57197,7 @@
       </commentaire>
       <insee>89472</insee>
    </article>
-   <article id="DT89-05488" pg="143">
+   <article type="commune" id="DT89-05488" pg="143">
       <vedette>
          <sm>Villiers-sur-Tholon,</sm>
       </vedette>
@@ -57236,7 +57237,7 @@
       <forme_ancienne>— <i>Villiers-sur-Yonne,</i> 
          <date>1588</date>, fief dépend. du comté de Joigny en la terre de Saint-Aubin-sur-Yonne <reference>(ém. Doublet de Persan)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05490" pg="143">
+   <article type="commune" id="DT89-05490" pg="143">
       <vedette>
          <sm>Villiers-Vineux,</sm>
       </vedette>
@@ -57266,7 +57267,7 @@
       </commentaire>
       <insee>89474</insee>
    </article>
-   <article id="DT89-05491" pg="143">
+   <article type="commune" id="DT89-05491" pg="143">
       <vedette>
          <sm>Villon,</sm>
       </vedette>
@@ -57302,7 +57303,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Villiers-Saint-Benoît</localisation> ; autrefois fief relev. du b<sup>on</sup> de Toucy.</definition>
    </article>
-   <article id="DT89-05493" pg="144">
+   <article type="commune" id="DT89-05493" pg="144">
       <vedette>
          <sm>Villotte (La),</sm>
       </vedette>
@@ -57362,7 +57363,7 @@
          <p>— Auj. détruit.</p>
       </commentaire>
    </article>
-   <article id="DT89-05496" pg="144">
+   <article type="commune" id="DT89-05496" pg="144">
       <vedette>
          <sm>Villy,</sm>
       </vedette>
@@ -57379,7 +57380,7 @@
       </commentaire>
       <insee>89477</insee>
    </article>
-   <article id="DT89-05497" pg="144">
+   <article type="commune" id="DT89-05497" pg="144">
       <vedette>
          <sm>Vincelles,</sm>
       </vedette>
@@ -57410,7 +57411,7 @@
       </commentaire>
       <insee>89478</insee>
    </article>
-   <article id="DT89-05498" pg="144">
+   <article type="commune" id="DT89-05498" pg="144">
       <vedette>
          <sm>Vincelottes,</sm>
       </vedette>
@@ -57456,7 +57457,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chaumot</localisation>.</definition>
    </article>
-   <article id="DT89-05502" pg="144">
+   <article type="commune" id="DT89-05502" pg="144">
       <vedette>
          <sm>Vinneuf,</sm>
       </vedette>
@@ -57500,7 +57501,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Cerisiers</localisation>.</definition>
    </article>
-   <article id="DT89-05505" pg="144">
+   <article type="commune" id="DT89-05505" pg="144">
       <vedette>
          <sm>Vireaux,</sm>
       </vedette>
@@ -57553,7 +57554,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Denis-sur-Ouanne</localisation>.</definition>
    </article>
-   <article id="DT89-05510" pg="144">
+   <article type="commune" id="DT89-05510" pg="144">
       <vedette>
          <sm>Viviers,</sm>
       </vedette>
@@ -57631,7 +57632,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Treigny</localisation>.</definition>
    </article>
-   <article id="DT89-05519" pg="144">
+   <article type="commune" id="DT89-05519" pg="144">
       <vedette>
          <sm>Voisines,</sm>
       </vedette>
@@ -57678,7 +57679,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>canton de Molosme</localisation>.</definition>
    </article>
-   <article id="DT89-05522" pg="145">
+   <article type="commune" id="DT89-05522" pg="145">
       <vedette>
          <sm>Volgré,</sm>
       </vedette>
@@ -57766,7 +57767,7 @@
          <date>1640</date> 
          <reference>(E. 317 arch. de l'Yonne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT89-05530" pg="145">
+   <article type="commune" id="DT89-05530" pg="145">
       <vedette>
          <sm>Voutenay,</sm>
       </vedette>
@@ -57924,7 +57925,7 @@
          <p>Au moyen âge, la propriété de l'Yonne était morcelée entre un grand nombre de seigneurs. Le comte de Nevers possédait la partie qui s'étend depuis Vincelles jusqu'à la ferme de Preuilly, près d'Auxerre. L'évêque, le chapitre cathédral et l'abb. Saint-Germain de cette ville se partageaient la rivière depuis Auxerre jusqu'à Bassou. Le comte de Joigny, l'archevêque, le chapitre cathédral et l'abb. Sainte-Colombe de Sens jouissaient également de certaines parties.</p>
       </commentaire>
    </article>
-   <article id="DT89-05539" pg="145">
+   <article type="commune" id="DT89-05539" pg="145">
       <vedette>
          <sm>Yrouère,</sm>
       </vedette>
