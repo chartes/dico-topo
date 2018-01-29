@@ -3,6 +3,7 @@
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
+
 <!DOCTYPE DICTIONNAIRE SYSTEM "DT52.dtd">
 <DICTIONNAIRE departement="Haute-Marne" dep="52">
    <article id="DT52-00001" pg="1">
@@ -121,7 +122,7 @@
          <date>1858</date> 
          <reference>(Dict. des postes de la Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00011" pg="1">
+   <article type="commune" id="DT52-00011" pg="1">
       <vedette>
          <sm>Ageville,</sm>
       </vedette>
@@ -198,7 +199,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00015" pg="2">
+   <article type="commune" id="DT52-00015" pg="2">
       <vedette>
          <sm>Aigremont,</sm>
       </vedette>
@@ -250,7 +251,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00018" pg="2">
+   <article type="commune" id="DT52-00018" pg="2">
       <vedette>
          <sm>Aillianville,</sm>
       </vedette>
@@ -282,7 +283,7 @@
       </commentaire>
       <insee>52003</insee>
    </article>
-   <article id="DT52-00019" pg="2">
+   <article type="commune" id="DT52-00019" pg="2">
       <vedette>
          <sm>Aingoulaincourt,</sm>
       </vedette>
@@ -317,7 +318,7 @@
       </commentaire>
       <insee>52004</insee>
    </article>
-   <article id="DT52-00020" pg="2">
+   <article type="commune" id="DT52-00020" pg="2">
       <vedette>
          <sm>Aizanville,</sm>
       </vedette>
@@ -366,7 +367,7 @@
       </commentaire>
       <insee>52005</insee>
    </article>
-   <article id="DT52-00021" pg="2">
+   <article type="commune" id="DT52-00021" pg="2">
       <vedette>
          <sm>Allichamp,</sm>
       </vedette>
@@ -504,7 +505,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastres de Cirfontaine, section C, et de Lézéville, section A)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00027" pg="3">
+   <article type="commune" id="DT52-00027" pg="3">
       <vedette>
          <sm>Ambonville,</sm>
       </vedette>
@@ -642,7 +643,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Briaucourt</localisation>, section A.</definition>
    </article>
-   <article id="DT52-00037" pg="3">
+   <article type="commune" id="DT52-00037" pg="3">
       <vedette>
          <sm>Andelot,</sm>
       </vedette>
@@ -684,7 +685,7 @@
       </commentaire>
       <insee>52008</insee>
    </article>
-   <article id="DT52-00038" pg="3">
+   <article type="commune" id="DT52-00038" pg="3">
       <vedette>
          <sm>Andilly,</sm>
       </vedette>
@@ -746,7 +747,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de la Villeneuve-en-Angoulancourt</localisation> ; son nom semble être un souvenir de celui d'Angoulancourt, lieu détruit.</definition>
    </article>
-   <article id="DT52-00042" pg="3">
+   <article type="commune" id="DT52-00042" pg="3">
       <vedette>
          <sm>Anglus,</sm>
       </vedette>
@@ -771,7 +772,7 @@
       </commentaire>
       <insee>52088</insee>
    </article>
-   <article id="DT52-00043" pg="4">
+   <article type="commune" id="DT52-00043" pg="4">
       <vedette>
          <sm>Angoulancourt,</sm>
       </vedette>
@@ -825,7 +826,7 @@
       <definition>
          <typologie>moulin détruit</typologie>, <localisation>commune de Hûmes</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00046" pg="4">
+   <article type="commune" id="DT52-00046" pg="4">
       <vedette>
          <sm>Annéville,</sm>
       </vedette>
@@ -850,7 +851,7 @@
       </commentaire>
       <insee>52011</insee>
    </article>
-   <article id="DT52-00047" pg="4">
+   <article type="commune" id="DT52-00047" pg="4">
       <vedette>
          <sm>Annonville,</sm>
       </vedette>
@@ -887,7 +888,7 @@
       </commentaire>
       <insee>52012</insee>
    </article>
-   <article id="DT52-00048" pg="4">
+   <article type="commune" id="DT52-00048" pg="4">
       <vedette>
          <sm>Anrosey,</sm>
       </vedette>
@@ -994,7 +995,7 @@
          <date>1487</date> 
          <reference>(Clairvaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00054" pg="5">
+   <article type="commune" id="DT52-00054" pg="5">
       <vedette>
          <sm>Aprey,</sm>
       </vedette>
@@ -1087,7 +1088,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-00058" pg="5">
+   <article type="commune" id="DT52-00058" pg="5">
       <vedette>
          <sm>Arbigny-sous-Varennes,</sm>
       </vedette>
@@ -1136,7 +1137,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-00060" pg="5">
+   <article type="commune" id="DT52-00060" pg="5">
       <vedette>
          <sm>Arbot,</sm>
       </vedette>
@@ -1187,7 +1188,7 @@
          <p>En <date>1789</date>, Arcémont formait une communauté du bailliage de Chaumont, prévôté de Nogent, élection de Langres ; la seigneurie relevait de Clefmont, et en arrière-fief de Nogent-le-Roi.</p>
       </commentaire>
    </article>
-   <article id="DT52-00062" pg="5">
+   <article type="commune" id="DT52-00062" pg="5">
       <vedette>
          <sm>Arc-en-Barrois,</sm>
       </vedette>
@@ -1315,7 +1316,7 @@
          <date>1464</date> 
          <reference>(Arch. nat., P. 174<sup>3</sup>, n° 330 <i>bis</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00071" pg="6">
+   <article type="commune" id="DT52-00071" pg="6">
       <vedette>
          <sm>Argentolles,</sm>
       </vedette>
@@ -1353,7 +1354,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00073" pg="6">
+   <article type="commune" id="DT52-00073" pg="6">
       <vedette>
          <sm>Arnancourt,</sm>
       </vedette>
@@ -1400,7 +1401,7 @@
          <date>1675</date> 
          <reference>(arch. Haute-Marne, G. 85, f° 10)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00075" pg="6">
+   <article type="commune" id="DT52-00075" pg="6">
       <vedette>
          <sm>Arnoncourt,</sm>
       </vedette>
@@ -1445,7 +1446,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Brousseval</localisation>, section A.</definition>
    </article>
-   <article id="DT52-00078" pg="6">
+   <article type="commune" id="DT52-00078" pg="6">
       <vedette>
          <sm>Attancourt,</sm>
       </vedette>
@@ -1517,7 +1518,7 @@
          <date>1548</date> 
          <reference>(Longuay)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00080" pg="7">
+   <article type="commune" id="DT52-00080" pg="7">
       <vedette>
          <pg>7</pg>
          <sm>Aubepierre,</sm>
@@ -1539,7 +1540,7 @@
       </commentaire>
       <insee>52022</insee>
    </article>
-   <article id="DT52-00081" pg="7">
+   <article type="commune" id="DT52-00081" pg="7">
       <vedette>
          <sm>Auberive,</sm>
       </vedette>
@@ -1570,7 +1571,7 @@
       </commentaire>
       <insee>52023</insee>
    </article>
-   <article id="DT52-00082" pg="7">
+   <article type="commune" id="DT52-00082" pg="7">
       <vedette>
          <sm>Aubigny,</sm>
       </vedette>
@@ -1612,7 +1613,7 @@
       </commentaire>
       <insee>52509</insee>
    </article>
-   <article id="DT52-00083" pg="7">
+   <article type="commune" id="DT52-00083" pg="7">
       <vedette>
          <sm>Audeloncourt,</sm>
       </vedette>
@@ -1665,7 +1666,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00085" pg="7">
+   <article type="commune" id="DT52-00085" pg="7">
       <vedette>
          <sm>Augeville,</sm>
       </vedette>
@@ -1688,7 +1689,7 @@
       </commentaire>
       <insee>52379</insee>
    </article>
-   <article id="DT52-00086" pg="7">
+   <article type="commune" id="DT52-00086" pg="7">
       <vedette>
          <sm>Aujeurre,</sm>
       </vedette>
@@ -1783,7 +1784,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00089" pg="8">
+   <article type="commune" id="DT52-00089" pg="8">
       <vedette>
          <sm>Aulnoy,</sm>
       </vedette>
@@ -1844,7 +1845,7 @@
       <definition>
          <typologie>bocard</typologie>, <localisation>commune de Sommancourt</localisation>.</definition>
    </article>
-   <article id="DT52-00092" pg="8">
+   <article type="commune" id="DT52-00092" pg="8">
       <vedette>
          <sm>Autigny-le-Grand,</sm>
       </vedette>
@@ -1890,7 +1891,7 @@
       </commentaire>
       <insee>52029</insee>
    </article>
-   <article id="DT52-00093" pg="8">
+   <article type="commune" id="DT52-00093" pg="8">
       <vedette>
          <sm>Autigny-le-Petit,</sm>
       </vedette>
@@ -1913,7 +1914,7 @@
       </commentaire>
       <insee>52030</insee>
    </article>
-   <article id="DT52-00094" pg="8">
+   <article type="commune" id="DT52-00094" pg="8">
       <vedette>
          <sm>Autreville,</sm>
       </vedette>
@@ -1963,7 +1964,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Hallignicourt</localisation>, section C.</definition>
    </article>
-   <article id="DT52-00098" pg="8">
+   <article type="commune" id="DT52-00098" pg="8">
       <vedette>
          <sm>Avrainville,</sm>
       </vedette>
@@ -1995,7 +1996,7 @@
       </commentaire>
       <insee>52497</insee>
    </article>
-   <article id="DT52-00099" pg="9">
+   <article type="commune" id="DT52-00099" pg="9">
       <vedette>
          <sm>Avrecourt,</sm>
       </vedette>
@@ -2134,7 +2135,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00109" pg="9">
+   <article type="commune" id="DT52-00109" pg="9">
       <vedette>
          <sm>Bailly-aux-Forges,</sm>
       </vedette>
@@ -2168,7 +2169,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00111" pg="9">
+   <article type="commune" id="DT52-00111" pg="9">
       <vedette>
          <sm>Baissey,</sm>
       </vedette>
@@ -2216,7 +2217,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Romains-sur-Meuse</localisation>.</definition>
    </article>
-   <article id="DT52-00113" pg="10">
+   <article type="commune" id="DT52-00113" pg="10">
       <vedette>
          <sm>Balesme,</sm>
       </vedette>
@@ -2257,7 +2258,7 @@
       </commentaire>
       <insee>52036</insee>
    </article>
-   <article id="DT52-00114" pg="10">
+   <article type="commune" id="DT52-00114" pg="10">
       <vedette>
          <sm>Banne,</sm>
       </vedette>
@@ -2667,7 +2668,7 @@
          <date>1297</date> 
          <reference>(la Chapelle-aux-Planches)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00149" pg="11">
+   <article type="commune" id="DT52-00149" pg="11">
       <vedette>
          <sm>Bassoncourt,</sm>
       </vedette>
@@ -2832,7 +2833,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00165" pg="12">
+   <article type="commune" id="DT52-00165" pg="12">
       <vedette>
          <pg>12</pg>
          <sm>Baudrecourt,</sm>
@@ -2921,7 +2922,7 @@
                <sup>e</sup> siècle</date>.</p>
       </commentaire>
    </article>
-   <article id="DT52-00167" pg="12">
+   <article type="commune" id="DT52-00167" pg="12">
       <vedette>
          <sm>Bay,</sm>
       </vedette>
@@ -2998,7 +2999,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Illoud</localisation>, sur les hauteurs, au nord.</definition>
    </article>
-   <article id="DT52-00172" pg="12">
+   <article type="commune" id="DT52-00172" pg="12">
       <vedette>
          <sm>Beaucharmoy,</sm>
       </vedette>
@@ -3018,7 +3019,7 @@
       </commentaire>
       <insee>52400</insee>
    </article>
-   <article id="DT52-00173" pg="12">
+   <article type="commune" id="DT52-00173" pg="12">
       <vedette>
          <sm>Beauchemin,</sm>
       </vedette>
@@ -3587,7 +3588,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vicq</localisation>, section C.</definition>
    </article>
-   <article id="DT52-00222" pg="14">
+   <article type="commune" id="DT52-00222" pg="14">
       <vedette>
          <sm>Belmont,</sm>
       </vedette>
@@ -4093,7 +4094,7 @@
          <date>1772</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 691)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00270" pg="15">
+   <article type="commune" id="DT52-00270" pg="15">
       <vedette>
          <sm>Bettaincourt,</sm>
       </vedette>
@@ -4120,7 +4121,7 @@
       </commentaire>
       <insee>52044</insee>
    </article>
-   <article id="DT52-00271" pg="15">
+   <article type="commune" id="DT52-00271" pg="15">
       <vedette>
          <sm>Bettancourt-la-Ferrée,</sm>
       </vedette>
@@ -4152,7 +4153,7 @@
       </commentaire>
       <insee>52045</insee>
    </article>
-   <article id="DT52-00272" pg="15">
+   <article type="commune" id="DT52-00272" pg="15">
       <vedette>
          <sm>Bettoncourt,</sm>
       </vedette>
@@ -4232,7 +4233,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Sarrey</localisation>, section D.</definition>
    </article>
-   <article id="DT52-00276" pg="16">
+   <article type="commune" id="DT52-00276" pg="16">
       <vedette>
          <sm>Beurville,</sm>
       </vedette>
@@ -4365,7 +4366,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Vaudrecourt</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00285" pg="16">
+   <article type="commune" id="DT52-00285" pg="16">
       <vedette>
          <sm>Bienville,</sm>
       </vedette>
@@ -4404,7 +4405,7 @@
       </commentaire>
       <insee>52194</insee>
    </article>
-   <article id="DT52-00286" pg="16">
+   <article type="commune" id="DT52-00286" pg="16">
       <vedette>
          <sm>Bierne,</sm>
       </vedette>
@@ -4432,7 +4433,7 @@
       </commentaire>
       <insee>52140</insee>
    </article>
-   <article id="DT52-00287" pg="16">
+   <article type="commune" id="DT52-00287" pg="16">
       <vedette>
          <sm>Biesle,</sm>
       </vedette>
@@ -4551,7 +4552,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00294" pg="17">
+   <article type="commune" id="DT52-00294" pg="17">
       <vedette>
          <sm>Bize,</sm>
       </vedette>
@@ -4623,7 +4624,7 @@
          <date>1576</date> 
          <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00298" pg="17">
+   <article type="commune" id="DT52-00298" pg="17">
       <vedette>
          <sm>Blaise,</sm>
       </vedette>
@@ -4733,7 +4734,7 @@
          <date>1858</date> 
          <reference>(Jolibois, <i>Haute-Marne</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00301" pg="18">
+   <article type="commune" id="DT52-00301" pg="18">
       <vedette>
          <sm>Blaisy,</sm> 
          <i>dit aussi</i> 
@@ -4846,7 +4847,7 @@
          <date>1889</date> 
          <reference>(État-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00309" pg="18">
+   <article type="commune" id="DT52-00309" pg="18">
       <vedette>
          <sm>Blancheville,</sm>
       </vedette>
@@ -4900,7 +4901,7 @@
       <definition>
          <typologie>usine</typologie>, <localisation>commune de Goncourt</localisation>.</definition>
    </article>
-   <article id="DT52-00312" pg="18">
+   <article type="commune" id="DT52-00312" pg="18">
       <vedette>
          <sm>Blécourt,</sm>
       </vedette>
@@ -4933,7 +4934,7 @@
       </commentaire>
       <insee>52055</insee>
    </article>
-   <article id="DT52-00313" pg="18">
+   <article type="commune" id="DT52-00313" pg="18">
       <vedette>
          <sm>Blessonville,</sm>
       </vedette>
@@ -5029,7 +5030,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00317" pg="19">
+   <article type="commune" id="DT52-00317" pg="19">
       <vedette>
          <sm>Blumerey,</sm>
       </vedette>
@@ -5327,7 +5328,7 @@
          <typologie>ferme</typologie>, <localisation>commune de Narcy</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-00342" pg="19">
+   <article type="commune" id="DT52-00342" pg="19">
       <vedette>
          <sm>Bologne,</sm>
       </vedette>
@@ -5534,7 +5535,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00354" pg="20">
+   <article type="commune" id="DT52-00354" pg="20">
       <vedette>
          <sm>Bonnecourt,</sm>
       </vedette>
@@ -6229,7 +6230,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Ciergue</localisation>.</definition>
    </article>
-   <article id="DT52-00410" pg="22">
+   <article type="commune" id="DT52-00410" pg="22">
       <vedette>
          <sm>Bourbonne-les-Bains,</sm>
       </vedette>
@@ -6294,7 +6295,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 689)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00412" pg="22">
+   <article type="commune" id="DT52-00412" pg="22">
       <vedette>
          <sm>Bourdons,</sm>
       </vedette>
@@ -6325,7 +6326,7 @@
       </commentaire>
       <insee>52061</insee>
    </article>
-   <article id="DT52-00413" pg="23">
+   <article type="commune" id="DT52-00413" pg="23">
       <vedette>
          <sm>Bourg,</sm>
       </vedette>
@@ -6373,7 +6374,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune du Fays-Billot</localisation>, section F.</definition>
    </article>
-   <article id="DT52-00417" pg="23">
+   <article type="commune" id="DT52-00417" pg="23">
       <vedette>
          <sm>Bourg-Sainte-Marie,</sm>
       </vedette>
@@ -6408,7 +6409,7 @@
       <definition>
          <typologie>maison forestière</typologie>, <localisation>commune de Buxières-lez-Belmont</localisation>.</definition>
    </article>
-   <article id="DT52-00419" pg="23">
+   <article type="commune" id="DT52-00419" pg="23">
       <vedette>
          <sm>Bourmont,</sm>
       </vedette>
@@ -6593,7 +6594,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Genrupt</localisation>.</definition>
    </article>
-   <article id="DT52-00437" pg="24">
+   <article type="commune" id="DT52-00437" pg="24">
       <vedette>
          <sm>Bouzancourt,</sm>
       </vedette>
@@ -6687,7 +6688,7 @@
          <date>1828</date> 
          <reference>(cadastre, section B)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00440" pg="24">
+   <article type="commune" id="DT52-00440" pg="24">
       <vedette>
          <sm>Brachay,</sm>
       </vedette>
@@ -6721,7 +6722,7 @@
       </commentaire>
       <insee>52066</insee>
    </article>
-   <article id="DT52-00441" pg="24">
+   <article type="commune" id="DT52-00441" pg="24">
       <vedette>
          <sm>Brainville,</sm>
       </vedette>
@@ -6772,7 +6773,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Droye</localisation>.</definition>
    </article>
-   <article id="DT52-00444" pg="24">
+   <article type="commune" id="DT52-00444" pg="24">
       <vedette>
          <sm>Braucourt,</sm>
       </vedette>
@@ -6801,7 +6802,7 @@
       </commentaire>
       <insee>52182</insee>
    </article>
-   <article id="DT52-00445" pg="25">
+   <article type="commune" id="DT52-00445" pg="25">
       <vedette>
          <sm>Braux,</sm>
       </vedette>
@@ -6879,7 +6880,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00449" pg="25">
+   <article type="commune" id="DT52-00449" pg="25">
       <vedette>
          <sm>Brenne,</sm>
       </vedette>
@@ -6915,7 +6916,7 @@
       </commentaire>
       <insee>52070</insee>
    </article>
-   <article id="DT52-00450" pg="25">
+   <article type="commune" id="DT52-00450" pg="25">
       <vedette>
          <sm>Bressoncourt,</sm>
       </vedette>
@@ -6935,7 +6936,7 @@
       </commentaire>
       <insee>52491</insee>
    </article>
-   <article id="DT52-00451" pg="25">
+   <article type="commune" id="DT52-00451" pg="25">
       <vedette>
          <sm>Bretenay,</sm>
       </vedette>
@@ -6983,7 +6984,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00453" pg="25">
+   <article type="commune" id="DT52-00453" pg="25">
       <vedette>
          <sm>Breuil,</sm>
       </vedette>
@@ -7051,7 +7052,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00456" pg="25">
+   <article type="commune" id="DT52-00456" pg="25">
       <vedette>
          <sm>Brevannes,</sm>
       </vedette>
@@ -7197,7 +7198,7 @@
          <p>En <date>1789</date>, l'église de Brevoine, dédiée à la Nativité de la Sainte-Vierge, était une annexe de la paroisse de Saint-Pierre de Langres. La seigneurie appartenait à l'évêque de Langres.</p>
       </commentaire>
    </article>
-   <article id="DT52-00459" pg="26">
+   <article type="commune" id="DT52-00459" pg="26">
       <vedette>
          <sm>Briaucourt,</sm>
       </vedette>
@@ -7255,7 +7256,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Voisey</localisation>, section F.</definition>
    </article>
-   <article id="DT52-00462" pg="26">
+   <article type="commune" id="DT52-00462" pg="26">
       <vedette>
          <sm>Bricon,</sm>
       </vedette>
@@ -7386,7 +7387,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Corgirnon</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00473" pg="26">
+   <article type="commune" id="DT52-00473" pg="26">
       <vedette>
          <sm>Broncourt,</sm>
       </vedette>
@@ -7454,7 +7455,7 @@
          <p>La seigneurie des Brossottes appartenait au chapitre de Langres.</p>
       </commentaire>
    </article>
-   <article id="DT52-00477" pg="27">
+   <article type="commune" id="DT52-00477" pg="27">
       <vedette>
          <sm>Brottes,</sm>
       </vedette>
@@ -7486,7 +7487,7 @@
       </commentaire>
       <insee>52121</insee>
    </article>
-   <article id="DT52-00478" pg="27">
+   <article type="commune" id="DT52-00478" pg="27">
       <vedette>
          <sm>Brousseval,</sm>
       </vedette>
@@ -7528,7 +7529,7 @@
       </commentaire>
       <insee>52079</insee>
    </article>
-   <article id="DT52-00479" pg="27">
+   <article type="commune" id="DT52-00479" pg="27">
       <vedette>
          <sm>Broutières,</sm>
       </vedette>
@@ -7631,7 +7632,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00488" pg="27">
+   <article type="commune" id="DT52-00488" pg="27">
       <vedette>
          <sm>Buchey,</sm>
       </vedette>
@@ -7744,7 +7745,7 @@
          <date>1683</date> 
          <reference>(Septfontaines)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00492" pg="28">
+   <article type="commune" id="DT52-00492" pg="28">
       <vedette>
          <sm>Bugnières,</sm>
       </vedette>
@@ -7858,7 +7859,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00500" pg="28">
+   <article type="commune" id="DT52-00500" pg="28">
       <vedette>
          <sm>Busson,</sm>
       </vedette>
@@ -7998,7 +7999,7 @@
          <p>Buxereuilles et Reclancourt, après avoir formé chacun une commune pendant quelques années, <pg>29</pg>ont été réunis à Chaumont par un décret impérial du <date>6 janvier 1810</date>.</p>
       </commentaire>
    </article>
-   <article id="DT52-00511" pg="29">
+   <article type="commune" id="DT52-00511" pg="29">
       <vedette>
          <sm>Buxières-lez-Belmont,</sm>
       </vedette>
@@ -8045,7 +8046,7 @@
       </commentaire>
       <insee>52083</insee>
    </article>
-   <article id="DT52-00512" pg="29">
+   <article type="commune" id="DT52-00512" pg="29">
       <vedette>
          <sm>Buxières-lez-Clefmont,</sm>
       </vedette>
@@ -8085,7 +8086,7 @@
       </commentaire>
       <insee>52085</insee>
    </article>
-   <article id="DT52-00513" pg="29">
+   <article type="commune" id="DT52-00513" pg="29">
       <vedette>
          <sm>Buxières-lez-Froncles,</sm>
       </vedette>
@@ -8120,7 +8121,7 @@
       </commentaire>
       <insee>52211</insee>
    </article>
-   <article id="DT52-00514" pg="29">
+   <article type="commune" id="DT52-00514" pg="29">
       <vedette>
          <sm>Buxières-lez-Villiers,</sm>
       </vedette>
@@ -8539,7 +8540,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Montier-en-Der</localisation>.</definition>
    </article>
-   <article id="DT52-00558" pg="30">
+   <article type="commune" id="DT52-00558" pg="30">
       <vedette>
          <sm>Ceffonds,</sm>
       </vedette>
@@ -8582,7 +8583,7 @@
       </commentaire>
       <insee>52088</insee>
    </article>
-   <article id="DT52-00559" pg="30">
+   <article type="commune" id="DT52-00559" pg="30">
       <vedette>
          <sm>Celles,</sm>
       </vedette>
@@ -8607,7 +8608,7 @@
       </commentaire>
       <insee>52089</insee>
    </article>
-   <article id="DT52-00560" pg="31">
+   <article type="commune" id="DT52-00560" pg="31">
       <vedette>
          <sm>Celsoy,</sm>
       </vedette>
@@ -8644,7 +8645,7 @@
          <p>La présentation appartenait à l'aîné de la famille Pignard.</p>
       </commentaire>
    </article>
-   <article id="DT52-00562" pg="31">
+   <article type="commune" id="DT52-00562" pg="31">
       <vedette>
          <sm>Cerisières,</sm>
       </vedette>
@@ -8718,7 +8719,7 @@
       <definition>
          <typologie>plâtrières</typologie>, <localisation>commune de Bourbonne-les-Bains</localisation>.</definition>
    </article>
-   <article id="DT52-00566" pg="31">
+   <article type="commune" id="DT52-00566" pg="31">
       <vedette>
          <sm>Chalancey,</sm>
       </vedette>
@@ -8769,7 +8770,7 @@
          <typologie>écart</typologie>, <localisation>commune de Bourbonne-les-Bains</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-00570" pg="31">
+   <article type="commune" id="DT52-00570" pg="31">
       <vedette>
          <sm>Chalindrey,</sm>
       </vedette>
@@ -8811,7 +8812,7 @@
       </commentaire>
       <insee>52093</insee>
    </article>
-   <article id="DT52-00571" pg="31">
+   <article type="commune" id="DT52-00571" pg="31">
       <vedette>
          <sm>Chalmessin,</sm>
       </vedette>
@@ -8880,7 +8881,7 @@
             </date> a enlevé à la commune de Richebourg les fermes de Chalonge et de Semobile ou les Maisons-Éboulées, et les a réunies à la commune de Semoutiers (Arch. nat., F<sup>2</sup>, II, Haute-Marne, I).</p>
       </commentaire>
    </article>
-   <article id="DT52-00573" pg="32">
+   <article type="commune" id="DT52-00573" pg="32">
       <vedette>
          <sm>Chalvraines,</sm>
       </vedette>
@@ -8938,7 +8939,7 @@
       </commentaire>
       <insee>52095</insee>
    </article>
-   <article id="DT52-00574" pg="32">
+   <article type="commune" id="DT52-00574" pg="32">
       <vedette>
          <sm>Chamarandes,</sm>
       </vedette>
@@ -9002,7 +9003,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Dommartin-le-Saint-Père</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00577" pg="32">
+   <article type="commune" id="DT52-00577" pg="32">
       <vedette>
          <sm>Chambroncourt,</sm>
       </vedette>
@@ -9039,7 +9040,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00579" pg="32">
+   <article type="commune" id="DT52-00579" pg="32">
       <vedette>
          <sm>Chameroy,</sm>
       </vedette>
@@ -9067,7 +9068,7 @@
       </commentaire>
       <insee>52431</insee>
    </article>
-   <article id="DT52-00580" pg="33">
+   <article type="commune" id="DT52-00580" pg="33">
       <vedette>
          <sm>Chamouilley,</sm>
       </vedette>
@@ -9191,7 +9192,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bourbonne-les-Bains</localisation>.</definition>
    </article>
-   <article id="DT52-00589" pg="33">
+   <article type="commune" id="DT52-00589" pg="33">
       <vedette>
          <sm>Champcourt,</sm>
       </vedette>
@@ -9371,7 +9372,7 @@
          <typologie>ferme détruite</typologie>, <localisation>finage de Cusey</localisation>, citée en <date>1328</date> 
          <reference>(arch. Haute-Marne, G. 251)</reference>.</definition>
    </article>
-   <article id="DT52-00602" pg="33">
+   <article type="commune" id="DT52-00602" pg="33">
       <vedette>
          <sm>Champigneulles,</sm>
       </vedette>
@@ -9415,7 +9416,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Noidant-le-Rocheux</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00604" pg="34">
+   <article type="commune" id="DT52-00604" pg="34">
       <vedette>
          <sm>Champigny-lez-Langres,</sm>
       </vedette>
@@ -9459,7 +9460,7 @@
       </commentaire>
       <insee>52102</insee>
    </article>
-   <article id="DT52-00605" pg="34">
+   <article type="commune" id="DT52-00605" pg="34">
       <vedette>
          <sm>Champigny-sous-Varennes,</sm>
       </vedette>
@@ -9621,7 +9622,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre des Loges, section C)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00614" pg="34">
+   <article type="commune" id="DT52-00614" pg="34">
       <vedette>
          <sm>Chancenay,</sm>
       </vedette>
@@ -9660,7 +9661,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00616" pg="35">
+   <article type="commune" id="DT52-00616" pg="35">
       <vedette>
          <pg>35</pg>
          <sm>Changey,</sm>
@@ -9722,7 +9723,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00619" pg="35">
+   <article type="commune" id="DT52-00619" pg="35">
       <vedette>
          <sm>Chanoy,</sm>
       </vedette>
@@ -9784,7 +9785,7 @@
          <date>1263</date> 
          <reference>(Ruetz)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00623" pg="35">
+   <article type="commune" id="DT52-00623" pg="35">
       <vedette>
          <sm>Chantraine,</sm> 
          <i>mieux</i> 
@@ -10231,7 +10232,7 @@
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>commune de Prez-sous-la-Fauche</localisation> (Cassini).</definition>
    </article>
-   <article id="DT52-00673" pg="36">
+   <article type="commune" id="DT52-00673" pg="36">
       <vedette>
          <sm>Chapelle-en-Blésy (La),</sm>
       </vedette>
@@ -10506,7 +10507,7 @@
          <p>En <date>1789</date>, les Charmes dépendaient du baillage de Chaumont, prévôté de Nogent-le-Roi.</p>
       </commentaire>
    </article>
-   <article id="DT52-00696" pg="37">
+   <article type="commune" id="DT52-00696" pg="37">
       <vedette>
          <sm>Charmes-en-l'Angle,</sm>
       </vedette>
@@ -10571,7 +10572,7 @@
          <date>1576</date> 
          <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00698" pg="37">
+   <article type="commune" id="DT52-00698" pg="37">
       <vedette>
          <sm>Charmes-la-Grande,</sm>
       </vedette>
@@ -10614,7 +10615,7 @@
       </commentaire>
       <insee>52110</insee>
    </article>
-   <article id="DT52-00699" pg="37">
+   <article type="commune" id="DT52-00699" pg="37">
       <vedette>
          <sm>Charmes-lez-Langres,</sm>
       </vedette>
@@ -10675,7 +10676,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 284)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00703" pg="38">
+   <article type="commune" id="DT52-00703" pg="38">
       <vedette>
          <sm>Charmoilles,</sm>
       </vedette>
@@ -10795,7 +10796,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 284)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00711" pg="38">
+   <article type="commune" id="DT52-00711" pg="38">
       <vedette>
          <sm>Charmoy,</sm>
       </vedette>
@@ -10905,7 +10906,7 @@
          <p>En <date>1789</date>, la Chassagne formait une communauté de l'élection de Langres.</p>
       </commentaire>
    </article>
-   <article id="DT52-00719" pg="38">
+   <article type="commune" id="DT52-00719" pg="38">
       <vedette>
          <sm>Chassigny,</sm>
       </vedette>
@@ -11105,7 +11106,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Bettaincourt</localisation>.</definition>
    </article>
-   <article id="DT52-00741" pg="39">
+   <article type="commune" id="DT52-00741" pg="39">
       <vedette>
          <sm>Châteauvillain,</sm>
       </vedette>
@@ -11490,7 +11491,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Mirbel</localisation>, section A.</definition>
    </article>
-   <article id="DT52-00781" pg="40">
+   <article type="commune" id="DT52-00781" pg="40">
       <vedette>
          <sm>Châtenay-Macheron,</sm>
       </vedette>
@@ -11532,7 +11533,7 @@
       </commentaire>
       <insee>52115</insee>
    </article>
-   <article id="DT52-00782" pg="40">
+   <article type="commune" id="DT52-00782" pg="40">
       <vedette>
          <sm>Châtenay-Vaudin,</sm>
       </vedette>
@@ -11729,7 +11730,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Villiers-aux-Bois</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00804" pg="41">
+   <article type="commune" id="DT52-00804" pg="41">
       <vedette>
          <sm>Châtoillenot,</sm>
       </vedette>
@@ -11803,7 +11804,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Saulles</localisation>, section D.</definition>
    </article>
-   <article id="DT52-00808" pg="41">
+   <article type="commune" id="DT52-00808" pg="41">
       <vedette>
          <sm>Chatonrupt,</sm>
       </vedette>
@@ -11854,7 +11855,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00810" pg="41">
+   <article type="commune" id="DT52-00810" pg="41">
       <vedette>
          <sm>Chaudenay,</sm>
       </vedette>
@@ -12038,7 +12039,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Sommevoire</localisation>, section A.</definition>
    </article>
-   <article id="DT52-00831" pg="42">
+   <article type="commune" id="DT52-00831" pg="42">
       <vedette>
          <sm>Chauffour,</sm> 
          <i>mieux</i> 
@@ -12490,7 +12491,7 @@
                <sup>e</sup> siècle</date>, Chaumondel et Pisseloup.</p>
       </commentaire>
    </article>
-   <article id="DT52-00882" pg="43">
+   <article type="commune" id="DT52-00882" pg="43">
       <vedette>
          <sm>Chaumont-en-Bassigny,</sm>
       </vedette>
@@ -12550,7 +12551,7 @@
       </commentaire>
       <insee>52121</insee>
    </article>
-   <article id="DT52-00883" pg="43">
+   <article type="commune" id="DT52-00883" pg="43">
       <vedette>
          <sm>Chaumont-la-Ville,</sm>
       </vedette>
@@ -12878,7 +12879,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Saint-Ciergue</localisation>, section A.</definition>
    </article>
-   <article id="DT52-00909" pg="44">
+   <article type="commune" id="DT52-00909" pg="44">
       <vedette>
          <sm>Chevillon,</sm>
       </vedette>
@@ -12986,7 +12987,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00916" pg="45">
+   <article type="commune" id="DT52-00916" pg="45">
       <vedette>
          <sm>Chézeaux,</sm>
       </vedette>
@@ -13085,7 +13086,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Faverolles</localisation>, section E.</definition>
    </article>
-   <article id="DT52-00920" pg="45">
+   <article type="commune" id="DT52-00920" pg="45">
       <vedette>
          <sm>Choigne,</sm>
       </vedette>
@@ -13135,7 +13136,7 @@
       </commentaire>
       <insee>52125</insee>
    </article>
-   <article id="DT52-00921" pg="45">
+   <article type="commune" id="DT52-00921" pg="45">
       <vedette>
          <sm>Choilley,</sm>
       </vedette>
@@ -13162,7 +13163,7 @@
       </commentaire>
       <insee>52126</insee>
    </article>
-   <article id="DT52-00922" pg="45">
+   <article type="commune" id="DT52-00922" pg="45">
       <vedette>
          <sm>Choiseul,</sm>
       </vedette>
@@ -13258,7 +13259,7 @@
       <definition>
          <typologie>cimetière</typologie>, <localisation>commune de Joinville</localisation> (carte de l'Intérieur).</definition>
    </article>
-   <article id="DT52-00927" pg="46">
+   <article type="commune" id="DT52-00927" pg="46">
       <vedette>
          <sm>Cirey-lez-Mareilles,</sm>
       </vedette>
@@ -13310,7 +13311,7 @@
       </commentaire>
       <insee>52128</insee>
    </article>
-   <article id="DT52-00928" pg="46">
+   <article type="commune" id="DT52-00928" pg="46">
       <vedette>
          <sm>Cirey-sur-Blaise,</sm>
       </vedette>
@@ -13392,7 +13393,7 @@
       </commentaire>
       <insee>52129</insee>
    </article>
-   <article id="DT52-00929" pg="46">
+   <article type="commune" id="DT52-00929" pg="46">
       <vedette>
          <sm>Cirfontaine-en-Azois,</sm>
       </vedette>
@@ -13451,7 +13452,7 @@
       </commentaire>
       <insee>52130</insee>
    </article>
-   <article id="DT52-00930" pg="46">
+   <article type="commune" id="DT52-00930" pg="46">
       <vedette>
          <sm>Cirfontaine-en-Ornois,</sm>
       </vedette>
@@ -13607,7 +13608,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre, section B)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00942" pg="47">
+   <article type="commune" id="DT52-00942" pg="47">
       <vedette>
          <sm>Clefmont,</sm>
       </vedette>
@@ -13677,7 +13678,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Rochetaillée</localisation>, section C.</definition>
    </article>
-   <article id="DT52-00946" pg="47">
+   <article type="commune" id="DT52-00946" pg="47">
       <vedette>
          <sm>Clinchamp,</sm>
       </vedette>
@@ -13845,7 +13846,7 @@
       <definition>
          <typologie>barrière du chemin de fer</typologie>, <localisation>commune de Prauthoy</localisation>.</definition>
    </article>
-   <article id="DT52-00960" pg="48">
+   <article type="commune" id="DT52-00960" pg="48">
       <vedette>
          <sm>Cohons,</sm>
       </vedette>
@@ -13903,7 +13904,7 @@
       </commentaire>
       <insee>52134</insee>
    </article>
-   <article id="DT52-00961" pg="48">
+   <article type="commune" id="DT52-00961" pg="48">
       <vedette>
          <sm>Coiffy-le-Bas,</sm>
       </vedette>
@@ -13932,7 +13933,7 @@
       </commentaire>
       <insee>52135</insee>
    </article>
-   <article id="DT52-00962" pg="48">
+   <article type="commune" id="DT52-00962" pg="48">
       <vedette>
          <sm>Coiffy-le-Haut,</sm>
       </vedette>
@@ -14069,7 +14070,7 @@
       <definition>
          <typologie>moulin et scierie</typologie>, <localisation>commune de Fresne-sur-Apance</localisation> ; auparavant forge, fourneau et fonderie établis en <date>1773</date>.</definition>
    </article>
-   <article id="DT52-00971" pg="48">
+   <article type="commune" id="DT52-00971" pg="48">
       <vedette>
          <sm>Colmier-le-Bas,</sm>
       </vedette>
@@ -14092,7 +14093,7 @@
       </commentaire>
       <insee>52137</insee>
    </article>
-   <article id="DT52-00972" pg="49">
+   <article type="commune" id="DT52-00972" pg="49">
       <vedette>
          <sm>Colmier-le-Haut,</sm>
       </vedette>
@@ -14167,7 +14168,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Foulain</localisation>, section B.</definition>
    </article>
-   <article id="DT52-00974" pg="49">
+   <article type="commune" id="DT52-00974" pg="49">
       <vedette>
          <sm>Colombey-lez-Choiseul,</sm>
       </vedette>
@@ -14201,7 +14202,7 @@
       </commentaire>
       <insee>52074</insee>
    </article>
-   <article id="DT52-00975" pg="49">
+   <article type="commune" id="DT52-00975" pg="49">
       <vedette>
          <sm>Colombey-les-Deux-Églises,</sm>
       </vedette>
@@ -14429,7 +14430,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-00991" pg="50">
+   <article type="commune" id="DT52-00991" pg="50">
       <vedette>
          <sm>Condes,</sm>
       </vedette>
@@ -14515,7 +14516,7 @@
          <p>En <date>1789</date>, Confévron était du bailliage de Chaumont, prévôté de Nogent.</p>
       </commentaire>
    </article>
-   <article id="DT52-00993" pg="50">
+   <article type="commune" id="DT52-00993" pg="50">
       <vedette>
          <sm>Consigny,</sm>
       </vedette>
@@ -14713,7 +14714,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01005" pg="51">
+   <article type="commune" id="DT52-01005" pg="51">
       <vedette>
          <sm>Corgirnon,</sm>
       </vedette>
@@ -14750,7 +14751,7 @@
       </commentaire>
       <insee>52083</insee>
    </article>
-   <article id="DT52-01006" pg="51">
+   <article type="commune" id="DT52-01006" pg="51">
       <vedette>
          <sm>Corlée,</sm>
       </vedette>
@@ -14936,7 +14937,7 @@
          <date>1767</date> 
          <reference>(arch. Haute-Marne, C. 42)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01021" pg="51">
+   <article type="commune" id="DT52-01021" pg="51">
       <vedette>
          <sm>Coublant,</sm>
       </vedette>
@@ -15064,7 +15065,7 @@
          <date>1768</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01030" pg="52">
+   <article type="commune" id="DT52-01030" pg="52">
       <vedette>
          <sm>Coupray,</sm> 
          <i>mieux</i> 
@@ -15315,7 +15316,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01053" pg="52">
+   <article type="commune" id="DT52-01053" pg="52">
       <vedette>
          <sm>Courcelles-en-Montagne,</sm>
       </vedette>
@@ -15370,7 +15371,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01055" pg="53">
+   <article type="commune" id="DT52-01055" pg="53">
       <vedette>
          <sm>Courcelles-sur-Aujon,</sm>
       </vedette>
@@ -15399,7 +15400,7 @@
       </commentaire>
       <insee>52450</insee>
    </article>
-   <article id="DT52-01056" pg="53">
+   <article type="commune" id="DT52-01056" pg="53">
       <vedette>
          <sm>Courcelles-sur-Blaise,</sm>
       </vedette>
@@ -15426,7 +15427,7 @@
       </commentaire>
       <insee>52149</insee>
    </article>
-   <article id="DT52-01057" pg="53">
+   <article type="commune" id="DT52-01057" pg="53">
       <vedette>
          <sm>Courcelles-Val-d'Esnoms,</sm>
       </vedette>
@@ -15517,7 +15518,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01063" pg="53">
+   <article type="commune" id="DT52-01063" pg="53">
       <vedette>
          <sm>Cour-l'Evêque,</sm>
       </vedette>
@@ -15641,7 +15642,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Frettes</localisation>, section C.</definition>
    </article>
-   <article id="DT52-01070" pg="54">
+   <article type="commune" id="DT52-01070" pg="54">
       <vedette>
          <sm>Couzon,</sm>
       </vedette>
@@ -15693,7 +15694,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Liffol-le-Petit</localisation>.</definition>
    </article>
-   <article id="DT52-01075" pg="54">
+   <article type="commune" id="DT52-01075" pg="54">
       <vedette>
          <sm>Créancey,</sm>
       </vedette>
@@ -15745,7 +15746,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01077" pg="54">
+   <article type="commune" id="DT52-01077" pg="54">
       <vedette>
          <sm>Crenay,</sm>
       </vedette>
@@ -16155,7 +16156,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01116" pg="55">
+   <article type="commune" id="DT52-01116" pg="55">
       <vedette>
          <sm>Culmont,</sm>
       </vedette>
@@ -16202,7 +16203,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Harméville</localisation>, section B.</definition>
    </article>
-   <article id="DT52-01119" pg="55">
+   <article type="commune" id="DT52-01119" pg="55">
       <vedette>
          <sm>Curel,</sm>
       </vedette>
@@ -16234,7 +16235,7 @@
       </commentaire>
       <insee>52156</insee>
    </article>
-   <article id="DT52-01120" pg="56">
+   <article type="commune" id="DT52-01120" pg="56">
       <vedette>
          <pg>56</pg>
          <sm>Curmont,</sm>
@@ -16287,7 +16288,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-01123" pg="56">
+   <article type="commune" id="DT52-01123" pg="56">
       <vedette>
          <sm>Cusey,</sm>
       </vedette>
@@ -16319,7 +16320,7 @@
       </commentaire>
       <insee>52158</insee>
    </article>
-   <article id="DT52-01124" pg="56">
+   <article type="commune" id="DT52-01124" pg="56">
       <vedette>
          <sm>Cuves,</sm>
       </vedette>
@@ -16352,7 +16353,7 @@
       <definition>
          <typologie>forge</typologie>, <localisation>commune de Manois</localisation>.</definition>
    </article>
-   <article id="DT52-01126" pg="56">
+   <article type="commune" id="DT52-01126" pg="56">
       <vedette>
          <sm>Daillancourt,</sm>
       </vedette>
@@ -16399,7 +16400,7 @@
          <date>1750</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01128" pg="56">
+   <article type="commune" id="DT52-01128" pg="56">
       <vedette>
          <sm>Daillecourt,</sm>
       </vedette>
@@ -16462,7 +16463,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01132" pg="56">
+   <article type="commune" id="DT52-01132" pg="56">
       <vedette>
          <sm>Dammartin,</sm>
       </vedette>
@@ -16582,7 +16583,7 @@
          <p>Il y avait anciennement une église dédiée à saint Phal, qui était succursale de celle de Provenchères-sur-Meuse, au diocèse de Langres, doyenné d'Is-en-Bassigny.</p>
       </commentaire>
    </article>
-   <article id="DT52-01137" pg="57">
+   <article type="commune" id="DT52-01137" pg="57">
       <vedette>
          <sm>Dampierre,</sm>
       </vedette>
@@ -16627,7 +16628,7 @@
       <definition>
          <localisation>commune de Chauffour</localisation>, fort du camp retranché de Langres.</definition>
    </article>
-   <article id="DT52-01139" pg="57">
+   <article type="commune" id="DT52-01139" pg="57">
       <vedette>
          <sm>Damrémont,</sm>
       </vedette>
@@ -16651,7 +16652,7 @@
       </commentaire>
       <insee>52164</insee>
    </article>
-   <article id="DT52-01140" pg="57">
+   <article type="commune" id="DT52-01140" pg="57">
       <vedette>
          <sm>Dancevoir,</sm>
       </vedette>
@@ -16715,7 +16716,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-01143" pg="57">
+   <article type="commune" id="DT52-01143" pg="57">
       <vedette>
          <sm>Dardenay,</sm>
       </vedette>
@@ -16764,7 +16765,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01145" pg="58">
+   <article type="commune" id="DT52-01145" pg="58">
       <vedette>
          <sm>Darmanne,</sm>
       </vedette>
@@ -17117,7 +17118,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Donnemarie</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01174" pg="59">
+   <article type="commune" id="DT52-01174" pg="59">
       <vedette>
          <sm>Dinteville,</sm>
       </vedette>
@@ -17164,7 +17165,7 @@
             <sm>xvi</sm>
             <sup>e</sup> siècle</date> par un démembrement de la seigneurie de <localisation>Latrecey</localisation>.</definition>
    </article>
-   <article id="DT52-01176" pg="59">
+   <article type="commune" id="DT52-01176" pg="59">
       <vedette>
          <sm>Domblain,</sm>
       </vedette>
@@ -17226,7 +17227,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01178" pg="59">
+   <article type="commune" id="DT52-01178" pg="59">
       <vedette>
          <sm>Dommarien,</sm>
       </vedette>
@@ -17267,7 +17268,7 @@
       </commentaire>
       <insee>52170</insee>
    </article>
-   <article id="DT52-01179" pg="59">
+   <article type="commune" id="DT52-01179" pg="59">
       <vedette>
          <sm>Dommartin-le-Franc,</sm>
       </vedette>
@@ -17320,7 +17321,7 @@
       </commentaire>
       <insee>52171</insee>
    </article>
-   <article id="DT52-01180" pg="59">
+   <article type="commune" id="DT52-01180" pg="59">
       <vedette>
          <sm>Dommartin-le-Saint-Père,</sm>
       </vedette>
@@ -17357,7 +17358,7 @@
       </commentaire>
       <insee>52172</insee>
    </article>
-   <article id="DT52-01181" pg="60">
+   <article type="commune" id="DT52-01181" pg="60">
       <vedette>
          <sm>Domremy-en-Ornois,</sm>
       </vedette>
@@ -17436,7 +17437,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01183" pg="60">
+   <article type="commune" id="DT52-01183" pg="60">
       <vedette>
          <sm>Doncourt,</sm>
       </vedette>
@@ -17472,7 +17473,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01185" pg="60">
+   <article type="commune" id="DT52-01185" pg="60">
       <vedette>
          <sm>Donjeux,</sm>
       </vedette>
@@ -17551,7 +17552,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01188" pg="60">
+   <article type="commune" id="DT52-01188" pg="60">
       <vedette>
          <sm>Donnemarie,</sm>
       </vedette>
@@ -17589,7 +17590,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01190" pg="60">
+   <article type="commune" id="DT52-01190" pg="60">
       <vedette>
          <sm>Doulaincourt,</sm>
       </vedette>
@@ -17643,7 +17644,7 @@
       </commentaire>
       <insee>52177</insee>
    </article>
-   <article id="DT52-01191" pg="61">
+   <article type="commune" id="DT52-01191" pg="61">
       <vedette>
          <sm>Doulevant-le-Château,</sm>
       </vedette>
@@ -17710,7 +17711,7 @@
       </commentaire>
       <insee>52178</insee>
    </article>
-   <article id="DT52-01192" pg="61">
+   <article type="commune" id="DT52-01192" pg="61">
       <vedette>
          <sm>Doulevant-le-Petit,</sm>
       </vedette>
@@ -17791,7 +17792,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01198" pg="61">
+   <article type="commune" id="DT52-01198" pg="61">
       <vedette>
          <sm>Droye,</sm>
       </vedette>
@@ -17839,7 +17840,7 @@
          <date>1579</date> 
          <reference>(Arch. nat., P. 175<sup>1</sup>, n° 356)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01201" pg="62">
+   <article type="commune" id="DT52-01201" pg="62">
       <vedette>
          <pg>62</pg>
          <sm>Échènay,</sm>
@@ -17897,7 +17898,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01203" pg="62">
+   <article type="commune" id="DT52-01203" pg="62">
       <vedette>
          <sm>Éclaron,</sm>
       </vedette>
@@ -17935,7 +17936,7 @@
       </commentaire>
       <insee>52182</insee>
    </article>
-   <article id="DT52-01204" pg="62">
+   <article type="commune" id="DT52-01204" pg="62">
       <vedette>
          <sm>Écot,</sm>
       </vedette>
@@ -18010,7 +18011,7 @@
          <date>1576</date> 
          <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01207" pg="62">
+   <article type="commune" id="DT52-01207" pg="62">
       <vedette>
          <sm>Effincourt,</sm>
       </vedette>
@@ -18064,7 +18065,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-01209" pg="62">
+   <article type="commune" id="DT52-01209" pg="62">
       <vedette>
          <sm>Enfonvelle,</sm>
       </vedette>
@@ -18190,7 +18191,7 @@
          <p>Épilant a été détaché de Richebourg et uni à Châteauvillain par arrêté préfectoral du 19 germinal <date>an XIII</date>.</p>
       </commentaire>
    </article>
-   <article id="DT52-01213" pg="63">
+   <article type="commune" id="DT52-01213" pg="63">
       <vedette>
          <sm>Épinant,</sm>
       </vedette>
@@ -18279,7 +18280,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01218" pg="63">
+   <article type="commune" id="DT52-01218" pg="63">
       <vedette>
          <sm>Épizon,</sm>
       </vedette>
@@ -18361,7 +18362,7 @@
          <p>Une ordonnance royale du <date>19 septembre 1829</date> a enlevé la ferme des Érelles à la commune d'Auberive ; elle a réuni une partie des terres à Saint-Loup, et l'autre, contenant les constructions, à Arbot.</p>
       </commentaire>
    </article>
-   <article id="DT52-01221" pg="63">
+   <article type="commune" id="DT52-01221" pg="63">
       <vedette>
          <sm>Ériseul,</sm>
       </vedette>
@@ -18555,7 +18556,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Bressoncourt</localisation>.</definition>
    </article>
-   <article id="DT52-01238" pg="64">
+   <article type="commune" id="DT52-01238" pg="64">
       <vedette>
          <sm>Esnoms,</sm>
       </vedette>
@@ -18593,7 +18594,7 @@
       </commentaire>
       <insee>52189</insee>
    </article>
-   <article id="DT52-01239" pg="64">
+   <article type="commune" id="DT52-01239" pg="64">
       <vedette>
          <sm>Esnouveaux,</sm>
       </vedette>
@@ -18737,7 +18738,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01246" pg="65">
+   <article type="commune" id="DT52-01246" pg="65">
       <vedette>
          <sm>Essey-les-Eaux,</sm>
       </vedette>
@@ -18781,7 +18782,7 @@
       </commentaire>
       <insee>52353</insee>
    </article>
-   <article id="DT52-01247" pg="65">
+   <article type="commune" id="DT52-01247" pg="65">
       <vedette>
          <sm>Essey-lez-Pont,</sm>
       </vedette>
@@ -19043,7 +19044,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01267" pg="66">
+   <article type="commune" id="DT52-01267" pg="66">
       <vedette>
          <sm>Euffigneix,</sm>
       </vedette>
@@ -19125,7 +19126,7 @@
          <date>1831</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01269" pg="66">
+   <article type="commune" id="DT52-01269" pg="66">
       <vedette>
          <sm>Eurville,</sm>
       </vedette>
@@ -19203,7 +19204,7 @@
          <date>1773</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01274" pg="66">
+   <article type="commune" id="DT52-01274" pg="66">
       <vedette>
          <sm>Farincourt,</sm>
       </vedette>
@@ -19224,7 +19225,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Aigremont</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01276" pg="66">
+   <article type="commune" id="DT52-01276" pg="66">
       <vedette>
          <sm>Fauche (La),</sm>
       </vedette>
@@ -19322,7 +19323,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Neuvelle-lez-Coiffy</localisation>.</definition>
    </article>
-   <article id="DT52-01280" pg="67">
+   <article type="commune" id="DT52-01280" pg="67">
       <vedette>
          <sm>Faverolles,</sm>
       </vedette>
@@ -19377,7 +19378,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Noidant-le-Rocheux</localisation>.</definition>
    </article>
-   <article id="DT52-01283" pg="67">
+   <article type="commune" id="DT52-01283" pg="67">
       <vedette>
          <sm>Fays (Le),</sm>
       </vedette>
@@ -19432,7 +19433,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01286" pg="67">
+   <article type="commune" id="DT52-01286" pg="67">
       <vedette>
          <sm>Fays-Billot (Le),</sm>
       </vedette>
@@ -19680,7 +19681,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 287)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01308" pg="68">
+   <article type="commune" id="DT52-01308" pg="68">
       <vedette>
          <sm>Ferrières,</sm>
       </vedette>
@@ -19722,7 +19723,7 @@
       </vedette>
       <definition>nom d'un <typologie>fief</typologie> qui relevait de Dammartin.</definition>
    </article>
-   <article id="DT52-01310" pg="68">
+   <article type="commune" id="DT52-01310" pg="68">
       <vedette>
          <sm>Ferté-sur-Amance (La),</sm>
       </vedette>
@@ -19769,7 +19770,7 @@
       </commentaire>
       <insee>52257</insee>
    </article>
-   <article id="DT52-01311" pg="68">
+   <article type="commune" id="DT52-01311" pg="68">
       <vedette>
          <sm>Ferté-sur-Aube (La),</sm>
       </vedette>
@@ -19913,7 +19914,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01322" pg="69">
+   <article type="commune" id="DT52-01322" pg="69">
       <vedette>
          <sm>Flagey,</sm>
       </vedette>
@@ -19945,7 +19946,7 @@
       </commentaire>
       <insee>52200</insee>
    </article>
-   <article id="DT52-01323" pg="69">
+   <article type="commune" id="DT52-01323" pg="69">
       <vedette>
          <sm>Flammerécourt,</sm>
       </vedette>
@@ -20076,7 +20077,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Humberville</localisation> ; ancienne forge.</definition>
    </article>
-   <article id="DT52-01329" pg="69">
+   <article type="commune" id="DT52-01329" pg="69">
       <vedette>
          <sm>Flornoy,</sm>
       </vedette>
@@ -20754,7 +20755,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01405" pg="71">
+   <article type="commune" id="DT52-01405" pg="71">
       <vedette>
          <sm>Fontaine-sur-Marne,</sm>
       </vedette>
@@ -20827,7 +20828,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Bourbonne-les-Bains</localisation>.</definition>
    </article>
-   <article id="DT52-01411" pg="71">
+   <article type="commune" id="DT52-01411" pg="71">
       <vedette>
          <sm>Forcey,</sm>
       </vedette>
@@ -21655,7 +21656,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Mussey</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01496" pg="73">
+   <article type="commune" id="DT52-01496" pg="73">
       <vedette>
          <sm>Foulain,</sm>
       </vedette>
@@ -22793,7 +22794,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01643" pg="75">
+   <article type="commune" id="DT52-01643" pg="75">
       <vedette>
          <sm>Frampas,</sm>
       </vedette>
@@ -22890,7 +22891,7 @@
       <definition>
          <typologie>ancien fief</typologie>, <localisation>commune de Huilliécourt</localisation>.</definition>
    </article>
-   <article id="DT52-01650" pg="75">
+   <article type="commune" id="DT52-01650" pg="75">
       <vedette>
          <sm>Frécourt,</sm>
       </vedette>
@@ -22977,7 +22978,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01657" pg="76">
+   <article type="commune" id="DT52-01657" pg="76">
       <vedette>
          <sm>Fresne-sur-Apance,</sm>
       </vedette>
@@ -23003,7 +23004,7 @@
       </commentaire>
       <insee>52208</insee>
    </article>
-   <article id="DT52-01658" pg="76">
+   <article type="commune" id="DT52-01658" pg="76">
       <vedette>
          <sm>Fresnoy,</sm>
       </vedette>
@@ -23049,7 +23050,7 @@
       </commentaire>
       <insee>52377</insee>
    </article>
-   <article id="DT52-01659" pg="76">
+   <article type="commune" id="DT52-01659" pg="76">
       <vedette>
          <sm>Frettes,</sm>
       </vedette>
@@ -23201,7 +23202,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Autreville</localisation>, section C.</definition>
    </article>
-   <article id="DT52-01668" pg="76">
+   <article type="commune" id="DT52-01668" pg="76">
       <vedette>
          <sm>Froncles,</sm>
       </vedette>
@@ -23227,7 +23228,7 @@
       </commentaire>
       <insee>52211</insee>
    </article>
-   <article id="DT52-01669" pg="77">
+   <article type="commune" id="DT52-01669" pg="77">
       <vedette>
          <sm>Fronville,</sm>
       </vedette>
@@ -23408,7 +23409,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-01684" pg="77">
+   <article type="commune" id="DT52-01684" pg="77">
       <vedette>
          <sm>Genevrières,</sm>
       </vedette>
@@ -23433,7 +23434,7 @@
       </commentaire>
       <insee>52213</insee>
    </article>
-   <article id="DT52-01685" pg="77">
+   <article type="commune" id="DT52-01685" pg="77">
       <vedette>
          <sm>Genevroie (La),</sm>
       </vedette>
@@ -23596,7 +23597,7 @@
          <date>1727</date> 
          <reference>(Morimond)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01690" pg="78">
+   <article type="commune" id="DT52-01690" pg="78">
       <vedette>
          <sm>Genrupt,</sm>
       </vedette>
@@ -23654,7 +23655,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui descend du <localisation>territoire d'Amorey</localisation>, passe à <localisation>Germaines</localisation> et se réunit à l'Aube auprès d'Aulnoy.</definition>
    </article>
-   <article id="DT52-01694" pg="78">
+   <article type="commune" id="DT52-01694" pg="78">
       <vedette>
          <sm>Germaines,</sm>
       </vedette>
@@ -23709,7 +23710,7 @@
          <p>Suivant M. l'abbé Roussel (Dioc. de Langres, II, p. 130), ce serait aujourd'hui le Moulin-Rouge, c<sup>na</sup> de Léniseul, mais c'est peut-être le moulin de Gemmemay, placé par Jolibois (La Haute-Marne, p. 142) au territoire de Choiseul, sur le ru du Grand-Étang, tout près de la Meuse.</p>
       </commentaire>
    </article>
-   <article id="DT52-01696" pg="78">
+   <article type="commune" id="DT52-01696" pg="78">
       <vedette>
          <sm>Germainvilliers,</sm>
       </vedette>
@@ -23732,7 +23733,7 @@
       </commentaire>
       <insee>52217</insee>
    </article>
-   <article id="DT52-01697" pg="78">
+   <article type="commune" id="DT52-01697" pg="78">
       <vedette>
          <sm>Germay,</sm>
       </vedette>
@@ -23770,7 +23771,7 @@
       </commentaire>
       <insee>52218</insee>
    </article>
-   <article id="DT52-01698" pg="79">
+   <article type="commune" id="DT52-01698" pg="79">
       <vedette>
          <sm>Germisey,</sm>
       </vedette>
@@ -23863,7 +23864,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01705" pg="79">
+   <article type="commune" id="DT52-01705" pg="79">
       <vedette>
          <sm>Giey-sur-Aujon,</sm>
       </vedette>
@@ -23969,7 +23970,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Thonnance-les-Moulins</localisation>, section B.</definition>
    </article>
-   <article id="DT52-01709" pg="79">
+   <article type="commune" id="DT52-01709" pg="79">
       <vedette>
          <sm>Gillancourt,</sm>
       </vedette>
@@ -24026,7 +24027,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Germainvilliers</localisation>, section D.</definition>
    </article>
-   <article id="DT52-01711" pg="79">
+   <article type="commune" id="DT52-01711" pg="79">
       <vedette>
          <sm>Gillaumé,</sm>
       </vedette>
@@ -24083,7 +24084,7 @@
          <date>1170</date> 
          <reference>(Pflugk-Harttung, p. 244)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01713" pg="80">
+   <article type="commune" id="DT52-01713" pg="80">
       <vedette>
          <sm>Gilley,</sm>
       </vedette>
@@ -24141,7 +24142,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Pierrefaite</localisation>.</definition>
    </article>
-   <article id="DT52-01718" pg="80">
+   <article type="commune" id="DT52-01718" pg="80">
       <vedette>
          <sm>Gonaincourt,</sm>
       </vedette>
@@ -24173,7 +24174,7 @@
       </commentaire>
       <insee>52064</insee>
    </article>
-   <article id="DT52-01719" pg="80">
+   <article type="commune" id="DT52-01719" pg="80">
       <vedette>
          <sm>Goncourt,</sm>
       </vedette>
@@ -24244,7 +24245,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Narcy</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01725" pg="80">
+   <article type="commune" id="DT52-01725" pg="80">
       <vedette>
          <sm>Gourzon,</sm>
       </vedette>
@@ -24352,7 +24353,7 @@
          <date>1770-1779</date> 
          <reference>(hôpital de la Charité de Langres, B. 27, p. 51)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01730" pg="80">
+   <article type="commune" id="DT52-01730" pg="80">
       <vedette>
          <sm>Graffigny</sm> ou <sm>Graffigny-Chemin,</sm>
       </vedette>
@@ -24400,7 +24401,7 @@
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Thonnance-lez-Joinville</localisation>.</definition>
    </article>
-   <article id="DT52-01733" pg="81">
+   <article type="commune" id="DT52-01733" pg="81">
       <vedette>
          <sm>Grandchamp,</sm>
       </vedette>
@@ -25246,7 +25247,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01814" pg="83">
+   <article type="commune" id="DT52-01814" pg="83">
       <vedette>
          <sm>Grenant,</sm>
       </vedette>
@@ -25487,7 +25488,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Vicq</localisation>, section F.</definition>
    </article>
-   <article id="DT52-01833" pg="84">
+   <article type="commune" id="DT52-01833" pg="84">
       <vedette>
          <sm>Gudmont,</sm>
       </vedette>
@@ -25557,7 +25558,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Osne-le-Val</localisation>, section C.</definition>
    </article>
-   <article id="DT52-01837" pg="84">
+   <article type="commune" id="DT52-01837" pg="84">
       <vedette>
          <sm>Guindrecourt-aux-Ormes,</sm>
       </vedette>
@@ -25592,7 +25593,7 @@
       </commentaire>
       <insee>52231</insee>
    </article>
-   <article id="DT52-01838" pg="84">
+   <article type="commune" id="DT52-01838" pg="84">
       <vedette>
          <sm>Guindrecourt-sur-Blaise,</sm>
       </vedette>
@@ -25661,7 +25662,7 @@
          <typologie>écart</typologie>, <localisation>commune de Ville-en-Blaisois</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-01841" pg="84">
+   <article type="commune" id="DT52-01841" pg="84">
       <vedette>
          <sm>Guyonvelle,</sm>
       </vedette>
@@ -25700,7 +25701,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01843" pg="85">
+   <article type="commune" id="DT52-01843" pg="85">
       <vedette>
          <pg>85</pg>
          <sm>Hâcourt,</sm>
@@ -25773,7 +25774,7 @@
          <date>1784</date> 
          <reference>(Courtalon, III, p. 377)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01849" pg="85">
+   <article type="commune" id="DT52-01849" pg="85">
       <vedette>
          <sm>Hallignicourt,</sm>
       </vedette>
@@ -25879,7 +25880,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Marault</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01854" pg="85">
+   <article type="commune" id="DT52-01854" pg="85">
       <vedette>
          <sm>Harméville,</sm>
       </vedette>
@@ -25935,7 +25936,7 @@
          <date>1889</date> 
          <reference>(État-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01856" pg="85">
+   <article type="commune" id="DT52-01856" pg="85">
       <vedette>
          <sm>Harréville,</sm>
       </vedette>
@@ -25971,7 +25972,7 @@
       </commentaire>
       <insee>52237</insee>
    </article>
-   <article id="DT52-01857" pg="86">
+   <article type="commune" id="DT52-01857" pg="86">
       <vedette>
          <sm>Harricourt,</sm>
       </vedette>
@@ -26398,7 +26399,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01889" pg="87">
+   <article type="commune" id="DT52-01889" pg="87">
       <vedette>
          <sm>Heuilley-Coton,</sm>
       </vedette>
@@ -26444,7 +26445,7 @@
       </commentaire>
       <insee>52239</insee>
    </article>
-   <article id="DT52-01890" pg="87">
+   <article type="commune" id="DT52-01890" pg="87">
       <vedette>
          <sm>Heuilley-le-Grand,</sm>
       </vedette>
@@ -26509,7 +26510,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(État-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01893" pg="87">
+   <article type="commune" id="DT52-01893" pg="87">
       <vedette>
          <sm>Hoéricourt,</sm>
       </vedette>
@@ -26618,7 +26619,7 @@
          <date>1277</date> 
          <reference>(la Chapelle-aux-Planches)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01901" pg="88">
+   <article type="commune" id="DT52-01901" pg="88">
       <vedette>
          <sm>Hortes,</sm>
       </vedette>
@@ -26721,7 +26722,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Romains-sur-Meuse</localisation>, section B.</definition>
    </article>
-   <article id="DT52-01912" pg="88">
+   <article type="commune" id="DT52-01912" pg="88">
       <vedette>
          <sm>Huilliécourt,</sm>
       </vedette>
@@ -26771,7 +26772,7 @@
       </commentaire>
       <insee>52243</insee>
    </article>
-   <article id="DT52-01913" pg="88">
+   <article type="commune" id="DT52-01913" pg="88">
       <vedette>
          <sm>Humbécourt,</sm>
       </vedette>
@@ -26822,7 +26823,7 @@
          <p>En <date>1789</date>, Humbersin faisait partie du bailliage de Chaumont et de la prévôté de Vassy ; suivant le Pouillé de <date>1732</date> (p. 74), l'église de Humbersin était succursale de celle de Blumerey.</p>
       </commentaire>
    </article>
-   <article id="DT52-01915" pg="88">
+   <article type="commune" id="DT52-01915" pg="88">
       <vedette>
          <sm>Humberville,</sm>
       </vedette>
@@ -26849,7 +26850,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Crenay</localisation>.</definition>
    </article>
-   <article id="DT52-01917" pg="88">
+   <article type="commune" id="DT52-01917" pg="88">
       <vedette>
          <sm>Hûmes,</sm>
       </vedette>
@@ -26953,7 +26954,7 @@
          <date>1626</date> 
          <reference>(Arch. nat., P. 191<sup>2</sup>, n° 1639)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01922" pg="89">
+   <article type="commune" id="DT52-01922" pg="89">
       <vedette>
          <sm>Illoud,</sm>
       </vedette>
@@ -26982,7 +26983,7 @@
       </commentaire>
       <insee>52247</insee>
    </article>
-   <article id="DT52-01923" pg="89">
+   <article type="commune" id="DT52-01923" pg="89">
       <vedette>
          <sm>Is-en-Bassigny,</sm>
       </vedette>
@@ -27035,7 +27036,7 @@
       </commentaire>
       <insee>52248</insee>
    </article>
-   <article id="DT52-01924" pg="89">
+   <article type="commune" id="DT52-01924" pg="89">
       <vedette>
          <sm>Isome,</sm>
       </vedette>
@@ -27286,7 +27287,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01943" pg="90">
+   <article type="commune" id="DT52-01943" pg="90">
       <vedette>
          <sm>Joinville,</sm>
       </vedette>
@@ -27390,7 +27391,7 @@
          <date>1252</date> 
          <reference>(Layettes, n° 3994)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01945" pg="91">
+   <article type="commune" id="DT52-01945" pg="91">
       <vedette>
          <sm>Jonchery,</sm>
       </vedette>
@@ -27431,7 +27432,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Montigny</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01948" pg="91">
+   <article type="commune" id="DT52-01948" pg="91">
       <vedette>
          <sm>Jorquenay,</sm>
       </vedette>
@@ -27545,7 +27546,7 @@
       <definition>
          <typologie>fief</typologie> qui relevait de la Fauche et dont les terres appartenaient aux <localisation>finages de Liffol-le-Petit et de Prez-sous-la-Fauche</localisation>.</definition>
    </article>
-   <article id="DT52-01955" pg="91">
+   <article type="commune" id="DT52-01955" pg="91">
       <vedette>
          <sm>Juzennecourt,</sm>
       </vedette>
@@ -27643,7 +27644,7 @@
          <typologie>moulin détruit</typologie>, <localisation>territoire d'Aubigny</localisation>, cité en <date>1336</date> 
          <reference>(Arch. nat., JJ. 70, f° 106 r°, n° 235)</reference>.</definition>
    </article>
-   <article id="DT52-01958" pg="92">
+   <article type="commune" id="DT52-01958" pg="92">
       <vedette>
          <sm>La Harmand,</sm>
       </vedette>
@@ -27752,7 +27753,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-01963" pg="92">
+   <article type="commune" id="DT52-01963" pg="92">
       <vedette>
          <sm>Landéville,</sm>
       </vedette>
@@ -27791,7 +27792,7 @@
          <date>1763</date> 
          <reference>(arch. Haute-Marne, C. 317)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01965" pg="92">
+   <article type="commune" id="DT52-01965" pg="92">
       <vedette>
          <sm>Langres,</sm>
       </vedette>
@@ -27879,7 +27880,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Sarrey</localisation>, section B.</definition>
    </article>
-   <article id="DT52-01969" pg="93">
+   <article type="commune" id="DT52-01969" pg="93">
       <vedette>
          <sm>Lanne,</sm>
       </vedette>
@@ -27925,7 +27926,7 @@
       </commentaire>
       <insee>52432</insee>
    </article>
-   <article id="DT52-01970" pg="93">
+   <article type="commune" id="DT52-01970" pg="93">
       <vedette>
          <sm>Lanques,</sm>
       </vedette>
@@ -27984,7 +27985,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01972" pg="93">
+   <article type="commune" id="DT52-01972" pg="93">
       <vedette>
          <sm>Lanty,</sm>
       </vedette>
@@ -28115,7 +28116,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01978" pg="94">
+   <article type="commune" id="DT52-01978" pg="94">
       <vedette>
          <sm>Latrecey,</sm>
       </vedette>
@@ -28213,7 +28214,7 @@
          <date>1888</date> 
          <reference>(Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01983" pg="94">
+   <article type="commune" id="DT52-01983" pg="94">
       <vedette>
          <sm>Lavernoy,</sm>
       </vedette>
@@ -28256,7 +28257,7 @@
          <date>1888</date> 
          <reference>(État-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01985" pg="94">
+   <article type="commune" id="DT52-01985" pg="94">
       <vedette>
          <sm>Lecey,</sm>
       </vedette>
@@ -28301,7 +28302,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Biesle</localisation>, section A.</definition>
    </article>
-   <article id="DT52-01988" pg="94">
+   <article type="commune" id="DT52-01988" pg="94">
       <vedette>
          <sm>Lécourt,</sm>
       </vedette>
@@ -28336,7 +28337,7 @@
       </commentaire>
       <insee>52332</insee>
    </article>
-   <article id="DT52-01989" pg="94">
+   <article type="commune" id="DT52-01989" pg="94">
       <vedette>
          <sm>Leffonds,</sm>
       </vedette>
@@ -28392,7 +28393,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vaux-la-Douce</localisation>, section B.</definition>
    </article>
-   <article id="DT52-01991" pg="95">
+   <article type="commune" id="DT52-01991" pg="95">
       <vedette>
          <sm>Léniseul,</sm>
       </vedette>
@@ -28432,7 +28433,7 @@
       </commentaire>
       <insee>52332</insee>
    </article>
-   <article id="DT52-01992" pg="95">
+   <article type="commune" id="DT52-01992" pg="95">
       <vedette>
          <sm>Leschères,</sm>
       </vedette>
@@ -28492,7 +28493,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-01995" pg="95">
+   <article type="commune" id="DT52-01995" pg="95">
       <vedette>
          <sm>Leuchey,</sm>
       </vedette>
@@ -28531,7 +28532,7 @@
       </commentaire>
       <insee>52285</insee>
    </article>
-   <article id="DT52-01996" pg="95">
+   <article type="commune" id="DT52-01996" pg="95">
       <vedette>
          <sm>Leurville,</sm>
       </vedette>
@@ -28553,7 +28554,7 @@
       </commentaire>
       <insee>52286</insee>
    </article>
-   <article id="DT52-01997" pg="95">
+   <article type="commune" id="DT52-01997" pg="95">
       <vedette>
          <sm>Levécourt,</sm>
       </vedette>
@@ -28634,7 +28635,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Buxières-lez-Belmont</localisation>.</definition>
    </article>
-   <article id="DT52-02001" pg="95">
+   <article type="commune" id="DT52-02001" pg="95">
       <vedette>
          <sm>Lézéville,</sm>
       </vedette>
@@ -28665,7 +28666,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Joinville</localisation>.</definition>
    </article>
-   <article id="DT52-02003" pg="96">
+   <article type="commune" id="DT52-02003" pg="96">
       <vedette>
          <sm>Liffol-le-Petit,</sm>
       </vedette>
@@ -28856,7 +28857,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Romains-sur-Meuse</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02023" pg="96">
+   <article type="commune" id="DT52-02023" pg="96">
       <vedette>
          <sm>Loges (Les),</sm>
       </vedette>
@@ -28948,7 +28949,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 292 et 544)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02033" pg="96">
+   <article type="commune" id="DT52-02033" pg="96">
       <vedette>
          <sm>Longchamp,</sm>
       </vedette>
@@ -29000,7 +29001,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02035" pg="97">
+   <article type="commune" id="DT52-02035" pg="97">
       <vedette>
          <sm>Longeau,</sm>
       </vedette>
@@ -29027,7 +29028,7 @@
       </commentaire>
       <insee>52292</insee>
    </article>
-   <article id="DT52-02036" pg="97">
+   <article type="commune" id="DT52-02036" pg="97">
       <vedette>
          <sm>Longeville,</sm>
       </vedette>
@@ -29205,7 +29206,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02050" pg="97">
+   <article type="commune" id="DT52-02050" pg="97">
       <vedette>
          <sm>Louvemont,</sm>
       </vedette>
@@ -29251,7 +29252,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02052" pg="97">
+   <article type="commune" id="DT52-02052" pg="97">
       <vedette>
          <sm>Louvières,</sm>
       </vedette>
@@ -29277,7 +29278,7 @@
       </commentaire>
       <insee>52295</insee>
    </article>
-   <article id="DT52-02053" pg="98">
+   <article type="commune" id="DT52-02053" pg="98">
       <vedette>
          <pg>98</pg>
          <sm>Louze,</sm>
@@ -29352,7 +29353,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 293)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02055" pg="98">
+   <article type="commune" id="DT52-02055" pg="98">
       <vedette>
          <sm>Lusy,</sm>
       </vedette>
@@ -29436,7 +29437,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02059" pg="98">
+   <article type="commune" id="DT52-02059" pg="98">
       <vedette>
          <sm>Maatz,</sm>
       </vedette>
@@ -29509,7 +29510,7 @@
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Dammartin</localisation>.</definition>
    </article>
-   <article id="DT52-02062" pg="98">
+   <article type="commune" id="DT52-02062" pg="98">
       <vedette>
          <sm>Maconcourt,</sm>
       </vedette>
@@ -29595,7 +29596,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Effincourt</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02069" pg="99">
+   <article type="commune" id="DT52-02069" pg="99">
       <vedette>
          <sm>Magneux,</sm>
       </vedette>
@@ -29887,7 +29888,7 @@
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Vignory</localisation>.</definition>
    </article>
-   <article id="DT52-02098" pg="99">
+   <article type="commune" id="DT52-02098" pg="99">
       <vedette>
          <sm>Maisoncelles,</sm>
       </vedette>
@@ -30461,7 +30462,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02168" pg="101">
+   <article type="commune" id="DT52-02168" pg="101">
       <vedette>
          <sm>Maizières-lez-Joinville,</sm>
       </vedette>
@@ -30497,7 +30498,7 @@
       </commentaire>
       <insee>52302</insee>
    </article>
-   <article id="DT52-02169" pg="101">
+   <article type="commune" id="DT52-02169" pg="101">
       <vedette>
          <sm>Maizières-sur-Amance,</sm>
       </vedette>
@@ -30902,7 +30903,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Soulaincourt</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02216" pg="102">
+   <article type="commune" id="DT52-02216" pg="102">
       <vedette>
          <sm>Malaincourt,</sm>
       </vedette>
@@ -31150,7 +31151,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02234" pg="103">
+   <article type="commune" id="DT52-02234" pg="103">
       <vedette>
          <sm>Mancine (La),</sm>
       </vedette>
@@ -31185,7 +31186,7 @@
       </commentaire>
       <insee>52260</insee>
    </article>
-   <article id="DT52-02235" pg="103">
+   <article type="commune" id="DT52-02235" pg="103">
       <vedette>
          <sm>Mandres,</sm>
       </vedette>
@@ -31248,7 +31249,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Thonnance-lez-Joinville</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02238" pg="103">
+   <article type="commune" id="DT52-02238" pg="103">
       <vedette>
          <sm>Manois,</sm>
       </vedette>
@@ -31285,7 +31286,7 @@
       </commentaire>
       <insee>52306</insee>
    </article>
-   <article id="DT52-02239" pg="103">
+   <article type="commune" id="DT52-02239" pg="103">
       <vedette>
          <sm>Marac,</sm>
       </vedette>
@@ -31347,7 +31348,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Marmesse</localisation>.</definition>
    </article>
-   <article id="DT52-02243" pg="103">
+   <article type="commune" id="DT52-02243" pg="103">
       <vedette>
          <sm>Maranville,</sm>
       </vedette>
@@ -31400,7 +31401,7 @@
          <typologie>écart</typologie>, <localisation>commune d'Ageville</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-02245" pg="104">
+   <article type="commune" id="DT52-02245" pg="104">
       <vedette>
          <sm>Marault,</sm>
       </vedette>
@@ -31467,7 +31468,7 @@
       </commentaire>
       <insee>52058</insee>
    </article>
-   <article id="DT52-02246" pg="104">
+   <article type="commune" id="DT52-02246" pg="104">
       <vedette>
          <sm>Marbéville,</sm>
       </vedette>
@@ -31538,7 +31539,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 348)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02251" pg="104">
+   <article type="commune" id="DT52-02251" pg="104">
       <vedette>
          <sm>Marcilly,</sm>
       </vedette>
@@ -31578,7 +31579,7 @@
       </commentaire>
       <insee>52311</insee>
    </article>
-   <article id="DT52-02252" pg="104">
+   <article type="commune" id="DT52-02252" pg="104">
       <vedette>
          <sm>Mardor,</sm>
       </vedette>
@@ -31617,7 +31618,7 @@
       <definition>
          <typologie>ancien fief</typologie>, sans justice, <localisation>commune d'Andelot</localisation>.</definition>
    </article>
-   <article id="DT52-02254" pg="104">
+   <article type="commune" id="DT52-02254" pg="104">
       <vedette>
          <sm>Mareilles,</sm>
       </vedette>
@@ -31658,7 +31659,7 @@
       </commentaire>
       <insee>52313</insee>
    </article>
-   <article id="DT52-02255" pg="105">
+   <article type="commune" id="DT52-02255" pg="105">
       <vedette>
          <sm>Margelle (La),</sm>
       </vedette>
@@ -31700,7 +31701,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Ageville</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02259" pg="105">
+   <article type="commune" id="DT52-02259" pg="105">
       <vedette>
          <sm>Marmesse,</sm>
       </vedette>
@@ -31775,7 +31776,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02262" pg="105">
+   <article type="commune" id="DT52-02262" pg="105">
       <vedette>
          <sm>Marnay,</sm>
       </vedette>
@@ -32158,7 +32159,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Ériseul</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02291" pg="106">
+   <article type="commune" id="DT52-02291" pg="106">
       <vedette>
          <sm>Mathons,</sm>
       </vedette>
@@ -32410,7 +32411,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Buxières-lez-Belmont</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02305" pg="107">
+   <article type="commune" id="DT52-02305" pg="107">
       <vedette>
          <sm>Melay,</sm>
       </vedette>
@@ -32522,7 +32523,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02313" pg="107">
+   <article type="commune" id="DT52-02313" pg="107">
       <vedette>
          <sm>Mennouveaux,</sm>
       </vedette>
@@ -32579,7 +32580,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Langres</localisation>.</definition>
    </article>
-   <article id="DT52-02316" pg="107">
+   <article type="commune" id="DT52-02316" pg="107">
       <vedette>
          <sm>Merrey,</sm>
       </vedette>
@@ -32613,7 +32614,7 @@
       </commentaire>
       <insee>52320</insee>
    </article>
-   <article id="DT52-02317" pg="108">
+   <article type="commune" id="DT52-02317" pg="108">
       <vedette>
          <sm>Mertrud,</sm>
       </vedette>
@@ -32696,7 +32697,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Semilly</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02322" pg="108">
+   <article type="commune" id="DT52-02322" pg="108">
       <vedette>
          <sm>Meure,</sm>
       </vedette>
@@ -32767,7 +32768,7 @@
          <date>1602</date> 
          <reference>(Arch. nat., P. 176<sup>3</sup>, n° 502)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02327" pg="108">
+   <article type="commune" id="DT52-02327" pg="108">
       <vedette>
          <sm>Meuse,</sm>
       </vedette>
@@ -32790,7 +32791,7 @@
       </commentaire>
       <insee>52332</insee>
    </article>
-   <article id="DT52-02328" pg="108">
+   <article type="commune" id="DT52-02328" pg="108">
       <vedette>
          <sm>Meuvy,</sm>
       </vedette>
@@ -32833,7 +32834,7 @@
       <definition>
          <typologie>maison forestière</typologie>, <localisation>commune de Buxières-lez-Belmont</localisation>.</definition>
    </article>
-   <article id="DT52-02332" pg="108">
+   <article type="commune" id="DT52-02332" pg="108">
       <vedette>
          <sm>Millières,</sm>
       </vedette>
@@ -32953,7 +32954,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Poinson-lez-Grancey</localisation>.</definition>
    </article>
-   <article id="DT52-02344" pg="109">
+   <article type="commune" id="DT52-02344" pg="109">
       <vedette>
          <sm>Mirbel,</sm>
       </vedette>
@@ -32982,7 +32983,7 @@
       </commentaire>
       <insee>52326</insee>
    </article>
-   <article id="DT52-02345" pg="109">
+   <article type="commune" id="DT52-02345" pg="109">
       <vedette>
          <sm>Moëlain,</sm>
       </vedette>
@@ -33413,7 +33414,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02379" pg="110">
+   <article type="commune" id="DT52-02379" pg="110">
       <vedette>
          <sm>Montcharvot,</sm>
       </vedette>
@@ -33513,7 +33514,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Bay</localisation>, où l'on a trouvé des vestiges de constructions.</definition>
    </article>
-   <article id="DT52-02383" pg="111">
+   <article type="commune" id="DT52-02383" pg="111">
       <vedette>
          <sm>Monterie,</sm>
       </vedette>
@@ -33584,7 +33585,7 @@
          <date>1774</date> 
          <reference>(arch. Haute-Marne, Insinuations de 1773-1776, p. 160)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02385" pg="111">
+   <article type="commune" id="DT52-02385" pg="111">
       <vedette>
          <sm>Montesson,</sm>
       </vedette>
@@ -33679,7 +33680,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Droyes</localisation>.</definition>
    </article>
-   <article id="DT52-02394" pg="111">
+   <article type="commune" id="DT52-02394" pg="111">
       <vedette>
          <sm>Montier-en-Der,</sm>
       </vedette>
@@ -33799,7 +33800,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Rougeux</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02400" pg="112">
+   <article type="commune" id="DT52-02400" pg="112">
       <vedette>
          <sm>Montigny-en-Bassigny,</sm>
       </vedette>
@@ -33892,7 +33893,7 @@
          <date>1888</date> 
          <reference>(Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02403" pg="112">
+   <article type="commune" id="DT52-02403" pg="112">
       <vedette>
          <sm>Montlandon,</sm>
       </vedette>
@@ -34036,7 +34037,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre, section B)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02410" pg="113">
+   <article type="commune" id="DT52-02410" pg="113">
       <vedette>
          <sm>Montormentier,</sm>
       </vedette>
@@ -34059,7 +34060,7 @@
       </commentaire>
       <insee>52158</insee>
    </article>
-   <article id="DT52-02411" pg="113">
+   <article type="commune" id="DT52-02411" pg="113">
       <vedette>
          <sm>Montot,</sm>
       </vedette>
@@ -34134,7 +34135,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02416" pg="113">
+   <article type="commune" id="DT52-02416" pg="113">
       <vedette>
          <sm>Montreuil-sur-Blaise,</sm>
       </vedette>
@@ -34174,7 +34175,7 @@
       </commentaire>
       <insee>52336</insee>
    </article>
-   <article id="DT52-02417" pg="113">
+   <article type="commune" id="DT52-02417" pg="113">
       <vedette>
          <sm>Montreuil-sur-Thonnance,</sm>
       </vedette>
@@ -34227,7 +34228,7 @@
       </commentaire>
       <insee>52337</insee>
    </article>
-   <article id="DT52-02418" pg="113">
+   <article type="commune" id="DT52-02418" pg="113">
       <vedette>
          <sm>Montribourg,</sm>
       </vedette>
@@ -34314,7 +34315,7 @@
          <p>En <date>1789</date>, la réunion de Montruchot et de Cordamble formait une communauté de l'élection de Langres.</p>
       </commentaire>
    </article>
-   <article id="DT52-02423" pg="114">
+   <article type="commune" id="DT52-02423" pg="114">
       <vedette>
          <sm>Montsaon,</sm>
       </vedette>
@@ -34348,7 +34349,7 @@
       </commentaire>
       <insee>52469</insee>
    </article>
-   <article id="DT52-02424" pg="114">
+   <article type="commune" id="DT52-02424" pg="114">
       <vedette>
          <sm>Montsaugeon,</sm>
       </vedette>
@@ -34448,7 +34449,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02429" pg="114">
+   <article type="commune" id="DT52-02429" pg="114">
       <vedette>
          <sm>Morancourt,</sm>
       </vedette>
@@ -34637,7 +34638,7 @@
          <date>1882</date> 
          <reference>(Dict. des Postes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02440" pg="115">
+   <article type="commune" id="DT52-02440" pg="115">
       <vedette>
          <sm>Morionvilliers,</sm>
       </vedette>
@@ -34779,7 +34780,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 382)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02444" pg="115">
+   <article type="commune" id="DT52-02444" pg="115">
       <vedette>
          <sm>Morteau,</sm>
       </vedette>
@@ -34912,7 +34913,7 @@
          <p>Son église paroissiale, dédiée à la Sainte-Vierge, dépendait du diocèse de Toul, doyenné de Bourmont. La présentation de la cure appartenait au chapitre de la même ville.</p>
       </commentaire>
    </article>
-   <article id="DT52-02449" pg="116">
+   <article type="commune" id="DT52-02449" pg="116">
       <vedette>
          <sm>Mothe-en-Blésy (La),</sm>
       </vedette>
@@ -35088,7 +35089,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02461" pg="116">
+   <article type="commune" id="DT52-02461" pg="116">
       <vedette>
          <sm>Mouilleron,</sm>
       </vedette>
@@ -36717,7 +36718,7 @@
          <date>1576</date> 
          <reference>(Voillemier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02664" pg="120">
+   <article type="commune" id="DT52-02664" pg="120">
       <vedette>
          <sm>Musseau,</sm>
       </vedette>
@@ -36752,7 +36753,7 @@
       </commentaire>
       <insee>52094</insee>
    </article>
-   <article id="DT52-02665" pg="120">
+   <article type="commune" id="DT52-02665" pg="120">
       <vedette>
          <sm>Mussey,</sm>
       </vedette>
@@ -36828,7 +36829,7 @@
          <p>Ce village était probablement dans le voisinage de Peigney et de la Marnotte.</p>
       </commentaire>
    </article>
-   <article id="DT52-02670" pg="120">
+   <article type="commune" id="DT52-02670" pg="120">
       <vedette>
          <sm>Narcy,</sm>
       </vedette>
@@ -36894,7 +36895,7 @@
          <date>1828</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02675" pg="121">
+   <article type="commune" id="DT52-02675" pg="121">
       <vedette>
          <sm>Neuilly-l'Évêque,</sm>
       </vedette>
@@ -36956,7 +36957,7 @@
       </commentaire>
       <insee>52348</insee>
    </article>
-   <article id="DT52-02676" pg="121">
+   <article type="commune" id="DT52-02676" pg="121">
       <vedette>
          <sm>Neuilly-sur-Suize,</sm>
       </vedette>
@@ -37025,7 +37026,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Morancourt</localisation>, section D.</definition>
    </article>
-   <article id="DT52-02678" pg="121">
+   <article type="commune" id="DT52-02678" pg="121">
       <vedette>
          <sm>Neuvelle-lez-Coiffy (La),</sm>
       </vedette>
@@ -37060,7 +37061,7 @@
       </commentaire>
       <insee>52264</insee>
    </article>
-   <article id="DT52-02679" pg="121">
+   <article type="commune" id="DT52-02679" pg="121">
       <vedette>
          <sm>Neuvelle-lez-Voisey (La),</sm>
       </vedette>
@@ -37089,7 +37090,7 @@
       </commentaire>
       <insee>52350</insee>
    </article>
-   <article id="DT52-02680" pg="122">
+   <article type="commune" id="DT52-02680" pg="122">
       <vedette>
          <sm>Neuville-à-Bayard (La),</sm>
       </vedette>
@@ -37145,7 +37146,7 @@
          <date>1763</date> 
          <reference>(arch. Haute-Marne, C. 317)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02682" pg="122">
+   <article type="commune" id="DT52-02682" pg="122">
       <vedette>
          <sm>Neuville-à-Remy (La),</sm>
       </vedette>
@@ -37184,7 +37185,7 @@
       </commentaire>
       <insee>52427</insee>
    </article>
-   <article id="DT52-02683" pg="122">
+   <article type="commune" id="DT52-02683" pg="122">
       <vedette>
          <sm>Neuville-au-Bois (La),</sm>
       </vedette>
@@ -37212,7 +37213,7 @@
       </commentaire>
       <insee>52288</insee>
    </article>
-   <article id="DT52-02684" pg="122">
+   <article type="commune" id="DT52-02684" pg="122">
       <vedette>
          <sm>Neuville-au-Pont (La),</sm>
       </vedette>
@@ -37255,7 +37256,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Montigny</localisation>, section E.</definition>
    </article>
-   <article id="DT52-02687" pg="122">
+   <article type="commune" id="DT52-02687" pg="122">
       <vedette>
          <sm>Nijon,</sm>
       </vedette>
@@ -37282,7 +37283,7 @@
       <definition>
          <typologie>bois, ancien fief</typologie>, <localisation>commune de Lanques</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02689" pg="122">
+   <article type="commune" id="DT52-02689" pg="122">
       <vedette>
          <sm>Ninville,</sm>
       </vedette>
@@ -37317,7 +37318,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Langres</localisation>.</definition>
    </article>
-   <article id="DT52-02691" pg="123">
+   <article type="commune" id="DT52-02691" pg="123">
       <vedette>
          <sm>Nogent-en-Bassigny,</sm>
       </vedette>
@@ -37409,7 +37410,7 @@
          <p>En <date>1789</date>, l'église paroissiale de Nogent-le-Bas, dédiée à saint Germain, qui avait pour succursale celle de Nogent-le-Roi, ou Nogent-le-Haut, aujourd'hui Nogent-en-Bassigny, était du diocèse de Langres, doyenné d'Is-en-Bassigny. La présentation de la cure appartenait au prieur du lieu. Le prieuré de Nogent-le-Bas, sous le vocable de saint Germain, dépendait de l'abbaye de Saint-Bénigne de Dijon.</p>
       </commentaire>
    </article>
-   <article id="DT52-02693" pg="123">
+   <article type="commune" id="DT52-02693" pg="123">
       <vedette>
          <sm>Noidant-Châtenoy,</sm>
       </vedette>
@@ -37456,7 +37457,7 @@
       </commentaire>
       <insee>52354</insee>
    </article>
-   <article id="DT52-02694" pg="123">
+   <article type="commune" id="DT52-02694" pg="123">
       <vedette>
          <sm>Noidant-le-Rocheux,</sm>
       </vedette>
@@ -37555,7 +37556,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02699" pg="124">
+   <article type="commune" id="DT52-02699" pg="124">
       <vedette>
          <sm>Nomécourt,</sm>
       </vedette>
@@ -37598,7 +37599,7 @@
       </commentaire>
       <insee>52356</insee>
    </article>
-   <article id="DT52-02700" pg="124">
+   <article type="commune" id="DT52-02700" pg="124">
       <vedette>
          <sm>Noncourt,</sm>
       </vedette>
@@ -38247,7 +38248,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02759" pg="126">
+   <article type="commune" id="DT52-02759" pg="126">
       <vedette>
          <sm>Noyers,</sm>
       </vedette>
@@ -38340,7 +38341,7 @@
          <date>1706</date> 
          <reference>(Clairvaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02764" pg="126">
+   <article type="commune" id="DT52-02764" pg="126">
       <vedette>
          <sm>Nully,</sm>
       </vedette>
@@ -38399,7 +38400,7 @@
       </commentaire>
       <insee>52359</insee>
    </article>
-   <article id="DT52-02765" pg="126">
+   <article type="commune" id="DT52-02765" pg="126">
       <vedette>
          <sm>Occey,</sm>
       </vedette>
@@ -38438,7 +38439,7 @@
       </commentaire>
       <insee>52360</insee>
    </article>
-   <article id="DT52-02766" pg="126">
+   <article type="commune" id="DT52-02766" pg="126">
       <vedette>
          <sm>Odival,</sm>
       </vedette>
@@ -38558,7 +38559,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02774" pg="127">
+   <article type="commune" id="DT52-02774" pg="127">
       <vedette>
          <sm>Orbigny-au-Mont,</sm>
       </vedette>
@@ -38601,7 +38602,7 @@
       </commentaire>
       <insee>52362</insee>
    </article>
-   <article id="DT52-02775" pg="127">
+   <article type="commune" id="DT52-02775" pg="127">
       <vedette>
          <sm>Orbigny-au-Val,</sm>
       </vedette>
@@ -38641,7 +38642,7 @@
       </commentaire>
       <insee>52363</insee>
    </article>
-   <article id="DT52-02776" pg="127">
+   <article type="commune" id="DT52-02776" pg="127">
       <vedette>
          <sm>Orcevaux,</sm>
       </vedette>
@@ -38678,7 +38679,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Mareilles</localisation>, section C.</definition>
    </article>
-   <article id="DT52-02779" pg="127">
+   <article type="commune" id="DT52-02779" pg="127">
       <vedette>
          <sm>Orges,</sm>
       </vedette>
@@ -38715,7 +38716,7 @@
       </commentaire>
       <insee>52365</insee>
    </article>
-   <article id="DT52-02780" pg="127">
+   <article type="commune" id="DT52-02780" pg="127">
       <vedette>
          <sm>Ormancey,</sm>
       </vedette>
@@ -38781,7 +38782,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02783" pg="128">
+   <article type="commune" id="DT52-02783" pg="128">
       <vedette>
          <sm>Ormoy-lez-Sexfontaine,</sm>
       </vedette>
@@ -38798,7 +38799,7 @@
       </commentaire>
       <insee>52367</insee>
    </article>
-   <article id="DT52-02784" pg="128">
+   <article type="commune" id="DT52-02784" pg="128">
       <vedette>
          <sm>Ormoy-sur-Aube,</sm>
       </vedette>
@@ -38864,7 +38865,7 @@
          <date>865</date> 
          <reference>(Gall. christ., X, instr., col. 148. <renvoi>Cf. D. Bouquet, VIII, 584, <i>ad annum,</i> 862</renvoi>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02787" pg="128">
+   <article type="commune" id="DT52-02787" pg="128">
       <vedette>
          <sm>Orquevaux,</sm>
       </vedette>
@@ -38956,7 +38957,7 @@
       <definition>
          <typologie>petite rivière</typologie> qui descend du <localisation>Val-d'Enfer</localisation>, sur la <localisation>commune d'Osne-le-Val</localisation>, à laquelle elle a donné son nom.</definition>
    </article>
-   <article id="DT52-02793" pg="128">
+   <article type="commune" id="DT52-02793" pg="128">
       <vedette>
          <sm>Osne-le-Val,</sm>
       </vedette>
@@ -38988,7 +38989,7 @@
       </commentaire>
       <insee>52370</insee>
    </article>
-   <article id="DT52-02794" pg="129">
+   <article type="commune" id="DT52-02794" pg="129">
       <vedette>
          <sm>Oudincourt,</sm>
       </vedette>
@@ -39017,7 +39018,7 @@
       </commentaire>
       <insee>52371</insee>
    </article>
-   <article id="DT52-02795" pg="129">
+   <article type="commune" id="DT52-02795" pg="129">
       <vedette>
          <sm>Outremécourt,</sm>
       </vedette>
@@ -39076,7 +39077,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Sarrey</localisation>.</definition>
    </article>
-   <article id="DT52-02799" pg="129">
+   <article type="commune" id="DT52-02799" pg="129">
       <vedette>
          <sm>Ozières,</sm>
       </vedette>
@@ -39120,7 +39121,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 540)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02801" pg="129">
+   <article type="commune" id="DT52-02801" pg="129">
       <vedette>
          <sm>Pailly (Le),</sm>
       </vedette>
@@ -39153,7 +39154,7 @@
          <date>1778</date> 
          <reference>(arch. Allier, Septfons)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02803" pg="129">
+   <article type="commune" id="DT52-02803" pg="129">
       <vedette>
          <sm>Palaiseul,</sm>
       </vedette>
@@ -39183,7 +39184,7 @@
       <definition>
          <typologie>usine</typologie>, <localisation>commune de Pancey</localisation>.</definition>
    </article>
-   <article id="DT52-02805" pg="129">
+   <article type="commune" id="DT52-02805" pg="129">
       <vedette>
          <sm>Pancey,</sm>
       </vedette>
@@ -39341,7 +39342,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Etat-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02818" pg="130">
+   <article type="commune" id="DT52-02818" pg="130">
       <vedette>
          <sm>Parnot,</sm>
       </vedette>
@@ -39382,7 +39383,7 @@
       </commentaire>
       <insee>52377</insee>
    </article>
-   <article id="DT52-02819" pg="130">
+   <article type="commune" id="DT52-02819" pg="130">
       <vedette>
          <sm>Paroy,</sm>
       </vedette>
@@ -39453,7 +39454,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Rolampont</localisation>.</definition>
    </article>
-   <article id="DT52-02826" pg="130">
+   <article type="commune" id="DT52-02826" pg="130">
       <vedette>
          <sm>Pautaines,</sm>
       </vedette>
@@ -39548,7 +39549,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sarcey</localisation>.</definition>
    </article>
-   <article id="DT52-02834" pg="130">
+   <article type="commune" id="DT52-02834" pg="130">
       <vedette>
          <sm>Peigney,</sm>
       </vedette>
@@ -39672,7 +39673,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Buxières-lez-Belmont</localisation>.</definition>
    </article>
-   <article id="DT52-02841" pg="131">
+   <article type="commune" id="DT52-02841" pg="131">
       <vedette>
          <sm>Percey-le-Pautel,</sm>
       </vedette>
@@ -39716,7 +39717,7 @@
       </commentaire>
       <insee>52292</insee>
    </article>
-   <article id="DT52-02842" pg="131">
+   <article type="commune" id="DT52-02842" pg="131">
       <vedette>
          <sm>Percey-le-Petit,</sm>
       </vedette>
@@ -39789,7 +39790,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02848" pg="131">
+   <article type="commune" id="DT52-02848" pg="131">
       <vedette>
          <sm>Perrancey,</sm>
       </vedette>
@@ -39859,7 +39860,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Frécourt</localisation>.</definition>
    </article>
-   <article id="DT52-02853" pg="131">
+   <article type="commune" id="DT52-02853" pg="131">
       <vedette>
          <sm>Perrogney,</sm>
       </vedette>
@@ -39944,7 +39945,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02855" pg="132">
+   <article type="commune" id="DT52-02855" pg="132">
       <vedette>
          <sm>Perrusses,</sm>
       </vedette>
@@ -39990,7 +39991,7 @@
       </commentaire>
       <insee>52385</insee>
    </article>
-   <article id="DT52-02856" pg="132">
+   <article type="commune" id="DT52-02856" pg="132">
       <vedette>
          <sm>Perthe,</sm>
       </vedette>
@@ -40475,7 +40476,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-02904" pg="133">
+   <article type="commune" id="DT52-02904" pg="133">
       <vedette>
          <sm>Piépape,</sm>
       </vedette>
@@ -40528,7 +40529,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02906" pg="133">
+   <article type="commune" id="DT52-02906" pg="133">
       <vedette>
          <sm>Pierrefaite,</sm>
       </vedette>
@@ -40563,7 +40564,7 @@
       </commentaire>
       <insee>52388</insee>
    </article>
-   <article id="DT52-02907" pg="133">
+   <article type="commune" id="DT52-02907" pg="133">
       <vedette>
          <sm>Pierrefontaine,</sm>
       </vedette>
@@ -40676,7 +40677,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Romains-sur-Meuse</localisation>.</definition>
    </article>
-   <article id="DT52-02914" pg="134">
+   <article type="commune" id="DT52-02914" pg="134">
       <vedette>
          <sm>Pisseloup,</sm>
       </vedette>
@@ -40819,7 +40820,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Coiffy-le-Bas</localisation>, section A.</definition>
    </article>
-   <article id="DT52-02926" pg="134">
+   <article type="commune" id="DT52-02926" pg="134">
       <vedette>
          <sm>Planrupt,</sm>
       </vedette>
@@ -40898,7 +40899,7 @@
          <date>1226</date> 
          <reference>(arch. Aube, Clairvaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02931" pg="135">
+   <article type="commune" id="DT52-02931" pg="135">
       <vedette>
          <sm>Plénoy,</sm>
       </vedette>
@@ -41037,7 +41038,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-02941" pg="135">
+   <article type="commune" id="DT52-02941" pg="135">
       <vedette>
          <sm>Poinsenot,</sm>
       </vedette>
@@ -41067,7 +41068,7 @@
       </commentaire>
       <insee>52393</insee>
    </article>
-   <article id="DT52-02942" pg="135">
+   <article type="commune" id="DT52-02942" pg="135">
       <vedette>
          <sm>Poinson-lez-Fays,</sm>
       </vedette>
@@ -41102,7 +41103,7 @@
       </commentaire>
       <insee>52394</insee>
    </article>
-   <article id="DT52-02943" pg="135">
+   <article type="commune" id="DT52-02943" pg="135">
       <vedette>
          <sm>Poinson-lez-Grancey,</sm>
       </vedette>
@@ -41152,7 +41153,7 @@
       </commentaire>
       <insee>52395</insee>
    </article>
-   <article id="DT52-02944" pg="135">
+   <article type="commune" id="DT52-02944" pg="135">
       <vedette>
          <sm>Poinson-lez-Nogent,</sm>
       </vedette>
@@ -41297,7 +41298,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-02949" pg="136">
+   <article type="commune" id="DT52-02949" pg="136">
       <vedette>
          <sm>Poiseul,</sm>
       </vedette>
@@ -41349,7 +41350,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Aprey</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02951" pg="136">
+   <article type="commune" id="DT52-02951" pg="136">
       <vedette>
          <sm>Poissons,</sm>
       </vedette>
@@ -41514,7 +41515,7 @@
          <typologie>écart</typologie>, <localisation>commune de la Ferté-sur-Aube</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-02964" pg="137">
+   <article type="commune" id="DT52-02964" pg="137">
       <vedette>
          <sm>Pont-la-Ville,</sm>
       </vedette>
@@ -41668,7 +41669,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Vesaignes-sur-Marne</localisation>, section B.</definition>
    </article>
-   <article id="DT52-02972" pg="137">
+   <article type="commune" id="DT52-02972" pg="137">
       <vedette>
          <sm>Pouilly,</sm>
       </vedette>
@@ -41721,7 +41722,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Colombey-lez-Choiseul</localisation>, section C.</definition>
    </article>
-   <article id="DT52-02974" pg="137">
+   <article type="commune" id="DT52-02974" pg="137">
       <vedette>
          <sm>Poulangy,</sm>
       </vedette>
@@ -41810,7 +41811,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Meure</localisation>.</definition>
    </article>
-   <article id="DT52-02978" pg="138">
+   <article type="commune" id="DT52-02978" pg="138">
       <vedette>
          <sm>Prangey,</sm>
       </vedette>
@@ -41845,7 +41846,7 @@
       </commentaire>
       <insee>52529</insee>
    </article>
-   <article id="DT52-02979" pg="138">
+   <article type="commune" id="DT52-02979" pg="138">
       <vedette>
          <sm>Praslay,</sm>
       </vedette>
@@ -41894,7 +41895,7 @@
       </commentaire>
       <insee>52403</insee>
    </article>
-   <article id="DT52-02980" pg="138">
+   <article type="commune" id="DT52-02980" pg="138">
       <vedette>
          <sm>Pratz,</sm>
       </vedette>
@@ -41920,7 +41921,7 @@
       </commentaire>
       <insee>52140</insee>
    </article>
-   <article id="DT52-02981" pg="138">
+   <article type="commune" id="DT52-02981" pg="138">
       <vedette>
          <sm>Prauthoy,</sm>
       </vedette>
@@ -42233,7 +42234,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03011" pg="139">
+   <article type="commune" id="DT52-03011" pg="139">
       <vedette>
          <sm>Pressigny,</sm>
       </vedette>
@@ -42304,7 +42305,7 @@
          <date>1627</date> 
          <reference>(chapitre de Langres)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03016" pg="139">
+   <article type="commune" id="DT52-03016" pg="139">
       <vedette>
          <sm>Prez-sous-la-Fauche,</sm>
       </vedette>
@@ -42344,7 +42345,7 @@
       </commentaire>
       <insee>52407</insee>
    </article>
-   <article id="DT52-03017" pg="140">
+   <article type="commune" id="DT52-03017" pg="140">
       <vedette>
          <pg>140</pg>
          <sm>Prez-sur-Marne,</sm>
@@ -42514,7 +42515,7 @@
          <date>1631</date> 
          <reference>(Saint-Urbain)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03035" pg="140">
+   <article type="commune" id="DT52-03035" pg="140">
       <vedette>
          <sm>Provenchères-sur-Marne,</sm>
       </vedette>
@@ -42558,7 +42559,7 @@
       </commentaire>
       <insee>52211</insee>
    </article>
-   <article id="DT52-03036" pg="140">
+   <article type="commune" id="DT52-03036" pg="140">
       <vedette>
          <sm>Provenchères-sur-Meuse,</sm>
       </vedette>
@@ -42623,7 +42624,7 @@
          <typologie>écart</typologie>, <localisation>commune de Sommeville</localisation> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</definition>
    </article>
-   <article id="DT52-03038" pg="140">
+   <article type="commune" id="DT52-03038" pg="140">
       <vedette>
          <sm>Puellemontier,</sm>
       </vedette>
@@ -42737,7 +42738,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Maizières-sur-Amance</localisation>.</definition>
    </article>
-   <article id="DT52-03044" pg="141">
+   <article type="commune" id="DT52-03044" pg="141">
       <vedette>
          <sm>Puits-des-Mèzes (Le),</sm>
       </vedette>
@@ -42877,7 +42878,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03056" pg="141">
+   <article type="commune" id="DT52-03056" pg="141">
       <vedette>
          <sm>Ragecourt-sur-Blaise,</sm>
       </vedette>
@@ -42934,7 +42935,7 @@
       </commentaire>
       <insee>52413</insee>
    </article>
-   <article id="DT52-03057" pg="142">
+   <article type="commune" id="DT52-03057" pg="142">
       <vedette>
          <sm>Ragecourt-sur-Marne,</sm>
       </vedette>
@@ -43020,7 +43021,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03062" pg="142">
+   <article type="commune" id="DT52-03062" pg="142">
       <vedette>
          <sm>Rançonnières,</sm>
       </vedette>
@@ -43080,7 +43081,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Magneux</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03065" pg="142">
+   <article type="commune" id="DT52-03065" pg="142">
       <vedette>
          <sm>Rangecourt,</sm>
       </vedette>
@@ -43118,7 +43119,7 @@
       </commentaire>
       <insee>52416</insee>
    </article>
-   <article id="DT52-03066" pg="142">
+   <article type="commune" id="DT52-03066" pg="142">
       <vedette>
          <sm>Ravenne-Fontaine,</sm>
       </vedette>
@@ -43241,7 +43242,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03072" pg="143">
+   <article type="commune" id="DT52-03072" pg="143">
       <vedette>
          <sm>Récourt,</sm>
       </vedette>
@@ -43447,7 +43448,7 @@
          <date>886</date> 
          <reference>(Roserot, Dipl. carol., p. 19)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03087" pg="143">
+   <article type="commune" id="DT52-03087" pg="143">
       <vedette>
          <sm>Rennepont,</sm>
       </vedette>
@@ -43518,7 +43519,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Domremy</localisation>, section C.</definition>
    </article>
-   <article id="DT52-03091" pg="144">
+   <article type="commune" id="DT52-03091" pg="144">
       <vedette>
          <sm>Reynel,</sm>
       </vedette>
@@ -43567,7 +43568,7 @@
       </commentaire>
       <insee>52420</insee>
    </article>
-   <article id="DT52-03092" pg="144">
+   <article type="commune" id="DT52-03092" pg="144">
       <vedette>
          <sm>Riaucourt,</sm>
       </vedette>
@@ -43646,7 +43647,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Pressigny</localisation>.</definition>
    </article>
-   <article id="DT52-03096" pg="144">
+   <article type="commune" id="DT52-03096" pg="144">
       <vedette>
          <sm>Richebourg,</sm>
       </vedette>
@@ -43693,7 +43694,7 @@
          <date>1773</date> 
          <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03099" pg="144">
+   <article type="commune" id="DT52-03099" pg="144">
       <vedette>
          <sm>Rimaucourt,</sm>
       </vedette>
@@ -43803,7 +43804,7 @@
          <date>1664</date> 
          <reference>(Septfontaines)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03106" pg="145">
+   <article type="commune" id="DT52-03106" pg="145">
       <vedette>
          <sm>Rivière (La),</sm>
       </vedette>
@@ -43826,7 +43827,7 @@
       </commentaire>
       <insee>52273</insee>
    </article>
-   <article id="DT52-03107" pg="145">
+   <article type="commune" id="DT52-03107" pg="145">
       <vedette>
          <sm>Rivière-le-Bois,</sm>
       </vedette>
@@ -43851,7 +43852,7 @@
       </commentaire>
       <insee>52424</insee>
    </article>
-   <article id="DT52-03108" pg="145">
+   <article type="commune" id="DT52-03108" pg="145">
       <vedette>
          <sm>Rivière-les-Fosses,</sm>
       </vedette>
@@ -43874,7 +43875,7 @@
       </commentaire>
       <insee>52425</insee>
    </article>
-   <article id="DT52-03109" pg="145">
+   <article type="commune" id="DT52-03109" pg="145">
       <vedette>
          <sm>Rizaucourt,</sm>
       </vedette>
@@ -43924,7 +43925,7 @@
       </commentaire>
       <insee>52426</insee>
    </article>
-   <article id="DT52-03110" pg="145">
+   <article type="commune" id="DT52-03110" pg="145">
       <vedette>
          <sm>Robert-Magnil,</sm>
       </vedette>
@@ -44042,7 +44043,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03121" pg="146">
+   <article type="commune" id="DT52-03121" pg="146">
       <vedette>
          <sm>Rochefort,</sm>
       </vedette>
@@ -44112,7 +44113,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Noidant-Châtenoy</localisation>.</definition>
    </article>
-   <article id="DT52-03127" pg="146">
+   <article type="commune" id="DT52-03127" pg="146">
       <vedette>
          <sm>Roche-sur-Marne,</sm>
       </vedette>
@@ -44138,7 +44139,7 @@
       </commentaire>
       <insee>52429</insee>
    </article>
-   <article id="DT52-03128" pg="146">
+   <article type="commune" id="DT52-03128" pg="146">
       <vedette>
          <sm>Roche-sur-Rognon,</sm>
       </vedette>
@@ -44173,7 +44174,7 @@
       </commentaire>
       <insee>52044</insee>
    </article>
-   <article id="DT52-03129" pg="146">
+   <article type="commune" id="DT52-03129" pg="146">
       <vedette>
          <sm>Rochetaillée,</sm>
       </vedette>
@@ -44263,7 +44264,7 @@
          <p>Dans la Haute-Marne, on prononce <i>Rovilliers,</i> en restant fidèle aux vieilles formes du nom.</p>
       </commentaire>
    </article>
-   <article id="DT52-03132" pg="147">
+   <article type="commune" id="DT52-03132" pg="147">
       <vedette>
          <sm>Rôcourt-la-Côte,</sm>
       </vedette>
@@ -44379,7 +44380,7 @@
       <definition>
          <typologie>ferme et moulin</typologie>, <localisation>commune de Troischamps</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03136" pg="147">
+   <article type="commune" id="DT52-03136" pg="147">
       <vedette>
          <sm>Rolampont,</sm>
       </vedette>
@@ -44424,7 +44425,7 @@
       </commentaire>
       <insee>52432</insee>
    </article>
-   <article id="DT52-03137" pg="147">
+   <article type="commune" id="DT52-03137" pg="147">
       <vedette>
          <sm>Romains-sur-Meuse,</sm>
       </vedette>
@@ -44574,7 +44575,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03150" pg="148">
+   <article type="commune" id="DT52-03150" pg="148">
       <vedette>
          <sm>Rosières,</sm>
       </vedette>
@@ -44626,7 +44627,7 @@
       <definition>
          <typologie>village détruit</typologie>, <localisation>près de Marac</localisation>, qui avait, en <date>1120</date>, une église dépendant de l'abbaye de Saint-Étienne de Dijon <reference>(Roussel, Le Diocèse de Langres, II, p. 355)</reference>.</definition>
    </article>
-   <article id="DT52-03153" pg="148">
+   <article type="commune" id="DT52-03153" pg="148">
       <vedette>
          <sm>Rosoy,</sm>
       </vedette>
@@ -44691,7 +44692,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03157" pg="148">
+   <article type="commune" id="DT52-03157" pg="148">
       <vedette>
          <sm>Rouécourt,</sm>
       </vedette>
@@ -44723,7 +44724,7 @@
       </commentaire>
       <insee>52436</insee>
    </article>
-   <article id="DT52-03158" pg="148">
+   <article type="commune" id="DT52-03158" pg="148">
       <vedette>
          <sm>Rouelles,</sm>
       </vedette>
@@ -44774,7 +44775,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Couzon</localisation>.</definition>
    </article>
-   <article id="DT52-03162" pg="148">
+   <article type="commune" id="DT52-03162" pg="148">
       <vedette>
          <sm>Rougeux,</sm>
       </vedette>
@@ -44858,7 +44859,7 @@
          <date>1882</date> 
          <reference>(Dict. général des postes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03166" pg="149">
+   <article type="commune" id="DT52-03166" pg="149">
       <vedette>
          <sm>Rouvre-sur-Aube,</sm>
       </vedette>
@@ -44886,7 +44887,7 @@
       </commentaire>
       <insee>52439</insee>
    </article>
-   <article id="DT52-03167" pg="149">
+   <article type="commune" id="DT52-03167" pg="149">
       <vedette>
          <sm>Rouvroy,</sm>
       </vedette>
@@ -45121,7 +45122,7 @@
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de Narcy</localisation>.</definition>
    </article>
-   <article id="DT52-03183" pg="149">
+   <article type="commune" id="DT52-03183" pg="149">
       <vedette>
          <sm>Rupt,</sm>
       </vedette>
@@ -45223,7 +45224,7 @@
       <definition>
          <typologie>fief</typologie> qui relevait de Sarrey.</definition>
    </article>
-   <article id="DT52-03191" pg="150">
+   <article type="commune" id="DT52-03191" pg="150">
       <vedette>
          <sm>Sailly,</sm>
       </vedette>
@@ -45543,7 +45544,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Autreville</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03222" pg="151">
+   <article type="commune" id="DT52-03222" pg="151">
       <vedette>
          <sm>Saint-Blin,</sm>
       </vedette>
@@ -45643,7 +45644,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03227" pg="151">
+   <article type="commune" id="DT52-03227" pg="151">
       <vedette>
          <sm>Saint-Broingt-le-Bois,</sm>
       </vedette>
@@ -45676,7 +45677,7 @@
       </commentaire>
       <insee>52445</insee>
    </article>
-   <article id="DT52-03228" pg="151">
+   <article type="commune" id="DT52-03228" pg="151">
       <vedette>
          <sm>Saint-Broingt-les-Fosses,</sm>
       </vedette>
@@ -45742,7 +45743,7 @@
          <p>Elle était située sur un monticule, au nord.</p>
       </commentaire>
    </article>
-   <article id="DT52-03230" pg="152">
+   <article type="commune" id="DT52-03230" pg="152">
       <vedette>
          <sm>Saint-Ciergue,</sm>
       </vedette>
@@ -46944,7 +46945,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de la Mothe-en-Blésy</localisation>, section C.</definition>
    </article>
-   <article id="DT52-03343" pg="155">
+   <article type="commune" id="DT52-03343" pg="155">
       <vedette>
          <sm>Saint-Geômes,</sm>
       </vedette>
@@ -47748,7 +47749,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Valleret</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03426" pg="157">
+   <article type="commune" id="DT52-03426" pg="157">
       <vedette>
          <sm>Saint-Loup-sur-Aujon,</sm>
       </vedette>
@@ -47893,7 +47894,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-03439" pg="158">
+   <article type="commune" id="DT52-03439" pg="158">
       <vedette>
          <pg>158</pg>
          <sm>Saint-Martin,</sm>
@@ -48159,7 +48160,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Mareilles</localisation>, section D.</definition>
    </article>
-   <article id="DT52-03469" pg="158">
+   <article type="commune" id="DT52-03469" pg="158">
       <vedette>
          <sm>Saint-Martin-lez-Langres,</sm>
       </vedette>
@@ -48185,7 +48186,7 @@
       </commentaire>
       <insee>52452</insee>
    </article>
-   <article id="DT52-03470" pg="158">
+   <article type="commune" id="DT52-03470" pg="158">
       <vedette>
          <sm>Saint-Maurice,</sm>
       </vedette>
@@ -48329,7 +48330,7 @@
          <date>1836</date> 
          <reference>(cadastre de Rolampont, section C)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03481" pg="159">
+   <article type="commune" id="DT52-03481" pg="159">
       <vedette>
          <sm>Saint-Michel,</sm>
       </vedette>
@@ -49213,7 +49214,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03569" pg="161">
+   <article type="commune" id="DT52-03569" pg="161">
       <vedette>
          <sm>Saint-Thiébaud,</sm>
       </vedette>
@@ -49340,7 +49341,7 @@
          <date>1831</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03578" pg="162">
+   <article type="commune" id="DT52-03578" pg="162">
       <vedette>
          <pg>162</pg>
          <sm>Saint-Urbain,</sm>
@@ -49410,7 +49411,7 @@
       <definition>
          <typologie>lieu dit, sorte de tumulus</typologie>, <localisation>commune de Courcelles-en-Montagne</localisation>.</definition>
    </article>
-   <article id="DT52-03582" pg="162">
+   <article type="commune" id="DT52-03582" pg="162">
       <vedette>
          <sm>Saint-Vallier,</sm>
       </vedette>
@@ -49584,7 +49585,7 @@
          <date>1596</date> 
          <reference>(Saint-Urbain)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03599" pg="162">
+   <article type="commune" id="DT52-03599" pg="162">
       <vedette>
          <sm>Santenoge,</sm>
       </vedette>
@@ -49626,7 +49627,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03601" pg="162">
+   <article type="commune" id="DT52-03601" pg="162">
       <vedette>
          <sm>Sarcey,</sm>
       </vedette>
@@ -49649,7 +49650,7 @@
       </commentaire>
       <insee>52459</insee>
    </article>
-   <article id="DT52-03602" pg="163">
+   <article type="commune" id="DT52-03602" pg="163">
       <vedette>
          <pg>163</pg>
          <sm>Sarcicourt,</sm>
@@ -49722,7 +49723,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Signéville</localisation>, section B.</definition>
    </article>
-   <article id="DT52-03608" pg="163">
+   <article type="commune" id="DT52-03608" pg="163">
       <vedette>
          <sm>Sarrey,</sm>
       </vedette>
@@ -49776,7 +49777,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Dommarien</localisation>, section F.</definition>
    </article>
-   <article id="DT52-03611" pg="163">
+   <article type="commune" id="DT52-03611" pg="163">
       <vedette>
          <sm>Saucourt,</sm>
       </vedette>
@@ -49805,7 +49806,7 @@
       </commentaire>
       <insee>52177</insee>
    </article>
-   <article id="DT52-03612" pg="163">
+   <article type="commune" id="DT52-03612" pg="163">
       <vedette>
          <sm>Saudron,</sm>
       </vedette>
@@ -49846,7 +49847,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03614" pg="163">
+   <article type="commune" id="DT52-03614" pg="163">
       <vedette>
          <sm>Saulles,</sm>
       </vedette>
@@ -49878,7 +49879,7 @@
          <date>vers 904</date> 
          <reference>(cartul. du chantre Warin)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03616" pg="163">
+   <article type="commune" id="DT52-03616" pg="163">
       <vedette>
          <sm>Saulxures,</sm>
       </vedette>
@@ -49931,7 +49932,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03619" pg="164">
+   <article type="commune" id="DT52-03619" pg="164">
       <vedette>
          <sm>Sauvage-Magnil,</sm>
       </vedette>
@@ -49991,7 +49992,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Melay</localisation>, section E.</definition>
    </article>
-   <article id="DT52-03622" pg="164">
+   <article type="commune" id="DT52-03622" pg="164">
       <vedette>
          <sm>Savigny,</sm>
       </vedette>
@@ -50125,7 +50126,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03636" pg="164">
+   <article type="commune" id="DT52-03636" pg="164">
       <vedette>
          <sm>Semilly,</sm>
       </vedette>
@@ -50160,7 +50161,7 @@
             </date> a enlevé à Richebourg les fermes de Chalonge et de Semobile ou <i>les Maisons éboulées,</i> et les a réunies à Semoutier (Arch. nat., F<sup>2</sup> II, Haute-Marne, I).</p>
       </commentaire>
    </article>
-   <article id="DT52-03638" pg="164">
+   <article type="commune" id="DT52-03638" pg="164">
       <vedette>
          <sm>Semoutier,</sm>
       </vedette>
@@ -50265,7 +50266,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Voisey</localisation>.</definition>
    </article>
-   <article id="DT52-03643" pg="165">
+   <article type="commune" id="DT52-03643" pg="165">
       <vedette>
          <sm>Serqueux,</sm>
       </vedette>
@@ -50430,7 +50431,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03650" pg="165">
+   <article type="commune" id="DT52-03650" pg="165">
       <vedette>
          <sm>Sexfontaine,</sm> 
          <i>mieux</i> 
@@ -50516,7 +50517,7 @@
       </commentaire>
       <insee>52472</insee>
    </article>
-   <article id="DT52-03651" pg="166">
+   <article type="commune" id="DT52-03651" pg="166">
       <vedette>
          <sm>Signéville,</sm>
       </vedette>
@@ -50567,7 +50568,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Prez-sous-la-Fauche</localisation>.</definition>
    </article>
-   <article id="DT52-03653" pg="166">
+   <article type="commune" id="DT52-03653" pg="166">
       <vedette>
          <sm>Silvarouvre,</sm>
       </vedette>
@@ -50763,7 +50764,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03665" pg="167">
+   <article type="commune" id="DT52-03665" pg="167">
       <vedette>
          <sm>Sommancourt,</sm>
       </vedette>
@@ -50792,7 +50793,7 @@
       </commentaire>
       <insee>52475</insee>
    </article>
-   <article id="DT52-03666" pg="167">
+   <article type="commune" id="DT52-03666" pg="167">
       <vedette>
          <sm>Sommerécourt,</sm>
       </vedette>
@@ -50815,7 +50816,7 @@
       </commentaire>
       <insee>52476</insee>
    </article>
-   <article id="DT52-03667" pg="167">
+   <article type="commune" id="DT52-03667" pg="167">
       <vedette>
          <sm>Sommermont,</sm>
       </vedette>
@@ -50836,7 +50837,7 @@
       </commentaire>
       <insee>52118</insee>
    </article>
-   <article id="DT52-03668" pg="167">
+   <article type="commune" id="DT52-03668" pg="167">
       <vedette>
          <sm>Sommeville,</sm>
       </vedette>
@@ -50862,7 +50863,7 @@
       </commentaire>
       <insee>52123</insee>
    </article>
-   <article id="DT52-03669" pg="167">
+   <article type="commune" id="DT52-03669" pg="167">
       <vedette>
          <sm>Sommevoire,</sm>
       </vedette>
@@ -50898,7 +50899,7 @@
       </commentaire>
       <insee>52479</insee>
    </article>
-   <article id="DT52-03670" pg="167">
+   <article type="commune" id="DT52-03670" pg="167">
       <vedette>
          <sm>Soncourt,</sm>
       </vedette>
@@ -50994,7 +50995,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Longeville</localisation>.</definition>
    </article>
-   <article id="DT52-03677" pg="167">
+   <article type="commune" id="DT52-03677" pg="167">
       <vedette>
          <sm>Soulaincourt,</sm>
       </vedette>
@@ -51027,7 +51028,7 @@
       </commentaire>
       <insee>52491</insee>
    </article>
-   <article id="DT52-03678" pg="168">
+   <article type="commune" id="DT52-03678" pg="168">
       <vedette>
          <sm>Soulaucourt,</sm>
       </vedette>
@@ -51077,7 +51078,7 @@
          <date>1421</date> 
          <reference>(arch. Haute-Marne, chapitre de Langres)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03680" pg="168">
+   <article type="commune" id="DT52-03680" pg="168">
       <vedette>
          <sm>Soyers,</sm>
       </vedette>
@@ -51200,7 +51201,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(ann. Haute-Marne, de 1889, et cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03685" pg="168">
+   <article type="commune" id="DT52-03685" pg="168">
       <vedette>
          <sm>Suzannecourt,</sm>
       </vedette>
@@ -51229,7 +51230,7 @@
       </commentaire>
       <insee>52484</insee>
    </article>
-   <article id="DT52-03686" pg="168">
+   <article type="commune" id="DT52-03686" pg="168">
       <vedette>
          <sm>Suzémont,</sm>
       </vedette>
@@ -51465,7 +51466,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Saint-Geômes</localisation>.</definition>
    </article>
-   <article id="DT52-03707" pg="169">
+   <article type="commune" id="DT52-03707" pg="169">
       <vedette>
          <sm>Ternat,</sm>
       </vedette>
@@ -51512,7 +51513,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Cirey-le-Château</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03711" pg="169">
+   <article type="commune" id="DT52-03711" pg="169">
       <vedette>
          <sm>Thilleux,</sm>
       </vedette>
@@ -51546,7 +51547,7 @@
       </commentaire>
       <insee>52487</insee>
    </article>
-   <article id="DT52-03712" pg="170">
+   <article type="commune" id="DT52-03712" pg="170">
       <vedette>
          <pg>170</pg>
          <sm>Thivet,</sm>
@@ -51593,7 +51594,7 @@
       </commentaire>
       <insee>52488</insee>
    </article>
-   <article id="DT52-03713" pg="170">
+   <article type="commune" id="DT52-03713" pg="170">
       <vedette>
          <sm>Thol-lez-Millières,</sm>
       </vedette>
@@ -51636,7 +51637,7 @@
       </commentaire>
       <insee>52489</insee>
    </article>
-   <article id="DT52-03714" pg="170">
+   <article type="commune" id="DT52-03714" pg="170">
       <vedette>
          <sm>Thonnance-les-Moulins,</sm>
       </vedette>
@@ -51680,7 +51681,7 @@
       </commentaire>
       <insee>52491</insee>
    </article>
-   <article id="DT52-03715" pg="170">
+   <article type="commune" id="DT52-03715" pg="170">
       <vedette>
          <sm>Thonnance-lez-Joinville,</sm>
       </vedette>
@@ -51860,7 +51861,7 @@
          <date>1508</date> 
          <reference>(Arch. nat., P. 174<sup>2</sup>, n° 311)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03729" pg="171">
+   <article type="commune" id="DT52-03729" pg="171">
       <vedette>
          <sm>Torcenay,</sm>
       </vedette>
@@ -51882,7 +51883,7 @@
       </commentaire>
       <insee>52492</insee>
    </article>
-   <article id="DT52-03730" pg="171">
+   <article type="commune" id="DT52-03730" pg="171">
       <vedette>
          <sm>Tornay,</sm>
       </vedette>
@@ -52161,7 +52162,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Saucourt</localisation>, section B.</definition>
    </article>
-   <article id="DT52-03757" pg="171">
+   <article type="commune" id="DT52-03757" pg="171">
       <vedette>
          <sm>Treix,</sm>
       </vedette>
@@ -52208,7 +52209,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 371)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03759" pg="172">
+   <article type="commune" id="DT52-03759" pg="172">
       <vedette>
          <sm>Trémilly,</sm>
       </vedette>
@@ -52366,7 +52367,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de la Rivière</localisation>.</definition>
    </article>
-   <article id="DT52-03771" pg="172">
+   <article type="commune" id="DT52-03771" pg="172">
       <vedette>
          <sm>Troischamps,</sm>
       </vedette>
@@ -52412,7 +52413,7 @@
       <definition>
          <typologie>maison forestière</typologie>, <localisation>commune d'Écot</localisation>.</definition>
    </article>
-   <article id="DT52-03774" pg="172">
+   <article type="commune" id="DT52-03774" pg="172">
       <vedette>
          <sm>Troisfontaines-la-Ville,</sm>
       </vedette>
@@ -52465,7 +52466,7 @@
       <definition>
          <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
    </article>
-   <article id="DT52-03777" pg="172">
+   <article type="commune" id="DT52-03777" pg="172">
       <vedette>
          <sm>Tronchoy,</sm>
       </vedette>
@@ -53166,7 +53167,7 @@
       <definition>
          <typologie>château et ferme</typologie>, <localisation>commune de Bettancourt-la-Ferrée</localisation>.</definition>
    </article>
-   <article id="DT52-03860" pg="174">
+   <article type="commune" id="DT52-03860" pg="174">
       <vedette>
          <sm>Vaillant,</sm>
       </vedette>
@@ -53317,7 +53318,7 @@
          <date>1752</date> 
          <reference>(Longuay)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03872" pg="174">
+   <article type="commune" id="DT52-03872" pg="174">
       <vedette>
          <sm>Valcourt,</sm>
       </vedette>
@@ -53413,7 +53414,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT52-03878" pg="175">
+   <article type="commune" id="DT52-03878" pg="175">
       <vedette>
          <sm>Valdelancourt,</sm>
       </vedette>
@@ -53774,7 +53775,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03897" pg="176">
+   <article type="commune" id="DT52-03897" pg="176">
       <vedette>
          <sm>Valleret,</sm>
       </vedette>
@@ -53821,7 +53822,7 @@
       </commentaire>
       <insee>52502</insee>
    </article>
-   <article id="DT52-03898" pg="176">
+   <article type="commune" id="DT52-03898" pg="176">
       <vedette>
          <sm>Valleroy,</sm>
       </vedette>
@@ -54028,7 +54029,7 @@
       <definition>
          <typologie>partie</typologie> du <localisation>village de Vecqueville</localisation>, du côté de la Marne.</definition>
    </article>
-   <article id="DT52-03915" pg="177">
+   <article type="commune" id="DT52-03915" pg="177">
       <vedette>
          <sm>Varennes,</sm>
       </vedette>
@@ -54096,7 +54097,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Colmier-le-Haut</localisation>, section A.</definition>
    </article>
-   <article id="DT52-03919" pg="177">
+   <article type="commune" id="DT52-03919" pg="177">
       <vedette>
          <sm>Vassy,</sm>
       </vedette>
@@ -54368,7 +54369,7 @@
                <sm>Frôcourt, Les Gouttes</sm> et <sm>La Tuilerie</sm>)</renvoi>.</p>
       </commentaire>
    </article>
-   <article id="DT52-03930" pg="178">
+   <article type="commune" id="DT52-03930" pg="178">
       <vedette>
          <sm>Vaudrecourt,</sm>
       </vedette>
@@ -54402,7 +54403,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Mussey</localisation>, section B.</definition>
    </article>
-   <article id="DT52-03933" pg="178">
+   <article type="commune" id="DT52-03933" pg="178">
       <vedette>
          <sm>Vaudremont,</sm>
       </vedette>
@@ -54588,7 +54589,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sarcey</localisation>.</definition>
    </article>
-   <article id="DT52-03948" pg="179">
+   <article type="commune" id="DT52-03948" pg="179">
       <vedette>
          <sm>Vauxbons,</sm>
       </vedette>
@@ -54676,7 +54677,7 @@
          <date>1858</date> 
          <reference>(Dict. des postes de la Haute-Marne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03950" pg="179">
+   <article type="commune" id="DT52-03950" pg="179">
       <vedette>
          <sm>Vaux-la-Douce,</sm>
       </vedette>
@@ -54748,7 +54749,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03953" pg="179">
+   <article type="commune" id="DT52-03953" pg="179">
       <vedette>
          <sm>Vaux-sous-Aubigny,</sm>
       </vedette>
@@ -54781,7 +54782,7 @@
       </commentaire>
       <insee>52509</insee>
    </article>
-   <article id="DT52-03954" pg="180">
+   <article type="commune" id="DT52-03954" pg="180">
       <vedette>
          <sm>Vaux-sur-Blaise,</sm>
       </vedette>
@@ -54820,7 +54821,7 @@
       </commentaire>
       <insee>52510</insee>
    </article>
-   <article id="DT52-03955" pg="180">
+   <article type="commune" id="DT52-03955" pg="180">
       <vedette>
          <sm>Vaux-sur-Saint-Urbain,</sm>
       </vedette>
@@ -54854,7 +54855,7 @@
       </commentaire>
       <insee>52511</insee>
    </article>
-   <article id="DT52-03956" pg="180">
+   <article type="commune" id="DT52-03956" pg="180">
       <vedette>
          <sm>Vecqueville,</sm>
       </vedette>
@@ -54920,7 +54921,7 @@
          <p>Jolibois (La Haute-Marne, p. 490) identifie Saint-Renobert avec Velard, mais la carte de Cassini en fait deux localités distinctes.</p>
       </commentaire>
    </article>
-   <article id="DT52-03959" pg="180">
+   <article type="commune" id="DT52-03959" pg="180">
       <vedette>
          <sm>Velle,</sm>
       </vedette>
@@ -55028,7 +55029,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03967" pg="181">
+   <article type="commune" id="DT52-03967" pg="181">
       <vedette>
          <sm>Verbiesle,</sm>
       </vedette>
@@ -55206,7 +55207,7 @@
          <date>1889</date> 
          <reference>(ann. Haute-Marne, 1889)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03982" pg="181">
+   <article type="commune" id="DT52-03982" pg="181">
       <vedette>
          <sm>Verseilles-le-Bas,</sm>
       </vedette>
@@ -55255,7 +55256,7 @@
       </commentaire>
       <insee>52515</insee>
    </article>
-   <article id="DT52-03983" pg="181">
+   <article type="commune" id="DT52-03983" pg="181">
       <vedette>
          <sm>Verseilles-le-Haut,</sm>
       </vedette>
@@ -55325,7 +55326,7 @@
          <date>1262</date> 
          <reference>(Sexfontaine)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03986" pg="182">
+   <article type="commune" id="DT52-03986" pg="182">
       <vedette>
          <sm>Vesaignes-sous-la-Fauche,</sm>
       </vedette>
@@ -55365,7 +55366,7 @@
       </commentaire>
       <insee>52517</insee>
    </article>
-   <article id="DT52-03987" pg="182">
+   <article type="commune" id="DT52-03987" pg="182">
       <vedette>
          <sm>Vesaignes-sur-Marne,</sm>
       </vedette>
@@ -55464,7 +55465,7 @@
          <date>1770</date> 
          <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-03992" pg="182">
+   <article type="commune" id="DT52-03992" pg="182">
       <vedette>
          <sm>Vesvre-sous-Chalancey,</sm>
       </vedette>
@@ -55580,7 +55581,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Goncourt</localisation>, section C.</definition>
    </article>
-   <article id="DT52-04000" pg="182">
+   <article type="commune" id="DT52-04000" pg="182">
       <vedette>
          <sm>Vicq,</sm>
       </vedette>
@@ -55834,7 +55835,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune d'Andelot</localisation>, section A.</definition>
    </article>
-   <article id="DT52-04029" pg="183">
+   <article type="commune" id="DT52-04029" pg="183">
       <vedette>
          <sm>Vieux-Moulin,</sm>
       </vedette>
@@ -56041,7 +56042,7 @@
          <date>1767</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04054" pg="184">
+   <article type="commune" id="DT52-04054" pg="184">
       <vedette>
          <sm>Viéville,</sm>
       </vedette>
@@ -56099,7 +56100,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 251, art. Hortes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04057" pg="184">
+   <article type="commune" id="DT52-04057" pg="184">
       <vedette>
          <sm>Vignes,</sm>
       </vedette>
@@ -56131,7 +56132,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Froncles</localisation>, section A.</definition>
    </article>
-   <article id="DT52-04059" pg="184">
+   <article type="commune" id="DT52-04059" pg="184">
       <vedette>
          <sm>Vignory,</sm>
       </vedette>
@@ -56294,7 +56295,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre de Domremy, section C)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04066" pg="185">
+   <article type="commune" id="DT52-04066" pg="185">
       <vedette>
          <sm>Villars-en-Azois,</sm>
       </vedette>
@@ -56355,7 +56356,7 @@
       </commentaire>
       <insee>52525</insee>
    </article>
-   <article id="DT52-04067" pg="185">
+   <article type="commune" id="DT52-04067" pg="185">
       <vedette>
          <sm>Villars-Montroyer,</sm>
       </vedette>
@@ -56410,7 +56411,7 @@
       </commentaire>
       <insee>52526</insee>
    </article>
-   <article id="DT52-04068" pg="185">
+   <article type="commune" id="DT52-04068" pg="185">
       <vedette>
          <sm>Villars-Saint-Marcellin,</sm>
       </vedette>
@@ -56469,7 +56470,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Goncourt</localisation>, section C.</definition>
    </article>
-   <article id="DT52-04072" pg="185">
+   <article type="commune" id="DT52-04072" pg="185">
       <vedette>
          <sm>Ville-au-Bois (La),</sm>
       </vedette>
@@ -56548,7 +56549,7 @@
          <date>vers 1120</date> 
          <reference>(Jolibois : La Haute-Marne, p. 528)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04077" pg="186">
+   <article type="commune" id="DT52-04077" pg="186">
       <vedette>
          <sm>Ville-en-Blaisois,</sm>
       </vedette>
@@ -56595,7 +56596,7 @@
       </commentaire>
       <insee>52528</insee>
    </article>
-   <article id="DT52-04078" pg="186">
+   <article type="commune" id="DT52-04078" pg="186">
       <vedette>
          <sm>Villegusien,</sm>
       </vedette>
@@ -56649,7 +56650,7 @@
          <p>En <date>1789</date>, Ville-Haut formait une communauté de l'élection de Langres.</p>
       </commentaire>
    </article>
-   <article id="DT52-04080" pg="186">
+   <article type="commune" id="DT52-04080" pg="186">
       <vedette>
          <sm>Villemervry,</sm>
       </vedette>
@@ -56678,7 +56679,7 @@
       </commentaire>
       <insee>52094</insee>
    </article>
-   <article id="DT52-04081" pg="186">
+   <article type="commune" id="DT52-04081" pg="186">
       <vedette>
          <sm>Villemoron,</sm>
       </vedette>
@@ -56701,7 +56702,7 @@
       </commentaire>
       <insee>52094</insee>
    </article>
-   <article id="DT52-04082" pg="186">
+   <article type="commune" id="DT52-04082" pg="186">
       <vedette>
          <sm>Villeneuve-au-Roi (La),</sm>
       </vedette>
@@ -56757,7 +56758,7 @@
       </commentaire>
       <insee>52031</insee>
    </article>
-   <article id="DT52-04083" pg="186">
+   <article type="commune" id="DT52-04083" pg="186">
       <vedette>
          <sm>Villeneuve-aux-Frênes (La),</sm>
       </vedette>
@@ -56805,7 +56806,7 @@
          <date>1274-1275</date> 
          <reference>(Longnon, Doc. I, n° 6989)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04085" pg="187">
+   <article type="commune" id="DT52-04085" pg="187">
       <vedette>
          <sm>Villeneuve-en-Angoulancourt (La),</sm>
       </vedette>
@@ -56916,7 +56917,7 @@
       <definition>
          <typologie>lieu dit</typologie>, <localisation>commune de Guindrecourt-aux-Ormes</localisation>, section B.</definition>
    </article>
-   <article id="DT52-04093" pg="187">
+   <article type="commune" id="DT52-04093" pg="187">
       <vedette>
          <sm>Villiers-au-Bois,</sm>
       </vedette>
@@ -56954,7 +56955,7 @@
       </commentaire>
       <insee>52497</insee>
    </article>
-   <article id="DT52-04094" pg="187">
+   <article type="commune" id="DT52-04094" pg="187">
       <vedette>
          <sm>Villiers-au-Chêne,</sm>
       </vedette>
@@ -56986,7 +56987,7 @@
       </commentaire>
       <insee>52178</insee>
    </article>
-   <article id="DT52-04095" pg="188">
+   <article type="commune" id="DT52-04095" pg="188">
       <vedette>
          <sm>Villiers-en-Lieu,</sm>
       </vedette>
@@ -57105,7 +57106,7 @@
          <date>1847</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04098" pg="188">
+   <article type="commune" id="DT52-04098" pg="188">
       <vedette>
          <sm>Villiers-le-Sec,</sm>
       </vedette>
@@ -57137,7 +57138,7 @@
       </commentaire>
       <insee>52535</insee>
    </article>
-   <article id="DT52-04099" pg="188">
+   <article type="commune" id="DT52-04099" pg="188">
       <vedette>
          <sm>Villiers-lez-Aprey,</sm>
       </vedette>
@@ -57166,7 +57167,7 @@
       </commentaire>
       <insee>52536</insee>
    </article>
-   <article id="DT52-04100" pg="188">
+   <article type="commune" id="DT52-04100" pg="188">
       <vedette>
          <sm>Villiers-sur-Marne,</sm>
       </vedette>
@@ -57198,7 +57199,7 @@
       </commentaire>
       <insee>52230</insee>
    </article>
-   <article id="DT52-04101" pg="188">
+   <article type="commune" id="DT52-04101" pg="188">
       <vedette>
          <sm>Villiers-sur-Suize,</sm>
       </vedette>
@@ -57267,7 +57268,7 @@
       <definition>
          <typologie>maison isolée</typologie>, <localisation>commune de Prangey</localisation>.</definition>
    </article>
-   <article id="DT52-04106" pg="189">
+   <article type="commune" id="DT52-04106" pg="189">
       <vedette>
          <sm>Violot,</sm>
       </vedette>
@@ -57330,7 +57331,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(cadastre)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04109" pg="189">
+   <article type="commune" id="DT52-04109" pg="189">
       <vedette>
          <sm>Vitry-en-Montagne,</sm>
       </vedette>
@@ -57365,7 +57366,7 @@
       </commentaire>
       <insee>52540</insee>
    </article>
-   <article id="DT52-04110" pg="189">
+   <article type="commune" id="DT52-04110" pg="189">
       <vedette>
          <sm>Vitry-lez-Nogent,</sm>
       </vedette>
@@ -57419,7 +57420,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04112" pg="189">
+   <article type="commune" id="DT52-04112" pg="189">
       <vedette>
          <sm>Vivey,</sm>
       </vedette>
@@ -57511,7 +57512,7 @@
          <date>1268</date> 
          <reference>(Saint-Urbain, charte de Jean de Joinville)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04120" pg="189">
+   <article type="commune" id="DT52-04120" pg="189">
       <vedette>
          <sm>Voillecomte,</sm>
       </vedette>
@@ -57589,7 +57590,7 @@
          <date>1604</date> 
          <reference>(Arch. nat., P. 175<sup>2</sup>, n° 367)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04122" pg="190">
+   <article type="commune" id="DT52-04122" pg="190">
       <vedette>
          <sm>Voisey,</sm>
       </vedette>
@@ -57641,7 +57642,7 @@
          <date>1858</date> 
          <reference>(Jolibois : La Haute-Marne, p. 325)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04124" pg="190">
+   <article type="commune" id="DT52-04124" pg="190">
       <vedette>
          <sm>Voisines,</sm>
       </vedette>
@@ -57706,7 +57707,7 @@
          <date>1626</date> 
          <reference>(Arch. nat., P. 191<sup>2</sup>, n° 1639)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04126" pg="190">
+   <article type="commune" id="DT52-04126" pg="190">
       <vedette>
          <sm>Voncourt,</sm>
       </vedette>
@@ -57730,7 +57731,7 @@
          <date>1734</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 694)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04128" pg="190">
+   <article type="commune" id="DT52-04128" pg="190">
       <vedette>
          <sm>Vouécourt,</sm>
       </vedette>
@@ -57817,7 +57818,7 @@
             <sup>e</sup> siècle</date> 
          <reference>(État-major)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04130" pg="191">
+   <article type="commune" id="DT52-04130" pg="191">
       <vedette>
          <sm>Vraincourt,</sm>
       </vedette>
@@ -57881,7 +57882,7 @@
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
    </article>
-   <article id="DT52-04134" pg="191">
+   <article type="commune" id="DT52-04134" pg="191">
       <vedette>
          <sm>Vroncourt,</sm>
       </vedette>

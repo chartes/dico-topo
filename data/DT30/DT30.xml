@@ -3,8 +3,9 @@
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
+
 <!DOCTYPE DICTIONNAIRE SYSTEM "DT30.dtd">
-<DICTIONNAIRE departement="Gard">
+<DICTIONNAIRE departement="Gard" dep="30">
    <article id="DT30-00001" pg="1">
       <vedette>
          <pg>1</pg>
@@ -574,7 +575,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-00058" pg="3">
+   <article type="commune" id="DT30-00058" pg="3">
       <vedette>
          <sm>Aigaliers,</sm>
       </vedette>
@@ -636,7 +637,7 @@
          <date>1346</date> 
          <reference>(cart. de la seign. d'Alais, f° 43)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00062" pg="3">
+   <article type="commune" id="DT30-00062" pg="3">
       <vedette>
          <sm>Aigremont,</sm>
       </vedette>
@@ -839,7 +840,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-00076" pg="4">
+   <article type="commune" id="DT30-00076" pg="4">
       <vedette>
          <sm>Aiguesvives,</sm>
       </vedette>
@@ -881,7 +882,7 @@
          <date>1521</date> 
          <reference>(cart. de Franquevaux)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00078" pg="4">
+   <article type="commune" id="DT30-00078" pg="4">
       <vedette>
          <sm>Aiguèze,</sm>
       </vedette>
@@ -959,7 +960,7 @@
          <date>1812</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00083" pg="4">
+   <article type="commune" id="DT30-00083" pg="4">
       <vedette>
          <sm>Aimargues,</sm>
       </vedette>
@@ -1245,7 +1246,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Sommière</localisation>, sur le Vidourle.</definition>
    </article>
-   <article id="DT30-00105" pg="5">
+   <article type="commune" id="DT30-00105" pg="5">
       <vedette>
          <sm>Alais,</sm>
       </vedette>
@@ -1497,7 +1498,7 @@
          <p>— Parcours : 6,500 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-00121" pg="6">
+   <article type="commune" id="DT30-00121" pg="6">
       <vedette>
          <sm>Allègre,</sm>
       </vedette>
@@ -2107,7 +2108,7 @@
          <date>1726</date> 
          <reference>(carte de la baronnie du Caila)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00163" pg="8">
+   <article type="commune" id="DT30-00163" pg="8">
       <vedette>
          <sm>Angles (Les),</sm>
       </vedette>
@@ -2879,7 +2880,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-00224" pg="11">
+   <article type="commune" id="DT30-00224" pg="11">
       <vedette>
          <sm>Argentières,</sm>
       </vedette>
@@ -2950,7 +2951,7 @@
          <date>1730</date> 
          <reference>(pap. de la fam. Séguret, arch. hosp. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00229" pg="11">
+   <article type="commune" id="DT30-00229" pg="11">
       <vedette>
          <sm>Argilliers,</sm>
       </vedette>
@@ -3322,7 +3323,7 @@
          <date>1812</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00259" pg="12">
+   <article type="commune" id="DT30-00259" pg="12">
       <vedette>
          <sm>Arpaillargues,</sm>
       </vedette>
@@ -3357,7 +3358,7 @@
       </commentaire>
       <insee>30014</insee>
    </article>
-   <article id="DT30-00260" pg="12">
+   <article type="commune" id="DT30-00260" pg="12">
       <vedette>
          <sm>Arphy,</sm>
       </vedette>
@@ -3421,7 +3422,7 @@
          <date>1692</date> 
          <reference>(arch. hosp. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00263" pg="13">
+   <article type="commune" id="DT30-00263" pg="13">
       <vedette>
          <sm>Arre,</sm>
       </vedette>
@@ -3476,7 +3477,7 @@
          <date>1780</date> 
          <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00265" pg="13">
+   <article type="commune" id="DT30-00265" pg="13">
       <vedette>
          <sm>Arrigas,</sm>
       </vedette>
@@ -3632,7 +3633,7 @@
       <forme_ancienne>— <i>Spère</i> 
          <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00278" pg="13">
+   <article type="commune" id="DT30-00278" pg="13">
       <vedette>
          <sm>Aspères,</sm>
       </vedette>
@@ -3729,7 +3730,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bagnols</localisation>.</definition>
    </article>
-   <article id="DT30-00285" pg="14">
+   <article type="commune" id="DT30-00285" pg="14">
       <vedette>
          <sm>Aubais,</sm>
       </vedette>
@@ -3953,7 +3954,7 @@
          <date>1824</date> 
          <reference>(Nomencl. des comm. et ham. du Gard)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00301" pg="14">
+   <article type="commune" id="DT30-00301" pg="14">
       <vedette>
          <sm>Aubord,</sm>
       </vedette>
@@ -3992,7 +3993,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sainte-Cécile-d'Andorge</localisation>.</definition>
    </article>
-   <article id="DT30-00303" pg="14">
+   <article type="commune" id="DT30-00303" pg="14">
       <vedette>
          <sm>Aubussargues,</sm>
       </vedette>
@@ -4133,7 +4134,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-00315" pg="15">
+   <article type="commune" id="DT30-00315" pg="15">
       <vedette>
          <sm>Aujac,</sm>
       </vedette>
@@ -4176,7 +4177,7 @@
       <forme_ancienne>— <i>Aujarguet</i> 
          <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00317" pg="15">
+   <article type="commune" id="DT30-00317" pg="15">
       <vedette>
          <sm>Aujargues,</sm>
       </vedette>
@@ -4219,7 +4220,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Navacelle</localisation>.</definition>
    </article>
-   <article id="DT30-00320" pg="15">
+   <article type="commune" id="DT30-00320" pg="15">
       <vedette>
          <sm>Aulas,</sm>
       </vedette>
@@ -4276,7 +4277,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-00322" pg="15">
+   <article type="commune" id="DT30-00322" pg="15">
       <vedette>
          <sm>Aumessas,</sm>
       </vedette>
@@ -4365,7 +4366,7 @@
          <date>1607</date> 
          <reference>(arch. comm. de Colias)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00328" pg="16">
+   <article type="commune" id="DT30-00328" pg="16">
       <vedette>
          <sm>Aureillac,</sm>
       </vedette>
@@ -4666,7 +4667,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00356" pg="17">
+   <article type="commune" id="DT30-00356" pg="17">
       <vedette>
          <sm>Avejan,</sm>
       </vedette>
@@ -4747,7 +4748,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sauve</localisation>.</definition>
    </article>
-   <article id="DT30-00362" pg="17">
+   <article type="commune" id="DT30-00362" pg="17">
       <vedette>
          <sm>Avèze,</sm>
       </vedette>
@@ -4928,7 +4929,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sauve</localisation>.</definition>
    </article>
-   <article id="DT30-00377" pg="18">
+   <article type="commune" id="DT30-00377" pg="18">
       <vedette>
          <sm>Bagard,</sm>
       </vedette>
@@ -5995,7 +5996,7 @@
          <date>1508</date> 
          <reference>(Gaucel. Calvin, not. d'Anduze)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00490" pg="20">
+   <article type="commune" id="DT30-00490" pg="20">
       <vedette>
          <sm>Barron,</sm>
       </vedette>
@@ -6318,7 +6319,7 @@
       <forme_ancienne>— <date>1787</date> 
          <reference>(arch. départ. C. 1634)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00526" pg="21">
+   <article type="commune" id="DT30-00526" pg="21">
       <vedette>
          <sm>Bastide-d'Engras (La),</sm>
       </vedette>
@@ -6529,7 +6530,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bez-et-Esparron</localisation>.</definition>
    </article>
-   <article id="DT30-00547" pg="22">
+   <article type="commune" id="DT30-00547" pg="22">
       <vedette>
          <sm>Baume (La),</sm>
       </vedette>
@@ -7058,7 +7059,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Soudorgues</localisation>.</definition>
    </article>
-   <article id="DT30-00601" pg="23">
+   <article type="commune" id="DT30-00601" pg="23">
       <vedette>
          <sm>Beauvoisin,</sm>
       </vedette>
@@ -7591,7 +7592,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vauvert</localisation>.</definition>
    </article>
-   <article id="DT30-00654" pg="25">
+   <article type="commune" id="DT30-00654" pg="25">
       <vedette>
          <sm>Bellegarde,</sm>
       </vedette>
@@ -7728,7 +7729,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Nimes</localisation>.</definition>
    </article>
-   <article id="DT30-00667" pg="25">
+   <article type="commune" id="DT30-00667" pg="25">
       <vedette>
          <sm>Belvezet,</sm>
       </vedette>
@@ -7878,7 +7879,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Marcel-de-Fontfouillouse</localisation>.</definition>
    </article>
-   <article id="DT30-00684" pg="25">
+   <article type="commune" id="DT30-00684" pg="25">
       <vedette>
          <sm>Bernis,</sm>
       </vedette>
@@ -8057,7 +8058,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Valleraugue</localisation>, à l'embouchure du ruisseau de la Pieyre dans l'Hérault.</definition>
    </article>
-   <article id="DT30-00701" pg="26">
+   <article type="commune" id="DT30-00701" pg="26">
       <vedette>
          <sm>Bessèges,</sm>
       </vedette>
@@ -8141,7 +8142,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Robiac</localisation>.</definition>
    </article>
-   <article id="DT30-00709" pg="26">
+   <article type="commune" id="DT30-00709" pg="26">
       <vedette>
          <sm>Bez,</sm>
       </vedette>
@@ -8204,7 +8205,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Geniès-de-Comolas</localisation>.</definition>
    </article>
-   <article id="DT30-00713" pg="26">
+   <article type="commune" id="DT30-00713" pg="26">
       <vedette>
          <sm>Bezouce,</sm>
       </vedette>
@@ -8556,7 +8557,7 @@
          <date>1731</date> 
          <reference>(arch. départ. C. 1472)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00744" pg="27">
+   <article type="commune" id="DT30-00744" pg="27">
       <vedette>
          <sm>Blandas,</sm>
       </vedette>
@@ -8634,7 +8635,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Sébastien-d'Aigrefeuille</localisation>.</definition>
    </article>
-   <article id="DT30-00748" pg="27">
+   <article type="commune" id="DT30-00748" pg="27">
       <vedette>
          <sm>Blannaves,</sm>
       </vedette>
@@ -8786,7 +8787,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de Saze</localisation> et se jette dans le Rhône sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-00763" pg="28">
+   <article type="commune" id="DT30-00763" pg="28">
       <vedette>
          <sm>Blauzac,</sm>
       </vedette>
@@ -9015,7 +9016,7 @@
          <p>— Parcours : 3,400 m.</p>
       </commentaire>
    </article>
-   <article id="DT30-00786" pg="29">
+   <article type="commune" id="DT30-00786" pg="29">
       <vedette>
          <sm>Boisset,</sm>
       </vedette>
@@ -9168,7 +9169,7 @@
          <p>— Parcours : 4,800 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-00801" pg="29">
+   <article type="commune" id="DT30-00801" pg="29">
       <vedette>
          <sm>Boissières,</sm>
       </vedette>
@@ -9472,7 +9473,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Ponteils-et-Brézis</localisation>.</definition>
    </article>
-   <article id="DT30-00828" pg="30">
+   <article type="commune" id="DT30-00828" pg="30">
       <vedette>
          <sm>Bonnevaux,</sm>
       </vedette>
@@ -9586,7 +9587,7 @@
          <p>— Le nom est resté au cadastre.</p>
       </commentaire>
    </article>
-   <article id="DT30-00838" pg="30">
+   <article type="commune" id="DT30-00838" pg="30">
       <vedette>
          <sm>Bordezac,</sm>
       </vedette>
@@ -9964,7 +9965,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bonnevaux-et-Hiverne</localisation>.</definition>
    </article>
-   <article id="DT30-00882" pg="31">
+   <article type="commune" id="DT30-00882" pg="31">
       <vedette>
          <sm>Boucoiran,</sm>
       </vedette>
@@ -10143,7 +10144,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Tresques</localisation>.</definition>
    </article>
-   <article id="DT30-00898" pg="31">
+   <article type="commune" id="DT30-00898" pg="31">
       <vedette>
          <sm>Bouillargues,</sm>
       </vedette>
@@ -10463,7 +10464,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Mialet</localisation>.</definition>
    </article>
-   <article id="DT30-00927" pg="32">
+   <article type="commune" id="DT30-00927" pg="32">
       <vedette>
          <sm>Bouquet,</sm>
       </vedette>
@@ -10557,7 +10558,7 @@
          <date>1548</date> 
          <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-00935" pg="33">
+   <article type="commune" id="DT30-00935" pg="33">
       <vedette>
          <sm>Bourdic,</sm>
       </vedette>
@@ -11270,7 +11271,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bez-et-Esparon</localisation>.</definition>
    </article>
-   <article id="DT30-01009" pg="34">
+   <article type="commune" id="DT30-01009" pg="34">
       <vedette>
          <sm>Bragassargues,</sm>
       </vedette>
@@ -11458,7 +11459,7 @@
          <date>1576</date> 
          <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01025" pg="35">
+   <article type="commune" id="DT30-01025" pg="35">
       <vedette>
          <sm>Bréau,</sm>
       </vedette>
@@ -11671,7 +11672,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Mus</localisation>.</definition>
    </article>
-   <article id="DT30-01042" pg="36">
+   <article type="commune" id="DT30-01042" pg="36">
       <vedette>
          <sm>Brézis,</sm>
       </vedette>
@@ -11746,7 +11747,7 @@
       <definition>
          <typologie>poste de douaniers</typologie>, <localisation>commune d'Aiguesmortes</localisation>.</definition>
    </article>
-   <article id="DT30-01049" pg="36">
+   <article type="commune" id="DT30-01049" pg="36">
       <vedette>
          <sm>Brignon,</sm>
       </vedette>
@@ -12016,7 +12017,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Germau</localisation>, <localisation>commune de Robiac</localisation>, et se jette dans la Cèze sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-01071" pg="37">
+   <article type="commune" id="DT30-01071" pg="37">
       <vedette>
          <sm>Brouzet,</sm>
       </vedette>
@@ -12053,7 +12054,7 @@
       </commentaire>
       <insee>30054 30055</insee>
    </article>
-   <article id="DT30-01072" pg="37">
+   <article type="commune" id="DT30-01072" pg="37">
       <vedette>
          <sm>Brouzet,</sm>
       </vedette>
@@ -12316,7 +12317,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Roman-de-Codières</localisation>.</definition>
    </article>
-   <article id="DT30-01093" pg="38">
+   <article type="commune" id="DT30-01093" pg="38">
       <vedette>
          <sm>Bruguière (La),</sm>
       </vedette>
@@ -13113,7 +13114,7 @@
          <date>1612</date> 
          <reference>(Robin, not. de Calvisson)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01181" pg="40">
+   <article type="commune" id="DT30-01181" pg="40">
       <vedette>
          <sm>Cabrières,</sm>
       </vedette>
@@ -13410,7 +13411,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Grand'Combe</localisation>.</definition>
    </article>
-   <article id="DT30-01206" pg="41">
+   <article type="commune" id="DT30-01206" pg="41">
       <vedette>
          <sm>Cadière (La),</sm>
       </vedette>
@@ -13737,7 +13738,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Valleraugue</localisation>.</definition>
    </article>
-   <article id="DT30-01231" pg="42">
+   <article type="commune" id="DT30-01231" pg="42">
       <vedette>
          <sm>Calmette (La),</sm>
       </vedette>
@@ -13875,7 +13876,7 @@
          <p>— Il y avait un bac sur le Rhône.</p>
       </commentaire>
    </article>
-   <article id="DT30-01242" pg="42">
+   <article type="commune" id="DT30-01242" pg="42">
       <vedette>
          <sm>Calvisson,</sm>
       </vedette>
@@ -14012,7 +14013,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Colognac</localisation>.</definition>
    </article>
-   <article id="DT30-01252" pg="43">
+   <article type="commune" id="DT30-01252" pg="43">
       <vedette>
          <sm>Cambo,</sm>
       </vedette>
@@ -14552,7 +14553,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Soustelle</localisation>.</definition>
    </article>
-   <article id="DT30-01304" pg="44">
+   <article type="commune" id="DT30-01304" pg="44">
       <vedette>
          <sm>Campestre,</sm>
       </vedette>
@@ -15078,7 +15079,7 @@
          <date>1376</date> 
          <reference>(cart. de la seign. d'Alais, f° 18)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01356" pg="45">
+   <article type="commune" id="DT30-01356" pg="45">
       <vedette>
          <sm>Canaules,</sm>
       </vedette>
@@ -15152,7 +15153,7 @@
          <date>1824</date> 
          <reference>(nomencl. des comm. et ham. du Gard)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01362" pg="46">
+   <article type="commune" id="DT30-01362" pg="46">
       <vedette>
          <sm>Candiac,</sm>
       </vedette>
@@ -15267,7 +15268,7 @@
                <sup>e</sup> siècle</date>, absorbé par la communauté de Combas. — La transaction de <date>mars 1616</date> dit positivement : « Le territoire et juridiction de <i>Cannac,</i> pour lors incluz et uni avec la juridiction de Combas. »</p>
       </commentaire>
    </article>
-   <article id="DT30-01372" pg="46">
+   <article type="commune" id="DT30-01372" pg="46">
       <vedette>
          <sm>Cannes,</sm>
       </vedette>
@@ -15589,7 +15590,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Nimes</localisation>.</definition>
    </article>
-   <article id="DT30-01404" pg="47">
+   <article type="commune" id="DT30-01404" pg="47">
       <vedette>
          <sm>Capelle (La),</sm>
       </vedette>
@@ -15747,7 +15748,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Jean-de-Crieulon</localisation>.</definition>
    </article>
-   <article id="DT30-01421" pg="48">
+   <article type="commune" id="DT30-01421" pg="48">
       <vedette>
          <sm>Cardet,</sm>
       </vedette>
@@ -15830,7 +15831,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bagnols</localisation>.</definition>
    </article>
-   <article id="DT30-01428" pg="48">
+   <article type="commune" id="DT30-01428" pg="48">
       <vedette>
          <sm>Carnas,</sm>
       </vedette>
@@ -16017,7 +16018,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bagard</localisation>.</definition>
    </article>
-   <article id="DT30-01448" pg="48">
+   <article type="commune" id="DT30-01448" pg="48">
       <vedette>
          <sm>Carsan,</sm>
       </vedette>
@@ -16226,7 +16227,7 @@
          <date>1781</date> 
          <reference>(arch. départ. C. 1656)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01466" pg="49">
+   <article type="commune" id="DT30-01466" pg="49">
       <vedette>
          <sm>Cassagnoles,</sm>
       </vedette>
@@ -16496,7 +16497,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-André-de-Valborgne</localisation>.</definition>
    </article>
-   <article id="DT30-01492" pg="50">
+   <article type="commune" id="DT30-01492" pg="50">
       <vedette>
          <sm>Castelnau,</sm>
       </vedette>
@@ -16579,7 +16580,7 @@
          <p>Le marquis de Montmaur en était seigneur en <date>1721</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-01498" pg="50">
+   <article type="commune" id="DT30-01498" pg="50">
       <vedette>
          <sm>Castillon-de-Gagnère,</sm>
       </vedette>
@@ -16611,7 +16612,7 @@
       </commentaire>
       <insee>30120</insee>
    </article>
-   <article id="DT30-01499" pg="50">
+   <article type="commune" id="DT30-01499" pg="50">
       <vedette>
          <sm>Castillon-du-Gard,</sm>
       </vedette>
@@ -16814,7 +16815,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sumène</localisation>.</definition>
    </article>
-   <article id="DT30-01519" pg="51">
+   <article type="commune" id="DT30-01519" pg="51">
       <vedette>
          <sm>Causse-Bégon,</sm>
       </vedette>
@@ -17014,7 +17015,7 @@
          <date>1828</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01537" pg="51">
+   <article type="commune" id="DT30-01537" pg="51">
       <vedette>
          <sm>Caveirac,</sm>
       </vedette>
@@ -17102,7 +17103,7 @@
       <forme_ancienne>— <date>1637</date> 
          <reference>(Griolet, not. de Barjac)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01541" pg="52">
+   <article type="commune" id="DT30-01541" pg="52">
       <vedette>
          <sm>Cavillargues,</sm>
       </vedette>
@@ -17237,7 +17238,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01549" pg="52">
+   <article type="commune" id="DT30-01549" pg="52">
       <vedette>
          <sm>Caylar (Le),</sm>
       </vedette>
@@ -17446,7 +17447,7 @@
          <date>1865</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01565" pg="53">
+   <article type="commune" id="DT30-01565" pg="53">
       <vedette>
          <sm>Cendras,</sm>
       </vedette>
@@ -17573,7 +17574,7 @@
          <date>1693</date> 
          <reference>(Gall. Christ. t. VI, p. 225)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01575" pg="53">
+   <article type="commune" id="DT30-01575" pg="53">
       <vedette>
          <sm>Ceyrac,</sm>
       </vedette>
@@ -17618,7 +17619,7 @@
          <date>1240</date> 
          <reference>(bull. de la Soc. de la Lozère, t. XV)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01578" pg="53">
+   <article type="commune" id="DT30-01578" pg="53">
       <vedette>
          <sm>Cézas,</sm>
       </vedette>
@@ -17776,7 +17777,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Nimes</localisation>.</definition>
    </article>
-   <article id="DT30-01592" pg="54">
+   <article type="commune" id="DT30-01592" pg="54">
       <vedette>
          <sm>Chambon,</sm>
       </vedette>
@@ -17836,7 +17837,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01597" pg="54">
+   <article type="commune" id="DT30-01597" pg="54">
       <vedette>
          <sm>Chamborigaud,</sm>
       </vedette>
@@ -18903,7 +18904,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-01688" pg="57">
+   <article type="commune" id="DT30-01688" pg="57">
       <vedette>
          <sm>Chusclan,</sm>
       </vedette>
@@ -19019,7 +19020,7 @@
          <date>1715</date> 
          <reference>(J.-B. Nolin, <i>Carte du dioc. d'Uzès</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01696" pg="58">
+   <article type="commune" id="DT30-01696" pg="58">
       <vedette>
          <sm>Clairan,</sm>
       </vedette>
@@ -19187,7 +19188,7 @@
          <date>1466</date> 
          <reference>(J. Montfajon, not. du Vigan)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01714" pg="58">
+   <article type="commune" id="DT30-01714" pg="58">
       <vedette>
          <sm>Clarensac,</sm>
       </vedette>
@@ -19838,7 +19839,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Castillon-du-Gard</localisation>.</definition>
    </article>
-   <article id="DT30-01778" pg="60">
+   <article type="commune" id="DT30-01778" pg="60">
       <vedette>
          <sm>Codognan,</sm>
       </vedette>
@@ -19879,7 +19880,7 @@
       </commentaire>
       <insee>30083</insee>
    </article>
-   <article id="DT30-01779" pg="60">
+   <article type="commune" id="DT30-01779" pg="60">
       <vedette>
          <sm>Codolet,</sm>
       </vedette>
@@ -20130,7 +20131,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01798" pg="61">
+   <article type="commune" id="DT30-01798" pg="61">
       <vedette>
          <sm>Colias,</sm>
       </vedette>
@@ -20218,7 +20219,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Concoules</localisation>.</definition>
    </article>
-   <article id="DT30-01801" pg="61">
+   <article type="commune" id="DT30-01801" pg="61">
       <vedette>
          <sm>Colognac,</sm>
       </vedette>
@@ -20365,7 +20366,7 @@
       <forme_ancienne>— <date>1548</date> 
          <reference>(arch. départ. C. 1800)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01816" pg="62">
+   <article type="commune" id="DT30-01816" pg="62">
       <vedette>
          <sm>Colorgues,</sm>
       </vedette>
@@ -20514,7 +20515,7 @@
          <date>1514</date> 
          <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01823" pg="62">
+   <article type="commune" id="DT30-01823" pg="62">
       <vedette>
          <sm>Combas,</sm>
       </vedette>
@@ -21110,7 +21111,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Comeyro</localisation>, <localisation>commune de Saint-Bresson</localisation>, et se jette dans la Vis sur le <localisation>territoire de la commune de Saint-Laurent-le-Minier</localisation>.</definition>
    </article>
-   <article id="DT30-01886" pg="64">
+   <article type="commune" id="DT30-01886" pg="64">
       <vedette>
          <sm>Comiac,</sm>
       </vedette>
@@ -21171,7 +21172,7 @@
       <definition>
          <typologie>abîme</typologie>, <localisation>commune de Saint-Sébastien-d'Aigrefeuille</localisation>.</definition>
    </article>
-   <article id="DT30-01892" pg="64">
+   <article type="commune" id="DT30-01892" pg="64">
       <vedette>
          <sm>Comps,</sm>
       </vedette>
@@ -21208,7 +21209,7 @@
       <definition>
          <typologie>île du Rhône</typologie>, <localisation>commune de Beaucaire</localisation>.</definition>
    </article>
-   <article id="DT30-01895" pg="64">
+   <article type="commune" id="DT30-01895" pg="64">
       <vedette>
          <sm>Concoules,</sm>
       </vedette>
@@ -21361,7 +21362,7 @@
       <forme_ancienne>— <date>1766</date> 
          <reference>(arch. départ. C. 1580)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01905" pg="65">
+   <article type="commune" id="DT30-01905" pg="65">
       <vedette>
          <pg>65</pg>
          <sm>Congéniès,</sm>
@@ -21450,7 +21451,7 @@
                <sup>e</sup> siècle</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-01908" pg="65">
+   <article type="commune" id="DT30-01908" pg="65">
       <vedette>
          <sm>Connaux,</sm>
       </vedette>
@@ -21529,7 +21530,7 @@
       <definition>
          <typologie>quartier</typologie>, <localisation>commune d'Arrigas</localisation>.</definition>
    </article>
-   <article id="DT30-01913" pg="65">
+   <article type="commune" id="DT30-01913" pg="65">
       <vedette>
          <sm>Conqueirac,</sm>
       </vedette>
@@ -21736,7 +21737,7 @@
          <p>— Parcours : 3,500 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-01933" pg="66">
+   <article type="commune" id="DT30-01933" pg="66">
       <vedette>
          <sm>Corbès,</sm>
       </vedette>
@@ -21793,7 +21794,7 @@
       <definition>
          <typologie>quartier</typologie>, <localisation>commune de Bréau-et-Salagosse</localisation>.</definition>
    </article>
-   <article id="DT30-01938" pg="66">
+   <article type="commune" id="DT30-01938" pg="66">
       <vedette>
          <sm>Corconne,</sm>
       </vedette>
@@ -21904,7 +21905,7 @@
       <forme_ancienne>— <i>La Cournilhe</i> 
          <reference>(cad. de Remoulins)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-01946" pg="66">
+   <article type="commune" id="DT30-01946" pg="66">
       <vedette>
          <sm>Cornillon,</sm>
       </vedette>
@@ -22872,7 +22873,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Roquedur</localisation>.</definition>
    </article>
-   <article id="DT30-02039" pg="69">
+   <article type="commune" id="DT30-02039" pg="69">
       <vedette>
          <sm>Courry,</sm>
       </vedette>
@@ -23210,7 +23211,7 @@
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Vèzenobre</localisation>.</definition>
    </article>
-   <article id="DT30-02077" pg="70">
+   <article type="commune" id="DT30-02077" pg="70">
       <vedette>
          <sm>Crespian,</sm>
       </vedette>
@@ -23485,7 +23486,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saze</localisation>.</definition>
    </article>
-   <article id="DT30-02106" pg="70">
+   <article type="commune" id="DT30-02106" pg="70">
       <vedette>
          <sm>Cros (Le),</sm>
       </vedette>
@@ -23917,7 +23918,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02150" pg="72">
+   <article type="commune" id="DT30-02150" pg="72">
       <vedette>
          <sm>Cruviers,</sm>
       </vedette>
@@ -24241,7 +24242,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Just-et-Vaquières</localisation>.</definition>
    </article>
-   <article id="DT30-02179" pg="72">
+   <article type="commune" id="DT30-02179" pg="72">
       <vedette>
          <sm>Deaux,</sm>
       </vedette>
@@ -24626,7 +24627,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Aimargues</localisation>.</definition>
    </article>
-   <article id="DT30-02222" pg="73">
+   <article type="commune" id="DT30-02222" pg="73">
       <vedette>
          <sm>Dions,</sm>
       </vedette>
@@ -24720,7 +24721,7 @@
          <p>— C'est aujourd'hui la paroisse de Saint-Charles.</p>
       </commentaire>
    </article>
-   <article id="DT30-02227" pg="74">
+   <article type="commune" id="DT30-02227" pg="74">
       <vedette>
          <sm>Domazan,</sm>
       </vedette>
@@ -24780,7 +24781,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Chamborigaud</localisation>.</definition>
    </article>
-   <article id="DT30-02230" pg="74">
+   <article type="commune" id="DT30-02230" pg="74">
       <vedette>
          <sm>Domessargues,</sm>
       </vedette>
@@ -24989,7 +24990,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de Valleraugue</localisation> et se jette dans l'Hérault sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-02248" pg="75">
+   <article type="commune" id="DT30-02248" pg="75">
       <vedette>
          <sm>Dourbie,</sm>
       </vedette>
@@ -25216,7 +25217,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Valabrègue</localisation>.</definition>
    </article>
-   <article id="DT30-02270" pg="75">
+   <article type="commune" id="DT30-02270" pg="75">
       <vedette>
          <sm>Durfort,</sm>
       </vedette>
@@ -25397,7 +25398,7 @@
          <date>1430</date> 
          <reference>(A. Montfajon, not. du Vigan)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02286" pg="76">
+   <article type="commune" id="DT30-02286" pg="76">
       <vedette>
          <sm>Elze,</sm>
       </vedette>
@@ -25987,7 +25988,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de Saint-Chapte</localisation> et se jette dans le Bourdiguet sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-02344" pg="78">
+   <article type="commune" id="DT30-02344" pg="78">
       <vedette>
          <sm>Esparron,</sm>
       </vedette>
@@ -26454,7 +26455,7 @@
                <sup>e</sup> siècle</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-02375" pg="79">
+   <article type="commune" id="DT30-02375" pg="79">
       <vedette>
          <sm>Estézargues,</sm>
       </vedette>
@@ -26593,7 +26594,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune du Cros</localisation>.</definition>
    </article>
-   <article id="DT30-02387" pg="80">
+   <article type="commune" id="DT30-02387" pg="80">
       <vedette>
          <sm>Euzet,</sm>
       </vedette>
@@ -28280,7 +28281,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Gajan</localisation>, sur la Braüne.</definition>
    </article>
-   <article id="DT30-02563" pg="84">
+   <article type="commune" id="DT30-02563" pg="84">
       <vedette>
          <sm>Flaux,</sm>
       </vedette>
@@ -28455,7 +28456,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Paulet-de-Caisson</localisation>.</definition>
    </article>
-   <article id="DT30-02575" pg="84">
+   <article type="commune" id="DT30-02575" pg="84">
       <vedette>
          <sm>Foissac,</sm>
       </vedette>
@@ -28590,7 +28591,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Bagnols</localisation>, autrefois <localisation>commune de Saint-Nazaire</localisation>.</definition>
    </article>
-   <article id="DT30-02584" pg="85">
+   <article type="commune" id="DT30-02584" pg="85">
       <vedette>
          <sm>Fons,</sm>
       </vedette>
@@ -28679,7 +28680,7 @@
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Trèves</localisation>.</definition>
    </article>
-   <article id="DT30-02591" pg="85">
+   <article type="commune" id="DT30-02591" pg="85">
       <vedette>
          <sm>Fons-sur-Lussan,</sm>
       </vedette>
@@ -28993,7 +28994,7 @@
          <date>1376</date> 
          <reference>(cart. de la seign. d'Alais, f° 48)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02621" pg="86">
+   <article type="commune" id="DT30-02621" pg="86">
       <vedette>
          <sm>Fontanès,</sm>
       </vedette>
@@ -29176,7 +29177,7 @@
       <forme_ancienne>— <i>Fontaraine</i> 
          <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02638" pg="86">
+   <article type="commune" id="DT30-02638" pg="86">
       <vedette>
          <sm>Fontarèche,</sm>
       </vedette>
@@ -31100,7 +31101,7 @@
                <sup>e</sup> siècle</date>, par Pierre Le Blanc, seigneur de la Rouvière, juge royal ordinaire de Nimes, qui en portait le nom.</p>
       </commentaire>
    </article>
-   <article id="DT30-02828" pg="91">
+   <article type="commune" id="DT30-02828" pg="91">
       <vedette>
          <sm>Fourques,</sm>
       </vedette>
@@ -31492,7 +31493,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Barjac</localisation>.</definition>
    </article>
-   <article id="DT30-02864" pg="93">
+   <article type="commune" id="DT30-02864" pg="93">
       <vedette>
          <pg>93</pg>
          <sm>Fressac,</sm>
@@ -31875,7 +31876,7 @@
       <definition>
          <typologie>rivière</typologie> qui prend sa source à <localisation>Malons</localisation> même, entre dans le département de l'Ardèche, où elle arrose les <localisation>communes de Brahic et de Malbos</localisation>, et rentre dans le département du Gard par la <localisation>commune de Castillon-de-Gagnère</localisation>, sur le territoire de laquelle elle se jette dans la Cèze.</definition>
    </article>
-   <article id="DT30-02909" pg="94">
+   <article type="commune" id="DT30-02909" pg="94">
       <vedette>
          <sm>Gailhan,</sm>
       </vedette>
@@ -31940,7 +31941,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Valabrègue</localisation>.</definition>
    </article>
-   <article id="DT30-02915" pg="94">
+   <article type="commune" id="DT30-02915" pg="94">
       <vedette>
          <sm>Gajan,</sm>
       </vedette>
@@ -32037,7 +32038,7 @@
          <date>1824</date> 
          <reference>(Nomencl. des comm. et ham. du Gard ; Arman, <i>Tabl. milit. du Vigan,</i> p. <sm>xxvii</sm>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02920" pg="94">
+   <article type="commune" id="DT30-02920" pg="94">
       <vedette>
          <sm>Galargues,</sm>
       </vedette>
@@ -32601,7 +32602,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Julien-de-Peyrolas</localisation>.</definition>
    </article>
-   <article id="DT30-02965" pg="96">
+   <article type="commune" id="DT30-02965" pg="96">
       <vedette>
          <sm>Garn (Le),</sm>
       </vedette>
@@ -32666,7 +32667,7 @@
       <definition>
          <typologie>torrent</typologie> qui descend, par les grandes pluies, des <localisation>collines de Garons</localisation> sur la <localisation>plaine de Saint-Gilles</localisation>.</definition>
    </article>
-   <article id="DT30-02970" pg="97">
+   <article type="commune" id="DT30-02970" pg="97">
       <vedette>
          <sm>Garons,</sm>
       </vedette>
@@ -32734,7 +32735,7 @@
          <date>1539</date> 
          <reference>(arch. départ. C. 1773)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02975" pg="97">
+   <article type="commune" id="DT30-02975" pg="97">
       <vedette>
          <sm>Garrigues,</sm>
       </vedette>
@@ -32885,7 +32886,7 @@
       <forme_ancienne>— <date>1550</date> 
          <reference>(arch. départ. C. 1782)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-02989" pg="97">
+   <article type="commune" id="DT30-02989" pg="97">
       <vedette>
          <sm>Gaujac,</sm>
       </vedette>
@@ -32934,7 +32935,7 @@
       </commentaire>
       <insee>30042 30127</insee>
    </article>
-   <article id="DT30-02990" pg="98">
+   <article type="commune" id="DT30-02990" pg="98">
       <vedette>
          <sm>Gaujac,</sm>
       </vedette>
@@ -33232,7 +33233,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Aiguesmortes</localisation>, près de la chaussée de <i>la Peyrade,</i> où s'est embarqué le roi saint Louis.</definition>
    </article>
-   <article id="DT30-03015" pg="99">
+   <article type="commune" id="DT30-03015" pg="99">
       <vedette>
          <sm>Générac,</sm>
       </vedette>
@@ -33294,7 +33295,7 @@
       </commentaire>
       <insee>30128</insee>
    </article>
-   <article id="DT30-03016" pg="99">
+   <article type="commune" id="DT30-03016" pg="99">
       <vedette>
          <sm>Générargues,</sm>
       </vedette>
@@ -33340,7 +33341,7 @@
       <forme_ancienne>— <date>1773</date> 
          <reference>(compoix de Saint-Christol-de-Rodières)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03019" pg="99">
+   <article type="commune" id="DT30-03019" pg="99">
       <vedette>
          <sm>Génolhac,</sm>
       </vedette>
@@ -33760,7 +33761,7 @@
       <definition>
          <typologie>ferme</typologie> sur une montagne du même nom, <localisation>commune de Saint-Martin-de-Corconac</localisation>.</definition>
    </article>
-   <article id="DT30-03059" pg="100">
+   <article type="commune" id="DT30-03059" pg="100">
       <vedette>
          <sm>Goudargues,</sm>
       </vedette>
@@ -34140,7 +34141,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune du Vigan</localisation>.</definition>
    </article>
-   <article id="DT30-03099" pg="101">
+   <article type="commune" id="DT30-03099" pg="101">
       <vedette>
          <sm>Grand'Combe (La),</sm>
       </vedette>
@@ -35414,7 +35415,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Avèze</localisation>.</definition>
    </article>
-   <article id="DT30-03243" pg="104">
+   <article type="commune" id="DT30-03243" pg="104">
       <vedette>
          <sm>Hiverne,</sm>
       </vedette>
@@ -35570,7 +35571,7 @@
       <definition>
          <typologie>ferme et ruisseau</typologie>, <localisation>commune de Valleraugue</localisation>, sur une pente de l'Aigoual.</definition>
    </article>
-   <article id="DT30-03257" pg="105">
+   <article type="commune" id="DT30-03257" pg="105">
       <vedette>
          <sm>Hortoux,</sm>
       </vedette>
@@ -36133,7 +36134,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Martial</localisation>.</definition>
    </article>
-   <article id="DT30-03317" pg="106">
+   <article type="commune" id="DT30-03317" pg="106">
       <vedette>
          <sm>Issirac,</sm>
       </vedette>
@@ -36735,7 +36736,7 @@
          <date>1555</date> 
          <reference>(arch. départ. G. 167)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03383" pg="108">
+   <article type="commune" id="DT30-03383" pg="108">
       <vedette>
          <sm>Jonquières,</sm>
       </vedette>
@@ -36821,7 +36822,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-03388" pg="108">
+   <article type="commune" id="DT30-03388" pg="108">
       <vedette>
          <sm>Junas,</sm>
       </vedette>
@@ -37344,7 +37345,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Uzès</localisation>.</definition>
    </article>
-   <article id="DT30-03439" pg="110">
+   <article type="commune" id="DT30-03439" pg="110">
       <vedette>
          <sm>Langlade,</sm>
       </vedette>
@@ -37478,7 +37479,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-03448" pg="110">
+   <article type="commune" id="DT30-03448" pg="110">
       <vedette>
          <sm>Lanuéjols,</sm>
       </vedette>
@@ -37661,7 +37662,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune des Salles-du-Gardon</localisation>.</definition>
    </article>
-   <article id="DT30-03462" pg="111">
+   <article type="commune" id="DT30-03462" pg="111">
       <vedette>
          <sm>Lascours,</sm>
       </vedette>
@@ -37795,7 +37796,7 @@
          <date>1812</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03474" pg="111">
+   <article type="commune" id="DT30-03474" pg="111">
       <vedette>
          <sm>Laudun,</sm>
       </vedette>
@@ -38259,7 +38260,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03512" pg="113">
+   <article type="commune" id="DT30-03512" pg="113">
       <vedette>
          <sm>Laval,</sm>
       </vedette>
@@ -38327,7 +38328,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Seynes</localisation>.</definition>
    </article>
-   <article id="DT30-03516" pg="113">
+   <article type="commune" id="DT30-03516" pg="113">
       <vedette>
          <sm>Laval-Saint-Roman,</sm>
       </vedette>
@@ -38369,7 +38370,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Robiac</localisation>.</definition>
    </article>
-   <article id="DT30-03520" pg="113">
+   <article type="commune" id="DT30-03520" pg="113">
       <vedette>
          <sm>Lédenon,</sm>
       </vedette>
@@ -38665,7 +38666,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Lussan</localisation>.</definition>
    </article>
-   <article id="DT30-03542" pg="114">
+   <article type="commune" id="DT30-03542" pg="114">
       <vedette>
          <sm>Lèques,</sm>
       </vedette>
@@ -38930,7 +38931,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Génolhac</localisation>.</definition>
    </article>
-   <article id="DT30-03565" pg="115">
+   <article type="commune" id="DT30-03565" pg="115">
       <vedette>
          <sm>Lézan,</sm>
       </vedette>
@@ -39147,7 +39148,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Valleraugue</localisation>.</definition>
    </article>
-   <article id="DT30-03581" pg="115">
+   <article type="commune" id="DT30-03581" pg="115">
       <vedette>
          <sm>Liouc,</sm>
       </vedette>
@@ -39360,7 +39361,7 @@
       <forme_ancienne>— <date>1786</date> 
          <reference>(arch. départ. C. 1666)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03599" pg="116">
+   <article type="commune" id="DT30-03599" pg="116">
       <vedette>
          <sm>Lirac,</sm>
       </vedette>
@@ -39578,7 +39579,7 @@
       <forme_ancienne>— <i>Pauljardin</i> (sic), <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03611" pg="117">
+   <article type="commune" id="DT30-03611" pg="117">
       <vedette>
          <sm>Logrian,</sm>
       </vedette>
@@ -39872,7 +39873,7 @@
       <forme_ancienne>— <date>1559</date> 
          <reference>(arch. départ. C. 96)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03638" pg="118">
+   <article type="commune" id="DT30-03638" pg="118">
       <vedette>
          <sm>Luc,</sm>
       </vedette>
@@ -40219,7 +40220,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Tornac</localisation>.</definition>
    </article>
-   <article id="DT30-03663" pg="119">
+   <article type="commune" id="DT30-03663" pg="119">
       <vedette>
          <sm>Mages (Les),</sm>
       </vedette>
@@ -40980,7 +40981,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Valliguière</localisation>.</definition>
    </article>
-   <article id="DT30-03736" pg="121">
+   <article type="commune" id="DT30-03736" pg="121">
       <vedette>
          <sm>Malons,</sm>
       </vedette>
@@ -41099,7 +41100,7 @@
          <date>1311</date> 
          <reference>(arch. commun. de Colias)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03745" pg="121">
+   <article type="commune" id="DT30-03745" pg="121">
       <vedette>
          <sm>Mamolène,</sm>
       </vedette>
@@ -41155,7 +41156,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Rochefort</localisation>.</definition>
    </article>
-   <article id="DT30-03747" pg="121">
+   <article type="commune" id="DT30-03747" pg="121">
       <vedette>
          <sm>Mandagout,</sm>
       </vedette>
@@ -41233,7 +41234,7 @@
          <date>1549</date> 
          <reference>(arch. départ. C. 1790)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03751" pg="122">
+   <article type="commune" id="DT30-03751" pg="122">
       <vedette>
          <sm>Manduel,</sm>
       </vedette>
@@ -41667,7 +41668,7 @@
       <definition>
          <typologie>quartier</typologie>, <localisation>commune d'Arrigas</localisation>.</definition>
    </article>
-   <article id="DT30-03790" pg="123">
+   <article type="commune" id="DT30-03790" pg="123">
       <vedette>
          <sm>Mars,</sm>
       </vedette>
@@ -41722,7 +41723,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bellegarde</localisation>.</definition>
    </article>
-   <article id="DT30-03793" pg="124">
+   <article type="commune" id="DT30-03793" pg="124">
       <vedette>
          <pg>124</pg>
          <sm>Martignargues,</sm>
@@ -41882,7 +41883,7 @@
       <forme_ancienne>— <date>1786</date> 
          <reference>(arch. départ. C. 1666)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-03810" pg="124">
+   <article type="commune" id="DT30-03810" pg="124">
       <vedette>
          <sm>Maruéjols,</sm>
       </vedette>
@@ -41943,7 +41944,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de Saint-Cosme-et-Maruéjols</localisation> et se jette dans le Rieutort sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-03813" pg="124">
+   <article type="commune" id="DT30-03813" pg="124">
       <vedette>
          <sm>Maruéjols-lez-Gardon,</sm>
       </vedette>
@@ -45168,7 +45169,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Félix-de-Pallières</localisation>.</definition>
    </article>
-   <article id="DT30-04192" pg="131">
+   <article type="commune" id="DT30-04192" pg="131">
       <vedette>
          <sm>Massanes,</sm>
       </vedette>
@@ -45396,7 +45397,7 @@
                <sup>e</sup> siècle</date>, l'inféoda à François Huc du Merlet, conseiller au présidial de Nimes. Celui-ci la vendit à son tour, <date>vers 1750</date>, à Guillaume Daunant, lieutenant laïc de la sénéchaussée de Nimes.</p>
       </commentaire>
    </article>
-   <article id="DT30-04212" pg="131">
+   <article type="commune" id="DT30-04212" pg="131">
       <vedette>
          <sm>Massillargues,</sm>
       </vedette>
@@ -45714,7 +45715,7 @@
          <date>1474</date> 
          <reference>(J. Brun, not. de Saint-Geniès-en-Malgoirès)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04243" pg="132">
+   <article type="commune" id="DT30-04243" pg="132">
       <vedette>
          <sm>Mauressargues,</sm>
       </vedette>
@@ -46419,7 +46420,7 @@
       <forme_ancienne>— <date>1542</date> 
          <reference>(arch. départ. C. 1810)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04314" pg="134">
+   <article type="commune" id="DT30-04314" pg="134">
       <vedette>
          <sm>Méjanes-le-Clap,</sm>
       </vedette>
@@ -46444,7 +46445,7 @@
       </commentaire>
       <insee>30164</insee>
    </article>
-   <article id="DT30-04315" pg="134">
+   <article type="commune" id="DT30-04315" pg="134">
       <vedette>
          <sm>Méjanes-lez-Alais,</sm>
       </vedette>
@@ -46525,7 +46526,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04320" pg="134">
+   <article type="commune" id="DT30-04320" pg="134">
       <vedette>
          <sm>Melouse (La),</sm>
       </vedette>
@@ -46909,7 +46910,7 @@
       <forme_ancienne>— <date>1552</date> 
          <reference>(arch. départ. C. 1776)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04357" pg="135">
+   <article type="commune" id="DT30-04357" pg="135">
       <vedette>
          <sm>Meynes,</sm>
       </vedette>
@@ -46980,7 +46981,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Castillon-de-Gagnère</localisation>.</definition>
    </article>
-   <article id="DT30-04360" pg="136">
+   <article type="commune" id="DT30-04360" pg="136">
       <vedette>
          <sm>Meyranes,</sm>
       </vedette>
@@ -47050,7 +47051,7 @@
       <forme_ancienne>— <date>1553</date> 
          <reference>(arch. dép. C. 1791)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04364" pg="136">
+   <article type="commune" id="DT30-04364" pg="136">
       <vedette>
          <sm>Mialet,</sm>
       </vedette>
@@ -47144,7 +47145,7 @@
       <definition>
          <typologie>moulin</typologie> sur l'<localisation>Hérault</localisation>, <localisation>commune de Valleraugue</localisation>.</definition>
    </article>
-   <article id="DT30-04372" pg="136">
+   <article type="commune" id="DT30-04372" pg="136">
       <vedette>
          <sm>Milhau,</sm>
       </vedette>
@@ -47534,7 +47535,7 @@
          <date>1349</date> 
          <reference>(cart. de la seigneurie d'Alais, f° 48)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04407" pg="137">
+   <article type="commune" id="DT30-04407" pg="137">
       <vedette>
          <sm>Molières,</sm>
       </vedette>
@@ -47723,7 +47724,7 @@
          <p>— Parcours : 5,300 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-04426" pg="138">
+   <article type="commune" id="DT30-04426" pg="138">
       <vedette>
          <sm>Monoblet,</sm>
       </vedette>
@@ -47771,7 +47772,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Monoblet</localisation>.</definition>
    </article>
-   <article id="DT30-04429" pg="138">
+   <article type="commune" id="DT30-04429" pg="138">
       <vedette>
          <sm>Mons,</sm>
       </vedette>
@@ -47834,7 +47835,7 @@
          <date>1812</date> 
          <reference>(not. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04433" pg="138">
+   <article type="commune" id="DT30-04433" pg="138">
       <vedette>
          <sm>Montagnac,</sm>
       </vedette>
@@ -47977,7 +47978,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>communes de Valleraugue et de Dourbie</localisation>.</definition>
    </article>
-   <article id="DT30-04442" pg="139">
+   <article type="commune" id="DT30-04442" pg="139">
       <vedette>
          <sm>Montaren,</sm>
       </vedette>
@@ -48099,7 +48100,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Barjac</localisation>.</definition>
    </article>
-   <article id="DT30-04450" pg="139">
+   <article type="commune" id="DT30-04450" pg="139">
       <vedette>
          <sm>Montclus,</sm>
       </vedette>
@@ -48142,7 +48143,7 @@
       <definition>
          <typologie>quartier</typologie>, <localisation>commune d'Aramon</localisation>.</definition>
    </article>
-   <article id="DT30-04452" pg="140">
+   <article type="commune" id="DT30-04452" pg="140">
       <vedette>
          <sm>Montdardier,</sm>
       </vedette>
@@ -48268,7 +48269,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Belvezet</localisation>.</definition>
    </article>
-   <article id="DT30-04462" pg="140">
+   <article type="commune" id="DT30-04462" pg="140">
       <vedette>
          <sm>Monteils,</sm>
       </vedette>
@@ -48495,7 +48496,7 @@
       <definition>
          <typologie>grotte</typologie>, <localisation>commune de Montdardier</localisation>.</definition>
    </article>
-   <article id="DT30-04478" pg="141">
+   <article type="commune" id="DT30-04478" pg="141">
       <vedette>
          <sm>Montfaucon,</sm>
       </vedette>
@@ -48584,7 +48585,7 @@
       <definition>
          <typologie>hameau et château ruiné</typologie>, <localisation>commune de Thoiras</localisation>.</definition>
    </article>
-   <article id="DT30-04485" pg="141">
+   <article type="commune" id="DT30-04485" pg="141">
       <vedette>
          <sm>Montfrin,</sm>
       </vedette>
@@ -48682,7 +48683,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vénéjan</localisation>.</definition>
    </article>
-   <article id="DT30-04492" pg="141">
+   <article type="commune" id="DT30-04492" pg="141">
       <vedette>
          <sm>Montignargues,</sm>
       </vedette>
@@ -48848,7 +48849,7 @@
       <forme_ancienne>— <date>1812</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04506" pg="142">
+   <article type="commune" id="DT30-04506" pg="142">
       <vedette>
          <sm>Montmirat,</sm>
       </vedette>
@@ -48926,7 +48927,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Saint-Clément</localisation>.</definition>
    </article>
-   <article id="DT30-04509" pg="142">
+   <article type="commune" id="DT30-04509" pg="142">
       <vedette>
          <sm>Montpezat,</sm>
       </vedette>
@@ -49310,7 +49311,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Verfeuil</localisation>.</definition>
    </article>
-   <article id="DT30-04537" pg="143">
+   <article type="commune" id="DT30-04537" pg="143">
       <vedette>
          <sm>Moulézan,</sm>
       </vedette>
@@ -50877,7 +50878,7 @@
          <date>1833</date> 
          <reference>(cad. de Mars)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04699" pg="148">
+   <article type="commune" id="DT30-04699" pg="148">
       <vedette>
          <sm>Moussac,</sm>
       </vedette>
@@ -51061,7 +51062,7 @@
          <date>1733</date> 
          <reference>(pap. de la fam. Séguret, arch. hosp. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04715" pg="148">
+   <article type="commune" id="DT30-04715" pg="148">
       <vedette>
          <sm>Mus,</sm>
       </vedette>
@@ -51151,7 +51152,7 @@
          <p>— Parcours : 3,100 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-04721" pg="149">
+   <article type="commune" id="DT30-04721" pg="149">
       <vedette>
          <sm>Nages,</sm>
       </vedette>
@@ -51239,7 +51240,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Laudun</localisation>.</definition>
    </article>
-   <article id="DT30-04725" pg="149">
+   <article type="commune" id="DT30-04725" pg="149">
       <vedette>
          <sm>Navacelle,</sm>
       </vedette>
@@ -51422,7 +51423,7 @@
          <date>1081</date> 
          <reference>(cart. de Saint-Victor de Marseille, ch. 859)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04738" pg="150">
+   <article type="commune" id="DT30-04738" pg="150">
       <vedette>
          <sm>Ners,</sm>
       </vedette>
@@ -51487,7 +51488,7 @@
          <date>1721</date> 
          <reference>(bull. de la Soc. de Mende, t. XVI, p. 160)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-04742" pg="150">
+   <article type="commune" id="DT30-04742" pg="150">
       <vedette>
          <sm>Nimes,</sm>
       </vedette>
@@ -52780,7 +52781,7 @@
          <typologie>montagne</typologie>, <localisation>commune de Bréau-et-Salagosse</localisation> 
          <reference>(Rivoire, <i>Statist. du Gard,</i> t. II)</reference>.</definition>
    </article>
-   <article id="DT30-04820" pg="156">
+   <article type="commune" id="DT30-04820" pg="156">
       <vedette>
          <sm>Nozières,</sm>
       </vedette>
@@ -53046,7 +53047,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-04846" pg="157">
+   <article type="commune" id="DT30-04846" pg="157">
       <vedette>
          <sm>Orsan,</sm>
       </vedette>
@@ -53857,7 +53858,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Jean-du-Gard</localisation>.</definition>
    </article>
-   <article id="DT30-04930" pg="159">
+   <article type="commune" id="DT30-04930" pg="159">
       <vedette>
          <sm>Parignargues,</sm>
       </vedette>
@@ -53968,7 +53969,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Mars</localisation>.</definition>
    </article>
-   <article id="DT30-04939" pg="159">
+   <article type="commune" id="DT30-04939" pg="159">
       <vedette>
          <sm>Paroisse-du-Vigan (La),</sm>
       </vedette>
@@ -55461,7 +55462,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Caveirac</localisation>.</definition>
    </article>
-   <article id="DT30-05105" pg="162">
+   <article type="commune" id="DT30-05105" pg="162">
       <vedette>
          <sm>Peyremale,</sm>
       </vedette>
@@ -55626,7 +55627,7 @@
          <date>1310</date> 
          <reference>(Mén. I, pr. p. 193, c. 1)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05120" pg="163">
+   <article type="commune" id="DT30-05120" pg="163">
       <vedette>
          <sm>Peyrolles,</sm>
       </vedette>
@@ -56140,7 +56141,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sernhac</localisation>, avec une source qui se jette dans le Gardon.</definition>
    </article>
-   <article id="DT30-05176" pg="164">
+   <article type="commune" id="DT30-05176" pg="164">
       <vedette>
          <sm>Pin (Le),</sm>
       </vedette>
@@ -56766,7 +56767,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Chambon</localisation>.</definition>
    </article>
-   <article id="DT30-05246" pg="165">
+   <article type="commune" id="DT30-05246" pg="165">
       <vedette>
          <sm>Plans (Les),</sm>
       </vedette>
@@ -57164,7 +57165,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Fontanès</localisation>.</definition>
    </article>
-   <article id="DT30-05283" pg="166">
+   <article type="commune" id="DT30-05283" pg="166">
       <vedette>
          <sm>Pommiers,</sm>
       </vedette>
@@ -57207,7 +57208,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Alais</localisation>.</definition>
    </article>
-   <article id="DT30-05285" pg="166">
+   <article type="commune" id="DT30-05285" pg="166">
       <vedette>
          <sm>Pompignan,</sm>
       </vedette>
@@ -57760,7 +57761,7 @@
       <forme_ancienne>— <date>1750</date> 
          <reference>(arch. départ. C. 1662)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05333" pg="168">
+   <article type="commune" id="DT30-05333" pg="168">
       <vedette>
          <sm>Ponteils,</sm>
       </vedette>
@@ -58033,7 +58034,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-André-de-Majencoules</localisation>.</definition>
    </article>
-   <article id="DT30-05356" pg="169">
+   <article type="commune" id="DT30-05356" pg="169">
       <vedette>
          <sm>Portes,</sm>
       </vedette>
@@ -58167,7 +58168,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Aiguesmortes</localisation>.</definition>
    </article>
-   <article id="DT30-05365" pg="170">
+   <article type="commune" id="DT30-05365" pg="170">
       <vedette>
          <sm>Potellières,</sm>
       </vedette>
@@ -58252,7 +58253,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sumène</localisation>.</definition>
    </article>
-   <article id="DT30-05372" pg="170">
+   <article type="commune" id="DT30-05372" pg="170">
       <vedette>
          <sm>Pougnadoresse,</sm>
       </vedette>
@@ -58504,7 +58505,7 @@
       <forme_ancienne>— <date>1554</date> 
          <reference>(arch. départ. C. 1801)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05396" pg="171">
+   <article type="commune" id="DT30-05396" pg="171">
       <vedette>
          <sm>Poulx,</sm>
       </vedette>
@@ -58624,7 +58625,7 @@
       <forme_ancienne>— <date>1776</date> 
          <reference>(arch. départ. C. 1665)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05405" pg="171">
+   <article type="commune" id="DT30-05405" pg="171">
       <vedette>
          <sm>Pouzilhac,</sm>
       </vedette>
@@ -60328,7 +60329,7 @@
       <forme_ancienne>— <date>1823</date> 
          <reference>(Viguier, <i>Notice sur Anduze</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05559" pg="175">
+   <article type="commune" id="DT30-05559" pg="175">
       <vedette>
          <sm>Puechredon,</sm>
       </vedette>
@@ -60604,7 +60605,7 @@
       <forme_ancienne>— <date>1541</date> 
          <reference>(arch. départ. C. 1795)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-05583" pg="176">
+   <article type="commune" id="DT30-05583" pg="176">
       <vedette>
          <sm>Pujaut,</sm>
       </vedette>
@@ -60882,7 +60883,7 @@
       <definition>
          <typologie>ferme et montagne</typologie>, <localisation>commune de Mars</localisation>.</definition>
    </article>
-   <article id="DT30-05608" pg="177">
+   <article type="commune" id="DT30-05608" pg="177">
       <vedette>
          <sm>Quilhan,</sm>
       </vedette>
@@ -61774,7 +61775,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vabres</localisation>.</definition>
    </article>
-   <article id="DT30-05696" pg="180">
+   <article type="commune" id="DT30-05696" pg="180">
       <vedette>
          <sm>Redessan,</sm>
       </vedette>
@@ -63044,7 +63045,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Hippolyte-du-Fort</localisation>.</definition>
    </article>
-   <article id="DT30-05814" pg="184">
+   <article type="commune" id="DT30-05814" pg="184">
       <vedette>
          <sm>Rivières-de-Theyrargues,</sm>
       </vedette>
@@ -63117,7 +63118,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Julien-de-Valgalgue</localisation>.</definition>
    </article>
-   <article id="DT30-05820" pg="184">
+   <article type="commune" id="DT30-05820" pg="184">
       <vedette>
          <sm>Robiac,</sm>
       </vedette>
@@ -63302,7 +63303,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d'Uzès</localisation>.</definition>
    </article>
-   <article id="DT30-05837" pg="185">
+   <article type="commune" id="DT30-05837" pg="185">
       <vedette>
          <sm>Rochefort,</sm>
       </vedette>
@@ -63343,7 +63344,7 @@
       </commentaire>
       <insee>30217</insee>
    </article>
-   <article id="DT30-05838" pg="185">
+   <article type="commune" id="DT30-05838" pg="185">
       <vedette>
          <sm>Rochegude,</sm>
       </vedette>
@@ -63581,7 +63582,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Meynes</localisation>.</definition>
    </article>
-   <article id="DT30-05854" pg="186">
+   <article type="commune" id="DT30-05854" pg="186">
       <vedette>
          <sm>Rogues,</sm>
       </vedette>
@@ -63746,7 +63747,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Blandas</localisation>.</definition>
    </article>
-   <article id="DT30-05867" pg="186">
+   <article type="commune" id="DT30-05867" pg="186">
       <vedette>
          <sm>Roque (La),</sm>
       </vedette>
@@ -63950,7 +63951,7 @@
       <definition>
          <typologie>montagne</typologie>, <localisation>commune de Saint-Dionisy</localisation>.</definition>
    </article>
-   <article id="DT30-05885" pg="187">
+   <article type="commune" id="DT30-05885" pg="187">
       <vedette>
          <sm>Roquedur,</sm>
       </vedette>
@@ -64963,7 +64964,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Laudun</localisation>.</definition>
    </article>
-   <article id="DT30-05982" pg="190">
+   <article type="commune" id="DT30-05982" pg="190">
       <vedette>
          <sm>Rousson,</sm>
       </vedette>
@@ -65088,7 +65089,7 @@
          <p>— Parcours : 2,500 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-05991" pg="190">
+   <article type="commune" id="DT30-05991" pg="190">
       <vedette>
          <sm>Rouvière (La),</sm>
       </vedette>
@@ -65320,7 +65321,7 @@
       <forme_ancienne>— <i>Roveria Cautalis ; Bois-Cottal</i> 
          <reference>(Trenquier, <i>Not. sur quelques localités du Gard</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06013" pg="191">
+   <article type="commune" id="DT30-06013" pg="191">
       <vedette>
          <sm>Rouvière-en-Malgoirès (La),</sm>
       </vedette>
@@ -65622,7 +65623,7 @@
          <date>1522</date> 
          <reference>(Andr. de Costa, not. de Barjac)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06042" pg="192">
+   <article type="commune" id="DT30-06042" pg="192">
       <vedette>
          <sm>Sabran,</sm>
       </vedette>
@@ -65737,7 +65738,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Nimes</localisation>.</definition>
    </article>
-   <article id="DT30-06051" pg="192">
+   <article type="commune" id="DT30-06051" pg="192">
       <vedette>
          <sm>Sagriès,</sm>
       </vedette>
@@ -65837,7 +65838,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06056" pg="193">
+   <article type="commune" id="DT30-06056" pg="193">
       <vedette>
          <sm>Saint-Alexandre,</sm>
       </vedette>
@@ -66150,7 +66151,7 @@
          <p>Le prieuré de Saint-André-de Jonqueirolles, uni à l'office d'infirmier du chapitre d'Uzès, était à la collation du prévôt de ce chapitre.</p>
       </commentaire>
    </article>
-   <article id="DT30-06071" pg="195">
+   <article type="commune" id="DT30-06071" pg="195">
       <vedette>
          <pg>195</pg>
          <sm>Saint-André-de-Majencoules,</sm>
@@ -66192,7 +66193,7 @@
       </commentaire>
       <insee>30229</insee>
    </article>
-   <article id="DT30-06072" pg="195">
+   <article type="commune" id="DT30-06072" pg="195">
       <vedette>
          <sm>Saint-André-de-Roquepertuis,</sm>
       </vedette>
@@ -66293,7 +66294,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06076" pg="195">
+   <article type="commune" id="DT30-06076" pg="195">
       <vedette>
          <sm>Saint-André-d'Olérargues,</sm>
       </vedette>
@@ -66456,7 +66457,7 @@
          <p>Le prieuré de Saint-Baudile de Sommière était annexé à celui de Saint-Pons de la même ville. — Tous deux étaient unis au doyenné de Saint-Gilles et valaient 3,000 livres. — L'abbé de Saint-Gilles en était collateur.</p>
       </commentaire>
    </article>
-   <article id="DT30-06085" pg="196">
+   <article type="commune" id="DT30-06085" pg="196">
       <vedette>
          <sm>Saint-Bauzély-en-Malgoirès,</sm>
       </vedette>
@@ -66496,7 +66497,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Gilles</localisation>.</definition>
    </article>
-   <article id="DT30-06087" pg="196">
+   <article type="commune" id="DT30-06087" pg="196">
       <vedette>
          <sm>Saint-Bénézet-de-Cheyran,</sm>
       </vedette>
@@ -66598,7 +66599,7 @@
          <date>1812</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06091" pg="197">
+   <article type="commune" id="DT30-06091" pg="197">
       <vedette>
          <sm>Saint-Bonnet,</sm>
       </vedette>
@@ -66660,7 +66661,7 @@
       </commentaire>
       <insee>30235</insee>
    </article>
-   <article id="DT30-06092" pg="197">
+   <article type="commune" id="DT30-06092" pg="197">
       <vedette>
          <sm>Saint-Bonnet-de-Salendrenque,</sm>
       </vedette>
@@ -66699,7 +66700,7 @@
       <forme_ancienne>— <date>1821</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06094" pg="197">
+   <article type="commune" id="DT30-06094" pg="197">
       <vedette>
          <sm>Saint-Brès,</sm>
       </vedette>
@@ -66737,7 +66738,7 @@
       <definition>
          <typologie>église ruinée</typologie>, <localisation>commune de la Salle</localisation>.</definition>
    </article>
-   <article id="DT30-06096" pg="197">
+   <article type="commune" id="DT30-06096" pg="197">
       <vedette>
          <sm>Saint-Bresson,</sm>
       </vedette>
@@ -66841,7 +66842,7 @@
          <p>Ce prieuré fut donné à l'abbaye de la Chaise-Dieu, en <date>1095</date>, par Raymond de Saint-Gilles, et sécularisé en <date>1597</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-06103" pg="198">
+   <article type="commune" id="DT30-06103" pg="198">
       <vedette>
          <sm>Saint-Césaire-de-Gauzignan,</sm>
       </vedette>
@@ -67003,7 +67004,7 @@
          <date>1316</date> 
          <reference>(manuscr. d'Aubais, bibl. de Nimes, 13,855)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06109" pg="199">
+   <article type="commune" id="DT30-06109" pg="199">
       <vedette>
          <sm>Saint-Christol-de-Rodières,</sm>
       </vedette>
@@ -67030,7 +67031,7 @@
       </commentaire>
       <insee>30242</insee>
    </article>
-   <article id="DT30-06110" pg="199">
+   <article type="commune" id="DT30-06110" pg="199">
       <vedette>
          <sm>Saint-Christol-lez-Alais,</sm>
       </vedette>
@@ -67095,7 +67096,7 @@
             <sm>xv</sm>
             <sup>e</sup> siècle</date>, au <localisation>hameau des Trestoulières</localisation> : <renvoi>voy. ce nom</renvoi>.</definition>
    </article>
-   <article id="DT30-06113" pg="199">
+   <article type="commune" id="DT30-06113" pg="199">
       <vedette>
          <sm>Saint-Clément,</sm>
       </vedette>
@@ -67140,7 +67141,7 @@
                <sup>e</sup> siècle</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-06115" pg="199">
+   <article type="commune" id="DT30-06115" pg="199">
       <vedette>
          <sm>Saint-Cosme,</sm>
       </vedette>
@@ -67234,7 +67235,7 @@
          <date>1741</date> 
          <reference>(arch. dép. G. 373)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06120" pg="200">
+   <article type="commune" id="DT30-06120" pg="200">
       <vedette>
          <sm>Saint-Denys,</sm>
       </vedette>
@@ -67327,7 +67328,7 @@
          <p>Le prieuré simple et séculier de Saint-Denys-de-Vendargues était uni, comme celui de Saint-Félix de Bouillargues, dont il était l'annexe, à la mense capitulaire de Nimes et valait, à lui seul, 1,100 livres.</p>
       </commentaire>
    </article>
-   <article id="DT30-06124" pg="200">
+   <article type="commune" id="DT30-06124" pg="200">
       <vedette>
          <sm>Saint-Dézéry,</sm>
       </vedette>
@@ -67372,7 +67373,7 @@
       <forme_ancienne>— <date>1755</date> 
          <reference>(arch. départ. G. 262)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06126" pg="200">
+   <article type="commune" id="DT30-06126" pg="200">
       <vedette>
          <sm>Saint-Dionisy,</sm>
       </vedette>
@@ -67488,7 +67489,7 @@
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Saint-Paulet-de-Caisson</localisation>.</definition>
    </article>
-   <article id="DT30-06132" pg="201">
+   <article type="commune" id="DT30-06132" pg="201">
       <vedette>
          <sm>Sainte-Anastasie,</sm>
       </vedette>
@@ -67571,7 +67572,7 @@
          <p>Elle était située à Nimes, dans la rue Caguensol, aujourd'hui rue Guizot.</p>
       </commentaire>
    </article>
-   <article id="DT30-06136" pg="201">
+   <article type="commune" id="DT30-06136" pg="201">
       <vedette>
          <sm>Sainte-Cécile-d'Andorge,</sm>
       </vedette>
@@ -67741,7 +67742,7 @@
       <forme_ancienne>— <date>1637</date> 
          <reference>(Pitot, not. d'Aramon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06148" pg="202">
+   <article type="commune" id="DT30-06148" pg="202">
       <vedette>
          <sm>Sainte-Croix-de-Caderle,</sm>
       </vedette>
@@ -67849,7 +67850,7 @@
          <date>1747</date> 
          <reference>(Séguret, not. de Nimes)</reference>. — <reference>(Mén. I, p. 217 ; IV, p. 190)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06153" pg="202">
+   <article type="commune" id="DT30-06153" pg="202">
       <vedette>
          <sm>Sainte-Eulalie,</sm>
       </vedette>
@@ -68297,7 +68298,7 @@
       <forme_ancienne>— <i>Saint-Etienne</i> ou <i>la Réal</i> 
          <reference>(Trenquier, <i>Mémoire sur Montfrin</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06178" pg="204">
+   <article type="commune" id="DT30-06178" pg="204">
       <vedette>
          <sm>Saint-Étienne-de-l'Olm,</sm>
       </vedette>
@@ -68397,7 +68398,7 @@
                <sup>e</sup> siècle</date>, à M. Chambon, de Saint-Ambroix. Le marquis de Saint-Victor y avait des fiefs nobles.</p>
       </commentaire>
    </article>
-   <article id="DT30-06181" pg="205">
+   <article type="commune" id="DT30-06181" pg="205">
       <vedette>
          <sm>Saint-Etienne-des-Sorts,</sm>
       </vedette>
@@ -68541,7 +68542,7 @@
          <date>1376</date> 
          <reference>(cart. de la seign. d'Alais, f° 47)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06189" pg="205">
+   <article type="commune" id="DT30-06189" pg="205">
       <vedette>
          <sm>Saint-Félix-de-Pallières,</sm>
       </vedette>
@@ -68675,7 +68676,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06195" pg="206">
+   <article type="commune" id="DT30-06195" pg="206">
       <vedette>
          <sm>Saint-Florent,</sm>
       </vedette>
@@ -68743,7 +68744,7 @@
                <sup>e</sup> siècle</date>, dont il ne reste plus que le chevet. On remarque dans le mur extérieur deux épitaphes qui datent de l'<date>époque carlovingienne</date>.</p>
       </commentaire>
    </article>
-   <article id="DT30-06199" pg="206">
+   <article type="commune" id="DT30-06199" pg="206">
       <vedette>
          <sm>Saint-Geniès-de-Comolas,</sm>
       </vedette>
@@ -68789,7 +68790,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06201" pg="207">
+   <article type="commune" id="DT30-06201" pg="207">
       <vedette>
          <sm>Saint-Geniès-en-Malgoirès,</sm>
       </vedette>
@@ -68941,7 +68942,7 @@
          <p>Bien qu'enclavé dans le diocèse d'Alais depuis <date>1694</date>, ce prieuré continua d'appartenir au chapitre de Nimes, dont le troisième archidiacre prenait le titre de seigneur de Saint-Germain-de-Montaigu. — (Ménard, IV, p. 155.)</p>
       </commentaire>
    </article>
-   <article id="DT30-06209" pg="207">
+   <article type="commune" id="DT30-06209" pg="207">
       <vedette>
          <sm>Saint-Gervais,</sm>
       </vedette>
@@ -68968,7 +68969,7 @@
       </commentaire>
       <insee>30256</insee>
    </article>
-   <article id="DT30-06210" pg="207">
+   <article type="commune" id="DT30-06210" pg="207">
       <vedette>
          <sm>Saint-Gervasy,</sm>
       </vedette>
@@ -69194,7 +69195,7 @@
          <typologie>ermitage</typologie>, sur les ruines de la <localisation>chapelle de Saint-Géraud-de-Roquefeuil</localisation> 
          <renvoi>(voy. ce nom)</renvoi>, sur la montagne de Saint-Guiral, à la limite des communes de Dourbie et d'Arrigas.</definition>
    </article>
-   <article id="DT30-06219" pg="209">
+   <article type="commune" id="DT30-06219" pg="209">
       <vedette>
          <sm>Saint-Hilaire-de-Brethmas,</sm>
       </vedette>
@@ -69231,7 +69232,7 @@
       </commentaire>
       <insee>30259</insee>
    </article>
-   <article id="DT30-06220" pg="209">
+   <article type="commune" id="DT30-06220" pg="209">
       <vedette>
          <sm>Saint-Hilaire-d'Ozilhan,</sm>
       </vedette>
@@ -69279,7 +69280,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06222" pg="209">
+   <article type="commune" id="DT30-06222" pg="209">
       <vedette>
          <sm>Saint-Hippolyte-de-Caton,</sm>
       </vedette>
@@ -69314,7 +69315,7 @@
       </commentaire>
       <insee>30261</insee>
    </article>
-   <article id="DT30-06223" pg="209">
+   <article type="commune" id="DT30-06223" pg="209">
       <vedette>
          <sm>Saint-Hippolyte-de-Montaigu,</sm>
       </vedette>
@@ -69528,7 +69529,7 @@
       <definition>
          <typologie>église rurale</typologie>, <localisation>commune de Beaucaire</localisation>. — (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
    </article>
-   <article id="DT30-06238" pg="210">
+   <article type="commune" id="DT30-06238" pg="210">
       <vedette>
          <sm>Saint-Jean-de-Ceirargues,</sm>
       </vedette>
@@ -69569,7 +69570,7 @@
       </commentaire>
       <insee>30264</insee>
    </article>
-   <article id="DT30-06239" pg="211">
+   <article type="commune" id="DT30-06239" pg="211">
       <vedette>
          <sm>Saint-Jean-de-Crieulon,</sm>
       </vedette>
@@ -69646,7 +69647,7 @@
          <p>Cette église était située dans l'enclos du Chapitre ; il en existait encore un pan de mur en <date>1644</date>. — En <date>1694</date>, elle fut annexée, comme chapellenie, à l'église Saint-Adrien de Caveirac (insin. eccl. du dioc. de Nimes).</p>
       </commentaire>
    </article>
-   <article id="DT30-06242" pg="211">
+   <article type="commune" id="DT30-06242" pg="211">
       <vedette>
          <sm>Saint-Jean-de-Maruéjols,</sm>
       </vedette>
@@ -69767,7 +69768,7 @@
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Gaujac</localisation>.</definition>
    </article>
-   <article id="DT30-06247" pg="212">
+   <article type="commune" id="DT30-06247" pg="212">
       <vedette>
          <sm>Saint-Jean-de-Serres,</sm>
       </vedette>
@@ -69817,7 +69818,7 @@
       <definition>
          <typologie>église rurale, aujourd'hui détruite</typologie>, <localisation>commune de Montfrin</localisation>. — (E. Trenquier, <i>Mém. sur Montfrin</i>).</definition>
    </article>
-   <article id="DT30-06249" pg="212">
+   <article type="commune" id="DT30-06249" pg="212">
       <vedette>
          <sm>Saint-Jean-de-Valeriscle,</sm>
       </vedette>
@@ -69916,7 +69917,7 @@
          <p>Saint-Jean-du-Card faisait partie de la viguerie et de l'archiprêtré d'Anduze, diocèse de Nimes (et plus tard d'Alais). — On y comptait 13 feux en <date>1384</date> et 586 en <date>1789</date>. — Le prieuré de Saint-Jean-de-Gardonenque appartenait à l'abbaye de Saint-Gilles. — En <date>1790</date>, Saint-Jean-du-Gard devint le chef-lieu d'un canton du district d'Alais composé seulement des trois communes suivantes : Corbès, Mialet et Saint-Jean-du-Gard.</p>
       </commentaire>
    </article>
-   <article id="DT30-06253" pg="212">
+   <article type="commune" id="DT30-06253" pg="212">
       <vedette>
          <sm>Saint-Jean-du-Pin,</sm>
       </vedette>
@@ -70094,7 +70095,7 @@
          <p>Cette église existe encore, mais elle a été vendue à la Révolution et elle sert aujourd'hui de maison d'écoles. — Elle avait donné son nom à l'une des portes de la ville d'Uzès. — Le prieuré de Saint-Julien était à la collation de l'évêque.</p>
       </commentaire>
    </article>
-   <article id="DT30-06264" pg="213">
+   <article type="commune" id="DT30-06264" pg="213">
       <vedette>
          <sm>Saint-Julien-de-Cassagnas,</sm>
       </vedette>
@@ -70126,7 +70127,7 @@
       </commentaire>
       <insee>30271</insee>
    </article>
-   <article id="DT30-06265" pg="213">
+   <article type="commune" id="DT30-06265" pg="213">
       <vedette>
          <sm>Saint-Julien-de-la-Nef,</sm>
       </vedette>
@@ -70159,7 +70160,7 @@
       </commentaire>
       <insee>30272</insee>
    </article>
-   <article id="DT30-06266" pg="214">
+   <article type="commune" id="DT30-06266" pg="214">
       <vedette>
          <sm>Saint-Julien-de-Peyrolas,</sm>
       </vedette>
@@ -70252,7 +70253,7 @@
          <p>Le prieuré simple et séculier de Saint-Julien-d'Escosse fut annexé à celui de Saint-Germain-de-Montaigu, et uni comme lui au troisième archidiaconat de la cathédrale de Nimes.</p>
       </commentaire>
    </article>
-   <article id="DT30-06269" pg="214">
+   <article type="commune" id="DT30-06269" pg="214">
       <vedette>
          <sm>Saint-Julien-de-Valgalgue,</sm>
       </vedette>
@@ -70283,7 +70284,7 @@
       </commentaire>
       <insee>30284</insee>
    </article>
-   <article id="DT30-06270" pg="214">
+   <article type="commune" id="DT30-06270" pg="214">
       <vedette>
          <sm>Saint-Just,</sm>
       </vedette>
@@ -70376,7 +70377,7 @@
       <forme_ancienne>— <date>1810</date> 
          <reference>(notar. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06275" pg="215">
+   <article type="commune" id="DT30-06275" pg="215">
       <vedette>
          <sm>Saint-Laurent-d'Aigouze,</sm>
       </vedette>
@@ -70417,7 +70418,7 @@
       </commentaire>
       <insee>30276</insee>
    </article>
-   <article id="DT30-06276" pg="215">
+   <article type="commune" id="DT30-06276" pg="215">
       <vedette>
          <sm>Saint-Laurent-de-Carnols,</sm>
       </vedette>
@@ -70503,7 +70504,7 @@
          <p>Le prieuré de Saint-Laurent-de-Rochesadoule était du doyenné de Saint-Ambroix.</p>
       </commentaire>
    </article>
-   <article id="DT30-06281" pg="215">
+   <article type="commune" id="DT30-06281" pg="215">
       <vedette>
          <sm>Saint-Laurent-des-Arbres,</sm>
       </vedette>
@@ -70573,7 +70574,7 @@
          <date>1810</date> 
          <reference>(notar. de Nimes)</reference>. — <reference>(Ménard, I, p. 216 ; IV, p. 190)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06283" pg="216">
+   <article type="commune" id="DT30-06283" pg="216">
       <vedette>
          <sm>Saint-Laurent-la-Vernède,</sm>
       </vedette>
@@ -70599,7 +70600,7 @@
       </commentaire>
       <insee>30279</insee>
    </article>
-   <article id="DT30-06284" pg="216">
+   <article type="commune" id="DT30-06284" pg="216">
       <vedette>
          <sm>Saint-Laurent-le-Minier,</sm>
       </vedette>
@@ -70786,7 +70787,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sauveterre</localisation>.</definition>
    </article>
-   <article id="DT30-06297" pg="217">
+   <article type="commune" id="DT30-06297" pg="217">
       <vedette>
          <sm>Saint-Marcel-de-Carreiret,</sm>
       </vedette>
@@ -70813,7 +70814,7 @@
       </commentaire>
       <insee>30282</insee>
    </article>
-   <article id="DT30-06298" pg="217">
+   <article type="commune" id="DT30-06298" pg="217">
       <vedette>
          <sm>Saint-Marcel-de-Fontfouillouse,</sm>
       </vedette>
@@ -70852,7 +70853,7 @@
       </commentaire>
       <insee>30198</insee>
    </article>
-   <article id="DT30-06299" pg="217">
+   <article type="commune" id="DT30-06299" pg="217">
       <vedette>
          <sm>Saint-Martial,</sm>
       </vedette>
@@ -71101,7 +71102,7 @@
          <p>Le prieuré de Saint-Martin-de-Cinsens était uni à la mense capitulaire de la cathédrale de Nimes et valait 600 livres. — Il avait appartenu d'abord à l'abbaye de Saint-Gilles.</p>
       </commentaire>
    </article>
-   <article id="DT30-06312" pg="218">
+   <article type="commune" id="DT30-06312" pg="218">
       <vedette>
          <sm>Saint-Martin-de-Corconac,</sm>
       </vedette>
@@ -71275,7 +71276,7 @@
          <p>Elle était située dans la grande galerie du premier étage de l'amphithéâtre romain, où l'on en retrouve encore les traces, du côté du palais de justice. — Elle avait été donnée à Pierre Guy, abbé du monastère de Saint-Baudile, par la vicomtesse Ermengarde et par Bernard Athon, son fils. — Elle passa avec ce monastère à l'abbaye de la Chaise-Dieu, qui la céda, le 6 janvier de l'<date>an 1100</date>, à Raymond, évêque de Nimes.</p>
       </commentaire>
    </article>
-   <article id="DT30-06320" pg="219">
+   <article type="commune" id="DT30-06320" pg="219">
       <vedette>
          <sm>Saint-Martin-de-Saussenac,</sm>
       </vedette>
@@ -71328,7 +71329,7 @@
          <p>Cette église dépendait du prieuré de Saint-Privat (E. Trenquier, <i>Mém. sur Montfrin</i>). — C'est encore aujourd'hui le nom d'une section cadastrale de la commune de Montfrin.</p>
       </commentaire>
    </article>
-   <article id="DT30-06322" pg="219">
+   <article type="commune" id="DT30-06322" pg="219">
       <vedette>
          <sm>Saint-Martin-de-Valgalgue,</sm>
       </vedette>
@@ -71410,7 +71411,7 @@
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Saint-Laurent-des-Arbres</localisation>.</definition>
    </article>
-   <article id="DT30-06327" pg="220">
+   <article type="commune" id="DT30-06327" pg="220">
       <vedette>
          <sm>Saint-Maurice-de-Casesvieilles,</sm>
       </vedette>
@@ -71452,7 +71453,7 @@
          <date>1095</date> 
          <reference>(cart. de N.-D. de Nimes, ch. 73)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06329" pg="220">
+   <article type="commune" id="DT30-06329" pg="220">
       <vedette>
          <sm>Saint-Maximin,</sm>
       </vedette>
@@ -71478,7 +71479,7 @@
       </commentaire>
       <insee>30286</insee>
    </article>
-   <article id="DT30-06330" pg="220">
+   <article type="commune" id="DT30-06330" pg="220">
       <vedette>
          <sm>Saint-Médier,</sm>
       </vedette>
@@ -71559,7 +71560,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06336" pg="220">
+   <article type="commune" id="DT30-06336" pg="220">
       <vedette>
          <sm>Saint-Michel-d'Euzet,</sm>
       </vedette>
@@ -71690,7 +71691,7 @@
          <p>Saint-Nazaire fut compté, à l'époque de la création du marquisat d'Aubais, comme une des cinq paroisses dont il fut formé.</p>
       </commentaire>
    </article>
-   <article id="DT30-06343" pg="221">
+   <article type="commune" id="DT30-06343" pg="221">
       <vedette>
          <sm>Saint-Nazaire,</sm>
       </vedette>
@@ -71724,7 +71725,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06345" pg="221">
+   <article type="commune" id="DT30-06345" pg="221">
       <vedette>
          <sm>Saint-Nazaire-des-Gardies,</sm>
       </vedette>
@@ -71903,7 +71904,7 @@
          <p>Cette église fut donnée, en <date>1178</date>, aux Templiers par l'évêque d'Uzès (Trenquier, <i>Mém. sur Montfrin</i>). — <i>Montagnac</i> est encore aujourd'hui le nom d'une section du cadastre de Montfrin.</p>
       </commentaire>
    </article>
-   <article id="DT30-06356" pg="222">
+   <article type="commune" id="DT30-06356" pg="222">
       <vedette>
          <sm>Saint-Paulet-de-Caisson,</sm>
       </vedette>
@@ -71945,7 +71946,7 @@
       </commentaire>
       <insee>30290</insee>
    </article>
-   <article id="DT30-06357" pg="222">
+   <article type="commune" id="DT30-06357" pg="222">
       <vedette>
          <sm>Saint-Paul-la-Coste,</sm>
       </vedette>
@@ -72430,7 +72431,7 @@
          <date>1388</date> 
          <reference>(comp. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06386" pg="224">
+   <article type="commune" id="DT30-06386" pg="224">
       <vedette>
          <sm>Saint-Pons-la-Calm,</sm>
       </vedette>
@@ -72490,7 +72491,7 @@
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Valliguière</localisation>.</definition>
    </article>
-   <article id="DT30-06390" pg="225">
+   <article type="commune" id="DT30-06390" pg="225">
       <vedette>
          <sm>Saint-Privat-de-Champclos,</sm>
       </vedette>
@@ -72530,7 +72531,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06392" pg="225">
+   <article type="commune" id="DT30-06392" pg="225">
       <vedette>
          <sm>Saint-Privat-des-Vieux,</sm>
       </vedette>
@@ -72600,7 +72601,7 @@
                <sup>e</sup> siècle</date>, les marquis de Fournès étaient seigneurs de Saint-Privat.</p>
       </commentaire>
    </article>
-   <article id="DT30-06394" pg="225">
+   <article type="commune" id="DT30-06394" pg="225">
       <vedette>
          <sm>Saint-Quentin,</sm>
       </vedette>
@@ -72720,7 +72721,7 @@
                <sup>e</sup> siècle</date> à celui de Massillargues, a donné son nom à la montagne sur laquelle est située l'église, dont on voit encore les ruines.</p>
       </commentaire>
    </article>
-   <article id="DT30-06400" pg="226">
+   <article type="commune" id="DT30-06400" pg="226">
       <vedette>
          <sm>Saint-Roman-de-Codière,</sm>
       </vedette>
@@ -73007,7 +73008,7 @@
                <sup>e</sup> siècle</date> ; elle était à la nomination du roi.</p>
       </commentaire>
    </article>
-   <article id="DT30-06414" pg="227">
+   <article type="commune" id="DT30-06414" pg="227">
       <vedette>
          <sm>Saint-Sauveur-des-Poursils,</sm>
       </vedette>
@@ -73100,7 +73101,7 @@
          <date>1099</date> 
          <reference>(cart. de Psalmody)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06419" pg="227">
+   <article type="commune" id="DT30-06419" pg="227">
       <vedette>
          <sm>Saint-Sébastien-d'Aigrefeuille,</sm>
       </vedette>
@@ -73142,7 +73143,7 @@
       </commentaire>
       <insee>30298</insee>
    </article>
-   <article id="DT30-06420" pg="228">
+   <article type="commune" id="DT30-06420" pg="228">
       <vedette>
          <sm>Saint-Siffret,</sm>
       </vedette>
@@ -73274,7 +73275,7 @@
                <sup>e</sup> siècle</date>, était à la collation du prévôt du chapitre de la cathédrale d'Uzès. — En <date>1384</date>, on comptait à Saint-Théodorit 5 feux, en y comprenant ceux de Gaujac, qui lui était alors annexé.</p>
       </commentaire>
    </article>
-   <article id="DT30-06427" pg="228">
+   <article type="commune" id="DT30-06427" pg="228">
       <vedette>
          <sm>Saint-Théodorit,</sm>
       </vedette>
@@ -73452,7 +73453,7 @@
       <definition>
          <typologie>église et château ruinés</typologie>, sur une montagne, <localisation>commune de Bagnols</localisation>.</definition>
    </article>
-   <article id="DT30-06438" pg="229">
+   <article type="commune" id="DT30-06438" pg="229">
       <vedette>
          <sm>Saint-Victor-de-Malcap,</sm>
       </vedette>
@@ -73482,7 +73483,7 @@
       </commentaire>
       <insee>30303</insee>
    </article>
-   <article id="DT30-06439" pg="229">
+   <article type="commune" id="DT30-06439" pg="229">
       <vedette>
          <sm>Saint-Victor-des-Oules,</sm>
       </vedette>
@@ -73524,7 +73525,7 @@
       </commentaire>
       <insee>30301</insee>
    </article>
-   <article id="DT30-06440" pg="229">
+   <article type="commune" id="DT30-06440" pg="229">
       <vedette>
          <sm>Saint-Victor-la-Coste,</sm>
       </vedette>
@@ -73717,7 +73718,7 @@
       <forme_ancienne>— <date>1731</date> 
          <reference>(arch. départ. C. 1476)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06449" pg="230">
+   <article type="commune" id="DT30-06449" pg="230">
       <vedette>
          <sm>Salagosse,</sm>
       </vedette>
@@ -73805,7 +73806,7 @@
                <sup>e</sup> siècle</date>, dans la viguerie de Sommière, dont il forma la plus grande partie.</p>
       </commentaire>
    </article>
-   <article id="DT30-06453" pg="230">
+   <article type="commune" id="DT30-06453" pg="230">
       <vedette>
          <sm>Salazac,</sm>
       </vedette>
@@ -73894,7 +73895,7 @@
          <p>— Parcours : 17,300 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-06459" pg="231">
+   <article type="commune" id="DT30-06459" pg="231">
       <vedette>
          <sm>Salendrenque (La),</sm>
       </vedette>
@@ -73940,7 +73941,7 @@
       <definition>
          <localisation>commune d'Aiguesmortes</localisation>.</definition>
    </article>
-   <article id="DT30-06463" pg="231">
+   <article type="commune" id="DT30-06463" pg="231">
       <vedette>
          <sm>Salindres,</sm>
       </vedette>
@@ -73974,7 +73975,7 @@
       <definition>
          <typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de l'Espinassonnet</localisation>, <localisation>commune de Saint-Martin-de-Boubaux</localisation> (Lozère), entre dans le département du Gard sur la <localisation>commune de Saint-Paul-la-Coste</localisation> et se jette dans le Galeizon sur le territoire de la même commune.</definition>
    </article>
-   <article id="DT30-06465" pg="231">
+   <article type="commune" id="DT30-06465" pg="231">
       <vedette>
          <sm>Salinelles,</sm>
       </vedette>
@@ -74000,7 +74001,7 @@
       </commentaire>
       <insee>30306</insee>
    </article>
-   <article id="DT30-06466" pg="231">
+   <article type="commune" id="DT30-06466" pg="231">
       <vedette>
          <sm>Salle (La),</sm>
       </vedette>
@@ -74152,7 +74153,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Hippolyte-du-Fort</localisation>.</definition>
    </article>
-   <article id="DT30-06480" pg="232">
+   <article type="commune" id="DT30-06480" pg="232">
       <vedette>
          <sm>Salles-du-Gardon (Les),</sm>
       </vedette>
@@ -74365,7 +74366,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Trève</localisation>.</definition>
    </article>
-   <article id="DT30-06503" pg="232">
+   <article type="commune" id="DT30-06503" pg="232">
       <vedette>
          <sm>Sanilhac,</sm>
       </vedette>
@@ -74444,7 +74445,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Salle</localisation>.</definition>
    </article>
-   <article id="DT30-06507" pg="232">
+   <article type="commune" id="DT30-06507" pg="232">
       <vedette>
          <sm>Sardan,</sm>
       </vedette>
@@ -74603,7 +74604,7 @@
          <date>1780</date> 
          <reference>(arch. départ. C. 1652)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06522" pg="233">
+   <article type="commune" id="DT30-06522" pg="233">
       <vedette>
          <sm>Saumane,</sm>
       </vedette>
@@ -74803,7 +74804,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Bréau-et-Salagosse</localisation>.</definition>
    </article>
-   <article id="DT30-06541" pg="233">
+   <article type="commune" id="DT30-06541" pg="233">
       <vedette>
          <sm>Sauve,</sm>
       </vedette>
@@ -74903,7 +74904,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vabres</localisation>.</definition>
    </article>
-   <article id="DT30-06545" pg="234">
+   <article type="commune" id="DT30-06545" pg="234">
       <vedette>
          <sm>Sauveterre,</sm>
       </vedette>
@@ -74938,7 +74939,7 @@
       <forme_ancienne>— <date>1515</date> 
          <reference>(arch. départ. C. 1647)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06548" pg="234">
+   <article type="commune" id="DT30-06548" pg="234">
       <vedette>
          <sm>Sauzet,</sm>
       </vedette>
@@ -75029,7 +75030,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06554" pg="234">
+   <article type="commune" id="DT30-06554" pg="234">
       <vedette>
          <sm>Savignargues,</sm>
       </vedette>
@@ -75096,7 +75097,7 @@
       </commentaire>
       <insee>30314</insee>
    </article>
-   <article id="DT30-06555" pg="235">
+   <article type="commune" id="DT30-06555" pg="235">
       <vedette>
          <sm>Saze,</sm>
       </vedette>
@@ -75256,7 +75257,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sauveterre</localisation>.</definition>
    </article>
-   <article id="DT30-06569" pg="235">
+   <article type="commune" id="DT30-06569" pg="235">
       <vedette>
          <sm>Sénéchas,</sm>
       </vedette>
@@ -75381,7 +75382,7 @@
          <date>1322</date> 
          <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06577" pg="236">
+   <article type="commune" id="DT30-06577" pg="236">
       <vedette>
          <sm>Sernhac,</sm>
       </vedette>
@@ -75889,7 +75890,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Sumène</localisation>.</definition>
    </article>
-   <article id="DT30-06633" pg="237">
+   <article type="commune" id="DT30-06633" pg="237">
       <vedette>
          <sm>Servas,</sm>
       </vedette>
@@ -75992,7 +75993,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Chamborigaud</localisation>.</definition>
    </article>
-   <article id="DT30-06643" pg="237">
+   <article type="commune" id="DT30-06643" pg="237">
       <vedette>
          <sm>Serviers,</sm>
       </vedette>
@@ -76088,7 +76089,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune du Vigan</localisation>.</definition>
    </article>
-   <article id="DT30-06650" pg="237">
+   <article type="commune" id="DT30-06650" pg="237">
       <vedette>
          <sm>Seynes,</sm>
       </vedette>
@@ -76472,7 +76473,7 @@
          <date>1152</date> 
          <reference>(Hist. de Lang. II, pr. col. 538)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06685" pg="238">
+   <article type="commune" id="DT30-06685" pg="238">
       <vedette>
          <sm>Solorgues,</sm>
       </vedette>
@@ -76737,7 +76738,7 @@
       <forme_ancienne>— <date>1660</date> 
          <reference>(arch. départ. G. 283)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06702" pg="239">
+   <article type="commune" id="DT30-06702" pg="239">
       <vedette>
          <sm>Soudorgues,</sm>
       </vedette>
@@ -77030,7 +77031,7 @@
          <date>1330</date> 
          <reference>(arch. départ. G. 279)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06729" pg="240">
+   <article type="commune" id="DT30-06729" pg="240">
       <vedette>
          <sm>Soustelle,</sm>
       </vedette>
@@ -77092,7 +77093,7 @@
       <forme_ancienne>— <date>1547</date> 
          <reference>(arch. départ. C. 1788)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06733" pg="240">
+   <article type="commune" id="DT30-06733" pg="240">
       <vedette>
          <sm>Souvignargues,</sm>
       </vedette>
@@ -77778,7 +77779,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-06794" pg="243">
+   <article type="commune" id="DT30-06794" pg="243">
       <vedette>
          <sm>Tavels,</sm>
       </vedette>
@@ -78228,7 +78229,7 @@
       <forme_ancienne>— <date>1266</date> 
          <reference>(arch. départ. G. 300)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06838" pg="244">
+   <article type="commune" id="DT30-06838" pg="244">
       <vedette>
          <sm>Tharaux,</sm>
       </vedette>
@@ -78370,7 +78371,7 @@
       <definition>
          <typologie>quartier</typologie>, <localisation>commune de Saint-Laurent-des-Arbres</localisation>.</definition>
    </article>
-   <article id="DT30-06848" pg="244">
+   <article type="commune" id="DT30-06848" pg="244">
       <vedette>
          <sm>Théziers,</sm>
       </vedette>
@@ -78425,7 +78426,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Tresques</localisation>.</definition>
    </article>
-   <article id="DT30-06851" pg="244">
+   <article type="commune" id="DT30-06851" pg="244">
       <vedette>
          <sm>Thoiras,</sm>
       </vedette>
@@ -78633,7 +78634,7 @@
          <p>— On remarque dans ce lieu la cascade d'Aiguesfolles.</p>
       </commentaire>
    </article>
-   <article id="DT30-06872" pg="245">
+   <article type="commune" id="DT30-06872" pg="245">
       <vedette>
          <sm>Tornac,</sm>
       </vedette>
@@ -79747,7 +79748,7 @@
          <date>1345</date> 
          <reference>(cart. de la seign. d'Alais, f° 33)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-06980" pg="248">
+   <article type="commune" id="DT30-06980" pg="248">
       <vedette>
          <sm>Tresques,</sm>
       </vedette>
@@ -80409,7 +80410,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Causse-Bégon</localisation>.</definition>
    </article>
-   <article id="DT30-07044" pg="250">
+   <article type="commune" id="DT30-07044" pg="250">
       <vedette>
          <sm>Uchau,</sm>
       </vedette>
@@ -80636,7 +80637,7 @@
          <p>L'Uzège ou diocèse d'Uzès était un peu plus étendu sous le rapport administratif que sous le rapport ecclésiastique : deux de ses vigueries (celle de Roquemaure et celle de Villeneuve-lez-Avignon) dépendaient, au spirituel, de l'archevêché d'Avignon. — Le pays d'Uzège était partagé en cinq vigueries d'importance fort inégale : 1° la viguerie d'Uzès, comprenant 199 communautés, lieux ou villages ; 2° la viguerie de Bagnols, qui n'en possédait que 25 ; 3° la viguerie de Roquemaure, composée seulement de 14 ; 4° celle du Pont-Saint-Esprit, comprenant la ville du Pont-Saint-Esprit et la chartreuse de Valbonne ; 5° celle de Villeneuve-lez-Avignon, formée de Villeneuve et du village des Angles. — En <date>1790</date>, au moment où l'on découpait la France par départements, 19 communautés furent distraites de la viguerie d'Uzès pour être attribuées au département de l'Ardèche et 4 furent annexées à celui de la Lozère.</p>
       </commentaire>
    </article>
-   <article id="DT30-07055" pg="251">
+   <article type="commune" id="DT30-07055" pg="251">
       <vedette>
          <sm>Uzès,</sm>
       </vedette>
@@ -80782,7 +80783,7 @@
          <date>1315</date> 
          <reference>(arch. départ. G. 285)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07063" pg="251">
+   <article type="commune" id="DT30-07063" pg="251">
       <vedette>
          <sm>Vabres,</sm>
       </vedette>
@@ -80852,7 +80853,7 @@
          <date>1437</date> 
          <reference>(Et. Rostang, not. d'Anduze)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07068" pg="252">
+   <article type="commune" id="DT30-07068" pg="252">
       <vedette>
          <sm>Valabrègue,</sm>
       </vedette>
@@ -80909,7 +80910,7 @@
       </commentaire>
       <insee>30336</insee>
    </article>
-   <article id="DT30-07069" pg="252">
+   <article type="commune" id="DT30-07069" pg="252">
       <vedette>
          <sm>Valabrix,</sm>
       </vedette>
@@ -81280,7 +81281,7 @@
       <forme_ancienne>— <i>Vallat de la Coupelle</i> 
          <reference>(cad. du Vigan)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07093" pg="253">
+   <article type="commune" id="DT30-07093" pg="253">
       <vedette>
          <sm>Valence,</sm>
       </vedette>
@@ -81360,7 +81361,7 @@
          <date>1280</date> 
          <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07099" pg="254">
+   <article type="commune" id="DT30-07099" pg="254">
       <vedette>
          <sm>Valérargues,</sm>
       </vedette>
@@ -81932,7 +81933,7 @@
          <p>— Parcours : 4,400 mètres.</p>
       </commentaire>
    </article>
-   <article id="DT30-07150" pg="255">
+   <article type="commune" id="DT30-07150" pg="255">
       <vedette>
          <sm>Valliguière,</sm>
       </vedette>
@@ -82550,7 +82551,7 @@
          </p>
       </commentaire>
    </article>
-   <article id="DT30-07200" pg="257">
+   <article type="commune" id="DT30-07200" pg="257">
       <vedette>
          <sm>Vaquières,</sm>
       </vedette>
@@ -83033,7 +83034,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07224" pg="259">
+   <article type="commune" id="DT30-07224" pg="259">
       <vedette>
          <sm>Vénéjan,</sm>
       </vedette>
@@ -83200,7 +83201,7 @@
          <date>1268</date> 
          <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07241" pg="259">
+   <article type="commune" id="DT30-07241" pg="259">
       <vedette>
          <sm>Verfeuil,</sm>
       </vedette>
@@ -83246,7 +83247,7 @@
          <date>1789</date> 
          <reference>(carte des États)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07243" pg="259">
+   <article type="commune" id="DT30-07243" pg="259">
       <vedette>
          <sm>Vergèze,</sm>
       </vedette>
@@ -83507,7 +83508,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Trève</localisation>.</definition>
    </article>
-   <article id="DT30-07266" pg="260">
+   <article type="commune" id="DT30-07266" pg="260">
       <vedette>
          <sm>Vers,</sm>
       </vedette>
@@ -83627,7 +83628,7 @@
       <forme_ancienne>— <date>1548</date> 
          <reference>(arch. départ. C. 1809)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07276" pg="261">
+   <article type="commune" id="DT30-07276" pg="261">
       <vedette>
          <sm>Vestric,</sm>
       </vedette>
@@ -83992,7 +83993,7 @@
          <date>1563</date> 
          <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07299" pg="262">
+   <article type="commune" id="DT30-07299" pg="262">
       <vedette>
          <sm>Vic-le-Fesc,</sm>
       </vedette>
@@ -84197,7 +84198,7 @@
          <date>1752</date> 
          <reference>(arch. départ. C. 1308)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07312" pg="263">
+   <article type="commune" id="DT30-07312" pg="263">
       <vedette>
          <sm>Vigan (Le),</sm>
       </vedette>
@@ -84990,7 +84991,7 @@
                <sup>e</sup> siècle</date>, un lieu des garrigues de Nimes, centre d'une dîmerie dont jouissait le chapitre de la cathédrale. — Le prieuré de Villeverde fut de bonne heure annexé au prieuré de Saint-Castor du Plan-de-Nimes ; tous deux réunis valaient 1,500 livres ; ils étaient unis à la mense capitulaire de Nimes.</p>
       </commentaire>
    </article>
-   <article id="DT30-07379" pg="265">
+   <article type="commune" id="DT30-07379" pg="265">
       <vedette>
          <sm>Villevieille,</sm>
       </vedette>
@@ -85189,7 +85190,7 @@
          <date>1450</date> 
          <reference>(E. Trenquier, <i>Not. sur quelq. loc. du Gard</i>)</reference>.</forme_ancienne>
    </article>
-   <article id="DT30-07394" pg="266">
+   <article type="commune" id="DT30-07394" pg="266">
       <vedette>
          <sm>Vissec,</sm>
       </vedette>

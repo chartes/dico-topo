@@ -3,8 +3,9 @@
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
+
 <!DOCTYPE DICTIONNAIRE SYSTEM "DT58.dtd">
-<DICTIONNAIRE departement="Nièvre">
+<DICTIONNAIRE departement="Nièvre" dep="58">
    <article id="DT58-00001" pg="1">
       <vedette>
          <pg>1</pg>
@@ -122,7 +123,7 @@
          <date>1673</date> 
          <reference>(S.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00013" pg="1">
+   <article type="commune" id="DT58-00013" pg="1">
       <vedette>
          <sm>Achun,</sm>
       </vedette>
@@ -538,7 +539,7 @@
          <date>1389</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00052" pg="2">
+   <article type="commune" id="DT58-00052" pg="2">
       <vedette>
          <sm>Alligny,</sm>
       </vedette>
@@ -588,7 +589,7 @@
          <date>1368</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00055" pg="2">
+   <article type="commune" id="DT58-00055" pg="2">
       <vedette>
          <sm>Alligny-en-Morvand,</sm>
       </vedette>
@@ -620,7 +621,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Arquian</localisation>.</definition>
    </article>
-   <article id="DT58-00057" pg="2">
+   <article type="commune" id="DT58-00057" pg="2">
       <vedette>
          <sm>Alluy,</sm>
       </vedette>
@@ -663,7 +664,7 @@
          <date>935</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 314)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00060" pg="3">
+   <article type="commune" id="DT58-00060" pg="3">
       <vedette>
          <sm>Amazy,</sm>
       </vedette>
@@ -1002,7 +1003,7 @@
          <p>— Fief de la châtellenie de Moulins-Engilbert, vassal du comté de Château-Chinon, qui donne son nom à un ruisseau affluent de l’Aron, composé des ruisseaux du Garat et du Guignon réunis à Moulins-Engilbert.</p>
       </commentaire>
    </article>
-   <article id="DT58-00090" pg="3">
+   <article type="commune" id="DT58-00090" pg="3">
       <vedette>
          <sm>Anlezy,</sm>
       </vedette>
@@ -1043,7 +1044,7 @@
       <definition>
          <localisation>commune de Montigny-aux-Amognes</localisation>.</definition>
    </article>
-   <article id="DT58-00092" pg="4">
+   <article type="commune" id="DT58-00092" pg="4">
       <vedette>
          <sm>Annay,</sm>
       </vedette>
@@ -1089,7 +1090,7 @@
       <definition>
          <typologie>ruisseau</typologie>, prend sa source dans la <localisation>commune d’Ouroux</localisation> et se jette dans le <localisation>ruisseau de Minage</localisation>, après avoir traversé la <localisation>commune de Chaumard</localisation>.</definition>
    </article>
-   <article id="DT58-00095" pg="4">
+   <article type="commune" id="DT58-00095" pg="4">
       <vedette>
          <sm>Anthien,</sm>
       </vedette>
@@ -1277,7 +1278,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Montigny-sur-Canne</localisation>, mentionné en <date>1419</date> (C.).</definition>
    </article>
-   <article id="DT58-00111" pg="4">
+   <article type="commune" id="DT58-00111" pg="4">
       <vedette>
          <sm>Arbourse,</sm>
       </vedette>
@@ -1561,7 +1562,7 @@
       <definition>
          <localisation>commune de Frétoy</localisation>.</definition>
    </article>
-   <article id="DT58-00135" pg="5">
+   <article type="commune" id="DT58-00135" pg="5">
       <vedette>
          <sm>Arleuf,</sm>
       </vedette>
@@ -1635,7 +1636,7 @@
       <definition>
          <typologie>ruisseau</typologie>, <localisation>commune de Beaumont-sur-Sardolles</localisation>.</definition>
    </article>
-   <article id="DT58-00142" pg="5">
+   <article type="commune" id="DT58-00142" pg="5">
       <vedette>
          <sm>Armes,</sm>
       </vedette>
@@ -1721,7 +1722,7 @@
          <date>1607</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00148" pg="5">
+   <article type="commune" id="DT58-00148" pg="5">
       <vedette>
          <sm>Arquian,</sm>
       </vedette>
@@ -1795,7 +1796,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune d’Ouroux</localisation>, mentionné en <date>1600</date> (reg. d’Ouroux).</definition>
    </article>
-   <article id="DT58-00154" pg="5">
+   <article type="commune" id="DT58-00154" pg="5">
       <vedette>
          <sm>Arthel,</sm>
       </vedette>
@@ -1844,7 +1845,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Imphy</localisation>.</definition>
    </article>
-   <article id="DT58-00157" pg="5">
+   <article type="commune" id="DT58-00157" pg="5">
       <vedette>
          <sm>Arzembouy,</sm>
       </vedette>
@@ -1882,7 +1883,7 @@
       </commentaire>
       <insee>58014</insee>
    </article>
-   <article id="DT58-00158" pg="5">
+   <article type="commune" id="DT58-00158" pg="5">
       <vedette>
          <sm>Asnan,</sm>
       </vedette>
@@ -1905,7 +1906,7 @@
       </commentaire>
       <insee>58015</insee>
    </article>
-   <article id="DT58-00159" pg="5">
+   <article type="commune" id="DT58-00159" pg="5">
       <vedette>
          <sm>Asnois,</sm>
       </vedette>
@@ -2111,7 +2112,7 @@
       <definition>
          <typologie>hameau et moulin détruits</typologie>, <localisation>commune de Préporché</localisation>, mentionnés en <date>1673</date> (S.).</definition>
    </article>
-   <article id="DT58-00178" pg="6">
+   <article type="commune" id="DT58-00178" pg="6">
       <vedette>
          <sm>Aubigny-le-Chétif,</sm>
       </vedette>
@@ -2356,7 +2357,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Nocle</localisation>.</definition>
    </article>
-   <article id="DT58-00199" pg="6">
+   <article type="commune" id="DT58-00199" pg="6">
       <vedette>
          <sm>Aunay-en-Bazois,</sm>
       </vedette>
@@ -2411,7 +2412,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Champvert</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
-   <article id="DT58-00203" pg="7">
+   <article type="commune" id="DT58-00203" pg="7">
       <vedette>
          <sm>Authiou,</sm>
       </vedette>
@@ -2622,7 +2623,7 @@
       <forme_ancienne>— <i>Les Avoniers</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00226" pg="7">
+   <article type="commune" id="DT58-00226" pg="7">
       <vedette>
          <sm>Avrée,</sm>
       </vedette>
@@ -2680,7 +2681,7 @@
          <p>— Fief de la châtell. de Decize.</p>
       </commentaire>
    </article>
-   <article id="DT58-00229" pg="7">
+   <article type="commune" id="DT58-00229" pg="7">
       <vedette>
          <sm>Avril-sur-Loire,</sm>
       </vedette>
@@ -2768,7 +2769,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Benin-d’Azy</localisation>.</definition>
    </article>
-   <article id="DT58-00235" pg="7">
+   <article type="commune" id="DT58-00235" pg="7">
       <vedette>
          <sm>Azy-le-Vif,</sm>
       </vedette>
@@ -3036,7 +3037,7 @@
       <definition>
          <typologie>fief</typologie>, <localisation>commune de Saint-Gratien</localisation>, dépendait de la châtellenie de Decize, <date>1743</date> (A. D.).</definition>
    </article>
-   <article id="DT58-00263" pg="8">
+   <article type="commune" id="DT58-00263" pg="8">
       <vedette>
          <sm>Balleray,</sm>
       </vedette>
@@ -4117,7 +4118,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>paroisse d’Anisy</localisation>, mentionné en <date>1500</date> (S.).</definition>
    </article>
-   <article id="DT58-00387" pg="10">
+   <article type="commune" id="DT58-00387" pg="10">
       <vedette>
          <sm>Bazoches,</sm>
       </vedette>
@@ -4200,7 +4201,7 @@
       <forme_ancienne>— <date>1752</date> 
          <reference>(reg. de Villapourçon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00393" pg="10">
+   <article type="commune" id="DT58-00393" pg="10">
       <vedette>
          <sm>Bazolles,</sm>
       </vedette>
@@ -4249,7 +4250,7 @@
       <definition>
          <typologie>fief</typologie>, <localisation>commune de Ternant</localisation>, mentionné en <date>1529</date> (S.).</definition>
    </article>
-   <article id="DT58-00396" pg="10">
+   <article type="commune" id="DT58-00396" pg="10">
       <vedette>
          <sm>Béard,</sm>
       </vedette>
@@ -4460,7 +4461,7 @@
          <p>— Fief de la châtell. de Clamecy.</p>
       </commentaire>
    </article>
-   <article id="DT58-00416" pg="11">
+   <article type="commune" id="DT58-00416" pg="11">
       <vedette>
          <sm>Beaulieu,</sm>
       </vedette>
@@ -4608,7 +4609,7 @@
       <definition>
          <localisation>commune de Prémery</localisation>.</definition>
    </article>
-   <article id="DT58-00433" pg="11">
+   <article type="commune" id="DT58-00433" pg="11">
       <vedette>
          <sm>Beaumont-la-Febrière,</sm>
       </vedette>
@@ -4641,7 +4642,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Montenoison</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-00435" pg="11">
+   <article type="commune" id="DT58-00435" pg="11">
       <vedette>
          <sm>Beaumont-sur-Sardolles,</sm>
       </vedette>
@@ -6244,7 +6245,7 @@
          <date>1538</date> 
          <reference>(Lory)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-00607" pg="15">
+   <article type="commune" id="DT58-00607" pg="15">
       <vedette>
          <sm>Beuvron,</sm>
       </vedette>
@@ -6327,7 +6328,7 @@
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Saint-Maurice</localisation>.</definition>
    </article>
-   <article id="DT58-00616" pg="15">
+   <article type="commune" id="DT58-00616" pg="15">
       <vedette>
          <sm>Biches,</sm>
       </vedette>
@@ -6551,7 +6552,7 @@
          <reference>(pouillé de Nevers).</reference>.</forme_ancienne>
         <forme_ancienne>— <i>Billy-Chevannes,</i> depuis la réunion de Chevannes.</forme_ancienne>
     </article>   
-   <article id="DT58-00636" pg="15">
+   <article type="commune" id="DT58-00636" pg="15">
       <vedette>
          <sm>Billy-sur-Oisy,</sm>
       </vedette>
@@ -6671,7 +6672,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Saint-Saulge</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-00649" pg="16">
+   <article type="commune" id="DT58-00649" pg="16">
       <vedette>
          <sm>Bitry,</sm>
       </vedette>
@@ -6962,7 +6963,7 @@
       <definition>
          <typologie>hameau, château et ferme</typologie>, <localisation>commune de Saint-Firmin</localisation>.</definition>
    </article>
-   <article id="DT58-00679" pg="16">
+   <article type="commune" id="DT58-00679" pg="16">
       <vedette>
          <sm>Blismes,</sm>
       </vedette>
@@ -8453,7 +8454,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Ville-lez-Anlezy</localisation>, mentionné en <date>1272</date> (S.).</definition>
    </article>
-   <article id="DT58-00870" pg="19">
+   <article type="commune" id="DT58-00870" pg="19">
       <vedette>
          <sm>Bona,</sm>
       </vedette>
@@ -9464,7 +9465,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Château-Chinon-Campagne</localisation>.</definition>
    </article>
-   <article id="DT58-00974" pg="21">
+   <article type="commune" id="DT58-00974" pg="21">
       <vedette>
          <sm>Bouhy,</sm>
       </vedette>
@@ -10770,7 +10771,7 @@
       <definition>
          <typologie>maison de campagne et ferme</typologie>, <localisation>commune de Brassy</localisation>.</definition>
    </article>
-   <article id="DT58-01115" pg="24">
+   <article type="commune" id="DT58-01115" pg="24">
       <vedette>
          <sm>Brassy,</sm>
       </vedette>
@@ -11130,7 +11131,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Nocle</localisation>.</definition>
    </article>
-   <article id="DT58-01154" pg="25">
+   <article type="commune" id="DT58-01154" pg="25">
       <vedette>
          <sm>Breugnon,</sm>
       </vedette>
@@ -11351,7 +11352,7 @@
       <definition>
          <localisation>commune d’Entrains</localisation>.</definition>
    </article>
-   <article id="DT58-01180" pg="25">
+   <article type="commune" id="DT58-01180" pg="25">
       <vedette>
          <sm>Brèves,</sm>
       </vedette>
@@ -11499,7 +11500,7 @@
       <definition>
          <typologie>rivière</typologie> prend sa source dans la <localisation>commune de Saint-Martin-du-Puits</localisation>, et se jette dans la Cure, <localisation>près de Domecy (Yonne)</localisation>, après avoir traversé les <localisation>communes d’Empury et de Bazoches</localisation>.</definition>
    </article>
-   <article id="DT58-01195" pg="25">
+   <article type="commune" id="DT58-01195" pg="25">
       <vedette>
          <sm>Brinay,</sm>
       </vedette>
@@ -11532,7 +11533,7 @@
       <definition>
          <localisation>commune de Neuville-lez-Brinon</localisation>.</definition>
    </article>
-   <article id="DT58-01197" pg="25">
+   <article type="commune" id="DT58-01197" pg="25">
       <vedette>
          <sm>Brinon-les-Allemands,</sm>
       </vedette>
@@ -13027,7 +13028,7 @@
          <date>1684</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-01364" pg="28">
+   <article type="commune" id="DT58-01364" pg="28">
       <vedette>
          <sm>Bulcy,</sm>
       </vedette>
@@ -13432,7 +13433,7 @@
       <definition>
          <typologie>maison de campagne</typologie>, <localisation>commune de Saint-Maurice</localisation>.</definition>
    </article>
-   <article id="DT58-01401" pg="29">
+   <article type="commune" id="DT58-01401" pg="29">
       <vedette>
          <sm>Bussy-la-Pesle,</sm>
       </vedette>
@@ -14319,7 +14320,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Lucenay-les-Aix</localisation>.</definition>
    </article>
-   <article id="DT58-01502" pg="31">
+   <article type="commune" id="DT58-01502" pg="31">
       <vedette>
          <sm>Celle-sur-Loire (La),</sm>
       </vedette>
@@ -14336,7 +14337,7 @@
          <reference>(arch. de l’Yonne)</reference>.</forme_ancienne>
       <insee>58044</insee>
    </article>
-   <article id="DT58-01503" pg="31">
+   <article type="commune" id="DT58-01503" pg="31">
       <vedette>
          <sm>Celle-sur-Nièvre (La),</sm>
       </vedette>
@@ -14410,7 +14411,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Alluy</localisation>.</definition>
    </article>
-   <article id="DT58-01511" pg="31">
+   <article type="commune" id="DT58-01511" pg="31">
       <vedette>
          <sm>Cercy-la-Tour,</sm>
       </vedette>
@@ -14537,7 +14538,7 @@
          <date>1352</date> 
          <reference>(ch. des franchises de Tannay, cart. de la chambre des comptes de Nevers)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-01522" pg="32">
+   <article type="commune" id="DT58-01522" pg="32">
       <vedette>
          <sm>Cervon,</sm>
       </vedette>
@@ -14577,7 +14578,7 @@
          <p>— Fief de la châtell. de Donzy.</p>
       </commentaire>
    </article>
-   <article id="DT58-01524" pg="32">
+   <article type="commune" id="DT58-01524" pg="32">
       <vedette>
          <sm>Cessy-les-Bois,</sm>
       </vedette>
@@ -15018,7 +15019,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Lamenay</localisation>.</definition>
    </article>
-   <article id="DT58-01563" pg="33">
+   <article type="commune" id="DT58-01563" pg="33">
       <vedette>
          <sm>Chalaux,</sm>
       </vedette>
@@ -15096,7 +15097,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Parize-le-Châtel</localisation>.</definition>
    </article>
-   <article id="DT58-01568" pg="33">
+   <article type="commune" id="DT58-01568" pg="33">
       <vedette>
          <sm>Challement,</sm>
       </vedette>
@@ -15162,7 +15163,7 @@
          <date>1629</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-01573" pg="33">
+   <article type="commune" id="DT58-01573" pg="33">
       <vedette>
          <sm>Challuy,</sm>
       </vedette>
@@ -15859,7 +15860,7 @@
       <definition>
          <typologie>fief</typologie>, <localisation>commune de Cosne</localisation>, mentionné en <date>1667</date> (arch. de l’Yonne, fonds de Cosne).</definition>
    </article>
-   <article id="DT58-01629" pg="35">
+   <article type="commune" id="DT58-01629" pg="35">
       <vedette>
          <pg>35</pg>
          <sm>Champallement,</sm>
@@ -16766,7 +16767,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Cercy-la-Tour</localisation>, mentionné en <date>1323</date> (A. N.).</definition>
    </article>
-   <article id="DT58-01729" pg="36">
+   <article type="commune" id="DT58-01729" pg="36">
       <vedette>
          <sm>Champlemy,</sm>
       </vedette>
@@ -16880,7 +16881,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Brinay</localisation>.</definition>
    </article>
-   <article id="DT58-01734" pg="37">
+   <article type="commune" id="DT58-01734" pg="37">
       <vedette>
          <sm>Champlin,</sm>
       </vedette>
@@ -17505,7 +17506,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Montreuillon</localisation>.</definition>
    </article>
-   <article id="DT58-01805" pg="38">
+   <article type="commune" id="DT58-01805" pg="38">
       <vedette>
          <sm>Champvert,</sm>
       </vedette>
@@ -17530,7 +17531,7 @@
       </commentaire>
       <insee>58055</insee>
    </article>
-   <article id="DT58-01806" pg="38">
+   <article type="commune" id="DT58-01806" pg="38">
       <vedette>
          <sm>Champvoux,</sm>
       </vedette>
@@ -17744,7 +17745,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Varzy</localisation>.</definition>
    </article>
-   <article id="DT58-01828" pg="38">
+   <article type="commune" id="DT58-01828" pg="38">
       <vedette>
          <sm>Chantenay,</sm>
       </vedette>
@@ -18015,7 +18016,7 @@
       <definition>
          <typologie>maison</typologie>, <localisation>commune de Saint-Ouen</localisation>.</definition>
    </article>
-   <article id="DT58-01860" pg="39">
+   <article type="commune" id="DT58-01860" pg="39">
       <vedette>
          <sm>Chapelle-Saint-André (La),</sm>
       </vedette>
@@ -18314,7 +18315,7 @@
       <forme_ancienne>— <i>La Charité</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-01893" pg="40">
+   <article type="commune" id="DT58-01893" pg="40">
       <vedette>
          <sm>Charité-sur-Loire (La),</sm>
       </vedette>
@@ -18661,7 +18662,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dampierre-sur-Bouhy</localisation>.</definition>
    </article>
-   <article id="DT58-01929" pg="41">
+   <article type="commune" id="DT58-01929" pg="41">
       <vedette>
          <sm>Charrin,</sm>
       </vedette>
@@ -18768,7 +18769,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Pouilly</localisation>.</definition>
    </article>
-   <article id="DT58-01939" pg="41">
+   <article type="commune" id="DT58-01939" pg="41">
       <vedette>
          <sm>Chasnay,</sm>
       </vedette>
@@ -19369,7 +19370,7 @@
       <definition>
          <typologie>bois</typologie>, <localisation>commune de Champlemy</localisation>.</definition>
    </article>
-   <article id="DT58-01990" pg="42">
+   <article type="commune" id="DT58-01990" pg="42">
       <vedette>
          <sm>Château-Chinon,</sm>
       </vedette>
@@ -19399,7 +19400,7 @@
       </commentaire>
       <insee>58062</insee>
    </article>
-   <article id="DT58-01991" pg="42">
+   <article type="commune" id="DT58-01991" pg="42">
       <vedette>
          <sm>Château-Chinon-Campagne,</sm>
       </vedette>
@@ -19610,7 +19611,7 @@
          <p>— Châtellenie du duché qui comprenait la partie occidentale du canton de Saint-Pierre et la partie sud-ouest du canton de Nevers ; 50 fiefs en dépendaient.</p>
       </commentaire>
    </article>
-   <article id="DT58-02016" pg="43">
+   <article type="commune" id="DT58-02016" pg="43">
       <vedette>
          <sm>Châteauneuf-Val-de-Bargis,</sm>
       </vedette>
@@ -19794,7 +19795,7 @@
       </vedette>
       <definition>se jette dans l’Yonne, après avoir traversé les <localisation>communes de Challement, de Dirol et de Lys</localisation>.</definition>
    </article>
-   <article id="DT58-02036" pg="43">
+   <article type="commune" id="DT58-02036" pg="43">
       <vedette>
          <sm>Châtillon-en-Bazois,</sm>
       </vedette>
@@ -19863,7 +19864,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Tresnay</localisation>, donne son nom au ruisseau de Châtillon, affluent de l’Allier.</definition>
    </article>
-   <article id="DT58-02038" pg="44">
+   <article type="commune" id="DT58-02038" pg="44">
       <vedette>
          <sm>Châtin,</sm>
       </vedette>
@@ -20010,7 +20011,7 @@
          <p>— Il donne son nom à un bois voisin.</p>
       </commentaire>
    </article>
-   <article id="DT58-02052" pg="44">
+   <article type="commune" id="DT58-02052" pg="44">
       <vedette>
          <sm>Chaulgnes,</sm>
       </vedette>
@@ -20054,7 +20055,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Chaumot-sur-Yonne</localisation>, mentionné en <date>1505</date> (liève d’Eugny).</definition>
    </article>
-   <article id="DT58-02055" pg="44">
+   <article type="commune" id="DT58-02055" pg="44">
       <vedette>
          <sm>Chaumard,</sm>
       </vedette>
@@ -21151,7 +21152,7 @@
       <definition>
          <typologie>écluse</typologie> sur le <localisation>canal du Nivernais</localisation>, <localisation>commune de Chaumot-sur-Yonne</localisation>.</definition>
    </article>
-   <article id="DT58-02186" pg="46">
+   <article type="commune" id="DT58-02186" pg="46">
       <vedette>
          <sm>Chaumot-sur-Yonne,</sm>
       </vedette>
@@ -21480,7 +21481,7 @@
          <date>1689</date> 
          <reference>(reg. des fiefs)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02217" pg="47">
+   <article type="commune" id="DT58-02217" pg="47">
       <vedette>
          <sm>Chazeuil-Lavault,</sm>
       </vedette>
@@ -22113,7 +22114,7 @@
       <forme_ancienne>— <i>Le Grand Chevannes</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02283" pg="48">
+   <article type="commune" id="DT58-02283" pg="48">
       <vedette>
          <sm>Chevannes,</sm>
       </vedette>
@@ -22297,7 +22298,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Cessy-les-Bois</localisation>.</definition>
    </article>
-   <article id="DT58-02295" pg="48">
+   <article type="commune" id="DT58-02295" pg="48">
       <vedette>
          <sm>Chevenon,</sm>
       </vedette>
@@ -22499,7 +22500,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Cizely</localisation>.</definition>
    </article>
-   <article id="DT58-02316" pg="49">
+   <article type="commune" id="DT58-02316" pg="49">
       <vedette>
          <sm>Chevroches,</sm>
       </vedette>
@@ -23011,7 +23012,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de la Celle-sur-Nièvre</localisation>.</definition>
    </article>
-   <article id="DT58-02375" pg="50">
+   <article type="commune" id="DT58-02375" pg="50">
       <vedette>
          <sm>Chiddes,</sm>
       </vedette>
@@ -23119,7 +23120,7 @@
          <p>— C’était un fief de la châtell. de Monceaux-le-Comte et Neuffontaines, vassal du Bouchet.</p>
       </commentaire>
    </article>
-   <article id="DT58-02381" pg="50">
+   <article type="commune" id="DT58-02381" pg="50">
       <vedette>
          <sm>Chitry-les-Mines,</sm>
       </vedette>
@@ -23323,7 +23324,7 @@
          <p>— Petit fief qui relevait de Thianges.</p>
       </commentaire>
    </article>
-   <article id="DT58-02399" pg="50">
+   <article type="commune" id="DT58-02399" pg="50">
       <vedette>
          <sm>Chougny,</sm>
       </vedette>
@@ -23400,7 +23401,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Entrains</localisation>.</definition>
    </article>
-   <article id="DT58-02406" pg="51">
+   <article type="commune" id="DT58-02406" pg="51">
       <vedette>
          <sm>Ciez,</sm>
       </vedette>
@@ -23516,7 +23517,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Pierre</localisation>.</definition>
    </article>
-   <article id="DT58-02417" pg="51">
+   <article type="commune" id="DT58-02417" pg="51">
       <vedette>
          <sm>Cizely,</sm>
       </vedette>
@@ -23574,7 +23575,7 @@
       <forme_ancienne>— <i>La Cloix</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02421" pg="51">
+   <article type="commune" id="DT58-02421" pg="51">
       <vedette>
          <sm>Clamecy,</sm>
       </vedette>
@@ -24210,7 +24211,7 @@
       <forme_ancienne>— <i>La Colâtre</i> ou <i>Chamon-Maillot</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02486" pg="52">
+   <article type="commune" id="DT58-02486" pg="52">
       <vedette>
          <sm>Collancelle (La),</sm>
       </vedette>
@@ -24266,7 +24267,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Glux</localisation>.</definition>
    </article>
-   <article id="DT58-02490" pg="53">
+   <article type="commune" id="DT58-02490" pg="53">
       <vedette>
          <sm>Colmery,</sm>
       </vedette>
@@ -24914,7 +24915,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Bitry</localisation>, donne son nom à un ruisseau affluent de la Malaise.</definition>
    </article>
-   <article id="DT58-02559" pg="54">
+   <article type="commune" id="DT58-02559" pg="54">
       <vedette>
          <sm>Corancy,</sm>
       </vedette>
@@ -24992,7 +24993,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Saint-Agnan</localisation>.</definition>
    </article>
-   <article id="DT58-02565" pg="54">
+   <article type="commune" id="DT58-02565" pg="54">
       <vedette>
          <sm>Corbigny,</sm>
       </vedette>
@@ -25432,7 +25433,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Chiddes</localisation>.</definition>
    </article>
-   <article id="DT58-02610" pg="55">
+   <article type="commune" id="DT58-02610" pg="55">
       <vedette>
          <sm>Corvol-d’Embernard,</sm>
       </vedette>
@@ -25465,7 +25466,7 @@
       </commentaire>
       <insee>58084</insee>
    </article>
-   <article id="DT58-02611" pg="55">
+   <article type="commune" id="DT58-02611" pg="55">
       <vedette>
          <sm>Corvol-l’Orgueilleux,</sm>
       </vedette>
@@ -25534,7 +25535,7 @@
          <p>— Fief de la châtell. de Saint-Verain.</p>
       </commentaire>
    </article>
-   <article id="DT58-02613" pg="55">
+   <article type="commune" id="DT58-02613" pg="55">
       <vedette>
          <sm>Cosne,</sm>
       </vedette>
@@ -25582,7 +25583,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>paroisse de Thaix</localisation>, mentionné en <date>1760</date> (A. D.).</definition>
    </article>
-   <article id="DT58-02615" pg="56">
+   <article type="commune" id="DT58-02615" pg="56">
       <vedette>
          <sm>Cossaye,</sm>
       </vedette>
@@ -26017,7 +26018,7 @@
       <forme_ancienne>— <date>1671</date> 
          <reference>(reg. de Château-Chinon)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02650" pg="57">
+   <article type="commune" id="DT58-02650" pg="57">
       <vedette>
          <sm>Coulanges-lez-Nevers,</sm>
       </vedette>
@@ -26161,7 +26162,7 @@
          <p>— Fief de la châtell. de Decize.</p>
       </commentaire>
    </article>
-   <article id="DT58-02660" pg="57">
+   <article type="commune" id="DT58-02660" pg="57">
       <vedette>
          <sm>Couloutre,</sm>
       </vedette>
@@ -26393,7 +26394,7 @@
          <date>1474</date> 
          <reference>(C.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02684" pg="57">
+   <article type="commune" id="DT58-02684" pg="57">
       <vedette>
          <sm>Courcelles,</sm>
       </vedette>
@@ -26706,7 +26707,7 @@
       <forme_ancienne>— <i>Courgornet</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-02715" pg="58">
+   <article type="commune" id="DT58-02715" pg="58">
       <vedette>
          <sm>Cours-lez-Cosne,</sm>
       </vedette>
@@ -28700,7 +28701,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Isenay</localisation>.</definition>
    </article>
-   <article id="DT58-02944" pg="62">
+   <article type="commune" id="DT58-02944" pg="62">
       <vedette>
          <sm>Crux-la-Ville,</sm>
       </vedette>
@@ -28881,7 +28882,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Cuncy-lez-Varzy</localisation>, porté sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-02959" pg="62">
+   <article type="commune" id="DT58-02959" pg="62">
       <vedette>
          <sm>Cuncy-lez-Varzy,</sm>
       </vedette>
@@ -29171,7 +29172,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Donzy</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-02987" pg="63">
+   <article type="commune" id="DT58-02987" pg="63">
       <vedette>
          <sm>Dampierre-sur-Bouhy,</sm>
       </vedette>
@@ -29325,7 +29326,7 @@
          <date>1700</date> 
          <reference>(S.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03002" pg="63">
+   <article type="commune" id="DT58-03002" pg="63">
       <vedette>
          <sm>Decize,</sm>
       </vedette>
@@ -29568,7 +29569,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Ternant</localisation>.</definition>
    </article>
-   <article id="DT58-03022" pg="64">
+   <article type="commune" id="DT58-03022" pg="64">
       <vedette>
          <sm>Devay,</sm>
       </vedette>
@@ -29627,7 +29628,7 @@
          <p>— Donne son nom à un ruisseau affluent de l’Allier.</p>
       </commentaire>
    </article>
-   <article id="DT58-03024" pg="64">
+   <article type="commune" id="DT58-03024" pg="64">
       <vedette>
          <sm>Diennes,</sm>
       </vedette>
@@ -29702,7 +29703,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Château-Chinon-Campagne</localisation>.</definition>
    </article>
-   <article id="DT58-03030" pg="64">
+   <article type="commune" id="DT58-03030" pg="64">
       <vedette>
          <sm>Dirol,</sm>
       </vedette>
@@ -29972,7 +29973,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dampierre-sur-Bouhy</localisation>.</definition>
    </article>
-   <article id="DT58-03063" pg="65">
+   <article type="commune" id="DT58-03063" pg="65">
       <vedette>
          <sm>Dommartin,</sm>
       </vedette>
@@ -30008,7 +30009,7 @@
          <date>1685</date> 
          <reference>(reg. de Mhère)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03065" pg="65">
+   <article type="commune" id="DT58-03065" pg="65">
       <vedette>
          <sm>Dompierre-sur-Héry,</sm>
       </vedette>
@@ -30031,7 +30032,7 @@
       </commentaire>
       <insee>58100</insee>
    </article>
-   <article id="DT58-03066" pg="65">
+   <article type="commune" id="DT58-03066" pg="65">
       <vedette>
          <sm>Dompierre-sur-Nièvre,</sm>
       </vedette>
@@ -30126,7 +30127,7 @@
          <p>Cette contrée s’étendait dans la partie nord du canton de Donzy, la partie ouest du canton de Varzy et le département de l’Yonne.</p>
       </commentaire>
    </article>
-   <article id="DT58-03076" pg="65">
+   <article type="commune" id="DT58-03076" pg="65">
       <vedette>
          <sm>Donzy,</sm>
       </vedette>
@@ -30242,7 +30243,7 @@
       <forme_ancienne>— <i>Dornand</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03084" pg="66">
+   <article type="commune" id="DT58-03084" pg="66">
       <vedette>
          <sm>Dornecy,</sm>
       </vedette>
@@ -30265,7 +30266,7 @@
       </commentaire>
       <insee>58103</insee>
    </article>
-   <article id="DT58-03085" pg="66">
+   <article type="commune" id="DT58-03085" pg="66">
       <vedette>
          <sm>Dornes,</sm>
       </vedette>
@@ -30523,7 +30524,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Lucenay-les-Aix</localisation>, mentionné en <date>1389</date> (A. N. procès-verbal des limites du Nivernais et du Bourbonnais).</definition>
    </article>
-   <article id="DT58-03107" pg="66">
+   <article type="commune" id="DT58-03107" pg="66">
       <vedette>
          <sm>Druy,</sm>
       </vedette>
@@ -30626,7 +30627,7 @@
          <p>— Fief de la châtell. de Saint-Saulge.</p>
       </commentaire>
    </article>
-   <article id="DT58-03116" pg="67">
+   <article type="commune" id="DT58-03116" pg="67">
       <vedette>
          <sm>Dun-les-Places,</sm>
       </vedette>
@@ -30649,7 +30650,7 @@
          <reference>(arch. de Vésigneux)</reference>.</forme_ancienne>
       <insee>58106</insee>
    </article>
-   <article id="DT58-03117" pg="67">
+   <article type="commune" id="DT58-03117" pg="67">
       <vedette>
          <sm>Dun-sur-Grandry,</sm>
       </vedette>
@@ -31106,7 +31107,7 @@
       <forme_ancienne>— <i>Le Poussoit</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03167" pg="68">
+   <article type="commune" id="DT58-03167" pg="68">
       <vedette>
          <sm>Empury,</sm>
       </vedette>
@@ -31225,7 +31226,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Donzy</localisation>.</definition>
    </article>
-   <article id="DT58-03180" pg="68">
+   <article type="commune" id="DT58-03180" pg="68">
       <vedette>
          <sm>Entrains-sur-Nohain,</sm>
       </vedette>
@@ -31347,7 +31348,7 @@
       <definition>
          <localisation>commune de Saint-Parize-le-Châtel</localisation>.</definition>
    </article>
-   <article id="DT58-03188" pg="68">
+   <article type="commune" id="DT58-03188" pg="68">
       <vedette>
          <sm>Épiry,</sm>
       </vedette>
@@ -32718,7 +32719,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d’Avril</localisation>.</definition>
    </article>
-   <article id="DT58-03337" pg="71">
+   <article type="commune" id="DT58-03337" pg="71">
       <vedette>
          <sm>Fermeté (La),</sm>
       </vedette>
@@ -32950,7 +32951,7 @@
       <definition>
          <typologie>château et hameau</typologie>, <localisation>commune de Gimouille</localisation>.</definition>
    </article>
-   <article id="DT58-03357" pg="72">
+   <article type="commune" id="DT58-03357" pg="72">
       <vedette>
          <sm>Fertrève,</sm>
       </vedette>
@@ -33241,7 +33242,7 @@
          <date>1478</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03383" pg="73">
+   <article type="commune" id="DT58-03383" pg="73">
       <vedette>
          <sm>Fléty,</sm>
       </vedette>
@@ -33313,7 +33314,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Decize</localisation>.</definition>
    </article>
-   <article id="DT58-03388" pg="73">
+   <article type="commune" id="DT58-03388" pg="73">
       <vedette>
          <sm>Fleury-la-Tour,</sm>
       </vedette>
@@ -33342,7 +33343,7 @@
          <reference>(S.)</reference>.</forme_ancienne>
       <insee>58292</insee>
    </article>
-   <article id="DT58-03389" pg="73">
+   <article type="commune" id="DT58-03389" pg="73">
       <vedette>
          <sm>Fleury-sur-Loire,</sm>
       </vedette>
@@ -33365,7 +33366,7 @@
       </commentaire>
       <insee>58115</insee>
    </article>
-   <article id="DT58-03390" pg="73">
+   <article type="commune" id="DT58-03390" pg="73">
       <vedette>
          <sm>Flez,</sm>
       </vedette>
@@ -35584,7 +35585,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Couloutre</localisation>.</definition>
    </article>
-   <article id="DT58-03642" pg="77">
+   <article type="commune" id="DT58-03642" pg="77">
       <vedette>
          <sm>Fourchambault,</sm>
       </vedette>
@@ -35857,7 +35858,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Diennes</localisation>, mentionné en <date>1285</date> (S.).</definition>
    </article>
-   <article id="DT58-03674" pg="78">
+   <article type="commune" id="DT58-03674" pg="78">
       <vedette>
          <sm>Fours,</sm>
       </vedette>
@@ -36187,7 +36188,7 @@
          <p>— Collégiale composée de douze chanoines et d’un doyen et paroisse. — Frasnay-les-Chanoines était la troisième baronnie du Nivernais.</p>
       </commentaire>
    </article>
-   <article id="DT58-03702" pg="79">
+   <article type="commune" id="DT58-03702" pg="79">
       <vedette>
          <sm>Frasnay-le-Ravier,</sm>
       </vedette>
@@ -36400,7 +36401,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Pierre-le-Moûtier</localisation>.</definition>
    </article>
-   <article id="DT58-03723" pg="79">
+   <article type="commune" id="DT58-03723" pg="79">
       <vedette>
          <sm>Fretoy,</sm>
       </vedette>
@@ -36600,7 +36601,7 @@
       <forme_ancienne>— <i>Le Lac-Gachat</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03745" pg="80">
+   <article type="commune" id="DT58-03745" pg="80">
       <vedette>
          <sm>Gâcogne,</sm>
       </vedette>
@@ -36862,7 +36863,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Roche-Millay</localisation>.</definition>
    </article>
-   <article id="DT58-03772" pg="80">
+   <article type="commune" id="DT58-03772" pg="80">
       <vedette>
          <sm>Garchizy,</sm>
       </vedette>
@@ -36885,7 +36886,7 @@
          <reference>(A. N.)</reference>.</forme_ancienne>
       <insee>58121</insee>
    </article>
-   <article id="DT58-03773" pg="80">
+   <article type="commune" id="DT58-03773" pg="80">
       <vedette>
          <sm>Garchy,</sm>
       </vedette>
@@ -37712,7 +37713,7 @@
       <forme_ancienne>— <i>Moulin de Germanté</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03869" pg="82">
+   <article type="commune" id="DT58-03869" pg="82">
       <vedette>
          <sm>Germenay,</sm>
       </vedette>
@@ -37743,7 +37744,7 @@
       <definition>
          <typologie>village</typologie>, <localisation>commune de Thianges</localisation>.</definition>
    </article>
-   <article id="DT58-03872" pg="82">
+   <article type="commune" id="DT58-03872" pg="82">
       <vedette>
          <sm>Germigny,</sm>
       </vedette>
@@ -37840,7 +37841,7 @@
          <date>1780</date> 
          <reference>(reg. de Pouques)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03881" pg="82">
+   <article type="commune" id="DT58-03881" pg="82">
       <vedette>
          <sm>Gien-sur-Cure,</sm>
       </vedette>
@@ -37914,7 +37915,7 @@
       <forme_ancienne>— <i>Les Gillots</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-03889" pg="82">
+   <article type="commune" id="DT58-03889" pg="82">
       <vedette>
          <sm>Gimouille,</sm>
       </vedette>
@@ -38056,7 +38057,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Varennes-lez-Narcy</localisation>.</definition>
    </article>
-   <article id="DT58-03904" pg="82">
+   <article type="commune" id="DT58-03904" pg="82">
       <vedette>
          <sm>Giry,</sm>
       </vedette>
@@ -38231,7 +38232,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Lamenay</localisation>.</definition>
    </article>
-   <article id="DT58-03915" pg="83">
+   <article type="commune" id="DT58-03915" pg="83">
       <vedette>
          <sm>Glux,</sm>
       </vedette>
@@ -38590,7 +38591,7 @@
       <definition>
          <localisation>commune de Lormes</localisation> ; ce petit cours d’eau, réuni au ruisseau Cornillat, forme la rivière d’Auxois.</definition>
    </article>
-   <article id="DT58-03960" pg="84">
+   <article type="commune" id="DT58-03960" pg="84">
       <vedette>
          <sm>Gouloux,</sm>
       </vedette>
@@ -40365,7 +40366,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Saint-Germain-Chassenay</localisation>, mentionné en <date>1457</date> (A. D.).</definition>
    </article>
-   <article id="DT58-04166" pg="87">
+   <article type="commune" id="DT58-04166" pg="87">
       <vedette>
          <sm>Grenois,</sm>
       </vedette>
@@ -41015,7 +41016,7 @@
       <forme_ancienne>— <i>Les Guérignaux</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-04244" pg="88">
+   <article type="commune" id="DT58-04244" pg="88">
       <vedette>
          <sm>Guérigny,</sm>
       </vedette>
@@ -41394,7 +41395,7 @@
       <definition>
          <typologie>ferme détruite</typologie>, <localisation>commune de Decize</localisation>, portée sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-04282" pg="89">
+   <article type="commune" id="DT58-04282" pg="89">
       <vedette>
          <sm>Guipy,</sm>
       </vedette>
@@ -41990,7 +41991,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Millay</localisation>, mentionné en <date>1770</date> (reg. de Millay).</definition>
    </article>
-   <article id="DT58-04348" pg="90">
+   <article type="commune" id="DT58-04348" pg="90">
       <vedette>
          <sm>Héry,</sm>
       </vedette>
@@ -43358,7 +43359,7 @@
       <definition>
          <typologie>îles de la Loire</typologie> en partie disparues, situées en face de Meauce, <localisation>commune de Saincaize</localisation>, mentionnées en <date>1675</date> (A. N.).</definition>
    </article>
-   <article id="DT58-04504" pg="93">
+   <article type="commune" id="DT58-04504" pg="93">
       <vedette>
          <sm>Imphy,</sm>
       </vedette>
@@ -43430,7 +43431,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Sémelay</localisation>.</definition>
    </article>
-   <article id="DT58-04510" pg="93">
+   <article type="commune" id="DT58-04510" pg="93">
       <vedette>
          <sm>Isenay,</sm>
       </vedette>
@@ -43627,7 +43628,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Decize</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
-   <article id="DT58-04529" pg="94">
+   <article type="commune" id="DT58-04529" pg="94">
       <vedette>
          <sm>Jailly,</sm>
       </vedette>
@@ -44631,7 +44632,7 @@
          <date>1660</date> 
          <reference>(reg. de Mhère)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-04641" pg="96">
+   <article type="commune" id="DT58-04641" pg="96">
       <vedette>
          <sm>Lâché,</sm>
       </vedette>
@@ -44838,7 +44839,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Garchizy</localisation>, porté sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-04665" pg="96">
+   <article type="commune" id="DT58-04665" pg="96">
       <vedette>
          <sm>Lamenay,</sm>
       </vedette>
@@ -44999,7 +45000,7 @@
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Saint-Brisson</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-04681" pg="97">
+   <article type="commune" id="DT58-04681" pg="97">
       <vedette>
          <sm>Langeron,</sm>
       </vedette>
@@ -46279,7 +46280,7 @@
          <p>— Fief de la châtell. de Montenoison. — Ce hameau doit son surnom à un château dont l’emplacement considérable, encore marqué par des lignes de circonvallation, se voit au nord-est de Saint-Benin-des-Bois, près de la ferme de la Croix-de-Fer.</p>
       </commentaire>
    </article>
-   <article id="DT58-04827" pg="100">
+   <article type="commune" id="DT58-04827" pg="100">
       <vedette>
          <sm>Limanton,</sm>
       </vedette>
@@ -46315,7 +46316,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Magny-Cours</localisation>, mentionné en <date>1574</date> (S.).</definition>
    </article>
-   <article id="DT58-04829" pg="100">
+   <article type="commune" id="DT58-04829" pg="100">
       <vedette>
          <sm>Limon,</sm>
       </vedette>
@@ -46458,7 +46459,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Saint-Pierre-le-Moûtier</localisation>, porté sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-04845" pg="100">
+   <article type="commune" id="DT58-04845" pg="100">
       <vedette>
          <sm>Livry,</sm>
       </vedette>
@@ -46991,7 +46992,7 @@
          <p>— Fief vassal du comté de Château-Chinon.</p>
       </commentaire>
    </article>
-   <article id="DT58-04912" pg="101">
+   <article type="commune" id="DT58-04912" pg="101">
       <vedette>
          <sm>Lormes,</sm>
       </vedette>
@@ -47273,7 +47274,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Arquian</localisation>.</definition>
    </article>
-   <article id="DT58-04946" pg="102">
+   <article type="commune" id="DT58-04946" pg="102">
       <vedette>
          <sm>Lucenay-les-Aix,</sm>
       </vedette>
@@ -47425,7 +47426,7 @@
       <definition>
          <typologie>fief</typologie>, <localisation>commune de Lucenay-les-Aix</localisation>, dépendant de la châtellenie de Decize, mentionné en <date>1778</date> (A. D.).</definition>
    </article>
-   <article id="DT58-04959" pg="102">
+   <article type="commune" id="DT58-04959" pg="102">
       <vedette>
          <sm>Lurcy-le-Bourg,</sm>
       </vedette>
@@ -47519,7 +47520,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Trois-Vêvres</localisation>.</definition>
    </article>
-   <article id="DT58-04964" pg="103">
+   <article type="commune" id="DT58-04964" pg="103">
       <vedette>
          <sm>Luthenay,</sm>
       </vedette>
@@ -47581,7 +47582,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Parize-le-Châtel</localisation>.</definition>
    </article>
-   <article id="DT58-04969" pg="103">
+   <article type="commune" id="DT58-04969" pg="103">
       <vedette>
          <sm>Luzy,</sm>
       </vedette>
@@ -47650,7 +47651,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Donzy</localisation>.</definition>
    </article>
-   <article id="DT58-04975" pg="103">
+   <article type="commune" id="DT58-04975" pg="103">
       <vedette>
          <sm>Lys,</sm>
       </vedette>
@@ -47703,7 +47704,7 @@
       <definition>
          <typologie>village détruit</typologie>, mentionné en <date>1481</date> comme étant près de Nevers.</definition>
    </article>
-   <article id="DT58-04979" pg="103">
+   <article type="commune" id="DT58-04979" pg="103">
       <vedette>
          <sm>Machine (La),</sm>
       </vedette>
@@ -47844,7 +47845,7 @@
       <definition>
          <typologie>maison de campagne et ferme</typologie>, <localisation>commune de la Roche-Millay</localisation>.</definition>
    </article>
-   <article id="DT58-04993" pg="104">
+   <article type="commune" id="DT58-04993" pg="104">
       <vedette>
          <sm>Magny,</sm>
       </vedette>
@@ -48050,7 +48051,7 @@
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Magny-Lormes</localisation>.</definition>
    </article>
-   <article id="DT58-05006" pg="104">
+   <article type="commune" id="DT58-05006" pg="104">
       <vedette>
          <sm>Magny-Lormes,</sm>
       </vedette>
@@ -48418,7 +48419,7 @@
       <definition>
          <typologie>maison</typologie>, <localisation>commune de Sermages</localisation>.</definition>
    </article>
-   <article id="DT58-05052" pg="105">
+   <article type="commune" id="DT58-05052" pg="105">
       <vedette>
          <sm>Maison-Dieu (La),</sm>
       </vedette>
@@ -49710,7 +49711,7 @@
       <definition>
          <localisation>commune de Rix</localisation>.</definition>
    </article>
-   <article id="DT58-05199" pg="108">
+   <article type="commune" id="DT58-05199" pg="108">
       <vedette>
          <sm>Marche (La),</sm>
       </vedette>
@@ -49864,7 +49865,7 @@
          <p>— Fief de la châtell. de Champvert, puis de celle de Decize.</p>
       </commentaire>
    </article>
-   <article id="DT58-05216" pg="108">
+   <article type="commune" id="DT58-05216" pg="108">
       <vedette>
          <sm>Marcy,</sm>
       </vedette>
@@ -50315,7 +50316,7 @@
          <p>— Ancien fief annexé à celui de Marigny-l’Église, <date>1689</date> (reg. des fiefs), châtell. de Monceaux-le-Comte.</p>
       </commentaire>
    </article>
-   <article id="DT58-05256" pg="109">
+   <article type="commune" id="DT58-05256" pg="109">
       <vedette>
          <sm>Marigny-l’Église,</sm>
       </vedette>
@@ -50357,7 +50358,7 @@
          <date>1476</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05258" pg="109">
+   <article type="commune" id="DT58-05258" pg="109">
       <vedette>
          <sm>Marigny-sur-Yonne,</sm>
       </vedette>
@@ -50808,7 +50809,7 @@
          <p>— Fief de la châtell. de Moulins-Engilbert, vassal de la Roche-Millay, qui fut divisé en deux en <date>1500</date> ; l’un des nouveaux fiefs fut uni à la Bussière, l’autre à la Montagne-Saint-Honoré.</p>
       </commentaire>
    </article>
-   <article id="DT58-05299" pg="110">
+   <article type="commune" id="DT58-05299" pg="110">
       <vedette>
          <sm>Mars-sur-Allier,</sm>
       </vedette>
@@ -51115,7 +51116,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Saint-Ouen</localisation>, mentionné en <date>1368</date> (A. D.).</definition>
    </article>
-   <article id="DT58-05330" pg="111">
+   <article type="commune" id="DT58-05330" pg="111">
       <vedette>
          <sm>Marzy,</sm>
       </vedette>
@@ -51451,7 +51452,7 @@
          <date>1575</date> 
          <reference>(C.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05365" pg="112">
+   <article type="commune" id="DT58-05365" pg="112">
       <vedette>
          <sm>Maulaix,</sm>
       </vedette>
@@ -51652,7 +51653,7 @@
          <date>1547</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05383" pg="112">
+   <article type="commune" id="DT58-05383" pg="112">
       <vedette>
          <sm>Maux,</sm>
       </vedette>
@@ -52071,7 +52072,7 @@
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Brassy</localisation>, mentionné en <date>1750</date> (reg. de Brassy).</definition>
    </article>
-   <article id="DT58-05422" pg="113">
+   <article type="commune" id="DT58-05422" pg="113">
       <vedette>
          <sm>Ménestreau,</sm>
       </vedette>
@@ -52155,7 +52156,7 @@
          <date>1765</date> 
          <reference>(reg. de Brassy)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05429" pg="113">
+   <article type="commune" id="DT58-05429" pg="113">
       <vedette>
          <sm>Menou,</sm>
       </vedette>
@@ -52624,7 +52625,7 @@
          <p>— Il tire son nom de la famille Garnier, dont un membre fut notaire à Gouloux en <date>1665</date>.</p>
       </commentaire>
    </article>
-   <article id="DT58-05484" pg="114">
+   <article type="commune" id="DT58-05484" pg="114">
       <vedette>
          <sm>Metz-le-Comte,</sm>
       </vedette>
@@ -52877,7 +52878,7 @@
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Biches</localisation>, mentionné en <date>1515</date> (C.).</definition>
    </article>
-   <article id="DT58-05509" pg="115">
+   <article type="commune" id="DT58-05509" pg="115">
       <vedette>
          <sm>Mêves,</sm>
       </vedette>
@@ -53012,7 +53013,7 @@
          <date>1684</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05521" pg="115">
+   <article type="commune" id="DT58-05521" pg="115">
       <vedette>
          <sm>Mhère,</sm>
       </vedette>
@@ -53072,7 +53073,7 @@
       <forme_ancienne>— <i>Meat</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05525" pg="115">
+   <article type="commune" id="DT58-05525" pg="115">
       <vedette>
          <sm>Michaugues,</sm>
       </vedette>
@@ -53355,7 +53356,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Sermages</localisation>.</definition>
    </article>
-   <article id="DT58-05555" pg="115">
+   <article type="commune" id="DT58-05555" pg="115">
       <vedette>
          <sm>Millay,</sm>
       </vedette>
@@ -53864,7 +53865,7 @@
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de la Roche-Millay</localisation>.</definition>
    </article>
-   <article id="DT58-05610" pg="116">
+   <article type="commune" id="DT58-05610" pg="116">
       <vedette>
          <sm>Moissy-Moulinot,</sm>
       </vedette>
@@ -54169,7 +54170,7 @@
          <date>1317</date> 
          <reference>(C.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05643" pg="117">
+   <article type="commune" id="DT58-05643" pg="117">
       <vedette>
          <sm>Monceaux-le-Comte,</sm>
       </vedette>
@@ -54992,7 +54993,7 @@
          <date>1532</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05719" pg="119">
+   <article type="commune" id="DT58-05719" pg="119">
       <vedette>
          <sm>Montambert,</sm>
       </vedette>
@@ -55056,7 +55057,7 @@
          <p>— Fief vassal de la Roche-Millay.</p>
       </commentaire>
    </article>
-   <article id="DT58-05724" pg="119">
+   <article type="commune" id="DT58-05724" pg="119">
       <vedette>
          <sm>Montapas,</sm>
       </vedette>
@@ -55147,7 +55148,7 @@
          <p>— Fief de la châtell. de Luzy.</p>
       </commentaire>
    </article>
-   <article id="DT58-05730" pg="119">
+   <article type="commune" id="DT58-05730" pg="119">
       <vedette>
          <sm>Montaron,</sm>
       </vedette>
@@ -55757,7 +55758,7 @@
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Saint-Parize-en-Viry</localisation>.</definition>
    </article>
-   <article id="DT58-05791" pg="121">
+   <article type="commune" id="DT58-05791" pg="121">
       <vedette>
          <sm>Mont-en-Bazois,</sm>
       </vedette>
@@ -55779,7 +55780,7 @@
       <forme_ancienne>— <i>Mont-et-Marré,</i> depuis la réunion de Marré.</forme_ancienne>
       <insee>58175</insee>
    </article>
-   <article id="DT58-05792" pg="121">
+   <article type="commune" id="DT58-05792" pg="121">
       <vedette>
          <sm>Montenoison,</sm>
       </vedette>
@@ -56155,7 +56156,7 @@
       <definition>
          <localisation>commune de Montigny-sur-Canne</localisation>.</definition>
    </article>
-   <article id="DT58-05829" pg="122">
+   <article type="commune" id="DT58-05829" pg="122">
       <vedette>
          <sm>Montigny-aux-Amognes,</sm>
       </vedette>
@@ -56184,7 +56185,7 @@
       </commentaire>
       <insee>58176</insee>
    </article>
-   <article id="DT58-05830" pg="122">
+   <article type="commune" id="DT58-05830" pg="122">
       <vedette>
          <sm>Montigny-en-Morvand,</sm>
       </vedette>
@@ -56207,7 +56208,7 @@
       </commentaire>
       <insee>58177</insee>
    </article>
-   <article id="DT58-05831" pg="122">
+   <article type="commune" id="DT58-05831" pg="122">
       <vedette>
          <sm>Montigny-sur-Canne,</sm>
       </vedette>
@@ -56704,7 +56705,7 @@
          <date>1779</date> 
          <reference>(C.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05880" pg="123">
+   <article type="commune" id="DT58-05880" pg="123">
       <vedette>
          <sm>Montreuillon,</sm>
       </vedette>
@@ -56811,7 +56812,7 @@
          <p>— Fief de la châtell. de Monceaux-le-Comte et Neuffontaines.</p>
       </commentaire>
    </article>
-   <article id="DT58-05888" pg="123">
+   <article type="commune" id="DT58-05888" pg="123">
       <vedette>
          <sm>Montsauche,</sm>
       </vedette>
@@ -56950,7 +56951,7 @@
       <forme_ancienne>— <i>Marquerie</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-05899" pg="124">
+   <article type="commune" id="DT58-05899" pg="124">
       <vedette>
          <sm>Moraches,</sm>
       </vedette>
@@ -59871,7 +59872,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1638</date> 
          <reference>(Marolles)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06241" pg="130">
+   <article type="commune" id="DT58-06241" pg="130">
       <vedette>
          <sm>Moulins-Engilbert,</sm>
       </vedette>
@@ -60058,7 +60059,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Moulins-Engilbert.</p>
       </commentaire>
    </article>
-   <article id="DT58-06254" pg="131">
+   <article type="commune" id="DT58-06254" pg="131">
       <vedette>
          <sm>Mouron,</sm>
       </vedette>
@@ -60303,7 +60304,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Le bas Moussus</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06277" pg="132">
+   <article type="commune" id="DT58-06277" pg="132">
       <vedette>
          <sm>Moussy,</sm>
       </vedette>
@@ -60456,7 +60457,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Dampierre-sur-Bouhy</localisation>.</definition>
    </article>
-   <article id="DT58-06292" pg="132">
+   <article type="commune" id="DT58-06292" pg="132">
       <vedette>
          <sm>Moux,</sm>
       </vedette>
@@ -60665,7 +60666,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1668</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06312" pg="133">
+   <article type="commune" id="DT58-06312" pg="133">
       <vedette>
          <sm>Murlin,</sm>
       </vedette>
@@ -60809,7 +60810,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Châteauneuf-sur-Allier qui a donné son nom à un bois voisin.</p>
       </commentaire>
    </article>
-   <article id="DT58-06326" pg="133">
+   <article type="commune" id="DT58-06326" pg="133">
       <vedette>
          <sm>Myennes,</sm>
       </vedette>
@@ -60864,7 +60865,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Champlemy</localisation>.</definition>
    </article>
-   <article id="DT58-06331" pg="133">
+   <article type="commune" id="DT58-06331" pg="133">
       <vedette>
          <sm>Nannay,</sm>
       </vedette>
@@ -60981,7 +60982,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <localisation>commune de Challement</localisation>.</definition>
    </article>
-   <article id="DT58-06339" pg="133">
+   <article type="commune" id="DT58-06339" pg="133">
       <vedette>
          <sm>Narcy,</sm>
       </vedette>
@@ -61237,7 +61238,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1742</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06361" pg="134">
+   <article type="commune" id="DT58-06361" pg="134">
       <vedette>
          <sm>Neuffontaines,</sm>
       </vedette>
@@ -61316,7 +61317,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Châteauneuf-sur-Allier.</p>
       </commentaire>
    </article>
-   <article id="DT58-06366" pg="134">
+   <article type="commune" id="DT58-06366" pg="134">
       <vedette>
          <sm>Neuilly,</sm>
       </vedette>
@@ -61466,7 +61467,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief vassal de l’év. d’Auxerre.</p>
       </commentaire>
    </article>
-   <article id="DT58-06378" pg="134">
+   <article type="commune" id="DT58-06378" pg="134">
       <vedette>
          <sm>Neuville-lez-Brinon,</sm>
       </vedette>
@@ -61483,7 +61484,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58283</insee>
    </article>
-   <article id="DT58-06379" pg="134">
+   <article type="commune" id="DT58-06379" pg="134">
       <vedette>
          <sm>Neuville-lez-Decize,</sm>
       </vedette>
@@ -61523,7 +61524,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1309</date> 
          <reference>(A. N. fonds de Roches)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06382" pg="134">
+   <article type="commune" id="DT58-06382" pg="134">
       <vedette>
          <sm>Neuvy-sur-Loire,</sm>
       </vedette>
@@ -61621,7 +61622,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1760</date> 
          <reference>(terrier de Saint-Pierre-du-Mont)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06388" pg="135">
+   <article type="commune" id="DT58-06388" pg="135">
       <vedette>
          <sm>Nevers,</sm>
       </vedette>
@@ -61886,7 +61887,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Noblot</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06410" pg="136">
+   <article type="commune" id="DT58-06410" pg="136">
       <vedette>
          <sm>Nocle (La),</sm>
       </vedette>
@@ -62050,7 +62051,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>village</typologie>, <localisation>commune de Thianges</localisation>.</definition>
    </article>
-   <article id="DT58-06423" pg="137">
+   <article type="commune" id="DT58-06423" pg="137">
       <vedette>
          <sm>Nolay,</sm>
       </vedette>
@@ -62297,7 +62298,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <date>1584</date> 
          <reference>(Marolles)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06449" pg="137">
+   <article type="commune" id="DT58-06449" pg="137">
       <vedette>
          <sm>Nuars,</sm>
       </vedette>
@@ -62373,7 +62374,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </vedette>
       <definition>affluent de la Loire, <localisation>commune de la Celle-sur-Loire</localisation>.</definition>
    </article>
-   <article id="DT58-06457" pg="137">
+   <article type="commune" id="DT58-06457" pg="137">
       <vedette>
          <sm>Oisy,</sm>
       </vedette>
@@ -62517,7 +62518,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Varennes-lez-Narcy</localisation>, porté sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-06470" pg="138">
+   <article type="commune" id="DT58-06470" pg="138">
       <vedette>
          <sm>Onlay,</sm>
       </vedette>
@@ -62685,7 +62686,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
             <sup>e</sup> siècle</date> 
          <reference>(C.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06485" pg="138">
+   <article type="commune" id="DT58-06485" pg="138">
       <vedette>
          <sm>Ouagne,</sm>
       </vedette>
@@ -62846,7 +62847,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>maison et carrière</typologie>, <localisation>commune de Ternant</localisation>.</definition>
    </article>
-   <article id="DT58-06502" pg="138">
+   <article type="commune" id="DT58-06502" pg="138">
       <vedette>
          <sm>Oudan,</sm>
       </vedette>
@@ -62903,7 +62904,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Les Hodots</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06506" pg="139">
+   <article type="commune" id="DT58-06506" pg="139">
       <vedette>
          <pg>139</pg>
          <sm>Ougny,</sm>
@@ -62979,7 +62980,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Decize.</p>
       </commentaire>
    </article>
-   <article id="DT58-06511" pg="139">
+   <article type="commune" id="DT58-06511" pg="139">
       <vedette>
          <sm>Oulon,</sm>
       </vedette>
@@ -63009,7 +63010,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Montigny-sur-Canne</localisation>.</definition>
    </article>
-   <article id="DT58-06513" pg="139">
+   <article type="commune" id="DT58-06513" pg="139">
       <vedette>
          <sm>Ourouer,</sm>
       </vedette>
@@ -63049,7 +63050,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58204</insee>
    </article>
-   <article id="DT58-06514" pg="139">
+   <article type="commune" id="DT58-06514" pg="139">
       <vedette>
          <sm>Ouroux,</sm>
       </vedette>
@@ -63697,7 +63698,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1777</date> 
          <reference>(arch. de l’Yonne, inv. de Villemoison)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06581" pg="140">
+   <article type="commune" id="DT58-06581" pg="140">
       <vedette>
          <sm>Parigny-la-Rose,</sm>
       </vedette>
@@ -63711,7 +63712,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58206</insee>
    </article>
-   <article id="DT58-06582" pg="140">
+   <article type="commune" id="DT58-06582" pg="140">
       <vedette>
          <sm>Parigny-les-Vaux,</sm>
       </vedette>
@@ -64414,7 +64415,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui comprenait la plus grande partie des <localisation>cantons de Dornes et de Saint-Pierre-le-Moûtier</localisation>.</definition>
    </article>
-   <article id="DT58-06662" pg="142">
+   <article type="commune" id="DT58-06662" pg="142">
       <vedette>
          <sm>Pazy,</sm>
       </vedette>
@@ -64914,7 +64915,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Saint-Hilaire-Fontaine</localisation> ; ancienne seigneurie mentionnée en <date>1610</date> (S.).</definition>
    </article>
-   <article id="DT58-06716" pg="143">
+   <article type="commune" id="DT58-06716" pg="143">
       <vedette>
          <sm>Perroy,</sm>
       </vedette>
@@ -66530,7 +66531,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1607</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-06916" pg="146">
+   <article type="commune" id="DT58-06916" pg="146">
       <vedette>
          <sm>Planchez,</sm>
       </vedette>
@@ -67023,7 +67024,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Clamecy</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-06968" pg="147">
+   <article type="commune" id="DT58-06968" pg="147">
       <vedette>
          <sm>Poil,</sm>
       </vedette>
@@ -67199,7 +67200,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          </p>
       </commentaire>
    </article>
-   <article id="DT58-06986" pg="147">
+   <article type="commune" id="DT58-06986" pg="147">
       <vedette>
          <sm>Poiseux,</sm>
       </vedette>
@@ -68393,7 +68394,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>tuilerie</typologie>, <localisation>commune de Saint-Pierre-du-Mont</localisation>.</definition>
    </article>
-   <article id="DT58-07120" pg="149">
+   <article type="commune" id="DT58-07120" pg="149">
       <vedette>
          <sm>Pougny,</sm>
       </vedette>
@@ -68413,7 +68414,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58213</insee>
    </article>
-   <article id="DT58-07121" pg="150">
+   <article type="commune" id="DT58-07121" pg="150">
       <vedette>
          <pg>150</pg>
          <sm>Pougues-les-Eaux,</sm>
@@ -68513,7 +68514,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Arleuf</localisation>.</definition>
    </article>
-   <article id="DT58-07128" pg="150">
+   <article type="commune" id="DT58-07128" pg="150">
       <vedette>
          <sm>Pouilly-sur-Loire,</sm>
       </vedette>
@@ -68653,7 +68654,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>granges et écuries</typologie>, <localisation>commune d’Arquian</localisation>.</definition>
    </article>
-   <article id="DT58-07140" pg="150">
+   <article type="commune" id="DT58-07140" pg="150">
       <vedette>
          <sm>Pouques,</sm>
       </vedette>
@@ -68725,7 +68726,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Montambert-Tannay</localisation>, porté sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07145" pg="150">
+   <article type="commune" id="DT58-07145" pg="150">
       <vedette>
          <sm>Pousseaux,</sm>
       </vedette>
@@ -68774,7 +68775,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1638</date> 
          <reference>(Marolles)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07149" pg="150">
+   <article type="commune" id="DT58-07149" pg="150">
       <vedette>
          <sm>Poussignol,</sm>
       </vedette>
@@ -69411,7 +69412,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Luzy.</p>
       </commentaire>
    </article>
-   <article id="DT58-07219" pg="152">
+   <article type="commune" id="DT58-07219" pg="152">
       <vedette>
          <sm>Prémery,</sm>
       </vedette>
@@ -69516,7 +69517,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </vedette>
       <definition>affluent de l’Yonne, <localisation>commune d’Arleuf</localisation>.</definition>
    </article>
-   <article id="DT58-07230" pg="152">
+   <article type="commune" id="DT58-07230" pg="152">
       <vedette>
          <sm>Préporché,</sm>
       </vedette>
@@ -71289,7 +71290,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1772</date> 
          <reference>(plan de Beauvoir)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07420" pg="156">
+   <article type="commune" id="DT58-07420" pg="156">
       <vedette>
          <sm>Raveau,</sm>
       </vedette>
@@ -71628,7 +71629,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Nevers, vassal de l’évêché.</p>
       </commentaire>
    </article>
-   <article id="DT58-07456" pg="156">
+   <article type="commune" id="DT58-07456" pg="156">
       <vedette>
          <sm>Rémilly,</sm>
       </vedette>
@@ -71970,7 +71971,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Montreuillon.</p>
       </commentaire>
    </article>
-   <article id="DT58-07492" pg="157">
+   <article type="commune" id="DT58-07492" pg="157">
       <vedette>
          <sm>Reugny,</sm>
       </vedette>
@@ -72809,7 +72810,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Les Rivières</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07577" pg="159">
+   <article type="commune" id="DT58-07577" pg="159">
       <vedette>
          <sm>Rix,</sm>
       </vedette>
@@ -73187,7 +73188,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Moulins-Engilbert.</p>
       </commentaire>
    </article>
-   <article id="DT58-07621" pg="160">
+   <article type="commune" id="DT58-07621" pg="160">
       <vedette>
          <sm>Roche-Millay (La),</sm>
       </vedette>
@@ -74130,7 +74131,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Biches</localisation>.</definition>
    </article>
-   <article id="DT58-07719" pg="161">
+   <article type="commune" id="DT58-07719" pg="161">
       <vedette>
          <sm>Rouy,</sm>
       </vedette>
@@ -74206,7 +74207,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Donzy</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
-   <article id="DT58-07725" pg="162">
+   <article type="commune" id="DT58-07725" pg="162">
       <vedette>
          <sm>Ruages,</sm>
       </vedette>
@@ -74726,7 +74727,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>près de Moulins-Engilbert</localisation> ; seigneurie mentionnée en <date>1573</date> (C.).</definition>
    </article>
-   <article id="DT58-07790" pg="163">
+   <article type="commune" id="DT58-07790" pg="163">
       <vedette>
          <sm>Saincaize,</sm>
       </vedette>
@@ -74779,7 +74780,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Vielmanay</localisation>.</definition>
    </article>
-   <article id="DT58-07793" pg="163">
+   <article type="commune" id="DT58-07793" pg="163">
       <vedette>
          <sm>Saint-Agnan,</sm>
       </vedette>
@@ -74793,7 +74794,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(A. N.)</reference>.</forme_ancienne>
       <insee>58226</insee>
    </article>
-   <article id="DT58-07794" pg="163">
+   <article type="commune" id="DT58-07794" pg="163">
       <vedette>
          <sm>Saint-Amand-en-Puisaye,</sm>
       </vedette>
@@ -74814,7 +74815,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58227</insee>
    </article>
-   <article id="DT58-07795" pg="163">
+   <article type="commune" id="DT58-07795" pg="163">
       <vedette>
          <sm>Saint-Andelain,</sm>
       </vedette>
@@ -74854,7 +74855,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>commune de Saint-Léger-de-Fougeret</localisation>, mentionnée en <date>1573</date> (Lory).</definition>
    </article>
-   <article id="DT58-07798" pg="163">
+   <article type="commune" id="DT58-07798" pg="163">
       <vedette>
          <sm>Saint-André-en-Morvand,</sm>
       </vedette>
@@ -74910,7 +74911,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </vedette>
       <definition>détruite, <localisation>commune d’Oisy</localisation>, portée sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07804" pg="163">
+   <article type="commune" id="DT58-07804" pg="163">
       <vedette>
          <sm>Saint-Aubin-des-Chaumes,</sm>
       </vedette>
@@ -74921,7 +74922,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(A. N.)</reference>.</forme_ancienne>
       <insee>58230</insee>
    </article>
-   <article id="DT58-07805" pg="163">
+   <article type="commune" id="DT58-07805" pg="163">
       <vedette>
          <sm>Saint-Aubin-les-Forges,</sm>
       </vedette>
@@ -74974,7 +74975,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1097</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 335)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07809" pg="163">
+   <article type="commune" id="DT58-07809" pg="163">
       <vedette>
          <sm>Saint-Benin-d’Azy,</sm>
       </vedette>
@@ -75000,7 +75001,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(S.)</reference>.</forme_ancienne>
       <insee>58232</insee>
    </article>
-   <article id="DT58-07810" pg="163">
+   <article type="commune" id="DT58-07810" pg="163">
       <vedette>
          <sm>Saint-Benin-des-Bois,</sm>
       </vedette>
@@ -75060,7 +75061,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Surgy</localisation>, portée sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07815" pg="164">
+   <article type="commune" id="DT58-07815" pg="164">
       <vedette>
          <sm>Saint-Bonnot,</sm>
       </vedette>
@@ -75077,7 +75078,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58234</insee>
    </article>
-   <article id="DT58-07816" pg="164">
+   <article type="commune" id="DT58-07816" pg="164">
       <vedette>
          <sm>Saint-Brisson,</sm>
       </vedette>
@@ -75205,7 +75206,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Meauce</localisation>.</definition>
    </article>
-   <article id="DT58-07824" pg="164">
+   <article type="commune" id="DT58-07824" pg="164">
       <vedette>
          <sm>Saint-Didier,</sm>
       </vedette>
@@ -75277,7 +75278,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>commune d’Asnois</localisation>, portée sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07832" pg="164">
+   <article type="commune" id="DT58-07832" pg="164">
       <vedette>
          <sm>Sainte-Colombe,</sm>
       </vedette>
@@ -75301,7 +75302,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>usine</typologie>, <localisation>commune de Varennes-lez-Narcy</localisation>.</definition>
    </article>
-   <article id="DT58-07834" pg="164">
+   <article type="commune" id="DT58-07834" pg="164">
       <vedette>
          <sm>Saint-Éloi,</sm>
       </vedette>
@@ -75318,7 +75319,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(S.)</reference>.</forme_ancienne>
       <insee>58238</insee>
    </article>
-   <article id="DT58-07835" pg="164">
+   <article type="commune" id="DT58-07835" pg="164">
       <vedette>
          <sm>Sainte-Marie,</sm>
       </vedette>
@@ -75395,7 +75396,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>commune de Dommartin</localisation>, portée sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07841" pg="165">
+   <article type="commune" id="DT58-07841" pg="165">
       <vedette>
          <sm>Sainte-Pereuse,</sm>
       </vedette>
@@ -75493,7 +75494,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          </p>
       </commentaire>
    </article>
-   <article id="DT58-07847" pg="165">
+   <article type="commune" id="DT58-07847" pg="165">
       <vedette>
          <sm>Saint-Firmin,</sm>
       </vedette>
@@ -75544,7 +75545,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1550</date> 
          <reference>(S.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07849" pg="165">
+   <article type="commune" id="DT58-07849" pg="165">
       <vedette>
          <sm>Saint-Franchy,</sm>
       </vedette>
@@ -75696,7 +75697,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>tuilerie et four à chaux</typologie>, <localisation>commune de Pouques</localisation>.</definition>
    </article>
-   <article id="DT58-07860" pg="165">
+   <article type="commune" id="DT58-07860" pg="165">
       <vedette>
          <sm>Saint-Germain,</sm>
       </vedette>
@@ -75718,7 +75719,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58241</insee>
    </article>
-   <article id="DT58-07861" pg="165">
+   <article type="commune" id="DT58-07861" pg="165">
       <vedette>
          <sm>Saint-Germain-des-Bois,</sm>
       </vedette>
@@ -75807,7 +75808,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Châtin</localisation>.</definition>
    </article>
-   <article id="DT58-07868" pg="166">
+   <article type="commune" id="DT58-07868" pg="166">
       <vedette>
          <sm>Saint-Gratien,</sm>
       </vedette>
@@ -75853,7 +75854,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Monceaux-le-Comte.</p>
       </commentaire>
    </article>
-   <article id="DT58-07870" pg="166">
+   <article type="commune" id="DT58-07870" pg="166">
       <vedette>
          <sm>Saint-Hilaire,</sm>
       </vedette>
@@ -75875,7 +75876,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58245</insee>
    </article>
-   <article id="DT58-07871" pg="166">
+   <article type="commune" id="DT58-07871" pg="166">
       <vedette>
          <sm>Saint-Hilaire-en-Morvand,</sm>
       </vedette>
@@ -75892,7 +75893,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(C.)</reference>.</forme_ancienne>
       <insee>58244</insee>
    </article>
-   <article id="DT58-07872" pg="166">
+   <article type="commune" id="DT58-07872" pg="166">
       <vedette>
          <sm>Saint-Honoré,</sm>
       </vedette>
@@ -75995,7 +75996,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Grand et Petit Saint-Jean</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07882" pg="166">
+   <article type="commune" id="DT58-07882" pg="166">
       <vedette>
          <sm>Saint-Jean-aux-Amognes,</sm>
       </vedette>
@@ -76048,7 +76049,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>près de Corvol-l’Orgueilleux</localisation>, fondée en <date>1368</date> (Marolles).</definition>
    </article>
-   <article id="DT58-07886" pg="166">
+   <article type="commune" id="DT58-07886" pg="166">
       <vedette>
          <sm>Saint-Laurent,</sm>
       </vedette>
@@ -76152,7 +76153,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1525</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07896" pg="167">
+   <article type="commune" id="DT58-07896" pg="167">
       <vedette>
          <sm>Saint-Léger-de-Fougeret,</sm>
       </vedette>
@@ -76184,7 +76185,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58249</insee>
    </article>
-   <article id="DT58-07897" pg="167">
+   <article type="commune" id="DT58-07897" pg="167">
       <vedette>
          <sm>Saint-Léger-des-Vignes,</sm>
       </vedette>
@@ -76214,7 +76215,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle ruinée</typologie>, au <localisation>château de la Pointe</localisation>, <localisation>commune de la Charité</localisation>.</definition>
    </article>
-   <article id="DT58-07899" pg="167">
+   <article type="commune" id="DT58-07899" pg="167">
       <vedette>
          <sm>Saint-Loup,</sm>
       </vedette>
@@ -76280,7 +76281,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>forge et moulin détr.</typologie>, <localisation>commune de Saint-Germain-Chassenay</localisation>, portés sur la carte de Cassini.</definition>
    </article>
-   <article id="DT58-07904" pg="167">
+   <article type="commune" id="DT58-07904" pg="167">
       <vedette>
          <sm>Saint-Mâlo,</sm>
       </vedette>
@@ -76466,7 +76467,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Montenoison.</p>
       </commentaire>
    </article>
-   <article id="DT58-07919" pg="168">
+   <article type="commune" id="DT58-07919" pg="168">
       <vedette>
          <sm>Saint-Martin-d’Heuille,</sm>
       </vedette>
@@ -76492,7 +76493,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(pouillé de Nevers)</reference>.</forme_ancienne>
       <insee>58254</insee>
    </article>
-   <article id="DT58-07920" pg="168">
+   <article type="commune" id="DT58-07920" pg="168">
       <vedette>
          <sm>Saint-Martin-du-Puits,</sm>
       </vedette>
@@ -76520,7 +76521,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58255</insee>
    </article>
-   <article id="DT58-07921" pg="168">
+   <article type="commune" id="DT58-07921" pg="168">
       <vedette>
          <sm>Saint-Martin-du-Tronsec,</sm>
       </vedette>
@@ -76551,7 +76552,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <typologie>chapelle, maintenant détruite</typologie>, qui se trouvait sur le <localisation>mont Beuvray</localisation>, <localisation>commune de Glux</localisation> 
          <reference>(Baudiau, I, 281)</reference>.</definition>
    </article>
-   <article id="DT58-07923" pg="168">
+   <article type="commune" id="DT58-07923" pg="168">
       <vedette>
          <sm>Saint-Maurice,</sm>
       </vedette>
@@ -76714,7 +76715,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
             <sm>xviii</sm>
             <sup>e</sup> siècle</date> (arch. de Quincize).</definition>
    </article>
-   <article id="DT58-07937" pg="168">
+   <article type="commune" id="DT58-07937" pg="168">
       <vedette>
          <sm>Saint-Ouen,</sm>
       </vedette>
@@ -76760,7 +76761,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <localisation>commune de Saint-Parize-le-Châtel</localisation>.</definition>
    </article>
-   <article id="DT58-07940" pg="168">
+   <article type="commune" id="DT58-07940" pg="168">
       <vedette>
          <sm>Saint-Parize-en-Viry,</sm>
       </vedette>
@@ -76783,7 +76784,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58259</insee>
    </article>
-   <article id="DT58-07941" pg="168">
+   <article type="commune" id="DT58-07941" pg="168">
       <vedette>
          <sm>Saint-Parize-le-Châtel,</sm>
       </vedette>
@@ -76841,7 +76842,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1604</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07943" pg="169">
+   <article type="commune" id="DT58-07943" pg="169">
       <vedette>
          <sm>Saint-Père,</sm>
       </vedette>
@@ -76896,7 +76897,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle ruinée</typologie>, <localisation>commune de Saint-Agnan</localisation>.</definition>
    </article>
-   <article id="DT58-07946" pg="169">
+   <article type="commune" id="DT58-07946" pg="169">
       <vedette>
          <sm>Saint-Pierre-du-Mont,</sm>
       </vedette>
@@ -76922,7 +76923,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58263</insee>
    </article>
-   <article id="DT58-07947" pg="169">
+   <article type="commune" id="DT58-07947" pg="169">
       <vedette>
          <sm>Saint-Pierre-le-Moûtier,</sm>
       </vedette>
@@ -76983,7 +76984,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Decize.</p>
       </commentaire>
    </article>
-   <article id="DT58-07949" pg="169">
+   <article type="commune" id="DT58-07949" pg="169">
       <vedette>
          <sm>Saint-Quentin,</sm>
       </vedette>
@@ -77001,7 +77002,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Moulins-Engilbert</localisation>.</definition>
    </article>
-   <article id="DT58-07951" pg="169">
+   <article type="commune" id="DT58-07951" pg="169">
       <vedette>
          <sm>Saint-Révérien,</sm>
       </vedette>
@@ -77070,7 +77071,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Coulanges-lez-Nevers</localisation>.</definition>
    </article>
-   <article id="DT58-07958" pg="170">
+   <article type="commune" id="DT58-07958" pg="170">
       <vedette>
          <sm>Saint-Saulge,</sm>
       </vedette>
@@ -77095,7 +77096,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58267</insee>
    </article>
-   <article id="DT58-07959" pg="170">
+   <article type="commune" id="DT58-07959" pg="170">
       <vedette>
          <sm>Saint-Seine,</sm>
       </vedette>
@@ -77119,7 +77120,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>chapelle détruite</typologie>, <localisation>commune de Clamecy</localisation>, mentionnée en <date>1535</date> : <i>capella Sancti-Sydronii prope Clameciacum</i> (pouillé d’Auxerre).</definition>
    </article>
-   <article id="DT58-07961" pg="170">
+   <article type="commune" id="DT58-07961" pg="170">
       <vedette>
          <sm>Saint-Sulpice,</sm>
       </vedette>
@@ -77209,7 +77210,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1611</date> 
          <reference>(terrier de Chasseigne)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-07967" pg="170">
+   <article type="commune" id="DT58-07967" pg="170">
       <vedette>
          <sm>Saint-Verain,</sm>
       </vedette>
@@ -77282,7 +77283,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Decize</localisation>.</definition>
    </article>
-   <article id="DT58-07972" pg="170">
+   <article type="commune" id="DT58-07972" pg="170">
       <vedette>
          <sm>Saizy,</sm>
       </vedette>
@@ -77717,7 +77718,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>moulin détruit</typologie>, à <localisation>Trémigny</localisation>, <localisation>commune de Saincaize</localisation>, mentionné en <date>1531</date> (A. N.).</definition>
    </article>
-   <article id="DT58-08015" pg="171">
+   <article type="commune" id="DT58-08015" pg="171">
       <vedette>
          <sm>Sardolles,</sm>
       </vedette>
@@ -77732,7 +77733,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58028</insee>
    </article>
-   <article id="DT58-08016" pg="171">
+   <article type="commune" id="DT58-08016" pg="171">
       <vedette>
          <sm>Sardy,</sm>
       </vedette>
@@ -78274,7 +78275,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune d’Anlezy</localisation>.</definition>
    </article>
-   <article id="DT58-08070" pg="172">
+   <article type="commune" id="DT58-08070" pg="172">
       <vedette>
          <sm>Sauvigny-les-Bois,</sm>
       </vedette>
@@ -78550,7 +78551,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </vedette>
       <definition>affluent de l’Aron, <localisation>commune de Lâché-Assars</localisation>.</definition>
    </article>
-   <article id="DT58-08094" pg="173">
+   <article type="commune" id="DT58-08094" pg="173">
       <vedette>
          <sm>Savigny-Poil-Fol,</sm>
       </vedette>
@@ -78612,7 +78613,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1775</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08097" pg="173">
+   <article type="commune" id="DT58-08097" pg="173">
       <vedette>
          <sm>Saxy-Bourdon,</sm>
       </vedette>
@@ -78890,7 +78891,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief de la châtell. de Clamecy.</p>
       </commentaire>
    </article>
-   <article id="DT58-08120" pg="174">
+   <article type="commune" id="DT58-08120" pg="174">
       <vedette>
          <sm>Sémelay,</sm>
       </vedette>
@@ -79101,7 +79102,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Beuvron</localisation>, mentionné en <date>1699</date> (reg. de Beuvron).</definition>
    </article>
-   <article id="DT58-08139" pg="174">
+   <article type="commune" id="DT58-08139" pg="174">
       <vedette>
          <sm>Sermages,</sm>
       </vedette>
@@ -79161,7 +79162,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1577</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08144" pg="174">
+   <article type="commune" id="DT58-08144" pg="174">
       <vedette>
          <sm>Sermoise,</sm>
       </vedette>
@@ -79403,7 +79404,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Bouhy</localisation>, mentionné en <date>1640</date> (arch. de l’Yonne, fonds de Saint-Verain).</definition>
    </article>
-   <article id="DT58-08167" pg="175">
+   <article type="commune" id="DT58-08167" pg="175">
       <vedette>
          <sm>Sichamps,</sm>
       </vedette>
@@ -79781,7 +79782,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau</typologie>, <localisation>commune de Magny-Cours</localisation>.</definition>
    </article>
-   <article id="DT58-08206" pg="176">
+   <article type="commune" id="DT58-08206" pg="176">
       <vedette>
          <sm>Sougy,</sm>
       </vedette>
@@ -80201,7 +80202,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <localisation>commune de Corvol-d’Embernard</localisation>.</definition>
    </article>
-   <article id="DT58-08247" pg="176">
+   <article type="commune" id="DT58-08247" pg="176">
       <vedette>
          <sm>Suilly-la-Tour,</sm>
       </vedette>
@@ -80275,7 +80276,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Saint-Verain</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
-   <article id="DT58-08253" pg="177">
+   <article type="commune" id="DT58-08253" pg="177">
       <vedette>
          <sm>Surgy,</sm>
       </vedette>
@@ -80663,7 +80664,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Talet</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08296" pg="177">
+   <article type="commune" id="DT58-08296" pg="177">
       <vedette>
          <sm>Talon,</sm>
       </vedette>
@@ -80743,7 +80744,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1684</date> 
          <reference>(dossier de Blosset, cabinet des titres)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08305" pg="178">
+   <article type="commune" id="DT58-08305" pg="178">
       <vedette>
          <sm>Tamnay,</sm>
       </vedette>
@@ -80811,7 +80812,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>hameau détruit</typologie>, <localisation>commune de Luthenay</localisation>, mentionné en <date>1678</date> (reg. de Luthenay).</definition>
    </article>
-   <article id="DT58-08312" pg="178">
+   <article type="commune" id="DT58-08312" pg="178">
       <vedette>
          <sm>Tannay,</sm>
       </vedette>
@@ -81136,7 +81137,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Tazière</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08346" pg="179">
+   <article type="commune" id="DT58-08346" pg="179">
       <vedette>
          <sm>Tazilly,</sm>
       </vedette>
@@ -81174,7 +81175,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(reg. de Millay)</reference>.</forme_ancienne>
       <insee>58287</insee>
    </article>
-   <article id="DT58-08347" pg="179">
+   <article type="commune" id="DT58-08347" pg="179">
       <vedette>
          <sm>Teigny,</sm>
       </vedette>
@@ -81254,7 +81255,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune de Chevenon</localisation>, mentionné en <date>1315</date> (A. N.).</definition>
    </article>
-   <article id="DT58-08353" pg="179">
+   <article type="commune" id="DT58-08353" pg="179">
       <vedette>
          <sm>Ternant,</sm>
       </vedette>
@@ -81462,7 +81463,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>près de Châtillon</localisation>, mentionné en <date>1550</date> (C.).</definition>
    </article>
-   <article id="DT58-08378" pg="179">
+   <article type="commune" id="DT58-08378" pg="179">
       <vedette>
          <sm>Thaix,</sm>
       </vedette>
@@ -81661,7 +81662,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Les Thevenots</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08394" pg="180">
+   <article type="commune" id="DT58-08394" pg="180">
       <vedette>
          <sm>Thianges,</sm>
       </vedette>
@@ -82002,7 +82003,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>fief</typologie> de la <localisation>châtellenie de Saint-Verain</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
-   <article id="DT58-08430" pg="180">
+   <article type="commune" id="DT58-08430" pg="180">
       <vedette>
          <sm>Tintury,</sm>
       </vedette>
@@ -82475,7 +82476,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Vandenesse</localisation>, restes d’un ancien château.</definition>
    </article>
-   <article id="DT58-08481" pg="181">
+   <article type="commune" id="DT58-08481" pg="181">
       <vedette>
          <sm>Toury-sur-Abron,</sm>
       </vedette>
@@ -82517,7 +82518,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       </commentaire>
       <insee>58293</insee>
    </article>
-   <article id="DT58-08482" pg="181">
+   <article type="commune" id="DT58-08482" pg="181">
       <vedette>
          <sm>Toury-sur-Jour,</sm>
       </vedette>
@@ -82631,7 +82632,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— C’était un fief vassal du comté de Château-Chinon.</p>
       </commentaire>
    </article>
-   <article id="DT58-08490" pg="182">
+   <article type="commune" id="DT58-08490" pg="182">
       <vedette>
          <sm>Tracy-sur-Loire,</sm>
       </vedette>
@@ -83048,7 +83049,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ruisseau</typologie> affluent du Nohain, <localisation>commune d’Entrains</localisation>.</definition>
    </article>
-   <article id="DT58-08527" pg="183">
+   <article type="commune" id="DT58-08527" pg="183">
       <vedette>
          <sm>Tresnay,</sm>
       </vedette>
@@ -83294,7 +83295,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>moulin</typologie>, <localisation>commune de Metz-le-Comte</localisation>.</definition>
    </article>
-   <article id="DT58-08550" pg="183">
+   <article type="commune" id="DT58-08550" pg="183">
       <vedette>
          <sm>Trois-Vêvres,</sm>
       </vedette>
@@ -83385,7 +83386,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Saint-Amand</localisation>.</definition>
    </article>
-   <article id="DT58-08557" pg="183">
+   <article type="commune" id="DT58-08557" pg="183">
       <vedette>
          <sm>Tronsanges,</sm>
       </vedette>
@@ -83505,7 +83506,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1689</date> 
          <reference>(reg. des fiefs)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08566" pg="184">
+   <article type="commune" id="DT58-08566" pg="184">
       <vedette>
          <sm>Trucy-l’Orgueilleux,</sm>
       </vedette>
@@ -84042,7 +84043,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief vassal du comté de Château-Chinon.</p>
       </commentaire>
    </article>
-   <article id="DT58-08632" pg="185">
+   <article type="commune" id="DT58-08632" pg="185">
       <vedette>
          <sm>Urzy,</sm>
       </vedette>
@@ -84809,7 +84810,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>vers 1500</date> 
          <reference>(pouillé d’Autun)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08715" pg="186">
+   <article type="commune" id="DT58-08715" pg="186">
       <vedette>
          <sm>Vandenesse,</sm>
       </vedette>
@@ -85122,7 +85123,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <date>1577</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08742" pg="187">
+   <article type="commune" id="DT58-08742" pg="187">
       <vedette>
          <sm>Varennes-lez-Narcy,</sm>
       </vedette>
@@ -85152,7 +85153,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(arch. de l’Yonne)</reference>.</forme_ancienne>
       <insee>58302</insee>
    </article>
-   <article id="DT58-08743" pg="187">
+   <article type="commune" id="DT58-08743" pg="187">
       <vedette>
          <sm>Varennes-lez-Nevers,</sm>
       </vedette>
@@ -85274,7 +85275,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>écart</typologie>, <localisation>commune de Langeron</localisation>.</definition>
    </article>
-   <article id="DT58-08755" pg="187">
+   <article type="commune" id="DT58-08755" pg="187">
       <vedette>
          <sm>Varzy,</sm>
       </vedette>
@@ -85466,7 +85467,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <p>— Fief vassal du comté de Château-Chinon.</p>
       </commentaire>
    </article>
-   <article id="DT58-08771" pg="188">
+   <article type="commune" id="DT58-08771" pg="188">
       <vedette>
          <sm>Vauclaix,</sm>
       </vedette>
@@ -87030,7 +87031,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1233</date> 
          <reference>(<i>Gall. christ.</i> IV, col. 97)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-08931" pg="191">
+   <article type="commune" id="DT58-08931" pg="191">
       <vedette>
          <sm>Verneuil,</sm>
       </vedette>
@@ -87883,7 +87884,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <forme_ancienne>— <i>Vielle-Foux</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-09023" pg="193">
+   <article type="commune" id="DT58-09023" pg="193">
       <vedette>
          <sm>Vielmanay,</sm>
       </vedette>
@@ -88198,7 +88199,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>ferme</typologie>, <localisation>commune de Fertrève</localisation>.</definition>
    </article>
-   <article id="DT58-09059" pg="194">
+   <article type="commune" id="DT58-09059" pg="194">
       <vedette>
          <sm>Vignol,</sm>
       </vedette>
@@ -88603,7 +88604,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <definition>
          <typologie>lieu détruit</typologie>, <localisation>commune d’Ougny</localisation>, mentionné en <date>1317</date> (A. N.).</definition>
    </article>
-   <article id="DT58-09101" pg="195">
+   <article type="commune" id="DT58-09101" pg="195">
       <vedette>
          <sm>Villapourçon,</sm>
       </vedette>
@@ -89127,7 +89128,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1165</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 132)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-09142" pg="196">
+   <article type="commune" id="DT58-09142" pg="196">
       <vedette>
          <sm>Ville-lez-Anlezy,</sm>
       </vedette>
@@ -89630,7 +89631,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <date>1638</date> 
          <reference>(Marolles)</reference>.</forme_ancienne>
    </article>
-   <article id="DT58-09188" pg="197">
+   <article type="commune" id="DT58-09188" pg="197">
       <vedette>
          <sm>Villiers-le-Sec,</sm>
       </vedette>
@@ -89651,7 +89652,7 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <reference>(S.)</reference>.</forme_ancienne>
       <insee>58310</insee>
    </article>
-   <article id="DT58-09189" pg="197">
+   <article type="commune" id="DT58-09189" pg="197">
       <vedette>
          <sm>Villiers-sur-Yonne,</sm>
       </vedette>
