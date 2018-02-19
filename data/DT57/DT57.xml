@@ -3414,7 +3414,9 @@
       <definition>
          <typologie>
             <x>fief et siége d’une justice haute, moyenne et basse, mouvant du roi de France</x>
-         </typologie>, et sis à <localisation>Moulins-lez-Metz</localisation> 
+         </typologie>, et sis à <localisation>
+            <commune precision="certain">Moulins-lez-Metz</commune>
+         </localisation> 
          <reference>(<date>1777</date>, dénomb. 25 mai)</reference>.</definition>
    </article>
    <article id="DT57-00151" pg="15">
@@ -3455,7 +3457,9 @@
       <definition>
          <typologie>
             <x>fief et siége d’une justice haute, moyenne et basse, mouvant du roi de France</x>
-         </typologie>, et sis à <localisation>Moulins-lez-Metz</localisation> 
+         </typologie>, et sis à <localisation>
+            <commune precision="certain">Moulins-lez-Metz</commune>
+         </localisation> 
          <reference>(<date>1777</date>, dénomb. 25 mai)</reference>.</definition>
    </article>
    <article type="commune" id="DT57-00154" pg="15">
@@ -7557,7 +7561,9 @@
       <definition>
          <typologie>
             <x>seigneurie enclavée</x>
-         </typologie> dans celle de <localisation>Servigny-lez-Raville</localisation> 
+         </typologie> dans celle de <localisation>
+            <commune precision="certain">Servigny-lez-Raville</commune>
+         </localisation> 
          <reference>(<date>1681</date>, dénomb. 23 déc.)</reference>.</definition>
       <commentaire>
          <p>— <i>La grande maison de Bonnevisse,</i> maison franche et seigneuriale, siége d’un fief, haute, basse et moyenne justice.</p>
@@ -8119,7 +8125,9 @@
       <vedette>
          <sm>Bourgon (Ban),</sm>
       </vedette>
-      <definition>à <localisation>Chazelles</localisation>, <localisation>commune de Scy</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Chazelles</commune>
+         </localisation>, <localisation>commune de Scy</localisation>.</definition>
       <commentaire>
          <p>Fief mouvant du roi de France, avec droits de justice haute, moyenne et basse. Il se composait de 7 maisons et de 110 portériens, <date>1681</date> (dénomb. 1<sup>er</sup> mai).</p>
       </commentaire>
@@ -11712,7 +11720,9 @@
       </vedette>
       <definition>nom sous lequel est connue dans le pays la <typologie>
             <x>voie romaine de Reims</x>
-         </typologie> à <localisation>Metz</localisation>.</definition>
+         </typologie> à <localisation>
+            <commune precision="certain">Metz</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>La Grande-Charrière,</i> 
          <date>1638</date> 
          <reference>(Journ. J. Bauch.)</reference>.</forme_ancienne>
@@ -12156,7 +12166,9 @@
       <definition>
          <typologie>
             <x>anc. commune et paroisse réunie</x>
-         </typologie> à <localisation>Courcelles-Chaussy</localisation> : <renvoi>voy. ce nom et <sm>Pont-à-Chaussy</sm>
+         </typologie> à <localisation>
+            <commune precision="certain">Courcelles-Chaussy</commune>
+         </localisation> : <renvoi>voy. ce nom et <sm>Pont-à-Chaussy</sm>
          </renvoi>.</definition>
    </article>
    <article id="DT57-00601" pg="52">
@@ -21578,7 +21590,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Froidevaux,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sis à <localisation>Briey</localisation>.</definition>
+         <typologie>fief</typologie> sis à <localisation>
+            <commune precision="certain">Briey</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <date>1680</date> 
          <reference>(dénombr. s. l’an.)</reference>.</forme_ancienne>
       <forme_ancienne>— <i>La baronnie de Froideveau,</i> 
@@ -26349,7 +26363,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <definition>
          <typologie>
             <x>l’un des hameaux</x>
-         </typologie> de <localisation>Rolbing</localisation>.</definition>
+         </typologie> de <localisation>
+            <commune precision="certain">Rolbing</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Hartzberg,</i> 
          <date>1755</date> 
          <reference>(atl. de Bitche, f° 14)</reference>.</forme_ancienne>
@@ -27718,7 +27734,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Herlof,</sm>
       </vedette>
       <definition>
-         <typologie>ancien écart</typologie> de <localisation>Guirlange</localisation>.</definition>
+         <typologie>ancien écart</typologie> de <localisation>
+            <commune precision="certain">Guirlange</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Herlof prope Geurlange,</i> 
          <date>1434</date> 
          <reference>(abb. Vill. cart. t. I, G. 1)</reference>.</forme_ancienne>
@@ -32615,7 +32633,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <definition>
          <typologie>
             <x>église annexe</x>
-         </typologie> de <localisation>Grosbliederstroff</localisation>, <date>1756</date> (D. Cal. not. Lorr.).</definition>
+         </typologie> de <localisation>
+            <commune precision="certain">Grosbliederstroff</commune>
+         </localisation>, <date>1756</date> (D. Cal. not. Lorr.).</definition>
    </article>
    <article id="DT57-01687" pg="139">
       <vedette>
@@ -33015,7 +33035,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <vedette>
          <sm>Laître (Les Bans fiefs de),</sm>
       </vedette>
-      <definition>à <localisation>Jussy</localisation> et à <localisation>Vaux</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Jussy</commune>
+         </localisation> et à <localisation>Vaux</localisation>.</definition>
       <commentaire>
          <p>— Mouvaient du roi de France ; étaient siége, chacun, d’une justice haute, moyenne et basse, et appartenaient à la cure de Jussy, <date>1681</date> (dénombr. 29 juin).</p>
       </commentaire>
@@ -34877,7 +34899,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <vedette>
          <sm>Lollieux (Ban de),</sm>
       </vedette>
-      <definition>à <localisation>Novéant</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Novéant</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>— Ban fief appartenant à l’abbaye Saint-Vincent de Metz (cart. de l’abb. t. II, p. 814).</p>
       </commentaire>
@@ -37788,7 +37812,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Marienkender,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne cense</typologie> dépendant de <localisation>Guinglange</localisation>.</definition>
+         <typologie>ancienne cense</typologie> dépendant de <localisation>
+            <commune precision="certain">Guinglange</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <date>1681</date> 
          <reference>(dénombr. 18 oct.)</reference>.</forme_ancienne>
    </article>
@@ -39337,7 +39363,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Métairie des Seigneurs (La),</sm>
       </vedette>
       <definition>
-         <typologie>cense fief</typologie> située à <localisation>Domangeville</localisation>.</definition>
+         <typologie>cense fief</typologie> située à <localisation>
+            <commune precision="certain">Domangeville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT57-02021" pg="167">
       <vedette>
@@ -40824,7 +40852,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <vedette>
          <sm>Mont-Royal</sm> ou <sm>Kœnigsberg,</sm>
       </vedette>
-      <definition>ancien nom de <localisation>Sarreinsberg</localisation>.</definition>
+      <definition>ancien nom de <localisation>
+            <commune precision="certain">Sarreinsberg</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>
             <renvoi>— Voy. <sm>Sarreinsberg.</sm>
@@ -44289,7 +44319,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Nideck,</sm>
       </vedette>
       <definition>
-         <typologie>ancien village</typologie> dépendant de <localisation>Sarralbe</localisation>, détruit au <date>
+         <typologie>ancien village</typologie> dépendant de <localisation>
+            <commune precision="certain">Sarralbe</commune>
+         </localisation>, détruit au <date>
             <sm>xvii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <commentaire>
@@ -46748,7 +46780,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
       <vedette>
          <sm>Paperel (Le ban),</sm>
       </vedette>
-      <definition>à <localisation>Saulny</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Saulny</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>— Siége d’une seigneurie, haute, moyenne et basse justice, mouvant de la prévôté de Briey, <date>1681</date> (dénomb. du 8 nov.). — Nom d’une ancienne famille noble des paraiges de Metz.</p>
       </commentaire>
@@ -51243,7 +51277,9 @@ Bitche</localisation>, <date>1594</date> (dén. Th. Alix).</definition>
          <sm>Richterberg,</sm>
       </vedette>
       <definition>
-         <typologie>place et cour</typologie> de l’évêché à <localisation>Hombourg-Haut</localisation>, <date>1485</date> 
+         <typologie>place et cour</typologie> de l’évêché à <localisation>
+            <commune precision="certain">Hombourg-Haut</commune>
+         </localisation>, <date>1485</date> 
          <reference>(cart. év. de M. t. VIII, p. 2 v°)</reference>.</definition>
    </article>
    <article id="DT57-02723" pg="216">
@@ -53150,7 +53186,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
          <sm>Rupigny,</sm>
       </vedette>
       <definition>
-         <typologie>ancien hameau</typologie> absorbé par <localisation>Sainte-Barbe</localisation>.</definition>
+         <typologie>ancien hameau</typologie> absorbé par <localisation>
+            <commune precision="certain">Sainte-Barbe</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Ruppigney</i> et <i>Sainte-Barbe,</i> 
          <date>1404</date> 
          <reference>(liste des vill.)</reference>.</forme_ancienne>
@@ -54101,7 +54139,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
          <sm>Saint-Étienne,</sm>
       </vedette>
       <definition>
-         <typologie>annexe</typologie> de <localisation>Doncourt-lez-Conflans</localisation>.</definition>
+         <typologie>annexe</typologie> de <localisation>
+            <commune precision="certain">Doncourt-lez-Conflans</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>De sancto Stephano,</i> 
          <date>1544</date> 
          <reference>(pouillé de M.)</reference>.</forme_ancienne>
@@ -55521,7 +55561,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
          <sm>Saint-Vincent,</sm>
       </vedette>
       <definition>
-         <typologie>église mère</typologie> de <localisation>Faulquemont</localisation>, aujourd’hui chapelle et cimetière de ladite commune.</definition>
+         <typologie>église mère</typologie> de <localisation>
+            <commune precision="certain">Faulquemont</commune>
+         </localisation>, aujourd’hui chapelle et cimetière de ladite commune.</definition>
       <commentaire>
          <p>
             <renvoi>— Voy. <sm>Faulquemont.</sm>
@@ -59696,7 +59738,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
          <sm>Standalmont,</sm>
       </vedette>
       <definition>
-         <typologie>lieu-dit</typologie>, où fut érigée l’abbaye <localisation>Saint-Pierremont</localisation>.</definition>
+         <typologie>lieu-dit</typologie>, où fut érigée l’abbaye <localisation>
+            <commune precision="certain">Saint-Pierremont</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>
             <renvoi>— Voy. <sm>Saint-Pierremont.</sm>
@@ -64041,7 +64085,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
       <vedette>
          <sm>Vexin (Le Ban de),</sm>
       </vedette>
-      <definition>à <localisation>Vaux</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Vaux</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Le Ban de Vexin-en-Vaux,</i> 
          <date>1479</date> 
          <reference>(P. Fer. obs. séc. <sm>xv</sm>, f. 770)</reference>.</forme_ancienne>
@@ -67346,7 +67392,9 @@ Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>
       <definition>
          <typologie>
             <x>ancienne ferme du séminaire Saint-Simon</x>
-         </typologie> à <localisation>Kerbach</localisation>.</definition>
+         </typologie> à <localisation>
+            <commune precision="certain">Kerbach</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Widenhoff,</i> 
          <date>1512</date> 
          <reference>(sémin. Saint-Simon s. l’an)</reference>.</forme_ancienne>

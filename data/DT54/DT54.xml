@@ -307,7 +307,9 @@
          <sm>Agneulle,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Ceintrey</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Ceintrey</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00016" pg="2">
       <vedette>
@@ -720,7 +722,9 @@
          <sm>Almaces (Les),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Coincourt</localisation>, passe sur le territoire de cette commune et se jette dans le Sanon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Coincourt</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans le Sanon.</definition>
    </article>
    <article type="commune" id="DT54-00043" pg="3">
       <vedette>
@@ -767,7 +771,9 @@
       <vedette>
          <sm>Altbau</sm> (<i>Altebove</i> ou <i>Altebaw,</i> vieux bâtiment),</vedette>
       <definition>
-         <typologie>ancien château</typologie>, à <localisation>Fénétrange</localisation>, sur l’emplacement duquel a été construit le collége, auj. petit séminaire.</definition>
+         <typologie>ancien château</typologie>, à <localisation>
+            <commune precision="certain">Fénétrange</commune>
+         </localisation>, sur l’emplacement duquel a été construit le collége, auj. petit séminaire.</definition>
    </article>
    <article id="DT54-00047" pg="3">
       <vedette>
@@ -1139,7 +1145,9 @@
          <sm>Ancienne-Ferme (L’),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Vilcey-sur-Trey</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Vilcey-sur-Trey</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00068" pg="5">
       <vedette>
@@ -1402,7 +1410,9 @@
          <sm>Arc (L’)</sm> ou <sm>Varize,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Villacourt</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Villacourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00085" pg="6">
       <vedette>
@@ -1690,7 +1700,9 @@
          <sm>Athenay,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Parey-Saint-Césaire</localisation>, passe sur le territoire de cette commune, sur ceux d’Houdelmont et de Xeuilley, et se jette dans le Madon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Parey-Saint-Césaire</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux d’Houdelmont et de Xeuilley, et se jette dans le Madon.</definition>
    </article>
    <article type="commune" id="DT54-00097" pg="7">
       <vedette>
@@ -1832,7 +1844,9 @@
          <sm>Aulnes (Les),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Leintrey</localisation>, passe sur le territoire de cette commune et sur celui de Remoncourt et se jette dans le Remiremont.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Leintrey</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Remoncourt et se jette dans le Remiremont.</definition>
    </article>
    <article type="commune" id="DT54-00104" pg="7">
       <vedette>
@@ -1956,7 +1970,9 @@
          <sm>Autrey,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie ou fief</typologie> à <localisation>Bouzanville</localisation>.</definition>
+         <typologie>seigneurie ou fief</typologie> à <localisation>
+            <commune precision="certain">Bouzanville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00111" pg="8">
       <vedette>
@@ -2078,7 +2094,9 @@
          <sm>Axatte (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Fraimbois</localisation>, passe sur les <localisation>territoires d’Hériménil et de Rehainviller</localisation> et se jette dans la Meurthe.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Fraimbois</commune>
+         </localisation>, passe sur les <localisation>territoires d’Hériménil et de Rehainviller</localisation> et se jette dans la Meurthe.</definition>
    </article>
    <article type="commune" id="DT54-00119" pg="8">
       <vedette>
@@ -2410,7 +2428,9 @@
          <sm>Badal,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Einvaux</localisation>, passe sur le territoire de cette commune, sur ceux de la Math et de Landécourt, et se jette dans la Mortagne.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Einvaux</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de la Math et de Landécourt, et se jette dans la Mortagne.</definition>
    </article>
    <article type="commune" id="DT54-00130" pg="9">
       <vedette>
@@ -2545,7 +2565,9 @@
          <sm>Bailliage-d’Ancillon,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Saizerais-Saint-Georges</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Saizerais-Saint-Georges</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00136" pg="10">
       <vedette>
@@ -2675,7 +2697,9 @@
          <sm>Balthasard,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne chapelle</typologie> à <localisation>Bouxières-aux-Dames</localisation>, entre le pont et le village, mentionnée en <date>1553</date> 
+         <typologie>ancienne chapelle</typologie> à <localisation>
+            <commune precision="certain">Bouxières-aux-Dames</commune>
+         </localisation>, entre le pont et le village, mentionnée en <date>1553</date> 
          <reference>(trésorier gén. de Lorr. f° 93 v°)</reference>.</definition>
    </article>
    <article id="DT54-00144" pg="10">
@@ -2725,14 +2749,18 @@
       <vedette>
          <sm>Bansey (Ruisseau de), de l’Étang</sm> ou <sm>de Serres,</sm>
       </vedette>
-      <definition>prend sa source dans cette dernière commune, passe <pg>11</pg>sur son territoire et sur celui de <localisation>Maixe</localisation> et se jette dans le Sanon.</definition>
+      <definition>prend sa source dans cette dernière commune, passe <pg>11</pg>sur son territoire et sur celui de <localisation>
+            <commune precision="certain">Maixe</commune>
+         </localisation> et se jette dans le Sanon.</definition>
    </article>
    <article id="DT54-00151" pg="11">
       <vedette>
          <sm>Banvoie,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Zarbeling</localisation>, passe sur les <localisation>territoires de Lidrezing, Lidrequin, Sotzeling, Dédeling, Château-Voué</localisation>, et se jette dans le ruisseau de ce nom.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Zarbeling</commune>
+         </localisation>, passe sur les <localisation>territoires de Lidrezing, Lidrequin, Sotzeling, Dédeling, Château-Voué</localisation>, et se jette dans le ruisseau de ce nom.</definition>
    </article>
    <article id="DT54-00152" pg="11">
       <vedette>
@@ -2960,7 +2988,9 @@
          <sm>Bardinière (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Custines</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Custines</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00171" pg="11">
       <vedette>
@@ -2993,7 +3023,9 @@
          <sm>Barisey,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Thelod</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Thelod</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>— Un Jean de Barisey (<i>Johannes de Barizeyo</i>) figure comme témoin, en <date>1399</date>, dans une charte de l’abbaye de Belchamp (cart. de cette abbaye).</p>
       </commentaire>
@@ -3121,7 +3153,9 @@
          <sm>Basse-Cour (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison forte</typologie> à <localisation>Bacourt</localisation>.</definition>
+         <typologie>maison forte</typologie> à <localisation>
+            <commune precision="certain">Bacourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00186" pg="11">
       <vedette>
@@ -3299,14 +3333,18 @@
          <sm>Bassompierre,</sm>
       </vedette>
       <definition>
-         <typologie>maison-fief</typologie> à <localisation>Rosières-aux-Salines</localisation>.</definition>
+         <typologie>maison-fief</typologie> à <localisation>
+            <commune precision="certain">Rosières-aux-Salines</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00206" pg="12">
       <vedette>
          <sm>Bassompierre,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Frolois</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Frolois</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00207" pg="12">
       <vedette>
@@ -3345,7 +3383,9 @@
          <sm>Batans (Le),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Vacqueville</localisation>, relevant de la châtellenie de Baccarat, baillage de Vic.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Vacqueville</commune>
+         </localisation>, relevant de la châtellenie de Baccarat, baillage de Vic.</definition>
    </article>
    <article id="DT54-00210" pg="12">
       <vedette>
@@ -3569,7 +3609,9 @@
          <sm>Bauzemont,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Arracourt</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Arracourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00224" pg="12">
       <vedette>
@@ -3626,7 +3668,9 @@
          <sm>Bayon,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Rozelieures</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Rozelieures</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT54-00227" pg="13">
       <vedette>
@@ -3653,14 +3697,18 @@
          <sm>Bazin,</sm>
       </vedette>
       <definition>
-         <typologie>fief et maison forte</typologie> à <localisation>Saulxures-lez-Nancy</localisation>.</definition>
+         <typologie>fief et maison forte</typologie> à <localisation>
+            <commune precision="certain">Saulxures-lez-Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00229" pg="13">
       <vedette>
          <sm>Beaufort,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Réméréville</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Réméréville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00230" pg="13">
       <vedette>
@@ -4086,7 +4134,9 @@
          <sm>Belle-Croix (La),</sm>
       </vedette>
       <definition>
-         <typologie>château</typologie> au <localisation>Petit-Jarville</localisation>.</definition>
+         <typologie>château</typologie> au <localisation>
+            <commune precision="certain">Petit-Jarville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00258" pg="14">
       <vedette>
@@ -4261,7 +4311,9 @@
          <sm>Bellihesse,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Saint-Nicolas</localisation>, érigé en <date>1634</date>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Saint-Nicolas</commune>
+         </localisation>, érigé en <date>1634</date>.</definition>
       <forme_ancienne>— <i>Belitresse,</i> 
          <date>1779</date> 
          <reference>(dén. des terres seign. de la Lorr.)</reference>.</forme_ancienne>
@@ -4274,7 +4326,9 @@
          <sm>Belmont,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Repaix</localisation>, érigé en <date>1736</date>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Repaix</commune>
+         </localisation>, érigé en <date>1736</date>.</definition>
    </article>
    <article id="DT54-00279" pg="14">
       <vedette>
@@ -4552,7 +4606,9 @@
       <vedette>
          <sm>Bernu (Ruisseau de la)</sm> ou <sm>de Bréménil,</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Angomont</localisation>, passe sur le territoire de cette commune et sur celui de Bréménil et se jette dans le ruisseau de Badonviller.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Angomont</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Bréménil et se jette dans le ruisseau de Badonviller.</definition>
    </article>
    <article type="commune" id="DT54-00297" pg="15">
       <vedette>
@@ -4732,7 +4788,9 @@
          <sm>Beuil,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source dans le <localisation>Neuf-Étang</localisation>, passe sur le <localisation>territoire de Gondrexange</localisation> et se jette dans le ruisseau de l’Étang.</definition>
+         <typologie>ruisseau</typologie>, prend sa source dans le <localisation>
+            <commune precision="certain">Neuf-Étang</commune>
+         </localisation>, passe sur le <localisation>territoire de Gondrexange</localisation> et se jette dans le ruisseau de l’Étang.</definition>
    </article>
    <article type="commune" id="DT54-00309" pg="16">
       <vedette>
@@ -5252,7 +5310,9 @@
          <sm>Blâmontois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petit pays</typologie> dont <localisation>Blâmont</localisation> était la capitale, et qui, à en juger par l’étendue du comté de Blâmont, devait comprendre à peu près le canton dont cette ville est le chef-lieu.</definition>
+         <typologie>petit pays</typologie> dont <localisation>
+            <commune precision="certain">Blâmont</commune>
+         </localisation> était la capitale, et qui, à en juger par l’étendue du comté de Blâmont, devait comprendre à peu près le canton dont cette ville est le chef-lieu.</definition>
       <forme_ancienne>— <i>Pagus Albinsis,</i> 
          <date>816</date> 
          <reference>(Hist. de l’Égl. de Strasbourg, pr. p. 160)</reference>.</forme_ancienne>
@@ -6188,7 +6248,9 @@
          <sm>Boudonville,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Capella Bodonis villæ,</i> 
          <date>965</date> 
          <reference>(H. L. I, c. 372)</reference>.</forme_ancienne>
@@ -6415,7 +6477,9 @@
          <sm>Bourguignons (Les),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Crion</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Crion</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00429" pg="21">
       <vedette>
@@ -6429,7 +6493,9 @@
          <sm>Bourlémont,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Tantonville</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Tantonville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00431" pg="21">
       <vedette>
@@ -6762,7 +6828,9 @@
          <sm>Bouzey,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Saint-Germain</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Saint-Germain</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00451" pg="22">
       <vedette>
@@ -6948,7 +7016,9 @@
       <vedette>
          <sm>Brebis (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Vaudémont</localisation>, passe sur le territoire de cette commune et sur celui de Chaouilley et se jette dans le ruisseau d’Étreval.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Vaudémont</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Chaouilley et se jette dans le ruisseau d’Étreval.</definition>
    </article>
    <article type="commune" id="DT54-00465" pg="23">
       <vedette>
@@ -7042,7 +7112,9 @@
       <vedette>
          <sm>Brémoncourt (Ruisseau de la Forêt de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Brémoncourt</localisation>, passe sur son territoire et se jette dans le Fouliot.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Brémoncourt</commune>
+         </localisation>, passe sur son territoire et se jette dans le Fouliot.</definition>
    </article>
    <article id="DT54-00472" pg="23">
       <vedette>
@@ -7452,13 +7524,17 @@
          <sm>Brun,</sm>
       </vedette>
       <definition>
-         <typologie>anc. seigneurie et mairie</typologie> à <localisation>Rosières-aux-Salines</localisation>, avec maison forte appelée le Chastel-Brun.</definition>
+         <typologie>anc. seigneurie et mairie</typologie> à <localisation>
+            <commune precision="certain">Rosières-aux-Salines</commune>
+         </localisation>, avec maison forte appelée le Chastel-Brun.</definition>
    </article>
    <article id="DT54-00505" pg="24">
       <vedette>
          <sm>Brunehaut,</sm>
       </vedette>
-      <definition>nom donné à une tour en ruines du <typologie>château</typologie> de <localisation>Vaudémont</localisation>.</definition>
+      <definition>nom donné à une tour en ruines du <typologie>château</typologie> de <localisation>
+            <commune precision="certain">Vaudémont</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00506" pg="24">
       <vedette>
@@ -8453,7 +8529,9 @@
       <vedette>
          <sm>Champagne,</sm>
       </vedette>
-      <definition>nom donné au <typologie>moulin</typologie> de <localisation>Moyenvic</localisation> sur la carte de Cassini.</definition>
+      <definition>nom donné au <typologie>moulin</typologie> de <localisation>
+            <commune precision="certain">Moyenvic</commune>
+         </localisation> sur la carte de Cassini.</definition>
    </article>
    <article id="DT54-00587" pg="27">
       <vedette>
@@ -8476,7 +8554,9 @@
       <vedette>
          <sm>Champagnot,</sm>
       </vedette>
-      <definition>nom donné au <typologie>moulin</typologie> de <localisation>Tonnoy</localisation> dans le Polium de Bugnon, <date>1710</date>.</definition>
+      <definition>nom donné au <typologie>moulin</typologie> de <localisation>
+            <commune precision="certain">Tonnoy</commune>
+         </localisation> dans le Polium de Bugnon, <date>1710</date>.</definition>
    </article>
    <article id="DT54-00590" pg="27">
       <vedette>
@@ -9851,7 +9931,9 @@
       <vedette>
          <sm>Châtillon (Ruisseau de),</sm>
       </vedette>
-      <definition>commence à paraître à la <localisation>Large-Pierre</localisation>, passe sur les <localisation>territoires de Raon-lez-l’Eau, Lafrimbolle et Val-de-Bon-Moutier</localisation> et se jette dans la Vezouse.</definition>
+      <definition>commence à paraître à la <localisation>
+            <commune precision="certain">Large-Pierre</commune>
+         </localisation>, passe sur les <localisation>territoires de Raon-lez-l’Eau, Lafrimbolle et Val-de-Bon-Moutier</localisation> et se jette dans la Vezouse.</definition>
    </article>
    <article id="DT54-00702" pg="31">
       <vedette>
@@ -9866,7 +9948,9 @@
          <sm>Chatis (Les),</sm>
       </vedette>
       <definition>
-         <typologie>maison-fief</typologie> à <localisation>Lunéville</localisation>, près de l’église Saint-Jacques, <date>1581</date> 
+         <typologie>maison-fief</typologie> à <localisation>
+            <commune precision="certain">Lunéville</commune>
+         </localisation>, près de l’église Saint-Jacques, <date>1581</date> 
          <reference>(Tr. des ch. l. Lunéville I, n° 52)</reference>.</definition>
    </article>
    <article id="DT54-00704" pg="31">
@@ -10532,7 +10616,9 @@
          <sm>Chureck,</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie>, indiqué en <date>1719</date> comme dépendant d’<localisation>Albestroff</localisation> (alphabet).</definition>
+         <typologie>hameau</typologie>, indiqué en <date>1719</date> comme dépendant d’<localisation>
+            <commune precision="certain">Albestroff</commune>
+         </localisation> (alphabet).</definition>
    </article>
    <article id="DT54-00757" pg="32">
       <vedette>
@@ -10823,7 +10909,9 @@
          <sm>Clospré,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source sous <localisation>Vitrimont</localisation>, passe sur le territoire de cette commune et se jette dans la Meurthe.</definition>
+         <typologie>ruisseau</typologie>, prend sa source sous <localisation>
+            <commune precision="certain">Vitrimont</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans la Meurthe.</definition>
    </article>
    <article id="DT54-00775" pg="33">
       <vedette>
@@ -11038,7 +11126,9 @@
          <sm>Comine,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Mont-le-Vignoble</localisation>, passe sur le territoire de cette commune et sur celui de Gye et se jette dans le Blarin.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Mont-le-Vignoble</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Gye et se jette dans le Blarin.</definition>
    </article>
    <article id="DT54-00793" pg="34">
       <vedette>
@@ -11225,7 +11315,9 @@
          <sm>Corrupt,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Salival</localisation>, passe sur le territoire de cette commune et sur celui de Moyenvic et se jette dans la Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Salival</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Moyenvic et se jette dans la Seille.</definition>
       <forme_ancienne>— <i>Molendinum subter <pg>35</pg>Curtum Rivum,</i> 
          <date>1180</date> 
          <reference>(<i>Ord. præm. ann.</i> II, c. 454)</reference>.</forme_ancienne>
@@ -11600,7 +11692,9 @@
          <sm>Cour</sm> ou <sm>Court (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison</typologie> forte à la <localisation>Neuveville-devant-Nancy</localisation>.</definition>
+         <typologie>maison</typologie> forte à la <localisation>
+            <commune precision="certain">Neuveville-devant-Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00860" pg="35">
       <vedette>
@@ -11614,7 +11708,9 @@
          <sm>Cour (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison seigneuriale</typologie> à <localisation>Barbonville</localisation>.</definition>
+         <typologie>maison seigneuriale</typologie> à <localisation>
+            <commune precision="certain">Barbonville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00862" pg="35">
       <vedette>
@@ -11629,14 +11725,18 @@
          <sm>Cour (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief, maison forte et seigneuriale</typologie> à <localisation>Gérardcourt</localisation>.</definition>
+         <typologie>fief, maison forte et seigneuriale</typologie> à <localisation>
+            <commune precision="certain">Gérardcourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00864" pg="35">
       <vedette>
          <sm>Cour (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison franche</typologie> à <localisation>Nomeny</localisation>.</definition>
+         <typologie>maison franche</typologie> à <localisation>
+            <commune precision="certain">Nomeny</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00865" pg="35">
       <vedette>
@@ -11770,7 +11870,9 @@
          <sm>Cour-des-Seigneurs (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison franche</typologie> à <localisation>Moriviller</localisation>.</definition>
+         <typologie>maison franche</typologie> à <localisation>
+            <commune precision="certain">Moriviller</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00873" pg="36">
       <vedette>
@@ -11800,14 +11902,18 @@
          <sm>Cour-Saint-Pierre (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison-fief et chapelle</typologie> à <localisation>Vandières</localisation>, sur l’emplacement desquelles fut primitivement établie, dit-on, l’abbaye de Saint-Pierre de Metz.</definition>
+         <typologie>maison-fief et chapelle</typologie> à <localisation>
+            <commune precision="certain">Vandières</commune>
+         </localisation>, sur l’emplacement desquelles fut primitivement établie, dit-on, l’abbaye de Saint-Pierre de Metz.</definition>
    </article>
    <article id="DT54-00877" pg="36">
       <vedette>
          <sm>Cour-Sauvage (La),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Lunéville</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Lunéville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00878" pg="36">
       <vedette>
@@ -11822,7 +11928,9 @@
          <sm>Court-Douaire (La),</sm>
       </vedette>
       <definition>
-         <typologie>métairie-fief</typologie> à <localisation>Marsal</localisation>.</definition>
+         <typologie>métairie-fief</typologie> à <localisation>
+            <commune precision="certain">Marsal</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00880" pg="36">
       <vedette>
@@ -11996,14 +12104,18 @@
       <vedette>
          <sm>Craincourt (Gagnage de),</sm>
       </vedette>
-      <definition>à <localisation>Essey-lez-Nancy</localisation>, <date>1471</date> 
+      <definition>à <localisation>
+            <commune precision="certain">Essey-lez-Nancy</commune>
+         </localisation>, <date>1471</date> 
          <reference>(cart. Fiefs de Nancy, III, f° 210)</reference>.</definition>
    </article>
    <article id="DT54-00890" pg="36">
       <vedette>
          <sm>Craincourt (La Maison forte de),</sm>
       </vedette>
-      <definition>au village précédent, communauté de <localisation>Létricourt</localisation>, <date>1779</date> (Descr. de la Lorr.).</definition>
+      <definition>au village précédent, communauté de <localisation>
+            <commune precision="certain">Létricourt</commune>
+         </localisation>, <date>1779</date> (Descr. de la Lorr.).</definition>
    </article>
    <article type="commune" id="DT54-00891" pg="36">
       <vedette>
@@ -12667,7 +12779,9 @@
          <sm>Cropello,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Rosières-en-Haye</localisation>, érigé en <date>1712</date>, supprimé en <date>1725</date>, rétabli en <date>1736</date>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Rosières-en-Haye</commune>
+         </localisation>, érigé en <date>1712</date>, supprimé en <date>1725</date>, rétabli en <date>1736</date>.</definition>
    </article>
    <article id="DT54-00950" pg="38">
       <vedette>
@@ -12977,7 +13091,9 @@
          <sm>Dame (La),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Frouard</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Frouard</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-00967" pg="39">
       <vedette>
@@ -13149,7 +13265,9 @@
          <sm>Darenbach (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, passe à <localisation>Schæfferhoff</localisation> et se jette dans la Zorn près de ce hameau.</definition>
+         <typologie>ruisseau</typologie>, passe à <localisation>
+            <commune precision="certain">Schæfferhoff</commune>
+         </localisation> et se jette dans la Zorn près de ce hameau.</definition>
    </article>
    <article type="commune" id="DT54-00980" pg="40">
       <vedette>
@@ -13532,7 +13650,9 @@
          <sm>Dideleau,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Bacourt</localisation>, passe sur le territoire de cette commune et sur celui de Morville-sur-Nied et se jette dans le ruisseau du Grand-Étang.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Bacourt</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Morville-sur-Nied et se jette dans le ruisseau du Grand-Étang.</definition>
    </article>
    <article id="DT54-01004" pg="41">
       <vedette>
@@ -14629,7 +14749,9 @@
          <sm>Eichmatt,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source sous <localisation>Arscheviller</localisation>, passe sur le territoire de cette commune, sur ceux de Réding et de Hommarting, et se jette dans la Bièvre.</definition>
+         <typologie>ruisseau</typologie>, prend sa source sous <localisation>
+            <commune precision="certain">Arscheviller</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Réding et de Hommarting, et se jette dans la Bièvre.</definition>
    </article>
    <article id="DT54-01068" pg="45">
       <vedette>
@@ -14869,7 +14991,9 @@
          <sm>Enfer (Le Petit-),</sm>
       </vedette>
       <definition>
-         <typologie>maison franche</typologie> à <localisation>Nomeny</localisation>.</definition>
+         <typologie>maison franche</typologie> à <localisation>
+            <commune precision="certain">Nomeny</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01081" pg="46">
       <vedette>
@@ -15332,7 +15456,9 @@
       <vedette>
          <sm>Étang (Ruisseau de l’), de Saint-Jean</sm> ou <sm>de la Fosse,</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Oriocourt</localisation>, passe sur le territoire de cette commune, sur ceux de Donjeux, Delme, Puzieux, Craincourt et Alaincourt, et se jette dans la Seille.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Oriocourt</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Donjeux, Delme, Puzieux, Craincourt et Alaincourt, et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-01123" pg="47">
       <vedette>
@@ -15377,13 +15503,17 @@
          <pg>48</pg>
          <sm>Étangs (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source dans les <localisation>Fonds-de-Toul</localisation>, passe sur le <localisation>territoire de Champigneules</localisation> et se jette dans la Meurthe.</definition>
+      <definition>prend sa source dans les <localisation>
+            <commune precision="certain">Fonds-de-Toul</commune>
+         </localisation>, passe sur le <localisation>territoire de Champigneules</localisation> et se jette dans la Meurthe.</definition>
    </article>
    <article id="DT54-01128" pg="48">
       <vedette>
          <sm>Étangs (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Drouville</localisation>, passe sur le territoire de cette commune et sur celui de Courbessaux et se jette dans la Rouenne.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Drouville</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Courbessaux et se jette dans la Rouenne.</definition>
    </article>
    <article id="DT54-01129" pg="48">
       <vedette>
@@ -15426,7 +15556,9 @@
          <sm>Etterbach (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Bickenholtz</localisation> et qui, après avoir passé sur le territoire de cette commune et sur celui de Schalbach, se jette dans l’Isch.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Bickenholtz</commune>
+         </localisation> et qui, après avoir passé sur le territoire de cette commune et sur celui de Schalbach, se jette dans l’Isch.</definition>
    </article>
    <article type="commune" id="DT54-01133" pg="48">
       <vedette>
@@ -15484,7 +15616,9 @@
          <sm>Euron (L’),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source à <localisation>Rehaincourt</localisation> (Vosges), passe sur les <localisation>territoires de Saint-Boing, Rozelieures, Clayeures, Froville, Lorey, Bayon, reçoit le Brouillot et le Fouliot</localisation>, et se jette dans la Moselle <localisation>près de Bayon</localisation>.</definition>
+         <typologie>rivière</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Rehaincourt</commune>
+         </localisation> (Vosges), passe sur les <localisation>territoires de Saint-Boing, Rozelieures, Clayeures, Froville, Lorey, Bayon, reçoit le Brouillot et le Fouliot</localisation>, et se jette dans la Moselle <localisation>près de Bayon</localisation>.</definition>
       <forme_ancienne>— <i>Aqua de Loyron,</i> 
          <date>1178</date> 
          <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
@@ -15564,7 +15698,9 @@
          <sm>Faersbach (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Guntzviller</localisation> et se jette dans la Zorn.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Guntzviller</commune>
+         </localisation> et se jette dans la Zorn.</definition>
    </article>
    <article id="DT54-01144" pg="48">
       <vedette>
@@ -16093,7 +16229,9 @@
       <vedette>
          <sm>Ferrières</sm> ou <sm>Ferrières-sous-Chaligny,</sm>
       </vedette>
-      <definition>nom du lieu où s’établirent d’abord les religieux de <localisation>Clairlieu</localisation>.</definition>
+      <definition>nom du lieu où s’établirent d’abord les religieux de <localisation>
+            <commune precision="certain">Clairlieu</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Ferraria,</i> 
          <date>1150</date> 
          <reference>(ch. de l’abb. de Clairlieu)</reference>.</forme_ancienne>
@@ -16611,7 +16749,9 @@
          <sm>Fontaine (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Manhoué</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Manhoué</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01227" pg="51">
       <vedette>
@@ -16759,7 +16899,9 @@
       <vedette>
          <sm>Fontaine-du-Renard (Ruisseau de la)</sm> ou <sm>de l’Étang-d’Hellocourt,</sm>
       </vedette>
-      <definition>a sa source sous <localisation>Romécourt</localisation>, passe sur le territoire de cette commune, sur ceux d’Hellocourt et de Moussey, et se jette dans le Sanon.</definition>
+      <definition>a sa source sous <localisation>
+            <commune precision="certain">Romécourt</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux d’Hellocourt et de Moussey, et se jette dans le Sanon.</definition>
    </article>
    <article id="DT54-01245" pg="51">
       <vedette>
@@ -17153,7 +17295,9 @@
       <vedette>
          <sm>Fossatte (Ruisseau de la)</sm> ou <sm>du Vieil-Étang,</sm>
       </vedette>
-      <definition>prend sa source aux <localisation>Deux-Fontaines</localisation>, <localisation>commune de Bathelémont</localisation>, passe sur les <localisation>territoires de Bauzemont et de Valhey</localisation> et se jette dans le Sanon.</definition>
+      <definition>prend sa source aux <localisation>
+            <commune precision="certain">Deux-Fontaines</commune>
+         </localisation>, <localisation>commune de Bathelémont</localisation>, passe sur les <localisation>territoires de Bauzemont et de Valhey</localisation> et se jette dans le Sanon.</definition>
    </article>
    <article id="DT54-01280" pg="52">
       <vedette>
@@ -17351,7 +17495,9 @@
          <sm>Fouliot (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Belchamp</localisation>, passe sur les <localisation>territoires d’Einvaux, Brémoncourt, Méhoncourt et Clayeures</localisation> et se jette dans l’Euron.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Belchamp</commune>
+         </localisation>, passe sur les <localisation>territoires d’Einvaux, Brémoncourt, Méhoncourt et Clayeures</localisation> et se jette dans l’Euron.</definition>
    </article>
    <article id="DT54-01295" pg="53">
       <vedette>
@@ -17435,7 +17581,9 @@
          <sm>Frahaux (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, commence à paraître à <localisation>Ville-en-Vermois</localisation>, passe sur le territoire de cette commune, sur ceux de Fléville, Lupcourt et la Neuveville-devant-Nancy, et se jette dans la Meurthe.</definition>
+         <typologie>ruisseau</typologie>, commence à paraître à <localisation>
+            <commune precision="certain">Ville-en-Vermois</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Fléville, Lupcourt et la Neuveville-devant-Nancy, et se jette dans la Meurthe.</definition>
    </article>
    <article type="commune" id="DT54-01305" pg="53">
       <vedette>
@@ -18020,7 +18168,9 @@
          <sm>Frouard,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Baccarat</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Baccarat</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01339" pg="55">
       <vedette>
@@ -18986,7 +19136,9 @@
          <sm>Giroville</sm> ou <sm>Gironville,</sm>
       </vedette>
       <definition>
-         <typologie>village détruit</typologie> ; ancien faubourg de <localisation>Blâmont</localisation> dans lequel était l’église paroissiale.</definition>
+         <typologie>village détruit</typologie> ; ancien faubourg de <localisation>
+            <commune precision="certain">Blâmont</commune>
+         </localisation> dans lequel était l’église paroissiale.</definition>
       <forme_ancienne>— <i>Helyas de Girovilla,</i> 
          <date>1174</date> 
          <reference>(H. L. II, c. 367)</reference>.</forme_ancienne>
@@ -19337,7 +19489,9 @@
          <sm>Gossoncourt,</sm>
       </vedette>
       <definition>
-         <typologie>village détruit</typologie> ; ermitage et chapelle autrefois mère-église de <localisation>Vannecourt</localisation>.</definition>
+         <typologie>village détruit</typologie> ; ermitage et chapelle autrefois mère-église de <localisation>
+            <commune precision="certain">Vannecourt</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Unzonis curtis,</i> 
          <date>1106</date> 
          <reference>(Hist. de l’abb. de Saint-Mihiel, p. 453)</reference>.</forme_ancienne>
@@ -19385,7 +19539,9 @@
          <sm>Gradvanel</sm> ou <sm>Haripré,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Ormes</localisation>, passe sur le territoire de cette commune et se jette dans le Madon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Ormes</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans le Madon.</definition>
    </article>
    <article id="DT54-01424" pg="60">
       <vedette>
@@ -19604,7 +19760,9 @@
       <vedette>
          <sm>Grand-Fontaine (Ruisseau de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Saint-Antoine</localisation>, <localisation>commune de Blainville</localisation>, passe sur le territoire de cette commune et se jette dans la Meurthe.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Saint-Antoine</commune>
+         </localisation>, <localisation>commune de Blainville</localisation>, passe sur le territoire de cette commune et se jette dans la Meurthe.</definition>
    </article>
    <article id="DT54-01451" pg="60">
       <vedette>
@@ -19619,7 +19777,9 @@
          <sm>Grand’Maison (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Pagny-sur-Moselle</localisation>, érigé en <date>1610</date>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Pagny-sur-Moselle</commune>
+         </localisation>, érigé en <date>1610</date>.</definition>
    </article>
    <article id="DT54-01453" pg="60">
       <vedette>
@@ -19746,7 +19906,9 @@
          <sm>Grand-Ruisseau (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Benney</localisation>, passe sur le territoire de cette commune et sur celui de Lemainville et se jette dans le Madon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Benney</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Lemainville et se jette dans le Madon.</definition>
    </article>
    <article id="DT54-01466" pg="61">
       <vedette>
@@ -19761,7 +19923,9 @@
          <sm>Grand-Rupt (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à la <localisation>Goutte-Dame-Jeanne</localisation>, <localisation>commune de Leintrey</localisation>, passe sur le territoire de cette commune et sur celui de <localisation>Vého</localisation> et se jette dans le ruisseau de l’Étang.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à la <localisation>
+            <commune precision="certain">Goutte-Dame-Jeanne</commune>
+         </localisation>, <localisation>commune de Leintrey</localisation>, passe sur le territoire de cette commune et sur celui de <localisation>Vého</localisation> et se jette dans le ruisseau de l’Étang.</definition>
       <forme_ancienne>— <i>Grandis rivus,</i> 
          <date>1135</date> 
          <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
@@ -19852,7 +20016,9 @@
       <vedette>
          <sm>Grands-Prés (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Lagney</localisation>, passe sur les <localisation>territoires de Pagney-derrière-Barine, Bouvron, Francheville</localisation>, et se jette dans le Terrouin.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Lagney</commune>
+         </localisation>, passe sur les <localisation>territoires de Pagney-derrière-Barine, Bouvron, Francheville</localisation>, et se jette dans le Terrouin.</definition>
    </article>
    <article id="DT54-01479" pg="61">
       <vedette>
@@ -21349,7 +21515,9 @@
          <sm>Hardéval,</sm>
       </vedette>
       <definition>
-         <typologie>village détruit</typologie>, où était la mère-église d’<localisation>Hammeville</localisation>, et dont les ruines servirent à bâtir ce dernier village.</definition>
+         <typologie>village détruit</typologie>, où était la mère-église d’<localisation>
+            <commune precision="certain">Hammeville</commune>
+         </localisation>, et dont les ruines servirent à bâtir ce dernier village.</definition>
       <forme_ancienne>— <i>Hardevaulz,</i> 
          <date>1402</date> 
          <reference>(<i>Regestrum</i>)</reference>.</forme_ancienne>
@@ -21757,7 +21925,9 @@
          <sm>Haut-Château (Le),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Parroy</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Parroy</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT54-01615" pg="66">
       <vedette>
@@ -22087,7 +22257,9 @@
          <sm>Haut-Voué (Le),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Champenoux</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Champenoux</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01652" pg="67">
       <vedette>
@@ -22334,7 +22506,9 @@
          <sm>Hayrget-Greben (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Bermering</localisation>, passe sur le territoire de cette commune et se jette dans l’Albe.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Bermering</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans l’Albe.</definition>
    </article>
    <article type="commune" id="DT54-01675" pg="67">
       <vedette>
@@ -22911,7 +23085,9 @@
       <vedette>
          <sm>Héronnière (La),</sm>
       </vedette>
-      <definition>nom donné au <typologie>bois</typologie> au pied duquel était le château de M. de la Galaizière, intendant de Lorraine, à <localisation>Neuviller-sur-Moselle</localisation>.</definition>
+      <definition>nom donné au <typologie>bois</typologie> au pied duquel était le château de M. de la Galaizière, intendant de Lorraine, à <localisation>
+            <commune precision="certain">Neuviller-sur-Moselle</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01714" pg="69">
       <vedette>
@@ -23179,7 +23355,9 @@
          <sm>Hofferingerdor,</sm>
       </vedette>
       <definition>
-         <typologie>ancien faubourg et porte</typologie> de <localisation>Sarrebourg</localisation>, du côté de Hoff, <date>
+         <typologie>ancien faubourg et porte</typologie> de <localisation>
+            <commune precision="certain">Sarrebourg</commune>
+         </localisation>, du côté de Hoff, <date>
             <sm>xv</sm>
             <sup>e</sup> siècle</date> 
          <reference>(obit. de la coll. de Sarrebourg, f<sup>os</sup> 129 et 134 v°)</reference>.</definition>
@@ -23893,7 +24071,9 @@
          <sm>Ingressin (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source au <localisation>Val-de-Passey</localisation>, passe sur les <localisation>territoires de Foug, de Choloy et d’Écrouves</localisation>, et se jette dans la Moselle <localisation>près de Toul</localisation>.</definition>
+         <typologie>ruisseau</typologie>, prend sa source au <localisation>
+            <commune precision="certain">Val-de-Passey</commune>
+         </localisation>, passe sur les <localisation>territoires de Foug, de Choloy et d’Écrouves</localisation>, et se jette dans la Moselle <localisation>près de Toul</localisation>.</definition>
       <forme_ancienne>— <i>Fluviolus Lingruscia qui medium suburbium interluit,</i> 
          <date>838</date> 
          <reference>(H. L. I, c. 484)</reference>.</forme_ancienne>
@@ -24778,7 +24958,9 @@
          <sm>Keillematt,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Berling</localisation>, passe sur les <localisation>territoires de Phalsbourg et de Vilsberg</localisation> et se jette dans le Haspelmatt.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Berling</commune>
+         </localisation>, passe sur les <localisation>territoires de Phalsbourg et de Vilsberg</localisation> et se jette dans le Haspelmatt.</definition>
    </article>
    <article id="DT54-01852" pg="74">
       <vedette>
@@ -24804,7 +24986,9 @@
       <vedette>
          <sm>Kellersbach</sm> (<i>ruisseau du souterrain</i>),</vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend ses sources à <localisation>Alzing</localisation> et dans l’<localisation>étang de Ludmelz</localisation>, passe sur les <localisation>territoires de Saint-Jean-de-Bassel et de Berthelming</localisation> et se jette dans la Sarre.</definition>
+         <typologie>ruisseau</typologie>, prend ses sources à <localisation>
+            <commune precision="certain">Alzing</commune>
+         </localisation> et dans l’<localisation>étang de Ludmelz</localisation>, passe sur les <localisation>territoires de Saint-Jean-de-Bassel et de Berthelming</localisation> et se jette dans la Sarre.</definition>
    </article>
    <article type="commune" id="DT54-01855" pg="74">
       <vedette>
@@ -25556,7 +25740,9 @@
       <vedette>
          <sm>Langst (Ruisseau de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Hommarting</localisation>, passe sur le territoire de cette commune et sur celui de Réding et se jette dans l’Eichmatt.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Hommarting</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Réding et se jette dans l’Eichmatt.</definition>
    </article>
    <article id="DT54-01920" pg="76">
       <vedette>
@@ -25664,7 +25850,9 @@
          <sm>Latte (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Fresnes-en-Saulnois</localisation>, passe sur les <localisation>territoires de Jallaucourt, Malaucourt, Fossieux, Aulnois, Ajoncourt</localisation>, et se jette dans la Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Fresnes-en-Saulnois</commune>
+         </localisation>, passe sur les <localisation>territoires de Jallaucourt, Malaucourt, Fossieux, Aulnois, Ajoncourt</localisation>, et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-01931" pg="76">
       <vedette>
@@ -26239,7 +26427,9 @@
       <vedette>
          <sm>Levée romaine</sm> ou <sm>Grande levée romaine,</sm>
       </vedette>
-      <definition>allant de Neufchâteau à <localisation>Toul</localisation>, <localisation>commune de Bagneux</localisation> ; chemin ainsi indiqué dans la Déclaration de la communauté en <date>1738</date>.</definition>
+      <definition>allant de Neufchâteau à <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation>, <localisation>commune de Bagneux</localisation> ; chemin ainsi indiqué dans la Déclaration de la communauté en <date>1738</date>.</definition>
    </article>
    <article type="commune" id="DT54-01967" pg="78">
       <vedette>
@@ -26759,7 +26949,9 @@
          <sm>Lombards (La Maison des),</sm>
       </vedette>
       <definition>
-         <typologie>fief et maison forte</typologie> à <localisation>Custines</localisation>.</definition>
+         <typologie>fief et maison forte</typologie> à <localisation>
+            <commune precision="certain">Custines</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-01994" pg="80">
       <vedette>
@@ -26787,7 +26979,9 @@
       <vedette>
          <sm>Longeau (Ruisseau de),</sm>
       </vedette>
-      <definition>commence à paraître à <localisation>Bruley</localisation> et se jette dans le ruisseau des Grands-Prés.</definition>
+      <definition>commence à paraître à <localisation>
+            <commune precision="certain">Bruley</commune>
+         </localisation> et se jette dans le ruisseau des Grands-Prés.</definition>
    </article>
    <article id="DT54-01997" pg="80">
       <vedette>
@@ -27492,7 +27686,9 @@
          <sm>Madon (Le),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source à <localisation>Vioménil</localisation> (Vosges), passe sur les <localisation>territoires de Bralleville, Germonville, Jevoncourt, Xirocourt, Vaudigny, Affracourt, Vaudeville, Haroué, Ormes, Gerbécourt, Lemainville, Voinémont, Ceintrey, Autrey, Pulligny, Pierreville, Frolois, Xeuilley, Bainville</localisation>, et va se jeter dans la Moselle à <localisation>Pont-Saint-Vincent</localisation>.</definition>
+         <typologie>rivière</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Vioménil</commune>
+         </localisation> (Vosges), passe sur les <localisation>territoires de Bralleville, Germonville, Jevoncourt, Xirocourt, Vaudigny, Affracourt, Vaudeville, Haroué, Ormes, Gerbécourt, Lemainville, Voinémont, Ceintrey, Autrey, Pulligny, Pierreville, Frolois, Xeuilley, Bainville</localisation>, et va se jeter dans la Moselle à <localisation>Pont-Saint-Vincent</localisation>.</definition>
       <forme_ancienne>— <i>Riparia de Maudum,</i> 
          <date>1240</date> 
          <reference>(H. L. II, c. 453)</reference>.</forme_ancienne>
@@ -27850,7 +28046,9 @@
          <sm>Maison-Forte (La)</sm> ou <sm>la Nouverie,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne maison</typologie> à <localisation>Grosrouvre</localisation>.</definition>
+         <typologie>ancienne maison</typologie> à <localisation>
+            <commune precision="certain">Grosrouvre</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02072" pg="83">
       <vedette>
@@ -28556,13 +28754,17 @@
       <vedette>
          <sm>Mandeguerre,</sm>
       </vedette>
-      <definition>ancienne tour située sur le <typologie>pont</typologie> de <localisation>Pont-à-Mousson</localisation>, où était le beffroi qui portait le même nom.</definition>
+      <definition>ancienne tour située sur le <typologie>pont</typologie> de <localisation>
+            <commune precision="certain">Pont-à-Mousson</commune>
+         </localisation>, où était le beffroi qui portait le même nom.</definition>
    </article>
    <article id="DT54-02128" pg="85">
       <vedette>
          <sm>Mandeguerre,</sm>
       </vedette>
-      <definition>ancienne tour au <typologie>château</typologie> de <localisation>Prény</localisation>, où était une cloche portant le même nom.</definition>
+      <definition>ancienne tour au <typologie>château</typologie> de <localisation>
+            <commune precision="certain">Prény</commune>
+         </localisation>, où était une cloche portant le même nom.</definition>
    </article>
    <article id="DT54-02129" pg="85">
       <vedette>
@@ -28872,7 +29074,9 @@
       <vedette>
          <sm>Marais-de-Lay (Ruisseau des),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Lay-Saint-Remy</localisation>, passe sur le territoire de cette commune et se jette dans la Meuse.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Lay-Saint-Remy</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans la Meuse.</definition>
    </article>
    <article type="commune" id="DT54-02145" pg="86">
       <vedette>
@@ -29578,7 +29782,9 @@
          <sm>Mauchère,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Montenoy</localisation>, passe sur les <localisation>territoires de Faulx, de Malleloy et de Custines</localisation> et se jette dans la Moselle.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Montenoy</commune>
+         </localisation>, passe sur les <localisation>territoires de Faulx, de Malleloy et de Custines</localisation> et se jette dans la Moselle.</definition>
    </article>
    <article id="DT54-02185" pg="88">
       <vedette>
@@ -29608,7 +29814,9 @@
       <vedette>
          <sm>Maxel (Ruisseau de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Haussonville</localisation>, passe sur le territoire de cette commune et se jette dans l’Euron.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Haussonville</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans l’Euron.</definition>
    </article>
    <article type="commune" id="DT54-02189" pg="88">
       <vedette>
@@ -29873,7 +30081,9 @@
          <sm>Ménil,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Lunéville</localisation>, autrefois village (prieuré de Bénédictins fondée au <date>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Lunéville</commune>
+         </localisation>, autrefois village (prieuré de Bénédictins fondée au <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date> et dépendant de l’abbaye de Senones).</definition>
       <forme_ancienne>— <i>Masnis,</i> 
@@ -30856,7 +31066,9 @@
          <sm>Moince,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Saint-Jure</localisation> (Moselle), passe sur les <localisation>territoires de Raucourt et d’Éply</localisation> et se jette dans la Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Saint-Jure</commune>
+         </localisation> (Moselle), passe sur les <localisation>territoires de Raucourt et d’Éply</localisation> et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-02267" pg="92">
       <vedette>
@@ -30871,7 +31083,9 @@
          <sm>Moineville,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Pagny-sous-Prény</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Pagny-sous-Prény</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02269" pg="92">
       <vedette>
@@ -31551,7 +31765,9 @@
          <sm>Montjoie,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Hénaménil</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Hénaménil</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02322" pg="94">
       <vedette>
@@ -31890,7 +32106,9 @@
          <sm>Mortagne</sm> ou <sm>Agne,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, qui prend sa source à <localisation>Vanémont</localisation> (Vosges), entre dans le <localisation>département de la Meurthe près de Magnières</localisation>, coule du sud au nord en passant sur les <localisation>territoires de Magnières, Vallois, Moyen, Gerbéviller, Haudonville, la Math, Mont</localisation>, et se jette dans la Meurthe près du hameau qui porte son nom.</definition>
+         <typologie>rivière</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Vanémont</commune>
+         </localisation> (Vosges), entre dans le <localisation>département de la Meurthe près de Magnières</localisation>, coule du sud au nord en passant sur les <localisation>territoires de Magnières, Vallois, Moyen, Gerbéviller, Haudonville, la Math, Mont</localisation>, et se jette dans la Meurthe près du hameau qui porte son nom.</definition>
       <forme_ancienne>— <i>Mortesna,</i> 
          <date>1178</date> 
          <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
@@ -32084,7 +32302,9 @@
       </vedette>
       <definition>
          <typologie>rivière</typologie>, a plusieurs branches, dont deux principales ; celle qui
-    prend sa source à <localisation>Bussang</localisation> (Vosges) conserve le nom de Moselle ou
+    prend sa source à <localisation>
+            <commune precision="certain">Bussang</commune>
+         </localisation> (Vosges) conserve le nom de Moselle ou
     <i>Grande-Moselle</i> et reçoit à <localisation>Remiremont</localisation> les eaux de la Petite-Moselle ou Moselotte, laquelle a sa source au Grand-Ventron. La Moselle traverse le département de la Meurthe du sud au nord et y passe sur 
 les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Mangonville, Roville, Bayon, Neuviller, Lorey, Saint-Mard, Crévéchamps, Velle, Tonnoy, Flavigny, Richardménil, Méréville, Messein, les Neuves-Maisons, Pont-Saint-Vincent, Chaligny, Sexey-aux-Forges, Maron, Villey-le-Sec, Pierre, Chaudeney, Toul, Gondreville, Fontenoy, Villey-Saint-Étienne, Aingeray, Liverdun, Frouard, Pompey, Custines, Marbache, Millery, Autreville, Belleville, Dieulouard, Bezaumont, Loisy, Blénod, Atton, Pont-à-Mousson, Champey, Vandières, Vittonville, Pagny, Arnaville</localisation> ; elle entre ensuite dans le département auquel elle a donné son nom et va se jeter dans le Rhin à Coblentz.</definition>
       <forme_ancienne>— <i>Mosella,</i> 
@@ -32262,13 +32482,17 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Moulin (Ruisseau du),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Houdemont</localisation> et se jette dans le ruisseau d’Heillecourt.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Houdemont</commune>
+         </localisation> et se jette dans le ruisseau d’Heillecourt.</definition>
    </article>
    <article id="DT54-02365" pg="96">
       <vedette>
          <sm>Moulin (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Maréville</localisation>, passe sur les <localisation>territoires de Laxou et de Villers</localisation> et se jette dans le ruisseau de Saint-Thiébaut.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Maréville</commune>
+         </localisation>, passe sur les <localisation>territoires de Laxou et de Villers</localisation> et se jette dans le ruisseau de Saint-Thiébaut.</definition>
    </article>
    <article id="DT54-02366" pg="96">
       <vedette>
@@ -32463,7 +32687,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Moulin de Saint-Epvre,</sm>
       </vedette>
       <definition>
-         <typologie>ancien moulin</typologie> sur le <localisation>Madon</localisation>.</definition>
+         <typologie>ancien moulin</typologie> sur le <localisation>
+            <commune precision="certain">Madon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Molendinum Sancti-Apri,</i> 
          <date>1240</date> 
          <reference>(H. L. II, c. 454)</reference>.</forme_ancienne>
@@ -32681,7 +32907,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Moulins (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Jeandelaincourt</localisation>, passe sur le <localisation>territoire de Nomeny</localisation> et se jette dans la Seille.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Jeandelaincourt</commune>
+         </localisation>, passe sur le <localisation>territoire de Nomeny</localisation> et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-02415" pg="97">
       <vedette>
@@ -33070,7 +33298,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Nabécor,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Nabecorre,</i> 
          <date>1608</date> 
          <reference>(Tr. des ch. reg. B. 7471, f° 15 v°)</reference>.</forme_ancienne>
@@ -34304,7 +34534,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Blâmont</localisation>, fondée en <date>1352</date>.</definition>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Blâmont</commune>
+         </localisation>, fondée en <date>1352</date>.</definition>
    </article>
    <article id="DT54-02522" pg="103">
       <vedette>
@@ -34325,14 +34557,18 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>ancien faubourg</typologie> d’<localisation>Ormes</localisation>.</definition>
+         <typologie>ancien faubourg</typologie> d’<localisation>
+            <commune precision="certain">Ormes</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02524" pg="103">
       <vedette>
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>anc. paroisse, collégiale et hôpital</typologie> à <localisation>Pont-à-Mousson</localisation>, supprimée en <date>1572</date>.</definition>
+         <typologie>anc. paroisse, collégiale et hôpital</typologie> à <localisation>
+            <commune precision="certain">Pont-à-Mousson</commune>
+         </localisation>, supprimée en <date>1572</date>.</definition>
    </article>
    <article id="DT54-02525" pg="103">
       <vedette>
@@ -34346,7 +34582,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Notre-Dame-de-Bon-Succès,</sm>
       </vedette>
-      <definition>nom de la <typologie>chapelle</typologie> de <localisation>Fricourt</localisation>.</definition>
+      <definition>nom de la <typologie>chapelle</typologie> de <localisation>
+            <commune precision="certain">Fricourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02527" pg="103">
       <vedette>
@@ -34604,7 +34842,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Nouvelle-Bethléem (La),</sm>
       </vedette>
-      <definition>nom que portait l’<typologie>ancien couvent des Dominicains</typologie> de <localisation>Blainville</localisation>.</definition>
+      <definition>nom que portait l’<typologie>ancien couvent des Dominicains</typologie> de <localisation>
+            <commune precision="certain">Blainville</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT54-02556" pg="104">
       <vedette>
@@ -34975,7 +35215,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Ommerey (Ruisseau d’)</sm> ou <sm>de Nard,</sm>
       </vedette>
-      <definition>a sa source à <localisation>Bourdonnay</localisation>, passe sur le territoire de cette commune et sur ceux de Ley, Donnelay, Juvelise, Lezey, Xanrey, Moyenvic, Marsal, et se jette dans la Seille.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Bourdonnay</commune>
+         </localisation>, passe sur le territoire de cette commune et sur ceux de Ley, Donnelay, Juvelise, Lezey, Xanrey, Moyenvic, Marsal, et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-02578" pg="105">
       <vedette>
@@ -35013,7 +35255,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Orevaux (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Crantenoy</localisation>, passe sur les <localisation>territoires de Vaudeville et d’Haroué</localisation> et se jette dans le Madon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Crantenoy</commune>
+         </localisation>, passe sur les <localisation>territoires de Vaudeville et d’Haroué</localisation> et se jette dans le Madon.</definition>
    </article>
    <article id="DT54-02583" pg="105">
       <vedette>
@@ -35138,7 +35382,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Otterbach (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Brouderdorff</localisation>, passe sur le territoire de cette commune, sur ceux de Niderviller et de Bühl, et se jette dans la Bièvre.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Brouderdorff</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Niderviller et de Bühl, et se jette dans la Bièvre.</definition>
    </article>
    <article id="DT54-02592" pg="105">
       <vedette>
@@ -35178,7 +35424,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Outre-Sarre,</sm>
       </vedette>
-      <definition>nom d’un <typologie>ancien faubourg</typologie> de <localisation>Sarrebourg</localisation>.</definition>
+      <definition>nom d’un <typologie>ancien faubourg</typologie> de <localisation>
+            <commune precision="certain">Sarrebourg</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Suburtium de Ultra Saram,</i> 
          <date>
             <sm>xv</sm>
@@ -35355,7 +35603,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Pantau (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source au <localisation>Val-des-Nonnes</localisation>, passe sur les <localisation>territoires de Pagney-derrière-Barine et d’Écrouves</localisation> et se jette dans l’Ingressin.</definition>
+         <typologie>ruisseau</typologie>, prend sa source au <localisation>
+            <commune precision="certain">Val-des-Nonnes</commune>
+         </localisation>, passe sur les <localisation>territoires de Pagney-derrière-Barine et d’Écrouves</localisation> et se jette dans l’Ingressin.</definition>
    </article>
    <article id="DT54-02608" pg="106">
       <vedette>
@@ -35461,7 +35711,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Paradis,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Vézelise</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Vézelise</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02621" pg="106">
       <vedette>
@@ -35867,7 +36119,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Petit-Ingressin (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source au <localisation>Val-de-Passey</localisation>, passe sur les <localisation>territoires de Choloy et d’Écrouves</localisation> et se jette dans l’Ingressin.</definition>
+         <typologie>ruisseau</typologie>, prend sa source au <localisation>
+            <commune precision="certain">Val-de-Passey</commune>
+         </localisation>, passe sur les <localisation>territoires de Choloy et d’Écrouves</localisation> et se jette dans l’Ingressin.</definition>
    </article>
    <article id="DT54-02657" pg="107">
       <vedette>
@@ -36113,7 +36367,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Petite-Verdurette (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Neuf-Maisons</localisation>, passe sur le territoire de cette commune et sur celui de Vacqueville et se jette dans la Verdurette.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Neuf-Maisons</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Vacqueville et se jette dans la Verdurette.</definition>
    </article>
    <article id="DT54-02685" pg="108">
       <vedette>
@@ -36399,7 +36655,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Pilliers (Les),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Housséville</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Housséville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02706" pg="109">
       <vedette>
@@ -36625,7 +36883,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Poisson (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Bulligny</localisation>, passe sur le territoire de cette commune, sur ceux de Crézilles et de Moutrot, et se jette dans le ruisseau des Bouvades.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Bulligny</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Crézilles et de Moutrot, et se jette dans le ruisseau des Bouvades.</definition>
    </article>
    <article type="commune" id="DT54-02729" pg="110">
       <vedette>
@@ -36919,7 +37179,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Ponthus</sm> ou <sm>Pontus,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Tantonville</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Tantonville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-02746" pg="111">
       <vedette>
@@ -37196,7 +37458,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Pré-au-Bois (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Saint-Germain</localisation>, passe sur le territoire de cette commune et sur celui de Bainville-aux-Miroirs et se jette dans la Moselle.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Saint-Germain</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Bainville-aux-Miroirs et se jette dans la Moselle.</definition>
    </article>
    <article id="DT54-02767" pg="112">
       <vedette>
@@ -37329,7 +37593,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Pré-Lallemand (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Manoncourt</localisation>, passe sur le territoire de cette commune et sur celui de Saint-Nicolas et se jette dans le ruisseau de Saint-Nicolas.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Manoncourt</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Saint-Nicolas et se jette dans le ruisseau de Saint-Nicolas.</definition>
    </article>
    <article id="DT54-02784" pg="112">
       <vedette>
@@ -37529,7 +37795,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Prés (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Azelot</localisation>, passe sur le territoire de cette commune et sur ceux de Lupcourt et de Ville-en-Vermois et se jette dans le Frahaux.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Azelot</commune>
+         </localisation>, passe sur le territoire de cette commune et sur ceux de Lupcourt et de Ville-en-Vermois et se jette dans le Frahaux.</definition>
    </article>
    <article id="DT54-02799" pg="113">
       <vedette>
@@ -37581,7 +37849,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Préville,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>, ainsi nommé d’un fief érigé en <date>1725</date>, et sur l’emplacement duquel on a établi le cimetière général de la ville.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>, ainsi nommé d’un fief érigé en <date>1725</date>, et sur l’emplacement duquel on a établi le cimetière général de la ville.</definition>
       <forme_ancienne>— <i>Près-de-Ville,</i> 
          <date>1725</date> 
          <reference>(Tr. des ch. reg. B. 225, n° 44)</reference>.</forme_ancienne>
@@ -38127,7 +38397,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Queue-de-Mont (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>Charmes-la-Côte</localisation>, passe d’abord sur le territoire de cette commune, puis sur celui de Toul, et se jette dans la Moselle.</definition>
+         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Charmes-la-Côte</commune>
+         </localisation>, passe d’abord sur le territoire de cette commune, puis sur celui de Toul, et se jette dans la Moselle.</definition>
    </article>
    <article type="commune" id="DT54-02850" pg="115">
       <vedette>
@@ -38643,7 +38915,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Réding (Ruisseau du Moulin de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Réding</localisation> et se jette dans l’Eichmatt.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Réding</commune>
+         </localisation> et se jette dans l’Eichmatt.</definition>
    </article>
    <article type="commune" id="DT54-02885" pg="116">
       <vedette>
@@ -40068,7 +40342,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Rouaux (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source au <localisation>Grand-Pré</localisation>, passe sur les <localisation>territoires de Viterne et de Maizières</localisation> et se jette dans le ruisseau de Viterne.</definition>
+      <definition>prend sa source au <localisation>
+            <commune precision="certain">Grand-Pré</commune>
+         </localisation>, passe sur les <localisation>territoires de Viterne et de Maizières</localisation> et se jette dans le ruisseau de Viterne.</definition>
    </article>
    <article id="DT54-03000" pg="121">
       <vedette>
@@ -40842,7 +41118,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Salines (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Moncourt</localisation>, passe sur les <localisation>territoires de Ley et de Lezey</localisation> et se jette dans le ruisseau d’Ommerey.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Moncourt</commune>
+         </localisation>, passe sur les <localisation>territoires de Ley et de Lezey</localisation> et se jette dans le ruisseau d’Ommerey.</definition>
    </article>
    <article id="DT54-03057" pg="123">
       <vedette>
@@ -41036,7 +41314,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Sanlich,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne maison-fief</typologie> à <localisation>Houdreville</localisation>.</definition>
+         <typologie>ancienne maison-fief</typologie> à <localisation>
+            <commune precision="certain">Houdreville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03070" pg="124">
       <vedette>
@@ -41732,7 +42012,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saux (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Marthemont</localisation>, passe sur le <localisation>territoire de Maizières</localisation> et se jette dans le ruisseau de Viterne.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Marthemont</commune>
+         </localisation>, passe sur le <localisation>territoire de Maizières</localisation> et se jette dans le ruisseau de Viterne.</definition>
    </article>
    <article type="commune" id="DT54-03104" pg="127">
       <vedette>
@@ -42246,7 +42528,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Senet,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source au-dessus d’<localisation>Hénaménil</localisation> et se jette dans le Sanon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source au-dessus d’<localisation>
+            <commune precision="certain">Hénaménil</commune>
+         </localisation> et se jette dans le Sanon.</definition>
    </article>
    <article id="DT54-03133" pg="128">
       <vedette>
@@ -42337,7 +42621,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Serre,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Pagny-sur-Moselle</localisation>, érigée en <date>1757</date>, en faveur de Louis-François de Serre.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Pagny-sur-Moselle</commune>
+         </localisation>, érigée en <date>1757</date>, en faveur de Louis-François de Serre.</definition>
    </article>
    <article type="commune" id="DT54-03142" pg="128">
       <vedette>
@@ -42718,14 +43004,18 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Solterel,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne mairie</typologie> à <localisation>Croismare</localisation>.</definition>
+         <typologie>ancienne mairie</typologie> à <localisation>
+            <commune precision="certain">Croismare</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03168" pg="129">
       <vedette>
          <sm>Solvimpré,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Fontenoy-la-Joute</localisation>, passe sur le territoire de cette commune et sur celui de Glonville et se jette dans le Mazerot.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Fontenoy-la-Joute</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Glonville et se jette dans le Mazerot.</definition>
    </article>
    <article type="commune" id="DT54-03169" pg="129">
       <vedette>
@@ -42997,7 +43287,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Stanislas,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03191" pg="130">
       <vedette>
@@ -43094,7 +43386,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Streitwald</sm> ou <sm>Stritiwald</sm> (<i>forêt de la guerre</i> ou <i>de la querelle</i>),</vedette>
       <definition>
-         <typologie>partie de la vallée</typologie> d'<localisation>Abreschwiller</localisation> où l’on a trouvé des débris de constructions que l’on croit provenir d’un ancien fort.</definition>
+         <typologie>partie de la vallée</typologie> d'<localisation>
+            <commune precision="certain">Abreschwiller</commune>
+         </localisation> où l’on a trouvé des débris de constructions que l’on croit provenir d’un ancien fort.</definition>
       <commentaire>
          <p>— C’est aussi le nom d’une montagne, c<sup>ne</sup> d’Abreschwiller.</p>
       </commentaire>
@@ -43174,7 +43468,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Antoine,</sm>
       </vedette>
       <definition>
-         <typologie>commanderie d’Antonistes</typologie> à <localisation>Pont-à-Mousson</localisation>, fondée au <date>
+         <typologie>commanderie d’Antonistes</typologie> à <localisation>
+            <commune precision="certain">Pont-à-Mousson</commune>
+         </localisation>, fondée au <date>
             <sm>xiii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -43232,7 +43528,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Antoine,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Rosières-aux-Salines</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Rosières-aux-Salines</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Il y avait un canton de terre de ce nom, dont la dîme appartenait au marguillier de l’église.</p>
       </commentaire>
@@ -43242,7 +43540,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Arnou,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Morville-sur-Seille</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Morville-sur-Seille</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03214" pg="131">
       <vedette>
@@ -43315,7 +43615,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Bernard,</sm>
       </vedette>
       <definition>
-         <typologie>ancien hôpital</typologie> à <localisation>Pont-Saint-Vincent</localisation>.</definition>
+         <typologie>ancien hôpital</typologie> à <localisation>
+            <commune precision="certain">Pont-Saint-Vincent</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03217" pg="131">
       <vedette>
@@ -43429,7 +43731,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Christophe,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Vic</localisation>, dépendant de l’abbaye de Senones, fondé sur la <date>fin du <sm>xi</sm>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation>, dépendant de l’abbaye de Senones, fondé sur la <date>fin du <sm>xi</sm>
             <sup>e</sup> siècle</date>.</definition>
       <commentaire>
          <p>Une statue de saint Christophe, provenant de ce prieuré, est l’objet d’un pèlerinage assez fréquenté.</p>
@@ -43440,7 +43744,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Christophe,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Xures</localisation>, dépendant de l’abbaye de Senones, et qui existait au <date>commencement du <sm>xii</sm>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Xures</commune>
+         </localisation>, dépendant de l’abbaye de Senones, et qui existait au <date>commencement du <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
    <article id="DT54-03228" pg="131">
@@ -43526,7 +43832,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Saint-Clou,</sm>
       </vedette>
-      <definition>titre donné au <typologie>prieuré</typologie> de <localisation>Lay-Saint-Christophe</localisation>, dans l’histoire de ce prieuré, par dom Calmet (ms aux arch. de la Meurthe).</definition>
+      <definition>titre donné au <typologie>prieuré</typologie> de <localisation>
+            <commune precision="certain">Lay-Saint-Christophe</commune>
+         </localisation>, dans l’histoire de ce prieuré, par dom Calmet (ms aux arch. de la Meurthe).</definition>
    </article>
    <article id="DT54-03236" pg="131">
       <vedette>
@@ -43664,7 +43972,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Epvre,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Toul</localisation> ; village où était l’abbaye de Bénédictins du même nom, fondée au <date>commencement du <sm>vi</sm>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation> ; village où était l’abbaye de Bénédictins du même nom, fondée au <date>commencement du <sm>vi</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Vicus Sancti-Apri,</i> 
          <date>836</date> 
@@ -43694,14 +44004,18 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Étienne,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Sarrebourg</localisation>, fondée en <date>1256</date>.</definition>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Sarrebourg</commune>
+         </localisation>, fondée en <date>1256</date>.</definition>
    </article>
    <article id="DT54-03249" pg="132">
       <vedette>
          <sm>Saint-Étienne,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Vic</localisation>, fondée au <date>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation>, fondée au <date>
             <sm>xiii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -43710,7 +44024,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Étienne,</sm>
       </vedette>
       <definition>
-         <typologie>église paroissiale</typologie>, autrefois cathédrale, à <localisation>Toul</localisation>.</definition>
+         <typologie>église paroissiale</typologie>, autrefois cathédrale, à <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03251" pg="132">
       <vedette>
@@ -43749,7 +44065,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Eucaire,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Liverdun</localisation>, fondée au <date>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Liverdun</commune>
+         </localisation>, fondée au <date>
             <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Canonici Liberdunenses ecclesie Sancti-Eucharii,</i> 
@@ -43795,7 +44113,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Fiacre,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Thiaucourt</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Thiaucourt</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT54-03259" pg="132">
       <vedette>
@@ -43833,7 +44153,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Firmin,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Flavigny</localisation>, fondé au <date>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Flavigny</commune>
+         </localisation>, fondé au <date>
             <sm>x</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Ecclesia Sancti-Firmini apud Flaviniacum,</i> 
@@ -43922,7 +44244,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Gengoult,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Toul</localisation>, fondée au <date>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation>, fondée au <date>
             <sm>x</sm>
             <sup>e</sup> siècle</date>, aujourd’hui église paroissiale.</definition>
    </article>
@@ -43942,7 +44266,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Georges,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03272" pg="133">
       <vedette>
@@ -43950,14 +44276,18 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Georges,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Deneuvre</localisation>, fondée en <date>1301</date>.</definition>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Deneuvre</commune>
+         </localisation>, fondée en <date>1301</date>.</definition>
    </article>
    <article id="DT54-03273" pg="133">
       <vedette>
          <sm>Saint-Georges,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> princière à <localisation>Nancy</localisation>, fondée en <date>1339</date>, unie à la primatiale en <date>1742</date>.</definition>
+         <typologie>ancienne collégiale</typologie> princière à <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>, fondée en <date>1339</date>, unie à la primatiale en <date>1742</date>.</definition>
    </article>
    <article id="DT54-03274" pg="133">
       <vedette>
@@ -44051,14 +44381,18 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Goëry-d’Épinal,</sm>
       </vedette>
       <definition>
-         <typologie>ancien gagnage</typologie> à <localisation>Clévant</localisation>, mentionné en <date>1574</date> (dom. de Nancy).</definition>
+         <typologie>ancien gagnage</typologie> à <localisation>
+            <commune precision="certain">Clévant</commune>
+         </localisation>, mentionné en <date>1574</date> (dom. de Nancy).</definition>
    </article>
    <article id="DT54-03283" pg="133">
       <vedette>
          <sm>Saint-Gorgon,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Varangéville</localisation>, fondé au <date>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Varangéville</commune>
+         </localisation>, fondé au <date>
             <sm>viii</sm>
             <sup>e</sup> siècle</date> et département de l’abbaye de Gorze.</definition>
    </article>
@@ -44076,7 +44410,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Gorgon,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Morville-sur-Seille</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Morville-sur-Seille</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03286" pg="133">
       <vedette>
@@ -44093,7 +44429,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Hilaire,</sm>
       </vedette>
       <definition>
-         <typologie>anc. église champêtre, mère-église</typologie> de <localisation>Leyr</localisation>.</definition>
+         <typologie>anc. église champêtre, mère-église</typologie> de <localisation>
+            <commune precision="certain">Leyr</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03288" pg="133">
       <vedette>
@@ -44213,7 +44551,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Jean,</sm>
       </vedette>
       <definition>
-         <typologie>collégiale</typologie> à <localisation>Vaudémont</localisation>, fondée en <date>1325</date>, unie en <date>1760</date> au chapitre de Bouxières.</definition>
+         <typologie>collégiale</typologie> à <localisation>
+            <commune precision="certain">Vaudémont</commune>
+         </localisation>, fondée en <date>1325</date>, unie en <date>1760</date> au chapitre de Bouxières.</definition>
    </article>
    <article id="DT54-03300" pg="133">
       <vedette>
@@ -44246,7 +44586,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Jean,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>, ainsi nommé à cause de la commanderie de <i>Saint-Jean-du-Vieil-Aître,</i> ordre de Malte, dont la chapelle et les bâtiments existent encore.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>, ainsi nommé à cause de la commanderie de <i>Saint-Jean-du-Vieil-Aître,</i> ordre de Malte, dont la chapelle et les bâtiments existent encore.</definition>
       <commentaire>
          <p>C’est dans l’étang voisin, aujourd’hui en culture, que fut tué Charles le Téméraire, le <date>5 janvier 1477</date> ; une croix avec une inscription rappelle cet événement.</p>
       </commentaire>
@@ -44280,7 +44622,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Jean,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Thiaucourt</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Thiaucourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03304" pg="133">
       <vedette>
@@ -44377,7 +44721,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Jean-Baptiste,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne église</typologie> paroissiale à <localisation>Pont-à-Mousson</localisation>.</definition>
+         <typologie>ancienne église</typologie> paroissiale à <localisation>
+            <commune precision="certain">Pont-à-Mousson</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03313" pg="134">
       <vedette>
@@ -44543,7 +44889,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Laurent,</sm>
       </vedette>
       <definition>
-         <typologie>collégiale</typologie> à <localisation>Dieulouard</localisation>, fondée au <date>
+         <typologie>collégiale</typologie> à <localisation>
+            <commune precision="certain">Dieulouard</commune>
+         </localisation>, fondée au <date>
             <sm>xi</sm>
             <sup>e</sup> siècle</date>, unie en <date>1602</date> à la primatiale de Nancy, et dont l’église fut donnée aux Bénédictins anglais qui s’établirent à Dieulouard en <date>1660</date>.</definition>
       <forme_ancienne>— <i>L’englise Saint-Lorent en Deulowart,</i> 
@@ -44570,7 +44918,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Léger,</sm>
       </vedette>
       <definition>
-         <typologie>collégiale</typologie> à <localisation>Marsal</localisation>, fondée au <date>
+         <typologie>collégiale</typologie> à <localisation>
+            <commune precision="certain">Marsal</commune>
+         </localisation>, fondée au <date>
             <sm>xiii</sm>
             <sup>e</sup> siècle</date>, unie à la collégiale de Vic au <date>
             <sm>xviii</sm>
@@ -44585,7 +44935,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Léon,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne abbaye de Chanoines réguliers</typologie> à <localisation>Toul</localisation>, fondée au <date>
+         <typologie>ancienne abbaye de Chanoines réguliers</typologie> à <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation>, fondée au <date>
             <sm>x</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -44631,7 +44983,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Léopold,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye de Bénédictins</typologie> à <localisation>Nancy</localisation>, fondée au <date>
+         <typologie>abbaye de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>, fondée au <date>
             <sm>xvii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -44705,7 +45059,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Mansuy,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Toul</localisation>, autrefois village, où était l’abbaye de Bénédictins de ce nom, fondée au <date>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Toul</commune>
+         </localisation>, autrefois village, où était l’abbaye de Bénédictins de ce nom, fondée au <date>
             <sm>x</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Saint-Mansuy-lès-Toul,</i> 
@@ -44942,7 +45298,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Melain,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré de Bénédictins</typologie> à <localisation>Vandœuvre</localisation>, fondé au <date>
+         <typologie>prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Vandœuvre</commune>
+         </localisation>, fondé au <date>
             <sm>xi</sm>
             <sup>e</sup>
          </date> ou au <date>
@@ -44954,7 +45312,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Michel,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Nancy</localisation>.</definition>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03363" pg="135">
       <vedette>
@@ -45244,7 +45604,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Paul,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Rosières-aux-Salines</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Rosières-aux-Salines</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Sainct-Poul,</i> 
          <date>1537</date> 
          <reference>(copie d’un titre du <date>
@@ -45298,7 +45660,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Pierre,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Fénétrange</localisation>, fondée en <date>1475</date>.</definition>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Fénétrange</commune>
+         </localisation>, fondée en <date>1475</date>.</definition>
    </article>
    <article id="DT54-03391" pg="137">
       <vedette>
@@ -45321,7 +45685,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Pierre,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Neuviller-sur-Moselle</localisation>, dépendant de l’abbaye Saint-Vanne de Verdun, fondé au <date>commencement du <sm>xii</sm>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Neuviller-sur-Moselle</commune>
+         </localisation>, dépendant de l’abbaye Saint-Vanne de Verdun, fondé au <date>commencement du <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
    <article id="DT54-03394" pg="137">
@@ -45367,7 +45733,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint Pierre,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03399" pg="137">
       <vedette>
@@ -45410,7 +45778,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Saint-Pierre</sm> et <sm>Saint-Remy,</sm>
       </vedette>
-      <definition>noms donnés aux différentes <typologie>parties du ban</typologie> de <localisation>Maidières</localisation> à cause des deux églises paroissiales qui existaient autrefois dans ce village.</definition>
+      <definition>noms donnés aux différentes <typologie>parties du ban</typologie> de <localisation>
+            <commune precision="certain">Maidières</commune>
+         </localisation> à cause des deux églises paroissiales qui existaient autrefois dans ce village.</definition>
       <commentaire>
          <p>Il y avait aussi un ban dit <i>de Saint-Laurent,</i> où le chapitre de la cathédrale de Metz et le curé de Saint-Laurent de Pont-à-Mousson étaient décimateurs.</p>
       </commentaire>
@@ -45476,7 +45846,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Quirin,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne chapelle</typologie>, à <localisation>Ville-en-Vermois</localisation>.</definition>
+         <typologie>ancienne chapelle</typologie>, à <localisation>
+            <commune precision="certain">Ville-en-Vermois</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03409" pg="137">
       <vedette>
@@ -45528,7 +45900,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Remy,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne abbaye de Chanoines réguliers</typologie> à <localisation>Lunéville</localisation>, fondée au <date>commencement du <sm>xi</sm>
+         <typologie>ancienne abbaye de Chanoines réguliers</typologie> à <localisation>
+            <commune precision="certain">Lunéville</commune>
+         </localisation>, fondée au <date>commencement du <sm>xi</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Sanctus-Remigius,</i> 
          <date>1033</date> 
@@ -45703,7 +46077,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Saint-Thiébaut (Ruisseau de),</sm>
       </vedette>
-      <definition>anciennement <i>de l’Étanche,</i> prend sa source à <localisation>Villers-lez-Nancy</localisation>, passe sur les <localisation>territoires de Villers et de Nancy</localisation> et se jette dans la Meurthe.</definition>
+      <definition>anciennement <i>de l’Étanche,</i> prend sa source à <localisation>
+            <commune precision="certain">Villers-lez-Nancy</commune>
+         </localisation>, passe sur les <localisation>territoires de Villers et de Nancy</localisation> et se jette dans la Meurthe.</definition>
       <forme_ancienne>— <i>Le rupt de la Tainche,</i> 
          <date>1411</date> 
          <reference>(ch. de l’ordre de Malte)</reference>.</forme_ancienne>
@@ -45763,7 +46139,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Saint-Urbain,</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>Gerbéviller</localisation>, fondé vers le <date>
+         <typologie>ancien prieuré de Bénédictins</typologie> à <localisation>
+            <commune precision="certain">Gerbéviller</commune>
+         </localisation>, fondé vers le <date>
             <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -45814,7 +46192,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Sainte-Agathe,</sm>
       </vedette>
-      <definition>nom de l’<typologie>ancien prieuré</typologie> de <localisation>Blanzey</localisation>.</definition>
+      <definition>nom de l’<typologie>ancien prieuré</typologie> de <localisation>
+            <commune precision="certain">Blanzey</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>
             <renvoi>— Voy. <sm>Blanzey.</sm>
@@ -45992,7 +46372,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Sainte-Catherine,</sm>
       </vedette>
       <definition>
-         <typologie>ancien faubourg</typologie> d’<localisation>Ormes</localisation>.</definition>
+         <typologie>ancien faubourg</typologie> d’<localisation>
+            <commune precision="certain">Ormes</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03460" pg="138">
       <vedette>
@@ -46023,7 +46405,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Sainte-Catherine,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03464" pg="138">
       <vedette>
@@ -46084,7 +46468,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Sainte-Croix,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne collégiale</typologie> à <localisation>Pont-à-Mousson</localisation>, fondée au <date>
+         <typologie>ancienne collégiale</typologie> à <localisation>
+            <commune precision="certain">Pont-à-Mousson</commune>
+         </localisation>, fondée au <date>
             <sm>xiii</sm>
             <sup>e</sup> siècle</date>.</definition>
    </article>
@@ -46295,7 +46681,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Sainte-Marie (Ruisseau de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Sainte-Marie-au-Bois</localisation>, passe sur le <localisation>territoire de Vilcey-sur-Trey</localisation> et se jette dans le Trey.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Sainte-Marie-au-Bois</commune>
+         </localisation>, passe sur le <localisation>territoire de Vilcey-sur-Trey</localisation> et se jette dans le Trey.</definition>
    </article>
    <article id="DT54-03490" pg="139">
       <vedette>
@@ -46503,7 +46891,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Tanneries (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT54-03510" pg="140">
       <vedette>
@@ -46787,7 +47177,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Terrouin (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source sous <localisation>Lucey</localisation>, passe sur le territoire de cette commune, sur ceux de la Neuville-derrière-Foug, Trondes, Lagney, Sanzey, Royaumeix, Ménil-la-Tour, Andilly, Manoncourt-en-Voivre, Avrainville, Jaillon, et se jette dans la Moselle.</definition>
+         <typologie>ruisseau</typologie>, prend sa source sous <localisation>
+            <commune precision="certain">Lucey</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de la Neuville-derrière-Foug, Trondes, Lagney, Sanzey, Royaumeix, Ménil-la-Tour, Andilly, Manoncourt-en-Voivre, Avrainville, Jaillon, et se jette dans la Moselle.</definition>
       <forme_ancienne>— <i>Terouein,</i> 
          <date>1272</date> 
          <reference>(ch. de l’ordre de Malte)</reference>.</forme_ancienne>
@@ -46876,7 +47268,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Thalmatt,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Mittelbronn</localisation>, passe sur le <localisation>territoire de Veischeim</localisation> et se jette dans le Zintzel.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Mittelbronn</commune>
+         </localisation>, passe sur le <localisation>territoire de Veischeim</localisation> et se jette dans le Zintzel.</definition>
    </article>
    <article id="DT54-03542" pg="141">
       <vedette>
@@ -47072,7 +47466,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Thiébault-Pont,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à la <localisation>Queue-de-l’Étang</localisation>, <localisation>territoire de Clémery</localisation>, passe sur le territoire de cette commune et sur celui de Port-sur-Seille et se jette dans la Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à la <localisation>
+            <commune precision="certain">Queue-de-l’Étang</commune>
+         </localisation>, <localisation>territoire de Clémery</localisation>, passe sur le territoire de cette commune et sur celui de Port-sur-Seille et se jette dans la Seille.</definition>
    </article>
    <article type="commune" id="DT54-03551" pg="141">
       <vedette>
@@ -47662,7 +48058,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Tour (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison forte</typologie> à <localisation>Herbéviller</localisation> 
+         <typologie>maison forte</typologie> à <localisation>
+            <commune precision="certain">Herbéviller</commune>
+         </localisation> 
          <renvoi>(voy. ce mot)</renvoi>.</definition>
    </article>
    <article id="DT54-03580" pg="144">
@@ -47670,7 +48068,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Tour (La),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Fossieux</localisation>.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Fossieux</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03581" pg="144">
       <vedette>
@@ -47906,7 +48306,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Trey (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Vilcey-sur-Trey</localisation>, passe sur les <localisation>territoires de Villers-sous-Prény et de Vandières</localisation> et se jette dans la Moselle.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Vilcey-sur-Trey</commune>
+         </localisation>, passe sur les <localisation>territoires de Villers-sous-Prény et de Vandières</localisation> et se jette dans la Moselle.</definition>
       <forme_ancienne>— <i>Trien,</i> 
          <date>1402</date> 
          <reference>(Tr. des ch. l. fiefs de Nancy, n° 42)</reference>.</forme_ancienne>
@@ -47989,7 +48391,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Trois-Maisons (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nancy</localisation>, construit sur l’emplacement de l’ancien bourg de Saint-Dizier, ruiné au <date>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nancy</commune>
+         </localisation>, construit sur l’emplacement de l’ancien bourg de Saint-Dizier, ruiné au <date>
             <sm>xvi</sm>
             <sup>e</sup> siècle</date>.</definition>
       <commentaire>
@@ -48199,7 +48603,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Tuilotte (Ruisseau de la),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Quevilloncourt</localisation>, passe sur le territoire de cette commune et sur celui de Vézelise et se jette dans le Brénon.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Quevilloncourt</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Vézelise et se jette dans le Brénon.</definition>
    </article>
    <article id="DT54-03634" pg="145">
       <vedette>
@@ -48329,7 +48735,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Urepont (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Ludres</localisation>, passe sur le territoire de cette commune et sur celui de Fléville et se jette dans le Frahaux.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Ludres</commune>
+         </localisation>, passe sur le territoire de cette commune et sur celui de Fléville et se jette dans le Frahaux.</definition>
    </article>
    <article type="commune" id="DT54-03641" pg="146">
       <vedette>
@@ -48358,7 +48766,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Uvry (L’),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Crépey</localisation>, passe sur le territoire de cette commune, sur ceux de Selaincourt, Dolcourt, Goviller, Vitrey, Vézelise, et se jette dans le Brénon.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Crépey</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Selaincourt, Dolcourt, Goviller, Vitrey, Vézelise, et se jette dans le Brénon.</definition>
    </article>
    <article id="DT54-03643" pg="146">
       <vedette>
@@ -48399,7 +48809,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Vacon (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Petit-Mont</localisation>, passe sur le territoire de cette commune et sur ceux de Parux, Nonhigny, Harboué, Barbas, Domêvre-sur-Vezouse, et se jette dans la Vezouse.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Petit-Mont</commune>
+         </localisation>, passe sur le territoire de cette commune et sur ceux de Parux, Nonhigny, Harboué, Barbas, Domêvre-sur-Vezouse, et se jette dans la Vezouse.</definition>
    </article>
    <article type="commune" id="DT54-03648" pg="146">
       <vedette>
@@ -48817,7 +49229,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Val-Sainte-Marie,</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> à <localisation>Ville-au-Val</localisation>, et vallon dans lequel se trouve ce village.</definition>
+         <typologie>seigneurie</typologie> à <localisation>
+            <commune precision="certain">Ville-au-Val</commune>
+         </localisation>, et vallon dans lequel se trouve ce village.</definition>
    </article>
    <article type="commune" id="DT54-03678" pg="147">
       <vedette>
@@ -49873,7 +50287,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Verbach (Le),</sm> et mieux <sm>le Werbach,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Cutting</localisation>, passe sur le territoire de cette commune, sur ceux de Domnom, Bidestroff, Zommange, Vergaville, Lindre-Haute et Dieuze, et se jette dans la Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Cutting</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Domnom, Bidestroff, Zommange, Vergaville, Lindre-Haute et Dieuze, et se jette dans la Seille.</definition>
    </article>
    <article id="DT54-03724" pg="150">
       <vedette>
@@ -49936,7 +50352,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Verdurette (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source à <localisation>Fenneviller</localisation>, passe sur les <localisation>territoires de Pexonne, Vacqueville, Merviller, Réhéray, Vaxainville, Pettonville, Réclonville, Ogéviller, Herbéviller</localisation>, et va se jeter dans la Vezouse.</definition>
+         <typologie>rivière</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Fenneviller</commune>
+         </localisation>, passe sur les <localisation>territoires de Pexonne, Vacqueville, Merviller, Réhéray, Vaxainville, Pettonville, Réclonville, Ogéviller, Herbéviller</localisation>, et va se jeter dans la Vezouse.</definition>
    </article>
    <article type="commune" id="DT54-03727" pg="151">
       <vedette>
@@ -50027,7 +50445,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Verrerie (La),</sm>
       </vedette>
       <definition>
-         <typologie>portion aujourd’hui considérable du bourg</typologie> de <localisation>Cirey</localisation> ; fonderie et forges au <date>
+         <typologie>portion aujourd’hui considérable du bourg</typologie> de <localisation>
+            <commune precision="certain">Cirey</commune>
+         </localisation> ; fonderie et forges au <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date>, maintenant grande manufacture de glaces qui a remplacé les verreries de Saint-Quirin.</definition>
    </article>
@@ -50184,7 +50604,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Vezouse (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, formée de plusieurs ruisseaux qui se réunissent à <localisation>Cirey</localisation>, coule de l’est à l’ouest, passe sur les <localisation>territoires de Blâmont, Domêvre, Herbéviller, Fréménil, Marainviller, Croismare, Chanteheux, Lunéville</localisation>, et se jette dans la Meurthe près de cette ville.</definition>
+         <typologie>rivière</typologie>, formée de plusieurs ruisseaux qui se réunissent à <localisation>
+            <commune precision="certain">Cirey</commune>
+         </localisation>, coule de l’est à l’ouest, passe sur les <localisation>territoires de Blâmont, Domêvre, Herbéviller, Fréménil, Marainviller, Croismare, Chanteheux, Lunéville</localisation>, et se jette dans la Meurthe près de cette ville.</definition>
       <forme_ancienne>— <i>Fluvius Vizuzia,</i> 
          <date>816</date> 
          <reference>(Hist. de l’Église de Strasbourg, pr. p. 160)</reference>.</forme_ancienne>
@@ -50505,7 +50927,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Vieux-Château (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ancienne maison</typologie> à <localisation>Germonville</localisation>.</definition>
+         <typologie>ancienne maison</typologie> à <localisation>
+            <commune precision="certain">Germonville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03766" pg="154">
       <vedette>
@@ -50854,7 +51278,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Villé,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Ménil-lez-Lunéville</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Ménil-lez-Lunéville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT54-03791" pg="155">
       <vedette>
@@ -50958,7 +51384,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Viller,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Lunéville</localisation> ; village avec un hôpital fondé en <date>1406</date>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Lunéville</commune>
+         </localisation> ; village avec un hôpital fondé en <date>1406</date>.</definition>
       <forme_ancienne>— <i>Le mostier de Villers,</i> 
          <date>1273</date> 
          <reference>(Tr. des ch. l. Moyenvic I, n° 1)</reference>.</forme_ancienne>
@@ -51695,7 +52123,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
       <vedette>
          <sm>Vivelin (Ruisseau de),</sm>
       </vedette>
-      <definition>a sa source à <localisation>Domnom</localisation>, passe sur le territoire de cette commune et se jette dans le ruisseau de Bassing.</definition>
+      <definition>a sa source à <localisation>
+            <commune precision="certain">Domnom</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans le ruisseau de Bassing.</definition>
    </article>
    <article type="commune" id="DT54-03837" pg="157">
       <vedette>
@@ -51901,7 +52331,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Voissieux (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Vannecourt</localisation> et se jette dans la Petite-Seille.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Vannecourt</commune>
+         </localisation> et se jette dans la Petite-Seille.</definition>
    </article>
    <article id="DT54-03853" pg="157">
       <vedette>
@@ -52258,7 +52690,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Wègre (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, a sa source à <localisation>Fleisheim</localisation>, passe sur le territoire de cette commune et se jette dans le Broudbach.</definition>
+         <typologie>ruisseau</typologie>, a sa source à <localisation>
+            <commune precision="certain">Fleisheim</commune>
+         </localisation>, passe sur le territoire de cette commune et se jette dans le Broudbach.</definition>
    </article>
    <article id="DT54-03880" pg="159">
       <vedette>
@@ -52890,7 +53324,9 @@ les <localisation>territoires de Gripport, Bainville-aux-Miroirs, Virecourt, Man
          <sm>Zintzel (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Vintersbourg</localisation>, passe sur le territoire de cette commune, sur ceux de Veischeim, Berlingen, Hangviller, et se jette dans la Zorn.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Vintersbourg</commune>
+         </localisation>, passe sur le territoire de cette commune, sur ceux de Veischeim, Berlingen, Hangviller, et se jette dans la Zorn.</definition>
    </article>
    <article type="commune" id="DT54-03923" pg="160">
       <vedette>

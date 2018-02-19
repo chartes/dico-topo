@@ -683,7 +683,9 @@
       <vedette>
          <sm>Alaric.</sm>
       </vedette>
-      <definition>— <typologie>canal d'irrigation</typologie> dérivé de <localisation>l'Adour</localisation> et attribué par la tradition locale au roi wisigoth Alaric II :</definition>
+      <definition>— <typologie>canal d'irrigation</typologie> dérivé de <localisation>
+            <commune precision="certain">l'Adour</commune>
+         </localisation> et attribué par la tradition locale au roi wisigoth Alaric II :</definition>
       <forme_ancienne>
          <i>fluvius Lalaric</i> 
          <date>1531</date> 
@@ -2998,7 +3000,9 @@
       <vedette>
          <sm>Arribarat.</sm>
       </vedette>
-      <definition>— <typologie>écart</typologie> +à <localisation>Lesponne</localisation>, <localisation>commune de Bagnères S</localisation> :</definition>
+      <definition>— <typologie>écart</typologie> +à <localisation>
+            <commune precision="certain">Lesponne</commune>
+         </localisation>, <localisation>commune de Bagnères S</localisation> :</definition>
       <forme_ancienne>
          <i>Ostau de Peyrer ou meterie d'Arribarat</i> 
          <date>1620</date> 
@@ -5368,7 +5372,9 @@
       <vedette>
          <sm>Aygue-Vive</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui traverse <localisation>Angos</localisation>, le <localisation>bois de Rebisclou, Oléac</localisation> et se jette dans l'Alaric.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui traverse <localisation>
+            <commune precision="certain">Angos</commune>
+         </localisation>, le <localisation>bois de Rebisclou, Oléac</localisation> et se jette dans l'Alaric.</definition>
    </article>
    <article id="DT65-00373" pg="15">
       <vedette>
@@ -5891,7 +5897,9 @@
       <vedette>
          <sm>Bagnères.</sm>
       </vedette>
-      <definition>— <typologie>chef-lieu d'arrondissement</typologie>, <localisation>Bigorre</localisation> :</definition>
+      <definition>— <typologie>chef-lieu d'arrondissement</typologie>, <localisation>
+            <commune precision="certain">Bigorre</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>Vicus Aquensis</i> 
          <reference>(inscriptions)</reference> ;</forme_ancienne>
@@ -6570,7 +6578,9 @@
       <vedette>
          <sm>Baradas (le)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> du ruisseau de Caparrieu, à <localisation>Bernac-dessus</localisation> (+<i>Baragui</i>) ; il se termine dans l'Aigue-Tour dans la <localisation>commune d'Allier</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> du ruisseau de Caparrieu, à <localisation>
+            <commune precision="certain">Bernac-dessus</commune>
+         </localisation> (+<i>Baragui</i>) ; il se termine dans l'Aigue-Tour dans la <localisation>commune d'Allier</localisation>.</definition>
    </article>
    <article id="DT65-00469" pg="19">
       <vedette>
@@ -6590,7 +6600,9 @@
       <vedette>
          <sm>Baradens, Baradans. (le)</sm>
       </vedette>
-      <definition>— <typologie>branche du ruisseau</typologie> d'Avéran N, se jette dans l'Echez à <localisation>Bénac</localisation>.</definition>
+      <definition>— <typologie>branche du ruisseau</typologie> d'Avéran N, se jette dans l'Echez à <localisation>
+            <commune precision="certain">Bénac</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-00472" pg="19">
       <vedette>
@@ -7472,7 +7484,9 @@
       <vedette>
          <sm>Barrère (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui commence au canal de la Papeterie, de <localisation>Soues</localisation>, et se jette dans l'Adour.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui commence au canal de la Papeterie, de <localisation>
+            <commune precision="certain">Soues</commune>
+         </localisation>, et se jette dans l'Adour.</definition>
    </article>
    <article id="DT65-00551" pg="21">
       <vedette>
@@ -8147,7 +8161,9 @@
       <vedette>
          <sm>Bastillac</sm>
       </vedette>
-      <definition>— <typologie>lieu</typologie>, +supposé à <localisation>Juillan</localisation> :</definition>
+      <definition>— <typologie>lieu</typologie>, +supposé à <localisation>
+            <commune precision="certain">Juillan</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>territorium de Bastillaco in Jullaâ</i> 
          <date>1535</date> 
@@ -9209,7 +9225,9 @@
       <vedette>
          <sm>Beausen</sm>
       </vedette>
-      <definition>— <typologie>village</typologie> réuni à <localisation>Pintac</localisation> 
+      <definition>— <typologie>village</typologie> réuni à <localisation>
+            <commune precision="certain">Pintac</commune>
+         </localisation> 
          <date>vers 1250</date> :</definition>
       <forme_ancienne>
          <i>Beuscee, Bencetium</i> 
@@ -11173,7 +11191,9 @@
    <article id="DT65-00855" pg="30">
       <vedette>
          <sm>Bigorre.</sm> (Pays de-)</vedette>
-      <definition>— Le Bigorre était borné : au N. par l'<localisation>Armagnac</localisation>, à l'E. par l'<localisation>Astarac</localisation>, le <localisation>Nébouzan</localisation>, au S. par la <localisation>vallée d'Aure</localisation> et les <localisation>Pyrénées</localisation>, à l'O. par le <localisation>Béarn</localisation>. Il avait pour principaux districts : <localisation>la Rivière-Basse, le Bazillaguez, la Rivière-Adour, le Montanerez, le Rustan, le pays des Forêts et le Lavedan</localisation> :</definition>
+      <definition>— Le Bigorre était borné : au N. par l'<localisation>
+            <commune precision="certain">Armagnac</commune>
+         </localisation>, à l'E. par l'<localisation>Astarac</localisation>, le <localisation>Nébouzan</localisation>, au S. par la <localisation>vallée d'Aure</localisation> et les <localisation>Pyrénées</localisation>, à l'O. par le <localisation>Béarn</localisation>. Il avait pour principaux districts : <localisation>la Rivière-Basse, le Bazillaguez, la Rivière-Adour, le Montanerez, le Rustan, le pays des Forêts et le Lavedan</localisation> :</definition>
       <forme_ancienne>
          <i>patria Begorritana</i> 
          <reference>(Ausone, ep. XIV)</reference> ;</forme_ancienne>
@@ -11503,7 +11523,9 @@
       <vedette>
          <sm>Bizech (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisselet</typologie> qui se verse dans la <localisation>Bayse-darré</localisation>.</definition>
+      <definition>— <typologie>ruisselet</typologie> qui se verse dans la <localisation>
+            <commune precision="certain">Bayse-darré</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-00885" pg="31">
       <vedette>
@@ -11798,7 +11820,9 @@
       <vedette>
          <sm>Bois (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Barbazan-dessus</localisation>, affluent du Chëes.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Barbazan-dessus</commune>
+         </localisation>, affluent du Chëes.</definition>
    </article>
    <article id="DT65-00914" pg="32">
       <vedette>
@@ -13732,7 +13756,9 @@
       <vedette>
          <sm>Brada, Barada.</sm>
       </vedette>
-      <definition>— <typologie>val barré</typologie> débouchant à <localisation>Pragnères</localisation>, <localisation>commune de Gèdre N</localisation> (+figuré à tort en plateau par Cassini).</definition>
+      <definition>— <typologie>val barré</typologie> débouchant à <localisation>
+            <commune precision="certain">Pragnères</commune>
+         </localisation>, <localisation>commune de Gèdre N</localisation> (+figuré à tort en plateau par Cassini).</definition>
    </article>
    <article id="DT65-01095" pg="36">
       <vedette>
@@ -13918,7 +13944,9 @@
       <vedette>
          <sm>Broca (le)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>Salles</localisation>, passe par <localisation>Barbazan-debat, Soues</localisation> et va dans l'Adour.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>
+            <commune precision="certain">Salles</commune>
+         </localisation>, passe par <localisation>Barbazan-debat, Soues</localisation> et va dans l'Adour.</definition>
    </article>
    <article id="DT65-01112" pg="37">
       <vedette>
@@ -15448,13 +15476,17 @@
       <vedette>
          <sm>Camp Bataillé.</sm>
       </vedette>
-      <definition>— <typologie>hameau</typologie> de <localisation>Payolle</localisation>, <localisation>commune de (Campan) +Ancizan NO</localisation>, terrain auquel s'attache une tradition analogue (+bataille de Corvinus en <date>-28</date>, ou conflits avec Aure).</definition>
+      <definition>— <typologie>hameau</typologie> de <localisation>
+            <commune precision="certain">Payolle</commune>
+         </localisation>, <localisation>commune de (Campan) +Ancizan NO</localisation>, terrain auquel s'attache une tradition analogue (+bataille de Corvinus en <date>-28</date>, ou conflits avec Aure).</definition>
    </article>
    <article id="DT65-01249" pg="41">
       <vedette>
          <sm>Camp de Carolis (le)</sm>
       </vedette>
-      <definition>— <typologie>écart</typologie> d'<localisation>Arcizac-Adour</localisation>, mentionné dans le Reg. des Notaires en date de <date>1593</date> (arch. H.P.).</definition>
+      <definition>— <typologie>écart</typologie> d'<localisation>
+            <commune precision="certain">Arcizac-Adour</commune>
+         </localisation>, mentionné dans le Reg. des Notaires en date de <date>1593</date> (arch. H.P.).</definition>
    </article>
    <article id="DT65-01250" pg="41">
       <vedette>
@@ -15604,31 +15636,41 @@
       <vedette>
          <sm>Canal d'Andrest</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Echez à <localisation>Oursbelille</localisation>, se termine à <localisation>Vic (+du Moulin IGN)</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Echez à <localisation>
+            <commune precision="certain">Oursbelille</commune>
+         </localisation>, se termine à <localisation>Vic (+du Moulin IGN)</localisation>.</definition>
    </article>
    <article id="DT65-01266" pg="41">
       <vedette>
          <sm>Canal-d'Arrosement</sm>
       </vedette>
-      <definition>— Commence au <typologie>canal</typologie> du Moulin de Hiis, et aboutit au canal du Moulin de Rebaillé à <localisation>Arcizac-Adour</localisation>.</definition>
+      <definition>— Commence au <typologie>canal</typologie> du Moulin de Hiis, et aboutit au canal du Moulin de Rebaillé à <localisation>
+            <commune precision="certain">Arcizac-Adour</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01267" pg="41">
       <vedette>
          <sm>Canal-de-Carrère</sm>
       </vedette>
-      <definition>— son origine est au <typologie>canal</typologie> de la Papeterie à <localisation>Tarbes</localisation>, son embouchure à <localisation>Soues</localisation> dans le canal de l'Agau.</definition>
+      <definition>— son origine est au <typologie>canal</typologie> de la Papeterie à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation>, son embouchure à <localisation>Soues</localisation> dans le canal de l'Agau.</definition>
    </article>
    <article id="DT65-01268" pg="41">
       <vedette>
          <sm>Canal-de-Gayan</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Echez à <localisation>Oursbelille</localisation>, embouchure dans cette rivière à <localisation>Siarrouy</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Echez à <localisation>
+            <commune precision="certain">Oursbelille</commune>
+         </localisation>, embouchure dans cette rivière à <localisation>Siarrouy</localisation>.</definition>
    </article>
    <article id="DT65-01269" pg="41">
       <vedette>
          <sm>Canal-de-Guère</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>Séméac</localisation>, arrose <localisation>Aureillan</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>
+            <commune precision="certain">Séméac</commune>
+         </localisation>, arrose <localisation>Aureillan</localisation>.</definition>
    </article>
    <article id="DT65-01270" pg="41">
       <vedette>
@@ -15640,7 +15682,9 @@
       <vedette>
          <sm>Canal-de-Lagau-devant</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>Soues</localisation>, arrose la <localisation>commune de Tarbes</localisation> :</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>
+            <commune precision="certain">Soues</commune>
+         </localisation>, arrose la <localisation>commune de Tarbes</localisation> :</definition>
       <forme_ancienne>
          <i>le Canal de l'Agau qui découle à Séméac</i> 
          <date>1623</date> 
@@ -15650,7 +15694,9 @@
       <vedette>
          <sm>Canal-de-la-Papeterie</sm> ou <sm>Occidental</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour ; ce canal passe à <localisation>Tarbes</localisation> et se verse dans l'Echez à <localisation>Bordères</localisation> :</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour ; ce canal passe à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation> et se verse dans l'Echez à <localisation>Bordères</localisation> :</definition>
       <forme_ancienne>
          <i>le canal de l'Osté</i> 
          <date>1782</date> 
@@ -15666,7 +15712,9 @@
       <vedette>
          <sm>Canal-Dérivé-de-l'Adour</sm>
       </vedette>
-      <definition>— commence à <localisation>Tarbes</localisation>, arrose <localisation>Andrest, Pujo, Vic</localisation>, embouchure dans l'Echez.</definition>
+      <definition>— commence à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation>, arrose <localisation>Andrest, Pujo, Vic</localisation>, embouchure dans l'Echez.</definition>
    </article>
    <article id="DT65-01275" pg="41">
       <vedette>
@@ -15699,7 +15747,9 @@
       <vedette>
          <sm>Canal-du-Moulin</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>Liac</localisation>, arrose les <localisation>villages de Sarniguet, Ugnouas, Gensac</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>
+            <commune precision="certain">Liac</commune>
+         </localisation>, arrose les <localisation>villages de Sarniguet, Ugnouas, Gensac</localisation>.</definition>
    </article>
    <article id="DT65-01280" pg="42">
       <vedette>
@@ -15711,13 +15761,17 @@
       <vedette>
          <sm>Canal-du-Moulin</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>Bordères</localisation>, embouchure dans l'Echez.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour à <localisation>
+            <commune precision="certain">Bordères</commune>
+         </localisation>, embouchure dans l'Echez.</definition>
    </article>
    <article id="DT65-01282" pg="42">
       <vedette>
          <sm>Canal-du-Moulin-Bautou</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Echez sur <localisation>Tarbes</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Echez sur <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01283" pg="42">
       <vedette>
@@ -15787,7 +15841,9 @@
       <vedette>
          <sm>Canal-Mitoyen</sm>
       </vedette>
-      <definition>— commence au <typologie>canal</typologie> à <localisation>Francés</localisation>, <localisation>commune de Soues</localisation>, et se jette dans le canal de Lagau.</definition>
+      <definition>— commence au <typologie>canal</typologie> à <localisation>
+            <commune precision="certain">Francés</commune>
+         </localisation>, <localisation>commune de Soues</localisation>, et se jette dans le canal de Lagau.</definition>
    </article>
    <article id="DT65-01294" pg="42">
       <vedette>
@@ -16146,7 +16202,9 @@
       <vedette>
          <sm>Caparrieu (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> d'irrigation prenant origine dans l'Alaric, se perd dans l'Aigue-Tour à <localisation>Allier</localisation> (+ruisseau de Bordes O, affluent de l'Arros).</definition>
+      <definition>— <typologie>ruisseau</typologie> d'irrigation prenant origine dans l'Alaric, se perd dans l'Aigue-Tour à <localisation>
+            <commune precision="certain">Allier</commune>
+         </localisation> (+ruisseau de Bordes O, affluent de l'Arros).</definition>
    </article>
    <article id="DT65-01334" pg="43">
       <vedette>
@@ -16370,7 +16428,9 @@
    <article id="DT65-01356" pg="43">
       <vedette>
          <sm>Cap-de-Pla</sm> (bois du-)</vedette>
-      <definition>— <typologie>hameau</typologie> de <localisation>Barèges</localisation>.</definition>
+      <definition>— <typologie>hameau</typologie> de <localisation>
+            <commune precision="certain">Barèges</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01357" pg="43">
       <vedette>
@@ -16568,7 +16628,9 @@
          <pg>44</pg>
          <sm>Capucins.</sm>
       </vedette>
-      <definition>— Cet <typologie>ordre religieux</typologie> comptait <date>avant 1789</date> dans le département trois couvents : à <localisation>Médous</localisation> (fondé en <date>1520</date>), à <localisation>Tarbes</localisation> (fondé en <date>1655</date>), à <localisation>Bagnères</localisation> (fondé en <date>1685</date>).</definition>
+      <definition>— Cet <typologie>ordre religieux</typologie> comptait <date>avant 1789</date> dans le département trois couvents : à <localisation>
+            <commune precision="certain">Médous</commune>
+         </localisation> (fondé en <date>1520</date>), à <localisation>Tarbes</localisation> (fondé en <date>1655</date>), à <localisation>Bagnères</localisation> (fondé en <date>1685</date>).</definition>
    </article>
    <article id="DT65-01380" pg="44">
       <vedette>
@@ -17476,7 +17538,9 @@
       <vedette>
          <sm>Castagnère. (la)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Castéra-Lou</localisation>, affluent <pg>46</pg>de l'Estéoux.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Castéra-Lou</commune>
+         </localisation>, affluent <pg>46</pg>de l'Estéoux.</definition>
    </article>
    <article id="DT65-01470" pg="46">
       <vedette>
@@ -19411,7 +19475,9 @@
       <vedette>
          <sm>Cerbellona.</sm>
       </vedette>
-      <definition>— <typologie>pic</typologie> (+3247 m) situé auprès du <localisation>Vignemale</localisation> (+pât. éponyme en Esp.).</definition>
+      <definition>— <typologie>pic</typologie> (+3247 m) situé auprès du <localisation>
+            <commune precision="certain">Vignemale</commune>
+         </localisation> (+pât. éponyme en Esp.).</definition>
    </article>
    <article id="DT65-01631" pg="51">
       <vedette>
@@ -19838,7 +19904,9 @@
       <vedette>
          <sm>Chemin-Comtal (le)</sm>
       </vedette>
-      <definition>— <typologie>ancienne route</typologie> qui débouchait à <localisation>Tarbes</localisation> au <localisation>pont de Teulé</localisation> :</definition>
+      <definition>— <typologie>ancienne route</typologie> qui débouchait à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation> au <localisation>pont de Teulé</localisation> :</definition>
       <forme_ancienne>
          <i>lo Cami Contau</i> 
          <date>1484</date> 
@@ -19955,7 +20023,9 @@
       <vedette>
          <sm>Chemin-du-Moulin (le)</sm>
       </vedette>
-      <definition>— <typologie>bois</typologie> à <localisation>Trouley-Labarthe</localisation>.</definition>
+      <definition>— <typologie>bois</typologie> à <localisation>
+            <commune precision="certain">Trouley-Labarthe</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01690" pg="52">
       <vedette>
@@ -20479,7 +20549,9 @@
       <vedette>
          <sm>Clar-Blancien (le)</sm>
       </vedette>
-      <definition>— <typologie>torrent</typologie> qui se déverse dans le <localisation>Clarabide</localisation> (°selon Cas. ; <renvoi>cf. Cailhaouas</renvoi>).</definition>
+      <definition>— <typologie>torrent</typologie> qui se déverse dans le <localisation>
+            <commune precision="certain">Clarabide</commune>
+         </localisation> (°selon Cas. ; <renvoi>cf. Cailhaouas</renvoi>).</definition>
    </article>
    <article id="DT65-01732" pg="53">
       <vedette>
@@ -20770,7 +20842,9 @@
       <vedette>
          <sm>Clote (la)</sm>
       </vedette>
-      <definition>— <typologie>fief</typologie> du couvent des Clarisses de <localisation>Castelnau-Magnoac</localisation> :</definition>
+      <definition>— <typologie>fief</typologie> du couvent des Clarisses de <localisation>
+            <commune precision="certain">Castelnau-Magnoac</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>le fief de la Clote</i> 
          <date>1682</date> 
@@ -21503,7 +21577,9 @@
       <vedette>
          <sm>Cort</sm>
       </vedette>
-      <definition>— <typologie>fief</typologie> de l'abbaye de Saint-Orens de Lavedan, à <localisation>Souin</localisation> :</definition>
+      <definition>— <typologie>fief</typologie> de l'abbaye de Saint-Orens de Lavedan, à <localisation>
+            <commune precision="certain">Souin</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>in villâ Soisso in loco ubi dicitur ad Curtinâ</i> 
          <date>850</date> 
@@ -22322,7 +22398,9 @@
       <vedette>
          <sm>Cournère (la)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> dont l'origine est au canal du Moulin de Fitte : il se perd, à <localisation>Soues</localisation>, dans le canal de la Papeterie.</definition>
+      <definition>— <typologie>ruisseau</typologie> dont l'origine est au canal du Moulin de Fitte : il se perd, à <localisation>
+            <commune precision="certain">Soues</commune>
+         </localisation>, dans le canal de la Papeterie.</definition>
    </article>
    <article id="DT65-01920" pg="57">
       <vedette>
@@ -22406,7 +22484,9 @@
       <vedette>
          <sm>Courtabel</sm>
       </vedette>
-      <definition>— <typologie>ferme</typologie> de <localisation>Lanespède</localisation>.</definition>
+      <definition>— <typologie>ferme</typologie> de <localisation>
+            <commune precision="certain">Lanespède</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01931" pg="58">
       <vedette>
@@ -22873,7 +22953,9 @@
       <vedette>
          <sm>Croix-de-la-Caze (la)</sm>
       </vedette>
-      <definition>— <typologie>vieux chemin</typologie> de longtemps abandonné en <date>1772</date> (cadastre) à <localisation>Sadournin</localisation>.</definition>
+      <definition>— <typologie>vieux chemin</typologie> de longtemps abandonné en <date>1772</date> (cadastre) à <localisation>
+            <commune precision="certain">Sadournin</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-01983" pg="59">
       <vedette>
@@ -23569,7 +23651,9 @@
    <article id="DT65-02060" pg="60">
       <vedette>
          <sm>Davantaïgue.</sm> (Vallée de-)</vedette>
-      <definition>— l'une des sept <typologie>vallées</typologie> du <localisation>Lavedan</localisation>, prend son nom de sa position à l'orient du Gave. Elle a pour confronts les <localisation>vallées de Castelloubon, de Barège, de Saint-Savin et de l'Estrème-de-Salles</localisation> :</definition>
+      <definition>— l'une des sept <typologie>vallées</typologie> du <localisation>
+            <commune precision="certain">Lavedan</commune>
+         </localisation>, prend son nom de sa position à l'orient du Gave. Elle a pour confronts les <localisation>vallées de Castelloubon, de Barège, de Saint-Savin et de l'Estrème-de-Salles</localisation> :</definition>
       <forme_ancienne>
          <i>Davant Aygue</i> 
          <date>1347</date> 
@@ -24318,7 +24402,9 @@
       <vedette>
          <sm>Douche (la)</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Saint-Sauveur</localisation>, <localisation>commune de Luz</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Saint-Sauveur</commune>
+         </localisation>, <localisation>commune de Luz</localisation>.</definition>
    </article>
    <article id="DT65-02136" pg="62">
       <vedette>
@@ -24592,7 +24678,9 @@
       <vedette>
          <sm>Duclos</sm>
       </vedette>
-      <definition>— <typologie>fontaine</typologie>, <localisation>Bernadets-dessus</localisation>, <renvoi>voir Allier.</renvoi>
+      <definition>— <typologie>fontaine</typologie>, <localisation>
+            <commune precision="certain">Bernadets-dessus</commune>
+         </localisation>, <renvoi>voir Allier.</renvoi>
       </definition>
    </article>
    <article id="DT65-02169" pg="62">
@@ -25094,7 +25182,9 @@
       <vedette>
          <sm>Elysée-Cottin (l')</sm>
       </vedette>
-      <definition>— <typologie>écart</typologie>, de <localisation>Bagnères</localisation> : <typologie>grotte</typologie> qui est un des gîtes fossilifères du département.</definition>
+      <definition>— <typologie>écart</typologie>, de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation> : <typologie>grotte</typologie> qui est un des gîtes fossilifères du département.</definition>
    </article>
    <article id="DT65-02219" pg="63">
       <vedette>
@@ -25345,7 +25435,9 @@
       <vedette>
          <sm>Escala-de-Barège.</sm>
       </vedette>
-      <definition>— entrée des <typologie>gorges</typologie> de <localisation>Luz</localisation> (+passage redouté du vieux chemin) :</definition>
+      <definition>— entrée des <typologie>gorges</typologie> de <localisation>
+            <commune precision="certain">Luz</commune>
+         </localisation> (+passage redouté du vieux chemin) :</definition>
       <forme_ancienne>
          <i>la Escala de Barredge</i> 
          <date>1272</date> 
@@ -26888,7 +26980,9 @@
       <vedette>
          <sm>Faut.</sm>
       </vedette>
-      <definition>— désignation par Cassini du <typologie>château</typologie> de <localisation>Tramesaygues</localisation>.</definition>
+      <definition>— désignation par Cassini du <typologie>château</typologie> de <localisation>
+            <commune precision="certain">Tramesaygues</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-02371" pg="68">
       <vedette>
@@ -27260,7 +27354,9 @@
       <vedette>
          <sm>Fond</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> construit en <date>1735</date> à <localisation>Barèges</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> construit en <date>1735</date> à <localisation>
+            <commune precision="certain">Barèges</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-02406" pg="69">
       <vedette>
@@ -27274,7 +27370,9 @@
       <vedette>
          <sm>Fonfry, Hount-Frido.</sm>
       </vedette>
-      <definition>— <typologie>torrent</typologie> qui vient du col de son nom, ouvrant sur l'<localisation>Aragon</localisation>, et se jette dans le Marcadau. +En fait, Fonfrie, déportée très à l'ouest par Cassini, sourd au <localisation>port du Marcadau, Cauterets S</localisation>.</definition>
+      <definition>— <typologie>torrent</typologie> qui vient du col de son nom, ouvrant sur l'<localisation>
+            <commune precision="certain">Aragon</commune>
+         </localisation>, et se jette dans le Marcadau. +En fait, Fonfrie, déportée très à l'ouest par Cassini, sourd au <localisation>port du Marcadau, Cauterets S</localisation>.</definition>
    </article>
    <article id="DT65-02408" pg="69">
       <vedette>
@@ -27384,7 +27482,9 @@
       <vedette>
          <sm>Fontette (la)</sm>
       </vedette>
-      <definition>— <typologie>torrent</typologie> qui se perd dans l'<localisation>Ourse</localisation>.</definition>
+      <definition>— <typologie>torrent</typologie> qui se perd dans l'<localisation>
+            <commune precision="certain">Ourse</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT65-02422" pg="69">
       <vedette>
@@ -28149,7 +28249,9 @@
    <article id="DT65-02486" pg="71">
       <vedette>
          <sm>Frontignés.</sm> (pays de-)</vedette>
-      <definition>— petite <typologie>contrée</typologie> du <localisation>Comminges</localisation> dont quelques portions sont entrées dans le <localisation>canton de Mauléon</localisation>. Le Frontignés donnait son nom à l'un des archidiaconés du diocèse de Comminges :</definition>
+      <definition>— petite <typologie>contrée</typologie> du <localisation>
+            <commune precision="certain">Comminges</commune>
+         </localisation> dont quelques portions sont entrées dans le <localisation>canton de Mauléon</localisation>. Le Frontignés donnait son nom à l'un des archidiaconés du diocèse de Comminges :</definition>
       <forme_ancienne>
          <i>archidiaconatus Frontinhesii in ecclesiâ Convenarum</i> 
          <date>1340</date> 
@@ -28867,7 +28969,9 @@
       <vedette>
          <sm>Gaou-devant (la)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour dont l'origine est au canal de Laloubère ; arrose <localisation>Tarbes</localisation> :</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour dont l'origine est au canal de Laloubère ; arrose <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>l'Agau</i> 
          <date>1658</date> 
@@ -29255,7 +29359,9 @@
       <vedette>
          <sm>Gaspalou (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Lamarque-Pontacq</localisation>, affluent du ruisseau de Luc.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Lamarque-Pontacq</commune>
+         </localisation>, affluent du ruisseau de Luc.</definition>
    </article>
    <article id="DT65-02584" pg="74">
       <vedette>
@@ -29859,7 +29965,9 @@
       <vedette>
          <sm>Gelle (la)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui passe à <localisation>Luby</localisation>, à <localisation>Lubret</localisation> et se perd dans le Boués.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui passe à <localisation>
+            <commune precision="certain">Luby</commune>
+         </localisation>, à <localisation>Lubret</localisation> et se perd dans le Boués.</definition>
    </article>
    <article type="commune" id="DT65-02633" pg="76">
       <vedette>
@@ -30077,7 +30185,9 @@
       <vedette>
          <sm>Gensy</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> construit en <date>1775</date> à <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> construit en <date>1775</date> à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-02643" pg="77">
       <vedette>
@@ -30769,7 +30879,9 @@
       <vedette>
          <sm>Gleysiote (la)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>Montgaillard</localisation> : tire son nom d'une église ruinée.</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Alaric à <localisation>
+            <commune precision="certain">Montgaillard</commune>
+         </localisation> : tire son nom d'une église ruinée.</definition>
    </article>
    <article id="DT65-02694" pg="78">
       <vedette>
@@ -31108,7 +31220,9 @@
       <vedette>
          <sm>Goute. (+Goute-dou-Haure)</sm>
       </vedette>
-      <definition>— prend sa source au lieu dit les <localisation>Courrèges</localisation>, arrose les <localisation>communes de Fréchède, d'Estampures</localisation> ; se jette dans le Boués.</definition>
+      <definition>— prend sa source au lieu dit les <localisation>
+            <commune precision="certain">Courrèges</commune>
+         </localisation>, arrose les <localisation>communes de Fréchède, d'Estampures</localisation> ; se jette dans le Boués.</definition>
    </article>
    <article id="DT65-02719" pg="79">
       <vedette>
@@ -31857,7 +31971,9 @@
       <vedette>
          <sm>Guerre (la)</sm>
       </vedette>
-      <definition>— <typologie>ferme</typologie>, <localisation>Libaros</localisation>.</definition>
+      <definition>— <typologie>ferme</typologie>, <localisation>
+            <commune precision="certain">Libaros</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-02797" pg="81">
       <vedette>
@@ -36511,7 +36627,9 @@
       <vedette>
          <sm>Laguizan (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie>, prend sa source à <localisation>Lahitte-Toupière</localisation>, passe à <localisation>Sombrun</localisation> et se jette dans le Louet.</definition>
+      <definition>— <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Lahitte-Toupière</commune>
+         </localisation>, passe à <localisation>Sombrun</localisation> et se jette dans le Louet.</definition>
    </article>
    <article id="DT65-03230" pg="92">
       <vedette>
@@ -37030,7 +37148,9 @@
       <vedette>
          <sm>Lamou-canal</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> de l'Adour qui prend son origine à <localisation>Bagnères</localisation> et finit à <localisation>Montgaillard</localisation> :</definition>
+      <definition>— <typologie>dérivation</typologie> de l'Adour qui prend son origine à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation> et finit à <localisation>Montgaillard</localisation> :</definition>
       <forme_ancienne>
          <i>duo molendina in fluvio dicto Lano</i> 
          <date>1531</date> 
@@ -40122,7 +40242,9 @@
       <vedette>
          <sm>Lescourres</sm>
       </vedette>
-      <definition>— <typologie>canal d'arrosage</typologie> qui prend son origine au canal (+Agou) d'Andrest et se termine dans l'Echez à <localisation>Gayan</localisation>.</definition>
+      <definition>— <typologie>canal d'arrosage</typologie> qui prend son origine au canal (+Agou) d'Andrest et se termine dans l'Echez à <localisation>
+            <commune precision="certain">Gayan</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-03565" pg="100">
       <vedette>
@@ -42766,7 +42888,9 @@
    <article id="DT65-03766" pg="107">
       <vedette>
          <sm>Magnoac</sm> (Pays de-)</vedette>
-      <definition>— démembrement de l'<localisation>Astarac</localisation> au <date>IX<sup>e</sup> siècle</date> :</definition>
+      <definition>— démembrement de l'<localisation>
+            <commune precision="certain">Astarac</commune>
+         </localisation> au <date>IX<sup>e</sup> siècle</date> :</definition>
       <forme_ancienne>
          <i>pagus Maiennacensis</i> 
          <date>X<sup>e</sup> siècle</date> 
@@ -46000,7 +46124,9 @@
       <vedette>
          <sm>Moncaup</sm>
       </vedette>
-      <definition>— <typologie>écart</typologie> de <localisation>Lourdes</localisation> :</definition>
+      <definition>— <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Lourdes</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>le terroir de Monte Calbo</i> 
          <date>1392</date> 
@@ -47374,7 +47500,9 @@
       <vedette>
          <sm>Moulière-orientale (la)</sm>
       </vedette>
-      <definition>— <typologie>canal d'irrigation</typologie>, prend son origine dans l'Alaric à <localisation>Bernac-dessus</localisation>, affluent du Caparrieu à Bernac-debat.</definition>
+      <definition>— <typologie>canal d'irrigation</typologie>, prend son origine dans l'Alaric à <localisation>
+            <commune precision="certain">Bernac-dessus</commune>
+         </localisation>, affluent du Caparrieu à Bernac-debat.</definition>
    </article>
    <article id="DT65-04171" pg="118">
       <vedette>
@@ -48279,7 +48407,9 @@
       <vedette>
          <sm>Mouras</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui prend son origine dans l'<localisation>Aïgue-Tour</localisation>, arrose les <localisation>villages d'Allier, de Barbazan-debat</localisation> et se perd dans l'Alaric.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui prend son origine dans l'<localisation>
+            <commune precision="certain">Aïgue-Tour</commune>
+         </localisation>, arrose les <localisation>villages d'Allier, de Barbazan-debat</localisation> et se perd dans l'Alaric.</definition>
    </article>
    <article id="DT65-04255" pg="120">
       <vedette>
@@ -49687,7 +49817,9 @@
       <vedette>
          <sm>Novempopulanie.</sm>
       </vedette>
-      <definition>— <typologie>province consulaire</typologie> de la <localisation>Gaule</localisation> :</definition>
+      <definition>— <typologie>province consulaire</typologie> de la <localisation>
+            <commune precision="certain">Gaule</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>Provincia Novempopulana, Aquitania III, metropolis Elusatum aut Elusaberris</i> 
          <date>IV<sup>e</sup> siècle</date> 
@@ -49915,7 +50047,9 @@
       <vedette>
          <sm>Onebusates</sm>
       </vedette>
-      <definition>— <typologie>tribu</typologie> de l'<localisation>Aquitaine</localisation> qui pourrait avoir laissé son nom au Nébouzan :</definition>
+      <definition>— <typologie>tribu</typologie> de l'<localisation>
+            <commune precision="certain">Aquitaine</commune>
+         </localisation> qui pourrait avoir laissé son nom au Nébouzan :</definition>
       <forme_ancienne>
          <i>Onebusates</i> 
          <reference>(Pline IV, cap. XXXIII)</reference>.</forme_ancienne>
@@ -49924,7 +50058,9 @@
       <vedette>
          <sm>Onésiens.</sm>
       </vedette>
-      <definition>— <typologie>peuplade</typologie> de l'<localisation>Aquitaine</localisation> admise par quelques auteurs. Oihénart la place à <localisation>Bagnères de Luchon</localisation> 
+      <definition>— <typologie>peuplade</typologie> de l'<localisation>
+            <commune precision="certain">Aquitaine</commune>
+         </localisation> admise par quelques auteurs. Oihénart la place à <localisation>Bagnères de Luchon</localisation> 
          <reference>(Not. Utriusquae Vasc. f° 519)</reference> ; Marca (Hist. de Béarn) à <localisation>Encausse</localisation> (H.G.) ; M. Gosselin à <localisation>Bagnères de Bigorre</localisation> :</definition>
       <forme_ancienne>τὰ τῶν Ονησίων ϑέρμα κάλλιστα <reference>(Strabon IV.)</reference>.</forme_ancienne>
       <commentaire>
@@ -51070,7 +51206,9 @@
       <vedette>
          <sm>Ousse ou Lousse.</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui prend sa source à <localisation>Barbazan-debat</localisation>, arrose <localisation>Sarrouilles, Aureillan, Orleix</localisation> ; affluent de l'Alaric.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Barbazan-debat</commune>
+         </localisation>, arrose <localisation>Sarrouilles, Aureillan, Orleix</localisation> ; affluent de l'Alaric.</definition>
    </article>
    <article id="DT65-04458" pg="128">
       <vedette>
@@ -51116,7 +51254,9 @@
       <vedette>
          <sm>Oussette. (l')</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> (qui passe à <localisation>Pouyastruc</localisation> et se jette dans le Louit+??) +né à <localisation>Dours NO</localisation>, affluent de l'Alaric à <localisation>Escondeaux</localisation>.</definition>
+      <definition>— <typologie>ruisseau</typologie> (qui passe à <localisation>
+            <commune precision="certain">Pouyastruc</commune>
+         </localisation> et se jette dans le Louit+??) +né à <localisation>Dours NO</localisation>, affluent de l'Alaric à <localisation>Escondeaux</localisation>.</definition>
    </article>
    <article id="DT65-04462" pg="128">
       <vedette>
@@ -51147,7 +51287,9 @@
       <vedette>
          <sm>Oustaux (les)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui se forme à <localisation>Aubarède</localisation>, passe à <localisation>Chelle-debat</localisation>, et se verse dans l'Arros au <localisation>lieu dit Notre-Dame de Pitié</localisation>, <localisation>commune de Marseillan</localisation>.</definition>
+      <definition>— <typologie>ruisseau</typologie> qui se forme à <localisation>
+            <commune precision="certain">Aubarède</commune>
+         </localisation>, passe à <localisation>Chelle-debat</localisation>, et se verse dans l'Arros au <localisation>lieu dit Notre-Dame de Pitié</localisation>, <localisation>commune de Marseillan</localisation>.</definition>
    </article>
    <article type="commune" id="DT65-04466" pg="128">
       <vedette>
@@ -51577,7 +51719,9 @@
       <vedette>
          <sm>Paillele</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Peyraube</localisation>, affluent de l'Arros.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Peyraube</commune>
+         </localisation>, affluent de l'Arros.</definition>
    </article>
    <article id="DT65-04501" pg="129">
       <vedette>
@@ -53786,7 +53930,9 @@
       <vedette>
          <sm>Peyre (la)</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-04734" pg="134">
       <vedette>
@@ -53984,7 +54130,9 @@
       <vedette>
          <sm>Peyrie (la)</sm>
       </vedette>
-      <definition>— <typologie>ancien établissement thermal</typologie> de <localisation>Bagnères</localisation>, réuni aux <localisation>thermes de Lasserre</localisation>.</definition>
+      <definition>— <typologie>ancien établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>, réuni aux <localisation>thermes de Lasserre</localisation>.</definition>
    </article>
    <article id="DT65-04761" pg="134">
       <vedette>
@@ -54295,7 +54443,9 @@
       <vedette>
          <sm>Pich.</sm>
       </vedette>
-      <definition>(<typologie>+cascade</typologie> sur la Gaube, <localisation>Campan</localisation> S) :</definition>
+      <definition>(<typologie>+cascade</typologie> sur la Gaube, <localisation>
+            <commune precision="certain">Campan</commune>
+         </localisation> S) :</definition>
       <forme_ancienne>
          <i>lo port deu Pich</i> 
          <date>1427</date> 
@@ -54628,7 +54778,9 @@
       <vedette>
          <sm>Pinarroque</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Bernadets-dessus</localisation>, affluent de l'Allier.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Bernadets-dessus</commune>
+         </localisation>, affluent de l'Allier.</definition>
    </article>
    <article id="DT65-04827" pg="135">
       <vedette>
@@ -54758,7 +54910,9 @@
       <vedette>
          <sm>Pis</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> qui prend sa source à <localisation>Bernadets-debat</localisation>, passe à <localisation>Fontrailles, Lapeyre, Trie</localisation> et se jette dans la Bayse (+<i>Pélan</i> IGN, <i>Picharrot</i> cadastre, ?).</definition>
+      <definition>— <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Bernadets-debat</commune>
+         </localisation>, passe à <localisation>Fontrailles, Lapeyre, Trie</localisation> et se jette dans la Bayse (+<i>Pélan</i> IGN, <i>Picharrot</i> cadastre, ?).</definition>
    </article>
    <article id="DT65-04841" pg="136">
       <vedette>
@@ -54888,7 +55042,9 @@
    <article id="DT65-04857" pg="136">
       <vedette>
          <sm>Plaa</sm> (bains de-) ou Petit Saint-Sauveur (bains du-)</vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Cauterets</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Cauterets</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-04858" pg="136">
       <vedette>
@@ -55131,7 +55287,9 @@
          <pg>137</pg>
          <sm>Plas (les)</sm>
       </vedette>
-      <definition>— <typologie>ruisseau</typologie> de <localisation>Barbazan-dessus</localisation> (+<i>Plan</i> O), affluent du Chéous.</definition>
+      <definition>— <typologie>ruisseau</typologie> de <localisation>
+            <commune precision="certain">Barbazan-dessus</commune>
+         </localisation> (+<i>Plan</i> O), affluent du Chéous.</definition>
    </article>
    <article id="DT65-04887" pg="137">
       <vedette>
@@ -55232,7 +55390,9 @@
       <vedette>
          <sm>Polard</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>, du nom de l'ingénieur qui le fonda en <date>1735</date>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>, du nom de l'ingénieur qui le fonda en <date>1735</date>.</definition>
    </article>
    <article id="DT65-04900" pg="137">
       <vedette>
@@ -55821,7 +55981,9 @@
    <article id="DT65-04969" pg="138">
       <vedette>
          <sm>Poudge</sm> (chemin de la-)</vedette>
-      <definition>— <typologie>route</typologie> qui conduisait de <localisation>Juillan</localisation> vers <localisation>Adé</localisation> :</definition>
+      <definition>— <typologie>route</typologie> qui conduisait de <localisation>
+            <commune precision="certain">Juillan</commune>
+         </localisation> vers <localisation>Adé</localisation> :</definition>
       <forme_ancienne>
          <i>le chemin public de la Poutge</i> 
          <date>1600</date> 
@@ -55990,7 +56152,9 @@
       <vedette>
          <sm>Pouey</sm>
       </vedette>
-      <definition>— <typologie>+lieu ancien</typologie> à <localisation>Préchac</localisation> :</definition>
+      <definition>— <typologie>+lieu ancien</typologie> à <localisation>
+            <commune precision="certain">Préchac</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>in teratorio Praisago… usque in Poio</i> 
          <date>860</date> 
@@ -56194,7 +56358,9 @@
       <vedette>
          <sm>Poulastrou (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisselet</typologie> qui arrose <localisation>Peyraube</localisation> et se jette dans le ruisseau de Termes.</definition>
+      <definition>— <typologie>ruisselet</typologie> qui arrose <localisation>
+            <commune precision="certain">Peyraube</commune>
+         </localisation> et se jette dans le ruisseau de Termes.</definition>
    </article>
    <article id="DT65-04994" pg="139">
       <vedette>
@@ -57083,7 +57249,9 @@
       <vedette>
          <sm>Prieur (Petit)</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05078" pg="141">
       <vedette>
@@ -57147,7 +57315,9 @@
       <vedette>
          <sm>Pruède</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Lézignan</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Lézignan</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S. Fabien de Pruède</i> 
          <date>1740</date> 
@@ -57157,7 +57327,9 @@
       <vedette>
          <sm>Pruoros (Croix des)</sm>
       </vedette>
-      <definition>— <typologie>vieux chemin</typologie> mentionné à <localisation>Sadournin</localisation> dans le cadastre de <date>1772</date>.</definition>
+      <definition>— <typologie>vieux chemin</typologie> mentionné à <localisation>
+            <commune precision="certain">Sadournin</commune>
+         </localisation> dans le cadastre de <date>1772</date>.</definition>
    </article>
    <article id="DT65-05086" pg="141">
       <vedette>
@@ -57205,7 +57377,9 @@
       <vedette>
          <sm>Pubro</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Tarbes</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S. Maria de Pubro</i> 
          <date>1478</date> 
@@ -57301,7 +57475,9 @@
    <article id="DT65-05095" pg="141">
       <vedette>
          <sm>Pujo</sm> (Notre-Dame de-)</vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Gez</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Gez</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05096" pg="141">
       <vedette>
@@ -57452,7 +57628,9 @@
    <article id="DT65-05110" pg="142">
       <vedette>
          <sm>Puy</sm> (Notre-Dame du-)</vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Gourgue</localisation>, mention en <date>1664</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Gourgue</commune>
+         </localisation>, mention en <date>1664</date> (pouillé).</definition>
    </article>
    <article id="DT65-05111" pg="142">
       <vedette>
@@ -57646,7 +57824,9 @@
       <vedette>
          <sm>Quirgue</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Gazost</localisation>, mention en <date>1789</date> (proc. verb.).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Gazost</commune>
+         </localisation>, mention en <date>1789</date> (proc. verb.).</definition>
    </article>
    <article id="DT65-05130" pg="142">
       <vedette>
@@ -57853,7 +58033,9 @@
       <vedette>
          <sm>Ramonané</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Vic</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S<sup>t</sup> Antoine de Ramonané</i> 
          <date>1740</date> 
@@ -58113,7 +58295,9 @@
       <vedette>
          <sm>Rege</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Nestalas</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Nestalas</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S. Vincentius de Rege</i> 
          <date>1530</date> 
@@ -58144,14 +58328,18 @@
    <article id="DT65-05180" pg="144">
       <vedette>
          <sm>Reine</sm> (bains de la-)</vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Cauterets</localisation>, dit aussi bains des <i>Espagnols.</i>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Cauterets</commune>
+         </localisation>, dit aussi bains des <i>Espagnols.</i>
       </definition>
    </article>
    <article id="DT65-05181" pg="144">
       <vedette>
          <sm>Reine-Jeanne</sm>
       </vedette>
-      <definition>— <typologie>bains détruits</typologie> à <localisation>Bagnères</localisation> ; établissement thermal construit en <date>1567</date> par Jeanne d'Albret.</definition>
+      <definition>— <typologie>bains détruits</typologie> à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation> ; établissement thermal construit en <date>1567</date> par Jeanne d'Albret.</definition>
    </article>
    <article type="commune" id="DT65-05182" pg="144">
       <vedette>
@@ -58606,7 +58794,9 @@
       <vedette>
          <sm>Rieumiset</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> à <localisation>Cauterets</localisation> construit en <date>1802</date> sur les ruines des bains des Yeux.</definition>
+      <definition>— <typologie>établissement thermal</typologie> à <localisation>
+            <commune precision="certain">Cauterets</commune>
+         </localisation> construit en <date>1802</date> sur les ruines des bains des Yeux.</definition>
    </article>
    <article id="DT65-05223" pg="145">
       <vedette>
@@ -58892,7 +59082,9 @@
       <vedette>
          <sm>Riuffet</sm>
       </vedette>
-      <definition>— <typologie>fief</typologie> des Carmes de <localisation>Rabastens</localisation>, même commune :</definition>
+      <definition>— <typologie>fief</typologie> des Carmes de <localisation>
+            <commune precision="certain">Rabastens</commune>
+         </localisation>, même commune :</definition>
       <forme_ancienne>
          <i>de Ruffato</i> 
          <date>1556</date> 
@@ -59081,7 +59273,9 @@
       <vedette>
          <sm>Rivière-Saint-Savin. (la)</sm>
       </vedette>
-      <definition>— désignation de l'une des <typologie>vallées</typologie> du <localisation>Lavedan</localisation> qui prenait origine de l'autorité qu'y exercèrent les abbés de Saint-Savin :</definition>
+      <definition>— désignation de l'une des <typologie>vallées</typologie> du <localisation>
+            <commune precision="certain">Lavedan</commune>
+         </localisation> qui prenait origine de l'autorité qu'y exercèrent les abbés de Saint-Savin :</definition>
       <forme_ancienne>
          <i>Riparia montis Sti Savini</i> 
          <date>1292</date> 
@@ -59126,7 +59320,9 @@
       <vedette>
          <sm>Roc-de-Lannes</sm>
       </vedette>
-      <definition>— <typologie>source thermale</typologie> à <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>source thermale</typologie> à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05271" pg="146">
       <vedette>
@@ -59216,7 +59412,9 @@
    <article id="DT65-05280" pg="146">
       <vedette>
          <sm>Ronsabaus</sm> (Notre-Dame de-)</vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Vic</localisation>, mention en <date>1429</date> (censier).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation>, mention en <date>1429</date> (censier).</definition>
    </article>
    <article id="DT65-05281" pg="146">
       <vedette>
@@ -59236,7 +59434,9 @@
       <vedette>
          <sm>Rosés</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Vic</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>B. Maria de Roses</i> 
          <date>1562</date> 
@@ -59268,7 +59468,9 @@
       <vedette>
          <sm>Rouède</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Puntous</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Puntous</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>chapelainie de Rouëde</i> 
          <date>1731</date> 
@@ -59477,7 +59679,9 @@
       <vedette>
          <sm>Ruisseau-des-Moulins (le)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> venue de l'Adour à <localisation>Bours</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> venue de l'Adour à <localisation>
+            <commune precision="certain">Bours</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05313" pg="147">
       <vedette>
@@ -59490,7 +59694,9 @@
       <vedette>
          <sm>Ruisseau-du-Village (le)</sm>
       </vedette>
-      <definition>— <typologie>dérivation</typologie> venant du <localisation>Caparrieu</localisation> à <localisation>Bernac-debat</localisation>.</definition>
+      <definition>— <typologie>dérivation</typologie> venant du <localisation>
+            <commune precision="certain">Caparrieu</commune>
+         </localisation> à <localisation>Bernac-debat</localisation>.</definition>
    </article>
    <article id="DT65-05315" pg="147">
       <vedette>
@@ -59562,7 +59768,9 @@
       <vedette>
          <sm>Rusticans</sm>
       </vedette>
-      <definition>— <typologie>tribu</typologie> de l'<localisation>Aquitaine</localisation> qui habitait dans la <localisation>vallée de l'Arros</localisation> et qui a laissé son nom au Rustan ;</definition>
+      <definition>— <typologie>tribu</typologie> de l'<localisation>
+            <commune precision="certain">Aquitaine</commune>
+         </localisation> qui habitait dans la <localisation>vallée de l'Arros</localisation> et qui a laissé son nom au Rustan ;</definition>
       <forme_ancienne>
          <i>Rusticani</i> 
          <reference>(Pline, lib. IV, cap. XXXIII)</reference>.</forme_ancienne>
@@ -59858,7 +60066,9 @@
       <vedette>
          <sm>Saint-André</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Juncalas</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Juncalas</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S. Andrey</i> 
          <date>1740</date> 
@@ -59868,7 +60078,9 @@
       <vedette>
          <sm>Saint-André</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Lau-Balagnas</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Lau-Balagnas</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>S. Andreilh</i> 
          <date>1700</date> 
@@ -59946,7 +60158,9 @@
       <vedette>
          <sm>Saint-Antoine</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Bagnères</localisation> ;</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation> ;</definition>
       <forme_ancienne>
          <i>capellania Sti Antonii de Banheriis</i> 
          <date>1477</date> 
@@ -59970,7 +60184,9 @@
       <vedette>
          <sm>Saint-Antoine</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Préchac</localisation> ;</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Préchac</commune>
+         </localisation> ;</definition>
       <forme_ancienne>
          <i>capellania de Sto Antonio</i> 
          <date>1487</date> 
@@ -60137,7 +60353,9 @@
       <vedette>
          <sm>Saint-Blaise</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Luz</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Luz</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05365" pg="149">
       <vedette>
@@ -60240,13 +60458,17 @@
       <vedette>
          <sm>Saint-Christophe</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Bordes</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Bordes</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05372" pg="149">
       <vedette>
          <sm>Saint-Clément</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Sénac-Lahitau</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Sénac-Lahitau</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article type="commune" id="DT65-05373" pg="149">
       <vedette>
@@ -60407,7 +60629,9 @@
       <vedette>
          <sm>Saint-Etienne</sm>
       </vedette>
-      <definition>— <typologie>chapelle rurale détruite</typologie> à <localisation>Sère-Lanso</localisation> :</definition>
+      <definition>— <typologie>chapelle rurale détruite</typologie> à <localisation>
+            <commune precision="certain">Sère-Lanso</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>l'esglise de St Estienne</i> 
          <date>1771</date> 
@@ -60446,7 +60670,9 @@
       <vedette>
          <sm>Saint-Eutrope</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Saint-Sever</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Saint-Sever</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05387" pg="149">
       <vedette>
@@ -60810,7 +61036,9 @@
       <vedette>
          <sm>Saint-Jean</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Tarbes</localisation>, mention en <date>1699</date> (terrier).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation>, mention en <date>1699</date> (terrier).</definition>
    </article>
    <article id="DT65-05415" pg="150">
       <vedette>
@@ -60854,7 +61082,9 @@
          <pg>151</pg>
          <sm>Saint-Jérôme</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Saint-Sever</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Saint-Sever</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>capellania de S. Hieronymo</i> 
          <date>1547</date> 
@@ -61091,7 +61321,9 @@
       <vedette>
          <sm>Saint-Laurent</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Sénac-Lahitau</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Sénac-Lahitau</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article type="commune" id="DT65-05434" pg="151">
       <vedette>
@@ -61156,7 +61388,9 @@
       <vedette>
          <sm>Saint-Loup</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Saint-Sever</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Saint-Sever</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05437" pg="152">
       <vedette>
@@ -62080,7 +62314,9 @@
    <article id="DT65-05496" pg="154">
       <vedette>
          <sm>Saint-Roch</sm> (bains de-)</vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation> tenant son nom d'une chapelle démolie en 1826.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation> tenant son nom d'une chapelle démolie en 1826.</definition>
    </article>
    <article id="DT65-05497" pg="154">
       <vedette>
@@ -62129,7 +62365,9 @@
       <vedette>
          <sm>Saint-Sauveur (Petit)</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> à <localisation>Cauterets</localisation>, appelé aussi Bains du Plaa.</definition>
+      <definition>— <typologie>établissement thermal</typologie> à <localisation>
+            <commune precision="certain">Cauterets</commune>
+         </localisation>, appelé aussi Bains du Plaa.</definition>
    </article>
    <article id="DT65-05501" pg="154">
       <vedette>
@@ -62854,7 +63092,9 @@
       <vedette>
          <sm>Sainte-Marie-Magdeleine</sm>
       </vedette>
-      <definition>— <typologie>chapelle</typologie> à <localisation>Luz</localisation> :</definition>
+      <definition>— <typologie>chapelle</typologie> à <localisation>
+            <commune precision="certain">Luz</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>chapelle de S. Marie Magdeleine</i> 
          <date>1740</date> 
@@ -62864,7 +63104,9 @@
       <vedette>
          <sm>Sainte-Marthe</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Saint-Savin</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Saint-Savin</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>capellania Stae Marthae de Sto Savino</i> 
          <date>1546</date> 
@@ -62935,7 +63177,9 @@
       <vedette>
          <pg>157</pg>
          <sm>Sajettes</sm> (ruisseau des-)</vedette>
-      <definition>— à <localisation>Vielle-Adour</localisation>, affluent du Larret.</definition>
+      <definition>— à <localisation>
+            <commune precision="certain">Vielle-Adour</commune>
+         </localisation>, affluent du Larret.</definition>
    </article>
    <article id="DT65-05562" pg="157">
       <vedette>
@@ -63200,7 +63444,9 @@
       <vedette>
          <sm>Salles</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Tarbes</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>la chappelanie de Salles</i> 
          <date>1537</date> 
@@ -63444,7 +63690,9 @@
    <article id="DT65-05601" pg="158">
       <vedette>
          <sm>Santé</sm> (bains de-)</vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05602" pg="158">
       <vedette>
@@ -64041,7 +64289,9 @@
       <vedette>
          <sm>Sarroillan</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Madiran</localisation> :</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Madiran</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>capellania de Sarrolhano</i> 
          <date>1584</date> 
@@ -64250,7 +64500,9 @@
    <article id="DT65-05666" pg="160">
       <vedette>
          <sm>Sault</sm> (bains de-)</vedette>
-      <definition>— à <localisation>Bagnères</localisation>.</definition>
+      <definition>— à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05667" pg="160">
       <vedette>
@@ -64844,7 +65096,9 @@
       <vedette>
          <sm>Sendereix</sm>
       </vedette>
-      <definition>— <typologie>ancien quartier</typologie> de <localisation>Vic</localisation> :</definition>
+      <definition>— <typologie>ancien quartier</typologie> de <localisation>
+            <commune precision="certain">Vic</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>capella de Sendereż</i> 
          <date>1460</date> 
@@ -64975,7 +65229,9 @@
       <vedette>
          <sm>Sept-Hôpitaux. (les)</sm>
       </vedette>
-      <definition>— nom collectif qui embrassait les <typologie>hôtelleries, ermitages, prieurés</typologie> du <localisation>Lavedan</localisation> où étaient accueillis les pèlerins se rendant en Espagne :</definition>
+      <definition>— nom collectif qui embrassait les <typologie>hôtelleries, ermitages, prieurés</typologie> du <localisation>
+            <commune precision="certain">Lavedan</commune>
+         </localisation> où étaient accueillis les pèlerins se rendant en Espagne :</definition>
       <forme_ancienne>
          <i>les Sept opitaus campestres de Labedaâ</i> 
          <date>1477</date> 
@@ -64989,7 +65245,9 @@
          <pg>162</pg>
          <sm>Sept-Vallées. (les)</sm>
       </vedette>
-      <definition>— désignation collective des <typologie>vallées</typologie> du <localisation>Lavedan</localisation>, savoir : <localisation>Batsoriguère, Castelloubon, Davantaygue, Estrème-de-Salles, Azun, Rivière-de-Saint-Savin, Barège</localisation>.</definition>
+      <definition>— désignation collective des <typologie>vallées</typologie> du <localisation>
+            <commune precision="certain">Lavedan</commune>
+         </localisation>, savoir : <localisation>Batsoriguère, Castelloubon, Davantaygue, Estrème-de-Salles, Azun, Rivière-de-Saint-Savin, Barège</localisation>.</definition>
    </article>
    <article id="DT65-05724" pg="162">
       <vedette>
@@ -65549,7 +65807,9 @@
       <vedette>
          <sm>Seübes (les)</sm>
       </vedette>
-      <definition>— <typologie>ancien district</typologie> du <localisation>Nébouzan</localisation> dont le chef-lieu était l'<localisation>abbaye de Tilhouse</localisation> :</definition>
+      <definition>— <typologie>ancien district</typologie> du <localisation>
+            <commune precision="certain">Nébouzan</commune>
+         </localisation> dont le chef-lieu était l'<localisation>abbaye de Tilhouse</localisation> :</definition>
       <forme_ancienne>
          <i>Las Seubas</i> 
          <date>1280</date> 
@@ -66289,7 +66549,9 @@
       <vedette>
          <sm>Soubiron</sm>
       </vedette>
-      <definition>— <typologie>fief</typologie> à <localisation>Arcizans-dessus</localisation> :</definition>
+      <definition>— <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Arcizans-dessus</commune>
+         </localisation> :</definition>
       <forme_ancienne>
          <i>B. Maria de Subirono</i> 
          <date>1134</date> 
@@ -66404,7 +66666,9 @@
       <vedette>
          <sm>Souey (Saint-Antoine de),</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Tarbes</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Tarbes</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05821" pg="165">
       <vedette>
@@ -66627,7 +66891,9 @@
       <vedette>
          <sm>Soulé. (Saint-Jean de)</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Arrens</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Arrens</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05840" pg="165">
       <vedette>
@@ -66749,7 +67015,9 @@
       <vedette>
          <sm>Soussens (Notre-Dame de)</sm>
       </vedette>
-      <definition>— <typologie>chapellenie</typologie> à <localisation>Ordizan</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapellenie</typologie> à <localisation>
+            <commune precision="certain">Ordizan</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-05854" pg="165">
       <vedette>
@@ -67312,7 +67580,9 @@
       <vedette>
          <sm>Tambour (le)</sm>
       </vedette>
-      <definition>— principale <typologie>source thermale</typologie> de <localisation>Barèges</localisation>.</definition>
+      <definition>— principale <typologie>source thermale</typologie> de <localisation>
+            <commune precision="certain">Barèges</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05902" pg="167">
       <vedette>
@@ -67832,7 +68102,9 @@
       <vedette>
          <sm>Tertionat (le)</sm>
       </vedette>
-      <definition>— <typologie>chapelle rurale</typologie> à <localisation>Sazos</localisation>, mention en <date>1740</date> (pouillé ; +“bénéfice de 3° rang”).</definition>
+      <definition>— <typologie>chapelle rurale</typologie> à <localisation>
+            <commune precision="certain">Sazos</commune>
+         </localisation>, mention en <date>1740</date> (pouillé ; +“bénéfice de 3° rang”).</definition>
    </article>
    <article id="DT65-05946" pg="169">
       <vedette>
@@ -67909,7 +68181,9 @@
       <vedette>
          <sm>Théas</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> à <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> à <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-05953" pg="169">
       <vedette>
@@ -68433,7 +68707,9 @@
       <vedette>
          <sm>Toupière.</sm>
       </vedette>
-      <definition>— nom déjà uni à celui de <localisation>Lahitte</localisation> au <date>XIII<sup>e</sup> siècle</date> :</definition>
+      <definition>— nom déjà uni à celui de <localisation>
+            <commune precision="certain">Lahitte</commune>
+         </localisation> au <date>XIII<sup>e</sup> siècle</date> :</definition>
       <forme_ancienne>
          <i>Fitta-Topièra</i> 
          <date>1300</date> 
@@ -68836,7 +69112,9 @@
       <vedette>
          <sm>Tramesaygues.</sm>
       </vedette>
-      <definition>— <localisation>Prat</localisation>, <typologie>confluent</typologie>, origine de la Neste de Louron (+Loudenvielle S).</definition>
+      <definition>— <localisation>
+            <commune precision="certain">Prat</commune>
+         </localisation>, <typologie>confluent</typologie>, origine de la Neste de Louron (+Loudenvielle S).</definition>
    </article>
    <article id="DT65-06044" pg="171">
       <vedette>
@@ -69278,7 +69556,9 @@
       <vedette>
          <sm>Trinité</sm>
       </vedette>
-      <definition>— <typologie>chapelle rurale</typologie> de <localisation>Bagnères</localisation>, mention en <date>1740</date> (pouillé).</definition>
+      <definition>— <typologie>chapelle rurale</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>, mention en <date>1740</date> (pouillé).</definition>
    </article>
    <article id="DT65-06086" pg="172">
       <vedette>
@@ -70719,7 +70999,9 @@
    <article id="DT65-06207" pg="177">
       <vedette>
          <sm>Victoire</sm> (Notre-Dame de la-)</vedette>
-      <definition>— <typologie>couvent de femmes</typologie> (+dit “Le Refuge”, éduc. j. filles) fondé à <localisation>Luz</localisation> en <date>1631</date> et transféré à <localisation>Bagnères</localisation> +en <date>1700</date>.</definition>
+      <definition>— <typologie>couvent de femmes</typologie> (+dit “Le Refuge”, éduc. j. filles) fondé à <localisation>
+            <commune precision="certain">Luz</commune>
+         </localisation> en <date>1631</date> et transféré à <localisation>Bagnères</localisation> +en <date>1700</date>.</definition>
    </article>
    <article id="DT65-06208" pg="177">
       <vedette>
@@ -71489,13 +71771,17 @@
       <vedette>
          <sm>Villa-Graciosa</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT65-06252" pg="179">
       <vedette>
          <sm>Villa-Tivoli</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> de <localisation>Bagnères</localisation>.</definition>
+      <definition>— <typologie>établissement thermal</typologie> de <localisation>
+            <commune precision="certain">Bagnères</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT65-06253" pg="179">
       <vedette>
@@ -71870,13 +72156,17 @@
    <article id="DT65-06273" pg="180">
       <vedette>
          <sm>Vivier</sm> (ruisseau du-)</vedette>
-      <definition>— prend sa source à la fontaine de son nom, passe à <localisation>Sarrancolin</localisation> et se jette dans la Neste. (+autre à <localisation>Saint-Laurent N</localisation>, <renvoi>voir Torte</renvoi>).</definition>
+      <definition>— prend sa source à la fontaine de son nom, passe à <localisation>
+            <commune precision="certain">Sarrancolin</commune>
+         </localisation> et se jette dans la Neste. (+autre à <localisation>Saint-Laurent N</localisation>, <renvoi>voir Torte</renvoi>).</definition>
    </article>
    <article id="DT65-06274" pg="180">
       <vedette>
          <sm>Viviers (le)</sm>
       </vedette>
-      <definition>— <typologie>ruisselet</typologie> d'<localisation>Allier</localisation>, affluent du Lassareng.</definition>
+      <definition>— <typologie>ruisselet</typologie> d'<localisation>
+            <commune precision="certain">Allier</commune>
+         </localisation>, affluent du Lassareng.</definition>
    </article>
    <article type="commune" id="DT65-06275" pg="180">
       <vedette>

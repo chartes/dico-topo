@@ -239,7 +239,9 @@
          <sm>Aix-en-Othe,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Troyes</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Aquensis fundus, Prædium aquense,</i> 
          <date>861</date> 
          <reference>(lett. de Loup, abbé de Ferrières, d'après Hadrien de Valois)</reference>.</forme_ancienne>
@@ -672,7 +674,9 @@
          <sm>Arcis-sur-Aube,</sm>
       </vedette>
       <definition>
-         <typologie>chef-lieu d'arrondissement</typologie>, avec prieuré séparé, dép. de <localisation>Marmoûtier</localisation>, fondé <date>vers 960</date> par Manassès, évêque de Troyes.</definition>
+         <typologie>chef-lieu d'arrondissement</typologie>, avec prieuré séparé, dép. de <localisation>
+            <commune precision="certain">Marmoûtier</commune>
+         </localisation>, fondé <date>vers 960</date> par Manassès, évêque de Troyes.</definition>
       <forme_ancienne>- <i>Artiaca,</i> 
          <date>vers 160</date> 
          <reference>(itinéraire d'Antonin)</reference>.</forme_ancienne>
@@ -1158,7 +1162,9 @@
          <sm>Armance (L'),</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la rive droite de l'Armançon ; il prend sa source à <localisation>Chaource</localisation>, passe au <localisation>Pâtis</localisation>, à <localisation>Pont-au-Loup</localisation>, <localisation>près de Metz-Robert</localisation>, à <localisation>Pontblain</localisation>, <localisation>près de la Loge-Pontblain</localisation>, aux <localisation>Bordes-d'Avreuil</localisation>, aux <localisation>Teignes</localisation>, à la <localisation>Forêt</localisation>, à <localisation>Ervy</localisation>, entre dans le <localisation>département de l'Yonne</localisation> et va se jeter dans l'Armançon à <localisation>Saint-Florentin</localisation>.</definition>
+         <typologie>affluent</typologie> de la rive droite de l'Armançon ; il prend sa source à <localisation>
+            <commune precision="certain">Chaource</commune>
+         </localisation>, passe au <localisation>Pâtis</localisation>, à <localisation>Pont-au-Loup</localisation>, <localisation>près de Metz-Robert</localisation>, à <localisation>Pontblain</localisation>, <localisation>près de la Loge-Pontblain</localisation>, aux <localisation>Bordes-d'Avreuil</localisation>, aux <localisation>Teignes</localisation>, à la <localisation>Forêt</localisation>, à <localisation>Ervy</localisation>, entre dans le <localisation>département de l'Yonne</localisation> et va se jeter dans l'Armançon à <localisation>Saint-Florentin</localisation>.</definition>
       <forme_ancienne>- <i>Alsmantia,</i> 
          <date>815</date> 
          <reference>(dipl. de Louis le Débonnaire)</reference>.</forme_ancienne>
@@ -1202,7 +1208,9 @@
          <sm>Armançon (L'),</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la rive droite de l'Yonne ; il prend sa source à <localisation>Pouilly</localisation> (Côte-d'Or), coule sur le <localisation>territoire de Marolles-sous-Lignières</localisation> et se jette dans l'Yonne <localisation>près de Joigny</localisation>.</definition>
+         <typologie>affluent</typologie> de la rive droite de l'Yonne ; il prend sa source à <localisation>
+            <commune precision="certain">Pouilly</commune>
+         </localisation> (Côte-d'Or), coule sur le <localisation>territoire de Marolles-sous-Lignières</localisation> et se jette dans l'Yonne <localisation>près de Joigny</localisation>.</definition>
       <forme_ancienne>- <i>Hermentio,</i> 
          <date>828</date> 
          <reference>(dipl. de Louis le Débonnaire)</reference>.</forme_ancienne>
@@ -1504,7 +1512,9 @@
          <sm>Aube (L'),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, affluent de la rive droite de la Seine ; elle prend sa source à <localisation>Auberive</localisation> (Haute-Marne), arrive dans le département par <localisation>Ville-sous-la-Ferté</localisation> et se jette dans la Seine à <localisation>Marcilly-sur-Seine</localisation> (Marne) ; flottable à partir de <localisation>Brienne-la-Vieille</localisation>, navigable à <localisation>Arcis</localisation>.</definition>
+         <typologie>rivière</typologie>, affluent de la rive droite de la Seine ; elle prend sa source à <localisation>
+            <commune precision="certain">Auberive</commune>
+         </localisation> (Haute-Marne), arrive dans le département par <localisation>Ville-sous-la-Ferté</localisation> et se jette dans la Seine à <localisation>Marcilly-sur-Seine</localisation> (Marne) ; flottable à partir de <localisation>Brienne-la-Vieille</localisation>, navigable à <localisation>Arcis</localisation>.</definition>
       <commentaire>
          <p>Canal latéral à Plancy.</p>
       </commentaire>
@@ -1770,7 +1780,9 @@
          <sm>Aurore (L'),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> dont les eaux forment le ruisseau du Landion ; elle est située à <localisation>Turgy</localisation>.</definition>
+         <typologie>fontaine</typologie> dont les eaux forment le ruisseau du Landion ; elle est située à <localisation>
+            <commune precision="certain">Turgy</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Fons qui vocatur Aurora,</i> 
          <date>877</date> 
          <reference>(cart. gén. de l'Yonne)</reference>.</forme_ancienne>
@@ -2270,19 +2282,25 @@
       <vedette>
          <sm>Bac,</sm>
       </vedette>
-      <definition>à <localisation>Rance</localisation>, au passage de la Voire.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Rance</commune>
+         </localisation>, au passage de la Voire.</definition>
   </article>
   <article id="DT10-00109" pg="8">
       <vedette>
          <sm>Bac,</sm>
       </vedette>
-      <definition>à <localisation>Sainte-Thuise</localisation>, <localisation>commune de Dommartin</localisation>, sur l'Aube.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Sainte-Thuise</commune>
+         </localisation>, <localisation>commune de Dommartin</localisation>, sur l'Aube.</definition>
   </article>
   <article id="DT10-00110" pg="8">
       <vedette>
          <sm>Bac,</sm>
       </vedette>
-      <definition>à <localisation>Vaupoisson</localisation>, sur l'Aube.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Vaupoisson</commune>
+         </localisation>, sur l'Aube.</definition>
   </article>
   <article id="DT10-00111" pg="8">
       <vedette>
@@ -2514,7 +2532,9 @@
       <vedette>
          <sm>Bains (Moulin des),</sm>
       </vedette>
-      <definition>à <localisation>Troyes</localisation>, sur le ru Cordé ; aujourd'hui détruit.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, sur le ru Cordé ; aujourd'hui détruit.</definition>
       <forme_ancienne>- <i>Molendini juxta Balnea comitis,</i> 
          <date>1157</date> 
          <reference>(Camusat, <i>Promptuarium,</i> f° 331 v°)</reference>.</forme_ancienne>
@@ -3427,7 +3447,9 @@
       <vedette>
          <sm>Bassange (Voie),</sm>
       </vedette>
-      <definition>non loin de <localisation>Vaudemanche</localisation>.</definition>
+      <definition>non loin de <localisation>
+            <commune precision="certain">Vaudemanche</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Via Bassange,</i> 
          <date>1233</date> 
          <reference>(cart. de l'abb. de la Rivour)</reference>.</forme_ancienne>
@@ -4490,7 +4512,9 @@
          <sm>Belle-Dame (La),</sm>
       </vedette>
       <definition>
-         <typologie>chapelle et faubourg</typologie> en dehors de <localisation>Nogent-sur-Seine</localisation> ; la chapelle aujourd'hui détruite.</definition>
+         <typologie>chapelle et faubourg</typologie> en dehors de <localisation>
+            <commune precision="certain">Nogent-sur-Seine</commune>
+         </localisation> ; la chapelle aujourd'hui détruite.</definition>
       <forme_ancienne>- <i>La Belle-Dame,</i> 
          <date>
             <sm>xviii</sm>
@@ -5508,7 +5532,9 @@
          <sm>Béthro (Le)</sm> ou <sm>Bétro,</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la rive droite de la Vanne ; prend sa source à <localisation>Dierrey-Saint-Pierre</localisation> et coule de ce village à <localisation>Estissac</localisation>.</definition>
+         <typologie>affluent</typologie> de la rive droite de la Vanne ; prend sa source à <localisation>
+            <commune precision="certain">Dierrey-Saint-Pierre</commune>
+         </localisation> et coule de ce village à <localisation>Estissac</localisation>.</definition>
       <forme_ancienne>- <i>Molendini de Bertro,</i> 
          <date>1230</date> 
          <reference>(cart. de l'abb. de Notre-Dame-des-Prés)</reference>.</forme_ancienne>
@@ -5713,7 +5739,9 @@
       <vedette>
          <sm>Bigerne</sm> ou <sm>Bizerne (Fontaine),</sm>
       </vedette>
-      <definition>dans <localisation>Vendeuvre</localisation>, <typologie>l'une des sources</typologie> de la Barse.</definition>
+      <definition>dans <localisation>
+            <commune precision="certain">Vendeuvre</commune>
+         </localisation>, <typologie>l'une des sources</typologie> de la Barse.</definition>
   </article>
   <article id="DT10-00313" pg="19">
       <vedette>
@@ -8592,7 +8620,9 @@
          <sm>Brienne-la-Vieille (Moulin de),</sm>
       </vedette>
       <definition>
-         <typologie>écart</typologie> de <localisation>Brienne-la-Vieille</localisation>.</definition>
+         <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Brienne-la-Vieille</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Mentionné sur la carte de Cassini.</p>
       </commentaire>
@@ -9666,7 +9696,9 @@
          <sm>Cachebouton,</sm>
       </vedette>
       <definition>
-         <typologie>pont</typologie> sur la Barse, à <localisation>Montreuil</localisation>.</definition>
+         <typologie>pont</typologie> sur la Barse, à <localisation>
+            <commune precision="certain">Montreuil</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- C'était, au <date>
                <sm>xvi</sm>
@@ -9793,7 +9825,9 @@
          <sm>Carmélites (Les),</sm>
       </vedette>
       <definition>
-         <typologie>couvent</typologie> fondé à <localisation>Troyes</localisation>, en <date>1620</date>, par Marie de Mesgrigny, épouse de Vignier, cédé en <date>1750</date> aux filles du Bon-Pasteur et en <date>1766</date> aux Jacobins.</definition>
+         <typologie>couvent</typologie> fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, en <date>1620</date>, par Marie de Mesgrigny, épouse de Vignier, cédé en <date>1750</date> aux filles du Bon-Pasteur et en <date>1766</date> aux Jacobins.</definition>
       <forme_ancienne>- <i>Les Carmélites,</i> 
          <date>
             <sm>xviii</sm>
@@ -10364,7 +10398,9 @@
          <sm>Chailloire (La),</sm>
       </vedette>
       <definition>
-         <typologie>petit ru</typologie> à <localisation>Saint-Mards</localisation>, employé pour le flottage des bois depuis <date>1640</date>.</definition>
+         <typologie>petit ru</typologie> à <localisation>
+            <commune precision="certain">Saint-Mards</commune>
+         </localisation>, employé pour le flottage des bois depuis <date>1640</date>.</definition>
   </article>
   <article id="DT10-00585" pg="32">
       <vedette>
@@ -11982,7 +12018,9 @@
          <sm>Chapelle Oger (La),</sm>
       </vedette>
       <definition>
-         <typologie>dép.</typologie> de <localisation>Rhèges</localisation> ; aujourd'hui détruite.</definition>
+         <typologie>dép.</typologie> de <localisation>
+            <commune precision="certain">Rhèges</commune>
+         </localisation> ; aujourd'hui détruite.</definition>
       <forme_ancienne>- <i>Capella S. Jacobi, vulgo la chapelle Oger,</i> 
          <date>
             <sm>xvii</sm>
@@ -13233,7 +13271,9 @@
          <sm>Châtelier (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petit château</typologie> dépendant de <localisation>Virey-sous-Bar</localisation>, compris aujourd'hui dans les habitations de cette commune.</definition>
+         <typologie>petit château</typologie> dépendant de <localisation>
+            <commune precision="certain">Virey-sous-Bar</commune>
+         </localisation>, compris aujourd'hui dans les habitations de cette commune.</definition>
       <forme_ancienne>- <i>Chastellier,</i> 
          <date>1679</date> 
          <reference>(carte de Sanson)</reference>.</forme_ancienne>
@@ -13267,7 +13307,9 @@
          <sm>Châtelot (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ancienne paroisse</typologie>, sous le vocable de saint André, réunie à la <localisation>Villeneuve-au-Châtelot</localisation> par arrêt du Parlement du <date>26 juin 1665</date>.</definition>
+         <typologie>ancienne paroisse</typologie>, sous le vocable de saint André, réunie à la <localisation>
+            <commune precision="certain">Villeneuve-au-Châtelot</commune>
+         </localisation> par arrêt du Parlement du <date>26 juin 1665</date>.</definition>
       <forme_ancienne>- <i>Chasteleth,</i> 
          <date>1158</date> 
          <reference>(ch. de l'abb. de la Rivour)</reference>.</forme_ancienne>
@@ -15897,7 +15939,9 @@
       <vedette>
          <sm>Commanderie de l'ordre Teutonique (La),</sm>
       </vedette>
-      <definition>à <localisation>Beauvoir</localisation>, <localisation>commune de Chaumesnil</localisation> ; réunie en <date>1503</date> à Clairvaux.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Beauvoir</commune>
+         </localisation>, <localisation>commune de Chaumesnil</localisation> ; réunie en <date>1503</date> à Clairvaux.</definition>
   </article>
   <article id="DT10-00912" pg="49">
       <vedette>
@@ -15964,7 +16008,9 @@
       <vedette>
          <sm>Commanderie du Temple (La),</sm>
       </vedette>
-      <definition>fondée à <localisation>Troyes</localisation> en <date>1127</date>, en tête de la rue Composte, appelée depuis rue du Temple ; elle passa aux chevaliers de Saint-Jean de Jérusalem, prit alors le nom de commanderie de Malte, et fut supprimée en <date>1790</date>.</definition>
+      <definition>fondée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> en <date>1127</date>, en tête de la rue Composte, appelée depuis rue du Temple ; elle passa aux chevaliers de Saint-Jean de Jérusalem, prit alors le nom de commanderie de Malte, et fut supprimée en <date>1790</date>.</definition>
       <forme_ancienne>- <i>Fratres hospitalis,</i> 
          <date>1220</date> 
          <reference>(ch. du Temple de Troyes)</reference>.</forme_ancienne>
@@ -16044,7 +16090,9 @@
          <pg>50</pg>
          <sm>Congrégation de Notre-Dame (La),</sm>
       </vedette>
-      <definition>fondée à <localisation>Troyes</localisation> en <date>1628</date> dans la maison du collége de la Licorne, sur l'emplacement actuel de la gendarmerie ; dissoute en <date>1762</date>.</definition>
+      <definition>fondée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> en <date>1628</date> dans la maison du collége de la Licorne, sur l'emplacement actuel de la gendarmerie ; dissoute en <date>1762</date>.</definition>
       <forme_ancienne>- <i>La Congrégation de Notre-Dame,</i> 
          <date>1637</date> 
          <reference>(Des Guerrois, <i>Saincteté chrest.,</i> p. 426)</reference>.</forme_ancienne>
@@ -16165,7 +16213,9 @@
          <sm>Cordeliers (Les)</sm> ou <sm>Franciscains,</sm>
       </vedette>
       <definition>
-         <typologie>couvent</typologie> fondé à <localisation>Troyes</localisation>, en <date>1237</date>, par Thibaut IV, comte de Champagne, d'abord près et en dehors de la porte de Comporté ou de Preize, ensuite <date>vers 1258</date> sur l'emplacement occupé aujourd'hui par les prisons, dans le quartier de la Broce-aux-Juifs, <i>Domus de Brotia,</i> et supprimé en <date>1790</date>.</definition>
+         <typologie>couvent</typologie> fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, en <date>1237</date>, par Thibaut IV, comte de Champagne, d'abord près et en dehors de la porte de Comporté ou de Preize, ensuite <date>vers 1258</date> sur l'emplacement occupé aujourd'hui par les prisons, dans le quartier de la Broce-aux-Juifs, <i>Domus de Brotia,</i> et supprimé en <date>1790</date>.</definition>
       <forme_ancienne>- <i>Franciscanorum domus Trecensis,</i> 
          <date>1237</date> 
          <reference>(Camusat, <i>Promptuarium,</i> f° 191)</reference>.</forme_ancienne>
@@ -16959,7 +17009,9 @@
          <sm>Courcelles (Moulin de),</sm>
       </vedette>
       <definition>
-         <typologie>dép.</typologie> de <localisation>Bernières</localisation> ; aujourd'hui détruit.</definition>
+         <typologie>dép.</typologie> de <localisation>
+            <commune precision="certain">Bernières</commune>
+         </localisation> ; aujourd'hui détruit.</definition>
       <forme_ancienne>- <i>Le Moulin de Courcelles,</i> 
          <date>1481</date> 
          <reference>(ch. de l'abb. de Vauluisant)</reference>.</forme_ancienne>
@@ -17384,7 +17436,9 @@
          <sm>Coursan,</sm>
       </vedette>
       <definition>
-         <typologie>châtellenie</typologie> du ressort de celle de <localisation>Saint-Florentin</localisation>.</definition>
+         <typologie>châtellenie</typologie> du ressort de celle de <localisation>
+            <commune precision="certain">Saint-Florentin</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Cette châtellenie renfermait : Ambelain, l'Autre-Monde, Chambeton, Champ-Gauthier, Chaussepot, Coursan, la Maison-de-la-Haye, les Marots, Montampain, le Moulin-Carré, le Moulin-Drouot, le Moulin-Guélaut, le Moulin-Rouault ou Gué-Boullay, Nicarte, Racines.</p>
       </commentaire>
@@ -18112,7 +18166,9 @@
          <sm>Cresciacum,</sm>
       </vedette>
       <definition>
-         <typologie>lieu inconnu</typologie>, si ce n'est <localisation>Creney</localisation>, <localisation>près de Troyes</localisation> 
+         <typologie>lieu inconnu</typologie>, si ce n'est <localisation>
+            <commune precision="certain">Creney</commune>
+         </localisation>, <localisation>près de Troyes</localisation> 
          <reference>(Camusat, <i>Promptuarium,</i> f° 20)</reference>.</definition>
   </article>
   <article type="commune" id="DT10-01041" pg="55">
@@ -18771,7 +18827,9 @@
          <sm>Dames Colles (Les),</sm>
       </vedette>
       <definition>
-         <typologie>écart</typologie> de <localisation>Troyes</localisation>.</definition>
+         <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-01085" pg="57">
       <vedette>
@@ -18877,7 +18935,9 @@
       <vedette>
          <sm>Darne (Vicus),</sm>
       </vedette>
-      <definition>dépendant de <localisation>Saint-Martin-ès-Vignes</localisation> en <date>1255</date> ; nom conservé dans celui de <i>rue Derne.</i>
+      <definition>dépendant de <localisation>
+            <commune precision="certain">Saint-Martin-ès-Vignes</commune>
+         </localisation> en <date>1255</date> ; nom conservé dans celui de <i>rue Derne.</i>
       </definition>
   </article>
   <article id="DT10-01090" pg="57">
@@ -19080,7 +19140,9 @@
       </vedette>
       <definition>
          <i>Pagus Dervensis,</i> 
-         <typologie>grande contrée naturelle</typologie> comprenant les assises inférieures de la formation crétacée composées de sables (grès vert) et d'argiles (gault) ; elle s'étend au moins des bords de la Seine, à la hauteur de <localisation>Clérey</localisation>, jusqu'au delà de <localisation>Montier-en-Der</localisation>.</definition>
+         <typologie>grande contrée naturelle</typologie> comprenant les assises inférieures de la formation crétacée composées de sables (grès vert) et d'argiles (gault) ; elle s'étend au moins des bords de la Seine, à la hauteur de <localisation>
+            <commune precision="certain">Clérey</commune>
+         </localisation>, jusqu'au delà de <localisation>Montier-en-Der</localisation>.</definition>
       <commentaire>
          <p>Avant le <date>
                <sm>ix</sm>
@@ -19182,7 +19244,9 @@
       <vedette>
          <sm>Devoye (Bois de),</sm>
       </vedette>
-      <definition>vis-à-vis de <localisation>Ricey-Bas</localisation>.</definition>
+      <definition>vis-à-vis de <localisation>
+            <commune precision="certain">Ricey-Bas</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Mentionné dans la <i>Statistique du canton des Riceys,</i> par MM. Guenin et Ray.</p>
       </commentaire>
@@ -19208,7 +19272,9 @@
          <sm>Dhuys (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie>, à <localisation>Bar-sur-Aube</localisation>, formant un <typologie>ruisseau</typologie> qui afflue à la rive droite de l'Aube.</definition>
+         <typologie>fontaine</typologie>, à <localisation>
+            <commune precision="certain">Bar-sur-Aube</commune>
+         </localisation>, formant un <typologie>ruisseau</typologie> qui afflue à la rive droite de l'Aube.</definition>
   </article>
   <article type="commune" id="DT10-01111" pg="58">
       <vedette>
@@ -19357,7 +19423,9 @@
          <sm>Dieu-de-Pitié (Le),</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> hors des murs de <localisation>Nogent-sur-Seine</localisation>, dans le <localisation>faubourg du Béchereau</localisation>.</definition>
+         <typologie>chapelle</typologie> hors des murs de <localisation>
+            <commune precision="certain">Nogent-sur-Seine</commune>
+         </localisation>, dans le <localisation>faubourg du Béchereau</localisation>.</definition>
       <commentaire>
          <p>C'est la chapelle de Chaudefouace, élevée en exécution du testament de Henri de Poitiers, évêque de Troyes, mort en <date>1369</date>, et en souvenir de la bataille de Nogent, donnée en <date>1359</date>, dans laquelle cet évêque, à la tête des Français, battit complétement les Anglais.</p>
       </commentaire>
@@ -20814,7 +20882,9 @@
          <sm>Essart de Montcuc (L'),</sm>
       </vedette>
       <definition>
-         <typologie>canton de forêt</typologie> vers <localisation>Brévonne</localisation>, essarté par Bernard de Montcuc <date>avant 1232</date> : ce Bernard de Montcuc fut maire de Troyes en <date>1238</date> (cart. du Temple).</definition>
+         <typologie>canton de forêt</typologie> vers <localisation>
+            <commune precision="certain">Brévonne</commune>
+         </localisation>, essarté par Bernard de Montcuc <date>avant 1232</date> : ce Bernard de Montcuc fut maire de Troyes en <date>1238</date> (cart. du Temple).</definition>
   </article>
   <article id="DT10-01193" pg="63">
       <vedette>
@@ -21496,7 +21566,9 @@
          <sm>Faux-Martinet (Le),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Lesmont</localisation>.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Lesmont</commune>
+         </localisation>.</definition>
   </article>
   <article type="commune" id="DT10-01238" pg="65">
       <vedette>
@@ -22049,7 +22121,9 @@
          <sm>Fins,</sm>
       </vedette>
       <definition>
-         <typologie>tertres</typologie> servant, en <localisation>Champagne</localisation>, de délimitation à des finages de villages, hameaux, fermes, etc. et remontant au delà des temps mérovingiens.</definition>
+         <typologie>tertres</typologie> servant, en <localisation>
+            <commune precision="certain">Champagne</commune>
+         </localisation>, de délimitation à des finages de villages, hameaux, fermes, etc. et remontant au delà des temps mérovingiens.</definition>
   </article>
   <article id="DT10-01275" pg="66">
       <vedette>
@@ -23044,7 +23118,9 @@
          <sm>Forestière (La),</sm>
       </vedette>
       <definition>
-         <typologie>forêt avec étang</typologie>, vers <localisation>Brevonne</localisation>.</definition>
+         <typologie>forêt avec étang</typologie>, vers <localisation>
+            <commune precision="certain">Brevonne</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Mentionnée, en <date>1230</date>, comme appartenant en partie aux Templiers (cart. du Temple).</p>
       </commentaire>
@@ -23281,7 +23357,9 @@
       <vedette>
          <sm>Forges a fer,</sm>
       </vedette>
-      <definition>à <localisation>Nogent-sur-Seine</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Nogent-sur-Seine</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <date>1267</date> 
          <reference>(Bibl. nat. f. française, n° 2625)</reference>.</forme_ancienne>
   </article>
@@ -23385,7 +23463,9 @@
          <sm>Fortière (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Montfey</localisation>.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Montfey</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-01363" pg="69">
       <vedette>
@@ -24492,7 +24572,9 @@
          <sm>Gelin,</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Bierne</localisation>, <localisation>commune de Villemereuil</localisation>.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Bierne</commune>
+         </localisation>, <localisation>commune de Villemereuil</localisation>.</definition>
   </article>
   <article id="DT10-01433" pg="72">
       <vedette>
@@ -24533,7 +24615,9 @@
          <sm>Géole (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Courlanges</localisation>, <localisation>territoire de Saint-Mesmin</localisation>.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Courlanges</commune>
+         </localisation>, <localisation>territoire de Saint-Mesmin</localisation>.</definition>
       <forme_ancienne>- <date>
             <sm>xv</sm>
             <sup>e</sup> siècle</date> 
@@ -24955,7 +25039,9 @@
          <sm>Grande-Paroisse (La),</sm>
       </vedette>
       <definition>
-         <typologie>village</typologie> autrefois séparé de <localisation>Mézières</localisation>.</definition>
+         <typologie>village</typologie> autrefois séparé de <localisation>
+            <commune precision="certain">Mézières</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Grande-Paroisse,</i> 
          <date>
             <sm>xviii</sm>
@@ -24984,7 +25070,9 @@
          <sm>Grandes-Fontaines (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fontaines</typologie> à <localisation>Villeneuve-au-Chemin</localisation>.</definition>
+         <typologie>fontaines</typologie> à <localisation>
+            <commune precision="certain">Villeneuve-au-Chemin</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-01472" pg="73">
       <vedette>
@@ -24999,7 +25087,9 @@
          <sm>Grand-Fossé (Le),</sm>
       </vedette>
       <definition>
-         <typologie>canal</typologie> à <localisation>Rigny-le-Ferron</localisation>, affluent de la Vanne.</definition>
+         <typologie>canal</typologie> à <localisation>
+            <commune precision="certain">Rigny-le-Ferron</commune>
+         </localisation>, affluent de la Vanne.</definition>
   </article>
   <article id="DT10-01474" pg="73">
       <vedette>
@@ -25379,7 +25469,9 @@
          <sm>Grenier à sel (Le),</sm>
       </vedette>
       <definition>
-         <typologie>écart</typologie> de <localisation>Montmorency</localisation>, aujourd'hui détruit.</definition>
+         <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Montmorency</commune>
+         </localisation>, aujourd'hui détruit.</definition>
       <forme_ancienne>- <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date> 
@@ -25589,7 +25681,9 @@
          <sm>Gué (Le),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Courmononcle</localisation>, <localisation>commune de Saint-Benoît-sur-Vanne</localisation> ; forme <typologie>ruisseau</typologie> affluent de la Vanne.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Courmononcle</commune>
+         </localisation>, <localisation>commune de Saint-Benoît-sur-Vanne</localisation> ; forme <typologie>ruisseau</typologie> affluent de la Vanne.</definition>
   </article>
   <article id="DT10-01520" pg="75">
       <vedette>
@@ -26098,7 +26192,9 @@
          <sm>Hauts-Jardins (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> relevant de <localisation>Montmorency</localisation>.</definition>
+         <typologie>fief</typologie> relevant de <localisation>
+            <commune precision="certain">Montmorency</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Les Hauts-Jardins,</i> 
          <date>
             <sm>xviii</sm>
@@ -26281,7 +26377,9 @@
          <sm>Herodo-Villa,</sm>
       </vedette>
       <definition>
-         <typologie>village</typologie> dans le <localisation>Tonnerrois</localisation>, <localisation>près de Turgy et de Vallières</localisation> ; aujourd'hui détruit : situation inconnue, si ce n'est Avreuil ?</definition>
+         <typologie>village</typologie> dans le <localisation>
+            <commune precision="certain">Tonnerrois</commune>
+         </localisation>, <localisation>près de Turgy et de Vallières</localisation> ; aujourd'hui détruit : situation inconnue, si ce n'est Avreuil ?</definition>
       <forme_ancienne>- <i>Herodo villa,</i> 
          <date>877</date> 
          <reference>(cart. gén. de l'Yonne)</reference>.</forme_ancienne>
@@ -26478,7 +26576,9 @@
       <vedette>
          <sm>Hôtel-Dieu-le-Comte (L'),</sm>
       </vedette>
-      <definition>fondé à <localisation>Troyes</localisation> 
+      <definition>fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> 
          <date>vers 1157</date>, très-probablement par Henri le Libéral, comte de Champagne, sur l'emplacement qu'il occupe encore aujourd'hui ; desservi d'abord par des religieux et religieuses de la congrégation de Saint-Augustin, ensuite par des religieuses de cet ordre jusqu'en <date>1854</date>, et depuis cette époque par des sœurs de la Charité de Nevers.</definition>
       <forme_ancienne>- <i>Domus Dei que est Trecis ante Ecclesiam B. Stephani,</i> 
          <date>1189</date> 
@@ -26874,7 +26974,9 @@
          <sm>Jacobins (Les),</sm>
       </vedette>
       <definition>
-         <typologie>couvent</typologie> fondé à <localisation>Troyes</localisation> en <date>1228</date> par Thibault le Posthume, comte de Champagne, sur l'emplacement occupé aujourd'hui par le bâtiment des Archives départementales ; transféré en <date>1766</date> à l'ancienne maison des Carmélites, rue du Bourg-Neuf, aujourd'hui rue du Palais-de-Justice, et supprimé en <date>1790</date>.</definition>
+         <typologie>couvent</typologie> fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> en <date>1228</date> par Thibault le Posthume, comte de Champagne, sur l'emplacement occupé aujourd'hui par le bâtiment des Archives départementales ; transféré en <date>1766</date> à l'ancienne maison des Carmélites, rue du Bourg-Neuf, aujourd'hui rue du Palais-de-Justice, et supprimé en <date>1790</date>.</definition>
   </article>
   <article id="DT10-01608" pg="79">
       <vedette>
@@ -26927,14 +27029,18 @@
          <sm>Janière (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Chennegy</localisation> ; formant un <typologie>ruisseau</typologie> qui afflue à l'Ancre.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Chennegy</commune>
+         </localisation> ; formant un <typologie>ruisseau</typologie> qui afflue à l'Ancre.</definition>
   </article>
   <article id="DT10-01612" pg="79">
       <vedette>
          <sm>Janny,</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Villemereuil</localisation>.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Villemereuil</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-01613" pg="79">
       <vedette>
@@ -27906,7 +28012,9 @@
          <sm>Laigne (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière, affluent</typologie>, de la rive gauche de la Seine ; coule, dans le département des Riceys à <localisation>Polisy</localisation>.</definition>
+         <typologie>rivière, affluent</typologie>, de la rive gauche de la Seine ; coule, dans le département des Riceys à <localisation>
+            <commune precision="certain">Polisy</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Lagnis,</i> 
          <date>632</date> 
          <reference>(Pardessus, <i>Dipl. chart.</i> t. II, p. 15)</reference>.</forme_ancienne>
@@ -28118,7 +28226,9 @@
          <sm>Langres (Évêché de),</sm>
       </vedette>
       <definition>
-         <localisation>Haute-Marne</localisation>.</definition>
+         <localisation>
+            <commune precision="certain">Haute-Marne</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Le dép<sup>t</sup> de l'Aube renferme une partie des anciens archidiaconés de Tonnerre, de Bar-sur-Seine et de Bar-sur-Aube, relevant de cet évêché.</p>
       </commentaire>
@@ -29886,7 +29996,9 @@
          <sm>Longueville,</sm>
       </vedette>
       <definition>
-         <typologie>château</typologie>, écart de la paroisse de <localisation>Longueville</localisation> ; aujourd'hui détruit.</definition>
+         <typologie>château</typologie>, écart de la paroisse de <localisation>
+            <commune precision="certain">Longueville</commune>
+         </localisation> ; aujourd'hui détruit.</definition>
       <forme_ancienne>- <i>Château Longeville,</i> 
          <date>
             <sm>xviii</sm>
@@ -31149,7 +31261,9 @@
          <sm>Malle-Maison (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> dép. de <localisation>Rosnay</localisation> ; aujourd'hui disparu.</definition>
+         <typologie>fief</typologie> dép. de <localisation>
+            <commune precision="certain">Rosnay</commune>
+         </localisation> ; aujourd'hui disparu.</definition>
       <forme_ancienne>- <i>Malle Maison,</i> 
          <date>1620</date> 
          <reference>(reg. d'homm. à M<sup>gr</sup> de Luxembourg)</reference>.</forme_ancienne>
@@ -31196,7 +31310,9 @@
          <sm>Malmaison (La),</sm>
       </vedette>
       <definition>
-         <typologie>hameau ou gagnage</typologie> situé sur l'<localisation>Ardusson</localisation> ; détruit.</definition>
+         <typologie>hameau ou gagnage</typologie> situé sur l'<localisation>
+            <commune precision="certain">Ardusson</commune>
+         </localisation> ; détruit.</definition>
       <forme_ancienne>- <date>1445</date> 
          <reference>(ch. de l'abb. de Saint-Loup)</reference>.</forme_ancienne>
   </article>
@@ -32028,7 +32144,9 @@
          <sm>Martinière (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Bailly</localisation>, de la <localisation>commune de Chauffour</localisation>, <date>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Bailly</commune>
+         </localisation>, de la <localisation>commune de Chauffour</localisation>, <date>
             <sm>xv</sm>
             <sup>e</sup> siècle</date> (inv. des arch. du château de Gérosdot).</definition>
   </article>
@@ -32060,7 +32178,9 @@
          <sm>Marve (La),</sm>
       </vedette>
       <definition>
-         <typologie>partie</typologie> supérieure de l'<localisation>Hozain</localisation>, en amont des sources des Bordes-de-Lantages.</definition>
+         <typologie>partie</typologie> supérieure de l'<localisation>
+            <commune precision="certain">Hozain</commune>
+         </localisation>, en amont des sources des Bordes-de-Lantages.</definition>
       <commentaire>
          <p>- Sa source se trouve à Balnot-la-Grange ; il disparaît après avoir fait tourner le m<sup>in</sup> de Balnot et celui des Lames.</p>
       </commentaire>
@@ -32530,7 +32650,9 @@
          <sm>Meldançon,</sm>
       </vedette>
       <definition>
-         <typologie>moulins</typologie> à <localisation>Troyes</localisation>.</definition>
+         <typologie>moulins</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Molendina Ursariorum, de porta Ursariorum,</i> 
          <date>1171</date> 
          <reference>(ch. de l'abb. de Saint-Loup)</reference>.</forme_ancienne>
@@ -32595,7 +32717,9 @@
          <sm>Ménagerie (La),</sm>
       </vedette>
       <definition>
-         <typologie>écart</typologie> de <localisation>Saint-Aubin</localisation> ; ancienne dépendance du château de la Chapelle-Godefroy.</definition>
+         <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Saint-Aubin</commune>
+         </localisation> ; ancienne dépendance du château de la Chapelle-Godefroy.</definition>
   </article>
   <article id="DT10-01902" pg="96">
       <vedette>
@@ -33717,7 +33841,9 @@
       <vedette>
          <sm>Milleroi (Fontaine de),</sm>
       </vedette>
-      <definition>sur l'emplacement d'un ancien château, à <localisation>Clérey</localisation>.</definition>
+      <definition>sur l'emplacement d'un ancien château, à <localisation>
+            <commune precision="certain">Clérey</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-01943" pg="100">
       <vedette>
@@ -33815,7 +33941,9 @@
          <sm>Minimes (Les),</sm>
       </vedette>
       <definition>
-         <typologie>couvent</typologie> fondé à <localisation>Brienne-le-Château</localisation>, en <date>1625</date>, par Louise de Béon-Luxembourg, épouse de Henri-Auguste de Loménie de Brienne ; converti le <date>1<sup>er</sup> février 1776</date> en une école militaire dans laquelle Napoléon I<sup>er</sup> passa plusieurs années comme élève et supprimée en <date>1790</date>.</definition>
+         <typologie>couvent</typologie> fondé à <localisation>
+            <commune precision="certain">Brienne-le-Château</commune>
+         </localisation>, en <date>1625</date>, par Louise de Béon-Luxembourg, épouse de Henri-Auguste de Loménie de Brienne ; converti le <date>1<sup>er</sup> février 1776</date> en une école militaire dans laquelle Napoléon I<sup>er</sup> passa plusieurs années comme élève et supprimée en <date>1790</date>.</definition>
       <forme_ancienne>- <i>Les Minimes,</i> 
          <date>
             <sm>xviii</sm>
@@ -34105,7 +34233,9 @@
          <sm>Molton (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, affluent de la rive gauche du <localisation>Meldançon</localisation>.</definition>
+         <typologie>ruisseau</typologie>, affluent de la rive gauche du <localisation>
+            <commune precision="certain">Meldançon</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Molton,</i> 
          <date>
             <sm>xviii</sm>
@@ -35055,7 +35185,9 @@
          <sm>Montigny (Ruisseau de),</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la rive droite de l'<localisation>Armance</localisation>.</definition>
+         <typologie>affluent</typologie> de la rive droite de l'<localisation>
+            <commune precision="certain">Armance</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02010" pg="103">
       <vedette>
@@ -35202,7 +35334,9 @@
          <sm>Mont Morvois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>mont</typologie> situé au midi de <localisation>Pont</localisation>, en partie recouvert par une forêt désignée au moyen âge sous le nom de Parc de Pont et faisant partie de l'ancienne seigneurie de cette ville, assise au bas ; ce mont, situé entre les marais de l'Ardusson et ceux de la Seine, a 200 mètres d'altitude.</definition>
+         <typologie>mont</typologie> situé au midi de <localisation>
+            <commune precision="certain">Pont</commune>
+         </localisation>, en partie recouvert par une forêt désignée au moyen âge sous le nom de Parc de Pont et faisant partie de l'ancienne seigneurie de cette ville, assise au bas ; ce mont, situé entre les marais de l'Ardusson et ceux de la Seine, a 200 mètres d'altitude.</definition>
       <forme_ancienne>- <i>Mons Morvei,</i> forêt adjacente à l'Ardusson, <i>nemus de Monte Morvei …</i> et <i>totum mareschium in rivieria Ardutionis loco illi adjacens,</i> 
          <date>1194</date> 
          <reference>(Gall. christ. inst. t. XII, p. 279)</reference>.</forme_ancienne>
@@ -35422,7 +35556,9 @@
          <sm>Montsaujon,</sm>
       </vedette>
       <definition>
-         <typologie>fief détruit</typologie>, relevant de la seigneurie de <localisation>Vendeuvre</localisation> au <date>
+         <typologie>fief détruit</typologie>, relevant de la seigneurie de <localisation>
+            <commune precision="certain">Vendeuvre</commune>
+         </localisation> au <date>
             <sm>xv</sm>
             <sup>e</sup> siècle</date> ; mentionné, en <date>1669</date>, dans la Déclaration des fiefs de la seigneurie de Vendeuvre et disparu vers la <date>fin du <sm>xvii</sm>
             <sup>e</sup> siècle</date>.</definition>
@@ -35825,7 +35961,9 @@
          <sm>Mothe (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sis à <localisation>Aulnay</localisation>.</definition>
+         <typologie>fief</typologie> sis à <localisation>
+            <commune precision="certain">Aulnay</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Motte,</i> 
          <date>1617</date> 
          <reference>(reg. d'homm. à M<sup>gr</sup> de Luxembourg)</reference>.</forme_ancienne>
@@ -35967,7 +36105,9 @@
          <sm>Motte (La),</sm>
       </vedette>
       <definition>
-         <typologie>ancien château</typologie>, derrière l'église de <localisation>Paisy-Cosdon</localisation> ; détruit avant le <date>
+         <typologie>ancien château</typologie>, derrière l'église de <localisation>
+            <commune precision="certain">Paisy-Cosdon</commune>
+         </localisation> ; détruit avant le <date>
             <sm>xvii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>- <i>La Motte</i> 
@@ -35991,7 +36131,9 @@
          <sm>Motte (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> relevant de <localisation>Rosnay</localisation> ; aujourd'hui disparu.</definition>
+         <typologie>fief</typologie> relevant de <localisation>
+            <commune precision="certain">Rosnay</commune>
+         </localisation> ; aujourd'hui disparu.</definition>
       <forme_ancienne>- <i>La Motte,</i> 
          <date>
             <sm>xviii</sm>
@@ -36041,7 +36183,9 @@
          <sm>Motte-Merrey (La),</sm>
       </vedette>
       <definition>
-         <typologie>ancien fief</typologie>, sis à <localisation>Merrey</localisation>.</definition>
+         <typologie>ancien fief</typologie>, sis à <localisation>
+            <commune precision="certain">Merrey</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Motte-Merrey</i> 
          <reference>(mentionné par Coutant, <i>Notice hist. sur Merrey</i>)</reference>.</forme_ancienne>
   </article>
@@ -36387,7 +36531,9 @@
          <sm>Moulin de Chappes (Le),</sm>
       </vedette>
       <definition>
-         <typologie>moulin</typologie>, à <localisation>Chappes</localisation>.</definition>
+         <typologie>moulin</typologie>, à <localisation>
+            <commune precision="certain">Chappes</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Officina molaris,</i> 
          <date>753</date> 
          <reference>(ch. de Chelembert)</reference>.</forme_ancienne>
@@ -36713,7 +36859,9 @@
       <vedette>
          <sm>Moulins à eau,</sm>
       </vedette>
-      <definition>aujourd'hui détruits : - sur l'Alain, à <localisation>Pouy</localisation> ; - sur l'Amance, à <localisation>Amance</localisation> ; - sur l'Ancre, à <localisation>Bercenay-en-Othe</localisation> ; - sur l'Ardusson, à <localisation>Saint-Loup-de-Buffigny</localisation> et à <localisation>Quincey</localisation> ; - sur la Barbuise, celui du Bécheret, un moulin à <localisation>Charmont</localisation> ; - sur la Barse, à la <localisation>Brosse</localisation>, <localisation>commune de Montaulin</localisation> ; au <localisation>Rasle</localisation>, <localisation>commune de Courteranges</localisation> ; à <localisation>Chanteloup</localisation>, <localisation>commune de Lusigny</localisation> ; aux <localisation>Amancières</localisation>, <localisation>commune de Montiéramey</localisation> ; au <localisation>Moulinet</localisation>, <localisation>commune de Briel</localisation> ; le moulin banal du Chêne, <localisation>commune de la Villeneuve</localisation> ; de la Carre, <localisation>commune du Champ-au-Roi</localisation> ; des Grandes-Forges, du Prieuré et de l'Ouzotte, à <localisation>Vendeuvre</localisation> ; - sur la Hurande, à <localisation>Villepart</localisation>, <localisation>commune de Breviandes</localisation> ; - sur le Meldançon, à <localisation>Donnement</localisation> et à <localisation>S<sup>t</sup>-Léger-sous-Margerie</localisation> ; - sur l'Orvin, à <localisation>Bercenay-le-Hayer</localisation> ; - sur le Ravet, à <localisation>Aulnay</localisation> ; - sur la Seine, à <localisation>Saint-Lyé</localisation>, à <localisation>Vermoise</localisation>, à <localisation>Vanne</localisation>, à <localisation>Froide-Rive</localisation>, à <localisation>Culoison</localisation>, à <localisation>Pont-Sainte-Marie</localisation>, à <localisation>Saint-Parres</localisation> (les moulins au Mont) (arch. municip. de Troyes, reg. de la voirie) ; à <localisation>Troyes</localisation>, moulin de Croncels, <date>1419</date> ; les moulins Neufs, créés en <date>1424</date>, brûlés en <date>1524</date> ; à <localisation>Saint-Julien</localisation>, les moulins de Sencey <date>(<sm>xvii</sm>
+      <definition>aujourd'hui détruits : - sur l'Alain, à <localisation>
+            <commune precision="certain">Pouy</commune>
+         </localisation> ; - sur l'Amance, à <localisation>Amance</localisation> ; - sur l'Ancre, à <localisation>Bercenay-en-Othe</localisation> ; - sur l'Ardusson, à <localisation>Saint-Loup-de-Buffigny</localisation> et à <localisation>Quincey</localisation> ; - sur la Barbuise, celui du Bécheret, un moulin à <localisation>Charmont</localisation> ; - sur la Barse, à la <localisation>Brosse</localisation>, <localisation>commune de Montaulin</localisation> ; au <localisation>Rasle</localisation>, <localisation>commune de Courteranges</localisation> ; à <localisation>Chanteloup</localisation>, <localisation>commune de Lusigny</localisation> ; aux <localisation>Amancières</localisation>, <localisation>commune de Montiéramey</localisation> ; au <localisation>Moulinet</localisation>, <localisation>commune de Briel</localisation> ; le moulin banal du Chêne, <localisation>commune de la Villeneuve</localisation> ; de la Carre, <localisation>commune du Champ-au-Roi</localisation> ; des Grandes-Forges, du Prieuré et de l'Ouzotte, à <localisation>Vendeuvre</localisation> ; - sur la Hurande, à <localisation>Villepart</localisation>, <localisation>commune de Breviandes</localisation> ; - sur le Meldançon, à <localisation>Donnement</localisation> et à <localisation>S<sup>t</sup>-Léger-sous-Margerie</localisation> ; - sur l'Orvin, à <localisation>Bercenay-le-Hayer</localisation> ; - sur le Ravet, à <localisation>Aulnay</localisation> ; - sur la Seine, à <localisation>Saint-Lyé</localisation>, à <localisation>Vermoise</localisation>, à <localisation>Vanne</localisation>, à <localisation>Froide-Rive</localisation>, à <localisation>Culoison</localisation>, à <localisation>Pont-Sainte-Marie</localisation>, à <localisation>Saint-Parres</localisation> (les moulins au Mont) (arch. municip. de Troyes, reg. de la voirie) ; à <localisation>Troyes</localisation>, moulin de Croncels, <date>1419</date> ; les moulins Neufs, créés en <date>1424</date>, brûlés en <date>1524</date> ; à <localisation>Saint-Julien</localisation>, les moulins de Sencey <date>(<sm>xvii</sm>
             <sup>e</sup> siècle)</date>, à <localisation>Targes</localisation>, <date>1382</date> (arch. départ. fonds de l'Hôtel-Dieu-le-Comte), à <localisation>Plaines</localisation> ; - sur la Vanne, à <localisation>Cosdon</localisation>, <localisation>commune de Paisy</localisation> ; moulin à foulon, <localisation>au-dessus d'Armentières</localisation>, <localisation>commune de Saint-Benoît-sur-Vanne</localisation> ; à <localisation>Vulaines</localisation>, écart de cette commune ; - sur la Voire, à <localisation>Chalette</localisation>, à <localisation>Bétignicourt</localisation>.</definition>
   </article>
   <article id="DT10-02130" pg="108">
@@ -36738,14 +36886,18 @@
       <vedette>
          <sm>Moulins à vent.</sm>
       </vedette>
-      <definition>- 1 à <localisation>Auzon</localisation>, 1 à <localisation>Brevonne</localisation>, 1 à <localisation>Champfleury</localisation>, 1 à <localisation>Champignolle</localisation>, 1 à <localisation>Chassericourt</localisation>, 1 à <localisation>Cunfin</localisation>, 1 à <localisation>Doches</localisation>, 1 à <localisation>Faux-Villecerf</localisation>, 1 à <localisation>Fontette</localisation>, 1 à <localisation>Villy-le-Maréchal</localisation>, dit <i>de Gizon,</i> 1 à <localisation>Maraye</localisation>, 2 à <localisation>Mesnil-Sellières</localisation>, 1 à <localisation>Pel-et-Der</localisation>, 1 à <localisation>Semoine</localisation>, 1 à <localisation>Thil</localisation>, 1 à <localisation>Villiers-le-Bois</localisation>.</definition>
+      <definition>- 1 à <localisation>
+            <commune precision="certain">Auzon</commune>
+         </localisation>, 1 à <localisation>Brevonne</localisation>, 1 à <localisation>Champfleury</localisation>, 1 à <localisation>Champignolle</localisation>, 1 à <localisation>Chassericourt</localisation>, 1 à <localisation>Cunfin</localisation>, 1 à <localisation>Doches</localisation>, 1 à <localisation>Faux-Villecerf</localisation>, 1 à <localisation>Fontette</localisation>, 1 à <localisation>Villy-le-Maréchal</localisation>, dit <i>de Gizon,</i> 1 à <localisation>Maraye</localisation>, 2 à <localisation>Mesnil-Sellières</localisation>, 1 à <localisation>Pel-et-Der</localisation>, 1 à <localisation>Semoine</localisation>, 1 à <localisation>Thil</localisation>, 1 à <localisation>Villiers-le-Bois</localisation>.</definition>
   </article>
   <article id="DT10-02132" pg="108">
       <vedette>
          <sm>Moulins à vent</sm>
       </vedette>
       <definition>détruits depuis le <date>milieu du <sm>xviii</sm>
-            <sup>e</sup> siècle</date>. - 1 à <localisation>Beauregard</localisation>, <localisation>commune de Laines-aux-Bois</localisation> ; 3 à <localisation>Beurey</localisation>, 1 à <localisation>Blignicourt</localisation>, 3 à <localisation>Bouilly</localisation>, 1 à <localisation>Bouy-Luxembourg</localisation> ; 1 à <localisation>Brantigny</localisation>, <localisation>commune de Piney</localisation>, dit <i>de la Tombelle ;</i> 1 à <localisation>Channes</localisation>, 1 à <localisation>Chanteloup</localisation> (Sainte-Savine), 1 à <localisation>Charmont</localisation>, 1 à <localisation>Chassericourt</localisation>, 1 à <localisation>Coussegrey</localisation>, 1 à <localisation>Créney</localisation>, 1 à <localisation>Dierrey-Saint-Pierre</localisation> ; 1 à <localisation>Galilée</localisation> (Laines-aux-Bois), 2 à <localisation>Gérosdot</localisation>, 1 à <localisation>Jasseines</localisation>, 1 à <localisation>Lantages</localisation>, 1 à <localisation>Laubressel</localisation>, 1 à <localisation>Lévigny</localisation>, 1 à <localisation>Lignol</localisation>, 1 à <localisation>Lirey</localisation>, 1 à <localisation>Longpré</localisation>, 2 à <localisation>Magnant</localisation>, 2 à <localisation>Magny-Fouchard</localisation>, 1 à <localisation>Messon</localisation>, 1 à <localisation>Montaulin</localisation>, 1 à <localisation>Montgueux</localisation>, 1 à <localisation>Montmorency</localisation>, 2 à <localisation>Nuisement</localisation> (le Puits-et-Nuisement), 1 à <localisation>Onjon</localisation>, 1 à <localisation>Pargues</localisation>, 1 au <localisation>Pavillon</localisation>, 1 à <localisation>Piney</localisation>, 1 à <localisation>Poivre</localisation>, 1 à <localisation>Pougy</localisation>, 1 à <localisation>Rance</localisation>, 1 à <localisation>Rosières</localisation>, 1 à <localisation>Sainte-Savine</localisation>, 1 à <localisation>Saint-Usage</localisation>, 1 à <localisation>Thennelières</localisation>, 1 à <localisation>Torvilliers</localisation>, 1 à <localisation>Vauchassis</localisation>, 1 à <localisation>Vauchonvilliers</localisation>, 2 à <localisation>la Vauriot</localisation> (Laines-aux-Bois), 1 à <localisation>Villeloup</localisation>, 1 à <localisation>Ville-sur-Terre</localisation>, 1 à <localisation>Villiers-le-Brûlé</localisation> (Piney), 1 à <localisation>Vitry-le-Croisé</localisation>, 1 à <localisation>Voulgré</localisation>.</definition>
+            <sup>e</sup> siècle</date>. - 1 à <localisation>
+            <commune precision="certain">Beauregard</commune>
+         </localisation>, <localisation>commune de Laines-aux-Bois</localisation> ; 3 à <localisation>Beurey</localisation>, 1 à <localisation>Blignicourt</localisation>, 3 à <localisation>Bouilly</localisation>, 1 à <localisation>Bouy-Luxembourg</localisation> ; 1 à <localisation>Brantigny</localisation>, <localisation>commune de Piney</localisation>, dit <i>de la Tombelle ;</i> 1 à <localisation>Channes</localisation>, 1 à <localisation>Chanteloup</localisation> (Sainte-Savine), 1 à <localisation>Charmont</localisation>, 1 à <localisation>Chassericourt</localisation>, 1 à <localisation>Coussegrey</localisation>, 1 à <localisation>Créney</localisation>, 1 à <localisation>Dierrey-Saint-Pierre</localisation> ; 1 à <localisation>Galilée</localisation> (Laines-aux-Bois), 2 à <localisation>Gérosdot</localisation>, 1 à <localisation>Jasseines</localisation>, 1 à <localisation>Lantages</localisation>, 1 à <localisation>Laubressel</localisation>, 1 à <localisation>Lévigny</localisation>, 1 à <localisation>Lignol</localisation>, 1 à <localisation>Lirey</localisation>, 1 à <localisation>Longpré</localisation>, 2 à <localisation>Magnant</localisation>, 2 à <localisation>Magny-Fouchard</localisation>, 1 à <localisation>Messon</localisation>, 1 à <localisation>Montaulin</localisation>, 1 à <localisation>Montgueux</localisation>, 1 à <localisation>Montmorency</localisation>, 2 à <localisation>Nuisement</localisation> (le Puits-et-Nuisement), 1 à <localisation>Onjon</localisation>, 1 à <localisation>Pargues</localisation>, 1 au <localisation>Pavillon</localisation>, 1 à <localisation>Piney</localisation>, 1 à <localisation>Poivre</localisation>, 1 à <localisation>Pougy</localisation>, 1 à <localisation>Rance</localisation>, 1 à <localisation>Rosières</localisation>, 1 à <localisation>Sainte-Savine</localisation>, 1 à <localisation>Saint-Usage</localisation>, 1 à <localisation>Thennelières</localisation>, 1 à <localisation>Torvilliers</localisation>, 1 à <localisation>Vauchassis</localisation>, 1 à <localisation>Vauchonvilliers</localisation>, 2 à <localisation>la Vauriot</localisation> (Laines-aux-Bois), 1 à <localisation>Villeloup</localisation>, 1 à <localisation>Ville-sur-Terre</localisation>, 1 à <localisation>Villiers-le-Brûlé</localisation> (Piney), 1 à <localisation>Vitry-le-Croisé</localisation>, 1 à <localisation>Voulgré</localisation>.</definition>
   </article>
   <article id="DT10-02133" pg="108">
       <vedette>
@@ -36832,7 +36984,9 @@
       <vedette>
          <sm>Moulins Neufs (Les),</sm>
       </vedette>
-      <definition>construits par les habitants de <localisation>Troyes</localisation> et l'Hôtel-Dieu-le-Comte, en <date>1424</date>, &gt;près de la porte de Croncels et en ville, pour remplacer les moulins de Croncels, détruits en <date>1419</date>.</definition>
+      <definition>construits par les habitants de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> et l'Hôtel-Dieu-le-Comte, en <date>1424</date>, &gt;près de la porte de Croncels et en ville, pour remplacer les moulins de Croncels, détruits en <date>1419</date>.</definition>
       <commentaire>
          <p>Les moulins Neufs, brûlés dans l'incendie de <date>1524</date>, n'ont pas été reconstruits.</p>
       </commentaire>
@@ -37014,7 +37168,9 @@
          <sm>Musseputain,</sm>
       </vedette>
       <definition>
-         <typologie>étang</typologie> à <localisation>Gérosdot</localisation> ; aujourd'hui desséché.</definition>
+         <typologie>étang</typologie> à <localisation>
+            <commune precision="certain">Gérosdot</commune>
+         </localisation> ; aujourd'hui desséché.</definition>
       <forme_ancienne>- <date>1684</date> 
          <reference>(inv. des arch. du chât. de Gérosdot)</reference>.</forme_ancienne>
       <forme_ancienne>- <i>Misseputain.</i>
@@ -37224,7 +37380,9 @@
          <sm>Nemours (Duché-Pairie de),</sm>
       </vedette>
       <definition>
-         <localisation>Seine-et-Marne</localisation>.</definition>
+         <localisation>
+            <commune precision="certain">Seine-et-Marne</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Ce duché-pairie fut érigé en <date>1404</date> par Charles VI en faveur de Charles III, dit le Noble, roi de Navarre, en échange de certaines terres et seigneuries et pour l'abandon de tous ses droits sur le comté de Champagne et de Brie. Outre les domaines situés hors du dép<sup>t</sup> de l'Aube, il comprenait : le château et la châtellenie de Beaufort-en-Champagne (Montmorency depuis <date>1689</date>), la ville de Soulaines, la ville et la châtellenie de Nogent-sur-Seine, la ville et la châtellenie de Pont-sur-Seine, les château, ville et châtellenie de Saint-Florentin, celle-ci renfermant la ville et la châtellenie d'Ervy : tous ces lieux, sauf Saint-Florentin, sont situés dans le dép<sup>t</sup> de l'Aube. Ce duché fut réuni au domaine le <date>8 février 1504</date>, puis reconstitué en <date>1507</date> en faveur de Gaston de Foix. Au <date>
                <sm>xvii</sm>
@@ -37256,7 +37414,9 @@
          <sm>Nesle-la-Réposte,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye O.S.B.</typologie> transférée à <localisation>Villenauxe</localisation> en <date>1670</date> (le village de Nesle est dans le département de Seine-et-Marne).</definition>
+         <typologie>abbaye O.S.B.</typologie> transférée à <localisation>
+            <commune precision="certain">Villenauxe</commune>
+         </localisation> en <date>1670</date> (le village de Nesle est dans le département de Seine-et-Marne).</definition>
       <forme_ancienne>- <i>Nigella,</i> 
          <date>840-855</date> 
          <reference>(cart. de Nesle-la-Réposte)</reference>.</forme_ancienne>
@@ -37783,7 +37943,9 @@
          <sm>Notre-Dame-aux-Nonnains,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye O.S.B.</typologie>, à <localisation>Troyes</localisation>, fondée ou réformée par saint Leuçon, évêque de Troyes, de <date>670</date> à <date>675</date> et supprimée en <date>1790</date>.</definition>
+         <typologie>abbaye O.S.B.</typologie>, à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, fondée ou réformée par saint Leuçon, évêque de Troyes, de <date>670</date> à <date>675</date> et supprimée en <date>1790</date>.</definition>
       <forme_ancienne>- <i>Ecclesia B. Marie Trecensis,</i> 
          <date>1188</date> 
          <reference>(Gall. christ. inst. t. XII, p. 276)</reference>.</forme_ancienne>
@@ -37816,7 +37978,9 @@
          <sm>Notre-Dame-de-Buchères,</sm>
       </vedette>
       <definition>
-         <typologie>église paroissiale</typologie> de <localisation>Buchères</localisation>.</definition>
+         <typologie>église paroissiale</typologie> de <localisation>
+            <commune precision="certain">Buchères</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Elle est isolée, et elle a été reconstruite presque en totalité <date>vers 1845</date>.</p>
       </commentaire>
@@ -38113,7 +38277,9 @@
          <sm>Notre-Dame-en-l'Île,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie> à <localisation>Troyes</localisation>, sur l'emplacement occupé aujourd'hui par le grand séminaire ; fondé en <date>1222</date>, dépend. de l'ordre du Val-des-Écoliers et converti en grand séminaire en <date>1720</date>.</definition>
+         <typologie>prieuré</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, sur l'emplacement occupé aujourd'hui par le grand séminaire ; fondé en <date>1222</date>, dépend. de l'ordre du Val-des-Écoliers et converti en grand séminaire en <date>1720</date>.</definition>
       <forme_ancienne>- <i>Fratres scolarium B. Mariæ in insula,</i> 
          <date>1222</date> 
          <reference>(Camusat, <i>Promptuarium,</i> f° 188)</reference>.</forme_ancienne>
@@ -38143,7 +38309,9 @@
          <sm>Notre-Dame-hors-des-murs,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> fondée à <localisation>Troyes</localisation> peu après l'établissement du christianisme, et qui reçut la dépouille de saint Loup, évêque de Troyes, en <date>479</date>.</definition>
+         <typologie>chapelle</typologie> fondée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> peu après l'établissement du christianisme, et qui reçut la dépouille de saint Loup, évêque de Troyes, en <date>479</date>.</definition>
       <commentaire>
          <p>Suivant d'autres, elle aurait été élevée sur le tombeau de saint Loup, puis devint une abbaye dont Alcuin a été l'un des abbés. Ruinée par les Normands de <date>880</date> à <date>890</date>, ses religieux se réfugièrent dans l'intérieur de la ville, où ils fondèrent l'abbaye de Saint-Loup. L'emplacement de la première fondation fut occupé en <date>1104</date> par un nouvel établissement religieux connu sous le nom de <i>Saint-Martin-ès-Aires :</i> 
             <renvoi>voy. <sm>Saint-Martin-ès-Aires</sm>
@@ -38157,7 +38325,9 @@
       <definition>
          <typologie>chapelle détruite</typologie> au <date>
             <sm>xviii</sm>
-            <sup>e</sup> siècle</date> et située à <localisation>Troyes</localisation> 
+            <sup>e</sup> siècle</date> et située à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> 
          <localisation>près du prieuré de Saint-Blaise</localisation> ; l'emplacement en est occupé aujourd'hui par une partie de la ruelle de la Santé <reference>(plan de 1679, par H. Jaillot)</reference>.</definition>
       <forme_ancienne>- <i>Cappella Sancte Marie deaurate,</i> 
          <date>1117</date> 
@@ -38500,7 +38670,9 @@
          <sm>Ocey,</sm>
       </vedette>
       <definition>
-         <localisation>commune</localisation>.</definition>
+         <localisation>
+            <commune precision="certain">commune</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>
             <renvoi>- Voy. <sm>Ossey-les-Trois-Maisons.</sm>
@@ -38620,7 +38792,9 @@
          <sm>Oratoire (L'),</sm>
       </vedette>
       <definition>
-         <typologie>congrégation de prêtres</typologie> établie à <localisation>Troyes</localisation> en <date>1618</date>, d'abord au palais épiscopal, ensuite rue du Bourg-Neuf (aujourd'hui rue du Palais-de-Justice), maison occupée depuis par les Carmélites ; enfin dans l'hôpital du Saint-Esprit, rue de Croncels, en <date>1630</date>.</definition>
+         <typologie>congrégation de prêtres</typologie> établie à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> en <date>1618</date>, d'abord au palais épiscopal, ensuite rue du Bourg-Neuf (aujourd'hui rue du Palais-de-Justice), maison occupée depuis par les Carmélites ; enfin dans l'hôpital du Saint-Esprit, rue de Croncels, en <date>1630</date>.</definition>
   </article>
   <article id="DT10-02239" pg="115">
       <vedette>
@@ -38963,7 +39137,9 @@
          <sm>Orvin (L'),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, affluent de la rive gauche de la Seine ; prend sa source à <localisation>Somme-Fontaine</localisation> et se jette dans la Seine à <localisation>Villiers-sur-Marne</localisation> (Seine-et-Marne).</definition>
+         <typologie>ruisseau</typologie>, affluent de la rive gauche de la Seine ; prend sa source à <localisation>
+            <commune precision="certain">Somme-Fontaine</commune>
+         </localisation> et se jette dans la Seine à <localisation>Villiers-sur-Marne</localisation> (Seine-et-Marne).</definition>
       <forme_ancienne>- <i>Alve,</i> 
          <date>1173</date> 
          <reference>(fonds de l'évêché de Troyes, arch. de l'Aube)</reference>.</forme_ancienne>
@@ -39051,7 +39227,9 @@
          <sm>Othe (Forêt</sm> ou <sm>contrée d'),</sm>
       </vedette>
       <definition>
-         <typologie>région naturelle</typologie> ou <i>pagus,</i> d'une altitude moyenne de 50<sup>m</sup> au-dessus de la plaine de <localisation>Troyes</localisation> ; comprend, dans le département de l'Aube, les <localisation>cantons d'Aix-en-Othe et d'Estissac</localisation>, puis s'étend vers l'O. dans le département de l'Yonne.</definition>
+         <typologie>région naturelle</typologie> ou <i>pagus,</i> d'une altitude moyenne de 50<sup>m</sup> au-dessus de la plaine de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> ; comprend, dans le département de l'Aube, les <localisation>cantons d'Aix-en-Othe et d'Estissac</localisation>, puis s'étend vers l'O. dans le département de l'Yonne.</definition>
       <forme_ancienne>- <i>Utta silva,</i> 
          <date>841</date> 
          <reference>(Nithard)</reference>.</forme_ancienne>
@@ -39107,7 +39285,9 @@
          <sm>Ource (L')</sm> ou <sm>Ourse,</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la rive droite de la Seine ; prend sa source à <localisation>Poinçon</localisation> (Haute-Marne) et se jette dans la Seine à <localisation>Merrey</localisation>.</definition>
+         <typologie>affluent</typologie> de la rive droite de la Seine ; prend sa source à <localisation>
+            <commune precision="certain">Poinçon</commune>
+         </localisation> (Haute-Marne) et se jette dans la Seine à <localisation>Merrey</localisation>.</definition>
       <forme_ancienne>- <i>Uxa,</i> 
          <date>1111</date> 
          <reference>(cart. de l'abb. de Molême)</reference>.</forme_ancienne>
@@ -39174,7 +39354,9 @@
          <sm>Ouzotte (L')</sm> ou <sm>la Lousotte,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, affluent de la rive gauche de la Barse ; mieux une des sources de cette rivière à <localisation>Vendeuvre</localisation>.</definition>
+         <typologie>ruisseau</typologie>, affluent de la rive gauche de la Barse ; mieux une des sources de cette rivière à <localisation>
+            <commune precision="certain">Vendeuvre</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02264" pg="116">
       <vedette>
@@ -39770,13 +39952,17 @@
   <article id="DT10-02295" pg="118">
       <vedette>
          <sm>Passages à niveau du chemin de fer de Troyes à Châtillon-sur-Seine.</sm>&gt;</vedette>
-      <definition>- <localisation>Saint-Julien</localisation>, <localisation>Breviandes</localisation> (n<sup>os</sup> 1 et 2), <localisation>Buchères</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Saint-Thibault</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Clérey</localisation> (n<sup>os</sup> 1 et 2), <localisation>Vaudes</localisation>, <localisation>Saint-Parres-lez-Vaudes</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Chappes</localisation> (n° 1), <localisation>Rumilly-lez-Vaudes</localisation>, <localisation>Chappes</localisation> (n° 2), <localisation>Fouchères</localisation> (n<sup>os</sup> 1 et 2), <localisation>Courtenot</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Bourguignons</localisation> (n<sup>os</sup> 1 et 2).</definition>
+      <definition>- <localisation>
+            <commune precision="certain">Saint-Julien</commune>
+         </localisation>, <localisation>Breviandes</localisation> (n<sup>os</sup> 1 et 2), <localisation>Buchères</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Saint-Thibault</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Clérey</localisation> (n<sup>os</sup> 1 et 2), <localisation>Vaudes</localisation>, <localisation>Saint-Parres-lez-Vaudes</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Chappes</localisation> (n° 1), <localisation>Rumilly-lez-Vaudes</localisation>, <localisation>Chappes</localisation> (n° 2), <localisation>Fouchères</localisation> (n<sup>os</sup> 1 et 2), <localisation>Courtenot</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Bourguignons</localisation> (n<sup>os</sup> 1 et 2).</definition>
   </article>
   <article id="DT10-02296" pg="118">
       <vedette>
          <sm>Passages à niveau du chemin de fer d'Orléans à Châlons-sur-Marne.</sm>
       </vedette>
-      <definition>- <localisation>Vulaines</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Saint-Benoît-sur-Vanne</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7), <localisation>Paisy-Cosdon</localisation> (n<sup>os</sup> 1, 2), <localisation>Villemaur</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7), <localisation>Neuville</localisation> (n<sup>os</sup> 1, 2), <localisation>Estissac</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Bucey</localisation> (n° 1), <localisation>Fontvanne</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Messon</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Torvilliers</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Sainte-Savine</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Troyes</localisation> (n° 1), <localisation>la Chapelle-Saint-Luc</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Lavau</localisation> (n° 1), <localisation>Pont-Sainte-Marie</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Créney</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7, 8, 9), <localisation>Assencières</localisation> (n<sup>os</sup> 1, 2), <localisation>Luyères</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Fontaine-Luyères</localisation> (n° 1), <localisation>Charmont</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7, 8, 9), <localisation>Montsuzain</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Voué</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Saint-Étienne-sous-Barbuise</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Saint-Remy-sous-Barbuise</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Nozay</localisation> (n<sup>os</sup> 1, 2), <localisation>Villette</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Arcis</localisation> (n<sup>os</sup> 1, 2), <localisation>Ormes</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Allibaudières</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Herbisse</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Villiers-Herbisse</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Mailly</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5).</definition>
+      <definition>- <localisation>
+            <commune precision="certain">Vulaines</commune>
+         </localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Saint-Benoît-sur-Vanne</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7), <localisation>Paisy-Cosdon</localisation> (n<sup>os</sup> 1, 2), <localisation>Villemaur</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7), <localisation>Neuville</localisation> (n<sup>os</sup> 1, 2), <localisation>Estissac</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Bucey</localisation> (n° 1), <localisation>Fontvanne</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Messon</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Torvilliers</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Sainte-Savine</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Troyes</localisation> (n° 1), <localisation>la Chapelle-Saint-Luc</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Lavau</localisation> (n° 1), <localisation>Pont-Sainte-Marie</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Créney</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7, 8, 9), <localisation>Assencières</localisation> (n<sup>os</sup> 1, 2), <localisation>Luyères</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Fontaine-Luyères</localisation> (n° 1), <localisation>Charmont</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5, 6, 7, 8, 9), <localisation>Montsuzain</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Voué</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Saint-Étienne-sous-Barbuise</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Saint-Remy-sous-Barbuise</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Nozay</localisation> (n<sup>os</sup> 1, 2), <localisation>Villette</localisation> (n<sup>os</sup> 1, 2, 3, 4), <localisation>Arcis</localisation> (n<sup>os</sup> 1, 2), <localisation>Ormes</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Allibaudières</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Herbisse</localisation> (n<sup>os</sup> 1, 2, 3), <localisation>Villiers-Herbisse</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5), <localisation>Mailly</localisation> (n<sup>os</sup> 1, 2, 3, 4, 5).</definition>
   </article>
   <article id="DT10-02297" pg="118">
       <vedette>
@@ -40297,7 +40483,9 @@
          <sm>Perrosel,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, affluent de l'Aube au-dessous du <localisation>Mesnil-Aubert</localisation>.</definition>
+         <typologie>ruisseau</typologie>, affluent de l'Aube au-dessous du <localisation>
+            <commune precision="certain">Mesnil-Aubert</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Rivus qui dicitur Perrosel,</i> 
          <date>1143</date> 
          <reference>(ch. de l'abbaye de Basse-Fontaine)</reference>.</forme_ancienne>
@@ -40518,7 +40706,9 @@
       <vedette>
          <sm>Petite-Ourse (Étang de la),</sm>
       </vedette>
-      <definition>dans la <typologie>forêt</typologie> d'<localisation>Orient</localisation>.</definition>
+      <definition>dans la <typologie>forêt</typologie> d'<localisation>
+            <commune precision="certain">Orient</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02336" pg="120">
       <vedette>
@@ -40544,7 +40734,9 @@
          <sm>Petit-Molême (Le)</sm> ou <sm>Petit couvent de Ricey,</sm>
       </vedette>
       <definition>
-         <typologie>maison avec chapelle</typologie>, celliers, dépendant de l'abbaye de Molême, fondée <date>vers 1245</date> dans l'île Saint-Louis, à l'entrée de <localisation>Ricey-Haut</localisation> (Lalore, <i>Riciacus</i>).</definition>
+         <typologie>maison avec chapelle</typologie>, celliers, dépendant de l'abbaye de Molême, fondée <date>vers 1245</date> dans l'île Saint-Louis, à l'entrée de <localisation>
+            <commune precision="certain">Ricey-Haut</commune>
+         </localisation> (Lalore, <i>Riciacus</i>).</definition>
   </article>
   <article id="DT10-02339" pg="120">
       <vedette>
@@ -40575,7 +40767,9 @@
          <sm>Petit-Moûtier-Saint-Jean (Le),</sm>
       </vedette>
       <definition>
-         <typologie>maison avec chapelle</typologie>, aux <localisation>Riceys</localisation>, où descendait l'abbé de Moûtier-Saint-Jean au <date>
+         <typologie>maison avec chapelle</typologie>, aux <localisation>
+            <commune precision="certain">Riceys</commune>
+         </localisation>, où descendait l'abbé de Moûtier-Saint-Jean au <date>
             <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
   </article>
@@ -41244,7 +41438,9 @@
       <vedette>
          <sm>Planche-Rozet (Cens de),</sm>
       </vedette>
-      <definition>vers <localisation>Sainte-Maure</localisation>.</definition>
+      <definition>vers <localisation>
+            <commune precision="certain">Sainte-Maure</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Planchia Roseti,</i> 
          <date>1469</date> 
          <reference>(arch. de l'Aube, G. 1470)</reference>.</forme_ancienne>
@@ -41650,7 +41846,9 @@
          <sm>Poêle (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie>, à <localisation>Chamoy</localisation>.</definition>
+         <typologie>fontaine</typologie>, à <localisation>
+            <commune precision="certain">Chamoy</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Sources de la Tremagne, nombreuses, abondantes, au milieu d'un espace marécageux.</p>
       </commentaire>
@@ -41716,7 +41914,9 @@
          <sm>Pointe-à-l'Ange (La),</sm>
       </vedette>
       <definition>
-         <typologie>partie</typologie> de <localisation>Saint-Martin-ès-Vignes</localisation>.</definition>
+         <typologie>partie</typologie> de <localisation>
+            <commune precision="certain">Saint-Martin-ès-Vignes</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- Cette pointe est celle qui est formée par la rue de la Cité ou de Paris et la rue du Marché Rupt ou Saint-Martin, en face du petit séminaire ou ancienne préceptorerie de Saint-Antoine.</p>
       </commentaire>
@@ -42094,7 +42294,9 @@
          <sm>Pont d'Aube,</sm>
       </vedette>
       <definition>
-         <typologie>pont</typologie> sur des noues de <localisation>Nogent-sur-Seine</localisation>.</definition>
+         <typologie>pont</typologie> sur des noues de <localisation>
+            <commune precision="certain">Nogent-sur-Seine</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- L'Aube se réunit à la Seine à environ 6 kilom. en amont de ce pont.</p>
       </commentaire>
@@ -43368,7 +43570,9 @@
          <sm>Prieuré (Le),</sm>
       </vedette>
       <definition>
-         <typologie>écart</typologie> de <localisation>Montier-en-l'Île</localisation>.</definition>
+         <typologie>écart</typologie> de <localisation>
+            <commune precision="certain">Montier-en-l'Île</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02504" pg="129">
       <vedette>
@@ -44350,7 +44554,9 @@
          <sm>Ravelin (Le),</sm>
       </vedette>
       <definition>
-         <typologie>quartier</typologie> de <localisation>Troyes</localisation>, dont l'emplacement est occupé aujourd'hui par les réservoirs des fontaines Jaillant Deschainets.</definition>
+         <typologie>quartier</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, dont l'emplacement est occupé aujourd'hui par les réservoirs des fontaines Jaillant Deschainets.</definition>
       <commentaire>
          <p>Au <date>
                <sm>xv</sm>
@@ -45386,7 +45592,9 @@
          <sm>Roche,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, relevant de <localisation>Barbuise</localisation>.</definition>
+         <typologie>fief</typologie>, relevant de <localisation>
+            <commune precision="certain">Barbuise</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Roche-sous-Barbuise,</i> 
          <date>
             <sm>xvi</sm>
@@ -45583,7 +45791,9 @@
          <sm>Roize (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie>, à <localisation>Trouan-le-Grand</localisation>.</definition>
+         <typologie>fontaine</typologie>, à <localisation>
+            <commune precision="certain">Trouan-le-Grand</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02634" pg="136">
       <vedette>
@@ -46118,7 +46328,9 @@
          <sm>Rôtures (Les),</sm>
       </vedette>
       <definition>
-         <typologie>contrée rurale</typologie> au levant d'<localisation>Essoyes</localisation>, sur la voie romaine de cette ville à <localisation>Bar-sur-Aube</localisation>.</definition>
+         <typologie>contrée rurale</typologie> au levant d'<localisation>
+            <commune precision="certain">Essoyes</commune>
+         </localisation>, sur la voie romaine de cette ville à <localisation>Bar-sur-Aube</localisation>.</definition>
       <commentaire>
          <p>- Station gallo-romaine avec substructions importantes.</p>
       </commentaire>
@@ -46548,7 +46760,9 @@
          <sm>Ru des Vignes (Le),</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de la Laine, à <localisation>Soulaines</localisation>.</definition>
+         <typologie>affluent</typologie> de la Laine, à <localisation>
+            <commune precision="certain">Soulaines</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02679" pg="139">
       <vedette>
@@ -46679,7 +46893,9 @@
       <vedette>
          <sm>Rués (Fontaine des),</sm>
       </vedette>
-      <definition>à <localisation>Pouan</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Pouan</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02692" pg="139">
       <vedette>
@@ -47030,7 +47246,9 @@
       <vedette>
          <sm>Saint-Abraham (Hôpital de),</sm>
       </vedette>
-      <definition>fondé à <localisation>Troyes</localisation> en <date>1179</date> par Henri I<sup>er</sup>, comte de Champagne, dans la rue de la Rouairie (aujourd'hui rue Jaillant-Deschainets), converti au <date>
+      <definition>fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> en <date>1179</date> par Henri I<sup>er</sup>, comte de Champagne, dans la rue de la Rouairie (aujourd'hui rue Jaillant-Deschainets), converti au <date>
             <sm>xvi</sm>
             <sup>e</sup> siècle</date> en une communauté de Filles Repenties, transporté ensuite à Saint-Martin-ès-Aires et consacré aux jeunes orphelines ; réuni aux autres hôpitaux de Troyes en <date>1630</date>, il dépend aujourd'hui de l'administration des hospices.</definition>
       <forme_ancienne>- <i>Domus de Sancti Abraham,</i> 
@@ -47079,7 +47297,9 @@
          <sm>Saint-André-du-Châtelot,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne paroisse</typologie> réunie à la <localisation>Villeneuve-au-Châtelot</localisation> le <date>26 juin 1665</date>.</definition>
+         <typologie>ancienne paroisse</typologie> réunie à la <localisation>
+            <commune precision="certain">Villeneuve-au-Châtelot</commune>
+         </localisation> le <date>26 juin 1665</date>.</definition>
       <forme_ancienne>- <i>S. Andræas de Villanova,</i> 
          <date>
             <sm>xvii</sm>
@@ -47135,7 +47355,9 @@
          <sm>Saint-Antoine,</sm>
       </vedette>
       <definition>
-         <typologie>préceptorerie ou commanderie</typologie> fondée à <localisation>Troyes</localisation> au <date>
+         <typologie>préceptorerie ou commanderie</typologie> fondée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> au <date>
             <sm>xiii</sm>
             <sup>e</sup>
          </date> ou au <date>
@@ -47408,7 +47630,9 @@
       <vedette>
          <sm>Saint-Bernard (Hôpital),</sm>
       </vedette>
-      <definition>fondé à <localisation>Troyes</localisation> au <date>
+      <definition>fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> au <date>
             <sm>x</sm>
             <sup>e</sup> siècle</date> sur la place de l'Ancien Marché au blé, maison n° 20, et se poursuivant sur l'emplacement de l'hôtel de France, rue de la Monnaie n° 23, par saint Bernard, archidiacre d'Aoste, en Piémont, d'après Courtalon ; réuni aux hospices de Troyes en <date>1630</date>.</definition>
       <forme_ancienne>- <i>Trecensis hospitalis quod in Foro situm est,</i> 
@@ -47523,7 +47747,9 @@
       <vedette>
          <sm>Saint-Clair (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Moussey</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Moussey</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>- On attribue à ses eaux la propriété de guérir les maladies d'yeux.</p>
          <p>C'est un ancien lieu de pèlerinage.</p>
@@ -47792,7 +48018,9 @@
       <vedette>
          <sm>Sainte-Claire (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Merrey</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Merrey</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02755" pg="142">
       <vedette>
@@ -47818,7 +48046,9 @@
          <sm>Sainte-Élisabeth (Ruisseau de),</sm>
       </vedette>
       <definition>
-         <typologie>affluent</typologie> de l'Orvin, au N.-E. de <localisation>Soligny</localisation>.</definition>
+         <typologie>affluent</typologie> de l'Orvin, au N.-E. de <localisation>
+            <commune precision="certain">Soligny</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02757" pg="142">
       <vedette>
@@ -47929,7 +48159,9 @@
          <sm>Sainte-Jule,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> fondée <date>vers 1600</date> à <localisation>Saint-Martin-ès-Vignes</localisation>, <localisation>faubourg de Troyes</localisation>, et sur l'emplacement de l'ancienne église de Saint-Martin, démolie en <date>1590</date> et occupant tout le N. de la rue Sainte-Jule ; elle était détruite <date>avant 1830</date> et avait remplacé une autre chapelle voisine existant au <date>
+         <typologie>chapelle</typologie> fondée <date>vers 1600</date> à <localisation>
+            <commune precision="certain">Saint-Martin-ès-Vignes</commune>
+         </localisation>, <localisation>faubourg de Troyes</localisation>, et sur l'emplacement de l'ancienne église de Saint-Martin, démolie en <date>1590</date> et occupant tout le N. de la rue Sainte-Jule ; elle était détruite <date>avant 1830</date> et avait remplacé une autre chapelle voisine existant au <date>
             <sm>xii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>- <i>Capella Sancte Julie,</i> 
@@ -48024,7 +48256,9 @@
          <sm>Sainte-Philomène,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> construite à l'O. de <localisation>Neuville-sur-Seine</localisation> 
+         <typologie>chapelle</typologie> construite à l'O. de <localisation>
+            <commune precision="certain">Neuville-sur-Seine</commune>
+         </localisation> 
          <date>vers 1852</date>.</definition>
   </article>
   <article id="DT10-02770" pg="143">
@@ -48040,7 +48274,9 @@
          <sm>Sainte-Reine,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle et fontaine</typologie>, à <localisation>Roche</localisation>, <localisation>commune d'Isle-Aumont</localisation>.</definition>
+         <typologie>chapelle et fontaine</typologie>, à <localisation>
+            <commune precision="certain">Roche</commune>
+         </localisation>, <localisation>commune d'Isle-Aumont</localisation>.</definition>
       <forme_ancienne>- <i>Sainte-Reine,</i> 
          <date>
             <sm>xviii</sm>
@@ -48051,14 +48287,18 @@
       <vedette>
          <sm>Sainte-Reine (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Brevonne</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Brevonne</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02773" pg="143">
       <vedette>
          <sm>Sainte-Sabine,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> à <localisation>Ricey-Haute-Rive</localisation>.</definition>
+         <typologie>chapelle</typologie> à <localisation>
+            <commune precision="certain">Ricey-Haute-Rive</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Sainte-Sabine,</i> 
          <date>
             <sm>xviii</sm>
@@ -48127,7 +48367,9 @@
       <vedette>
          <sm>Saint-Esprit (Hôpital du),</sm>
       </vedette>
-      <definition>fondé à <localisation>Troyes</localisation> 
+      <definition>fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> 
          <date>avant 1203</date>, d'abord près de l'église Saint-Gilles, ensuite, en <date>1417</date>, sur l'emplacement occupé aujourd'hui par la caserne de l'Oratoire ; cédé aux Pères de l'Oratoire en <date>1620</date>.</definition>
       <forme_ancienne>- <i>Domus pauperum Sancti Spiritus,</i> 
          <date>1203</date> 
@@ -48280,7 +48522,9 @@
          <sm>Saint-Étienne,</sm>
       </vedette>
       <definition>
-         <typologie>collégiale</typologie> élevée à <localisation>Troyes</localisation> par le comte Henri le Libéral en <date>1157</date>.</definition>
+         <typologie>collégiale</typologie> élevée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> par le comte Henri le Libéral en <date>1157</date>.</definition>
       <commentaire>
          <p>Est dite : « près la cité de Troyes, » en <date>1209</date> (arch. départ. bulle d'Innocent III, G. 22) ; fut plus tard renfermée dans l'enceinte de la ville.</p>
       </commentaire>
@@ -48460,7 +48704,9 @@
          <sm>Saint-Flavit,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie> de <localisation>Villemaur</localisation>, dépendant de Montier-la-Celle ; détruit au <date>
+         <typologie>prieuré</typologie> de <localisation>
+            <commune precision="certain">Villemaur</commune>
+         </localisation>, dépendant de Montier-la-Celle ; détruit au <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>- <i>Sanctus Flavitus de Villemaura,</i> 
@@ -48532,7 +48778,9 @@
          <sm>Saint-Georges,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie> de <localisation>Vendeuvre</localisation>, dépendant de l'abbaye de Cluny, fondé <date>vers 1080</date> par Hugues, comte de Troyes ; supprimé en <date>1790</date>.</definition>
+         <typologie>prieuré</typologie> de <localisation>
+            <commune precision="certain">Vendeuvre</commune>
+         </localisation>, dépendant de l'abbaye de Cluny, fondé <date>vers 1080</date> par Hugues, comte de Troyes ; supprimé en <date>1790</date>.</definition>
   </article>
   <article id="DT10-02801" pg="145">
       <vedette>
@@ -48675,7 +48923,9 @@
          <sm>Saint-Gilles,</sm>
       </vedette>
       <definition>
-         <typologie>quartier</typologie> de <localisation>Croncels</localisation>, <typologie>faubourg</typologie> de <localisation>Troyes</localisation> ; ancienne paroisse, ancienne commune de <date>1790</date> à l'<date>an <sm>ix</sm>
+         <typologie>quartier</typologie> de <localisation>
+            <commune precision="certain">Croncels</commune>
+         </localisation>, <typologie>faubourg</typologie> de <localisation>Troyes</localisation> ; ancienne paroisse, ancienne commune de <date>1790</date> à l'<date>an <sm>ix</sm>
          </date>.</definition>
       <forme_ancienne>- <i>Sanctus Egidius,</i> 
          <date>1153</date> 
@@ -48993,7 +49243,9 @@
          <sm>Saint-Jean,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> à l'extrémité de <localisation>Soulaines</localisation> ; ancienne maladrerie ; aujourd'hui détruite.</definition>
+         <typologie>chapelle</typologie> à l'extrémité de <localisation>
+            <commune precision="certain">Soulaines</commune>
+         </localisation> ; ancienne maladrerie ; aujourd'hui détruite.</definition>
       <forme_ancienne>- <i>Chapelle de Saint-Jean,</i> 
          <date>
             <sm>xviii</sm>
@@ -49004,7 +49256,9 @@
       <vedette>
          <sm>Saint-Jean (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Doches</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Doches</commune>
+         </localisation>.</definition>
   </article>
   <article type="commune" id="DT10-02828" pg="146">
       <vedette>
@@ -49071,7 +49325,9 @@
          <sm>Saint-Jean-en-Châtel,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie> à <localisation>Troyes</localisation>, fondé <date>vers 871</date> par les religieux de Montiéramey sur l'emplacement occupé aujourd'hui par une belle habitation particulière, place de la Tour ; nommé aussi <i>Prieuré de Saint-Blaise,</i> à partir de <date>1248</date>.</definition>
+         <typologie>prieuré</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, fondé <date>vers 871</date> par les religieux de Montiéramey sur l'emplacement occupé aujourd'hui par une belle habitation particulière, place de la Tour ; nommé aussi <i>Prieuré de Saint-Blaise,</i> à partir de <date>1248</date>.</definition>
       <commentaire>
          <p>Dépendant de l'abbaye de Montiéramey. Au <date>
                <sm>xvii</sm>
@@ -49358,7 +49614,9 @@
          <sm>Saint-Léon,</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Thennelières</localisation>, formant le ru ou ruisseau de Saint-Blaise, qui se jette dans la Vieille-Seine au <localisation>Pont-Hubert</localisation>.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Thennelières</commune>
+         </localisation>, formant le ru ou ruisseau de Saint-Blaise, qui se jette dans la Vieille-Seine au <localisation>Pont-Hubert</localisation>.</definition>
   </article>
   <article id="DT10-02842" pg="147">
       <vedette>
@@ -49386,7 +49644,9 @@
          <sm>Saint-Louis,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> à <localisation>Jully-sur-Sarce</localisation> ; détruite en <date>1821</date>.</definition>
+         <typologie>chapelle</typologie> à <localisation>
+            <commune precision="certain">Jully-sur-Sarce</commune>
+         </localisation> ; détruite en <date>1821</date>.</definition>
       <commentaire>
          <p>- C'est l'emplacement du presbytère actuel de Jully.</p>
       </commentaire>
@@ -49396,7 +49656,9 @@
          <sm>Saint-Loup,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye O.S.A.</typologie> à <localisation>Troyes</localisation>, fondée en <date>1135</date> sur l'emplacement de la bibliothèque publique actuelle.</definition>
+         <typologie>abbaye O.S.A.</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, fondée en <date>1135</date> sur l'emplacement de la bibliothèque publique actuelle.</definition>
       <commentaire>
          <p>Cette maison occupa d'abord l'emplacement de l'abbaye de Saint-Martin-ès-Aires ; son origine <pg>148</pg>daterait des premiers temps du christianisme à Troyes, ou de la mort de saint Loup ; elle portait alors le nom de <i>Notre-Dame-hors-les-Murs.</i>
          </p>
@@ -49645,25 +49907,33 @@
       <vedette>
          <sm>Saint-Martin (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Brevonne</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Brevonne</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02857" pg="148">
       <vedette>
          <sm>Saint-Martin (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Lusigny</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Lusigny</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02858" pg="148">
       <vedette>
          <sm>Saint-Martin (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Moussey</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Moussey</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02859" pg="148">
       <vedette>
          <sm>Saint-Martin (Fontaine de),</sm>
       </vedette>
-      <definition>à <localisation>Rigny-le-Ferron</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Rigny-le-Ferron</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-02860" pg="149">
       <vedette>
@@ -49742,7 +50012,9 @@
          <sm>Saint-Martin-ès-Aires,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye O.S.A.</typologie> à <localisation>Troyes</localisation>, fondée en <date>1104</date> sur l'emplacement de la primitive abbaye de Saint-Loup, fondée <date>avant 480</date> sous le vocable de <i>Notre-Dame-hors-les-Murs ;</i> elle a été supprimée en <date>1790</date>.</definition>
+         <typologie>abbaye O.S.A.</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, fondée en <date>1104</date> sur l'emplacement de la primitive abbaye de Saint-Loup, fondée <date>avant 480</date> sous le vocable de <i>Notre-Dame-hors-les-Murs ;</i> elle a été supprimée en <date>1790</date>.</definition>
       <forme_ancienne>- <i>Sanctus Martinus de Areis,</i> 
          <date>1117</date> 
          <reference>(ch. de l'abb. de Montiéramey)</reference>.</forme_ancienne>
@@ -50056,7 +50328,9 @@
          <sm>Saint-Nicolas,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie> à <localisation>Allibaudières</localisation>, dép. de l'abbaye de Chantemerle ; aujourd'hui détruit.</definition>
+         <typologie>prieuré</typologie> à <localisation>
+            <commune precision="certain">Allibaudières</commune>
+         </localisation>, dép. de l'abbaye de Chantemerle ; aujourd'hui détruit.</definition>
       <forme_ancienne>- <i>Domus de abbatia de Cantumerula,</i> 
          <date>1407</date> 
          <reference>(pouillé)</reference>.</forme_ancienne>
@@ -50173,7 +50447,9 @@
       <vedette>
          <sm>Saint-Nicolas (Hôpital de),</sm>
       </vedette>
-      <definition>fondé à <localisation>Troyes</localisation>, près de la cathédrale et sur le territoire du chapitre, <date>avant 1205</date> ; aujourd'hui consacré aux vieillards et aux jeunes orphelins.</definition>
+      <definition>fondé à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, près de la cathédrale et sur le territoire du chapitre, <date>avant 1205</date> ; aujourd'hui consacré aux vieillards et aux jeunes orphelins.</definition>
       <forme_ancienne>- <i>Domus pauperum beati Nicolai Trecensis de sub Porta Episcopi,</i> 
          <date>1217</date> 
          <reference>(fonds des hospices de Troyes)</reference>.</forme_ancienne>
@@ -50617,7 +50893,9 @@
       <vedette>
          <sm>Saint-Quentin,</sm>
       </vedette>
-      <definition>d'abord <typologie>abbaye de femmes</typologie> à <localisation>Troyes</localisation>, au <date>
+      <definition>d'abord <typologie>abbaye de femmes</typologie> à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, au <date>
             <sm>vii</sm>
             <sup>e</sup> siècle</date>, O.S.B. ; puis <typologie>prieuré d'hommes</typologie> au <date>
             <sm>xii</sm>
@@ -50646,7 +50924,9 @@
       <vedette>
          <sm>Saint-Quentin (Moulins de),</sm>
       </vedette>
-      <definition>à <localisation>Troyes</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Molendini Sancti Quintini,</i> 
          <date>1151</date> 
          <reference>(cart. de la léproserie de Troyes)</reference>.</forme_ancienne>
@@ -51104,7 +51384,9 @@
          <sm>Saint-Vincent,</sm>
       </vedette>
       <definition>
-         <typologie>ancien fief</typologie>, à <localisation>Ricey-Haut</localisation>, dit aussi <i>le parcours Saint-Vincent,</i> sur la rivière de la Laigne, au nord de l'église, dans l'emplacement appelé encore aujourd'hui <i>le Vieux-Château,</i> comprenant : 1° les villages de Riceys, Lannes, Bagneux, Beauvoir, Bragelogne ; 2° le <i>percursus</i> ou <i>parcours,</i> dit <i>parcours Saint-Vincent ;</i> 3° le grand terrage de Molême et de Channes (l'abbé Lalore, <i>Reciacus</i>).</definition>
+         <typologie>ancien fief</typologie>, à <localisation>
+            <commune precision="certain">Ricey-Haut</commune>
+         </localisation>, dit aussi <i>le parcours Saint-Vincent,</i> sur la rivière de la Laigne, au nord de l'église, dans l'emplacement appelé encore aujourd'hui <i>le Vieux-Château,</i> comprenant : 1° les villages de Riceys, Lannes, Bagneux, Beauvoir, Bragelogne ; 2° le <i>percursus</i> ou <i>parcours,</i> dit <i>parcours Saint-Vincent ;</i> 3° le grand terrage de Molême et de Channes (l'abbé Lalore, <i>Reciacus</i>).</definition>
   </article>
   <article id="DT10-02943" pg="153">
       <vedette>
@@ -51678,7 +51960,9 @@
          <sm>Seine (La),</sm>
       </vedette>
       <definition>
-         <typologie>fleuve</typologie> qui entre dans le département de l'Aube à <localisation>Mussy-sur-Seine</localisation>, arrose <localisation>Bar-sur-Seine, Troyes, Méry, Romilly, Pont et Nogent</localisation>, et entre dans le département de Seine-et-Marne en arrosant le <localisation>territoire de Villiers-sur-Seine</localisation>.</definition>
+         <typologie>fleuve</typologie> qui entre dans le département de l'Aube à <localisation>
+            <commune precision="certain">Mussy-sur-Seine</commune>
+         </localisation>, arrose <localisation>Bar-sur-Seine, Troyes, Méry, Romilly, Pont et Nogent</localisation>, et entre dans le département de Seine-et-Marne en arrosant le <localisation>territoire de Villiers-sur-Seine</localisation>.</definition>
       <forme_ancienne>- <i>Sequana,</i> 
          <date>vers 50 avant J.-C.</date> 
          <reference>(Commentaires de César)</reference>.</forme_ancienne>
@@ -52841,7 +53125,9 @@
       <vedette>
          <sm>Tertre :</sm>
       </vedette>
-      <definition>on nomme <i>tertres,</i> en <localisation>Champagne</localisation>, des parties de terrain servant de limites aux territoires de paroisses, communes, villages, hameaux, fermes.</definition>
+      <definition>on nomme <i>tertres,</i> en <localisation>
+            <commune precision="certain">Champagne</commune>
+         </localisation>, des parties de terrain servant de limites aux territoires de paroisses, communes, villages, hameaux, fermes.</definition>
       <commentaire>
          <p>
             <renvoi>- Voy. : <sm>Chasse, Fin, Ran, Randon,</sm> etc.</renvoi>
@@ -52889,7 +53175,9 @@
       <vedette>
          <sm>Teurée, Theulée, Theurée, Turée</sm> ou <sm>Turot,</sm>
       </vedette>
-      <definition>même signification dans la <localisation>Bourgogne</localisation> que <i>tertre</i> dans la Champagne méridionale.</definition>
+      <definition>même signification dans la <localisation>
+            <commune precision="certain">Bourgogne</commune>
+         </localisation> que <i>tertre</i> dans la Champagne méridionale.</definition>
   </article>
   <article id="DT10-03043" pg="159">
       <vedette>
@@ -53269,7 +53557,9 @@
          <sm>Thuet (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, affluent de la rive droite de la Seine, à <localisation>Chappes</localisation>.</definition>
+         <typologie>ruisseau</typologie>, affluent de la rive droite de la Seine, à <localisation>
+            <commune precision="certain">Chappes</commune>
+         </localisation>.</definition>
   </article>
   <article id="DT10-03059" pg="160">
       <vedette>
@@ -55469,7 +55759,9 @@
          <sm>Ursulines (Les),</sm>
       </vedette>
       <definition>
-         <typologie>communauté</typologie> fondée à <localisation>Troyes</localisation>, en <date>1627</date>, au Marché à blé.</definition>
+         <typologie>communauté</typologie> fondée à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, en <date>1627</date>, au Marché à blé.</definition>
       <commentaire>
          <p>- Transportée en <date>1629</date> dans l'hôtellerie du Dauphin, rue de ce nom ; agrandie en <date>1708</date> de l'hôtellerie des Trois-Maures, rue des Ursules ; transférée en <date>1780</date> dans la maison des Antonins, faubourg Saint-Martin, elle a été supprimée en <date>1790</date>.</p>
       </commentaire>
@@ -56683,7 +56975,9 @@
          <sm>Vaubanton,</sm>
       </vedette>
       <definition>
-         <typologie>localité disparue</typologie>, dans la plaine (mieux la vallée) où coule l'<localisation>Arce</localisation>, ainsi indiquée dans l'<i>Histoire de Bar-sur-Seine</i> par Coutant, d'après M. Lapérouse, <i>Hist. de Châtillon.</i>
+         <typologie>localité disparue</typologie>, dans la plaine (mieux la vallée) où coule l'<localisation>
+            <commune precision="certain">Arce</commune>
+         </localisation>, ainsi indiquée dans l'<i>Histoire de Bar-sur-Seine</i> par Coutant, d'après M. Lapérouse, <i>Hist. de Châtillon.</i>
       </definition>
   </article>
   <article id="DT10-03270" pg="174">
@@ -57591,7 +57885,9 @@
          <sm>Vendue-Charles (La),</sm>
       </vedette>
       <definition>
-         <typologie>ancienne seigneurie</typologie> d'<localisation>Isle-Aumont</localisation>.</definition>
+         <typologie>ancienne seigneurie</typologie> d'<localisation>
+            <commune precision="certain">Isle-Aumont</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Vendüe Charle,</i> 
          <date>1705</date> 
          <reference>(rolle des jurées et bourgeoisies d'Aumont)</reference>.</forme_ancienne>
@@ -58411,7 +58707,9 @@
          <sm>Vilaine (La),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie> à <localisation>Chaource</localisation>, une des sources de l'Armance.</definition>
+         <typologie>fontaine</typologie> à <localisation>
+            <commune precision="certain">Chaource</commune>
+         </localisation>, une des sources de l'Armance.</definition>
   </article>
   <article id="DT10-03362" pg="179">
       <vedette>
@@ -58685,7 +58983,9 @@
   <article id="DT10-03390" pg="180">
       <vedette>
          <sm>Villa</sm> gallo-romaine,</vedette>
-      <definition>à <localisation>Troyes</localisation>, sur l'emplacement de l'abattoir élevé en <date>1857</date>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>, sur l'emplacement de l'abattoir élevé en <date>1857</date>.</definition>
       <commentaire>
          <p>- Nombreuses substructions ; mosaïques ornées, aujourd'hui au musée de la ville ; coquilles d'huîtres parmi de nombreux débris de céramique.</p>
       </commentaire>
@@ -58884,7 +59184,9 @@
          <sm>Ville-au-Bois (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sis à <localisation>Vendeuvre</localisation> ; disparu au <date>
+         <typologie>fief</typologie> sis à <localisation>
+            <commune precision="certain">Vendeuvre</commune>
+         </localisation> ; disparu au <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <commentaire>
@@ -60305,7 +60607,9 @@
          <sm>Villiers,</sm>
       </vedette>
       <definition>
-         <typologie>hameau détruit</typologie>, dépendant de <localisation>Vosnon</localisation>.</definition>
+         <typologie>hameau détruit</typologie>, dépendant de <localisation>
+            <commune precision="certain">Vosnon</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Vilers juxta Vosnon,</i> 
          <date>1165</date> 
          <reference>(ch. du prieuré de Foicy)</reference>.</forme_ancienne>
@@ -61507,7 +61811,9 @@
          <sm>Voies (Source des),</sm>
       </vedette>
       <definition>
-         <typologie>fontaine</typologie>, à <localisation>Fresnoy</localisation>.</definition>
+         <typologie>fontaine</typologie>, à <localisation>
+            <commune precision="certain">Fresnoy</commune>
+         </localisation>.</definition>
   </article>
   <article type="commune" id="DT10-03539" pg="191">
       <vedette>
@@ -61774,7 +62080,9 @@
          <sm>Voué (Gué du), du Voui</sm> ou <sm>du Vouy ;</sm>
       </vedette>
       <definition>
-         <typologie>gués</typologie> sur l'Arce, à <localisation>Ville-sur-Arce</localisation> ; - sur la Vienne, à <localisation>Saint-André</localisation> ; - sur la Mandrille, à <localisation>Bernon</localisation>, etc.</definition>
+         <typologie>gués</typologie> sur l'Arce, à <localisation>
+            <commune precision="certain">Ville-sur-Arce</commune>
+         </localisation> ; - sur la Vienne, à <localisation>Saint-André</localisation> ; - sur la Mandrille, à <localisation>Bernon</localisation>, etc.</definition>
   </article>
   <article type="commune" id="DT10-03549" pg="192">
       <vedette>
@@ -61977,7 +62285,9 @@
          <sm>Bourbereau,</sm>
       </vedette>
       <definition>
-         <typologie>ancien quartier</typologie> de <localisation>Troyes</localisation> ; il ne reste qu'une rue de ce nom.</definition>
+         <typologie>ancien quartier</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> ; il ne reste qu'une rue de ce nom.</definition>
       <forme_ancienne>- <i>Vicus de Bourberaut,</i> 
          <date>1282</date> 
          <reference>(cart. de la collég. de Saint-Étienne de Troyes)</reference>.</forme_ancienne>
@@ -62054,7 +62364,9 @@
          <sm>Chalefroid,</sm>
       </vedette>
       <definition>
-         <typologie>localité</typologie> mentionnée avec la <localisation>Chaise</localisation>.</definition>
+         <typologie>localité</typologie> mentionnée avec la <localisation>
+            <commune precision="certain">Chaise</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Casa Salefrigidi,</i> 
          <date>1194</date> 
          <reference>(cart. de l'abb. de Basse-Fontaine)</reference>.</forme_ancienne>
@@ -62255,7 +62567,9 @@
          <sm>Croncels-Saint-Gilles,</sm>
       </vedette>
       <definition>
-         <typologie>partie du faubourg</typologie> de <localisation>Croncels</localisation> dépendant de la paroisse de Saint-Gilles de <localisation>Troyes</localisation> 
+         <typologie>partie du faubourg</typologie> de <localisation>
+            <commune precision="certain">Croncels</commune>
+         </localisation> dépendant de la paroisse de Saint-Gilles de <localisation>Troyes</localisation> 
          <i>extrà muros,</i> 
          <date>
             <sm>xvi</sm>
@@ -62266,7 +62580,9 @@
          <sm>Croncels-Saint-Jean,</sm>
       </vedette>
       <definition>
-         <typologie>partie du faubourg</typologie> de <localisation>Croncels</localisation> dépendant de la paroisse de Saint-Jean de <localisation>Troyes</localisation> 
+         <typologie>partie du faubourg</typologie> de <localisation>
+            <commune precision="certain">Croncels</commune>
+         </localisation> dépendant de la paroisse de Saint-Jean de <localisation>Troyes</localisation> 
          <i>intra muros,</i> 
          <date>
             <sm>xvi</sm>
@@ -62634,7 +62950,9 @@
       <vedette>
          <sm>Marcassel (Moulin de),</sm>
       </vedette>
-      <definition>à <localisation>Bar-sur-Aube</localisation>, <date>
+      <definition>à <localisation>
+            <commune precision="certain">Bar-sur-Aube</commune>
+         </localisation>, <date>
             <sm>xviii</sm>
             <sup>e</sup> siècle</date>.</definition>
   </article>
@@ -62882,7 +63200,9 @@
          <sm>Planche-Clément (La),</sm>
       </vedette>
       <definition>
-         <typologie>quartier</typologie> de <localisation>Troyes</localisation>.</definition>
+         <typologie>quartier</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Plancha Clementis,</i> 
          <date>1276</date> 
          <reference>(cart. de la collég. de Saint-Étienne de Troyes)</reference>.</forme_ancienne>
@@ -63121,7 +63441,9 @@
          <sm>Saint-Gilles,</sm>
       </vedette>
       <definition>
-         <typologie>ferme</typologie> à <localisation>Vernonvilliers</localisation>.</definition>
+         <typologie>ferme</typologie> à <localisation>
+            <commune precision="certain">Vernonvilliers</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Cellula Sancti Egidii,</i> 
          <date>1152</date> 
          <reference>(cart. de l'abb. de Basse-Fontaine)</reference>.</forme_ancienne>
@@ -63174,7 +63496,9 @@
          <sm>Surgale,</sm>
       </vedette>
       <definition>
-         <typologie>quartier</typologie> de <localisation>Troyes</localisation> dont il ne reste qu'une rue du même nom.</definition>
+         <typologie>quartier</typologie> de <localisation>
+            <commune precision="certain">Troyes</commune>
+         </localisation> dont il ne reste qu'une rue du même nom.</definition>
       <forme_ancienne>- <i>Vicus qui vocatur Sergale,</i> 
          <date>1234</date> 
          <reference>(cart. de la collégiale de Saint-Étienne de Troyes)</reference>.</forme_ancienne>
@@ -63197,7 +63521,9 @@
          <sm>Temple (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ferme</typologie> à <localisation>Verrières</localisation>.</definition>
+         <typologie>ferme</typologie> à <localisation>
+            <commune precision="certain">Verrières</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Vilere,</i> 
          <date>1213</date> 
          <reference>(ch. de la comm<sup>rie</sup> de Troyes)</reference>.</forme_ancienne>

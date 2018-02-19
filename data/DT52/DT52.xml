@@ -189,7 +189,9 @@
          <pg>2</pg>
          <sm>Aigle (L'),</sm>
       </vedette>
-      <definition>nom d'une des trois <typologie>seigneurie</typologie>s de <localisation>Poinson-lez-Nogent</localisation>.</definition>
+      <definition>nom d'une des trois <typologie>seigneurie</typologie>s de <localisation>
+            <commune precision="certain">Poinson-lez-Nogent</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>L'Esgle,</i> 
          <date>1536</date> 
          <reference>(Voillemier)</reference>.</forme_ancienne>
@@ -459,7 +461,9 @@
          <sm>Amance,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, qui prend sa source à <localisation>Chaudenay</localisation>, passe à <localisation>Maizières, Bize, Anrosey, la Ferté</localisation>, sort du département à <localisation>Pisseloup</localisation>, après un parcours de 15 kilomètres, et se jette dans la Saône, rive droite, à <localisation>Jussey</localisation>.</definition>
+         <typologie>rivière</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Chaudenay</commune>
+         </localisation>, passe à <localisation>Maizières, Bize, Anrosey, la Ferté</localisation>, sort du département à <localisation>Pisseloup</localisation>, après un parcours de 15 kilomètres, et se jette dans la Saône, rive droite, à <localisation>Jussey</localisation>.</definition>
       <forme_ancienne>- <i>Asmantia,</i> 
          <date>1098</date> 
          <reference>(Chron. de Bèze, édit. Bougaud et Garnier, p. 388)</reference>.</forme_ancienne>
@@ -969,7 +973,9 @@
          <sm>Apance (L'),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à la <localisation>Bondice</localisation>, <localisation>commune de la Rivière</localisation>, passe à <localisation>Bourbonne</localisation>, <localisation>près de Villars-Saint-Marcellin, à Fresne et Enfonvelle</localisation>, où elle quitte le département pour se jeter dans la Saône, rive droite, à <localisation>Châtillon</localisation>, après un parcours de 20 kilomètres.</definition>
+         <typologie>rivière</typologie> qui prend sa source à la <localisation>
+            <commune precision="certain">Bondice</commune>
+         </localisation>, <localisation>commune de la Rivière</localisation>, passe à <localisation>Bourbonne</localisation>, <localisation>près de Villars-Saint-Marcellin, à Fresne et Enfonvelle</localisation>, où elle quitte le département pour se jeter dans la Saône, rive droite, à <localisation>Châtillon</localisation>, après un parcours de 20 kilomètres.</definition>
       <forme_ancienne>- <i>Spancia,</i> 
          <date>
             <sm>vii</sm>
@@ -1104,7 +1110,9 @@
          <sm>Aranville,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Aillianville</localisation>.</definition>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Aillianville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-00057" pg="5">
       <vedette>
@@ -1704,7 +1712,9 @@
          <sm>Auges (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Les Ages-aux-Moines,</i> 
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
@@ -1805,7 +1815,9 @@
          <sm>Aujon (L'),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source au <localisation>Creux-d'Aujon</localisation>, dans le <localisation>bois de Perrogney</localisation>.</definition>
+         <typologie>rivière</typologie> qui prend sa source au <localisation>
+            <commune precision="certain">Creux-d'Aujon</commune>
+         </localisation>, dans le <localisation>bois de Perrogney</localisation>.</definition>
       <commentaire>
          <p>Elle parcourt les territoires de Chameroy, Rochetaillée, Saint-Loup, Courcelles, Giey, Arc-en-Barrois, Cour-l'Évêque, Coupray, Montribourg, Châteauvillain, Pont-la-Ville, Aizanville, Maranville et Rennepont, puis sort du département et va se jeter dans l'Aube, près de Clairvaux, après un parcours de 45 kilomètres.</p>
       </commentaire>
@@ -1882,7 +1894,9 @@
          <sm>Aunnetelle,</sm>
       </vedette>
       <definition>
-         <typologie>ancien écart</typologie> de <localisation>Puellemontier</localisation>.</definition>
+         <typologie>ancien écart</typologie> de <localisation>
+            <commune precision="certain">Puellemontier</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Aunnetelle,</i> 
          <date>1784</date> 
          <reference>(Courtalon, III, p. 344, et Cassini)</reference>.</forme_ancienne>
@@ -2571,7 +2585,9 @@
          <sm>Barrois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>pagus et comté</typologie>, puis duché, dont <localisation>Bar-le-Duc</localisation> (Meuse), était le centre administratif.</definition>
+         <typologie>pagus et comté</typologie>, puis duché, dont <localisation>
+            <commune precision="certain">Bar-le-Duc</commune>
+         </localisation> (Meuse), était le centre administratif.</definition>
       <commentaire>
          <p>Henri III, comte de Bar, qui s'était allié à Édouard I<sup>er</sup> d'Angleterre, contre le roi de France, fut battu et fait prisonnier en <date>1302</date> ; il reconnut alors la suzeraineté du roi de France pour les territoires de son comté qui étaient situés sur la rive gauche de la Meuse. C'est de là que proviennent les dénominations de <i>Barrois mouvant</i> (rive gauche) et <i>Barrois non mouvant</i> (rive droite). Un certain nombre de localités de la Haute-Marne dépendaient de ces deux Barrois <renvoi>(<i>voir</i> ce que nous en avons dit dans l'Introduction)</renvoi>.</p>
       </commentaire>
@@ -2582,7 +2598,9 @@
          <sm>Barrois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>pagus et comté</typologie> dont <localisation>Bar-sur-Aube</localisation> (Aube) était le chef-lieu, et dont le souvenir persiste dans le nom d'Arc-en-Barrois (Haute-Marne).</definition>
+         <typologie>pagus et comté</typologie> dont <localisation>
+            <commune precision="certain">Bar-sur-Aube</commune>
+         </localisation> (Aube) était le chef-lieu, et dont le souvenir persiste dans le nom d'Arc-en-Barrois (Haute-Marne).</definition>
       <commentaire>
          <p>Ses limites se sont conservées jusqu'à la Révolution dans celles du doyenné de Bar-sur-Aube, de l'ancien diocèse de Langres, qui formait avec le doyenné de Chaumont, et l'addition de celui de Châteauvillain, <date>vers 1736</date>, l'archidiaconé du Barrois.</p>
       </commentaire>
@@ -4187,7 +4205,9 @@
          <sm>Bernay,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> de la seigneurie de <localisation>Prez-sous-la-Fauche</localisation>.</definition>
+         <typologie>fief</typologie> de la seigneurie de <localisation>
+            <commune precision="certain">Prez-sous-la-Fauche</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Bernay,</i> 
          <date>1684</date> 
          <reference>(Recueil Jolibois, VIII, f° 7 r°)</reference>.</forme_ancienne>
@@ -4825,7 +4845,9 @@
          <sm>Blaise (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, affluent de la Marne, rive gauche, qui prend sa source à <localisation>Gillancourt</localisation>, passe à <localisation>Blaisy, Juzennecourt, la Chapelle-en-Blésy, la Mothe-en-Blésy, Curmont, Blaise, Guindrecourt-sur-Blaise, Daillancourt, Bouzancourt, Cirey-sur-Blaise, Arnancourt, Doulevant-le-Château, Dommartin-le-Saint-Père, Courcelles-sur-Blaise, Dommartin-le-Franc, Ville-en-Blaisois, Doulevant-le-Petit, Ragecourt-sur-Blaise, Vaux-sur-Blaise, Montreuil-sur-Blaise, Brousseval, Vassy, Attancourt, Louvemont, Eclaron</localisation>.</definition>
+         <typologie>rivière</typologie>, affluent de la Marne, rive gauche, qui prend sa source à <localisation>
+            <commune precision="certain">Gillancourt</commune>
+         </localisation>, passe à <localisation>Blaisy, Juzennecourt, la Chapelle-en-Blésy, la Mothe-en-Blésy, Curmont, Blaise, Guindrecourt-sur-Blaise, Daillancourt, Bouzancourt, Cirey-sur-Blaise, Arnancourt, Doulevant-le-Château, Dommartin-le-Saint-Père, Courcelles-sur-Blaise, Dommartin-le-Franc, Ville-en-Blaisois, Doulevant-le-Petit, Ragecourt-sur-Blaise, Vaux-sur-Blaise, Montreuil-sur-Blaise, Brousseval, Vassy, Attancourt, Louvemont, Eclaron</localisation>.</definition>
       <commentaire>
          <p>Elle pénètre dans le département de la Marne par le finage de Sainte-Livière et se jette dans la rivière de Marne en face de Larzicourt. - La Blaise a donné son nom à un doyenné du diocèse de Toul <renvoi>(<i>voir</i> le mot <sm>Blaisois</sm>)</renvoi>.</p>
       </commentaire>
@@ -4893,7 +4915,9 @@
          <sm>Blaiseron (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petite rivière</typologie> qui prend sa source à <localisation>Ambonville</localisation>, fait mouvoir les usines à fer de <localisation>Charmes-en-l'Angle</localisation> et se jette dans la Blaise à <localisation>Courcelles-sur-Blaise</localisation>.</definition>
+         <typologie>petite rivière</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Ambonville</commune>
+         </localisation>, fait mouvoir les usines à fer de <localisation>Charmes-en-l'Angle</localisation> et se jette dans la Blaise à <localisation>Courcelles-sur-Blaise</localisation>.</definition>
       <forme_ancienne>- <i>Fluvius Blesironis,</i> 
          <date>
             <sm>x</sm>
@@ -5876,7 +5900,9 @@
          <sm>Bonnelle (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Saint-Geômes</localisation>, passe à <localisation>Brevoine</localisation>, sous les murs de Langres, et se perd dans la Marne au <localisation>territoire de Hûmes</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Saint-Geômes</commune>
+         </localisation>, passe à <localisation>Brevoine</localisation>, sous les murs de Langres, et se perd dans la Marne au <localisation>territoire de Hûmes</localisation>.</definition>
       <commentaire>
          <p>Il a donné son nom à l'un des forts du camp retranché de Langres, qui est sur le territoire de Saint-Geômes.</p>
       </commentaire>
@@ -6208,7 +6234,9 @@
          <sm>Bordes (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>Chamouilley</localisation>, et qui appartenait, comme le fief principal, à l'abbaye de Saint-Urbain depuis <date>1324</date>.</definition>
+         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>
+            <commune precision="certain">Chamouilley</commune>
+         </localisation>, et qui appartenait, comme le fief principal, à l'abbaye de Saint-Urbain depuis <date>1324</date>.</definition>
       <forme_ancienne>- <i>Bordae,</i> 
          <date>1235</date> 
          <reference>(Recueil Jolibois, VII, f° 84)</reference>.</forme_ancienne>
@@ -6285,7 +6313,9 @@
          <sm>Boucherasse (La),</sm>
       </vedette>
       <definition>
-         <typologie>dépendance</typologie> d'<localisation>Aprey</localisation> 
+         <typologie>dépendance</typologie> d'<localisation>
+            <commune precision="certain">Aprey</commune>
+         </localisation> 
          <reference>(Courtépée, IV, p. 242)</reference>.</definition>
    </article>
    <article id="DT52-00395" pg="21">
@@ -7515,7 +7545,9 @@
          <sm>Brevoine,</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie> de <localisation>Langres</localisation> ; ouvrage de défense du camp retranché de Langres.</definition>
+         <typologie>hameau</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation> ; ouvrage de défense du camp retranché de Langres.</definition>
       <forme_ancienne>- <i>Capella de Bevrona,</i> 
          <date>1170</date> 
          <reference>(chapitre de Langres)</reference>.</forme_ancienne>
@@ -9072,7 +9104,9 @@
          <sm>Cêne (La),</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Langres</localisation>.</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Elle était dans la Grande-Rue, près de la Porte-au-Pain.</p>
       </commentaire>
@@ -12567,7 +12601,9 @@
          <sm>Chauderons (Les),</sm>
       </vedette>
       <definition>
-         <typologie>ancien terrage</typologie>, à <localisation>Flammerécourt</localisation>, qui tirait son nom de l'importante famille féodale du même nom.</definition>
+         <typologie>ancien terrage</typologie>, à <localisation>
+            <commune precision="certain">Flammerécourt</commune>
+         </localisation>, qui tirait son nom de l'importante famille féodale du même nom.</definition>
       <forme_ancienne>- <i>Ens terrages des Chauderons, à Flamerecort,</i> 
          <date>1250</date> 
          <reference>(Benoitevaux)</reference>.</forme_ancienne>
@@ -13334,7 +13370,9 @@
          <sm>Chavanne (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Bourbonne-les-Bains</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Bourbonne-les-Bains</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-00889" pg="44">
       <vedette>
@@ -14260,7 +14298,9 @@
          <sm>Citadelle (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>, qui tire son nom de la citadelle de cette ville forte.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, qui tire son nom de la citadelle de cette ville forte.</definition>
    </article>
    <article id="DT52-00933" pg="47">
       <vedette>
@@ -14798,7 +14838,9 @@
          <sm>Colinière (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-00965" pg="48">
       <vedette>
@@ -15218,7 +15260,9 @@
          <sm>Cona (Le),</sm>
       </vedette>
       <definition>
-         <typologie>terrain planté d'arbres</typologie>, à <localisation>Bourmont</localisation>, servant de promenade ; il y avait un calvaire, érigé en <date>1759</date>.</definition>
+         <typologie>terrain planté d'arbres</typologie>, à <localisation>
+            <commune precision="certain">Bourmont</commune>
+         </localisation>, servant de promenade ; il y avait un calvaire, érigé en <date>1759</date>.</definition>
       <forme_ancienne>- <i>Calvaire,</i> 
          <date>
             <sm>xviii</sm>
@@ -15893,7 +15937,9 @@
          <sm>Coupotte (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était à <localisation>Viéville</localisation>.</definition>
+         <typologie>fief</typologie> qui était à <localisation>
+            <commune precision="certain">Viéville</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Coupotte,</i> 
          <date>1768</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
@@ -15954,7 +16000,9 @@
          <sm>Cour (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, qui était à <localisation>Cerisières</localisation>.</definition>
+         <typologie>fief</typologie>, qui était à <localisation>
+            <commune precision="certain">Cerisières</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Cour,</i> 
          <date>1757</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 684)</reference>.</forme_ancienne>
@@ -15982,7 +16030,9 @@
       <vedette>
          <sm>Cour (La),</sm>
       </vedette>
-      <definition>nom de la <typologie>partie</typologie> de <localisation>Dommartin-le-Franc</localisation> qui n'appartenait pas au roi.</definition>
+      <definition>nom de la <typologie>partie</typologie> de <localisation>
+            <commune precision="certain">Dommartin-le-Franc</commune>
+         </localisation> qui n'appartenait pas au roi.</definition>
       <commentaire>
          <p>On l'appelait aussi <i>Dommartin-la-Cour</i> (Jolibois : La Haute-Marne, p. 192).</p>
       </commentaire>
@@ -16875,7 +16925,9 @@
          <sm>Croix-de-la-Montagne (La),</sm>
       </vedette>
       <definition>
-         <typologie>croix</typologie>, au nord-est de <localisation>Leschères</localisation> (Cassini).</definition>
+         <typologie>croix</typologie>, au nord-est de <localisation>
+            <commune precision="certain">Leschères</commune>
+         </localisation> (Cassini).</definition>
    </article>
    <article id="DT52-01098" pg="55">
       <vedette>
@@ -17304,7 +17356,9 @@
          <sm>Daillancourt,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était situé à <localisation>Viéville</localisation>.</definition>
+         <typologie>fief</typologie> qui était situé à <localisation>
+            <commune precision="certain">Viéville</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Daillancourt,</i> 
          <date>1750</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
@@ -17731,7 +17785,9 @@
          <sm>Darney,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était situé à <localisation>Pisseloup</localisation> et relevait de la Ferté-sur-Amance.</definition>
+         <typologie>fief</typologie> qui était situé à <localisation>
+            <commune precision="certain">Pisseloup</commune>
+         </localisation> et relevait de la Ferté-sur-Amance.</definition>
       <forme_ancienne>- <i>Darney,</i> 
          <date>1599</date> 
          <reference>(Arch. nat., P. 177<sup>1</sup>, n° 560)</reference>.</forme_ancienne>
@@ -17743,7 +17799,9 @@
       <vedette>
          <sm>« Darté »</sm>
       </vedette>
-      <definition>serait le nom d'un <typologie>lieu habité</typologie>, qui aurait précédé le village de <localisation>Bologne</localisation>. <reference>(Jolibois : La Haute-Marne, etc. p. 69 ; Roussel : Le Diocèse de Langres, IV, p. 193.)</reference>
+      <definition>serait le nom d'un <typologie>lieu habité</typologie>, qui aurait précédé le village de <localisation>
+            <commune precision="certain">Bologne</commune>
+         </localisation>. <reference>(Jolibois : La Haute-Marne, etc. p. 69 ; Roussel : Le Diocèse de Langres, IV, p. 193.)</reference>
       </definition>
    </article>
    <article id="DT52-01148" pg="58">
@@ -18106,7 +18164,9 @@
       <definition>
          <typologie>fief</typologie> qui avait été constitué au <date>
             <sm>xvi</sm>
-            <sup>e</sup> siècle</date> par un démembrement de la seigneurie de <localisation>Latrecey</localisation>.</definition>
+            <sup>e</sup> siècle</date> par un démembrement de la seigneurie de <localisation>
+            <commune precision="certain">Latrecey</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT52-01176" pg="59">
       <vedette>
@@ -18963,7 +19023,9 @@
          <sm>Écurey,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Joinville</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Joinville</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Escurey,</i> 
          <date>1576</date> 
          <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
@@ -19659,7 +19721,9 @@
       <vedette>
          <sm>Espinceloy,</sm>
       </vedette>
-      <definition>ancien nom du <typologie>village</typologie> d'<localisation>Échènay</localisation>, avant que ce dernier nom, appliqué seulement au château, l'eût supplanté.</definition>
+      <definition>ancien nom du <typologie>village</typologie> d'<localisation>
+            <commune precision="certain">Échènay</commune>
+         </localisation>, avant que ce dernier nom, appliqué seulement au château, l'eût supplanté.</definition>
       <forme_ancienne>- <i>Molin d'Espinceloi,</i> 
          <date>1272</date> 
          <reference>(Benoitevaux)</reference>.</forme_ancienne>
@@ -22568,7 +22632,9 @@
          <sm>Forges (Les),</sm>
       </vedette>
       <definition>
-         <typologie>forges détruites</typologie>, qui ont donné leur surnom à la Neuville-aux-Forges (aujourd'hui la Neuville-à-Remy) et à <localisation>Bailly-aux-Forges</localisation>.</definition>
+         <typologie>forges détruites</typologie>, qui ont donné leur surnom à la Neuville-aux-Forges (aujourd'hui la Neuville-à-Remy) et à <localisation>
+            <commune precision="certain">Bailly-aux-Forges</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Une maison que on apele Les Forges, ès finages des dites Nueviles,</i> 
          <date>1301</date> 
          <reference>(Boulancourt)</reference>.</forme_ancienne>
@@ -25328,7 +25394,9 @@
          <sm>Gigny,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Saint-Dizier</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Saint-Dizier</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Gihini Cortis,</i> 
          <date>854</date> 
          <reference>(Cartul. Montier-en-Der, I, f° 19 v°)</reference>.</forme_ancienne>
@@ -25906,7 +25974,9 @@
          <sm>Grande-Lanne (La),</sm>
       </vedette>
       <definition>
-         <typologie>dépendance</typologie> de <localisation>Lanne</localisation>.</definition>
+         <typologie>dépendance</typologie> de <localisation>
+            <commune precision="certain">Lanne</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Magna Laanna,</i> 
          <date>1334</date> 
          <reference>(terrier de Langres, f° 32 v°)</reference>.</forme_ancienne>
@@ -27893,7 +27963,9 @@
          <sm>Herceville,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Maranville</localisation> ; ancien fief relevant de la Ferté-sur-Aube.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Maranville</commune>
+         </localisation> ; ancien fief relevant de la Ferté-sur-Aube.</definition>
       <forme_ancienne>- <i>Yrceville,</i> 
          <date>1556</date> 
          <reference>(arch. <pg>87</pg>Aube, Clairvaux)</reference>.</forme_ancienne>
@@ -29466,7 +29538,9 @@
          <sm>Langrois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>anc. <i>pagus</i> ou comté</typologie>, dont le chef-lieu était <localisation>Langres</localisation>.</definition>
+         <typologie>anc. <i>pagus</i> ou comté</typologie>, dont le chef-lieu était <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Pagus Lingonicus,</i> 
          <date>834</date> 
          <reference>(Roserot, Dipl. carol., p. 7)</reference>.</forme_ancienne>
@@ -30849,7 +30923,9 @@
          <sm>Louot,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Louot,</i> 
          <date>1769</date> 
          <reference>(Chalmandrier)</reference>.</forme_ancienne>
@@ -32684,7 +32760,9 @@
          <sm>Maladière (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Sommevoire</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Sommevoire</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-02211" pg="102">
       <vedette>
@@ -33170,7 +33248,9 @@
          <sm>Marain,</sm>
       </vedette>
       <definition>
-         <typologie>ancien fief</typologie>, qui était à <localisation>Sexfontaine</localisation> et en relevait.</definition>
+         <typologie>ancien fief</typologie>, qui était à <localisation>
+            <commune precision="certain">Sexfontaine</commune>
+         </localisation> et en relevait.</definition>
       <forme_ancienne>- <i>Marain,</i> 
          <date>1683</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 691)</reference>.</forme_ancienne>
@@ -35010,7 +35090,9 @@
       <vedette>
          <sm>Moines (Rue des),</sm>
       </vedette>
-      <definition>à <localisation>Avrainville</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Avrainville</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Le prieuré d'Épineuseval y avait une maison, avec une chapelle qui fut détruite par les gens de guerre en <date>1645</date>.</p>
       </commentaire>
@@ -35178,7 +35260,9 @@
          <sm>Montagne (La),</sm>
       </vedette>
       <definition>
-         <typologie>région naturelle</typologie> qui a donné son nom à un <typologie>bailliage</typologie> bourguignon dont <localisation>Châtillon-sur-Seine</localisation> (Côte-d'Or) était le chef-lieu.</definition>
+         <typologie>région naturelle</typologie> qui a donné son nom à un <typologie>bailliage</typologie> bourguignon dont <localisation>
+            <commune precision="certain">Châtillon-sur-Seine</commune>
+         </localisation> (Côte-d'Or) était le chef-lieu.</definition>
       <commentaire>
          <p>Un assez grand nombre de localités de la Haute-Marne dépendaient de ce bailliage. Quant à la région montagneuse, elle comprenait même des localités qui en portaient le nom, sans appartenir au bailliage, telles que Courcelles-en-Montagne (bailliage de Langres) et Voisines-en-Montagne (même bailliage).</p>
       </commentaire>
@@ -35253,7 +35337,9 @@
          <sm>Montarby,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était au <localisation>Fays-Billot</localisation>.</definition>
+         <typologie>fief</typologie> qui était au <localisation>
+            <commune precision="certain">Fays-Billot</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-02372" pg="110">
       <vedette>
@@ -35336,7 +35422,9 @@
          <sm>Montaut-le-Haut,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne dépendance</typologie> de <localisation>Leschères</localisation>, où il y avait une église.</definition>
+         <typologie>ancienne dépendance</typologie> de <localisation>
+            <commune precision="certain">Leschères</commune>
+         </localisation>, où il y avait une église.</definition>
       <forme_ancienne>- <i>Ecclesia de Montonno,</i> 
          <date>1402</date> 
          <reference>(Pouillé de Toul)</reference>.</forme_ancienne>
@@ -35843,7 +35931,9 @@
          <sm>Montjaux,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était à <localisation>Villeret</localisation> au lieu dit le <i>Bout-d'en-haut,</i> et relevait de Vassy.</definition>
+         <typologie>fief</typologie> qui était à <localisation>
+            <commune precision="certain">Villeret</commune>
+         </localisation> au lieu dit le <i>Bout-d'en-haut,</i> et relevait de Vassy.</definition>
       <forme_ancienne>- <i>Montjaux,</i> 
          <date>1737</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 684)</reference>.</forme_ancienne>
@@ -38925,7 +39015,9 @@
          <sm>Mouzon (Le),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui vient de <localisation>Martigny</localisation> (Vosges), passe à <localisation>Soulaucourt, et à Sommerécourt</localisation> et se jette dans la Meuse.</definition>
+         <typologie>rivière</typologie> qui vient de <localisation>
+            <commune precision="certain">Martigny</commune>
+         </localisation> (Vosges), passe à <localisation>Soulaucourt, et à Sommerécourt</localisation> et se jette dans la Meuse.</definition>
       <forme_ancienne>- <i>La rivière de Moson,</i> 
          <date>1254</date> 
          <reference>(Morimond)</reference>.</forme_ancienne>
@@ -39359,7 +39451,9 @@
          <sm>Neuville-à-Mathons (La),</sm>
       </vedette>
       <definition>
-         <typologie>localité</typologie> distincte de la Neuville-à-Bayard, de la Neuville-à-Remy ou aux-Forges et de Mathons, car elle est citée en même temps que celles-ci en <date>1763</date> ; c'est peut-être la <localisation>Neuville-au-Bois</localisation>.</definition>
+         <typologie>localité</typologie> distincte de la Neuville-à-Bayard, de la Neuville-à-Remy ou aux-Forges et de Mathons, car elle est citée en même temps que celles-ci en <date>1763</date> ; c'est peut-être la <localisation>
+            <commune precision="certain">Neuville-au-Bois</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Nove Ville, La Nove Ville à Mastons,</i> 
          <date>fin du <sm>xiii</sm>
             <sup>e</sup> siècle</date> 
@@ -39874,7 +39968,9 @@
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie>, à <localisation>Montrot</localisation>, <localisation>commune d'Arc-en-Barrois</localisation>, érigée au <date>commencement du <sm>xvii</sm>
+         <typologie>chapelle</typologie>, à <localisation>
+            <commune precision="certain">Montrot</commune>
+         </localisation>, <localisation>commune d'Arc-en-Barrois</localisation>, érigée au <date>commencement du <sm>xvii</sm>
             <sup>e</sup> siècle</date> 
          <reference>(Roussel : Le Diocèse de Langres, II, p. 37)</reference>.</definition>
    </article>
@@ -40050,7 +40146,9 @@
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie>, à <localisation>Bayard</localisation>, <localisation>commune de la Neuville-à-Bayard</localisation>.</definition>
+         <typologie>chapelle</typologie>, à <localisation>
+            <commune precision="certain">Bayard</commune>
+         </localisation>, <localisation>commune de la Neuville-à-Bayard</localisation>.</definition>
       <forme_ancienne>- <i>Notre-Dame de Bayart,</i> 
          <date>1532</date> 
          <reference>(chapitre de Joinville)</reference>.</forme_ancienne>
@@ -40146,7 +40244,9 @@
          <sm>Notre-Dame,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne abbaye de femmes</typologie>, ordre de Cîteaux, à <localisation>Saint-Dizier</localisation>, fondée en <date>1227</date> par Guillaume de Dampierre, sire de Saint-Dizier, et Marguerite de Flandre, sa femme ; unie à l'abbaye de Saint-Jacques de Vitry, en <date>1747</date>.</definition>
+         <typologie>ancienne abbaye de femmes</typologie>, ordre de Cîteaux, à <localisation>
+            <commune precision="certain">Saint-Dizier</commune>
+         </localisation>, fondée en <date>1227</date> par Guillaume de Dampierre, sire de Saint-Dizier, et Marguerite de Flandre, sa femme ; unie à l'abbaye de Saint-Jacques de Vitry, en <date>1747</date>.</definition>
       <forme_ancienne>- <i>Abbacia Sancti Desiderii,</i> 
          <date>1227</date> 
          <reference>(Notre-Dame de Vitry)</reference>.</forme_ancienne>
@@ -40459,7 +40559,9 @@
          <sm>Notre-Dame-sur-les-Murs-Fraicts,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Langres</localisation>.</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Capella seu capellania ad altare vel sub invocatione Beate Marie, super muros fractos Lingonis,</i> 
          <date>1695</date> 
          <reference>(arch. Haute-Marne, G. 892, f° 19 r°)</reference>.</forme_ancienne>
@@ -40477,7 +40579,9 @@
          <sm>Noue (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Orges</localisation>, qui relevait de la Ferté-sur-Aube.</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Orges</commune>
+         </localisation>, qui relevait de la Ferté-sur-Aube.</definition>
       <forme_ancienne>- <i>La Noue,</i> 
          <date>1603</date> 
          <reference>(Arch. nat., P. 189<sup>2</sup>, n° 1587)</reference>.</forme_ancienne>
@@ -40487,7 +40591,9 @@
          <sm>Noue (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Saint-Dizier</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Saint-Dizier</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Noue,</i> 
          <date>
             <sm>xviii</sm>
@@ -41147,7 +41253,9 @@
          <sm>Ornain (L'),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui se jette dans la Meuse après avoir arrosé <localisation>Bar-le-Duc</localisation>.</definition>
+         <typologie>rivière</typologie> qui se jette dans la Meuse après avoir arrosé <localisation>
+            <commune precision="certain">Bar-le-Duc</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Elle prend sa source au bois de Germay, sous le nom de <i>l'Oignon,</i> passe à la Neuville-au-Bois et entre ensuite dans le département de la Meuse.</p>
       </commentaire>
@@ -41157,7 +41265,9 @@
          <sm>Ornelle (L'),</sm>
       </vedette>
       <definition>
-         <typologie>petite rivière</typologie>, qui prend sa source à <localisation>Sommelonne</localisation> (Meuse) et se jette dans la Marne, à <localisation>Saint-Dizier</localisation>, après un cours de quelques kilomètres.</definition>
+         <typologie>petite rivière</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Sommelonne</commune>
+         </localisation> (Meuse) et se jette dans la Marne, à <localisation>Saint-Dizier</localisation>, après un cours de quelques kilomètres.</definition>
       <forme_ancienne>- <i>In pago Pertensi, super fluvium Olomnam, in loco qui Forensis curtis dicitur,</i> 
          <date>865</date> 
          <reference>(Gall. christ., X, instr., col. 148. <renvoi>Cf. D. Bouquet, VIII, 584, <i>ad annum,</i> 862</renvoi>)</reference>.</forme_ancienne>
@@ -41203,7 +41313,9 @@
          <sm>Orsoy,</sm>
       </vedette>
       <definition>
-         <typologie>étroite vallée</typologie> qui commence à <localisation>Ninville</localisation> et finit à <localisation>Lanques</localisation>, où le ruisseau qui l'arrose se jette dans le Rognon ; elle a donné son nom à la ferme du Val-d'Orsoy, commune de Lanques.</definition>
+         <typologie>étroite vallée</typologie> qui commence à <localisation>
+            <commune precision="certain">Ninville</commune>
+         </localisation> et finit à <localisation>Lanques</localisation>, où le ruisseau qui l'arrose se jette dans le Rognon ; elle a donné son nom à la ferme du Val-d'Orsoy, commune de Lanques.</definition>
    </article>
    <article id="DT52-02789" pg="128">
       <vedette>
@@ -41255,7 +41367,9 @@
          <sm>Osne (L'),</sm>
       </vedette>
       <definition>
-         <typologie>petite rivière</typologie> qui descend du <localisation>Val-d'Enfer</localisation>, sur la <localisation>commune d'Osne-le-Val</localisation>, à laquelle elle a donné son nom.</definition>
+         <typologie>petite rivière</typologie> qui descend du <localisation>
+            <commune precision="certain">Val-d'Enfer</commune>
+         </localisation>, sur la <localisation>commune d'Osne-le-Val</localisation>, à laquelle elle a donné son nom.</definition>
    </article>
    <article type="commune" id="DT52-02793" pg="128">
       <vedette>
@@ -42380,7 +42494,9 @@
       </vedette>
       <definition>
          <typologie>
-            <i>pagus</i> ou comté</typologie> de la <i>civitas Catelluaunorum ;</i> il devait son nom à <localisation>Perthe</localisation> (Haute-Marne), qui en fut d'abord le chef-lieu.</definition>
+            <i>pagus</i> ou comté</typologie> de la <i>civitas Catelluaunorum ;</i> il devait son nom à <localisation>
+            <commune precision="certain">Perthe</commune>
+         </localisation> (Haute-Marne), qui en fut d'abord le chef-lieu.</definition>
       <commentaire>
          <p>Son territoire a formé l'archidiaconé du même nom, au diocèse de Châlons-sur-Marne, composé des doyennés de Perthe et de Joinville.</p>
       </commentaire>
@@ -42715,7 +42831,9 @@
          <sm>Petit-Moulin (Le),</sm>
       </vedette>
       <definition>
-         <typologie>moulin</typologie> de <localisation>Voncourt</localisation>.</definition>
+         <typologie>moulin</typologie> de <localisation>
+            <commune precision="certain">Voncourt</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-02891" pg="133">
       <vedette>
@@ -44867,7 +44985,9 @@
          <sm>Prieuré (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Bourbonne-les-Bains</localisation>, section G.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Bourbonne-les-Bains</commune>
+         </localisation>, section G.</definition>
    </article>
    <article id="DT52-03019" pg="140">
       <vedette>
@@ -45689,7 +45809,9 @@
       <vedette>
          <sm>Recey,</sm>
       </vedette>
-      <definition>était le nom d'une des trois <typologie>seigneurie</typologie>s dont se composait la terre de <localisation>Poinson-lez-Nogent</localisation>.</definition>
+      <definition>était le nom d'une des trois <typologie>seigneurie</typologie>s dont se composait la terre de <localisation>
+            <commune precision="certain">Poinson-lez-Nogent</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Recey,</i> 
          <date>1586</date> 
          <reference>(Voillemier)</reference>.</forme_ancienne>
@@ -45934,7 +46056,9 @@
          <sm>Remonvaux,</sm>
       </vedette>
       <definition>
-         <typologie>maison des religieux</typologie> de ce nom, qui était située à <localisation>Liffol-le-Petit</localisation>.</definition>
+         <typologie>maison des religieux</typologie> de ce nom, qui était située à <localisation>
+            <commune precision="certain">Liffol-le-Petit</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Autre maison à Liffol, appelée la maison de Remonvaux ; en ruines et abandonnée,</i> 
          <date>1778</date> 
          <reference>(arch. Allier, Remonvaux)</reference>.</forme_ancienne>
@@ -45974,7 +46098,9 @@
          <sm>Renne (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui descend de <localisation>Valdelancourt</localisation>, traverse <localisation>Autreville, Saint-Martin-lez-Autreville, la Villeneuve-au-Roi et Monterie</localisation>, et se jette dans l'Aujon à <localisation>Rennepont</localisation>.</definition>
+         <typologie>rivière</typologie> qui descend de <localisation>
+            <commune precision="certain">Valdelancourt</commune>
+         </localisation>, traverse <localisation>Autreville, Saint-Martin-lez-Autreville, la Villeneuve-au-Roi et Monterie</localisation>, et se jette dans l'Aujon à <localisation>Rennepont</localisation>.</definition>
       <forme_ancienne>- <i>In pago sive comitatu Barinse, et in loco qui Altera villa nuncupatur, ubi fluviolus qui Aderen vocatur discurrit,</i> 
          <date>886</date> 
          <reference>(Roserot, Dipl. carol., p. 19)</reference>.</forme_ancienne>
@@ -46153,7 +46279,9 @@
          <sm>Riaucourt,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>Poissons</localisation> et relevait de l'abbaye de Saint-Urbain.</definition>
+         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>
+            <commune precision="certain">Poissons</commune>
+         </localisation> et relevait de l'abbaye de Saint-Urbain.</definition>
       <forme_ancienne>- <i>Ryocot,</i> 
          <date>1485</date> 
          <reference>(Saint-Urbain)</reference>.</forme_ancienne>
@@ -46298,7 +46426,9 @@
       <vedette>
          <sm>Rimaucourt,</sm>
       </vedette>
-      <definition>nom d'une partie de la seigneurie d'<localisation>Orquevaux</localisation>.</definition>
+      <definition>nom d'une partie de la seigneurie d'<localisation>
+            <commune precision="certain">Orquevaux</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La moitié des villaige, ban et seigneurie d'Orquevaulx, appellée d'ancienneté la seigneurie de Rimaucourt,</i> 
          <date>1508</date> 
          <reference>(Arch. nat., P. 174<sup>2</sup>, n° 312)</reference>.</forme_ancienne>
@@ -46659,7 +46789,9 @@
          <sm>Rochère (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Graffigny</localisation>, érigé en <date>1667</date> 
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Graffigny</commune>
+         </localisation>, érigé en <date>1667</date> 
          <reference>(Durival, III, p. 171)</reference>.</definition>
    </article>
    <article id="DT52-03126" pg="146">
@@ -47038,7 +47170,9 @@
          <sm>Rommecourt,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>Marault</localisation>.</definition>
+         <typologie>fief</typologie> qui se composait d'une partie de la seigneurie de <localisation>
+            <commune precision="certain">Marault</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Rommecour,</i> 
          <date>1683</date> 
          <reference>(Arch. nat., Q<sup>1</sup>, 691)</reference>.</forme_ancienne>
@@ -47521,7 +47655,9 @@
          <sm>Ruaux (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Joinville</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Joinville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03171" pg="149">
       <vedette>
@@ -47655,7 +47791,9 @@
          <sm>Rue (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Orges</localisation>, qui relevait de la Ferté-sur-Aube.</definition>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Orges</commune>
+         </localisation>, qui relevait de la Ferté-sur-Aube.</definition>
       <forme_ancienne>- <i>La Rue,</i> 
          <date>1603</date> 
          <reference>(Arch. nat., P. 189<sup>2</sup>, n° 1587)</reference>.</forme_ancienne>
@@ -47917,7 +48055,9 @@
          <sm>Saint-Amand,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, qui se composait d'une partie de la seigneurie de <localisation>Pancey</localisation>.</definition>
+         <typologie>fief</typologie>, qui se composait d'une partie de la seigneurie de <localisation>
+            <commune precision="certain">Pancey</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03196" pg="150">
       <vedette>
@@ -47935,7 +48075,9 @@
          <sm>Saint-Amâtre,</sm>
       </vedette>
       <definition>
-         <typologie>église paroissiale et prieuré</typologie>, dépendant de Saint-Bénigne de Dijon, à <localisation>Langres</localisation>.</definition>
+         <typologie>église paroissiale et prieuré</typologie>, dépendant de Saint-Bénigne de Dijon, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Exceptis his rebus quae sub jure ac potestate sanctorum Amatoris et Ferreoli esse noscuntur,</i> 
          <date>834</date> 
          <reference>(Roserot, Dipl. carol., p. 8)</reference>.</forme_ancienne>
@@ -48593,7 +48735,9 @@
          <sm>Saint-Didier,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Anc. prieuré, sous le vocable de saint Didier et sainte Madeleine, dépendant de l'abbaye de Molême, ordre de saint Benoit, et anciennement de l'ordre de saint Augustin.</p>
       </commentaire>
@@ -48779,7 +48923,9 @@
          <sm>Sainte-Anne,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> construite en <date>1852</date>, à <localisation>Brevoine</localisation>, <localisation>commune de Langres</localisation>, dans la maison de campagne des sœurs de la Providence de Langres <reference>(Roussel, Dioc. de Langres, II, p. 301)</reference>.</definition>
+         <typologie>chapelle</typologie> construite en <date>1852</date>, à <localisation>
+            <commune precision="certain">Brevoine</commune>
+         </localisation>, <localisation>commune de Langres</localisation>, dans la maison de campagne des sœurs de la Providence de Langres <reference>(Roussel, Dioc. de Langres, II, p. 301)</reference>.</definition>
    </article>
    <article id="DT52-03258" pg="153">
       <vedette>
@@ -48797,7 +48943,9 @@
          <sm>Sainte-Anne,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> à <localisation>Courcelotte</localisation>, <localisation>commune de Courcelles-sur-Aujon</localisation>.</definition>
+         <typologie>chapelle</typologie> à <localisation>
+            <commune precision="certain">Courcelotte</commune>
+         </localisation>, <localisation>commune de Courcelles-sur-Aujon</localisation>.</definition>
    </article>
    <article id="DT52-03260" pg="153">
       <vedette>
@@ -49130,7 +49278,9 @@
          <sm>Sainte-Croix,</sm>
       </vedette>
       <definition>
-         <typologie>ancienne paroisse</typologie>, à <localisation>Langres</localisation>, qui était érigée dans l'église cathédrale.</definition>
+         <typologie>ancienne paroisse</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, qui était érigée dans l'église cathédrale.</definition>
       <forme_ancienne>- <i>Parrochia Sancte Crucis, in matrice ecclesia,</i> 
          <date>vers 1170</date> 
          <reference>(Gall. christ., IV, instr., col. 184)</reference>.</forme_ancienne>
@@ -49566,7 +49716,9 @@
          <sm>Saint-Florentin,</sm>
       </vedette>
       <definition>
-         <typologie>église collégiale</typologie> de <localisation>Bourmont</localisation>, devenue paroissiale lors de la suppression de l'église Notre-Dame.</definition>
+         <typologie>église collégiale</typologie> de <localisation>
+            <commune precision="certain">Bourmont</commune>
+         </localisation>, devenue paroissiale lors de la suppression de l'église Notre-Dame.</definition>
       <forme_ancienne>- <i>Capellania Sancti Florentini de Bourmonte,</i> 
          <date>1402</date> 
          <reference>(Pouillé de Toul)</reference>.</forme_ancienne>
@@ -49645,7 +49797,9 @@
          <sm>Saint-Gengoul,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré</typologie>, à <localisation>Langres</localisation>, ordre de saint Benoit, dépendant de l'abbaye de Bèze ; fondé en <date>1033</date>, uni au collège de Langres en <date>1631</date>.</definition>
+         <typologie>prieuré</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, ordre de saint Benoit, dépendant de l'abbaye de Bèze ; fondé en <date>1033</date>, uni au collège de Langres en <date>1631</date>.</definition>
       <forme_ancienne>- <i>Le guet de saint Gengoul,</i> 
          <date>1409</date> 
          <reference>(arch. de Langres)</reference>.</forme_ancienne>
@@ -50218,7 +50372,9 @@
          <sm>Saint-Jude,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Langres</localisation>.</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>
             <renvoi>
@@ -50233,7 +50389,9 @@
          <sm>Saint-Julien,</sm>
       </vedette>
       <definition>
-         <typologie>lieu dit</typologie>, à <localisation>Cohons</localisation>, section D.</definition>
+         <typologie>lieu dit</typologie>, à <localisation>
+            <commune precision="certain">Cohons</commune>
+         </localisation>, section D.</definition>
       <forme_ancienne>- <i>Terragium Sancti Juliani,</i> 
          <date>1334</date> 
          <reference>(terrier de Langres)</reference>.</forme_ancienne>
@@ -50617,7 +50775,9 @@
          <sm>Saint-Luce,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, de <localisation>Chaumont-en-Bassigny</localisation>, fondée <date>vers 1663</date>.</definition>
+         <typologie>chapelle détruite</typologie>, de <localisation>
+            <commune precision="certain">Chaumont-en-Bassigny</commune>
+         </localisation>, fondée <date>vers 1663</date>.</definition>
       <forme_ancienne>- <i>Capellam sub titulo Sancti Luciani,</i> 
          <date>1704</date> 
          <reference>(arch. Haute-Marne, G. 897, f° 226 r°)</reference>.</forme_ancienne>
@@ -50668,7 +50828,9 @@
          <sm>Saint-Mammès,</sm>
       </vedette>
       <definition>
-         <typologie>chapitre et église-cathédrale</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>chapitre et église-cathédrale</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Munitionem Lingonicae civitatis, ubi habetur ecclesia in honore Sancti Mammetis, eximii martyris,</i> 
          <date>814</date> 
          <reference>(Roserot, Dipl. carol., p. 6)</reference>.</forme_ancienne>
@@ -50842,7 +51004,9 @@
          <sm>Saint-Martin,</sm>
       </vedette>
       <definition>
-         <typologie>église paroissiale</typologie> à <localisation>Langres</localisation>, ancienne église prieurale.</definition>
+         <typologie>église paroissiale</typologie> à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, ancienne église prieurale.</definition>
       <commentaire>
          <p>Le prieuré était de l'ordre de saint Benoit et dépendait de l'abbaye de Saint-Seine (Côte-d'Or). Le curé était à la présentation du prieur.</p>
       </commentaire>
@@ -50898,7 +51062,9 @@
          <sm>Saint-Martin,</sm>
       </vedette>
       <definition>
-         <typologie>bois communal</typologie>, à <localisation>Maizières-lez-Joinville</localisation>, section C.</definition>
+         <typologie>bois communal</typologie>, à <localisation>
+            <commune precision="certain">Maizières-lez-Joinville</commune>
+         </localisation>, section C.</definition>
    </article>
    <article id="DT52-03456" pg="158">
       <vedette>
@@ -51234,7 +51400,9 @@
          <sm>Saint-Michel,</sm>
       </vedette>
       <definition>
-         <typologie>église détruite, ancienne paroisse</typologie> à <localisation>Chaumont-en-Bassigny</localisation>.</definition>
+         <typologie>église détruite, ancienne paroisse</typologie> à <localisation>
+            <commune precision="certain">Chaumont-en-Bassigny</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03485" pg="159">
       <vedette>
@@ -51260,7 +51428,9 @@
          <sm>Saint-Michel,</sm>
       </vedette>
       <definition>
-         <typologie>église détruite</typologie>, à <localisation>Langres</localisation>.</definition>
+         <typologie>église détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Elle avait été donnée aux dominicains de cette ville, au <date>
                <sm>xiii</sm>
@@ -51302,7 +51472,9 @@
          <sm>Saint-Nicolas,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Bourbonne-les-Bains</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Bourbonne-les-Bains</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03492" pg="159">
       <vedette>
@@ -51653,7 +51825,9 @@
          <sm>Saint-Pierre,</sm>
       </vedette>
       <definition>
-         <typologie>abbaye, puis église paroissiale</typologie> de <localisation>Langres</localisation>, détruite à l'<date>époque révolutionnaire</date>.</definition>
+         <typologie>abbaye, puis église paroissiale</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, détruite à l'<date>époque révolutionnaire</date>.</definition>
       <forme_ancienne>- <i>Et, infra muros jam dictae Lingonis, abbatiam Sancti Petri,</i> 
          <date>814</date> 
          <reference>(Roserot, Dipl. carol., p. 6)</reference>.</forme_ancienne>
@@ -52024,7 +52198,9 @@
          <sm>Saint-Sacrement (Le),</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Langres</localisation>, dite aussi <i>Chapelle de la Cène.</i>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, dite aussi <i>Chapelle de la Cène.</i>
       </definition>
       <commentaire>
          <p>Elle était près de la porte au Pain.</p>
@@ -52049,7 +52225,9 @@
          <sm>Saint-Sauveur (Le),</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Langres</localisation>, en dehors des murs. (Peut-être la même que la précédente).</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, en dehors des murs. (Peut-être la même que la précédente).</definition>
       <forme_ancienne>- <i>Capella, seu perpetua capellania, ad altare seu sub invocatione Sancti Salvatoris, prope et extra muros Lingonenses,</i> 
          <date>1577</date> 
          <reference>(arch. Haute-Marne, G. 876, f° 779 r°)</reference>.</forme_ancienne>
@@ -52100,7 +52278,9 @@
          <sm>Saint-Sulpice,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Belfond</localisation>, <localisation>commune de Genevrières</localisation>.</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Belfond</commune>
+         </localisation>, <localisation>commune de Genevrières</localisation>.</definition>
    </article>
    <article id="DT52-03566" pg="161">
       <vedette>
@@ -52844,7 +53024,9 @@
          <sm>Saulx (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui sort de <localisation>Germay</localisation>, arrose <localisation>Harméville</localisation>, où elle forme un étang, puis <localisation>Échènay, Pancey et Paroy</localisation>, et entre alors dans le <localisation>département de la Meuse</localisation>.</definition>
+         <typologie>rivière</typologie> qui sort de <localisation>
+            <commune precision="certain">Germay</commune>
+         </localisation>, arrose <localisation>Harméville</localisation>, où elle forme un étang, puis <localisation>Échènay, Pancey et Paroy</localisation>, et entre alors dans le <localisation>département de la Meuse</localisation>.</definition>
       <forme_ancienne>- <i>Saltus,</i> 
          <date>vers 904</date> 
          <reference>(cartul. du chantre Warin)</reference>.</forme_ancienne>
@@ -54074,7 +54256,9 @@
          <sm>Sous-Mur,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Porta de submuro,</i> 
          <date>1270</date> 
          <reference>(cartul. chapitre de Langres, f° 115 v°)</reference>.</forme_ancienne>
@@ -54139,7 +54323,9 @@
          <sm>Suize (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation>Perrogney</localisation>, passe à <localisation>Voisines, Ormancey, Marac, Faverolles, Villiers-sur-Suize, Rochevilliers, Crenay, Neuilly-sur-Suize et Brottes</localisation>, et se jette dans la Marne après être passée sous le <localisation>viaduc de Chaumont</localisation> et avoir traversé <localisation>Buxereuilles</localisation>, hameau de Chaumont.</definition>
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Perrogney</commune>
+         </localisation>, passe à <localisation>Voisines, Ormancey, Marac, Faverolles, Villiers-sur-Suize, Rochevilliers, Crenay, Neuilly-sur-Suize et Brottes</localisation>, et se jette dans la Marne après être passée sous le <localisation>viaduc de Chaumont</localisation> et avoir traversé <localisation>Buxereuilles</localisation>, hameau de Chaumont.</definition>
       <forme_ancienne>- <i>Amnis Secucie,</i> 
          <date>vers 1123</date> 
          <reference>(arch. Côte-d'Or, Morment)</reference>.</forme_ancienne>
@@ -54319,7 +54505,9 @@
       <vedette>
          <sm>Taillesac,</sm>
       </vedette>
-      <definition>nom du <typologie>moulin d'en bas</typologie>, à <localisation>Échènay</localisation>, sur l'emplacement duquel le président de Pimodan établit, entre <date>1701</date> et <date>1740</date>, une forge et fourneau <reference>(arch. Pimodan, Invent. de titres d'Échènay, f° 46 v°)</reference>.</definition>
+      <definition>nom du <typologie>moulin d'en bas</typologie>, à <localisation>
+            <commune precision="certain">Échènay</commune>
+         </localisation>, sur l'emplacement duquel le président de Pimodan établit, entre <date>1701</date> et <date>1740</date>, une forge et fourneau <reference>(arch. Pimodan, Invent. de titres d'Échènay, f° 46 v°)</reference>.</definition>
       <forme_ancienne>- <i>Taillesac,</i> 
          <date>1682</date> 
          <reference>(arch. Pimodan)</reference>.</forme_ancienne>
@@ -54433,7 +54621,9 @@
          <sm>Tanneries (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Chaumont-en-Bassigny</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Chaumont-en-Bassigny</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Fauxbourg Saint-Jean,</i> 
          <date>
             <sm>xviii</sm>
@@ -54999,7 +55189,9 @@
          <sm>Tour (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était à <localisation>Chevillon</localisation>.</definition>
+         <typologie>fief</typologie> qui était à <localisation>
+            <commune precision="certain">Chevillon</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03734" pg="171">
       <vedette>
@@ -55046,7 +55238,9 @@
          <sm>Tour (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Maizières-sur-Amance</localisation>, qui appartenait au commandeur de la Romagne depuis <date>1665</date>.</definition>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Maizières-sur-Amance</commune>
+         </localisation>, qui appartenait au commandeur de la Romagne depuis <date>1665</date>.</definition>
       <forme_ancienne>- <i>La Tour Saint-Jean,</i> 
          <date>1875</date> 
          <reference>(Roussel, Dioc. de Langres, II, p. 286)</reference>.</forme_ancienne>
@@ -55087,7 +55281,9 @@
       <vedette>
          <sm>Tour (La),</sm>
       </vedette>
-      <definition>nom d'une des trois <typologie>seigneurie</typologie>s dont se composait la terre de <localisation>Poinson-lez-Nogent</localisation>.</definition>
+      <definition>nom d'une des trois <typologie>seigneurie</typologie>s dont se composait la terre de <localisation>
+            <commune precision="certain">Poinson-lez-Nogent</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>La Tour,</i> 
          <date>1536</date> 
          <reference>(Voillemier)</reference>.</forme_ancienne>
@@ -55113,7 +55309,9 @@
          <sm>Tour-aux-Champs (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> qui était à <localisation>Curel</localisation>, près de l'église.</definition>
+         <typologie>fief</typologie> qui était à <localisation>
+            <commune precision="certain">Curel</commune>
+         </localisation>, près de l'église.</definition>
       <forme_ancienne>- <i>La Tour aux Champs,</i> 
          <date>1576</date> 
          <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
@@ -55147,7 +55345,9 @@
          <sm>Tourterelle,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Provenchères-sur-Meuse</localisation>, et ferme construite à la <date>fin du <sm>xviii</sm>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Provenchères-sur-Meuse</commune>
+         </localisation>, et ferme construite à la <date>fin du <sm>xviii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>- <i>Ung gaignage nommé Torteret,</i> 
          <date>1498</date> 
@@ -55194,7 +55394,9 @@
          <sm>Traille (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Orcevaux</localisation>.</definition>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Orcevaux</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Le fief de la Traille, scis à Orcevaux,</i> 
          <date>1675</date> 
          <reference>(arch. Haute-Marne, G. 85)</reference>.</forme_ancienne>
@@ -55359,7 +55561,9 @@
          <sm>Trésorerie (La),</sm>
       </vedette>
       <definition>
-         <typologie>ancien quartier</typologie> de <localisation>Langres</localisation>, section C.</definition>
+         <typologie>ancien quartier</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>, section C.</definition>
       <forme_ancienne>- <i>Burgum Thesaurarie,</i> 
          <date>1263-1264</date> 
          <reference>(bibl. de Langres, ms. 37, f° 91)</reference>.</forme_ancienne>
@@ -55547,7 +55751,9 @@
          <sm>Trois-Rois (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Langres</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Langres</commune>
+         </localisation>.</definition>
    </article>
    <article type="commune" id="DT52-03777" pg="172">
       <vedette>
@@ -56827,7 +57033,9 @@
          <sm>Val-de-Vassy (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Joinville</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Joinville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03888" pg="176">
       <vedette>
@@ -57113,7 +57321,9 @@
          <sm>Valroy (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Joinville</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Joinville</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT52-03905" pg="177">
       <vedette>
@@ -58453,7 +58663,9 @@
          <sm>Verrerie (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie>, à <localisation>Villars-en-Azois</localisation> ; relevait de la Ferté-sur-Aube.</definition>
+         <typologie>fief</typologie>, à <localisation>
+            <commune precision="certain">Villars-en-Azois</commune>
+         </localisation> ; relevait de la Ferté-sur-Aube.</definition>
       <forme_ancienne>- <i>La Verrerie,</i> 
          <date>1603</date> 
          <reference>(Arch. nat., P. 189<sup>2</sup>, n° 1587)</reference>.</forme_ancienne>
@@ -59886,7 +60098,9 @@
          <sm>Villecet,</sm>
       </vedette>
       <definition>
-         <typologie>village détruit</typologie>, qui était dans la vallée du Rognon, du côté de <localisation>Bettaincourt</localisation>.</definition>
+         <typologie>village détruit</typologie>, qui était dans la vallée du Rognon, du côté de <localisation>
+            <commune precision="certain">Bettaincourt</commune>
+         </localisation>.</definition>
       <forme_ancienne>- <i>Juxta vicum qui Vilecet nuncupatur,</i> 
          <date>vers 1120</date> 
          <reference>(Jolibois : La Haute-Marne, p. 528)</reference>.</forme_ancienne>
@@ -60215,7 +60429,9 @@
       <vedette>
          <sm>Villeneuve-en-Vavre (La),</sm>
       </vedette>
-      <definition>nom primitif de <localisation>Chanteraine</localisation> 
+      <definition>nom primitif de <localisation>
+            <commune precision="certain">Chanteraine</commune>
+         </localisation> 
          <reference>(Jolibois : La Haute-Marne, p. 325)</reference>.</definition>
    </article>
    <article id="DT52-04087" pg="187">
@@ -60604,7 +60820,9 @@
          <sm>Vingeanne (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, affluent de la Saône, qui prend sa source à <localisation>Aprey</localisation>, parcourt les <localisation>territoires de Baissey, Vesvre, Villegusien, Piépape, Dammarien, Choilley, Dardenay, Cusey</localisation>, et sort alors du département.</definition>
+         <typologie>rivière</typologie>, affluent de la Saône, qui prend sa source à <localisation>
+            <commune precision="certain">Aprey</commune>
+         </localisation>, parcourt les <localisation>territoires de Baissey, Vesvre, Villegusien, Piépape, Dammarien, Choilley, Dardenay, Cusey</localisation>, et sort alors du département.</definition>
       <forme_ancienne>- <i>Fluvius Vincenna,</i> 
          <date>902</date> 
          <reference>(Roserot, Dipl. carol., p. 28)</reference>.</forme_ancienne>
@@ -60806,7 +61024,9 @@
          <sm>Vivier (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Bourbonne-les-Bains</localisation>, section F.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Bourbonne-les-Bains</commune>
+         </localisation>, section F.</definition>
    </article>
    <article id="DT52-04114" pg="189">
       <vedette>

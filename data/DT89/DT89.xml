@@ -58,7 +58,9 @@
          <sm>Abreuvoir (L'),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Civry</localisation>, où il se jette dans le Serain.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Civry</commune>
+         </localisation>, où il se jette dans le Serain.</definition>
    </article>
    <article id="DT89-00008" pg="1">
       <vedette>
@@ -1310,7 +1312,9 @@
          <sm>Armance,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation>Meix-Robert</localisation> (Aube) et se jette dans l'Armançon à <localisation>Saint-Florentin</localisation>.</definition>
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Meix-Robert</commune>
+         </localisation> (Aube) et se jette dans l'Armançon à <localisation>Saint-Florentin</localisation>.</definition>
       <forme_ancienne>— <i>Esmantia,</i> 
          <date>1133</date> 
          <reference>(abb. de Pontigny)</reference>.</forme_ancienne>
@@ -1332,7 +1336,9 @@
          <sm>Armançon,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>Châtellenot</localisation> (Côte-d'Or), trav. l'<localisation>arrondissement de Tonnerre</localisation> et une partie de ceux <localisation>d'Auxerre et de Joigny</localisation> et se jette dans l'Yonne à <localisation>Cheny</localisation>.</definition>
+         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>
+            <commune precision="certain">Châtellenot</commune>
+         </localisation> (Côte-d'Or), trav. l'<localisation>arrondissement de Tonnerre</localisation> et une partie de ceux <localisation>d'Auxerre et de Joigny</localisation> et se jette dans l'Yonne à <localisation>Cheny</localisation>.</definition>
       <forme_ancienne>— <i>Hermentaria,</i> 
          <date>833</date> 
          <reference>(cart. gén. de l'Yonne, I, 41)</reference>.</forme_ancienne>
@@ -1898,7 +1904,9 @@
          <sm>Aussenot,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Saint-Léger-de-Foucherets</localisation> et se jette dans le Trinquelin.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Saint-Léger-de-Foucherets</commune>
+         </localisation> et se jette dans le Trinquelin.</definition>
       <forme_ancienne>— <i>Ausum fluviolum,</i> 
          <date>1164</date> 
          <reference>(cart. gén. de l'Yonne, II, 173)</reference>.</forme_ancienne>
@@ -3124,7 +3132,9 @@
          <sm>Barres (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sur <localisation>Brannay</localisation>, relevant du roi, <date>1500</date> (arch. de l'Empire, P. Hommages de France).</definition>
+         <typologie>fief</typologie> sur <localisation>
+            <commune precision="certain">Brannay</commune>
+         </localisation>, relevant du roi, <date>1500</date> (arch. de l'Empire, P. Hommages de France).</definition>
    </article>
    <article id="DT89-00241" pg="8">
       <vedette>
@@ -3766,7 +3776,9 @@
          <sm>Beaulche,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Diges</localisation> et se jette dans l'Yonne, rive gauche, sur Monéteau.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Diges</commune>
+         </localisation> et se jette dans l'Yonne, rive gauche, sur Monéteau.</definition>
       <forme_ancienne>— <i>Belcha fluvium,</i> 
          <date>vers 680</date> 
          <reference>(cart. gén. de l'Yonne, I, 18)</reference>.</forme_ancienne>
@@ -4179,7 +4191,9 @@
          <sm>Beauvais,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>Sauvigny-le-Beuréal</localisation> et se jette dans le Serain à <localisation>Sainte-Magnance</localisation>.</definition>
+         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Sauvigny-le-Beuréal</commune>
+         </localisation> et se jette dans le Serain à <localisation>Sainte-Magnance</localisation>.</definition>
    </article>
    <article id="DT89-00347" pg="10">
       <vedette>
@@ -4285,7 +4299,9 @@
       <vedette>
          <sm>Bec (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Domats</localisation> et se jette dans le Loing sur le même territoire.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Domats</commune>
+         </localisation> et se jette dans le Loing sur le même territoire.</definition>
    </article>
    <article id="DT89-00357" pg="11">
       <vedette>
@@ -4300,7 +4316,9 @@
          <sm>Bécasse (La),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>Annay-la-Côte</localisation> et se jette dans le ruisseau du Bouchat à <localisation>Annéot</localisation>.</definition>
+         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Annay-la-Côte</commune>
+         </localisation> et se jette dans le ruisseau du Bouchat à <localisation>Annéot</localisation>.</definition>
    </article>
    <article id="DT89-00359" pg="11">
       <vedette>
@@ -5325,7 +5343,9 @@
       </vedette>
         <definition>
          <typologie>montagne</typologie>, sur laquelle s'élevait l'ancien château de
-            <localisation>Tonnerre</localisation> (<reference>(Cart. de Saint-Michel de Tonnerre)</reference>.</definition>
+            <localisation>
+            <commune precision="certain">Tonnerre</commune>
+         </localisation> (<reference>(Cart. de Saint-Michel de Tonnerre)</reference>.</definition>
     </article>
    <article type="commune" id="DT89-00466" pg="12">
       <vedette>
@@ -5962,7 +5982,9 @@
       </vedette>
         <definition>
          <date>1491</date>, <typologie>fief entouré de fossés</typologie> ; situé sur la
-            justice de <localisation>Seignelay</localisation>, dont il relevait (<reference>Masle,
+            justice de <localisation>
+            <commune precision="certain">Seignelay</commune>
+         </localisation>, dont il relevait (<reference>Masle,
                 notaire ; arch. de l'Yonne)</reference>.</definition>
     </article>
    <article type="commune" id="DT89-00527" pg="14">
@@ -6781,7 +6803,9 @@
          <sm>Bollerupt,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Ragny</localisation>, <localisation>commune de Savigny</localisation>, et se jette dans le <localisation>ruisseau de Touchebœuf</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Ragny</commune>
+         </localisation>, <localisation>commune de Savigny</localisation>, et se jette dans le <localisation>ruisseau de Touchebœuf</localisation>.</definition>
    </article>
    <article id="DT89-00612" pg="15">
       <vedette>
@@ -7028,7 +7052,9 @@
          <sm>Bord,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation>Bligny-en-Othe</localisation> et se jette dans l'Armançon à <localisation>Brienon</localisation>.</definition>
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
+            <commune precision="certain">Bligny-en-Othe</commune>
+         </localisation> et se jette dans l'Armançon à <localisation>Brienon</localisation>.</definition>
    </article>
    <article id="DT89-00639" pg="16">
       <vedette>
@@ -7323,7 +7349,9 @@
          <sm>Bornon,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Tanlay</localisation> et se jette dans l'Armançon à <localisation>Aisy</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Tanlay</commune>
+         </localisation> et se jette dans l'Armançon à <localisation>Aisy</localisation>.</definition>
    </article>
    <article id="DT89-00673" pg="16">
       <vedette>
@@ -7409,7 +7437,9 @@
          <sm>Bouchat (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Vassy</localisation>, <localisation>commune d'Étaules</localisation>, et se jette dans le Cousin au <localisation>Vault</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Vassy</commune>
+         </localisation>, <localisation>commune d'Étaules</localisation>, et se jette dans le Cousin au <localisation>Vault</localisation>.</definition>
    </article>
    <article id="DT89-00682" pg="17">
       <vedette>
@@ -7951,7 +7981,9 @@
          <sm>Bour-Bérault,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Tonnerre</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Tonnerre</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Burgus Beraldi,</i> 
          <date>1153</date> 
          <reference>(cart. gén. de l'Yonne, I, 512)</reference>.</forme_ancienne>
@@ -8173,7 +8205,9 @@
       <vedette>
          <sm>Bourgogne (Canal de),</sm>
       </vedette>
-      <definition>traverse le départ. de l'Yonne par <localisation>Aisy</localisation>, dans l'<localisation>arrondissement de Tonnerre</localisation>, et va se jeter dans l'Yonne à la <localisation>Roche</localisation>.</definition>
+      <definition>traverse le départ. de l'Yonne par <localisation>
+            <commune precision="certain">Aisy</commune>
+         </localisation>, dans l'<localisation>arrondissement de Tonnerre</localisation>, et va se jeter dans l'Yonne à la <localisation>Roche</localisation>.</definition>
    </article>
    <article id="DT89-00759" pg="18">
       <vedette>
@@ -10187,7 +10221,9 @@
          <sm>Buisson-Goudeau,</sm>
       </vedette>
       <definition>
-         <date>1697</date>. <typologie>Fief</typologie> dépendant de la terre de <localisation>Poilly-près-Aillant</localisation> (<reference>prieuré de
+         <date>1697</date>. <typologie>Fief</typologie> dépendant de la terre de <localisation>
+            <commune precision="certain">Poilly-près-Aillant</commune>
+         </localisation> (<reference>prieuré de
     Vieupou)</reference>.</definition>
       <forme_ancienne>— <i>Godeau,</i> 
          <date>1604</date>, fief relev. de Saint-Maurice-Thizouaille. Le château a été détruit, ainsi que la ferme qui l'avait remplacé.</forme_ancienne>
@@ -10760,7 +10796,9 @@
          <sm>Caprenciæ,</sm>
       </vedette>
       <definition>
-         <typologie>lieu détruit</typologie>, aux environs de <localisation>Vinneuf</localisation>, <date>833</date> 
+         <typologie>lieu détruit</typologie>, aux environs de <localisation>
+            <commune precision="certain">Vinneuf</commune>
+         </localisation>, <date>833</date> 
          <reference>(cart. gén. de l'Yonne, I, 41)</reference>.</definition>
    </article>
    <article id="DT89-01012" pg="23">
@@ -12711,7 +12749,9 @@
          <sm>Champ-Millier,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Époisses</localisation> (Côte-d'Or) et se jette dans le <localisation>ruisseau de Perrigny</localisation>, <localisation>commune de Guillon</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Époisses</commune>
+         </localisation> (Côte-d'Or) et se jette dans le <localisation>ruisseau de Perrigny</localisation>, <localisation>commune de Guillon</localisation>.</definition>
    </article>
    <article id="DT89-01188" pg="27">
       <vedette>
@@ -13554,7 +13594,9 @@
          <sm>Charency,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation>Charency</localisation> (Nièvre) et se jette dans la Cure, <localisation>commune de Pierre-Pertuis</localisation>.</definition>
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
+            <commune precision="certain">Charency</commune>
+         </localisation> (Nièvre) et se jette dans la Cure, <localisation>commune de Pierre-Pertuis</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-01261" pg="29">
       <vedette>
@@ -13955,7 +13997,9 @@
          <sm>Charrot,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Courcelles</localisation>, <localisation>commune de Neuvy</localisation>, et se jette dans l'Armançon à <localisation>Beugnon</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Courcelles</commune>
+         </localisation>, <localisation>commune de Neuvy</localisation>, et se jette dans l'Armançon à <localisation>Beugnon</localisation>.</definition>
    </article>
    <article id="DT89-01298" pg="30">
       <vedette>
@@ -15730,7 +15774,9 @@
       </vedette>
         <definition>
          <typologie>château</typologie> existant autrefois sur la paroisse de
-            <localisation>Saint-Eusoge</localisation>, auj. détruit <reference>(Annuaire de l'Yonne,
+            <localisation>
+            <commune precision="certain">Saint-Eusoge</commune>
+         </localisation>, auj. détruit <reference>(Annuaire de l'Yonne,
                 1862 ; notice sur la Puisaye, par B. Duranton, p. 116)</reference>.</definition>
         </article>
    <article id="DT89-01458" pg="35">
@@ -16351,7 +16397,9 @@
       </vedette>
       <definition>
          <i>Cauliacus, la maison de Choly,</i> 
-         <date>1409</date>, <typologie>fief</typologie> relev. de <localisation>Saint-Bris</localisation> 
+         <date>1409</date>, <typologie>fief</typologie> relev. de <localisation>
+            <commune precision="certain">Saint-Bris</commune>
+         </localisation> 
          <reference>(inv. de la maison de Chalon, t. I, C 61, bibl. de Besançon)</reference>.</definition>
       <commentaire>
          <p>
@@ -17902,7 +17950,9 @@
          <sm>Coudre (Notre-Dame-de-la-),</sm>
       </vedette>
       <definition>
-         <typologie>ancien prieuré</typologie> de l'ordre de <localisation>Saint-Benoît</localisation>, situé <localisation>commune de Fley</localisation> ; aujourd'hui détruit.</definition>
+         <typologie>ancien prieuré</typologie> de l'ordre de <localisation>
+            <commune precision="certain">Saint-Benoît</commune>
+         </localisation>, situé <localisation>commune de Fley</localisation> ; aujourd'hui détruit.</definition>
    </article>
    <article id="DT89-01659" pg="39">
       <vedette>
@@ -17946,7 +17996,9 @@
       <vedette>
          <sm>Couées (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Auxon</localisation>, <localisation>commune de Saint-Brancher</localisation>, et se jette dans le Cousin à <localisation>Magny</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Auxon</commune>
+         </localisation>, <localisation>commune de Saint-Brancher</localisation>, et se jette dans le Cousin à <localisation>Magny</localisation>.</definition>
    </article>
    <article id="DT89-01664" pg="39">
       <vedette>
@@ -18949,7 +19001,9 @@
          <sm>Cousin,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source aux <localisation>Ponts-de-Cussy</localisation> (Yonne) et se jette dans la Cure à <localisation>Blannay</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source aux <localisation>
+            <commune precision="certain">Ponts-de-Cussy</commune>
+         </localisation> (Yonne) et se jette dans la Cure à <localisation>Blannay</localisation>.</definition>
       <forme_ancienne>— <i>Cosa,</i> 
          <date>1147</date> 
          <reference>(cart. gén. de l'Yonne, I, 428)</reference>.</forme_ancienne>
@@ -19036,7 +19090,9 @@
          <sm>Coutart,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sur <localisation>Rogny</localisation> relevant du <localisation>seigneur de la Brenellerie</localisation>, <date>1510</date> (f. Jaupitre).</definition>
+         <typologie>fief</typologie> sur <localisation>
+            <commune precision="certain">Rogny</commune>
+         </localisation> relevant du <localisation>seigneur de la Brenellerie</localisation>, <date>1510</date> (f. Jaupitre).</definition>
    </article>
    <article id="DT89-01744" pg="42">
       <vedette>
@@ -19259,7 +19315,9 @@
          <sm>Creussant,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Provanchère</localisation>, <pg>43</pg>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Provanchère</commune>
+         </localisation>, <pg>43</pg>
          <localisation>commune de Saint-Léger-de-Foucherets</localisation>, et se jette dans le Trinquelin, <localisation>commune de Saint-Brancher</localisation>.</definition>
       <forme_ancienne>— <i>Cresseant,</i> 
          <date>1153</date> 
@@ -19310,7 +19368,9 @@
          <sm>Crisenet,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Tharoiseau</localisation> et se jette dans la Cure, <localisation>commune de Saint-Père</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Tharoiseau</commune>
+         </localisation> et se jette dans la Cure, <localisation>commune de Saint-Père</localisation>.</definition>
    </article>
    <article id="DT89-01767" pg="43">
       <vedette>
@@ -19853,7 +19913,9 @@
          <sm>Cure,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>Gien-sur-Cure</localisation> (Nièvre) et se jette dans l'Yonne à <localisation>Cravan</localisation>, après avoir traversé l'<localisation>arrondissement d'Avallon</localisation>.</definition>
+         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>
+            <commune precision="certain">Gien-sur-Cure</commune>
+         </localisation> (Nièvre) et se jette dans l'Yonne à <localisation>Cravan</localisation>, après avoir traversé l'<localisation>arrondissement d'Avallon</localisation>.</definition>
       <forme_ancienne>— <i>Cora,</i> 
          <date>
             <sm>vi</sm>
@@ -21271,7 +21333,9 @@
       <vedette>
          <sm>Durands (Ru des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Pourrain</localisation> et se jette dans le Tholon à <localisation>Beauvoir</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Pourrain</commune>
+         </localisation> et se jette dans le Tholon à <localisation>Beauvoir</localisation>.</definition>
    </article>
    <article id="DT89-01932" pg="47">
       <vedette>
@@ -22356,7 +22420,9 @@
       <vedette>
          <sm>Étang-des-Minimes (Ruisseau de l'),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Saint-Jean</localisation>, <localisation>commune de Sauvigny-le-Bois</localisation>, et se jette dans le Cousin à <localisation>Avallon</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Saint-Jean</commune>
+         </localisation>, <localisation>commune de Sauvigny-le-Bois</localisation>, et se jette dans le Cousin à <localisation>Avallon</localisation>.</definition>
    </article>
    <article id="DT89-02014" pg="50">
       <vedette>
@@ -22417,7 +22483,9 @@
       <vedette>
          <sm>Étangs-de-Marrault (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Charmolin</localisation>, <localisation>commune de Quarré</localisation>, et se jette dans le Cousin, <localisation>commune de Magny</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Charmolin</commune>
+         </localisation>, <localisation>commune de Quarré</localisation>, et se jette dans le Cousin, <localisation>commune de Magny</localisation>.</definition>
    </article>
    <article id="DT89-02022" pg="50">
       <vedette>
@@ -22632,7 +22700,9 @@
          <sm>Faine</sm> et <sm>Givry,</sm>
       </vedette>
       <definition>
-         <typologie>bois communal</typologie> de <localisation>Courson</localisation>.</definition>
+         <typologie>bois communal</typologie> de <localisation>
+            <commune precision="certain">Courson</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT89-02039" pg="51">
       <vedette>
@@ -23717,7 +23787,9 @@
       <vedette>
          <sm>Fons Regius</sm> (<i>monasterium</i>),</vedette>
       <definition>
-         <typologie>monastère</typologie> de <localisation>Druyes</localisation>, <date>
+         <typologie>monastère</typologie> de <localisation>
+            <commune precision="certain">Druyes</commune>
+         </localisation>, <date>
             <sm>vi</sm>
             <sup>e</sup> siècle</date> (Vie de saint Romain, dans D. Cottron ; Hist. de l'abbaye Saint-Germain d'Auxerre).</definition>
       <commentaire>
@@ -23824,7 +23896,9 @@
          <sm>Fontaine-du-Charme,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Chêne-Arnoult</localisation> et se jette dans l'Ouanne à <localisation>Douchy</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Chêne-Arnoult</commune>
+         </localisation> et se jette dans l'Ouanne à <localisation>Douchy</localisation>.</definition>
    </article>
    <article id="DT89-02153" pg="53">
       <vedette>
@@ -23843,7 +23917,9 @@
          <sm>Fontaine-Froide,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à la <localisation>Chapelle-Vieille-Forêt</localisation>, où il se jette dans l'Armançon.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à la <localisation>
+            <commune precision="certain">Chapelle-Vieille-Forêt</commune>
+         </localisation>, où il se jette dans l'Armançon.</definition>
    </article>
    <article id="DT89-02155" pg="53">
       <vedette>
@@ -24021,7 +24097,9 @@
       <vedette>
          <sm>Fontaines (Ru des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Brienon</localisation> et se jette dans l'Armançon au même lieu.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Brienon</commune>
+         </localisation> et se jette dans l'Armançon au même lieu.</definition>
    </article>
    <article id="DT89-02169" pg="54">
       <vedette>
@@ -24354,7 +24432,9 @@
          <sm>Forêt-Ferou,</sm>
       </vedette>
       <definition>
-         <typologie>fief du comté</typologie> de <localisation>Tonnerre</localisation>, <localisation>commune d'Épineuil</localisation>.</definition>
+         <typologie>fief du comté</typologie> de <localisation>
+            <commune precision="certain">Tonnerre</commune>
+         </localisation>, <localisation>commune d'Épineuil</localisation>.</definition>
       <forme_ancienne>— <i>Forest-Ferouille</i>, appelée aussi <i>les Graveries</i> 
          <date>1277</date> 
          <renvoi>Voy. <sm>GRAVERIES (LES)</sm>
@@ -25791,7 +25871,9 @@
          <sm>Froideau,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation>Boullay</localisation>, <localisation>commune de Neuvy</localisation>, et se jette dans l'Armançon sur la même commune.</definition>
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
+            <commune precision="certain">Boullay</commune>
+         </localisation>, <localisation>commune de Neuvy</localisation>, et se jette dans l'Armançon sur la même commune.</definition>
    </article>
    <article id="DT89-02341" pg="57">
       <vedette>
@@ -26811,7 +26893,9 @@
          <sm>Genotte,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Charentenay</localisation> et se jette dans l'Yonne sur la <localisation>commune de Vincelles</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Charentenay</commune>
+         </localisation> et se jette dans l'Yonne sur la <localisation>commune de Vincelles</localisation>.</definition>
       <forme_ancienne>— <i>Junecte,</i> 
          <date>1385</date> ;</forme_ancienne>
       <forme_ancienne>
@@ -27646,7 +27730,9 @@
          <sm>Gouaix,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Saint-Bris</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Saint-Bris</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Gaugiacus,</i> 
          <date>
             <sm>vi</sm>
@@ -27771,7 +27857,9 @@
       <vedette>
          <sm>Goulotte</sm> ou <sm>des Chaumes (Ruisseau de la),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Guilleron</localisation>, <localisation>commune d'Avallon</localisation>, et se jette dans le Cousin sur la même commune.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Guilleron</commune>
+         </localisation>, <localisation>commune d'Avallon</localisation>, et se jette dans le Cousin sur la même commune.</definition>
    </article>
    <article id="DT89-02544" pg="61">
       <vedette>
@@ -28423,7 +28511,9 @@
          <sm>Gréau (Le),</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>Ronchères</localisation> et se jette dans le Branlin à <localisation>Malicorne</localisation>.</definition>
+         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Ronchères</commune>
+         </localisation> et se jette dans le Branlin à <localisation>Malicorne</localisation>.</definition>
    </article>
    <article id="DT89-02611" pg="63">
       <vedette>
@@ -28519,7 +28609,9 @@
       <vedette>
          <sm>Grenouille (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Champien</localisation>, <localisation>commune d'Avallon</localisation>, et se jette dans le Cousin à <localisation>Pontaubert</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Champien</commune>
+         </localisation>, <localisation>commune d'Avallon</localisation>, et se jette dans le Cousin à <localisation>Pontaubert</localisation>.</definition>
    </article>
    <article id="DT89-02622" pg="63">
       <vedette>
@@ -29003,7 +29095,9 @@
          <sm>Guay-du-Ravoy,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> relevant de <localisation>Malicorne</localisation>, en <date>1662</date>, en antérieurement de Charny (f. Texier d'Hautefeuille).</definition>
+         <typologie>fief</typologie> relevant de <localisation>
+            <commune precision="certain">Malicorne</commune>
+         </localisation>, en <date>1662</date>, en antérieurement de Charny (f. Texier d'Hautefeuille).</definition>
    </article>
    <article id="DT89-02669" pg="64">
       <vedette>
@@ -30571,7 +30665,9 @@
       <vedette>
          <sm>Ingeron (Ruisseau d'),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Armes</localisation>, <localisation>commune de Saints</localisation>, et se jette dans le Branlin, même territoire.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Armes</commune>
+         </localisation>, <localisation>commune de Saints</localisation>, et se jette dans le Branlin, même territoire.</definition>
    </article>
    <article type="commune" id="DT89-02834" pg="67">
       <vedette>
@@ -32386,7 +32482,9 @@
          <sm>Lecaron,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Villiers</localisation> et se perd dans les terres au-dessus de <localisation>Béru</localisation>.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Villiers</commune>
+         </localisation> et se perd dans les terres au-dessus de <localisation>Béru</localisation>.</definition>
    </article>
    <article id="DT89-02991" pg="72">
       <vedette>
@@ -32453,7 +32551,9 @@
          <sm>Leudion,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, prend sa source à <localisation>Rugny</localisation> et se jette dans l'Étourny à <localisation>Trichey</localisation>.</definition>
+         <typologie>ruisseau</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Rugny</commune>
+         </localisation> et se jette dans l'Étourny à <localisation>Trichey</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-02997" pg="72">
       <vedette>
@@ -32681,7 +32781,9 @@
       <vedette>
          <sm>Liens (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Treigny</localisation> et se jette dans la Vrille.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Treigny</commune>
+         </localisation> et se jette dans la Vrille.</definition>
    </article>
    <article id="DT89-03010" pg="72">
       <vedette>
@@ -32791,7 +32893,9 @@
          <sm>Ligny-le-Châtel,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>Auxerre</localisation> ; commune formée de Ligny-la-Ville et de Ligny-le-Châtel.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>
+            <commune precision="certain">Auxerre</commune>
+         </localisation> ; commune formée de Ligny-la-Ville et de Ligny-le-Châtel.</definition>
       <forme_ancienne>— <i>Lageniacum,</i> 
          <date>1108</date> 
          <reference>(cart. gén. de l'Yonne, I, 216)</reference>.</forme_ancienne>
@@ -33487,7 +33591,9 @@
          <sm>Louze</sm> ou <sm>Tirelouze,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sur <localisation>Grange-le-Bocage</localisation>, relevant de Thorigny, <date>1624</date> (ém. Planelli).</definition>
+         <typologie>fief</typologie> sur <localisation>
+            <commune precision="certain">Grange-le-Bocage</commune>
+         </localisation>, relevant de Thorigny, <date>1624</date> (ém. Planelli).</definition>
    </article>
    <article id="DT89-03077" pg="74">
       <vedette>
@@ -33668,7 +33774,9 @@
          <sm>Lunain,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation>Courtoin</localisation> et se jette dans le Loing à <localisation>Épizy</localisation> (Seine-et-Marne).</definition>
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Courtoin</commune>
+         </localisation> et se jette dans le Loing à <localisation>Épizy</localisation> (Seine-et-Marne).</definition>
    </article>
    <article id="DT89-03090" pg="75">
       <vedette>
@@ -35199,7 +35307,9 @@
          <sm>Marchais-Ralu (Le),</sm> dit <sm>du Saussoy,</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie> de <localisation>Cerisiers</localisation>.</definition>
+         <typologie>hameau</typologie> de <localisation>
+            <commune precision="certain">Cerisiers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Marchais-Rallus,</i> 
          <date>1629</date> 
          <reference>(abb. Saint-Remy de Sens, terrier de Sens, etc.)</reference>.</forme_ancienne>
@@ -36255,7 +36365,9 @@
          <sm>Mauvotte,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source dans les fossés de l'ancien château de Voisines et se jette dans l'Yonne à <localisation>Saint-Denis</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source dans les fossés de l'ancien château de Voisines et se jette dans l'Yonne à <localisation>
+            <commune precision="certain">Saint-Denis</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Malvetum,</i> 
          <date>1160</date> 
          <reference>(cart. gén. de l'Yonne, II, 107)</reference>.</forme_ancienne>
@@ -36577,7 +36689,9 @@
       <vedette>
          <sm>Merdereau (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Brienon</localisation> et s'y jette dans la Brumance.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Brienon</commune>
+         </localisation> et s'y jette dans la Brumance.</definition>
    </article>
    <article type="commune" id="DT89-03367" pg="81">
       <vedette>
@@ -39086,7 +39200,9 @@
          <sm>Montréal,</sm>
       </vedette>
       <definition>
-         <typologie>prieuré et hôpital</typologie> de <localisation>Saint-Bernard</localisation>, dépendant de la prévôté de Saint-Bernard du Mont-Jou, fondé au <date>
+         <typologie>prieuré et hôpital</typologie> de <localisation>
+            <commune precision="certain">Saint-Bernard</commune>
+         </localisation>, dépendant de la prévôté de Saint-Bernard du Mont-Jou, fondé au <date>
             <sm>xi</sm>
             <sup>e</sup> siècle</date>, <localisation>commune de Montréal</localisation>.</definition>
    </article>
@@ -41556,7 +41672,9 @@
       <vedette>
          <sm>Nivernais (Canal du),</sm>
       </vedette>
-      <definition>commence à <localisation>Decize</localisation> (Nièvre), entre dans le <localisation>département de l'Yonne</localisation> au-dessus de Coulanges et se termine à <localisation>Auxerre</localisation>.</definition>
+      <definition>commence à <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation> (Nièvre), entre dans le <localisation>département de l'Yonne</localisation> au-dessus de Coulanges et se termine à <localisation>Auxerre</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-03831" pg="92">
       <vedette>
@@ -41748,7 +41866,9 @@
       <vedette>
          <sm>Noue (Ruisseau de la)</sm> ou <sm>des Touches,</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Athies</localisation> et se jette dans le Serain à <localisation>Angely</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Athies</commune>
+         </localisation> et se jette dans le Serain à <localisation>Angely</localisation>.</definition>
    </article>
    <article id="DT89-03846" pg="93">
       <vedette>
@@ -41888,7 +42008,9 @@
          <sm>Oc,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Verlin</localisation> et qui se jette dans l'Yonne à <localisation>Saint-Julien-du-Sault</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Verlin</commune>
+         </localisation> et qui se jette dans l'Yonne à <localisation>Saint-Julien-du-Sault</localisation>.</definition>
    </article>
    <article id="DT89-03855" pg="93">
       <vedette>
@@ -42097,7 +42219,9 @@
          <sm>Oreuse,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Thorigny</localisation> et se jette dans l'Yonne (rive droite), <localisation>commune de Serbonnes</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Thorigny</commune>
+         </localisation> et se jette dans l'Yonne (rive droite), <localisation>commune de Serbonnes</localisation>.</definition>
       <forme_ancienne>— <i>Orosa,</i> 
          <date>
             <sm>ix</sm>
@@ -42396,7 +42520,9 @@
          <sm>Ouanne,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source à <localisation>Ouanne</localisation> et se jette dans le Loing, à <localisation>Montargis</localisation>, après un parcours de 46,800 mètres.</definition>
+         <typologie>rivière</typologie>, prend sa source à <localisation>
+            <commune precision="certain">Ouanne</commune>
+         </localisation> et se jette dans le Loing, à <localisation>Montargis</localisation>, après un parcours de 46,800 mètres.</definition>
       <forme_ancienne>— <i>Ouanne, Oanne,</i> 
          <date>
             <sm>xvii</sm>
@@ -42424,7 +42550,9 @@
          <sm>Ouèvre,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>Turny</localisation> et change de nom à Avrolles pour prendre celui de Créanton.</definition>
+         <typologie>ruisseau</typologie>, qui prend sa source à <localisation>
+            <commune precision="certain">Turny</commune>
+         </localisation> et change de nom à Avrolles pour prendre celui de Créanton.</definition>
       <forme_ancienne>— <i>Orbanus</i> et <i>Urbanus</i> 
          <reference>(Vie de saint Cydroine, <date>
                <sm>iii</sm>
@@ -43326,7 +43454,9 @@
          <sm>Pavé,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation>Vassy</localisation> et se jette dans le ruisseau de Fain à <localisation>Anstrude</localisation>.</definition>
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
+            <commune precision="certain">Vassy</commune>
+         </localisation> et se jette dans le ruisseau de Fain à <localisation>Anstrude</localisation>.</definition>
    </article>
    <article id="DT89-03977" pg="96">
       <vedette>
@@ -45518,7 +45648,9 @@
       <vedette>
          <sm>Pont-Lenloie (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Chevannes</localisation>, <localisation>commune de Saint-André</localisation>, et se jette dans le Serain à <localisation>Guillon</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Chevannes</commune>
+         </localisation>, <localisation>commune de Saint-André</localisation>, et se jette dans le Serain à <localisation>Guillon</localisation>.</definition>
    </article>
    <article id="DT89-04177" pg="101">
       <vedette>
@@ -46127,7 +46259,9 @@
       <vedette>
          <sm>Pré-au-Comte (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Saint-Léger-de-Foucherets</localisation> et se jette dans le Trinquelin, même territoire.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Saint-Léger-de-Foucherets</commune>
+         </localisation> et se jette dans le Trinquelin, même territoire.</definition>
    </article>
    <article id="DT89-04235" pg="103">
       <vedette>
@@ -46264,7 +46398,9 @@
       <vedette>
          <sm>Prée (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Sincey</localisation> (Côte-d'Or) et se jette dans le Cousin à <localisation>Cussy-les-Forges</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Sincey</commune>
+         </localisation> (Côte-d'Or) et se jette dans le Cousin à <localisation>Cussy-les-Forges</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-04244" pg="103">
       <vedette>
@@ -46352,7 +46488,9 @@
       <vedette>
          <sm>Prélay (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Branches</localisation> et se jette dans le Ravillon à <localisation>Neuilly</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Branches</commune>
+         </localisation> et se jette dans le Ravillon à <localisation>Neuilly</localisation>.</definition>
    </article>
    <article id="DT89-04248" pg="103">
       <vedette>
@@ -46416,7 +46554,9 @@
       <vedette>
          <sm>Prés-de-Vaux (Ruisseau des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Coutarnoux</localisation> et se jette dans le Serain à <localisation>Dissangis</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Coutarnoux</commune>
+         </localisation> et se jette dans le Serain à <localisation>Dissangis</localisation>.</definition>
    </article>
    <article id="DT89-04254" pg="103">
       <vedette>
@@ -46488,7 +46628,9 @@
          <pg>104</pg>
          <sm>Prés-Saint-Jean (Les),</sm>
       </vedette>
-      <definition>à <localisation>Tonnerre</localisation>, <typologie>garde-barrières du chemin de fer</typologie> de <localisation>Paris à Lyon</localisation>.</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Tonnerre</commune>
+         </localisation>, <typologie>garde-barrières du chemin de fer</typologie> de <localisation>Paris à Lyon</localisation>.</definition>
    </article>
    <article id="DT89-04261" pg="104">
       <vedette>
@@ -46780,7 +46922,9 @@
          <sm>Prunelles (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> relevant de <localisation>Mézilles</localisation>, lieu aujourd'hui détruit. <reference>(Bull. de la Soc. des sciences de l'Yonne, <date>1858</date>)</reference>.</definition>
+         <typologie>fief</typologie> relevant de <localisation>
+            <commune precision="certain">Mézilles</commune>
+         </localisation>, lieu aujourd'hui détruit. <reference>(Bull. de la Soc. des sciences de l'Yonne, <date>1858</date>)</reference>.</definition>
    </article>
    <article id="DT89-04290" pg="104">
       <vedette>
@@ -48449,7 +48593,9 @@
          <sm>Riot</sm> ou <sm>Ravillon,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Charbuy</localisation> et se jette dans l'Yonne à <localisation>Césy</localisation>, rive gauche.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Charbuy</commune>
+         </localisation> et se jette dans l'Yonne à <localisation>Césy</localisation>, rive gauche.</definition>
    </article>
    <article id="DT89-04457" pg="108">
       <vedette>
@@ -49641,14 +49787,18 @@
          <sm>Ru d'Ayon,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Saint-André</localisation> et se jette dans le Cousin au <localisation>Vault-de-Lugny</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Saint-André</commune>
+         </localisation> et se jette dans le Cousin au <localisation>Vault-de-Lugny</localisation>.</definition>
    </article>
    <article id="DT89-04579" pg="110">
       <vedette>
          <sm>Ru des Prés d'Avant,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à la <localisation>Roquette</localisation>, <localisation>commune de Tharoiseau</localisation>, et se jette dans le ru d'Island, <localisation>commune du Vault-de-Lugny</localisation>.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à la <localisation>
+            <commune precision="certain">Roquette</commune>
+         </localisation>, <localisation>commune de Tharoiseau</localisation>, et se jette dans le ru d'Island, <localisation>commune du Vault-de-Lugny</localisation>.</definition>
    </article>
    <article id="DT89-04580" pg="110">
       <vedette>
@@ -49663,7 +49813,9 @@
          <sm>Ru du Croissant,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation>Saint-André</localisation> (Nièvre) et se jette dans le Cousin, <localisation>commune du Vault-de-Lugny</localisation>.</definition>
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
+            <commune precision="certain">Saint-André</commune>
+         </localisation> (Nièvre) et se jette dans le Cousin, <localisation>commune du Vault-de-Lugny</localisation>.</definition>
    </article>
    <article id="DT89-04582" pg="110">
       <vedette>
@@ -51117,7 +51269,9 @@
       <vedette>
          <sm>Saint-Germain (Château de),</sm>
       </vedette>
-      <definition>à <localisation>Auxerre</localisation>, <date>1188</date> 
+      <definition>à <localisation>
+            <commune precision="certain">Auxerre</commune>
+         </localisation>, <date>1188</date> 
          <reference>(cart. gén. de l'Yonne, II, 386)</reference>.</definition>
       <commentaire>
          <p>L'abbaye Saint-Germain d'Auxerre, fondée par la reine Clotilde au <date>
@@ -51145,7 +51299,9 @@
          <sm>Saint-Gervais,</sm>
       </vedette>
       <definition>
-         <typologie>anc. prieuré et faubourg</typologie> d'<localisation>Auxerre</localisation>.</definition>
+         <typologie>anc. prieuré et faubourg</typologie> d'<localisation>
+            <commune precision="certain">Auxerre</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Sanctus Gervasius,</i> 
          <date>1146</date> 
          <reference>(cart. gén. de l'Yonne, I, 415)</reference>.</forme_ancienne>
@@ -51547,7 +51703,9 @@
       <vedette>
          <sm>Saint-Marc (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Sépaux</localisation> et se perd à <localisation>Précy</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Sépaux</commune>
+         </localisation> et se perd à <localisation>Précy</localisation>.</definition>
    </article>
    <article id="DT89-04736" pg="116">
       <vedette>
@@ -51627,7 +51785,9 @@
          <sm>Saint-Martin,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> d'<localisation>Avallon</localisation>.</definition>
+         <typologie>faubourg</typologie> d'<localisation>
+            <commune precision="certain">Avallon</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Il existait autref. un prieuré de ce nom dép. de l'abb. Saint-Martin d'Autun, fondé au <date>
                <sm>ix</sm>
@@ -51661,7 +51821,9 @@
       <vedette>
          <sm>Saint-Martin (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Marmeaux</localisation> et se jette dans le Serain à <localisation>Montréal</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Marmeaux</commune>
+         </localisation> et se jette dans le Serain à <localisation>Montréal</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-04747" pg="116">
       <vedette>
@@ -51902,7 +52064,9 @@
          <sm>Saint-Mesme,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> sur <localisation>Bassou</localisation>, <date>1690</date> (chapitre d'Auxerre).</definition>
+         <typologie>fief</typologie> sur <localisation>
+            <commune precision="certain">Bassou</commune>
+         </localisation>, <date>1690</date> (chapitre d'Auxerre).</definition>
    </article>
    <article id="DT89-04759" pg="117">
       <vedette>
@@ -52685,7 +52849,9 @@
          <sm>Salles (Les),</sm>
       </vedette>
       <definition>
-         <typologie>anc. château</typologie> royal à <localisation>Villeneuve-le-Roi</localisation>.</definition>
+         <typologie>anc. château</typologie> royal à <localisation>
+            <commune precision="certain">Villeneuve-le-Roi</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT89-04818" pg="119">
       <vedette>
@@ -53699,7 +53865,9 @@
    <article id="DT89-04898" pg="121">
       <vedette>
          <sm>Seignelay</sm> (chapelle Saint-Jean),</vedette>
-      <definition>située sur le Tureau, à gauche de la route de <localisation>Brienon</localisation> ; aujourd'hui détruite.</definition>
+      <definition>située sur le Tureau, à gauche de la route de <localisation>
+            <commune precision="certain">Brienon</commune>
+         </localisation> ; aujourd'hui détruite.</definition>
    </article>
    <article type="commune" id="DT89-04899" pg="121">
       <vedette>
@@ -53961,7 +54129,9 @@
          <sm>Sente des Bourguignons (La),</sm>
       </vedette>
       <definition>
-         <typologie>ancien grand chemin</typologie> qui partait de <localisation>Saint-Sauveur</localisation> et se dirigeait vers <localisation>Courtenay par Sept-Fonds, Villeneuve-les-Genêts, Champignelles, Charny et Dicy</localisation>.</definition>
+         <typologie>ancien grand chemin</typologie> qui partait de <localisation>
+            <commune precision="certain">Saint-Sauveur</commune>
+         </localisation> et se dirigeait vers <localisation>Courtenay par Sept-Fonds, Villeneuve-les-Genêts, Champignelles, Charny et Dicy</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-04915" pg="122">
       <vedette>
@@ -54022,7 +54192,9 @@
          <sm>Serain,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>Saint-Martin-de-la-Mer</localisation> (Côte-d'Or), arrose une partie des <localisation>arrondissement d'Avallon, de Tonnerre et d'Auxerre</localisation> et se jette dans l'Yonne à <localisation>Bonnard</localisation>.</definition>
+         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>
+            <commune precision="certain">Saint-Martin-de-la-Mer</commune>
+         </localisation> (Côte-d'Or), arrose une partie des <localisation>arrondissement d'Avallon, de Tonnerre et d'Auxerre</localisation> et se jette dans l'Yonne à <localisation>Bonnard</localisation>.</definition>
       <forme_ancienne>— <i>Sedena,</i> 
          <date>867</date> 
          <reference>(cart. gén. de l'Yonne, I, 96)</reference>.</forme_ancienne>
@@ -55663,7 +55835,9 @@
       <vedette>
          <sm>Tanquoin (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Champlois</localisation>, <localisation>commune de Quarré-les-Tombes</localisation>, et se jette dans la Cure sur la même commune.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Champlois</commune>
+         </localisation>, <localisation>commune de Quarré-les-Tombes</localisation>, et se jette dans la Cure sur la même commune.</definition>
    </article>
    <article id="DT89-05026" pg="127">
       <vedette>
@@ -56158,7 +56332,9 @@
          <sm>Tholon,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation>Parly</localisation> et se jette dans l'Yonne, rive gauche, à <localisation>Joigny</localisation>, après un parcours de 27 kilomètres.</definition>
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Parly</commune>
+         </localisation> et se jette dans l'Yonne, rive gauche, à <localisation>Joigny</localisation>, après un parcours de 27 kilomètres.</definition>
       <forme_ancienne>— <i>Tullonis fluvium,</i> 
          <date>836</date> 
          <reference>(cart. gén. de l'Yonne, I, 50)</reference>.</forme_ancienne>
@@ -56471,7 +56647,9 @@
       <vedette>
          <sm>Tiremont (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Rigny</localisation> (Aube) et se jette dans la Vanne, <localisation>commune de Flacy</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Rigny</commune>
+         </localisation> (Aube) et se jette dans la Vanne, <localisation>commune de Flacy</localisation>.</definition>
    </article>
    <article type="commune" id="DT89-05087" pg="129">
       <vedette>
@@ -56987,7 +57165,9 @@
       <vedette>
          <sm>Tranchet (Ruisseau du)</sm> ou <sm>de Goblot,</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Menades</localisation> et se jette dans la Cure à <localisation>Pierre-Pertuis</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Menades</commune>
+         </localisation> et se jette dans la Cure à <localisation>Pierre-Pertuis</localisation>.</definition>
    </article>
    <article id="DT89-05128" pg="130">
       <vedette>
@@ -58025,7 +58205,9 @@
          <sm>Vallée-de-Lisle (La),</sm>
       </vedette>
       <definition>
-         <typologie>bois communal</typologie> de <localisation>Bois-d'Arcy</localisation>.</definition>
+         <typologie>bois communal</typologie> de <localisation>
+            <commune precision="certain">Bois-d'Arcy</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT89-05224" pg="133">
       <vedette>
@@ -58221,7 +58403,9 @@
          <sm>Vanne,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation>Fontvanne</localisation> (Aube) et se jette dans l'Yonne à <localisation>Sens</localisation>, après un parcours de 42,075 mètres dans l'<localisation>arrondissement de Sens</localisation>.</definition>
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
+            <commune precision="certain">Fontvanne</commune>
+         </localisation> (Aube) et se jette dans l'Yonne à <localisation>Sens</localisation>, après un parcours de 42,075 mètres dans l'<localisation>arrondissement de Sens</localisation>.</definition>
       <forme_ancienne>— <i>Venna,</i> 
          <date>1147</date> 
          <reference>(abb. de Pontigny)</reference>.</forme_ancienne>
@@ -58244,7 +58428,9 @@
       <vedette>
          <sm>Vanne-Vieille (Ruisseau de),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Flacy</localisation> et s'y jette dans la Vanne.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Flacy</commune>
+         </localisation> et s'y jette dans la Vanne.</definition>
    </article>
    <article id="DT89-05244" pg="133">
       <vedette>
@@ -59791,7 +59977,9 @@
          <sm>Vermanton,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>Auxerre</localisation>.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>
+            <commune precision="certain">Auxerre</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Vermentonnus,</i> 
          <date>901</date> 
          <reference>(cart. gén. de l'Yonne, I, 132)</reference>.</forme_ancienne>
@@ -59859,7 +60047,9 @@
          <sm>Vernade (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> situé à <localisation>Sens</localisation>, et relev. de l'archev. <date>fin du <sm>xvi</sm>
+         <typologie>fief</typologie> situé à <localisation>
+            <commune precision="certain">Sens</commune>
+         </localisation>, et relev. de l'archev. <date>fin du <sm>xvi</sm>
             <sup>e</sup> siècle</date> (f. archev.).</definition>
    </article>
    <article id="DT89-05365" pg="137">
@@ -60282,7 +60472,9 @@
          <sm>Vézelay,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>Avallon</localisation>.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>
+            <commune precision="certain">Avallon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Vidiliacus in pago Avalensi,</i> 
          <date>
             <sm>ix</sm>
@@ -60543,7 +60735,9 @@
          <sm>Villages-la-Rivière (Les),</sm>
       </vedette>
       <definition>
-         <typologie>seigneurie</typologie> dont le centre était à <localisation>Molay</localisation>, et qui se composait des <localisation>villages de Molay, Annay-sur-Serain, Arton et Perrigny-sur-Serain, le Montot et l'Aubépine</localisation>.</definition>
+         <typologie>seigneurie</typologie> dont le centre était à <localisation>
+            <commune precision="certain">Molay</commune>
+         </localisation>, et qui se composait des <localisation>villages de Molay, Annay-sur-Serain, Arton et Perrigny-sur-Serain, le Montot et l'Aubépine</localisation>.</definition>
       <forme_ancienne>— <i>Ecclesia de Riparia,</i> 
          <date>1116</date> 
          <reference>(cart. gén. de l'Yonne, I, 232)</reference>.</forme_ancienne>
@@ -61124,7 +61318,9 @@
          <sm>Villeneuve-l'Archevêque,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Sens</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Sens</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Villanova,</i> 
          <date>1163</date> 
          <reference>(cart. gén. de l'Yonne, II, 155)</reference>.</forme_ancienne>
@@ -61288,7 +61484,9 @@
          <sm>Villeneuve-sur-Yonne,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Joigny</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Joigny</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Villa-Longa,</i> 
          <date>avant le <sm>xii</sm>
             <sup>e</sup> s<sup>e</sup>
@@ -62435,7 +62633,9 @@
       <vedette>
          <sm>Vrille (Ruisseau de la),</sm>
       </vedette>
-      <definition>prend sa source à <localisation>Treigny</localisation> et se jette dans la Loire à <localisation>Neuvy</localisation>.</definition>
+      <definition>prend sa source à <localisation>
+            <commune precision="certain">Treigny</commune>
+         </localisation> et se jette dans la Loire à <localisation>Neuvy</localisation>.</definition>
    </article>
    <article id="DT89-05534" pg="145">
       <vedette>

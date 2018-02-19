@@ -6628,7 +6628,9 @@
          <sm>Beaumont (Le).</sm>
       </vedette>
       <definition>
-         <typologie>Ancien mandement</typologie> comprenant <localisation>Corps</localisation>, <localisation>la Salette</localisation>, etc., actuellement dans l'Isère, et <localisation>Aspres-les-Corps</localisation> qui fait partie du département des Hautes-Alpes.</definition>
+         <typologie>Ancien mandement</typologie> comprenant <localisation>
+            <commune precision="certain">Corps</commune>
+         </localisation>, <localisation>la Salette</localisation>, etc., actuellement dans l'Isère, et <localisation>Aspres-les-Corps</localisation> qui fait partie du département des Hautes-Alpes.</definition>
       <forme_ancienne>— <i>Patria Bellimontis,</i> 
          <date>1475</date> 
          <reference>(Vaccarone, p. 68)</reference>.</forme_ancienne>
@@ -11210,7 +11212,9 @@
          <sm>Briançon,</sm>
       </vedette>
       <definition>
-         <typologie>chef-lieu d'arrond</typologie>, ancien chef-lieu de la principauté de <localisation>Briançonnais</localisation>.</definition>
+         <typologie>chef-lieu d'arrond</typologie>, ancien chef-lieu de la principauté de <localisation>
+            <commune precision="certain">Briançonnais</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>Voc. l'Assomption et saint Nicolas.</p>
       </commentaire>
@@ -54262,7 +54266,9 @@
          <sm>Meouge (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>. Prend sa source à <localisation>Mevouillon</localisation> (Drôme) et se jette dans le Buech, après avoir traversé les <localisation>communes de Salérans, Barret-le-Bas, Antonaves et Pomet</localisation>.</definition>
+         <typologie>rivière</typologie>. Prend sa source à <localisation>
+            <commune precision="certain">Mevouillon</commune>
+         </localisation> (Drôme) et se jette dans le Buech, après avoir traversé les <localisation>communes de Salérans, Barret-le-Bas, Antonaves et Pomet</localisation>.</definition>
       <forme_ancienne>— <i>Mulgia,</i> 
          <date>1177</date> 
          <reference>(H.-A.)</reference>.</forme_ancienne>
@@ -91001,7 +91007,9 @@
          <sm>Tour-Brune (La).</sm>
       </vedette>
       <definition>
-         <typologie>Tour carrée</typologie> au centre de l'ancien palais archiépiscopal d'<localisation>Embrun</localisation>.</definition>
+         <typologie>Tour carrée</typologie> au centre de l'ancien palais archiépiscopal d'<localisation>
+            <commune precision="certain">Embrun</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>La Tour de l'arcevesque qui s'appelle Tour Brune,</i> 
          <date>1472</date> 
          <reference>(Is. B, 2,994)</reference>.</forme_ancienne>

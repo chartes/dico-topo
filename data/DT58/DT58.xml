@@ -245,7 +245,9 @@
          <sm>Agateiz (Les),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> vassal de <localisation>Cercy-la-Tour</localisation>, mentionné en <date>1309</date> (Marolles).</definition>
+         <typologie>fief</typologie> vassal de <localisation>
+            <commune precision="certain">Cercy-la-Tour</commune>
+         </localisation>, mentionné en <date>1309</date> (Marolles).</definition>
    </article>
    <article id="DT58-00022" pg="2">
       <vedette>
@@ -796,7 +798,9 @@
          <sm>Amognes (Les),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui, au <date>commencement du <sm>vii</sm>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui, au <date>commencement du <sm>vii</sm>
             <sup>e</sup> siècle</date>, comprenait une partie des <i>pagus</i> de Nevers et d’Avallon ; depuis, les limites de cette contrée se rétrécirent beaucoup, et, au moment de la Révolution, on ne donnait plus ce nom qu’au territoire qui forme maintenant le canton de Saint-Benin-d’Azy et quelques communes des cantons limitrophes.</definition>
       <forme_ancienne>— <i>In pago Avalinse et Nivernense sive Ammonias,</i> 
          <date>721</date> 
@@ -3650,7 +3654,9 @@
          <sm>Bargis (Val de),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> dont <localisation>Châteauneuf-Val-de-Bargis</localisation> était le chef-lieu ; sa circonscription était à peu près la même que celle de la châtellenie de Châteauneuf <renvoi>(voy. ce nom)</renvoi>.</definition>
+         <typologie>petite contrée</typologie> dont <localisation>
+            <commune precision="certain">Châteauneuf-Val-de-Bargis</commune>
+         </localisation> était le chef-lieu ; sa circonscription était à peu près la même que celle de la châtellenie de Châteauneuf <renvoi>(voy. ce nom)</renvoi>.</definition>
    </article>
    <article id="DT58-00301" pg="9">
       <vedette>
@@ -4183,7 +4189,9 @@
       <vedette>
          <sm>Battoir (Moulin du),</sm>
       </vedette>
-      <definition>à <localisation>Clamecy</localisation>, mentionné en <date>1581</date> (Marolles).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>, mentionné en <date>1581</date> (Marolles).</definition>
    </article>
    <article id="DT58-00359" pg="10">
       <vedette>
@@ -4349,7 +4357,9 @@
          <sm>Baugy (Le),</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie>, compris dans le <localisation>Haut-Cheugny</localisation>, <localisation>commune de Varennes-lez-Nevers</localisation>.</definition>
+         <typologie>hameau</typologie>, compris dans le <localisation>
+            <commune precision="certain">Haut-Cheugny</commune>
+         </localisation>, <localisation>commune de Varennes-lez-Nevers</localisation>.</definition>
    </article>
    <article id="DT58-00375" pg="10">
       <vedette>
@@ -4489,7 +4499,9 @@
          <sm>Bazois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui comprenait le <localisation>canton actuel de Châtillon</localisation>, une grande partie de celui de <localisation>Moulins-Engilbert</localisation> et une petite partie de ceux de <localisation>Château-Chinon, Fours et Saint-Benin-d’Azy</localisation>.</definition>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui comprenait le <localisation>canton actuel de Châtillon</localisation>, une grande partie de celui de <localisation>Moulins-Engilbert</localisation> et une petite partie de ceux de <localisation>Château-Chinon, Fours et Saint-Benin-d’Azy</localisation>.</definition>
       <forme_ancienne>— <i>Bazoys,</i> 
          <date>1236</date> 
          <reference>(S.)</reference>.</forme_ancienne>
@@ -5863,7 +5875,9 @@
          <sm>Berberaut (Nemus de),</sm>
       </vedette>
       <definition>
-         <typologie>paroisse</typologie> de <localisation>Sermages</localisation>, mentionné en <date>1377</date> (S.).</definition>
+         <typologie>paroisse</typologie> de <localisation>
+            <commune precision="certain">Sermages</commune>
+         </localisation>, mentionné en <date>1377</date> (S.).</definition>
    </article>
    <article id="DT58-00519" pg="13">
       <vedette>
@@ -5929,7 +5943,9 @@
       <vedette>
          <sm>Bergère (Gué de la),</sm>
       </vedette>
-      <definition>gué de la <typologie>rivière</typologie> d’<localisation>Abron</localisation>, <localisation>commune de Toury-Lurcy</localisation>.</definition>
+      <definition>gué de la <typologie>rivière</typologie> d’<localisation>
+            <commune precision="certain">Abron</commune>
+         </localisation>, <localisation>commune de Toury-Lurcy</localisation>.</definition>
    </article>
    <article id="DT58-00527" pg="13">
       <vedette>
@@ -6594,7 +6610,9 @@
          <sm>Bethléem,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Clamecy</localisation> ; ancien siége épiscopal établi au <date>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation> ; ancien siége épiscopal établi au <date>
             <sm>xiii</sm>
             <sup>e</sup> siècle</date>.</definition>
       <forme_ancienne>— <i>Capella de Bethleem apud Clameciacum,</i> 
@@ -6691,7 +6709,9 @@
          <sm>Beugnon,</sm>
       </vedette>
       <definition>
-         <typologie>fief vassal</typologie> d’<localisation>Asnois</localisation>, mentionné en <date>1407</date> (extr. des titres de Bourgogne).</definition>
+         <typologie>fief vassal</typologie> d’<localisation>
+            <commune precision="certain">Asnois</commune>
+         </localisation>, mentionné en <date>1407</date> (extr. des titres de Bourgogne).</definition>
    </article>
    <article id="DT58-00600" pg="14">
       <vedette>
@@ -8772,7 +8792,9 @@
       </vedette>
         <definition>
          <typologie>chapelle vicariale</typologie> qui se trouvait dans les bois de
-            <localisation>Prémery</localisation>, entre cette ville et Lurcy-le-Bourg, mentionnée en
+            <localisation>
+            <commune precision="certain">Prémery</commune>
+         </localisation>, entre cette ville et Lurcy-le-Bourg, mentionnée en
             <date>1478</date> 
          <reference>(pouillé de Nevers)</reference>.</definition>
         <forme_ancienne>— <i>La chappelle du Boys-Follet</i>, <date>1577</date> 
@@ -9468,7 +9490,9 @@
          <sm>Bonne-Maison (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Vandenesse</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Vandenesse</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-00890" pg="20">
       <vedette>
@@ -9882,7 +9906,9 @@
       </vedette>
         <definition>
          <typologie>léproserie</typologie>, qui se trouvait près de
-            <localisation>Montenoison</localisation>, mentionnée en <date>1257</date>
+            <localisation>
+            <commune precision="certain">Montenoison</commune>
+         </localisation>, mentionnée en <date>1257</date>
             <reference>(Lebeuf, IV, III).</reference>.</definition>
     </article>  
     <article id="DT58-929ter" pg="20">
@@ -12657,7 +12683,9 @@
          <sm>Brinon-les-Allemands,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Clamecy</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Villa Briennonis in pago Nivernensi,</i> 
          <date>935</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 314)</reference>.</forme_ancienne>
@@ -15423,7 +15451,9 @@
          <sm>Carrefour (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-01470" pg="31">
       <vedette>
@@ -18351,7 +18381,9 @@
          <sm>Champin (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Château-Chinon</localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
    </article>
    <article id="DT58-01725" pg="36">
       <vedette>
@@ -19197,7 +19229,9 @@
       </vedette>
         <definition>
          <typologie>lieu détruit</typologie>, près de
-            <localisation>Decize</localisation>, mentionné en 1508 <reference>(S.)</reference>.</definition>
+            <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation>, mentionné en 1508 <reference>(S.)</reference>.</definition>
     </article>
    <article id="DT58-01804" pg="38">
       <vedette>
@@ -19749,7 +19783,9 @@
          <sm>Chapelle de Saint-Laurent,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle détruite</typologie>, à <localisation>Migny</localisation>, <localisation>commune de Varzy</localisation>, portée sur la carte de Cassini.</definition>
+         <typologie>chapelle détruite</typologie>, à <localisation>
+            <commune precision="certain">Migny</commune>
+         </localisation>, <localisation>commune de Varzy</localisation>, portée sur la carte de Cassini.</definition>
    </article>
    <article id="DT58-01858" pg="39">
       <vedette>
@@ -20104,7 +20140,9 @@
          <sm>Charité-sur-Loire (La),</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Cosne</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Monasterium Caritatis super Ligerim,</i> 
          <date>
             <sm>xi</sm>
@@ -21714,7 +21752,9 @@
          <sm>Châtillon-en-Bazois,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Château-Chinon</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Monasterium de Castellione,</i> 
          <date>1185</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 183)</reference>.</forme_ancienne>
@@ -23728,7 +23768,9 @@
          <sm>Chemin Brunechon (Le),</sm>
       </vedette>
         <definition>
-         <typologie>chemin</typologie>, allant de <localisation>Saint-Pierre-Le-Moûtier</localisation> à Langeron, mentionné en 1544
+         <typologie>chemin</typologie>, allant de <localisation>
+            <commune precision="certain">Saint-Pierre-Le-Moûtier</commune>
+         </localisation> à Langeron, mentionné en 1544
             <reference>(arch. de Saint-Pierre-Le-Moûtier)</reference>.</definition>
     </article>
    <article id="DT58-02230" pg="47">
@@ -23752,7 +23794,9 @@
          <sm>Chemyn de la royne Burnichede,</sm>
       </vedette>
       <definition>
-         <typologie>chemin</typologie> de <localisation>Château-Chinon</localisation> à <localisation>Vandenesse</localisation>, passant par <localisation>Saint-Léger-de-Fougeret</localisation>, mentionné en <date>1451</date> (arch. de Vandenesse, terrier de Commagny).</definition>
+         <typologie>chemin</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation> à <localisation>Vandenesse</localisation>, passant par <localisation>Saint-Léger-de-Fougeret</localisation>, mentionné en <date>1451</date> (arch. de Vandenesse, terrier de Commagny).</definition>
       <forme_ancienne>— <i>Le grand chemin real que fit faire feu de bonne memoire pour le temps qu’elle vivoyt la royne Burnichede ; le pavé de la Burnichede</i> 
          <reference>(arch. de Vandenesse, terrier de Commagny)</reference>.</forme_ancienne>
    </article>
@@ -25283,7 +25327,9 @@
          <sm>Chien-Crotté (Le),</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie>, faisant partie de <localisation>Lavault-de-Ferrière</localisation>, <localisation>commune de la Roche-Millay</localisation>.</definition>
+         <typologie>hameau</typologie>, faisant partie de <localisation>
+            <commune precision="certain">Lavault-de-Ferrière</commune>
+         </localisation>, <localisation>commune de la Roche-Millay</localisation>.</definition>
    </article>
    <article id="DT58-02377" pg="50">
       <vedette>
@@ -27417,7 +27463,9 @@
          <sm>Corbigny,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Clamecy</localisation> ; doit son origine à une abb. de l’ordre de Saint-Benoît fondée, au <date>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation> ; doit son origine à une abb. de l’ordre de Saint-Benoît fondée, au <date>
             <sm>ix</sm>
             <sup>e</sup> siècle</date>, sous le vocable de saint Léonard.</definition>
       <forme_ancienne>— <i>Donamus..… in pago Avalinse et Neverninse sive Ammonias, curtem qui vocatur Corbiniacus et Antonum cum omnibus adjacentiis..…</i> 
@@ -30450,7 +30498,9 @@
          <sm>Croix (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Luzy</localisation>, mentionné en <date>1781</date> (C.).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Luzy</commune>
+         </localisation>, mentionné en <date>1781</date> (C.).</definition>
    </article>
    <article id="DT58-02826" pg="60">
       <vedette>
@@ -31379,7 +31429,9 @@
          <sm>Crotte,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Decize</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Vinea de Crota,</i> 
          <date>1264</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 350)</reference>.</forme_ancienne>
@@ -32168,7 +32220,9 @@
          <sm>Decize,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Decetia</i> 
          <reference>(César, <i>Comm.</i>)</reference>.</forme_ancienne>
       <forme_ancienne>— <i>Degena, Deccidœ</i> 
@@ -33024,7 +33078,9 @@
          <sm>Donziois (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée enclavée</typologie> dans le <localisation>Nivernais</localisation>, qui, dans l’origine, faisait partie du <localisation>pays des Sénonais</localisation> ; sa capitale était Donzy.</definition>
+         <typologie>petite contrée enclavée</typologie> dans le <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation>, qui, dans l’origine, faisait partie du <localisation>pays des Sénonais</localisation> ; sa capitale était Donzy.</definition>
       <commentaire>
          <p>Cette contrée s’étendait dans la partie nord du canton de Donzy, la partie ouest du canton de Varzy et le département de l’Yonne.</p>
       </commentaire>
@@ -33034,7 +33090,9 @@
          <sm>Donzy,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Cosne</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Domiciacus,</i> 
          <date>vers 600</date> 
          <reference>(cart. gén. de l’Yonne, I, p. <sm>xxxi</sm>)</reference>.</forme_ancienne>
@@ -33180,7 +33238,9 @@
          <sm>Dornes,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Villa quæ a nonnullis vocatur Dorna sacrata in honore sancti Juliani,</i> 
          <date>900</date> 
          <reference>(arch. de l’év. d’Autun, charte de Saint-Andoche)</reference>.</forme_ancienne>
@@ -33849,7 +33909,9 @@
       <vedette>
          <sm>Écluse (Moulin de l’),</sm>
       </vedette>
-      <definition>à <localisation>Clamecy</localisation>, mentionné en <date>1581</date> (Marolles).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>, mentionné en <date>1581</date> (Marolles).</definition>
    </article>
    <article id="DT58-03145" pg="67">
       <vedette>
@@ -34997,7 +35059,9 @@
          <sm>Étang-de-la-Pesle (L’),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Lormes</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Lormes</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-03256" pg="70">
       <vedette>
@@ -37906,7 +37970,9 @@
       <vedette>
          <sm>Forêt (La),</sm>
       </vedette>
-      <definition>anc. nom du <typologie>château</typologie> de <localisation>Lurcy-sur-Abron</localisation>, <localisation>commune de Toury-Lurcy</localisation>.</definition>
+      <definition>anc. nom du <typologie>château</typologie> de <localisation>
+            <commune precision="certain">Lurcy-sur-Abron</commune>
+         </localisation>, <localisation>commune de Toury-Lurcy</localisation>.</definition>
       <forme_ancienne>— <i>La Forestz,</i> 
          <date>1521</date> 
          <reference>(arch. de Toury-sur-Abron)</reference>.</forme_ancienne>
@@ -38410,7 +38476,9 @@
       <vedette>
          <sm>Forges royalles aux Ancres,</sm>
       </vedette>
-      <definition>nom donné, sur la carte de Cassini, aux <typologie>forges</typologie> de <localisation>Guérigny</localisation>.</definition>
+      <definition>nom donné, sur la carte de Cassini, aux <typologie>forges</typologie> de <localisation>
+            <commune precision="certain">Guérigny</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-03577" pg="76">
       <vedette>
@@ -39328,7 +39396,9 @@
          <sm>Fours,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Bois de Forz,</i> 
          <date>1229</date> 
          <reference>(A. N. fonds de l’abb. de Notre-Dame de Nevers)</reference>.</forme_ancienne>
@@ -41249,7 +41319,9 @@
          <sm>Genoy,</sm>
       </vedette>
       <definition>
-         <typologie>fief vassal</typologie> de <localisation>Vandenesse</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
+         <typologie>fief vassal</typologie> de <localisation>
+            <commune precision="certain">Vandenesse</commune>
+         </localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
    <article id="DT58-03858" pg="82">
       <vedette>
@@ -42905,7 +42977,9 @@
          <sm>Grande-Fontaine (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Château-Chinon</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <date>1670</date> 
          <reference>(reg. de Château-Chinon)</reference>.</forme_ancienne>
    </article>
@@ -43162,7 +43236,9 @@
          <sm>Grand-Mouësse (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Mossia</i> 
          <date>1300</date> 
          <reference>(A. N. fonds du chap.)</reference>.</forme_ancienne>
@@ -46030,7 +46106,9 @@
          <sm>Hérisy,</sm>
       </vedette>
       <definition>
-         <typologie>fief vassal</typologie> d’<localisation>Arcilly</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
+         <typologie>fief vassal</typologie> d’<localisation>
+            <commune precision="certain">Arcilly</commune>
+         </localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
    <article id="DT58-04340" pg="90">
       <vedette>
@@ -46210,7 +46288,9 @@
          <sm>Hors-le-Pont-de-Loire</sm> ou <sm>les Sables,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-04355" pg="91">
       <vedette>
@@ -51639,7 +51719,9 @@
          <sm>Lormes,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Clamecy</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Seguinus de Lorma,</i> 
          <date>1085</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 382)</reference>.</forme_ancienne>
@@ -52281,7 +52363,9 @@
          <sm>Luzy,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Château-Chinon</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Lausia,</i> 
          <date>900</date> 
          <reference>(charte de l’abbaye de Saint-Andoche, arch. de l’év. d’Autun)</reference>.</forme_ancienne>
@@ -53025,7 +53109,9 @@
          <sm>Maison Bourgoing (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison</typologie>, à <localisation>Moulins-Engilbert</localisation>, fief de cette châtellenie, mentionné en <date>1689</date> (reg. des fiefs).</definition>
+         <typologie>maison</typologie>, à <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, fief de cette châtellenie, mentionné en <date>1689</date> (reg. des fiefs).</definition>
       <commentaire>
          <p>— Elle tire son nom de la famille de Bourgoing.</p>
       </commentaire>
@@ -53094,14 +53180,18 @@
       <vedette>
          <sm>Maison-de-Baugy (La),</sm>
       </vedette>
-      <definition>à <localisation>Decize</localisation>, <typologie>fief</typologie> de la <localisation>châtellenie de Decize</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation>, <typologie>fief</typologie> de la <localisation>châtellenie de Decize</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
    <article id="DT58-05041" pg="105">
       <vedette>
          <sm>Maison de Beuvray (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison détruite</typologie>, sur le mont <localisation>Beuvray</localisation>, ancienne demeure du chapelain qui desservait une chapelle située au même lieu.</definition>
+         <typologie>maison détruite</typologie>, sur le mont <localisation>
+            <commune precision="certain">Beuvray</commune>
+         </localisation>, ancienne demeure du chapelain qui desservait une chapelle située au même lieu.</definition>
    </article>
    <article id="DT58-05042" pg="105">
       <vedette>
@@ -53115,7 +53205,9 @@
       <vedette>
          <sm>Maison-de-Lamenay (La),</sm>
       </vedette>
-      <definition>à <localisation>Decize</localisation>, <typologie>fief</typologie> de la <localisation>châtellenie de Decize</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation>, <typologie>fief</typologie> de la <localisation>châtellenie de Decize</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
    <article id="DT58-05044" pg="105">
       <vedette>
@@ -53799,7 +53891,9 @@
          <sm>Maladrerie (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de la ville de <localisation>Lormes</localisation>.</definition>
+         <typologie>faubourg</typologie> de la ville de <localisation>
+            <commune precision="certain">Lormes</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>La Maladerie,</i> 
          <date>1756</date> 
          <reference>(reg. de Lormes)</reference>.</forme_ancienne>
@@ -55921,7 +56015,9 @@
          <sm>Martelet (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>, hors de la porte de la <localisation>Barre</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>, hors de la porte de la <localisation>Barre</localisation>.</definition>
       <forme_ancienne>— <i>Marteletum,</i> 
          <date>1298</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
@@ -61960,7 +62056,9 @@
          <sm>Montmorillon,</sm>
       </vedette>
       <definition>
-         <typologie>hameau détruit</typologie>, mentionné en <date>1579</date> comme dépendant de la justice de <localisation>Bazoches</localisation>.</definition>
+         <typologie>hameau détruit</typologie>, mentionné en <date>1579</date> comme dépendant de la justice de <localisation>
+            <commune precision="certain">Bazoches</commune>
+         </localisation>.</definition>
       <commentaire>
          <p>En <date>1689</date>, ce hameau, qui avait pris son nom de la famille de Montmorillon, se trouve au nombre des fiefs de la châtell. de Monceaux-le-Comte (reg. des fiefs).</p>
       </commentaire>
@@ -62372,7 +62470,9 @@
          <sm>Montsauche,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Château-Chinon</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Montauches,</i> 
          <date>1285</date> 
          <reference>(S.)</reference>.</forme_ancienne>
@@ -65720,7 +65820,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Moulins aux Moines (Les),</sm>
       </vedette>
-      <definition>à <localisation>Cosne</localisation>, mentionnés en <date>1393</date> (arch. de l’Yonne, inv. de Cosne).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation>, mentionnés en <date>1393</date> (arch. de l’Yonne, inv. de Cosne).</definition>
       <commentaire>
          <p>— Ils occupaient l’emplacement de l’usine de Cosne.</p>
       </commentaire>
@@ -65773,7 +65875,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Moulins-Engilbert,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Château-Chinon</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Omnes ecclesias de Molendinis in prioratu de Commagniaco,</i> 
          <date>1161</date> 
          <reference>(Bulliot, II, 39)</reference>.</forme_ancienne>
@@ -65848,7 +65952,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Moulins Grasset (Les),</sm>
       </vedette>
       <definition>
-         <typologie>moulin</typologie> à <localisation>Clamecy</localisation> et <typologie>fief</typologie> de la <localisation>châtellenie de Clamecy</localisation>, mentionnés en <date>1581</date> (Marolles).</definition>
+         <typologie>moulin</typologie> à <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation> et <typologie>fief</typologie> de la <localisation>châtellenie de Clamecy</localisation>, mentionnés en <date>1581</date> (Marolles).</definition>
       <commentaire>
          <p>— Tirait son nom de la famille Grasset, qui l’avait fait établir au <date>
                <sm>xvi</sm>
@@ -66509,7 +66615,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Munot,</sm>
       </vedette>
       <definition>
-         <typologie>fief vassal</typologie> de <localisation>Rosemont</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
+         <typologie>fief vassal</typologie> de <localisation>
+            <commune precision="certain">Rosemont</commune>
+         </localisation>, mentionné en <date>1638</date> (Marolles).</definition>
    </article>
    <article id="DT58-06303" pg="132">
       <vedette>
@@ -67873,7 +67981,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Nivernais (Le),</sm>
       </vedette>
       <definition>
-         <typologie>anc. province</typologie>, bornée au nord-est, à l’est et au sud-est par la <localisation>Bourgogne</localisation>, au sud et au sud-ouest par le <localisation>Bourbonnais</localisation>, à l’ouest par le <localisation>Berry</localisation> et au nord-ouest par l’<localisation>Orléanais</localisation>.</definition>
+         <typologie>anc. province</typologie>, bornée au nord-est, à l’est et au sud-est par la <localisation>
+            <commune precision="certain">Bourgogne</commune>
+         </localisation>, au sud et au sud-ouest par le <localisation>Bourbonnais</localisation>, à l’ouest par le <localisation>Berry</localisation> et au nord-ouest par l’<localisation>Orléanais</localisation>.</definition>
       <commentaire>
          <p>Elle tirait son nom de Nevers, sa capitale, et comprenait neuf petites divisions : les Amognes, le Bazois, le Donziois, le Pays entre Loire et Allier, la Puisaye, les Vaux-de-Montenoison, les Vaux-de-Nevers, les Vaux-d’Yonne et la partie occidentale du Morvand. Elle a formé presque tout le département de la Nièvre ; une petite partie est dans le sud-ouest de celui du Loiret, et une autre dans l’est de ceux du Cher et de l’Allier. Le Nivernais forma le comté, puis le duché de Nevers.</p>
       </commentaire>
@@ -69236,7 +69346,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Oussière (L’),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> prend sa source dans le dép. de <localisation>Saône-et-Loire</localisation>, arrose dans celui de la Nièvre les <localisation>communes de Frétoy, Planchez, Corancy et Chaumard</localisation> et se jette dans l’Yonne.</definition>
+         <typologie>rivière</typologie> prend sa source dans le dép. de <localisation>
+            <commune precision="certain">Saône-et-Loire</commune>
+         </localisation>, arrose dans celui de la Nièvre les <localisation>communes de Frétoy, Planchez, Corancy et Chaumard</localisation> et se jette dans l’Yonne.</definition>
       <forme_ancienne>— <i>Riviere Douxiere,</i> 
          <date>1484</date> 
          <reference>(C.)</reference>.</forme_ancienne>
@@ -70690,7 +70802,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Pays-entre-Loire-et-Allier,</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui comprenait la plus grande partie des <localisation>cantons de Dornes et de Saint-Pierre-le-Moûtier</localisation>.</definition>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui comprenait la plus grande partie des <localisation>cantons de Dornes et de Saint-Pierre-le-Moûtier</localisation>.</definition>
    </article>
    <article type="commune" id="DT58-06662" pg="142">
       <vedette>
@@ -72066,7 +72180,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Picpus,</sm>
       </vedette>
       <definition>
-         <typologie>couvent</typologie> à <localisation>Moulins-Engilbert</localisation>, porté sur la carte de Cassini.</definition>
+         <typologie>couvent</typologie> à <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, porté sur la carte de Cassini.</definition>
    </article>
    <article id="DT58-06811" pg="144">
       <vedette>
@@ -72927,7 +73043,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Plainpied,</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> aux environs de <localisation>Luzy</localisation>, mentionné en <date>1327</date> (Marolles).</definition>
+         <typologie>fief</typologie> aux environs de <localisation>
+            <commune precision="certain">Luzy</commune>
+         </localisation>, mentionné en <date>1327</date> (Marolles).</definition>
    </article>
    <article id="DT58-06904" pg="145">
       <vedette>
@@ -74483,7 +74601,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Pont d’Ormeau (Le),</sm>
       </vedette>
-      <definition>à <localisation>Moulins-Engilbert</localisation>, mentionné en <date>1700</date> (S.).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, mentionné en <date>1700</date> (S.).</definition>
    </article>
    <article id="DT58-07054" pg="148">
       <vedette>
@@ -74505,7 +74625,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Pont du Guichet (Le),</sm>
       </vedette>
-      <definition>à <localisation>Moulins-Engilbert</localisation>, mentionné en <date>1700</date> (S.).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, mentionné en <date>1700</date> (S.).</definition>
    </article>
    <article id="DT58-07057" pg="148">
       <vedette>
@@ -74948,7 +75070,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Porte (La),</sm>
       </vedette>
       <definition>
-         <typologie>maison</typologie>, à <localisation>Cosne</localisation> ; fief mentionné en <date>1426</date> (Marolles).</definition>
+         <typologie>maison</typologie>, à <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation> ; fief mentionné en <date>1426</date> (Marolles).</definition>
    </article>
    <article id="DT58-07102" pg="149">
       <vedette>
@@ -75135,7 +75259,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Pougues-les-Eaux,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Poga,</i> 
          <date>1199</date> 
          <reference>(A. N. fonds du chap. de Nevers)</reference>.</forme_ancienne>
@@ -75710,7 +75836,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Prairie-de-la-Resse (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Saint-Saulge</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Saint-Saulge</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-07169" pg="151">
       <vedette>
@@ -76223,7 +76351,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Prémery,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Cosne</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Ecclesia de Primiriaco,</i> 
          <date>887</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 311)</reference>.</forme_ancienne>
@@ -76536,7 +76666,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Pressoir (Le),</sm>
       </vedette>
       <definition>
-         <typologie>maison</typologie>, à <localisation>Parzy</localisation>, mentionnée en <date>1409</date> (Marolles).</definition>
+         <typologie>maison</typologie>, à <localisation>
+            <commune precision="certain">Parzy</commune>
+         </localisation>, mentionnée en <date>1409</date> (Marolles).</definition>
       <forme_ancienne>— <i>Pressoir-a-Parzy,</i> 
          <date>1638</date> 
          <reference>(Marolles)</reference>.</forme_ancienne>
@@ -77217,7 +77349,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Puizat (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Saint-Pierre-le-Moûtier</localisation>, mentionné en <date>1782</date> (arch. de Saint-Pierre).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Saint-Pierre-le-Moûtier</commune>
+         </localisation>, mentionné en <date>1782</date> (arch. de Saint-Pierre).</definition>
    </article>
    <article id="DT58-07311" pg="154">
       <vedette>
@@ -79198,7 +79332,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Réveillon (Le Petit-),</sm>
       </vedette>
       <definition>
-         <typologie>maison</typologie>, à <localisation>Entrains</localisation>, proche de la porte d’Auxerre, où étaient, en <date>1638</date>, les religieux des Anges (arch. de l’Yonne).</definition>
+         <typologie>maison</typologie>, à <localisation>
+            <commune precision="certain">Entrains</commune>
+         </localisation>, proche de la porte d’Auxerre, où étaient, en <date>1638</date>, les religieux des Anges (arch. de l’Yonne).</definition>
    </article>
    <article id="DT58-07507" pg="157">
       <vedette>
@@ -80324,7 +80460,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Roche-des-Fées (La),</sm>
       </vedette>
-      <definition>amas de blocs de rochers qui se trouve dans le <typologie>bois</typologie> de <localisation>Haute-Roche</localisation>, <localisation>commune de Marigny-l’Église</localisation>.</definition>
+      <definition>amas de blocs de rochers qui se trouve dans le <typologie>bois</typologie> de <localisation>
+            <commune precision="certain">Haute-Roche</commune>
+         </localisation>, <localisation>commune de Marigny-l’Église</localisation>.</definition>
    </article>
    <article id="DT58-07616" pg="159">
       <vedette>
@@ -80358,7 +80496,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Rochefort (Le),</sm>
       </vedette>
       <definition>
-         <typologie>bras</typologie> de l’<localisation>Allier</localisation>, sorte d’étang, <localisation>commune de Saincaize</localisation>, sous le château de Meauce.</definition>
+         <typologie>bras</typologie> de l’<localisation>
+            <commune precision="certain">Allier</commune>
+         </localisation>, sorte d’étang, <localisation>commune de Saincaize</localisation>, sous le château de Meauce.</definition>
       <forme_ancienne>— <i>Rocheffort ruisseau,</i> 
          <date>1488</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
@@ -80624,7 +80764,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Rolin,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Moulins-Engilbert</localisation>, qui tire son nom d’une famille Rolin, mentionné en <date>1504</date> (arch. de Vandenesse).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, qui tire son nom d’une famille Rolin, mentionné en <date>1504</date> (arch. de Vandenesse).</definition>
    </article>
    <article id="DT58-07644" pg="160">
       <vedette>
@@ -81653,7 +81795,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Rue-Chaude (La),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Moulins-Engilbert</localisation>, détruit au <date>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Moulins-Engilbert</commune>
+         </localisation>, détruit au <date>
             <sm>xv</sm>
             <sup>e</sup> siècle</date> 
          <reference>(Baudiau, II, 15)</reference>.</definition>
@@ -81983,7 +82127,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Sables (Les)</sm> ou <sm>Hors-le-pont-de-Loire,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Les Sables</i> 
          <reference>(Cassini)</reference>.</forme_ancienne>
    </article>
@@ -82152,7 +82298,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Amand-en-Puisaye,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Cosne</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Cosne</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Ecclesia Sancti-Amandi,</i> 
          <date>1152</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 182)</reference>.</forme_ancienne>
@@ -82343,7 +82491,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Benin-d’Azy,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Sanctus-Benignus,</i> 
          <date>1287</date> 
          <reference>(reg. de l’év. de Nevers)</reference>.</forme_ancienne>
@@ -82417,7 +82567,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Bernard,</sm>
       </vedette>
       <definition>
-         <typologie>chapelle</typologie> à <localisation>Chassy</localisation>, <localisation>commune de Montreuillon</localisation>.</definition>
+         <typologie>chapelle</typologie> à <localisation>
+            <commune precision="certain">Chassy</commune>
+         </localisation>, <localisation>commune de Montreuillon</localisation>.</definition>
    </article>
    <article id="DT58-07814" pg="164">
       <vedette>
@@ -82855,7 +83007,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Sainte-Valière,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation> ; prieuré et paroisse.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation> ; prieuré et paroisse.</definition>
       <forme_ancienne>— <i>Prioratus Sancte-Valerie prope Nivernis,</i> 
          <date>1372</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
@@ -83522,7 +83676,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Lazare,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Nevers</localisation>, suite du faubourg du Grand-Mouesse, dont il fait partie ; anc. paroisse et anc. <pg>167</pg>maladrerie.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>, suite du faubourg du Grand-Mouesse, dont il fait partie ; anc. paroisse et anc. <pg>167</pg>maladrerie.</definition>
       <forme_ancienne>— <i>Leprosaria Sancti-Lazari Nivernensis,</i> 
          <date>1316</date> 
          <reference>(A. N.)</reference>.</forme_ancienne>
@@ -84390,7 +84546,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Pierre-le-Moûtier,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Prioratus de Monasterio,</i> 
          <date>1161</date> 
          <reference>(Bulliot, II, 38)</reference>.</forme_ancienne>
@@ -84432,7 +84590,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Privé,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Decize</localisation> ; ancien prieuré-cure.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation> ; ancien prieuré-cure.</definition>
       <forme_ancienne>— <i>Sanctus-Privatus,</i> 
          <date>1287</date> 
          <reference>(reg. de l’év. de Nevers)</reference>.</forme_ancienne>
@@ -84544,7 +84704,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Saint-Saulge,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Nevers</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Nevers</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Capella Sancti-Martini in qua corpus sancti Salvii requiescit,</i> 
          <date>908</date> 
          <reference>(Bulliot, II, 21)</reference>.</forme_ancienne>
@@ -84924,7 +85086,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Salles (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> d’<localisation>Entrains</localisation>, mentionné en <date>1519</date> (arch. de l’Yonne, fonds de Varzy).</definition>
+         <typologie>faubourg</typologie> d’<localisation>
+            <commune precision="certain">Entrains</commune>
+         </localisation>, mentionné en <date>1519</date> (arch. de l’Yonne, fonds de Varzy).</definition>
    </article>
    <article id="DT58-07986" pg="171">
       <vedette>
@@ -85030,7 +85194,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Sancti-Gundulphi (Grangia et Nemus),</sm>
       </vedette>
-      <definition>non loin de <localisation>Myennes</localisation>, mentionnés en <date>1165</date> 
+      <definition>non loin de <localisation>
+            <commune precision="certain">Myennes</commune>
+         </localisation>, mentionnés en <date>1165</date> 
          <reference>(<i>Gall. christ.</i> XII, col. 132)</reference>.</definition>
    </article>
    <article id="DT58-07996" pg="171">
@@ -85233,7 +85399,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Sardolle (Moulin de),</sm>
       </vedette>
       <definition>
-         <typologie>moulin détruit</typologie>, à <localisation>Trémigny</localisation>, <localisation>commune de Saincaize</localisation>, mentionné en <date>1531</date> (A. N.).</definition>
+         <typologie>moulin détruit</typologie>, à <localisation>
+            <commune precision="certain">Trémigny</commune>
+         </localisation>, <localisation>commune de Saincaize</localisation>, mentionné en <date>1531</date> (A. N.).</definition>
    </article>
    <article type="commune" id="DT58-08015" pg="171">
       <vedette>
@@ -88614,7 +88782,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Tannay,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Clamecy</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Ecclesia de Tanneio,</i> 
          <date>1121-1142</date> 
          <reference>(cart. de Saint-Cyr de Nevers, ch. 37)</reference>.</forme_ancienne>
@@ -89179,7 +89349,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Terreaux (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Lormes</localisation>.</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Lormes</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-08362" pg="179">
       <vedette>
@@ -90011,7 +90183,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Toloze (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief vassal</typologie> de <localisation>Prémery</localisation>, mentionné en <date>1540</date> (Marolles).</definition>
+         <typologie>fief vassal</typologie> de <localisation>
+            <commune precision="certain">Prémery</commune>
+         </localisation>, mentionné en <date>1540</date> (Marolles).</definition>
    </article>
    <article id="DT58-08441" pg="181">
       <vedette>
@@ -90244,7 +90418,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Tour-de-Baugy (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> à <localisation>Decize</localisation>, mentionné en <date>1600</date> (A. D.).</definition>
+         <typologie>fief</typologie> à <localisation>
+            <commune precision="certain">Decize</commune>
+         </localisation>, mentionné en <date>1600</date> (A. D.).</definition>
    </article>
    <article id="DT58-08463" pg="181">
       <vedette>
@@ -90408,7 +90584,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Tourreaux (Les),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Château-Chinon</localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
    </article>
    <article id="DT58-08479" pg="181">
       <vedette>
@@ -92525,7 +92703,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Val-de-Bargis (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui comprenait la vallée dans laquelle se trouve Châteauneuf-Val-de-Bargis.</definition>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui comprenait la vallée dans laquelle se trouve Châteauneuf-Val-de-Bargis.</definition>
       <forme_ancienne>— <date>1507</date> 
          <reference>(arch. des Bordes)</reference>.</forme_ancienne>
    </article>
@@ -92534,7 +92714,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Val-de-Lurcy (Le),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui prenait son nom de Lurcy-le-Bourg et renfermait, outre ce bourg et celui de Ligny ou Lurcy-le-Châtel, Nolay, Prunevaux, Saint-Benin-des-Bois, Giverdy, Saint-Martin, Sainte-Marie et Saint-Franchy, <date>1535</date> (cout. du Nivernais).</definition>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui prenait son nom de Lurcy-le-Bourg et renfermait, outre ce bourg et celui de Ligny ou Lurcy-le-Châtel, Nolay, Prunevaux, Saint-Benin-des-Bois, Giverdy, Saint-Martin, Sainte-Marie et Saint-Franchy, <date>1535</date> (cout. du Nivernais).</definition>
    </article>
    <article id="DT58-08670" pg="186">
       <vedette>
@@ -93486,7 +93668,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Varzy,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>Clamecy</localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>
+            <commune precision="certain">Clamecy</commune>
+         </localisation>.</definition>
       <forme_ancienne>— <i>Varciacus,</i> 
          <date>
             <sm>v</sm>
@@ -94400,7 +94584,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Vaux (Écluse de),</sm>
       </vedette>
-      <definition>prise d’eau sur l’<typologie>étang</typologie> de <localisation>Vaux</localisation>.</definition>
+      <definition>prise d’eau sur l’<typologie>étang</typologie> de <localisation>
+            <commune precision="certain">Vaux</commune>
+         </localisation>.</definition>
    </article>
    <article id="DT58-08834" pg="189">
       <vedette>
@@ -94460,7 +94646,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Vaux de Montenoison (Les),</sm>
       </vedette>
       <definition>
-         <typologie>petite contrée</typologie> du <localisation>Nivernais</localisation> qui forme maintenant la plus grande partie du <localisation>canton de Prémery</localisation>.</definition>
+         <typologie>petite contrée</typologie> du <localisation>
+            <commune precision="certain">Nivernais</commune>
+         </localisation> qui forme maintenant la plus grande partie du <localisation>canton de Prémery</localisation>.</definition>
    </article>
    <article id="DT58-08840" pg="189">
       <vedette>
@@ -96266,7 +96454,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
          <sm>Vieil-Hospital (Le),</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> de <localisation>Château-Chinon</localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
+         <typologie>faubourg</typologie> de <localisation>
+            <commune precision="certain">Château-Chinon</commune>
+         </localisation>, mentionné en <date>1671</date> (reg. de Château-Chinon).</definition>
    </article>
    <article id="DT58-09014" pg="193">
       <vedette>
@@ -97543,7 +97733,9 @@ Moulins-Engilbert</localisation>, porté sur la carte de Cassini. Ce moulin prit
       <vedette>
          <sm>Villeconault (Dîme de),</sm>
       </vedette>
-      <definition>à <localisation>Luthenay</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
+      <definition>à <localisation>
+            <commune precision="certain">Luthenay</commune>
+         </localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
    </article>
    <article id="DT58-09129" pg="196">
       <vedette>
