@@ -5,7 +5,7 @@
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
   <start>
     <element name="DICTIONNAIRE">
-      <!-- TODO – Camille Burette -->
+      <!-- voir dans la branche de Camille, ajout_element_commune -->
       <text/>
     </element>
   </start>
