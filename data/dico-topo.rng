@@ -47,7 +47,6 @@
       </oneOrMore>
     </element>
   </start>
-  
   <define name="article">
     <a:documentation>Un article du dictionnaire</a:documentation>
     <element name="article">
@@ -88,10 +87,10 @@
       </attribute>
     </optional>
   </define>
-  
   <define name="vedette">
     <a:documentation>Vedette(s) d’un article</a:documentation>
     <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -->
+    <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -->
     <element name="vedette">
       <optional>
         <ref name="pg"/>
@@ -114,137 +113,13 @@
       </optional>
       <oneOrMore>
         <choice>
-          <text/>
+          <ref name="flow"/>
+          <ref name="date"/>
           <ref name="localisation"/>
-          <ref name="date"/>
-          <ref name="sup"/>
-          <ref name="i"/>
-          <ref name="pg"/>
         </choice>
       </oneOrMore>
     </element>
   </define>
-  
-  <define name="forme_ancienne">
-    <a:documentation>Une (unique) forme ancienne et ses références. Contenu semi-structuré</a:documentation>
-    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -->
-    <!-- problème de la relation date / référence: 1 référence pour 1 date ? -->
-    <!-- Y’a du boulot de restructuration ! Le pattern est devrait être beaucoup plus restrictif -->
-    <element name="forme_ancienne">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="date"/>
-          <ref name="reference"/>
-          <ref name="i"/><!-- contient à priori la forme ancienne… -->
-          <ref name="sup"/>
-          <ref name="pg"/>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  <define name="commentaire">
-    <a:documentation>?????</a:documentation>
-    <element name="commentaire">
-      <oneOrMore>
-        <ref name="p.commentaire"/>
-      </oneOrMore>
-    </element>
-  </define>
-  
-  <define name="reference">
-    <a:documentation>La référence d’une forme ancienne</a:documentation>
-    <element name="reference">
-      <!-- du contenu mixed ? souhaitable ? -->
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="date"/>
-          <ref name="sup"/>
-          <ref name="sm"/>
-          <ref name="i"/>
-          <ref name="pg"/>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  
-  <define name="date">
-    <a:documentation>REVOIR – EN L’ÉTAT, ON NE FAIT RIEN EN FAIRE…</a:documentation>
-    <element name="date">
-      <!--
-        OK pour du contenu mixe, mais un petit attribut pour normaliser la date serait utile…
-        Quel serait le bon datatype ?
-        <attribute name="when">
-          <data type="date"/>
-        </attribute>
-      -->
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="sm"/>
-          <ref name="sup"/>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <define name="p.commentaire">
-    <a:documentation>Les paragraphes des commentaires</a:documentation>
-    <element name="p">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="sup"/>
-          <ref name="i"/>
-          <ref name="sm"/>
-          <ref name="renvoi"/>
-          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -->
-          <ref name="pg"/>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  
-  <define name="renvoi">
-    <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation>
-    <element name="renvoi">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="sm"/>
-          <ref name="sup"/>
-          <ref name="i"/>
-          <ref name="pg"/>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  <define name="insee">
-    <element name="insee">
-      <text/>
-    </element>
-  </define>
-  
-  
-  <define name="insee_commune">
-    <element name="insee_commune">
-      <text/>
-    </element>
-  </define>
-  
-  
-  
-  
-  
   <define name="localisation">
     <a:documentation>Localisation textuelle (commune de rattachement) de la vedette ????</a:documentation>
     <element name="localisation">
@@ -258,17 +133,6 @@
       </oneOrMore>
     </element>
   </define>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <define name="commune">
     <a:documentation>Commune de la localisation ?????</a:documentation>
     <element name="commune">
@@ -285,8 +149,92 @@
       <text/>
     </element>
   </define>
-  
-  
+  <define name="forme_ancienne">
+    <a:documentation>Une (unique) forme ancienne et ses références. Contenu semi-structuré</a:documentation>
+    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -->
+    <!-- problème de la relation date / référence: 1 référence pour 1 date ? -->
+    <!-- Y’a du boulot de restructuration ! Le pattern est devrait être beaucoup plus restrictif -->
+    <element name="forme_ancienne">
+      <oneOrMore>
+        <choice>
+          <ref name="flow"/>
+          <ref name="date"/>
+          <ref name="reference"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="reference">
+    <a:documentation>La référence d’une forme ancienne</a:documentation>
+    <element name="reference">
+      <!-- du contenu mixed ? souhaitable ? -->
+      <oneOrMore>
+        <choice>
+          <ref name="flow"/>
+          <ref name="date"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="commentaire">
+    <a:documentation>?????</a:documentation>
+    <element name="commentaire">
+      <oneOrMore>
+        <ref name="p.commentaire"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="p.commentaire">
+    <a:documentation>Les paragraphes des commentaires</a:documentation>
+    <element name="p">
+      <oneOrMore>
+        <choice>
+          <ref name="flow"/>
+          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -->
+          <ref name="renvoi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="renvoi">
+    <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation>
+    <element name="renvoi">
+      <ref name="flow"/>
+    </element>
+  </define>
+  <define name="date">
+    <a:documentation>REVOIR – EN L’ÉTAT, ON NE FAIT RIEN EN FAIRE…</a:documentation>
+    <element name="date">
+      <!--
+        OK pour du contenu mixe, mais un petit attribut pour normaliser la date serait utile…
+        Quel serait le bon datatype ?
+        <attribute name="when">
+          <data type="date"/>
+        </attribute>
+      -->
+      <oneOrMore>
+        <!-- moins riche que flow… -->
+        <choice>
+          <text/>
+          <ref name="sm"/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="flow">
+    <a:documentation>Du contenu riche (typo, etc.)</a:documentation>
+    <!-- date dans flow ????? -->
+    <oneOrMore>
+      <choice>
+        <text/>
+        <ref name="i"/>
+        <ref name="sup"/>
+        <ref name="sm"/>
+        <ref name="pg"/>
+      </choice>
+    </oneOrMore>
+  </define>
   <define name="i">
     <a:documentation>Italique</a:documentation>
     <element name="i">
@@ -300,9 +248,6 @@
       </oneOrMore>
     </element>
   </define>
-  
-  
-  
   <define name="sup">
     <a:documentation>Exposant</a:documentation>
     <element name="sup">
@@ -312,13 +257,7 @@
   <define name="sm">
     <a:documentation>?????</a:documentation>
     <element name="sm">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="i"/>
-          <ref name="sup"/>          
-        </choice>
-      </oneOrMore>
+      <text/>
     </element>
   </define>
   <define name="pg">
@@ -327,8 +266,13 @@
       <data type="integer"/>
     </element>
   </define>
+  <define name="insee">
+    <element name="insee">
+      <text/>
+    </element>
+  </define>
   
-  
+  <!-- contrôler, déporter ? -->
   <define name="typologie">
     <a:documentation>Type de lieu ??? se référer à la liste des feature types ?</a:documentation>
     <element name="typologie">
@@ -750,6 +694,4 @@
       </choice>
     </element>
   </define>
-  
-  
 </grammar>
