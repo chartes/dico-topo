@@ -35,12 +35,12 @@
   -->
   <start>
     <element name="DICTIONNAIRE">
-      <a:documentation>Élément racine. Un tome ?</a:documentation>
+      <a:documentation>Élément racine</a:documentation>
       <attribute name="departement">
         <data type="string"/>
       </attribute>
       <attribute name="dep">
-        <data type="string"/>
+        <data type="integer"/>
       </attribute>
       <oneOrMore>
         <ref name="article"/>
@@ -52,11 +52,11 @@
     <element name="article">
       <ref name="article.atts"/>
       <ref name="vedette"/>
-      <!-- certaines entrées n’ont pas de définition… sohaitable ? -->
+      <!-- certaines entrées n’ont pas de définition… souhaitable ? -> CB: Certains articles ne peuvent pas avoir de définition, comme par exemple les articles servant de renvoi. Là où ça pose problème, c'est lorsque les informations qui devraient être dans <definition> se trouvent dans un <commentaire> à la place. -->
       <optional>
         <ref name="definition"/>
       </optional>
-      <!-- ordre et hiérarchie entre commentaire et forme_ancienne est à revoir sans doute dans les fichiers… pattern pour validation, mais à reprendre -->
+      <!-- ordre et hiérarchie entre commentaire et forme_ancienne est à revoir sans doute dans les fichiers… pattern pour validation, mais à reprendre -> CB: Il n'y a pas d'ordre possible entre les deux car il peut y avoir une alternance. En effet, dans une liste de formes anciennes, chaque forme ancienne peut être suivie de son propre commentaire  -->
       <optional>
         <oneOrMore>
           <choice>
@@ -73,22 +73,28 @@
   <define name="article.atts">
     <a:documentation>Attributs attachés à un article</a:documentation>
     <attribute name="id">
-      <a:documentation>Identifiant de l’article. Construction ?</a:documentation>
+      <a:documentation>Identifiant de l’article, formé des lettres DT pour Dictionnaire Topographique, suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000</a:documentation>
       <data type="ID"/>
     </attribute>
     <attribute name="pg">
-      <a:documentation>La page de l’entrée ?</a:documentation>
+      <a:documentation>La page de l’entrée dans le dictionnaire papier</a:documentation>
       <data type="integer"/>
     </attribute>
     <optional>
       <attribute name="type">
         <value>commune</value>
-        <a:documentation>???</a:documentation>
+        <a:documentation>Attribut permettant d'identifier les articles concernant les communes</a:documentation>
+      </attribute>
+    </optional>
+    <optional>
+      <attribute name="tm">
+        <a:documentation>Tome du dictionnaire le cas échéant</a:documentation>
+        <data type="integer"/>
       </attribute>
     </optional>
   </define>
   <define name="vedette">
-    <a:documentation>Vedette(s) d’un article</a:documentation>
+    <a:documentation>Vedette(s) d’un article. Contient le label du toponyme</a:documentation>
     <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -->
     <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -->
     <element name="vedette">
@@ -107,52 +113,57 @@
   <define name="definition">
     <a:documentation>Définition semi-structurée</a:documentation>
     <element name="definition">
-      <optional>
-        <!-- on ne souhaite pas rendre obligatoire ? -->
-        <ref name="typologie"/>
-      </optional>
-      <oneOrMore>
+      <zeroOrMore>
         <choice>
           <ref name="flow"/>
           <ref name="date"/>
           <ref name="localisation"/>
+          <ref name="typologie"/>
+          <!-- TYPOLOGIE : on ne souhaite pas rendre obligatoire ? -> CB: il n'y a pas toujours de typologie (ex: "nom primitif de Dompierre-de-Chalamont" / "nom que l'on donne parfois aux communes réunies du Grand et du Petit-Abergement" / nom probablement ibère de la Saône). Par ailleurs, il peut y avoir plusieurs <typologie> dans <definition>, donc il faut le mettre avec les autres dans choice. Il peut également ne pas y avoir de <typologie> ou de <localisation>. -->
         </choice>
-      </oneOrMore>
+      </zeroOrMore>
     </element>
   </define>
   <define name="localisation">
-    <a:documentation>Localisation textuelle (commune de rattachement) de la vedette ????</a:documentation>
+    <a:documentation>Localisation du toponyme de la vedette par rapport à son échelon supérieur (commune, canton, arrondissement, département)</a:documentation>
     <element name="localisation">
       <oneOrMore>
         <choice>
           <text/>
-          <ref name="i"/>
+          <ref name="flow"/>
           <ref name="commune"/>
-          <ref name="pg"/>
         </choice>
       </oneOrMore>
     </element>
   </define>
   <define name="commune">
-    <a:documentation>Commune de la localisation ?????</a:documentation>
+    <a:documentation>Identifie la commune présente dans l'élément localisation</a:documentation>
     <element name="commune">
       <attribute name="precision">
         <!-- revoir la sémantique de cet attribut, par ex. : http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-teidata.certainty.html -->
         <choice>
           <value>certain</value>
-          <a:documentation>Lien validé ???</a:documentation>
-          <!-- ???? -->
+          <a:documentation>La valeur de @precision est "certain" lorsque le toponyme est localisé avec certitude dans une commune</a:documentation>
           <value>approximatif</value>
-          <a:documentation>????</a:documentation>
+          <a:documentation>La valeur de @precision est "approximatif" lorsque le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité/ dans les environs/ en face, etc. d'une commune</a:documentation>
         </choice>
+      </attribute>
+      <attribute name="insee">
+        <a:documentation>Code INSEE de la commune dans laquelle se trouve le toponyme</a:documentation>
+        <data type="integer"/>
+      </attribute>
+      <attribute name="ref">
+        <a:documentation>Référence à l'id de la commune de rattachement</a:documentation>
+        <data type="ID"/>
       </attribute>
       <text/>
     </element>
   </define>
   <define name="forme_ancienne">
-    <a:documentation>Une (unique) forme ancienne et ses références. Contenu semi-structuré</a:documentation>
-    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -->
-    <!-- problème de la relation date / référence: 1 référence pour 1 date ? -->
+    <a:documentation>Une (unique) forme ancienne datée et référencée. Contenu semi-structuré</a:documentation>
+    <!-- CB: Il peut y a très souvent plusieurs formes anciennes dans <forme_ancienne>, elles sont identifiables grâce à la balise <i>. Il peut s'agir de précisions sur la forme ancienne, de compléments, d'une variable. Mais ces différents <i> ne peuvent pas être sortis de <forme_ancienne> car ils sont liés, et proviennent d'une même source. Ils font sens ensemble. -->
+    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -> CB : Dans l'ensemble, les formes anciennes commencent toujours par un tiret et se terminent par un point. -->
+    <!-- problème de la relation date / référence: 1 référence pour 1 date ? -> CB: Dans la majorité des cas oui, mais il peut parfois y avoir deux dates pour une référence (lorsqu'il y a un doute par exemple). D'abord la date, puis la référence. -->
     <!-- Y’a du boulot de restructuration ! Le pattern est devrait être beaucoup plus restrictif -->
     <element name="forme_ancienne">
       <oneOrMore>
@@ -170,6 +181,7 @@
       <!-- du contenu mixed ? souhaitable ? -->
       <oneOrMore>
         <choice>
+          <text/>
           <ref name="flow"/>
           <ref name="date"/>
         </choice>
@@ -177,33 +189,33 @@
     </element>
   </define>
   <define name="commentaire">
-    <a:documentation>?????</a:documentation>
+    <a:documentation>Commentaire sur le toponyme en général ou bien sur une forme ancienne en particulier</a:documentation>
     <element name="commentaire">
       <oneOrMore>
         <ref name="p.commentaire"/>
       </oneOrMore>
     </element>
   </define>
-  <define name="p.commentaire">
+  <define name="p.commentaire"><!-- CB: Attention, il n'y a pas que dans commentaire qu'il y a un p : il y en a aussi dans note. -->
     <a:documentation>Les paragraphes des commentaires</a:documentation>
     <element name="p">
       <oneOrMore>
         <choice>
           <ref name="flow"/>
-          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -->
+          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -> CB: les dates dans les commentaires n'ont effectivement pas besoin d'être encodées, cela n'apporte pas grand chose -->
           <ref name="renvoi"/>
         </choice>
       </oneOrMore>
     </element>
   </define>
   <define name="renvoi">
-    <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation>
+    <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation><!-- CB: Qu'est-ce que TS et TG ? -->
     <element name="renvoi">
       <ref name="flow"/>
     </element>
   </define>
   <define name="date">
-    <a:documentation>REVOIR – EN L’ÉTAT, ON NE FAIT RIEN EN FAIRE…</a:documentation>
+    <a:documentation>Dates des formes anciennes</a:documentation><!-- CB: On peut ne conserver que les <date> qui se trouvent dans <forme_ancienne> et dans <reference>, et supprimer toutes les autres qui se trouvent dans <commentaire> ou <definition> par exemple. -->
     <element name="date">
       <!--
         OK pour du contenu mixe, mais un petit attribut pour normaliser la date serait utile…
@@ -218,13 +230,14 @@
           <text/>
           <ref name="sm"/>
           <ref name="sup"/>
+          <ref name="pg"/>
         </choice>
       </oneOrMore>
     </element>
   </define>
   <define name="flow">
-    <a:documentation>Du contenu riche (typo, etc.)</a:documentation>
-    <!-- date dans flow ????? -->
+    <a:documentation>Du contenu riche (typographie, structure du dictionnaire)</a:documentation>
+    <!-- date dans flow ????? -> CB : Si on met la date dans le flow, on l'autorise à pouvoir se trouver un peu partout dans les fichiers. Je ne sais pas si c'est un bon choix (cf. ma remarque pour le p.commentaire). -->
     <oneOrMore>
       <choice>
         <text/>
@@ -242,7 +255,7 @@
         <choice>
           <text/>
           <ref name="sup"/>
-          <ref name="sm"/><!-- un unique cas. Souhaitable ? -->
+          <ref name="sm"/><!-- un unique cas. Souhaitable ? -> CB: Non, il n'y a pas qu'un seul cas. On le trouve dans suffisamment de dictionnaires pour qu'on le conserve : DT01, DT10, DT24, DT27, DT30 (4 occurrences dans ce dictionnaire), DT43, DT51 (4 occurrences également), DT52, DT54, DT55 (4 occurrences), DT68 (11 occurrences), DT71, DT88 (3 occurrences). -->
           <ref name="pg"/>
         </choice>
       </oneOrMore>
@@ -255,18 +268,19 @@
     </element>
   </define>
   <define name="sm">
-    <a:documentation>?????</a:documentation>
+    <a:documentation>Petites capitales : reproduit la typographie des dictionnaires papier</a:documentation>
     <element name="sm">
       <text/>
     </element>
   </define>
   <define name="pg">
-    <a:documentation>Saut de page ; peut survenir partout ?</a:documentation>
+    <a:documentation>Saut de page ; peut survenir partout</a:documentation>
     <element name="pg">
       <data type="integer"/>
     </element>
   </define>
   <define name="insee">
+    <a:documentation>Code INSEE de la commune</a:documentation>
     <element name="insee">
       <text/>
     </element>
@@ -274,7 +288,7 @@
   
   <!-- contrôler, déporter ? -->
   <define name="typologie">
-    <a:documentation>Type de lieu ??? se référer à la liste des feature types ?</a:documentation>
+    <a:documentation>Types de lieu</a:documentation>
     <element name="typologie">
       <!-- TODO. Valider la liste, normaliser les valeurs pour l’ensemble des dictionnaires -->
       <choice>

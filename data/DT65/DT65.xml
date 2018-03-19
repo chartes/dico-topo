@@ -4108,7 +4108,7 @@
       <commentaire>
          <p>Eglise de l'archiprêtré d'Aure inférieure, diocèse de Comminges. — Le village d'Aspin était membre des Quatre Vallées et ressortissait à la jugerie de Sarrancolin. — Le ruisseau d'Aspin, originaire du col de ce nom, traverse les communes d'Aspin, d'Arreau et se jette dans la Neste. — Le col d'Aspin, altitude 1490 m, s'ouvre dans la chaîne de Bigorre ; il est franchi par la route d'Arreau à Campan.</p>
       </commentaire>
-      <insee>65039 65040</insee>
+      <insee>65039</insee>
    </article>
    <article type="commune" id="DT65-00296" pg="12">
       <vedette>
@@ -4153,7 +4153,7 @@
          <i>lo senhor deu Laspin</i> 
          <date>1410</date> 
          <reference>(Glanage)</reference>.</forme_ancienne>
-      <insee>65039 65040</insee>
+      <insee>65040</insee>
    </article>
    <article id="DT65-00297" pg="12">
       <vedette>
@@ -12391,7 +12391,7 @@
       <commentaire>
          <p>Cette commanderie, fondée en <date>1175</date>, possédait les villages de Bordères, Beausen, Pintac, Saubamea, Saussères ; les églises de Saint-Blaise d'Ossun, de Tuzaguet R.B., de Mazères R.B. ; la garde des châteaux de Lourdes, de Vidalos ; les fiefs de Ger, Florence, Tachoëres, Lestelle, Sainte-Croix, Laurence, Mazaguel, Poueirouton ; et levait la dîme sur plusieurs lieux. En <date>1312</date>, tous ces biens passèrent aux Hospitaliers. — Le Commandeur de Bordères entrait aux Etats de Bigorre et prenait rang sur les barons.</p>
       </commentaire>
-      <insee>65100 65099</insee>
+      <insee>65100</insee>
    </article>
    <article type="commune" id="DT65-00971" pg="33">
       <vedette>
@@ -12410,7 +12410,7 @@
          <p>paroisse de l'archiprêtré de Louron, diocèse de Comminges. — En <date>1790</date>, Bordères fut le siège d'un canton du district de la Neste. Ce canton comptait 22 municipalités : Adervielle, Armenteule, Avéjan, Anéran, Aranvielle, Bareilles, Bordères, Camors, Cazaux de Louron, Estarvielle, Fréchet, Gèdre, Génost, Germs, His, Ilhan, Loudenvielle, Loudervielle, Mont, Pouchergue, Pouy, Vielle. — Le village de Bordères était membre des Quatre Vallées et ressortissait à la jugerie de Sarrancolin (+ruines château XII°). — Le <i>lac de Bordères</i> appartient à cette commune ; il se déverse dans le ruisseau de Hérastio (Lastie IGN) et est situé près du col dit <i>Pas de Bordères.</i>
          </p>
       </commentaire>
-      <insee>65100 65099</insee>
+      <insee>65099</insee>
    </article>
    <article id="DT65-00972" pg="33">
       <vedette>
@@ -36855,7 +36855,7 @@
       <commentaire>
          <p>Annexe de la paroisse de Trie dans l'archiprêtré de Sadournin ; plus anciennement dans l'archidiaconé des Affites. Le village de Lalanne était vassal du Comte d'Armagnac et ressortissait à la sénéchaussée d'Auch.</p>
       </commentaire>
-      <insee>65250 65249</insee>
+      <insee>65250</insee>
    </article>
    <article type="commune" id="DT65-03248" pg="92">
       <vedette>
@@ -36881,7 +36881,7 @@
       <commentaire>
          <p>Annexe de la paroisse de Thermes, au diocèse d'Auch. Ruines de l'ancien château féodal au lieu dit <i>le Castillou.</i> — Le village de Lalanne était membre des Quatre Vallées ; il ressortissait à la châtellenie de Monléon.</p>
       </commentaire>
-      <insee>65250 65249</insee>
+      <insee>65249</insee>
    </article>
    <article id="DT65-03249" pg="92">
       <vedette>
@@ -55302,7 +55302,7 @@
       <vedette>
          <sm>Platane. (le)</sm>
       </vedette>
-      <definition>— <typologie>source thermale</typologie> qui alimente les <localisation>grands thermes de <commune precision="certain"/>
+      <definition>— <typologie>source thermale</typologie> qui alimente les <localisation>grands thermes de <commune precision="certain">Bagnères S</commune>
          </localisation> (+inf. com.).</definition>
    </article>
    <article id="DT65-04889" pg="137">
@@ -59377,7 +59377,7 @@
    <article id="DT65-05277" pg="146">
       <vedette>
          <sm>Rome</sm> (bains du Roi de-)</vedette>
-      <definition>— <typologie>établissement thermal</typologie> désigné sous ce nom de <date>1811</date> à <date>1814</date>, dit autrefois du <i>Dauphin.</i> Compris depuis dans les <localisation>grands Thermes de <commune precision="certain"/>
+      <definition>— <typologie>établissement thermal</typologie> désigné sous ce nom de <date>1811</date> à <date>1814</date>, dit autrefois du <i>Dauphin.</i> Compris depuis dans les <localisation>grands Thermes de <commune precision="certain">Bagnères</commune>
          </localisation>.</definition>
    </article>
    <article id="DT65-05278" pg="146">
@@ -72228,7 +72228,7 @@
       <vedette>
          <sm>Yeux (les)</sm>
       </vedette>
-      <definition>— <typologie>établissement thermal</typologie> se trouvant compris dans les <localisation>grands thermes de <commune precision="certain"/>
+      <definition>— <typologie>établissement thermal</typologie> se trouvant compris dans les <localisation>grands thermes de <commune precision="certain">Bagnères</commune>
          </localisation>.</definition>
    </article>
    <article id="DT65-06277" pg="180">

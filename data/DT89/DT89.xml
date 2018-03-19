@@ -32888,14 +32888,12 @@
       </commentaire>
       <insee>89226</insee>
    </article>
-   <article id="DT89-03017" pg="73">
+   <article type="commune" id="DT89-03017" pg="73">
       <vedette>
          <sm>Ligny-le-Châtel,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>
-            <commune precision="certain">Auxerre</commune>
-         </localisation> ; commune formée de Ligny-la-Ville et de Ligny-le-Châtel.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>Auxerre</localisation> ; commune formée de Ligny-la-Ville et de Ligny-le-Châtel.</definition>
       <forme_ancienne>— <i>Lageniacum,</i> 
          <date>1108</date> 
          <reference>(cart. gén. de l'Yonne, I, 216)</reference>.</forme_ancienne>
@@ -32954,6 +32952,7 @@
                <sm>xiii</sm>
                <sup>e</sup> siècle</date>, il y avait près de Ligny un monastère de l'ordre de Grandmont (Lebeuf, Histoire d'Auxerre, IV, pr. supp. n° 340).</p>
       </commentaire>
+      <insee>89227</insee>
    </article>
    <article id="DT89-03018" pg="73">
       <vedette>
@@ -59972,14 +59971,12 @@
       </commentaire>
       <insee>89440</insee>
    </article>
-   <article id="DT89-05359" pg="137">
+   <article type="commune" id="DT89-05359" pg="137">
       <vedette>
          <sm>Vermanton,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>
-            <commune precision="certain">Auxerre</commune>
-         </localisation>.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>Auxerre</localisation>.</definition>
       <forme_ancienne>— <i>Vermentonnus,</i> 
          <date>901</date> 
          <reference>(cart. gén. de l'Yonne, I, 132)</reference>.</forme_ancienne>
@@ -59997,6 +59994,7 @@
                <sm>ix</sm>
                <sup>e</sup> siècle</date>, du pagus et du dioc. d'Auxerre ; <date>avant 1789</date>, de la prov. de Bourgogne et du comté d'Auxerre, siége de plusieurs justices, savoir : d'une prévôté royale et des bailliages de Bazarne, de Courtenay et de l'Hopitau, tous dits <i>en Vermanton.</i> L'abbaye de Reigny y avait aussi le siége de son bailliage général.</p>
       </commentaire>
+      <insee>89441</insee>
    </article>
    <article id="DT89-05360" pg="137">
       <vedette>
@@ -60467,14 +60465,12 @@
          <p>— Ce bois tire son nom d'une ferme auj. détruite, et qui a été un fief relev. de la baronnie de Courgis, <date>1679</date> (év. d'Auxerre).</p>
       </commentaire>
    </article>
-   <article id="DT89-05401" pg="138">
+   <article type="commune" id="DT89-05401" pg="138">
       <vedette>
          <sm>Vézelay,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> d'<localisation>
-            <commune precision="certain">Avallon</commune>
-         </localisation>.</definition>
+         <typologie>arrondissement</typologie> d'<localisation>Avallon</localisation>.</definition>
       <forme_ancienne>— <i>Vidiliacus in pago Avalensi,</i> 
          <date>
             <sm>ix</sm>
@@ -60511,6 +60507,7 @@
          <p>Vézelay était, <date>avant 1789</date>, du dioc. d'Autun et de la prov. de l'Île-de-France, siége d'une élection, et son baill. ressort. à celui d'Auxerre. Il y avait dans ce lieu, en <date>1789</date>, outre l'abbaye, deux communautés de Cordeliers et d'Ursulines. Vézelay portait pour armoiries : <i>de gueules à trois fleurs de lys d'or, au <pg>139</pg>chef d'azur semé de fleurs de lys et chargé d'une châsse romane d'argent maçonnée de sable.</i>
          </p>
       </commentaire>
+      <insee>89446</insee>
    </article>
    <article type="commune" id="DT89-05402" pg="139">
       <vedette>
@@ -61313,14 +61310,12 @@
          <typologie>manœuvrerie</typologie>, <localisation>commune de <commune precision="certain">Levis</commune>
          </localisation>.</definition>
    </article>
-   <article id="DT89-05453" pg="141">
+   <article type="commune" id="DT89-05453" pg="141">
       <vedette>
          <sm>Villeneuve-l'Archevêque,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>
-            <commune precision="certain">Sens</commune>
-         </localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>Sens</localisation>.</definition>
       <forme_ancienne>— <i>Villanova,</i> 
          <date>1163</date> 
          <reference>(cart. gén. de l'Yonne, II, 155)</reference>.</forme_ancienne>
@@ -61345,6 +61340,7 @@
       <commentaire>
          <p>Villeneuve-l'Archevêque était, <date>avant 1789</date>, de la prov. de l'Île-de-France, élection de Sens, et siége d'un baill. seigneurial ressort. à celui de cette ville.</p>
       </commentaire>
+      <insee>89461</insee>
    </article>
    <article type="commune" id="DT89-05454" pg="141">
       <vedette>
@@ -61479,14 +61475,12 @@
          <p>— Seigneurie appartenant à M. Bellanger, <date>1686</date> (reg. de l'état civil).</p>
       </commentaire>
    </article>
-   <article id="DT89-05461" pg="142">
+   <article type="commune" id="DT89-05461" pg="142">
       <vedette>
          <sm>Villeneuve-sur-Yonne,</sm>
       </vedette>
       <definition>
-         <typologie>arrondissement</typologie> de <localisation>
-            <commune precision="certain">Joigny</commune>
-         </localisation>.</definition>
+         <typologie>arrondissement</typologie> de <localisation>Joigny</localisation>.</definition>
       <forme_ancienne>— <i>Villa-Longa,</i> 
          <date>avant le <sm>xii</sm>
             <sup>e</sup> s<sup>e</sup>
@@ -61516,6 +61510,7 @@
          <p>Cette ville, fondée en <date>1163</date> par Louis le Jeune, était le siége d'une prévôté royale avec siége particulier du baill. de Sens, auquel ressort. en <date>1789</date> 21 villages ou paroisses ; <date>avant 1563</date>, les prévôtés et baill. du Tonnerrois, et <date>avant 1668</date>, le marquisat de Seignelay ; elle était de la prov. de l'Île-de-France et du dioc. de Sens. En <date>1789</date>, on a réuni, pour en former le territoire, les quatre paroisses de Notre-Dame, de Ville-Folle, de Saint-Savinien-lez-Égriselles et de Saint-Nicolas. Villeneuve-sur-Yonne porte pour armoiries : <i>d'azur à trois tours surmontées d'autant de fleurs de lys, le tout d'or ; et chaque tour percée d'une porte.</i>
          </p>
       </commentaire>
+      <insee>89464</insee>
    </article>
    <article id="DT89-05462" pg="142">
       <vedette>
