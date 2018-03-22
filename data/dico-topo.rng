@@ -95,8 +95,8 @@
   </define>
   <define name="vedette">
     <a:documentation>Vedette(s) d’un article. Contient le label du toponyme</a:documentation>
-    <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -->
-    <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -->
+    <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -> CB: Le plus souvent, c'est le premier <sm> qui compte, le second étant une variante, mais parfois il peut s'agir d'adjectifs qualifiant le toponyme, par exemple "Le Grand" dans le premier <sm>, et "Le Petit", dans le second <sm>. Si on ne veut avoir qu'une seule forme par article, il faudrait créer deux articles à chaque fois. C'est déjà parfois le cas (et on trouve alors quand même les deux possibilités dans deux <sm>. -->
+    <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -> CB : on peut toujours corriger, mais la ponctuation avait été prise en compte dans les scripts pour le moteur de recherche du site Internet. -->
     <element name="vedette">
       <optional>
         <ref name="pg"/>
@@ -105,7 +105,7 @@
         <choice>
           <text/>
           <ref name="sm"/>
-          <ref name="sup"/>
+          <ref name="i"/>
         </choice>
       </oneOrMore>
     </element>
@@ -115,11 +115,11 @@
     <element name="definition">
       <zeroOrMore>
         <choice>
-          <ref name="flow"/>
           <ref name="date"/>
           <ref name="localisation"/>
           <ref name="typologie"/>
-          <!-- TYPOLOGIE : on ne souhaite pas rendre obligatoire ? -> CB: il n'y a pas toujours de typologie (ex: "nom primitif de Dompierre-de-Chalamont" / "nom que l'on donne parfois aux communes réunies du Grand et du Petit-Abergement" / nom probablement ibère de la Saône). Par ailleurs, il peut y avoir plusieurs <typologie> dans <definition>, donc il faut le mettre avec les autres dans choice. Il peut également ne pas y avoir de <typologie> ou de <localisation>. -->
+          <!-- TYPOLOGIE : on ne souhaite pas rendre obligatoire ? -> CB: il n'y a pas toujours de typologie (ex: "nom primitif de Dompierre-de-Chalamont" / "nom que l'on donne parfois aux communes réunies du Grand et du Petit-Abergement" / nom probablement ibère de la Saône). Par ailleurs, il peut y avoir plusieurs <typologie> dans <definition>, donc il faut le mettre avec les autres dans <choice>. Il peut également ne pas y avoir de <typologie> ou de <localisation>. -->
+          <ref name="reference"/>
         </choice>
       </zeroOrMore>
     </element>
@@ -142,10 +142,10 @@
       <attribute name="precision">
         <!-- revoir la sémantique de cet attribut, par ex. : http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-teidata.certainty.html -->
         <choice>
-          <value>certain</value>
-          <a:documentation>La valeur de @precision est "certain" lorsque le toponyme est localisé avec certitude dans une commune</a:documentation>
-          <value>approximatif</value>
-          <a:documentation>La valeur de @precision est "approximatif" lorsque le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité/ dans les environs/ en face, etc. d'une commune</a:documentation>
+          <value>high</value>
+          <a:documentation>La valeur de @precision est "high" lorsque le toponyme est localisé avec certitude dans une commune</a:documentation>
+          <value>low</value>
+          <a:documentation>La valeur de @precision est "low" lorsque le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
         </choice>
       </attribute>
       <attribute name="insee">
@@ -162,7 +162,7 @@
   <define name="forme_ancienne">
     <a:documentation>Une (unique) forme ancienne datée et référencée. Contenu semi-structuré</a:documentation>
     <!-- CB: Il peut y a très souvent plusieurs formes anciennes dans <forme_ancienne>, elles sont identifiables grâce à la balise <i>. Il peut s'agir de précisions sur la forme ancienne, de compléments, d'une variable. Mais ces différents <i> ne peuvent pas être sortis de <forme_ancienne> car ils sont liés, et proviennent d'une même source. Ils font sens ensemble. -->
-    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -> CB : Dans l'ensemble, les formes anciennes commencent toujours par un tiret et se terminent par un point. -->
+    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -> CB : Dans l'ensemble, les formes anciennes commencent toujours par un tiret et se terminent par un point. La seule exception, on la trouve avec les balises <forme_ancienne2>, qu'il faudrait transformer en profondeur car ce sont des formes anciennes insérées dans des phrases. Elles ne sont donc pas structurées de la meme manière. -->
     <!-- problème de la relation date / référence: 1 référence pour 1 date ? -> CB: Dans la majorité des cas oui, mais il peut parfois y avoir deux dates pour une référence (lorsqu'il y a un doute par exemple). D'abord la date, puis la référence. -->
     <!-- Y’a du boulot de restructuration ! Le pattern est devrait être beaucoup plus restrictif -->
     <element name="forme_ancienne">
@@ -171,6 +171,8 @@
           <ref name="flow"/>
           <ref name="date"/>
           <ref name="reference"/>
+          <ref name="note"/>
+          <ref name="renvoi"/>
         </choice>
       </oneOrMore>
     </element>
@@ -178,7 +180,7 @@
   <define name="reference">
     <a:documentation>La référence d’une forme ancienne</a:documentation>
     <element name="reference">
-      <!-- du contenu mixed ? souhaitable ? -->
+      <!-- du contenu mixed ? souhaitable ? -> CB: les balises du flow ne sont là que pour retranscrire la typographie du dictionnaire papier. Ils sont utiles pour la version HTML du dictionnaire sur le site internet, mais ne sont pas nécessaire pour l'information contenue. L'idéal serait bien sûr de n'avoir que le texte de la référence. -->
       <oneOrMore>
         <choice>
           <text/>
@@ -189,20 +191,20 @@
     </element>
   </define>
   <define name="commentaire">
-    <a:documentation>Commentaire sur le toponyme en général ou bien sur une forme ancienne en particulier</a:documentation>
+    <a:documentation>Commentaire sur le toponyme en général ou bien sur l'une des ses formes anciennes en particulier</a:documentation>
     <element name="commentaire">
       <oneOrMore>
-        <ref name="p.commentaire"/>
+        <ref name="p"/>
       </oneOrMore>
     </element>
   </define>
-  <define name="p.commentaire"><!-- CB: Attention, il n'y a pas que dans commentaire qu'il y a un p : il y en a aussi dans note. -->
+  <define name="p"><!-- CB: Attention, il n'y a pas que dans <commentaire> qu'il y a un p : il y en a aussi dans <note>. -->
     <a:documentation>Les paragraphes des commentaires</a:documentation>
     <element name="p">
       <oneOrMore>
         <choice>
           <ref name="flow"/>
-          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -> CB: les dates dans les commentaires n'ont effectivement pas besoin d'être encodées, cela n'apporte pas grand chose -->
+          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -> CB: les dates dans les commentaires n'ont effectivement pas besoin d'être encodées, cela n'apporte pas grand chose. On peut les interdire si on le souhaite. -->
           <ref name="renvoi"/>
         </choice>
       </oneOrMore>
@@ -212,6 +214,7 @@
     <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation><!-- CB: Qu'est-ce que TS et TG ? -->
     <element name="renvoi">
       <ref name="flow"/>
+      <ref name="reference"/>
     </element>
   </define>
   <define name="date">
@@ -223,6 +226,7 @@
         <attribute name="when">
           <data type="date"/>
         </attribute>
+        -> CB: Je ne sais pas s'il est possible de définir un datatype car toutes les dates n'ont pas le même format (chiffres, siècles, phrases entières).
       -->
       <oneOrMore>
         <!-- moins riche que flow… -->
@@ -251,26 +255,38 @@
   <define name="i">
     <a:documentation>Italique</a:documentation>
     <element name="i">
-      <oneOrMore>
+      <zeroOrMore>
         <choice>
           <text/>
           <ref name="sup"/>
           <ref name="sm"/><!-- un unique cas. Souhaitable ? -> CB: Non, il n'y a pas qu'un seul cas. On le trouve dans suffisamment de dictionnaires pour qu'on le conserve : DT01, DT10, DT24, DT27, DT30 (4 occurrences dans ce dictionnaire), DT43, DT51 (4 occurrences également), DT52, DT54, DT55 (4 occurrences), DT68 (11 occurrences), DT71, DT88 (3 occurrences). -->
           <ref name="pg"/>
+          <ref name="ads"/>
+          <ref name="pti"/>
         </choice>
-      </oneOrMore>
+      </zeroOrMore>
     </element>
   </define>
   <define name="sup">
     <a:documentation>Exposant</a:documentation>
     <element name="sup">
       <text/>
+      <zeroOrMore>
+        <ref name="i"/>
+      </zeroOrMore>
     </element>
   </define>
   <define name="sm">
     <a:documentation>Petites capitales : reproduit la typographie des dictionnaires papier</a:documentation>
     <element name="sm">
       <text/>
+      <zeroOrMore>
+        <choice>
+          <ref name="pg"/>
+          <ref name="i"/>
+          <ref name="sup"/>
+        </choice>
+      </zeroOrMore>
     </element>
   </define>
   <define name="pg">
@@ -285,12 +301,29 @@
       <text/>
     </element>
   </define>
+  <define name="ads">
+      <a:documentation>"Au-dessus": retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite au-dessus d'une autre). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+      <text/>
+  </define>
+  <define name="pti">
+      <a:documentation>"Petit" : retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite de taille plus petite). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+      <text/>
+    <zeroOrMore>
+      <ref name="ads"/>
+    </zeroOrMore>
+  </define>
+  <define name="note">
+    <a:documentation>Note de bas de page dans le dictionnaire papier</a:documentation>
+    <oneOrMore>
+      <ref name="p"/>
+    </oneOrMore>
+  </define>
   
   <!-- contrôler, déporter ? -->
   <define name="typologie">
     <a:documentation>Types de lieu</a:documentation>
     <element name="typologie">
-      <!-- TODO. Valider la liste, normaliser les valeurs pour l’ensemble des dictionnaires -->
+      <!-- TODO. Valider la liste, normaliser les valeurs pour l’ensemble des dictionnaires. -> CB : Je suis en train de travailler sur la liste des typologies des 11 derniers dictionnaires livrés. -->
       <choice>
         <value>affluent</value>
         <value>affluent de la Veyle</value>
