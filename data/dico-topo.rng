@@ -162,7 +162,7 @@
           <a:documentation>la balise commune est vide</a:documentation>
           <value>insee_not_found</value>
           <a:documentation>la vedette n’a pas de code insee</a:documentation>
-          <value>to_many_insee_codes</value>
+          <value>too_many_insee_codes</value>
           <a:documentation>localisation correspondant à plusieurs vedettes</a:documentation>
         </choice>
       </attribute>
@@ -342,7 +342,9 @@
   <define name="typologie">
     <a:documentation>Types de lieu</a:documentation>
     <element name="typologie">
+      <text/>
       <!-- TODO. Valider la liste, normaliser les valeurs pour l’ensemble des dictionnaires. -> CB : Je suis en train de travailler sur la liste des typologies des 11 derniers dictionnaires livrés. -->
+      <!--
       <choice>
         <value>affluent</value>
         <value>affluent de la Veyle</value>
@@ -758,6 +760,7 @@
         <value>étangs</value>
         <value>île</value>
       </choice>
+      -->
     </element>
   </define>
 </grammar>
