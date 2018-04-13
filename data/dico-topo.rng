@@ -230,10 +230,17 @@
     <a:documentation>Renvoi à un autre article (sans pourvoir préciser la sémantique du renvoi)</a:documentation>
     <element name="renvoi">
       <ref name="flow"/>
-      <!-- TODO: rendre obligatoire la référence ; difficile de lier au bon id (1. flou sur la forme ; 2. plusieurs vedettes cadidates ; cf issue) -->
+      <optional>
+        <attribute name="corresp">
+          <!-- pointer l’identifiant de l’article référencé -->
+          <text/>
+        </attribute>
+      </optional>
+      <!-- Maintenir l’élément référence ???
       <optional>
         <ref name="reference"/>
       </optional>
+       -->
     </element>
   </define>
   <define name="date">
