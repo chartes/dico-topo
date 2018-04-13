@@ -115,9 +115,12 @@
     <element name="definition">
       <zeroOrMore>
         <choice>
+          <text/>
           <ref name="date"/>
           <ref name="localisation"/>
           <ref name="typologie"/>
+          <ref name="sup"/>
+          <ref name="pg"/>
           <!-- TYPOLOGIE : on ne souhaite pas rendre obligatoire ? -> CB: il n'y a pas toujours de typologie (ex: "nom primitif de Dompierre-de-Chalamont" / "nom que l'on donne parfois aux communes réunies du Grand et du Petit-Abergement" / nom probablement ibère de la Saône). Par ailleurs, il peut y avoir plusieurs <typologie> dans <definition>, donc il faut le mettre avec les autres dans <choice>. Il peut également ne pas y avoir de <typologie> ou de <localisation>. -->
           <ref name="reference"/>
         </choice>
@@ -140,22 +143,35 @@
     <a:documentation>Identifie la commune présente dans l'élément localisation</a:documentation>
     <element name="commune">
       <attribute name="precision">
-        <!-- revoir la sémantique de cet attribut, par ex. : http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-teidata.certainty.html -->
         <choice>
-          <value>high</value>
-          <a:documentation>La valeur de @precision est "high" lorsque le toponyme est localisé avec certitude dans une commune</a:documentation>
-          <value>low</value>
-          <a:documentation>La valeur de @precision est "low" lorsque le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
+          <value>certain</value>
+          <a:documentation>certain : le toponyme est localisé avec certitude dans la commune</a:documentation>
+          <value>approximatif</value>
+          <a:documentation>approximatif : le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
         </choice>
       </attribute>
       <attribute name="insee">
         <a:documentation>Code INSEE de la commune dans laquelle se trouve le toponyme</a:documentation>
-        <data type="integer"/>
+        <!-- TMP (très moche) pour OC qui souhaite exploiter les erreurs générées par JP: TODO rétablir le datatype -->
+        <!-- <data type="integer"/> -->
+        <choice>
+          <data type="integer"/>
+          <value>article_not_found</value>
+          <a:documentation>le renvoi ne correspond à aucune vedette</a:documentation>
+          <value>commune_is_empty</value>
+          <a:documentation>la balise commune est vide</a:documentation>
+          <value>insee_not_found</value>
+          <a:documentation>la vedette n’a pas de code insee</a:documentation>
+          <value>to_many_insee_codes</value>
+          <a:documentation>localisation correspondant à plusieurs vedettes</a:documentation>
+        </choice>
       </attribute>
-      <attribute name="ref">
-        <a:documentation>Référence à l'id de la commune de rattachement</a:documentation>
-        <data type="ID"/>
-      </attribute>
+      <optional><!-- TMP -> rendre obligatoire après enrichissement -->
+        <attribute name="ref">
+          <a:documentation>Référence à l'id de la commune de rattachement</a:documentation>
+          <data type="ID"/>
+        </attribute>
+      </optional>
       <text/>
     </element>
   </define>
@@ -211,10 +227,13 @@
     </element>
   </define>
   <define name="renvoi">
-    <a:documentation>Renvoi à un autre article (TS -> TG ?)</a:documentation><!-- CB: Qu'est-ce que TS et TG ? -->
+    <a:documentation>Renvoi à un autre article (sans pourvoir préciser la sémantique du renvoi)</a:documentation>
     <element name="renvoi">
       <ref name="flow"/>
-      <ref name="reference"/>
+      <!-- TODO: rendre obligatoire la référence ; difficile de lier au bon id (1. flou sur la forme ; 2. plusieurs vedettes cadidates ; cf issue) -->
+      <optional>
+        <ref name="reference"/>
+      </optional>
     </element>
   </define>
   <define name="date">
@@ -279,9 +298,9 @@
   <define name="sm">
     <a:documentation>Petites capitales : reproduit la typographie des dictionnaires papier</a:documentation>
     <element name="sm">
-      <text/>
       <zeroOrMore>
         <choice>
+          <text/>
           <ref name="pg"/>
           <ref name="i"/>
           <ref name="sup"/>
