@@ -8,6 +8,11 @@
     omit-xml-declaration="yes"
     indent="no"/>
   
+  <!--
+    entités
+      pleiades:Place = 
+  -->
+  
   <xsl:variable name="lt"><xsl:text disable-output-escaping="yes">&lt;</xsl:text></xsl:variable>
   <xsl:variable name="ghsPref"><xsl:value-of select="$lt"/><xsl:text>http://datageotir.ensg.eu/vocab</xsl:text></xsl:variable>
   <xsl:variable name="slash"><xsl:text>/</xsl:text></xsl:variable>
@@ -114,7 +119,13 @@
     <xsl:value-of select="$lb"/>
     <xsl:value-of select="$indent"/><xsl:text>rdfs:label "</xsl:text>
     <xsl:apply-templates select="sm[1]" mode="trim"/>
-    <xsl:text>";</xsl:text>
+    <xsl:choose>
+      <xsl:when test="../definition/typologie or ../forme_ancienne">
+        <xsl:text>";</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>".</xsl:otherwise>
+    </xsl:choose>
+    
   </xsl:template>
   
   <!--
@@ -145,7 +156,14 @@
     <xsl:value-of select="$ghsPref"/>
     <xsl:text>/</xsl:text>
     <xsl:value-of select="translate(typologie, ' ', '_')"/>
-    <xsl:text>>;</xsl:text>
+    <xsl:choose>
+      <xsl:when test="../forme_ancienne">
+        <xsl:text>>;</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>>.</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <xsl:template match="article" mode="pleiades_hasName">
