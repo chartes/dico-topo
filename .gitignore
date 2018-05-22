@@ -1,4 +1,5 @@
 .DS_Store
+dt2ghs.xsl
 *.ttl
 app/
 docs/
