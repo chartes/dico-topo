@@ -22127,19 +22127,17 @@
          </localisation>, de délimitation à des finages de villages, hameaux, fermes, etc. et remontant au delà des temps mérovingiens.</definition>
   </article>
   <article id="DT10-01275" pg="66">
-      <vedette>
-         <i>
-            <sm>Floriniacus villa,</sm>
-         </i>
-      </vedette>
-      <definition>
-         <i>in pago Breonensi,</i> 
-         <localisation>pays de <commune precision="approximatif" insee="article_not_found">Brienne</commune>
-         </localisation> ; <typologie>lieu inconnu</typologie>.</definition>
-      <forme_ancienne>- <date>860</date> 
-         <reference>(ch. royale)</reference>.</forme_ancienne>
-      <forme_ancienne>- <date>1853</date> 
-         <reference>(congrès archéol. de Troyes)</reference>.</forme_ancienne>
+    <vedette>
+      <sm>Floriniacus villa,</sm>
+    </vedette>
+    <definition>
+      <i>in pago Breonensi,</i> 
+      <localisation>pays de <commune precision="approximatif" insee="article_not_found">Brienne</commune>
+      </localisation> ; <typologie>lieu inconnu</typologie>.</definition>
+    <forme_ancienne>- <date>860</date> 
+      <reference>(ch. royale)</reference>.</forme_ancienne>
+    <forme_ancienne>- <date>1853</date> 
+      <reference>(congrès archéol. de Troyes)</reference>.</forme_ancienne>
   </article>
   <article id="DT10-01276" pg="66">
       <vedette>
