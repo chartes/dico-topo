@@ -641,8 +641,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Servian</localisation>.</definition>
   </article>
   <article id="DT34-00113" pg="5">
-    <vedette><sm>Amirat</sm> ou <sm>Madone, la Madoune,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Amirat</sm> ou <sm>Madone</sm>, <sm>la Madoune,</sm> ,</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Marseillan</localisation>.</definition>
+    <forme_ancienne>— <i>Amirat,</i> <date>1809</date>
+      <forme_ancienne>— <i>Madone,</i> <date>1809</date>
+        <forme_ancienne>— <i>La Madoune,</i> <date>1809</date>
   </article>
   <article id="DT34-00114" pg="5">
     <vedette><sm>Anaia, Anaja,</sm></vedette>
@@ -884,9 +887,11 @@
     <forme_ancienne>— <i>Aregum</i> et <i>Aregui,</i> <date>1193</date> <reference>(Livre noir, 212 et 212 v°)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-00155" pg="7">
-    <vedette><sm>Ariéges, Riéges,</sm> <date>1841</date>, <sm>Oriéges,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Ariéges, Riéges,</sm> <sm>Oriéges,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Octon</localisation>.</definition>
     <forme_ancienne>— <i>Villa de Urganicis,</i> <date>1153</date> <reference>(charte de l’abb. du Vignogoul)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Oriéges,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Rièges,</i> <date>1841</date>.</forme_ancienne>
   </article>
   <article id="DT34-00156" pg="7">
     <vedette><sm>Arifat,</sm></vedette>
@@ -1477,8 +1482,10 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
   </article>
   <article id="DT34-00264" pg="10">
-    <vedette><sm>Azam</sm> ou <sm>la Plane,</sm> <date>1809</date> ; <sm>la Plaine,</sm> <date>1840-1851</date>,</vedette>
+    <vedette><sm>Azam</sm> ou <sm>la Plane,</sm> <sm>la Plaine,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Quarante</localisation>.</definition>
+    <forme_ancienne>— <i>Azam</i> ou <i>La Plane</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Plaine,</i> <date>1840-1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-00265" pg="10">
     <vedette><sm>Azéma,</sm></vedette>
@@ -1546,8 +1553,11 @@
     <definition><typologie>écart</typologie>, <localisation>commune de Saint-Thibéry</localisation>.</definition>
   </article>
   <article id="DT34-00279" pg="11">
-    <vedette><sm>Bachélerie,</sm> <date>1851</date>, <sm>Bachelery,</sm> <date>1840</date>, <sm>Bassélerie,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Bachélerie,</sm>, <sm>Bachelery,</sm> <sm>Bassélerie,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
+    <forme_ancienne>— <i>Bassélerie,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Bachelery,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Bachélerie,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-00280" pg="11">
     <vedette><sm>Badieu,</sm></vedette>
@@ -1622,8 +1632,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Joncels</localisation>.</definition>
   </article>
   <article id="DT34-00294" pg="11">
-    <vedette><sm>Bailheron, Baillaronne, Bailleron,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Bailheron, Baillaronne, Bailleron,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
+    <forme_ancienne>— <i>Bailheron,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Baillaronne,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Bailleron,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-00295" pg="11">
     <vedette><sm>Baillargues-et-Colombiers,</sm></vedette>
@@ -2178,9 +2191,11 @@
     <forme_ancienne>— <i>Bardas,</i> <date>1164</date> <reference>(Liv. noir, 143)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-00414" pg="14">
-    <vedette><sm>Barthas (Le), Bartas,</sm> <date>1840</date> ; <sm>le Bartus,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Barthas (Le), Bartas,</sm> <sm>le Bartus,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Castanet-le-Haut</localisation>.</definition>
     <forme_ancienne>— <i>Bartas,</i> <date>1164</date> <reference>(Liv. noir, 143)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Le Bartus,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Le Barthas, Bartaw,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-00415" pg="14">
     <vedette><sm>Barthas (Le),</sm></vedette>
@@ -2286,8 +2301,10 @@
     <forme_ancienne>— <i>Vaissière</i> <reference>(cart. de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-00436" pg="14">
-    <vedette><sm>Basson,</sm> <date>1856</date> ; <sm>Besson,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Basson,</sm> <sm>Besson,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Lunel</localisation>.</definition>
+    <forme_ancienne>— <i>Besson,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Basson,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-00437" pg="14">
     <vedette><sm>Bassouille,</sm></vedette>
@@ -2579,6 +2596,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Bauzille-de-Putois</localisation>.</definition>
     <forme_ancienne>— <i>Batas,</i> <date>vers 934</date> <reference>(cart. Gell. 74 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa de Bethano,</i> <date>1164</date> <reference>(cart. Gell. 209 v°)</reference>.</forme_ancienne>
+    
   </article>
   <article id="DT34-00497" pg="15">
     <vedette><sm>Beauvezet,</sm></vedette>
@@ -3815,6 +3833,7 @@
   </article>
   <article id="DT34-00755" pg="22">
     <vedette><sm>Borio-Crémade,</sm></vedette>
+    
     <definition><typologie>hameau</typologie>, <localisation>commune de Rieussec</localisation>.</definition>
   </article>
   <article id="DT34-00756" pg="22">
@@ -3878,6 +3897,7 @@
     <forme_ancienne><date>1286</date> <reference>(Plant. chr. præs. 239)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-00768" pg="22">
+    
     <vedette><sm>Bosc (Logis du),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Notre-Dame-de-Londres</localisation>.</definition>
     <forme_ancienne>— <i>Boschet villa,</i> <date>1093</date> <reference>(cart. Gell. 172 v°)</reference>.</forme_ancienne>
@@ -3924,10 +3944,12 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. B.</definition>
   </article>
   <article id="DT34-00776" pg="23">
-    <vedette><sm>Bouat (Mas de),</sm> <date>1809</date> ; <sm>Brouet,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Bouat (Mas de),</sm> <sm>Brouet,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Pargoire</localisation>.</definition>
     <forme_ancienne>— <i>Buat,</i> <date>1203</date> <reference>(cart. de Foix : H. L. III, 122)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Buata,</i> <date>1323</date> <reference>(rôle des dîm. de l’égl. de Béziers)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Mas de Bouat,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Brouet,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-00777" pg="23">
     <vedette><sm>Bouayral, Boueyrat</sm> ou <sm>Bouaïrat,</sm></vedette>
@@ -4489,9 +4511,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune d’Aniane</localisation>.</definition>
   </article>
   <article id="DT34-00895" pg="25">
-    <vedette><sm>Brécou</sm> ou <sm>Brescou,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Brécou</sm> ou <sm>Brescou,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Alignan-du-Vent</localisation>.</definition>
     <forme_ancienne>— <i>Brocia,</i> <date>1202</date> <reference>(Livre noir, 80)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Brécou</i> ou <i>Brescou,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-00896" pg="25">
     <vedette><sm>Brégines (Les)</sm> ou <sm>les Brézines,</sm></vedette>
@@ -4985,10 +5008,12 @@
     <commentaire><p>Cette commune faisait partie du c<sup>on</sup> de Magalas dès <date>1790</date> ; ce canton ayant été supprimé par arrêté des consuls du 3 brumaire <date>an <sm>x</sm></date>, Cabrerolles passa alors dans celui de Murviel.</p></commentaire>
   </article>
   <article id="DT34-00996" pg="28">
-    <vedette><sm>Cabrerolles</sm> ou <sm>Cabreiroles,</sm> <date>1809</date> ; <sm>Cabrairolles,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Cabrerolles</sm> ou <sm>Cabreiroles,</sm> <sm>Cabrairolles,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Espondeilhan</localisation>.</definition>
     <forme_ancienne>— <i>Cabrairola,</i> <date>1146</date> <reference>(cart. Agath. 44)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cabrairole,</i> <date>1199</date> <reference>(arch. de Villemagne ; G. christ. VI, inst. c. 147)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Cabrerolles</i> ou <i>Cabreiroles,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Cabrairolles,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-00997" pg="28">
     <vedette><sm>Cabrials,</sm></vedette>
@@ -5083,12 +5108,13 @@
     <definition><typologie>jardin</typologie>, <localisation>commune de Saint-Pons</localisation>.</definition>
   </article>
   <article id="DT34-01009" pg="29">
-    <vedette><sm>Cabroulasse (La), la Cabrette,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Cabroulasse (La), la Cabrette,</sm> </vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
     <forme_ancienne>— <i>Cabraresza,</i> <date>1157</date> <reference>(cart. Anian. 86)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Caprarezia,</i> <date>1181</date> <reference>(cart. Anian. 54)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Capraricia,</i> <date>1203</date> <reference>(cart. Anian. 52)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Molendinum apud Caprereciam,</i> <date>1213</date> <reference>(cart. Anian. 87 v°)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>La Cabroulasse, la Cabrette,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01010" pg="29">
     <vedette><sm>Cacavel,</sm></vedette>
@@ -5434,8 +5460,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
   </article>
   <article id="DT34-01084" pg="30">
-    <vedette><sm>Cambasselieu,</sm> <date>1856</date> ; <sm>Combe-Lieu,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Cambasselieu,</sm> <sm>Combe-Lieu,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
+    <forme_ancienne>— <i>Combe-Lieu,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Cambasselieu,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-01085" pg="30">
     <vedette><sm>Cambis,</sm></vedette>
@@ -5510,7 +5538,7 @@
     <commentaire><p><renvoi>— Voy. <sm>Montcamel.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01100" pg="30">
-    <vedette><sm>Cami dé la Mounéda,</sm> <i>chemin de la monnaie</i>,</vedette>
+    <vedette><sm>Cami dé la Mounéda,</sm> <i>chemin de la monnaie,</i></vedette>
     <definition><typologie>partie de la voie Domitienne</typologie> qui menait du <i>Pons ærarius,</i> sur la rivière du Lez, à <localisation>Substantion</localisation> (itiner. Burdig.).</definition>
     <forme_ancienne>— <i>Via monetæ,</i> par corruption de <i>Via munita seu militaris, lou cami mounit</i> ou <i>munit</i> <reference>(Astruc, mém. sur le Lang. 94 et 210)</reference>.</forme_ancienne>
     <commentaire><p><renvoi>— Voy. <sm>Monnier (Mont).</sm></renvoi></p></commentaire>
@@ -5760,8 +5788,9 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de Saint-Vincent</localisation>.</definition>
   </article>
   <article id="DT34-01148" pg="32">
-    <vedette><sm>Camp-Rouch</sm> ou <sm>Canrouch</sm> ; <sm>Canroupe,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Camp-Rouch</sm> ou <sm>Canrouch,</sm> <sm>Canroupe,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pégairolles-de-l’Escalette</localisation>.</definition>
+    <forme_ancienne>— <i>Canroupe,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01149" pg="32">
     <vedette><sm>Campsalès,</sm></vedette>
@@ -6045,9 +6074,11 @@
     <definition><typologie>écart</typologie>, <localisation>commune de Béziers</localisation>.</definition>
   </article>
   <article id="DT34-01202" pg="34">
-    <vedette><sm>Capilière (La), Capelierie,</sm> <date>1840</date> ; <sm>la Capellière,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Capilière (La), Capelierie,</sm> <sm>la Capellière,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
     <forme_ancienne>— <i>Capolieyra,</i> <date>1384</date> <reference>(terrier de Vendres)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>La Capellière,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Capilière, Capelierie,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-01203" pg="34">
     <vedette><sm>Capimont,</sm></vedette>
@@ -6276,8 +6307,9 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Drézéry</localisation>.</definition>
   </article>
   <article id="DT34-01250" pg="35">
-    <vedette><sm>Carratier (Grange), Caratié,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Carratier (Grange), Caratié,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Nazaire-de-Ladarez</localisation>.</definition>
+    <forme_ancienne>— <i>Carratier (Grange), Caratié,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01251" pg="35">
     <vedette><sm>Carratiers (Les)</sm> ou <sm>Fontanilles,</sm></vedette>
@@ -6405,11 +6437,13 @@
     <forme_ancienne><date>1206</date> <reference>(cart. Anian. 66 v°)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-01280" pg="35">
-    <vedette><sm>Cassagnes</sm> ou <sm>Cassagnols,</sm> <date>1840</date>,</vedette>
+    
+    <vedette><sm>Cassagnes</sm> ou <sm>Cassagnols,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Sauvian</localisation>.</definition>
     <forme_ancienne>— <i>Calsanum,</i> <date>990</date> <reference>(arch. de l’abb. de S<sup>t</sup>-Tibér. H. L. II, pr. c. 145)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Caissanas,</i> <date>1116</date> <reference>(<i>ibid.</i> 85 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Caissaigne,</i> <date>1518</date> <reference>(pouillé)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Cassagnes</i> ou <i>Cassagnols,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-01281" pg="35">
     <vedette><sm>Cassagnole,</sm></vedette>
@@ -7171,9 +7205,10 @@
     <definition><typologie>hameau</typologie>, <localisation>commune d’Aigues-Vives</localisation>.</definition>
   </article>
   <article id="DT34-01422" pg="40">
-    <vedette><sm>Cazenove,</sm> ferme <date>1809</date> ; <sm>Cazeneuve,</sm> hameau <date>1851</date>,</vedette>
+    <vedette><sm>Cazenove,</sm> ferme <date>1809</date> ; <sm>Cazeneuve,</sm></vedette>
     <definition><localisation>commune de Sauteyrargues-Lauret-et-Aleyrac</localisation>.</definition>
     <forme_ancienne>— <i>Casanova sive Gordanicum,</i> <date>820</date> <reference>(cart. Anian. 14)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Cazeneuve,</i> hameau, <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-01423" pg="40">
     <vedette><sm>Cazes-Bernadon,</sm></vedette>
@@ -7382,9 +7417,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Bédarieux</localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-01455" pg="43">
-    <vedette><sm>Cereirède (La),</sm> <date>1856</date>, ou <sm>la Cerairède,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Cereirède (La),</sm> ou <sm>la Cerairède,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Lattes</localisation>.</definition>
     <forme_ancienne>— <i>Cerarios,</i> <date>804</date> <reference>(cart. Gell. 4)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>La Clerairède,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Cereirède,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-01456" pg="43">
     <vedette><sm>Cers,</sm></vedette>
@@ -8441,8 +8478,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
   </article>
   <article id="DT34-01658" pg="49">
-    <vedette><sm>Comboulette (La),</sm> <date>1851</date> ; <sm>la Coumoulette,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Comboulette (La),</sm> <sm>la Coumoulette,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Lespignan</localisation>.</definition>
+    <forme_ancienne>— <i>La Camoulette,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Comboulette,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-01659" pg="49">
     <vedette><sm>Combour,</sm></vedette>
@@ -8801,8 +8840,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montagnac</localisation>.</definition>
   </article>
   <article id="DT34-01729" pg="51">
-    <vedette><sm>Coudonnio,</sm> <date>1856</date> ; <sm>Coudonnié,</sm> <date>1809</date> ; <sm>Condomine,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Coudonnio,</sm> <sm>Coudonnié,</sm> <sm>Condomine,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Cabrerolles</localisation>.</definition>
+    <forme_ancienne>— <i>Coudonnié,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Condomine,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Coudonnio,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-01730" pg="51">
     <vedette><sm>Coudougnan,</sm></vedette>
@@ -9208,8 +9250,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
   </article>
   <article id="DT34-01805" pg="53">
-    <vedette><sm>Coustande (La)</sm> ou <sm>Coustans de Treize-Vents,</sm> <date>1856</date> ; <sm>Cadenat,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Coustande (La)</sm> ou <sm>Coustans de Treize-Vents,</sm> <sm>Cadenat,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézenas</localisation>.</definition>
+    <forme_ancienne>— <i>Cadenat,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Coustande</i> ou <i>Coustans de Treize-Vents,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-01806" pg="53">
     <vedette><sm>Coustète (La),</sm></vedette>
@@ -9243,8 +9287,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Coubillou.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01813" pg="53">
-    <vedette><sm>Cransac,</sm> dit <sm>Lestan,</sm> <date>1809</date> ; <sm>l’Estang,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Cransac,</sm> dit <sm>Lestan,</sm> <sm>l’Estang,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézenas</localisation>.</definition>
+    <forme_ancienne>— <i>Cransac,</i> dit <i>Lestan,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>L'Estang,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-01814" pg="53">
     <vedette><sm>Creissan,</sm></vedette>
@@ -9270,8 +9316,9 @@
     <definition><typologie>ruisseau</typologie> qui naît dans la sect. H de la <localisation>commune de Clermont</localisation>, dont il parcourt le territoire pendant 3 kilomètres, arrose huit hectares, alimente une usine à draps, et se joint au Salagou, affluent de la Lergue.</definition>
   </article>
   <article id="DT34-01817" pg="54">
-    <vedette><pg>54</pg><sm>Crémade (La)</sm> ; <sm>la Crémade et l’Espitalet,</sm> <date>1809</date>,</vedette>
+    <vedette><pg>54</pg><sm>Crémade (La)</sm> ; <sm>la Crémade et l’Espitalet,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation> (2<sup>e</sup> canton).</definition>
+    <forme_ancienne><i>La Crémade et l'Espitalet,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01818" pg="54">
     <vedette><sm>Crémade (La),</sm></vedette>
@@ -9453,8 +9500,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Usclats-les-Crouzats.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01855" pg="54">
-    <vedette><sm>Crouzet,</sm> <date>1851</date> ; <sm>la Crouzette,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Crouzet,</sm> <sm>la Crouzette,</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de Bédarieux</localisation>.</definition>
+    <forme_ancienne>— <i>La Crouzette,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Crouzet,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-01856" pg="54">
     <vedette><sm>Crouzet,</sm></vedette>
@@ -9746,16 +9795,20 @@
     <commentaire><p><renvoi>— Voy. <sm>Ilice (Mas d’).</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01921" pg="56">
-    <vedette><sm>Dedoune (La)</sm> ; <sm>Doudoune,</sm> <date>1809</date> ; <sm>Dedone,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Dedoune (La)</sm> ; <sm>Doudoune</sm> ; <sm>Dedone,</sm></vedette>
     <definition><typologie>poste de douanes, écart</typologie>, <localisation>commune de Vendres</localisation>.</definition>
+    <forme_ancienne>— <i>Doudoune,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Dedone,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-01922" pg="56">
     <vedette><sm>Dedoux,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. E.</definition>
   </article>
   <article id="DT34-01923" pg="56">
-    <vedette><sm>Deidier</sm> ou <sm>Manissy,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Deidier</sm> ou <sm>Manissy,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>Deidier,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Manissy,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01924" pg="56">
     <vedette><sm>Déjean,</sm></vedette>
@@ -10427,8 +10480,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Gleyse-Yone.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-02078" pg="58">
-    <vedette><sm>Embargnanis,</sm> <date>1840</date> ; <sm>Embagnanès,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Embargnanis,</sm> <sm>Embagnanès,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Thézan</localisation>.</definition>
+    <forme_ancienne>— <i>Embagnanès,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Embargnanis,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-02079" pg="58">
     <vedette><sm>Embayran</sm> ou <sm>Ambeyran,</sm></vedette>
@@ -10906,8 +10961,10 @@
     <definition><typologie>jardin</typologie>, <localisation>commune de Saint-André-de-Sangonis</localisation>.</definition>
   </article>
   <article id="DT34-02183" pg="61">
-    <vedette><sm>Fabas,</sm> <date>1851</date> ; <sm>Fabre,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Fabas,</sm> <sm>Fabre,</sm></vedette>
     <definition><typologie>moulin</typologie> sur l’Ognon, <localisation>commune de la Livinière</localisation>.</definition>
+    <forme_ancienne>— <i>Fabre,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Fabas,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-02184" pg="61">
     <vedette><sm>Fabié (Mas de),</sm></vedette>
@@ -11067,8 +11124,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Fayssas.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-02216" pg="62">
-    <vedette><sm>Faisse-Castelle,</sm> <date>1838</date> ; <sm>Faille-Castelle,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Faisse-Castelle,</sm> <sm>Faille-Castelle,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Argelliers</localisation>.</definition>
+    <forme_ancienne>— <i>Faille-Castelle,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Faisse-Castelle,</i> <date>1838</date>.</forme_ancienne>
   </article>
   <article id="DT34-02217" pg="62">
     <vedette><sm>Faitis,</sm></vedette>
@@ -11127,9 +11186,11 @@
     <definition><typologie>écart</typologie>, <localisation>commune de Bédarieux</localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-02230" pg="62">
-    <vedette><sm>Farans (Mas de),</sm> <date>1841</date> ; <sm>Mas de Farraud,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Farans (Mas de),</sm> <sm>Mas de Farraud,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de Saint-Jean-de-Fos</localisation>.</definition>
     <forme_ancienne>— <i>Molend. de Ferran,</i> <date>1217</date> <reference>(cart. Mag. C 95)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Mas de Farraud,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Mas de Frrans,</i> <date>1841</date>.</forme_ancienne>
   </article>
   <article id="DT34-02231" pg="62">
     <vedette><sm>Farel,</sm></vedette>
@@ -11182,6 +11243,7 @@
     <definition><typologie>hameau</typologie>.</definition>
     <commentaire><p><renvoi>— Voy. <sm>Farans (Mas de).</sm></renvoi></p></commentaire>
   </article>
+  
   <article id="DT34-02243" pg="62">
     <vedette><sm>Fau (Le),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de Castanet-le-Haut</localisation>.</definition>
@@ -11645,8 +11707,10 @@
     <definition><typologie>jardin et moulin</typologie> à foulon sur la Vèbre, <localisation>commune de Bédarieux</localisation>.</definition>
   </article>
   <article id="DT34-02330" pg="65">
-    <vedette><sm>Flancheraud,</sm> <date>1856</date> ; <sm>Flachoraud,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Flancheraud,</sm> <sm>Flachoraud,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
+    <forme_ancienne>— <i>Flachoraud,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Flancheraud,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02331" pg="65">
     <vedette><sm>Flaugergues,</sm></vedette>
@@ -11779,8 +11843,9 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézenas</localisation>.</definition>
   </article>
   <article id="DT34-02357" pg="65">
-    <vedette><sm>Fondude (La),</sm> métairie <sm>Calimar,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Fondude (La),</sm> métairie <sm>Calimar,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>La Fondule, métairie Calimar,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-02358" pg="65">
     <vedette><sm>Fonjun,</sm></vedette>
@@ -11822,8 +11887,10 @@
     <definition><typologie>ferme et jardin</typologie>, <localisation>commune de Quarante</localisation>.</definition>
   </article>
   <article id="DT34-02367" pg="65">
-    <vedette><sm>Font-Brave,</sm> <date>1856</date> ; <sm>Font-de-Bourmel,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Font-Brave,</sm> <sm>Font-de-Bourmel,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
+    <forme_ancienne>— <i>Font-de-Bourmel,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Font-Brave,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02368" pg="65">
     <vedette><sm>Font-Clamouse,</sm></vedette>
@@ -11835,8 +11902,9 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Julien</localisation>.</definition>
   </article>
   <article id="DT34-02370" pg="65">
-    <vedette><sm>Font-Couverte,</sm> métairie <sm>Arnaud,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Font-Couverte,</sm> métairie <sm>Arnaud,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>Font-Couverte, métairie Arnaud,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-02371" pg="65">
     <vedette><sm>Font-Couverte,</sm></vedette>
@@ -11893,8 +11961,10 @@
     <definition><typologie>jardin et ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
   </article>
   <article id="DT34-02384" pg="66">
-    <vedette><sm>Font-Rames,</sm> <date>1856</date> ; <sm>Forames,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Font-Rames,</sm> <sm>Forames,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Nissan</localisation>.</definition>
+    <forme_ancienne>— <i>Forames,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Font-Rames,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02385" pg="66">
     <vedette><sm>Font-Rami,</sm></vedette>
@@ -12067,8 +12137,10 @@
     <forme_ancienne>— <i>Las Fonts,</i> <date>1122</date> <reference>(cart. Gell. 71 v°)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-02418" pg="67">
-    <vedette><sm>Fonzes-Chichiri,</sm> <date>1851</date> ; <sm>Gigeri,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Fonzes-Chichiri,</sm> <sm>Gigeri,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézenas</localisation>.</definition>
+    <forme_ancienne>— <i>Gigeri,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Fonzes-Chichiri,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-02419" pg="67">
     <vedette><sm>Forames,</sm></vedette>
@@ -12160,8 +12232,10 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de Claret</localisation>.</definition>
   </article>
   <article id="DT34-02438" pg="67">
-    <vedette><sm>Foulery,</sm> <date>1856</date> ; <sm>Fourery,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Foulery,</sm> <sm>Fourery,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Servian</localisation>.</definition>
+    <forme_ancienne>— <i>Fourery,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Foulery,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02439" pg="67">
     <vedette><sm>Foulon,</sm></vedette>
@@ -12222,12 +12296,16 @@
     <commentaire><p><renvoi>— Voy. <sm>Foulery.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-02453" pg="68">
-    <vedette><sm>Fourgues,</sm> <date>1809</date> ; <sm>Fourques,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Fourgues,</sm> <sm>Fourques,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Lunel</localisation>.</definition>
+    <forme_ancienne>— <i>Fourgues,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Fourques,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-02454" pg="68">
-    <vedette><sm>Fourille (La),</sm> <date>1856</date> ; <sm>la Sourille,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Fourille (La),</sm> <sm>la Sourille,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune du Puech</localisation>.</definition>
+    <forme_ancienne>— <i>La Sourille,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Fourille,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02455" pg="68">
     <vedette><sm>Fourmendouïre,</sm></vedette>
@@ -12520,8 +12598,10 @@
     <definition><typologie>filature de laine, écart</typologie>, <localisation>commune de Lodève</localisation>.</definition>
   </article>
   <article id="DT34-02506" pg="69">
-    <vedette><sm>Frescaud,</sm> <date>1856</date> ; <sm>Fescau,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Frescaud,</sm> <sm>Fescau,</sm></vedette>
     <definition><typologie>moulin</typologie> sur la Mausson, <localisation>commune de Juvignac</localisation>.</definition>
+    <forme_ancienne>— <i>Fescau,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Frescaud,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02507" pg="69">
     <vedette><sm>Freskili,</sm></vedette>
@@ -13175,8 +13255,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. H.</definition>
   </article>
   <article id="DT34-02629" pg="74">
-    <vedette><sm>Gay,</sm> <date>1856</date>, ou <sm>Cellarier,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Gay,</sm> ou <sm>Cellarier,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Florensac</localisation>.</definition>
+    <forme_ancienne>— <i>Cellarier,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Gay,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02630" pg="74">
     <vedette><sm>Gay,</sm></vedette>
@@ -13434,8 +13516,11 @@
     <definition><typologie>jardin</typologie>, <localisation>commune de Villeneuve-lez-Béziers</localisation>.</definition>
   </article>
   <article id="DT34-02680" pg="76">
-    <vedette><sm>Ginieisse (La),</sm> <date>1856</date> ; <sm>Giniesse,</sm> <date>1840</date> ; <sm>Genieise,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Ginieisse (La),</sm> <sm>Giniesse,</sm> <sm>Genieise,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <forme_ancienne>— <i>Genieise,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Giniesse,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Ginieisse,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02681" pg="76">
     <vedette><sm>Ginoul (Mas de),</sm></vedette>
@@ -13510,8 +13595,12 @@
     <definition><typologie>ruisseau</typologie> qui commence au lieu dit <i>Cazelasse,</i> <localisation>commune de Rieussec</localisation>, arrose quarante hectares sur le territoire de cette commune, parcourt 6 kilomètres et se perd dans le Brian, affluent de l’Aude.</definition>
   </article>
   <article id="DT34-02698" pg="76">
-    <vedette><sm>Gleyse-Yone,</sm> <date>1856</date> ; <sm>Église-Yon,</sm> <date>1851</date> ; <sm>Église-Lointe,</sm> <date>1841</date> ; <sm>Gleise-Vieille,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Gleyse-Yone,</sm> <sm>Église-Yon,</sm> <sm>Église-Lointe,</sm> <sm>Gleise-Vieille,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune du Cros</localisation>.</definition>
+    <forme_ancienne>— <i>Gleise-Vieille,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Église-Lointe,</i> <date>1841</date>.</forme_ancienne>
+    <forme_ancienne>—<i>Église-Yon,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Gleyse-Yone,</i> <date>1856</date>.</forme_ancienne>
     <commentaire><p>— On l’appelle vulgairement <i>Gleia Liôna</i> (<i>église éloignée</i>), parce que cette ancienne église était éloignée du village du Cros. La carte des agents voyers n’aurait pas dû la nommer <i>Église Léon</i>.</p></commentaire>
   </article>
   <article id="DT34-02699" pg="76">
@@ -13656,8 +13745,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
   </article>
   <article id="DT34-02730" pg="77">
-    <vedette><sm>Gourgazeau,</sm> <date>1856</date> ; <sm>Gourgazaut,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Gourgazeau,</sm> <sm>Gourgazaut,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de la Livinière</localisation>.</definition>
+    <forme_ancienne>— <i>Gourgazaut,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Gourgazeau,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-02731" pg="77">
     <vedette><sm>Gourgoubès,</sm></vedette>
@@ -14132,9 +14223,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Vacquières</localisation>.</definition>
   </article>
   <article id="DT34-02839" pg="79">
-    <vedette><sm>Gros (Mas de)</sm> ou <sm>Gervais,</sm> <date>1809</date> ; <sm>Bonnaric,</sm> <date>1861</date>,</vedette>
+    <vedette><sm>Gros (Mas de)</sm> ou <sm>Gervais,</sm> <sm>Bonnaric,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. K.</definition>
     <forme_ancienne>— <i>Mas Fontanier,</i> <date>1742</date> <reference>(arch. de l’hôp. gén. de Montp. B 35)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Mas de Gros</i> ou <i>Gervais,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Bonnaric,</i> <date>1861</date>.</forme_ancienne>
   </article>
   <article id="DT34-02840" pg="79">
     <vedette><sm>Grottes.</sm></vedette>
@@ -14343,8 +14436,10 @@
     <definition><typologie>hameau</typologie>, <localisation>commune du Pouget</localisation>.</definition>
   </article>
   <article id="DT34-02886" pg="80">
-    <vedette><sm>Hérailles (Grange des),</sm> <date>1851</date> ; <sm>Hérail,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Hérailles (Grange des),</sm> <sm>Hérail,</sm></vedette>
     <definition><typologie>ferme et jardin</typologie>, <localisation>commune de Castelnau-de-Guers</localisation>.</definition>
+    <forme_ancienne>— <i>Hérail,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Grange des Hérailles,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-02887" pg="80">
     <vedette><sm>Héras,</sm></vedette>
@@ -14828,10 +14923,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Villeveyrac</localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-02997" pg="84">
-    <vedette><sm>Joncelets</sm> ou <sm>Joncelet,</sm> <date>1841</date>,</vedette>
+    <vedette><sm>Joncelets</sm> ou <sm>Joncelet,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de Joncels</localisation>.</definition>
     <forme_ancienne>— <i>Jancelletz,</i> <date><sm>xvi</sm><sup>e</sup> siècle</date> <reference>(terr. de Joncels)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Jausselets</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Joncelets</i> ou <i>Joncelet,</i> <date>1841</date>.</forme_ancienne>
   </article>
   <article id="DT34-02998" pg="84">
     <vedette><sm>Joncels,</sm></vedette>
@@ -15307,8 +15403,10 @@
     <definition><typologie>ruisseau</typologie> qui a son origine dans la <localisation>commune de Saint-Nazaire-de-Ladarez</localisation>, passe sur le <localisation>territoire de Cessenon</localisation>, parcourt 11,300 mètres, fait mouvoir un moulin à blé et se jette dans l’Orb.</definition>
   </article>
   <article id="DT34-03104" pg="87">
-    <vedette><sm>Lande (La),</sm> <date>1856</date> ; <sm>Lalande,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Lande (La),</sm> <sm>Lalande,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Nazaire-de-Ladarez</localisation>.</definition>
+    <forme_ancienne>— <i>Lalande,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Lande,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03105" pg="87">
     <vedette><sm>Lando,</sm></vedette>
@@ -15386,9 +15484,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Riols</localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-03121" pg="88">
-    <vedette><sm>Larcade</sm> ; <sm>Lercaro,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Larcade</sm> ; <sm>Lercaro,</sm></vedette>
     <definition><typologie>château</typologie>, <localisation>commune de Pouzols</localisation>.</definition>
     <forme_ancienne>— <i>L’Arcade</i> <reference>(Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Lercaro,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03122" pg="88">
     <vedette><sm>Larcas,</sm></vedette>
@@ -15473,17 +15572,21 @@
     <definition><localisation>commune de Montpellier</localisation>, sect. G.</definition>
   </article>
   <article id="DT34-03140" pg="88">
-    <vedette><sm>Lassoubs,</sm> <date>1856</date> ; <sm>Rassoups,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Lassoubs,</sm> <date>1856</date> ; <sm>Rassoups,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
     <forme_ancienne>— <i>La Soux,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Rassoups,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Lassoubs,</i> <date>1856</date></forme_ancienne>
   </article>
   <article id="DT34-03141" pg="88">
     <vedette><sm>Lastilles,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Ceilhes-et-Rocozels</localisation>.</definition>
   </article>
   <article id="DT34-03142" pg="88">
-    <vedette><sm>Latour,</sm> <date>1856</date> ; <sm>la Tour,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Latour,</sm> <sm>la Tour,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montady</localisation>.</definition>
+    <forme_ancienne>— <i>La Tour,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Latour,</i> <date>1856</date></forme_ancienne>
   </article>
   <article id="DT34-03143" pg="88">
     <vedette><sm>Latour,</sm></vedette>
@@ -16022,8 +16125,9 @@
       <p>La commune de Lésignan-de-la-Cèbe fit d’abord partie du canton de Fontès, qui fut supprimé par arrêté des consuls du 3 brumaire <date>an <sm>x</sm></date>. Elle fut alors placée dans le canton de Montagnac.</p></commentaire>
   </article>
   <article id="DT34-03245" pg="93">
-    <vedette><sm>Lesigno, Lésignan,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Lesigno, Lésignan,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
+    <forme_ancienne>— <i>Lesigno, Lésignan,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-03246" pg="93">
     <vedette><sm>Lespignan,</sm></vedette>
@@ -16079,8 +16183,9 @@
     <forme_ancienne>— <i>Ledra,</i> <date>1350</date> <reference>(cart. Magal. D 15)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-03254" pg="93">
-    <vedette><sm>Leune (La)</sm> ; <sm>la Lune,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Leune (La)</sm> ; <sm>la Lune,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Prémian</localisation>.</definition>
+    <forme_ancienne>— <i>La Lune,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03255" pg="93">
     <vedette><sm>Leuzière,</sm></vedette>
@@ -16107,10 +16212,12 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Prémian</localisation>.</definition>
   </article>
   <article id="DT34-03259" pg="93">
-    <vedette><sm>Leyrargues</sm> ou <sm>Lairargues,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Leyrargues</sm> ou <sm>Lairargues,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Mauguio</localisation>.</definition>
     <forme_ancienne>— <i>L’Hairargues,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eccl. de Aleyranicis,</i> <date>1280</date> <reference>(Arn. de Verd. ap. d’Aigrefeuille, II, 447)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Leyrargues,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Lairargues,</i> <date>1809</date>.</forme_ancienne>
     <commentaire><p>— Anc. cure du dioc. de Montp. archiprêtré de Baillargues, <date>1756</date> (état offic. des égl. du dioc. de Montp.) ; <date>1760</date> (pouillé). <forme_ancienne2>— <i>Lérargues</i> avait pour patron <i>S. Barthélemy,</i> et pour prieur décimateur de chapelain de Notre-Dame-du-Palais de Montpellier, <date>1779</date> <reference>(vis. past.)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-03260" pg="93">
@@ -16153,10 +16260,13 @@
     <commentaire><p><renvoi>— Voy. <sm>Limounières (Les).</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03266" pg="94">
-    <vedette><sm>Libouyrac,</sm> <date>1856</date> ; <sm>Libouriac,</sm> <date>1831-1840</date> ; <sm>Libourac,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Libouyrac,</sm> <sm>Libouriac,</sm> <sm>Libourac,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
     <forme_ancienne>— <i>Lyboiracum, Leboyracum,</i> <date>1305</date> <reference>(stat. eccl. Bitt. 73 v° et 157)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Libouriac</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Libourac,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Libouriac,</i> <date>1831-1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Libouyrac,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03267" pg="94">
     <vedette><sm>Libron,</sm></vedette>
@@ -16305,8 +16415,10 @@
     <commentaire><p>il s’étend depuis le cap Couronne, à environ 15 kilomètres au couchant de Marseille, jusqu’au cap de Creux et est divisé, sur la côte du département de l’Hérault, en deux autres golfes moindres par la montagne de Cette et par l’île de Brescou, comme le fait remarquer Strabon. Toutefois le golfe oriental, dans lequel le Rhône se décharge et qui, suivant cet historien, était le plus grand, se trouve aujourd’hui le plus petit, à cause des atterrissements. <forme_ancienne2>Γαλατικὸς κόλπος καὶ Μασσαλιωτικός, <i>sinus Gallicus, golfe Gaulois</i> ou <i>de Marseille</i> <reference>(Strab. IV)</reference></forme_ancienne2>. Mais il paraît que la partie orientale était plus particulièrement appelée <i>golfe Gaulois,</i> et que l’on nommait <i>golfe Narbonnais</i> la partie qui allait de Cette ou de Brescou aux Pyrénées. — On a pensé avec raison, mais non sans contradiction, que Guillaume de Nangis a voulu désigner le <i>golfe du Lion</i> quand il a dit (<i>in Gestis S. Ludovici</i>) : <forme_ancienne2><i>Quod ideo nuncupatur mare Leonis, quod semper est asperum, fluctuosum et crudele</i> <reference>(cf. Act. SS. April. I, 171)</reference></forme_ancienne2>. On ne pourrait donc faire remonter au delà du <date><sm>xiv</sm><sup>e</sup> siècle</date> l’apparition de <i>sinus Leonis, golfe de Léon, golfe du Lion.</i> Était-ce pour des auteurs sérieux, et pour les Bollandistes eux-mêmes (<i>ubi suprà</i>), un motif de penser qu’il fallait écrire <i>golfe de Lyon,</i> à cause d’une ville qui en est à 400 kilomètres et qui ne s’est jamais appelée <i>Leo ?</i> Ne pourrait-on pas d’ailleurs considérer l’appellation de <i>golfe de Lion</i> comme une contraction de κόλπος Λίγυς, golfe de Ligurie ?</p></commentaire>
   </article>
   <article id="DT34-03296" pg="96">
-    <vedette><sm>Liotard,</sm> <date>1856</date> ; <sm>Léotard,</sm> <date>1809-1841</date>,</vedette>
+    <vedette><sm>Liotard,</sm> <sm>Léotard,</sm></vedette>
     <definition><typologie>château et ferme</typologie>, <localisation>commune de Valmascle</localisation>.</definition>
+    <forme_ancienne>— <i>Léotard,</i> <date>1809-1841</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Liotard,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03297" pg="96">
     <vedette><sm>Liquière (La),</sm></vedette>
@@ -16417,8 +16529,11 @@
     <definition><typologie>pêcherie</typologie> à l’extrémité S.-E. de l’<localisation>étang de Mauguio</localisation> ou de l’Or, <date>1820</date> (arch. de l’Hérault, plan des étangs).</definition>
   </article>
   <article id="DT34-03318" pg="98">
-    <vedette><sm>Lombrie,</sm> <date>1856</date> ; <sm>Nombril,</sm> <date>1841</date> ; <sm>Lombric,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Lombrie,</sm> <sm>Nombril,</sm> <sm>Lombric,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Parlatges</localisation>.</definition>
+    <forme_ancienne>— <i>Lombric,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Nombril,</i> <date>1841</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Lombrie,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03319" pg="98">
     <vedette><sm>Lomède</sm> ou <sm>Laumède,</sm></vedette>
@@ -16510,8 +16625,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. C, <date>1809</date>.</definition>
   </article>
   <article id="DT34-03335" pg="99">
-    <vedette><sm>Lozière,</sm> <date>1856</date> ; <sm>Leuzière,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Lozière,</sm> <sm>Leuzière,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-André-de-Buéges</localisation>.</definition>
+    <forme_ancienne>— <i>Leuzière,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Lozière,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03336" pg="99">
     <vedette><sm>Luc,</sm></vedette>
@@ -16526,13 +16643,14 @@
     <definition><typologie>écart, tuilerie</typologie>, <localisation>commune de Thézan</localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-03339" pg="99">
-    <vedette><sm>Luch</sm> ou <sm>Lux,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Luch</sm> ou <sm>Lux,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de Béziers</localisation>.</definition>
     <forme_ancienne>— <i>Villa de Lugo,</i> <date>971</date> <reference>(Livre noir, 193 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In comitatu Bitterensi villam vocabulo Luco cum ipsa ecclesia in honore S. Martini,</i> <date>933-969</date> <reference>(cart. de la cath. de Béz. H. L. II, pr. c. 119 ; G. christ. VI, inst. c. 128)</reference> ;</forme_ancienne>
     <forme_ancienne><date>971</date> <reference>(Livre noir, 202)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1271</date> <reference>(stat. eccl. Bitt. 66)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1341</date> <reference>(stat. eccl. Bitt. 82)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Luch</i> ou <i>Lux,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03340" pg="99">
     <vedette><sm>Lucian,</sm></vedette>
@@ -16739,8 +16857,9 @@
     <commentaire><p><renvoi>— Voy. <sm>Amirat.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03372" pg="101">
-    <vedette><sm>Madone (La)</sm> ; <sm>la Madoune,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Madone (La)</sm> ; <sm>la Madoune,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montagnac</localisation>.</definition>
+    <forme_ancienne>— <i>La Madoune,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03373" pg="101">
     <vedette><sm>Maffre,</sm></vedette>
@@ -17905,8 +18024,10 @@
     <forme_ancienne>— <i>La Matte,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-03602" pg="109">
-    <vedette><sm>Maubos,</sm> <date>1856</date> ; <sm>Boudon,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Maubos,</sm> ; <sm>Boudon,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>Boudon,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Maubos,</i>, <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03603" pg="109">
     <vedette><sm>Mauguio,</sm></vedette>
@@ -17978,8 +18099,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Maureilhan.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03614" pg="111">
-    <vedette><sm>Maurin,</sm> <date>1856</date> ; <sm>Morin,</sm> <date>1851</date>,</vedette>
+    <vedette><sm>Maurin,</sm> <sm>Morin,</sm></vedette>
     <definition><typologie>écart, poste de douanes</typologie>, <localisation>commune de Frontignan</localisation>.</definition>
+    <forme_ancienne>— <i>Morin,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Maurin,</i> <date>1856</date></forme_ancienne>
   </article>
   <article id="DT34-03615" pg="111">
     <vedette><sm>Maurin,</sm></vedette>
@@ -17996,8 +18119,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Lattes</localisation>.</definition>
   </article>
   <article id="DT34-03618" pg="111">
-    <vedette><sm>Maurines (Les),</sm> <date>1856</date> ; <sm>Michel,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Maurines (Les),</sm> <sm>Michel,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>Michel,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Les Maurines,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03619" pg="111">
     <vedette><sm>Mauroul,</sm></vedette>
@@ -18209,8 +18334,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Magalas</localisation>.</definition>
   </article>
   <article id="DT34-03664" pg="112">
-    <vedette><sm>Mazette (La),</sm> <date>1856</date> ; <sm>la Marette,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Mazette (La),</sm> <sm>la Marette,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune et canton de Murviel</localisation>.</definition>
+    <forme_ancienne>— <i>La Maurette,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Mazette,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03665" pg="112">
     <vedette><sm>Meau,</sm></vedette>
@@ -18230,8 +18357,9 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
   </article>
   <article id="DT34-03669" pg="112">
-    <vedette><sm>Médaille (La)</sm> ; <sm>la Madaille,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Médaille (La)</sm> <sm>la Madaille,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Corneilhan</localisation>.</definition>
+    <forme_ancienne>— <i>La Madaille,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03670" pg="112">
     <vedette><sm>Médeillan</sm> ou <sm>Médaillan,</sm></vedette>
@@ -18336,8 +18464,10 @@
     <definition><typologie>ferme et jardin</typologie>, <localisation>commune de Florensac</localisation>.</definition>
   </article>
   <article id="DT34-03691" pg="113">
-    <vedette><sm>Melques (Mas de),</sm> <date>1841</date> ; <sm>Mulgue,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Melques (Mas de), <sm>Mulgue,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Gignac</localisation>.</definition>
+    <forme_ancienne>— <i>Mas de Mulgue,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Mas de Melques,</i> <date>1841</date>.</forme_ancienne>
   </article>
   <article id="DT34-03692" pg="113">
     <vedette><sm>Ménard,</sm></vedette>
@@ -18472,16 +18602,18 @@
     <definition><typologie>ferme</typologie>, <localisation>commune du Soulié</localisation>.</definition>
   </article>
   <article id="DT34-03721" pg="113">
-    <vedette><sm>Métairie-Neuve</sm> ou <sm>la Borio-Nove,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Métairie-Neuve</sm> ou <sm>la Borio-Nove,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
+    <forme_ancienne>— <i>Métairie-Neuve</i> ou <i>La Borio-Nove,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03722" pg="113">
     <vedette><sm>Metge,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. E.</definition>
   </article>
   <article id="DT34-03723" pg="113">
-    <vedette><sm>Meunier,</sm> ferme <sm>Michel,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Meunier,</sm> ferme <sm>Michel,</sm></vedette>
     <definition><localisation>commune de Montpellier</localisation>.</definition>
+    <forme_ancienne>— <i>Ferme Michel</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03724" pg="113">
     <vedette><sm>Meynes,</sm></vedette>
@@ -18711,12 +18843,16 @@
     <definition><typologie>écart, atelier</typologie>, <localisation>commune de Soubès</localisation>, <date>1841</date>.</definition>
   </article>
   <article id="DT34-03769" pg="116">
-    <vedette><sm>Monestiers,</sm> <date>1856</date> ; <sm>Monestiès,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Monestiers,</sm> <sm>Monestiès,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Boujan</localisation>.</definition>
+    <forme_ancienne>— <i>Monestiès,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Monestiers,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-03770" pg="116">
-    <vedette><sm>Monestiès,</sm> <date>1851</date> ; <sm>Monestiè,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Monestiès,</sm> <sm>Monestiè,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
+    <forme_ancienne>— <i>Monestiè,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Monestiès,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-03771" pg="116">
     <vedette><sm>Monetas,</sm></vedette>
@@ -19347,10 +19483,11 @@
       <p><i>Saint-Denis-de-Montpellieret,</i> ancienne paroisse de Montpellier. <forme_ancienne2>— <i>Ecclesia S. Dyonisii de Montepessulaneto,</i> <date>1090</date> <reference>(cart. Magal. E 111)</reference></forme_ancienne2> ; <forme_ancienne2><date>1155</date> <reference>(tr. des ch. H. L. II, pr. c. 552)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Eccl. S. Dyon. de Montepistellereto,</i> <date>1095</date> <reference>(G. christ. VI, inst. c. 353)</reference></forme_ancienne2>. <forme_ancienne2>— <i>S. Dyon. de Monpesliereto,</i> <date>1114</date> <reference>(mss d’Aubaïs ; H. L. II. pr. c. 391)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-03864" pg="125">
-    <vedette><sm>Montpénède</sm> ; <sm>Montpinède,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Montpénède</sm> ; <sm>Montpinède,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Marseillan</localisation>.</definition>
     <forme_ancienne>— <i>Montpenede</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Monpenede</i> <reference>(carte du dioc. d’Agde)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Montpinède,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-03865" pg="125">
     <vedette><sm>Montpenery,</sm></vedette>
@@ -19495,8 +19632,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Mausson (La).</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03891" pg="126">
-    <vedette><sm>Motte (La)</sm> ou <sm>la Mothe,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Motte (La)</sm> ou <sm>la Mothe,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Mauguio</localisation>.</definition>
+    <forme_ancienne>— <i>La Mothe,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Motte,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03892" pg="126">
     <vedette><sm>Motte (La),</sm></vedette>
@@ -19527,10 +19666,11 @@
     <commentaire><p><renvoi>— Voy. <sm>Mounio.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03898" pg="126">
-    <vedette><sm>Mouleires (Las)</sm> ou <sm>las Moulières,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Mouleires (Las)</sm> ou <sm>las Moulières,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune d’Aigne</localisation>.</definition>
     <forme_ancienne>— <i>Villa de Moleriis,</i> <date>1362</date> <reference>(G. christ. VI, inst. c. 91)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Las Mouleires</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Las Moulières</i>, <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-03899" pg="126">
     <vedette><sm>Moulès-et-Baucels,</sm></vedette>
@@ -21336,13 +21476,15 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
   </article>
   <article id="DT34-04232" pg="139">
-    <vedette><sm>Paillade (La)</sm> ou <sm>Dupin,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Paillade (La)</sm> ou <sm>Dupin,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>.</definition>
     <forme_ancienne>— <i>Terminium, mansus de Paleata,</i> <date>1130</date> <reference>(mss d’Aubaïs ; H. L. II, pr. c. 457)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1135</date> <reference>(mss d’Aubaïs ; H. L. II, pr. c. 478)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1217</date> <reference>(cart. Magal. C 95)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1275</date> <reference>(bulle de Grégoire X ; cart. Magal. F 170)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1484</date> <reference>(arch. de l’hôpital général de Montpellier, liasse B, 586)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Dupin,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Paillade,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04233" pg="139">
     <vedette><sm>Paillas,</sm></vedette>
@@ -21379,8 +21521,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. J.</definition>
   </article>
   <article id="DT34-04241" pg="139">
-    <vedette><sm>Palagret</sm> ou <sm>Grange de Palagret,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Palagret</sm> ou <sm>Grange de Palagret,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Bédarieux</localisation>.</definition>
+    <forme_ancienne>— <i>Palagret,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Grande de Palagret,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04242" pg="139">
     <vedette><sm>Palais,</sm></vedette>
@@ -21426,9 +21570,10 @@
     <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de Villeveyrac</localisation>, traverse ceux de <localisation>Loupian</localisation> et de <localisation>Mèze</localisation>, fait aller un moulin à blé, arrose cinq hectares, et, après un cours de 4 kilomètres, se perd dans l’étang de Tau.</definition>
   </article>
   <article id="DT34-04251" pg="139">
-    <vedette><sm>Palliers (Les)</sm> ; <sm>Pallier de Bastide,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Palliers (Les)</sm> ; <sm>Pallier de Bastide,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de la Salvetat</localisation>.</definition>
     <forme_ancienne>— <i>Mansi Pelludi,</i> <date>936</date> <reference>(arch. de l’église de Saint-Pons ; Catel, Comt. de Toul. 88 ; G. christ. VI, inst. c. 77)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Pallier de Bastide,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04252" pg="139">
     <vedette><sm>Paloquet,</sm></vedette>
@@ -21460,8 +21605,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Montpellier</localisation>, sect. J.</definition>
   </article>
   <article id="DT34-04259" pg="140">
-    <vedette><sm>Papeterie (La),</sm> <date>1809</date> ; <sm>Papeterie de Clairac,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Papeterie (La),</sm> <sm>Papeterie de Clairac,</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de Boussagues</localisation>.</definition>
+    <forme_ancienne>— <i>La Papeterie,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Papeterie de Clairac,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-04260" pg="140">
     <vedette><sm>Papeterie (La),</sm></vedette>
@@ -22199,8 +22346,9 @@
     <forme_ancienne>— <i>Peyrescanes</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04400" pg="144">
-    <vedette><pg>144</pg><sm>Peyriac</sm> ; <sm>Peyrat,</sm> <date>1809</date>,</vedette>
+    <vedette><pg>144</pg><sm>Peyriac</sm> ; <sm>Peyrat,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Tourbes</localisation>.</definition>
+    <forme_ancienne>— <i>Peyrat,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04401" pg="144">
     <vedette><sm>Peyromalles,</sm></vedette>
@@ -22234,9 +22382,10 @@
     <forme_ancienne>— <i>Peyroutou</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04407" pg="144">
-    <vedette><sm>Peytavi</sm> ; <sm>Peytavy,</sm> <date>1809-1840</date>,</vedette>
+    <vedette><sm>Peytavi</sm> ; <sm>Peytavy,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Béziers</localisation>.</definition>
     <forme_ancienne>— <i>Mansus de Pictavi,</i> <date>1167</date> <reference>(Livre noir, 55 v°)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Peytavy,</i> <date>1809-1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-04408" pg="144">
     <vedette><sm>Peytavin,</sm></vedette>
@@ -22797,8 +22946,10 @@
     <commentaire><p>— Reconnaissance des Frères Mineurs de Montpellier, au seigneur évêque de Maguelone, d’une métairie appelée <forme_ancienne2><i>le Mas-Rouge,</i> <date>1491</date> <reference>(archives de l’Hérault ; fonds des Pères de l’Observance de Montpellier)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Le Mas-Roge,</i> <date>1491</date> <reference>(cart. Magal. E 51)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Mas Rouge ou Mas de David-Plauchut,</i> <date>1693</date> <reference>(plan et titres du fonds de l’Observance)</reference></forme_ancienne2>. <forme_ancienne2>— <i>La Plauchude</i> <reference>(carte de Cassini et carte du dioc. de Montpellier)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-04510" pg="147">
-    <vedette><sm>Plaudary,</sm> <date>1851</date> ; <sm>Pradary,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Plaudary,</sm> <sm>Pradary,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Aigne</localisation>.</definition>
+    <forme_ancienne>— <i>Pradary,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Plaudary,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-04511" pg="147">
     <vedette><sm>Plaussenous,</sm></vedette>
@@ -23475,11 +23626,13 @@
     <forme_ancienne>— <i>Pousac et Saint-Saturnin</i> <reference>(carte de Cassini et carte diocés. de Béz.)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04627" pg="152">
-    <vedette><sm>Pouzes</sm> ou <sm>Pouges,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Pouzes</sm> ou <sm>Pouges,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézènes</localisation>.</definition>
     <forme_ancienne>— <i>Podes</i> <reference>(bulle d’Honorius III ; Livre noir, 109 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Rectoria de Posagolis,</i> <date>1323</date> <reference>(rôle des dîmes des égl. du dioc. de Béz.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pousses</i> <reference>(carte de Cassini ; cartes diocésaines)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Pouzes,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Pouges,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-04628" pg="152">
     <vedette><sm>Pouzol (Mas),</sm></vedette>
@@ -24337,9 +24490,11 @@
       <p>L’ancien nom de ce ruisseau est <forme_ancienne2><i>Mazanus rivus in terminio ville que vocatur Valleta,</i> <date>1122</date> <reference>(cart. Gell. 60 v°)</reference></forme_ancienne2> ; <forme_ancienne2><date>1176</date> <reference>(Livre noir, 99)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Ragoust</i> <reference>(carte de Cassini ; carte diocés. de Lodève)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-04771" pg="158">
-    <vedette><sm>Rainard,</sm> <date>1809</date> ; <sm>Raynaud,</sm> <date>1840</date>,</vedette>
+    <vedette><sm>Rainard,</sm> <sm>Raynaud,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’Agde</localisation>.</definition>
     <forme_ancienne>— <i>Raynaud</i> <reference>(carte de Cassini ; carte diocés. d’Agde)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Rainard,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Raynaud,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04772" pg="158">
     <vedette><sm>Raissac,</sm></vedette>
@@ -24363,9 +24518,11 @@
     <definition><typologie>hameau</typologie>, <localisation>commune du Soulié</localisation>.</definition>
   </article>
   <article id="DT34-04776" pg="158">
-    <vedette><sm>Rajalous,</sm> <date>1851</date> ; <sm>le Rayal,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Rajalous,</sm> <sm>le Rayal,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
     <forme_ancienne>— <i>Le Rajat</i> <reference>(carte de Cassini ; carte diocés. de Saint-Pons)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Le Rayal,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Rajalous,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-04777" pg="158">
     <vedette><sm>Rajals (Lous),</sm></vedette>
@@ -24565,9 +24722,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de Saint-Pargoire</localisation>.</definition>
   </article>
   <article id="DT34-04820" pg="159">
-    <vedette><sm>Reboul</sm> ou <sm>Grange-d’Arnaud,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Reboul</sm> ou <sm>Grange-d’Arnaud,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Thézan</localisation>.</definition>
     <forme_ancienne>— <i>Reboul</i> <reference>(carte de Cassini ; carte du dioc. de Béziers)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Grande-d'Arnaud,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04821" pg="159">
     <vedette><sm>Reboul,</sm></vedette>
@@ -24581,9 +24739,10 @@
     <commentaire><p>— Ce hameau, qui par corruption est désigné <i>Req d’Aoust</i> dans le recensement de <date>1809</date>, appartenait à cette époque à la commune de Saint-Gervais-terre-foraine.</p></commentaire>
   </article>
   <article id="DT34-04823" pg="159">
-    <vedette><sm>Rec-de-la-Combe (Le)</sm> ou <sm>le Req,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Rec-de-la-Combe (Le)</sm> ou <sm>le Req,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Fraisse</localisation>.</definition>
     <forme_ancienne>— <i>Le Rec</i> <reference>(carte de Cassini ; carte du dioc. de Saint-Pons)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Le Rec-de-la-Combe,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04824" pg="159">
     <vedette><sm>Rec-Grand,</sm></vedette>
@@ -25689,10 +25848,12 @@
     <forme_ancienne>— <i>Roquelongue</i> <reference>(carte de Cassini ; carte dioc. de Lodève)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-05040" pg="166">
-    <vedette><pg>166</pg><sm>Roquelune,</sm> <date>1856</date> ; métairie <sm>Lautier,</sm> <date>1851</date>,</vedette>
+    <vedette><pg>166</pg><sm>Roquelune,</sm> métairie <sm>Lautier,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézenas</localisation>.</definition>
     <forme_ancienne>— <i>Mansus Rocholanus,</i> <date>1078</date> <reference>(cart. Gell. 80)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Roquelunasse</i> <reference>(carte de Cassini ; carte dioc. de Béziers)</reference>.</forme_ancienne>
+    <forme_ancienne>— Métairie <i>Lautier,</i> <date>1851</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Roquelune,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-05041" pg="166">
     <vedette><sm>Roquemengarde,</sm></vedette>
@@ -30031,10 +30192,11 @@
     <forme_ancienne>— <i>Sauvadou</i> <reference>(cartes du dioc. de Béz. et de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-05733" pg="202">
-    <vedette><sm>Sauvajol,</sm> <date>1856</date>,</vedette>
+    <vedette><sm>Sauvajol,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Boujan</localisation>.</definition>
     <forme_ancienne>— <i>Sauvageot,</i> <date>1809</date>.</forme_ancienne>
     <forme_ancienne>— <i>Sauvajot</i> <reference>(cartes du dioc. de Béz. et de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Sauvajol,</i> <date>1856</date>.</forme_ancienne>
   </article>
   <article id="DT34-05734" pg="202">
     <vedette><sm>Sauvanières,</sm></vedette>
@@ -31632,8 +31794,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Thongue.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-06030" pg="211">
-    <vedette><sm>Tongues</sm> ou <sm>Tongas,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Tongues</sm> ou <sm>Tongas,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Pézènes</localisation>.</definition>
+    <forme_ancienne>— <i>Tongues,</i>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Tongas,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-06031" pg="211">
     <vedette><sm>Tonneus.</sm></vedette>
@@ -31717,6 +31881,7 @@
     <definition><localisation>canton de Pézenas</localisation>.</definition>
     <forme_ancienne>— <i>Torves cum eccl. S. Saturnini,</i> <date>990</date> <reference>(arch. de l’abb. de Saint-Thib. ; H. L. II, pr. c. 145)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eccl. S. Saturnini in Tornes,</i> <date>990</date> <reference>(arch. de l’abb. de Saint-Thib. ; G. christ. VI, inst. c. 315)</reference>.</forme_ancienne>
+    
     <forme_ancienne>— <i>Turreves,</i> <date>1090</date> <reference>(mss d’Aubaïs ; H. L. II, pr. c. 327)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>De Turreventosa,</i> <date>1131</date> <reference>(év. de Béziers, H. L. II, pr. c. 461)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Castrum de Torves,</i> <date>1153</date> <reference>(Livre noir, 153 v°)</reference> ;</forme_ancienne>
@@ -32718,6 +32883,7 @@
   </article>
   <article id="DT34-06212" pg="218">
     <vedette><sm>Valoussière,</sm></vedette>
+    
     <definition><typologie>ferme</typologie>, <localisation>commune d’Aumelas</localisation>.</definition>
     <forme_ancienne>— <i>Villa de Vallorserra,</i> <date>1096</date> <reference>(cart. Anian. 74)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Valoussière</i> <reference>(cartes du dioc. de Béziers et de Cassini)</reference>.</forme_ancienne>
@@ -33251,9 +33417,11 @@
     <definition><typologie>ruisseau</typologie> qui prend sa source au lieu dit <i>Conseils,</i> <localisation>commune de Combes</localisation>, parcourt 3 kilomètres sur le territoire de cette commune et va se perdre dans l’Orb.</definition>
   </article>
   <article id="DT34-06304" pg="221">
-    <vedette><sm>Vernette (La)</sm> ou <sm>la Vernes,</sm> <date>1809</date>,</vedette>
+    <vedette><sm>Vernette (La)</sm> ou <sm>la Vernes,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de Nissan</localisation>.</definition>
     <forme_ancienne>— <i>La Vernede</i> <reference>(cartes du dioc. de Narbonne et de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>La Vernette,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>La Vernes,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-06305" pg="221">
     <vedette><sm>Vernezoubres</sm> ou <sm>Vernazobres,</sm></vedette>
