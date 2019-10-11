@@ -1,10 +1,10 @@
-#Enrichissement des données
+# Enrichissement des données
 
-##Fichiers utilisés pour l'enrichissement des données
-*Recup_ville.xsl permet de récupérer leurs identifiants, le nom des communes, leurs cantons
-*Matchscript.py permet de trouver des communes à la suite d'une comparaison sur les substring
+## Fichiers utilisés pour l'enrichissement des données
+* Recup_ville.xsl permet de récupérer leurs identifiants, le nom des communes, leurs cantons
+* Matchscript.py permet de trouver des communes à la suite d'une comparaison sur les substring
 
-##Procédure d'enrichissement
+## Procédure d'enrichissement
 - Extraction des noms des communes avec le fichier Recup_ville.xsl
 - Nettoyage de cette première liste sur le logiciel Dataiku
 - Normalisation de la liste pour comparaison des chaînes de caractère sur le logiciel Dataiku
