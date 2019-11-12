@@ -97,10 +97,11 @@
   </article>
   <article id="DT64-00019" pg="1">
     <vedette><sm>Abense-de-Haut,</sm></vedette>
-    <definition><typologie>village, ancienne commune</typologie> supprimée le <date>16 avril 1859</date>, dont le territoire a été partagé entre <localisation>Alos-Sibas</localisation> <pg>2</pg>et <localisation>Tardets</localisation>.</definition>
-    <forme_ancienne>— <i>Abense prope Tardetz,</i> <date>1385</date> <reference>(coll. Duch. vol. CXIV, f° 43)</reference>.</forme_ancienne>
+    <definition><typologie>village</typologie>, commune <localisation>Alos-Sibas</localisation>.</definition><pg>2</pg>
+    <forme_ancienne>— <i>Abense prope Tardetz,</i> <date>1385</date> <reference>(coll. Duch. vol. CXIV, f° 43)</reference>.</forme_ancienne>
     <forme_ancienne>— Abense-de-Haut se dit en basque <i>Onice-Gainecoa.</i></forme_ancienne>
-  </article>
+    <commentaire>Ancienne commune supprimée le 16 avril 1859, dont le territoire a été partagé entre Alos-Sibaset et Tardets</commentaire>
+ </article> 
   <article id="DT64-00020" pg="2">
     <vedette><sm>Abéra,</sm></vedette>
     <definition><typologie>fief</typologie>, <localisation>commune d’Espoey</localisation>.</definition>
