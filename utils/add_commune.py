@@ -1,7 +1,8 @@
 import xml.etree.ElementTree as ET
 import re
 import csv
-import unicodedata
+import unidecode
+from bs4 import BeautifulSoup
 
 def add_commune (localisation, precision):
     """
@@ -10,9 +11,36 @@ def add_commune (localisation, precision):
     :return:
     """
     commune = localisation.text.split()
-    localisation.text = ' '.join(commune[:-1])+" "
-    newcommune = ET.SubElement(localisation,"commune", precision=precision)
-    newcommune.text = commune[-1]
+    #supprime le saut de ligne en fin de phrase qui peut gêner pour la reconnaissance du caractère par la suite
+    if "\n" in commune[-1] :
+        commune[-1] = commune[-1].split("\n")[0]
+    #Contrôle que la dernière valeur commence par une majuscule pour qu'on soit sûr de bien récupérer le nom d'une commune
+    if commune[-1][0].isupper() :
+        localisation.text = ' '.join(commune[:-1])+" "
+        #ajout de la balise commune
+        newcommune = ET.SubElement(localisation,"commune", precision=precision)
+        newcommune.text = commune[-1]
+    else :
+        #Sépare tous les mots à l'exception des caractères et de -
+        co = re.split('([^a-zA-Z0-9À-ÿ\)\-])', localisation.text)
+        localisation.text = ""
+         #Ajout de la balise div dans la phrase final pour permettre un ajout aisé de la modification directement dans la balise localisation
+        phrase = "<tmp>"
+        testadd = False
+        for mot in co:
+            try:
+                #Le mot peut-être considéré comme une commune s'il commence par une majuscule, si il est plus grand que 2 lettres et n'est pas Les
+                testadd = mot[0].isupper() and ")" not in mot and len(mot) > 2 and "Les" not in mot
+            except:
+                phrase = phrase + mot
+            if testadd is True:
+                phrase = phrase + "<commune>" + mot + "</commune>"
+            else :
+                phrase = phrase + mot
+        phrase = phrase + "</tmp>"
+         #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <tmp> et <tmp> dans le fichier final
+        phrasexml = ET.fromstring(phrase)
+        localisation.append(phrasexml)
 
 
 def add_commune_d(localisation, precision):
@@ -21,7 +49,14 @@ def add_commune_d(localisation, precision):
     :param localisation: contient les informations de la balise localisation du fichier xml
     :return:
     """
-    commune = localisation.text.split("’")
+    commune = localisation.text.replace("'","’").split("’")
+    #supprime le saut de ligne en fin de phrase qui peut gêner pour la reconnaissance du caractère par la suite
+    if "\n" in commune[-1] :
+        commune[-1] = commune[-1].split("\n")[0]
+    #SI deux éléments après l'élément final, on le traite comme une communes car on doit gérer plusieurs éléments avec des majuscules
+    if len(commune[-1].split()) == 2 :
+        add_communes (localisation, precision=precision)
+        return
     localisation.text = commune[0]+"’"
     newcommune = ET.SubElement(localisation,"commune", precision=precision)
     newcommune.text = commune[-1]
@@ -34,12 +69,27 @@ def add_communes (localisation, precision):
     """
      #divise le string si le caractère n'est pas une lettre majuscule et minuscule, accentué ou non ou un tiret
     co = re.split('([^a-zA-Z0-9À-ÿ\)\-])', localisation.text)
+    #Les communes qui contenait ' sont séparés par le split précédent donc on les réformes avec ce code pour éviter de compliquer la tache
+    try :
+        numApo = co.index("'")
+        if len(co[numApo-1]) > 3:
+            co[numApo-1:numApo+2] = [''.join(co[numApo-1:numApo+2])]
+    except :
+        pass
+    #Les communes qui contenait ’ sont séparés par le split précédent donc on les réformes avec ce code pour éviter de compliquer la tache
+    try :
+        numApo = co.index("’")
+        if len(co[numApo-1]) > 3:
+            co[numApo-1:numApo+2] = [''.join(co[numApo-1:numApo+2])]
+    except :
+        pass
     localisation.text = ""
      #Ajout de la balise div dans la phrase final pour permettre un ajout aisé de la modification directement dans la balise localisation
     phrase = "<tmp>"
+    testadd = False
     for mot in co:
         try:
-            testadd = mot[0].isupper() and ")" not in mot
+            testadd = mot[0].isupper() and ")" not in mot and "Les" not in mot and len(mot) > 2
         except:
             phrase = phrase + mot
         if testadd is True:
@@ -49,10 +99,11 @@ def add_communes (localisation, precision):
     phrase = phrase + "</tmp>"
      #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <div> et </div> dans le fichier final
     phrasexml = ET.fromstring(phrase)
-    phrasexml.set('precision', precision)
+    for commune in phrasexml.iter("commune"):
+        commune.set('precision', precision)
     localisation.append(phrasexml)
 
-def check_commune (localisation, d, article):
+def check_commune (localisation, d, precision):
     """
 
     :param localisation: contient les informations de la balise localisation du fichier xml
@@ -61,56 +112,161 @@ def check_commune (localisation, d, article):
     :return:
     """
     valide = False
-    for nom, insee in d.items():
-        if nom == localisation.text:
-            localisation.text = ""
-            newcommune = ET.SubElement(localisation,"commune", insee=insee, precision="approximatif")
-            newcommune.text = nom
-            valide = True
-    if valide is not True :
-        print(article.attrib, localisation.text)
+    # Si plus grand que deux utilise la méthode de add_communes au pluriel
+    if len(localisation.text.split()) == 2 :
+        co = localisation.text.split()
+        localisation.text = ""
+         #Ajout de la balise div dans la phrase final pour permettre un ajout aisé de la modification directement dans la balise localisation
+        phrase = "<tmp>"
+        testadd = False
+        for mot in co:
+            try:
+                testadd = mot[0].isupper() and ")" not in mot and len(mot) > 2 and "Les" not in mot
+            except:
+                phrase = phrase + mot
+            if testadd is True:
+                phrase = phrase + "<commune>" + mot + "</commune>"
+            else :
+                phrase = phrase + mot
+        phrase = phrase + "</tmp>"
+         #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <div> et </div> dans le fichier final
+        phrasexml = ET.fromstring(phrase)
+        localisation.append(phrasexml)
+    else :
+        nomNorm = unidecode.unidecode(localisation.text)
+        nomNorm = nomNorm.strip()
+        #Test si le nom est connu dans la base de dictionnaire et si oui l'ajoute avec le code INSEE
+        for nom, insee in d.items():
+            if nom == nomNorm:
+                localisation.text = ""
+                newcommune = ET.SubElement(localisation,"commune", precision=precision)
+                newcommune.text = nom
+                valide = True
+    return valide
+
+
+dep = "56"
 
 #Donner l'emplacement du fichier XML du dictionnaire à utiliser pour la recherche
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/DT44/DT44.xml")
+tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"+dep+"/DT"+dep+".xml")
 xml = tree.getroot()
 #Changer nom variable en indice commune précise
-listOfCommuneIndiceP = ["commune de", "commune du", "ville de"]
-listOfCommunedIndiceP = ["commune d’", "ville d’"]
+listOfCommuneIndiceP = ["commune de", "commune du", "ville du", "ville de", "village de"]
+listOfCommunedIndiceP = ["commune d’", "ville d’", "village d’", "près d’","commune d'", "ville d'", "village d'","près d'"]
 listofComumunesIndiceU = ["arrondissements", "cantons"]
-listofCommuneIndiceU = ["arrondissement de", "canton de", "canton du" ]
-listofCommunedIndiceU = ["arrondissement d'", "canton d'" ]
-nb = 0
+listofCommuneIndiceU = ["arrondissement de", "canton de", "canton du", "près de", "près du", "forêt de", "territoire de", "territoire du"]
+listofCommunedIndiceU = ["arrondissement d’", "canton d’", "territoire d’","canton d'","arrondissement d'", "territoire d'"]
+
+#initialisation des variables
+n= 0
+rest_list = []
 d = {}
+test = ""
+typologie = ""
+savevedette = ""
+
  #Crée un dictionnaire qui contient le nom et le code insee pour chaque commune du dictionnaire
-with open("/home/corentink/Bureau/Dicotopo/Dossier_correction/DT44.csv", newline='') as csvfile:
+with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"+dep+"/DT" + dep + "_prepared.csv", newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
     for communeInsee in ListcommunesInsee :
-        nCommune = unicodedata.normalize('NFKD',communeInsee[1]).encode('ascii','ignore').decode('utf-8')
-        d[nCommune] = communeInsee[5]
+        #Supprime les accents pour s'assurer de la cohérence car il y a des différences d'accent entre les noms dans les corps de texte et le reste
+        nCommune = unidecode.unidecode(communeInsee[1])
+        d[nCommune] = communeInsee[2]
 
 #Utilisation de boucle for imbriqué pour pouvoir avoir accès à chaque niveau de l'information et faire les exports les plus précis possible
 for article in xml:
+    dep = xml.attrib.get("dep")
     for balises in article :
+        if balises.tag == "vedette":
+            for sm in balises :
+                if sm.tag =="sm":
+                    vedette = sm.text
         if balises.tag == "definition":
+            #Changer la méthode pour récupérer la définition, utiliser xslt pour faire un apply-templates et récupérer les données
+            definition = balises.itertext()
             for localisation in balises :
+                communeOk = False
+                if localisation.tag == "typologie":
+                    typologie = localisation.text
+                    #savevedette permet de sauvegarder le nom de la vedette et quand il y a un changement d'article et pas de balise typologie, on vide la balise pour éviter les erreurs.
+                    savevedette = vedette
+                elif savevedette != vedette :
+                    savevedette = vedette
+                    typologie = ""
+
                 if localisation.tag == "localisation":
-                    nb = nb +1
+                    n = n+1
+
+                    #Test si c'est une commune dont la précision est connu
                     for testCommune in listOfCommuneIndiceP  :
                         if testCommune in localisation.text :
-                            add_commune(localisation, precision="certain")
+                            add_commune (localisation, precision="certain")
+                            communeOk = True
+                    #Test si c'est une commune dont la précision est connu dont la séparation est d'
                     for testCommune in listOfCommunedIndiceP :
                         if testCommune in localisation.text :
-                            add_commune_d(localisation, precision="certain")
+                            add_commune_d (localisation, precision="certain")
+                            communeOk = True
+                    #Test si c'est la commune désignée est à travers un canton ou un arrondissement
                     for testCommune in listofCommuneIndiceU :
                         if testCommune in localisation.text :
-                            add_commune(localisation, precision="approximatif")
+                            add_commune (localisation, precision="approximatif")
+                            communeOk = True
+                    #Test si c'est la liste des communes désignée est à travers un canton ou un arrondissement
                     for testCommune in listofComumunesIndiceU :
                         if testCommune in localisation.text :
-                            add_communes(localisation, precision="approximatif")
+                            add_communes (localisation, precision="approximatif")
+                            communeOk = True
+                    #Test si c'est une commune dont la précision est inconnu (canton, arrondissement) dont la séparation est d'
+                    for testCommune in listofCommunedIndiceU :
+                        if testCommune in localisation.text :
+                            add_commune_d (localisation, precision="approximatif")
+                            communeOk = True
+                    if communeOk == True :
+                        communeOk = False
+                   #Test si c'est la liste des communes désignée est à travers un canton ou un arrondissement
+                    elif "communes" in localisation.text :
+                        add_communes (localisation, precision="certain")
+                        communeOk = False
+                    #Test si le mot seul dans localisation est une commune ou non
+                    elif len(localisation.text.split()) == 1 or 2 :
+                        testmot = localisation.text.split()
+                        if (len(testmot) == 2 and len(testmot[-1]) < 3) or len(testmot) == 1:
+                            testvalide = check_commune (localisation, d, precision="certaine")
+                            if testvalide is not True :
+                                if article.attrib.get("id") == "DT56-14845" :
+                                    print(localisation.text)
+                                lst = [article.attrib.get("id"), vedette, typologie, localisation.text, "", definition]
+                                rest_list.append(lst)
+                            communeOk = False
+                        else :
+                            lst = [article.attrib.get("id"), vedette, typologie, localisation.text, "", definition]
+                            rest_list.append(lst)
+                    #Renvoi une liste des communes sans
+                    else:
+                        lst = [article.attrib.get("id"), vedette, typologie, localisation.text, "",  definition]
+                        rest_list.append(lst)
 
-n = 0
+print(n)
 
-tree.write("output2.xml",encoding="UTF-8",xml_declaration=True)
+#Crée le fichier csv des fichiers localisations dans lequelles on ne peut pas garantir la présence d'une commune
+with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv", "w") as csvfile:
+    Listcommunerest= csv.writer(csvfile)
+    Listcommunerest.writerow(['Article', 'Vedette', 'Type vedette', 'Candidat', 'INSEE', 'Définition'])
+    testDefinition= ""
+    for communerest in rest_list :
+        if communerest[-1] == testDefinition:
+            communerest[-1] = PhraseDefinition
+            Listcommunerest.writerow(communerest)
+        else :
+            testDefinition = communerest[-1]
+            PhraseDefinition = ""
+            for mot in communerest[-1]:
+                PhraseDefinition = PhraseDefinition + mot
+            communerest[-1] = PhraseDefinition
+            Listcommunerest.writerow(communerest)
+
+tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output2.xml",encoding="UTF-8",xml_declaration=True)
 
 
 

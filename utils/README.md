@@ -3,7 +3,13 @@
 ## Fichiers utilisés pour l'enrichissement des données
 * Recup_ville.xsl permet de récupérer leurs identifiants, le nom des communes, leurs cantons
 * Matchscript.py permet de trouver des communes à la suite d'une comparaison sur les substring
-* add_commune.py permet d'ajouter les balises communes sur les différents noms de commune
+* Injection_attr_commune.xsl ajoute l'attribut type dans la balise article
+* Injection_INSEE.xsl ajoute la balise INSEE et son code
+* add_commune.py permet d'ajouter les balises communes sur les différents noms de commune. Il fournit la liste des balises localisations qui ne corresponde pas à certaines valeurs.
+* add_Insee_Commune.py ajoute l'attribut INSEE et son code dans les balises communes. Il nous fournit un fichier csv avec les échecs.
+* Update_Commune_INSEE.py utilise le tableau de correction pour ajouter les balises communes dans les balises localisations du fichier XML
+* Update_INSEE_Code.py rajoute les codes INSEE dans les balises communes qui n'ont pas matchs
+
 
 ## Procédure d'enrichissement du code INSEE des communes
 - Extraction des noms des communes avec le fichier Recup_ville.xsl
@@ -12,9 +18,24 @@
 - Première comparaison en *exact match* avec le nom des communes INSEE 2011 sur le logiciel Dataiku
 - Deuxième comparaison des communes restantes sur les *substring* avec le script Matchscript.py
 - Troisième comparaison des communes sans match en fuzzy join sur le logiciel Dataiku
-- Mise en place d'un tableur pour permettre la correction du texte 
+- Mise en place d'un tableur pour permettre la correction du texte  (Voir la procédure d'enrichissement détaillé sur Dataiku)
+- Correction manuel des communes dont la précision n'est pas High
+- Ajout de l'attribut type avec commune dans la balise article avec le fichier Injection_attr_commune.xsl
+- AJout de la balise INSEE avec son code avec le fichier Injection_INSEE.xsl
 
-##Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
+
+## Ajout des balises communes dans les balises localisation
+- Utilisation du script «  add_commune.py » qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance 
+- Le script nous fournit un premier XML et un tableau csv avec les échecs « DTXX_liageINSEE_localisation-commune-desambiguisation.csv » qui doit permettre une correction aisée des localisations qui ne correspondent pas aux cas définis dans le script.
+- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes facilement et qui peuvent donc gèner les étapes suivantes
+- Le XML récupéré sert de base pour le script suivant « add_Insee_Commune.py », il récupère le nom contenu dans la balise commune puis le compare avec la liste des noms de communes et si ça correspond il ajoute un attribut insee avec son code. 
+- Le script fournit un nouvelle XML avec les codes ajoutés dans les attributs insee mais aussi un fichier csv « DTXX_liageINSEE_localisation-commune.csv » qui contient le nom des communes dont les noms n'ont trouvé aucune correspondace à cause d'une erreur de typo ou encore des abréviations et qui doit être corrigé avec le tableau contenant les communes.
+- Le tableau « DTXX_liageINSEE_localisation-commune.csv » corrigé est ensuite réinjécté par le script  « Update_Commune_INSEE.py ». Il est réinjécté par le script Update_INSEE_code.py et rajoute les codes INSEE sur les balises communes déjà placé issu du script add_INSEE_commune.py. I
+-  Le tableau « DTXX_liageINSEE_localisation-commune-desambiguisation.csv » corrigé est réinjécté par le script Update_INSEE_code.py. Il contient un travail manuel avec aussi bien les valeurs où il faut poser les balises communes mais aussi les codes INSEE donc cette injection permet de faire l'intégralité du travail de correction en une seul passe.  
+- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes facilement e
+- Un test de la validité des données est fait à chaque étape grâce à « Testscript.py» qui fournit un csv avec les chiffres qui permettent de connaître la qualité de la donnée et nous informe 
+
+####Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
 
 1. Ajout du fichier CSV DT73 des communes extraites depuis le fichier DT73.xml 
 2. Mise en ordres des données avec suppression des espaces vides, alignement des cases et création d'une colonne qui contient une version normalisée de la commune

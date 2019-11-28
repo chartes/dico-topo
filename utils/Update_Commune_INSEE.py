@@ -1,22 +1,24 @@
 import xml.etree.ElementTree as ET
 import csv
-
-d = {}
-#Crée un dictionnaire qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune
-with open("/home/corentink/Bureau/Dicotopo/Dossier_correction/DT44/DT44_EchecCommune_revuSN-3.csv", newline='') as csvfile:
+#Variable qui set à déterminer sur quel département on travaille
+dep = "54"
+listC = []
+# ! Supprimer la colonne Définition qui peut créer des problèmes au moment de la réinjection des données!
+#Crée une liste qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune et la valeur à corriger si nécessaire
+with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune_OC.csv", newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter='\t', quotechar='|')
     for communeInsee in ListcommunesInsee :
-        if communeInsee[4] == "" :
-           continue
-        d[communeInsee[0]] = communeInsee[4], communeInsee[3]
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/Dossier_correction/DT44/output4.xml")
+        print(communeInsee)
+        if communeInsee[4] != "Non" or communeInsee[4] != "NON":
+            listC.append([communeInsee[0],communeInsee[3], communeInsee[2], communeInsee[4]])
+
+tree = ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output3.xml")
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance
 controleList = []
 n = 0
 nb = 0
 
-print(d)
 for article in xml :
     NumArticle = article.attrib.get("id")
     for balises in article:
@@ -26,10 +28,13 @@ for article in xml :
                     typologie = localisation.text
                 for commune in localisation :
                     if commune.tag == "commune":
-                        for NArticle, Rest in d.items():
-                            if NArticle == NumArticle and Rest[1] == commune.text:
-                                commune.set('insee',Rest[0])
+                        for CommuneCorrection in listC:
+                            #Pour ajouter l'attribut insee dans le champs commune, il faut que le numéro d'article soit bon et que la valeur compris entre les balises communes soit équivalentes à celle du tableur et que la valeur du code INSEE ne soit pas Non
+                            if CommuneCorrection[0] == NumArticle and CommuneCorrection[2] == commune.text and CommuneCorrection[1] != "NON" and CommuneCorrection[1] != "Non":
+                                commune.set('insee', CommuneCorrection[1])
+                                #Si une entrée est présente dans le cominl[3] alors on doit la supprimer pour assurer qu'aucune erreur ne soit possible
+                                if CommuneCorrection[3] != "":
+                                    commune.text = CommuneCorrection[3]
 
-tree.write("/home/corentink/Bureau/Dicotopo/Dossier_correction/DT44/output5.xml",encoding="UTF-8",xml_declaration=True)
 
-print(n)
+tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4.xml",encoding="UTF-8",xml_declaration=True)
