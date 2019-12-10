@@ -30,9 +30,9 @@
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes facilement et qui peuvent donc gèner les étapes suivantes
 - Le XML récupéré sert de base pour le script suivant « add_Insee_Commune.py », il récupère le nom contenu dans la balise commune puis le compare avec la liste des noms de communes et si ça correspond il ajoute un attribut insee avec son code. 
 - Le script fournit un nouvelle XML avec les codes ajoutés dans les attributs insee mais aussi un fichier csv « DTXX_liageINSEE_localisation-commune.csv » qui contient le nom des communes dont les noms n'ont trouvé aucune correspondace à cause d'une erreur de typo ou encore des abréviations et qui doit être corrigé avec le tableau contenant les communes.
-- Le tableau « DTXX_liageINSEE_localisation-commune.csv » corrigé est ensuite réinjécté par le script  « Update_Commune_INSEE.py ». Il est réinjécté par le script Update_INSEE_code.py et rajoute les codes INSEE sur les balises communes déjà placé issu du script add_INSEE_commune.py. I
+- Le tableau « DTXX_liageINSEE_localisation-commune.csv » corrigé est ensuite réinjécté par le script  « Update_Commune_INSEE.py ». Il est réinjécté par le script « Update_INSEE_code.py » et rajoute les codes INSEE sur les balises communes déjà placé issu du script « add_INSEE_commune.py ». 
 -  Le tableau « DTXX_liageINSEE_localisation-commune-desambiguisation.csv » corrigé est réinjécté par le script Update_INSEE_code.py. Il contient un travail manuel avec aussi bien les valeurs où il faut poser les balises communes mais aussi les codes INSEE donc cette injection permet de faire l'intégralité du travail de correction en une seul passe.  
-- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes facilement e
+- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes dans les balises localisations non-stéréotypé.
 - Un test de la validité des données est fait à chaque étape grâce à « Testscript.py» qui fournit un csv avec les chiffres qui permettent de connaître la qualité de la donnée et nous informe 
 
 ####Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
