@@ -1,0 +1,655 @@
+Article	Vedette	Localisation	INSEE_corrigé	Nom_corrigé	Commentaire
+DT71-00374	Baignant	Allerey	71003		
+DT71-04606	Château-Renaud,	Allerey	71003		
+DT71-05601	Combe (La),	Allerey	71003		
+DT71-05857	Corcelles,	Allerey	71003		
+DT71-06664	Crotte (La),	Anthumes	71013	Authumes	
+DT71-02572	Brosses (Les),	Arconce	71554		Pb de segmentation
+DT71-05031	Chéru (Le),	Arconce	71554		Pb de segmentation
+DT71-08180	Forges (Les),	Arconce	71554		Pb de segmentation
+DT71-07121	Dracy-Saint-Loup,	Autun-nord	71014		
+DT71-12347	Monthelon,	Autun-nord	71014		
+DT71-17148	Saint-Forgeot,	Autun-nord	71014		
+DT71-18114	Tavernay,	Autun-nord	71014		
+DT71-00174	Antully	Autun-sud	71014		
+DT71-00316	Auxy	Autun-sud	71014		
+DT71-06794	Curgy,	Autun-sud	71014		
+DT71-19794	Veziaux (Les),	Barise	71019	Barisey	
+DT71-01389	Bois (Au)	Barisey	71019		
+DT71-04036	Champs-du-Pont (Les),	Barisey	71019		
+DT71-04143	Channière (La),	Barisey	71019		
+DT71-09331	Grand-Pré (Le),	Barisey	71019		
+DT71-10559	Lessard (En),	Barisey	71019		
+DT71-11561	Meix (Le),	Barisey	71019		
+DT71-11868	Moissenot (Le),	Barisey	71019		
+DT71-12798	Moulin (Le),	Barisey	71019		
+DT71-12831	Moulin-à-Vent,	Barisey	71019		
+DT71-13199	Moulin-Grachet (Le),	Barisey	71019		
+DT71-13260	Moulin-Neuf (Le),	Barisey	71019		
+DT71-13343	Moulin-Tourneaux,	Barisey	71019		
+DT71-13363	Mourotte (La),	Barisey	71019		
+DT71-14448	Petit-Moulin (Le),	Barisey	71019		
+DT71-15383	Poussottes (Les),	Barisey	71019		
+DT71-15553	Pré-Prudhon,	Barisey	71019		
+DT71-16071	Ravets (Les),	Barisey	71019		
+DT71-16133	Regain-Morisot (Le),	Barisey	71019		
+DT71-16324	Riaux (Les),	Barisey	71019		
+DT71-17619	Scierie (La),	Barisey	71019		
+DT71-18345	Theurey,	Barisey	71019		
+DT71-19947	Vignes-Dessus (Les),	Barisey	71019		
+DT71-02199	Bourgneuf (Le),	Beaurepaire	71027		
+DT71-00193	Archeveau	Bernay	71020	Barnay	
+DT71-11945	Molleron,	Bissy-le-Mâconnaise	71035	Bissy-la-Mâconnaise	
+DT71-11693	Meruges,	Bissy-sous-Cruchaud	71034		
+DT71-01394	Bois (Le)	Bosco	71286		! Pb d’encodage : il faut corriger en « Mary</localisation></definition><forme_ancienne>— <i>Domus de Bosco</i> <date> »…
+DT71-16774	Rouhe (La),	Bresse-sous-Grosne	71058	Bresse-sur-Grosne	
+DT71-12375	Montjeu,	Broyes	71063		
+DT71-04668	Châtenoy-le-Royal,	Chalon-sur-Saône-nord	71076		
+DT71-08359	Fragnes,	Chalon-sur-Saône-nord	71076		
+DT71-10816	Loyère (La),	Chalon-sur-Saône-nord	71076		
+DT71-20129	Virey,	Chalon-sur-Saône-nord	71076		
+DT71-03790	Champforgeuil,	Chalon-sur-Saône-périphérie	71076		
+DT71-06345	Crissey,	Chalon-sur-Saône-périphérie	71076		
+DT71-07651	Farges-lès-Chalon,	Chalon-sur-Saône-périphérie	71076		
+DT71-17498	Sassenay,	Chalon-sur-Saône-périphérie	71076		
+DT71-04359	Charmée (La),	Chalon-sur-Saône-sud	71076		
+DT71-04667	Châtenoy-en-Bresse,	Chalon-sur-Saône-sud	71076		
+DT71-07311	Epervans,	Chalon-sur-Saône-sud	71076		
+DT71-10458	Lans,	Chalon-sur-Saône-sud	71076		
+DT71-10844	Lux,	Chalon-sur-Saône-sud	71076		
+DT71-11326	Marnay,	Chalon-sur-Saône-sud	71076		
+DT71-13757	Oslon,	Chalon-sur-Saône-sud	71076		
+DT71-17257	Saint-Loup-de-Varennes,	Chalon-sur-Saône-sud	71076		
+DT71-17260	Saint-Marcel,	Chalon-sur-Saône-sud	71076		
+DT71-17359	Saint-Remy,	Chalon-sur-Saône-sud	71076		
+DT71-17776	Sevrey,	Chalon-sur-Saône-sud	71076		
+DT71-19172	Varennes-le-Grand,	Chalon-sur-Saône-sud	71076		
+DT71-11022	Maison-Rouge,	Chanay-lès-Mâcon	71105	Charnay-lès-Mâcon	
+DT71-15387	Pouzes (Les),	Chanay-lès-Mâcon	71105	Charnay-lès-Mâcon	
+DT71-18583	Tournache (La),	Chanay-lès-Mâcon	71105	Charnay-lès-Mâcon	
+DT71-11131	Malcus,	Charay-lès-Mâcon	71105	Charnay-lès-Mâcon	
+DT71-05077	Chevannes,	Charbonnat-sur-Arroux	71098		
+DT71-11412	Marverat,	Charbonnière	71099		
+DT71-06584	Croix-Rozian (La),	Charonnat	71098	Charbonnat	
+DT71-19382	Verdelin (Le),	Chassy)	71111		
+DT71-00085	Alexandrette	Châteaurenaud	71263		
+DT71-01384	Boine (La)	Châtenay-le-Royal	71118		
+DT71-19195	Vaublanc,	Chaussenay	71119	Chaudenay	
+DT71-04835	Chaux (La),	Chaux-en-Bresse)	71121		
+DT71-07371	Essards (Les),	Chavagny-les-Chevrières	71126		
+DT71-08854	Glaiteron (Le),	Chevreaux	39142		
+DT71-01142	Besançon (Le)	Chissey-lès-Mâcon)	71130		
+DT71-04412	Charnaudat,	Cressy-sous-Somme	71152		
+DT71-17145	Saint-Firmin,	Creusot-est	71153		
+DT71-08361	Fragnes,	Cruzille)	71156		
+DT71-00287	Augays (Les)	Curtil-sous-Buffières	71163		
+DT71-00337	Avoineries (Les)	Curtil-sous-Buffières	71163		
+DT71-02331	Branles (Les),	Curtil-sous-Buffières	71163		
+DT71-02709	Bruyère-aux-Mouches (La),	Curtil-sous-Buffières	71163		
+DT71-03502	Champ (Le),	Curtil-sous-Buffières	71163		
+DT71-03654	Champ-de-la-Croix,	Curtil-sous-Buffières	71163		
+DT71-03742	Champ-du-Coin,	Curtil-sous-Buffières	71163		
+DT71-05462	Coigniaux (En),	Curtil-sous-Buffières	71163		
+DT71-05668	Combes (Les),	Curtil-sous-Buffières	71163		
+DT71-05774	Condemine (La),	Curtil-sous-Buffières	71163		
+DT71-07373	Essards (Les),	Curtil-sous-Buffières	71163		
+DT71-07781	Feuilleraie (La),	Curtil-sous-Buffières	71163		
+DT71-08911	Gordet (Le),	Curtil-sous-Buffières	71163		
+DT71-09262	Grande-Terre (La),	Curtil-sous-Buffières	71163		
+DT71-09383	Grands-Champs,	Curtil-sous-Buffières	71163		
+DT71-10012	Haut (L’),	Curtil-sous-Buffières	71163		
+DT71-10210	Jandots (Les),	Curtil-sous-Buffières	71163		
+DT71-10398	Kasantlimerius,	Curtil-sous-Buffières	71163		
+DT71-10493	Laurendon,	Curtil-sous-Buffières	71163		
+DT71-12038	Montagne (La),	Curtil-sous-Buffières	71163		
+DT71-12799	Moulin (Le),	Curtil-sous-Buffières	71163		
+DT71-13435	Murot (Le),	Curtil-sous-Buffières	71163		
+DT71-15530	Pré-Macon,	Curtil-sous-Buffières	71163		
+DT71-19039	Valleron (En),	Curtil-sous-Buffières	71163		
+DT71-19641	Verpré,	Curtil-sous-Buffières	71163		
+DT71-19178	Varignolles,	Dommartin-lès-Cuisezux	71177	Dommartin-lès-Cuiseaux	
+DT71-15585	Prés-Jeu (Les),	Dracy	71184		
+DT71-05762	Conde,	Etoile	71307		Pb de segmentation
+DT71-12413	Montmelle,	Evêque	71239		Pb de segmentation
+DT71-14586	Pierre-Creuse,	Evêque	71239		Pb de segmentation
+DT71-14587	Pierre-Creuse,	Evêque	71239		Pb de segmentation
+DT71-00815	Beau-Midi (Le)	Évêque	71239		Pb de segmentation
+DT71-01729	Bois-Guillemard,	Évêque	71239		Pb de segmentation
+DT71-19813	Vie-Gravée (La),	Fontenard	71208	Frontenard	
+DT71-06184	Couvent (Le),	Frangy	71205		
+DT71-06767	Curaine,	Gervais-en-Vallière	71423		Pb de segmentation
+DT71-17587	Sauzé,	Geugnon	71230	Gueugnon	
+DT71-06446	Croix-Chaumet (La),	Giry-le-Noble	71132	Ciry-le-Noble	
+DT71-00192	Archers (Les)	Huilly	71234		
+DT71-01226	Bief (Le)	Huilly	71234		
+DT71-01409	Bois (Les),	Huilly	71234		
+DT71-02666	Brussillets (Les),	Huilly	71234		
+DT71-04309	Chardenet,	Huilly	71234		
+DT71-06352	Crochets (Les),	Huilly	71234		
+DT71-06636	Crôte (La),	Huilly	71234		
+DT71-06924	Défriche (La),	Huilly	71234		
+DT71-07254	Ecuelle,	Huilly	71234		
+DT71-07534	Etang-Neuf,	Huilly	71234		
+DT71-07881	Folie (La),	Huilly	71234		
+DT71-11325	Marnaud (Le),	Huilly	71234		
+DT71-11499	Maupreys (Les),	Huilly	71234		
+DT71-15304	Port-de-Chevreux,	Huilly	71234		
+DT71-16619	Romaine,	Huilly	71234		
+DT71-18421	Tiffailles,	Huilly-sur-Saône	71234	Huilly-sur-Seille	
+DT71-01105	Berrets (Les)	Iaizy	71251	Laizy	
+DT71-00815	Beau-Midi (Le)	Issy-l	71239		Pb de segmentation
+DT71-01729	Bois-Guillemard,	Issy-l	71239		Pb de segmentation
+DT71-12413	Montmelle,	Issy-l	71239		Pb de segmentation
+DT71-14586	Pierre-Creuse,	Issy-l	71239		Pb de segmentation
+DT71-14587	Pierre-Creuse,	Issy-l	71239		Pb de segmentation
+DT71-00674	Basse-Froidière (La)	L’Abergement-de-Cuisery	71001		
+DT71-00717	Batonnades (Les)	L’Abergement-de-Cuisery	71001		
+DT71-01946	Borde (La),	L’Abergement-de-Cuisery	71001		
+DT71-02130	Boulets (Les),	L’Abergement-de-Cuisery	71001		
+DT71-02427	Breuille,	L’Abergement-de-Cuisery	71001		
+DT71-03684	Champ-de-l’Escalier,	L’Abergement-de-Cuisery	71001		
+DT71-04964	Chêne (Le),	L’Abergement-de-Cuisery	71001		
+DT71-06147	Cours-Michelet (Les),	L’Abergement-de-Cuisery	71001		
+DT71-06503	Croix-du-Char (La),	L’Abergement-de-Cuisery	71001		
+DT71-07464	Etang-Chaud,	L’Abergement-de-Cuisery	71001		
+DT71-08323	Fourneaux (Les),	L’Abergement-de-Cuisery	71001		
+DT71-08364	Fraigne (Le),	L’Abergement-de-Cuisery	71001		
+DT71-08429	Froidière (La),	L’Abergement-de-Cuisery	71001		
+DT71-10339	Journette (La),	L’Abergement-de-Cuisery	71001		
+DT71-10717	Loire (En),	L’Abergement-de-Cuisery	71001		
+DT71-11121	Malatière (La),	L’Abergement-de-Cuisery	71001		
+DT71-11245	Mare (La),	L’Abergement-de-Cuisery	71001		
+DT71-15318	Porteau-Richy,	L’Abergement-de-Cuisery	71001		
+DT71-15573	Pré-Brûlés,	L’Abergement-de-Cuisery	71001		
+DT71-16976	Sables (Les),	L’Abergement-de-Cuisery	71001		
+DT71-17858	Sougeraie (La),	L’Abergement-de-Cuisery	71001		
+DT71-18148	Teppe (La),	L’Abergement-de-Cuisery	71001		
+DT71-19688	Vers-l’Eglise,	L’Abergement-de-Cuisery	71001		
+DT71-20047	Villeneuve (La),	L’Abergement-de-Cuisery	71001		
+DT71-01888	Bonde (La),	L’Abergement-lès-Cuisery	71001		
+DT71-00726	Battoir (Le)	L’Abergement-Sainte-Colombe	71002		
+DT71-01277	Binbernard	L’Abergement-Sainte-Colombe	71002		
+DT71-02139	Boullerand,	L’Abergement-Sainte-Colombe	71002		
+DT71-03354	Chagniot (Le),	L’Abergement-Sainte-Colombe	71002		
+DT71-03996	Champs (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-04010	Champ-Saint-Martin,	L’Abergement-Sainte-Colombe	71002		
+DT71-04386	Charmois (Le),	L’Abergement-Sainte-Colombe	71002		
+DT71-06101	Cours (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-06528	Croix-Jean (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-06574	Croix-Roland (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-07681	Faussigny,	L’Abergement-Sainte-Colombe	71002		
+DT71-07853	Foichot,	L’Abergement-Sainte-Colombe	71002		
+DT71-07867	Folie (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-08449	Frontenans (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-08938	Gouiller (Le),	L’Abergement-Sainte-Colombe	71002		
+DT71-09813	Grubes (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-10587	Leys (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-14875	Planche-du-Gué (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-14976	Plattes (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-16535	Rochelle (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-18088	Tartre (Le),	L’Abergement-Sainte-Colombe	71002		
+DT71-18394	Thire (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-18445	Tirchat,	L’Abergement-Sainte-Colombe	71002		
+DT71-19528	Vernes (Les),	L’Abergement-Sainte-Colombe	71002		
+DT71-19790	Veyle (La),	L’Abergement-Sainte-Colombe	71002		
+DT71-19997	Villargeault,	L’Abergement-Sainte-Colombe	71002		
+DT71-00162	Anglure	L’Hôpital-le-Mercier	71233		
+DT71-00257	Arsenne (L’)	L’Hôpital-le-Mercier	71233		
+DT71-00260	Art (L’)	L’Hôpital-le-Mercier	71233		
+DT71-00548	Barre (La)	L’Hôpital-le-Mercier	71233		
+DT71-01785	Bois-Muet (Le),	L’Hôpital-le-Mercier	71233		
+DT71-01962	Bordes (Les),	L’Hôpital-le-Mercier	71233		
+DT71-02413	Breuil (Le),	L’Hôpital-le-Mercier	71233		
+DT71-02837	Bucheron,	L’Hôpital-le-Mercier	71233		
+DT71-03583	Champ-Brûlé (Le),	L’Hôpital-le-Mercier	71233		
+DT71-07910	Fond-de-l’Orme,	L’Hôpital-le-Mercier	71233		
+DT71-09977	Guinchère (La),	L’Hôpital-le-Mercier	71233		
+DT71-10406	Lac (Le),	L’Hôpital-le-Mercier	71233		
+DT71-10872	Madeleine (La),	L’Hôpital-le-Mercier	71233		
+DT71-13870	Pantin (Le),	L’Hôpital-le-Mercier	71233		
+DT71-15466	Pré-Bonant,	L’Hôpital-le-Mercier	71233		
+DT71-15785	Quart (Le),	L’Hôpital-le-Mercier	71233		
+DT71-16919	Rues (Les),	L’Hôpital-le-Mercier	71233		
+DT71-17843	Sorbonnes (Les),	L’Hôpital-le-Mercier	71233		
+DT71-18290	Teureau (Le),	L’Hôpital-le-Mercier	71233		
+DT71-18820	Tuilerie (La),	Laisy	71251		
+DT71-08881	Goitrand (Le),	Leynes)	71258		
+DT71-00029	Abyme (L’)	Mâcon	71270		Non identifié (art. 71-10858)
+DT71-00422	Balme	Mâcon	71270		
+DT71-00550	Barre (La)	Mâcon	71270		
+DT71-00909	Bel-Air	Mâcon	71270		
+DT71-00910	Bel-Air	Mâcon	71270		
+DT71-00934	Bel-Horizon	Mâcon	71270		
+DT71-00970	Bellevue (En)	Mâcon	71270		
+DT71-01003	Belouzes	Mâcon	71270		
+DT71-01045	Bérangère (La)	Mâcon	71270		
+DT71-01211	Bicêtre	Mâcon	71270		
+DT71-01258	Bigeonnière	Mâcon	71270		
+DT71-01290	Bioux (Le)	Mâcon	71270		
+DT71-02000	Bornot,	Mâcon	71270		
+DT71-02174	Bourdons (Les),	Mâcon	71270		
+DT71-02207	Bourgneuf,	Mâcon	71270		
+DT71-02278	Boutières (Les),	Mâcon	71270		
+DT71-02415	Breuil (Le),	Mâcon	71270		
+DT71-02732	Bruyères (Les),	Mâcon	71270		
+DT71-03271	Carteronnes (Les),	Mâcon	71270		
+DT71-03274	Caruge,	Mâcon	71270		
+DT71-03279	Cascade (La),	Mâcon	71270		
+DT71-03306	Cellery,	Mâcon	71270		
+DT71-03358	Chagnot,	Mâcon	71270		
+DT71-03380	Chailloux (Les),	Mâcon	71270		
+DT71-03387	Chailly-Guerret,	Mâcon	71270		
+DT71-03391	Chaîne (La),	Mâcon	71270		
+DT71-03854	Champlevert,	Mâcon	71270		
+DT71-04097	Chanage (La),	Mâcon	71270		
+DT71-04105	Chanaye (La),	Mâcon	71270		
+DT71-04169	Chantone,	Mâcon	71270		
+DT71-04216	Chapelle-de-Guinchay (La),	Mâcon	71270		
+DT71-04383	Charmilles,	Mâcon	71270		
+DT71-04548	Châtaigneraie (La),	Mâcon	71270		
+DT71-04855	Chavanière,	Mâcon	71270		
+DT71-05402	Clos-du-Pont (Le),	Mâcon	71270		
+DT71-05416	Clos-Vachet,	Mâcon	71270		
+DT71-05438	Cluny,	Mâcon	71270		
+DT71-05548	Colombier (Le),	Mâcon	71270		
+DT71-05787	Condemines (Les),	Mâcon	71270		
+DT71-05984	Coteau (Le),	Mâcon	71270		
+DT71-06229	Crays (Les),	Mâcon	71270		
+DT71-06386	Croix (La),	Mâcon	71270		
+DT71-06586	Croix-Saccard (La),	Mâcon	71270		
+DT71-06596	Croix-Verte (La),	Mâcon	71270		
+DT71-06973	Déserte (Le),	Mâcon	71270		
+DT71-07027	Dîmes (Les),	Mâcon	71270		
+DT71-07343	Ermitage (L’),	Mâcon	71270		
+DT71-07753	Ferme-Galopin,	Mâcon	71270		
+DT71-07822	Flacé-lès-Mâcon,	Mâcon	71270		
+DT71-07825	Flandines (Les),	Mâcon	71270		
+DT71-07949	Fontaine (La),	Mâcon	71270		
+DT71-07976	Fontaine-de-l’Abyme,	Mâcon	71270		
+DT71-08000	Fontaine-Moreau (La),	Mâcon	71270		
+DT71-08039	Fontenailles,	Mâcon	71270		
+DT71-08274	Four-à-Chaux (Le),	Mâcon	71270		
+DT71-08286	Four-du-Chien (Le),	Mâcon	71270		
+DT71-08365	Frairie (La),	Mâcon	71270		
+DT71-08508	Gaizes (Les),	Mâcon	71270		
+DT71-08580	Gardon (Le),	Mâcon	71270		
+DT71-08815	Gillets (Les),	Mâcon	71270		
+DT71-08831	Girouette (La),	Mâcon	71270		
+DT71-08833	Giroux (Les),	Mâcon	71270		
+DT71-09144	Grande-Chaneau (La),	Mâcon	71270		
+DT71-09249	Grandes-Varennes,	Mâcon	71270		
+DT71-09280	Grand-Four (Le),	Mâcon	71270		
+DT71-09721	Grisière (La),	Mâcon	71270		
+DT71-10107	Héritan (L’),	Mâcon	71270		
+DT71-10365	Juifs (Les),	Mâcon	71270		
+DT71-10460	Lante,	Mâcon	71270		
+DT71-10645	Loché,	Mâcon	71270		
+DT71-10830	Lugny,	Mâcon	71270		
+DT71-10835	Luminaire (Le),	Mâcon	71270		
+DT71-10958	Maison-de-Terre,	Mâcon	71270		
+DT71-11002	Maison-Neuve,	Mâcon	71270		
+DT71-11101	Maladière (La),	Mâcon	71270		
+DT71-11205	Marbé,	Mâcon	71270		
+DT71-11389	Martine (La),	Mâcon	71270		
+DT71-11445	Matour,	Mâcon	71270		
+DT71-12255	Montée (La),	Mâcon	71270		
+DT71-12557	Moranchin,	Mâcon	71270		
+DT71-12921	Moulin-Buis,	Mâcon	71270		
+DT71-12928	Moulin-Chamboux,	Mâcon	71270		
+DT71-12931	Moulin-Chapuis,	Mâcon	71270		
+DT71-12987	Moulin-de-Flacé,	Mâcon	71270		
+DT71-13129	Moulin-du-Thuet,	Mâcon	71270		
+DT71-13206	Moulin-Janin,	Mâcon	71270		
+DT71-13286	Moulin-Patouillard,	Mâcon	71270		
+DT71-13298	Moulin-Picoli,	Mâcon	71270		
+DT71-13466	Naisse,	Mâcon	71270		
+DT71-13522	Neuf-Clés (Les),	Mâcon	71270		
+DT71-13555	Nièvres (Les),	Mâcon	71270		
+DT71-13635	Notre-Dame-Des-Prés,	Mâcon	71270		
+DT71-13636	Notre-Dame-Des-Vignes,	Mâcon	71270		
+DT71-13674	Noyerats (Les),	Mâcon	71270		
+DT71-13942	Paradis (En),	Mâcon	71270		
+DT71-14181	Perolet,	Mâcon	71270		
+DT71-14197	Perrat,	Mâcon	71270		
+DT71-14246	Perrières (Les),	Mâcon	71270		
+DT71-14247	Perrières (Les),	Mâcon	71270		
+DT71-14248	Perrières (Les),	Mâcon	71270		
+DT71-14340	Petit-Chagnot,	Mâcon	71270		
+DT71-14466	Petit-Saint-Jean,	Mâcon	71270		
+DT71-14654	Pillet (Le),	Mâcon	71270		
+DT71-14921	Plantes (Les),	Mâcon	71270		
+DT71-15739	Puits-Prin (Le),	Mâcon	71270		
+DT71-15861	Quatre-Lavoirs (Les),	Mâcon	71270		
+DT71-15870	Quatre-Saisons,	Mâcon	71270		
+DT71-16099	Rebutins,	Mâcon	71270		
+DT71-16576	Rochette (La),	Mâcon	71270		
+DT71-16813	Route-des-Allemands,	Mâcon	71270		
+DT71-16827	Roye-de-Saint-Pierre,	Mâcon	71270		
+DT71-17041	Saint-Antoine,	Mâcon	71270		
+DT71-17064	Saint-Brice,	Mâcon	71270		
+DT71-17087	Saint-Clément,	Mâcon	71270		
+DT71-17153	Saint-Gengoux-le-National,	Mâcon	71270		
+DT71-17198	Saint-Jean,	Mâcon	71270		
+DT71-17210	Saint-Jean-le-Priche,	Mâcon	71270		
+DT71-17286	Saint-Martin-des-Vignes,	Mâcon	71270		
+DT71-17473	Sara (La),	Mâcon	71270		
+DT71-17520	Saugeraies (Les),	Mâcon	71270		
+DT71-17551	Saule (Le),	Mâcon	71270		
+DT71-17624	Scolis,	Mâcon	71270		
+DT71-17672	Sénétrière (La),	Mâcon	71270		
+DT71-17673	Sennecé-lès-Mâcon,	Mâcon	71270		
+DT71-17923	Sunusiane,	Mâcon	71270		
+DT71-18158	Teppe-Cochet (La),	Mâcon	71270		
+DT71-18529	Tour (La),	Mâcon	71270		
+DT71-18594	Tournus,	Mâcon	71270		
+DT71-18616	Tramayes,	Mâcon	71270		
+DT71-18826	Tuilerie (La),	Mâcon	71270		
+DT71-19000	Val-d’Or (Le),	Mâcon	71270		
+DT71-19029	Vallée (La),	Mâcon	71270		
+DT71-19159	Varennes (Les),	Mâcon	71270		
+DT71-19504	Verne (Le),	Mâcon	71270		
+DT71-19643	Verré,	Mâcon	71270		
+DT71-19668	Vers-Débulloy,	Mâcon	71270		
+DT71-19695	Vers-l’Eglise,	Mâcon	71270		
+DT71-19714	Vers-Saône,	Mâcon	71270		
+DT71-04437	Charnay-lès-Mâcon,	Mâcon-centre	71270		
+DT71-01137	Berzé-la-Ville	Mâcon-nord	71270		
+DT71-04301	Charbonnières,	Mâcon-nord	71270		
+DT71-05058	Chevagny-les-Chevrières,	Mâcon-nord	71270		
+DT71-10152	Hurigny,	Mâcon-nord	71270		
+DT71-10159	Igé,	Mâcon-nord	71270		
+DT71-10426	Laizé,	Mâcon-nord	71270		
+DT71-11805	Milly-Lamartine,	Mâcon-nord	71270		
+DT71-16590	Roche-Vineuse (La),	Mâcon-nord	71270		
+DT71-17278	Saint-Martin-Belle-Roche,	Mâcon-nord	71270		
+DT71-17432	Sancé,	Mâcon-nord	71270		
+DT71-17678	Senozan,	Mâcon-nord	71270		
+DT71-17824	Sologny,	Mâcon-nord	71270		
+DT71-19727	Verzé,	Mâcon-nord	71270		
+DT71-02988	Bussières,	Mâcon-sud	71270		
+DT71-06900	Davayé,	Mâcon-sud	71270		
+DT71-08459	Fuissé,	Mâcon-sud	71270		
+DT71-15655	Prissé,	Mâcon-sud	71270		
+DT71-17827	Solutré-Pouilly,	Mâcon-sud	71270		
+DT71-19173	Varennes-lès-Mâcon,	Mâcon-sud	71270		
+DT71-19411	Vergisson,	Mâcon-sud	71270		
+DT71-20120	Vinzelles,	Mâcon-sud	71270		
+DT71-01560	Bois-de-Garnay,	Marly-sous-Arroux	71281		
+DT71-11751	Meyniaud,	Marly-sous-Arroux	71281		
+DT71-14497	Petit-Vernet (Le),	Marly-sous-Arroux	71281		
+DT71-16082	Ravins (Les),	Marly-sous-Arroux	71281		
+DT71-02078	Bouhy,	Mazenay	Non		
+DT71-17825	Solon,	Moelet	71322	Morlet	
+DT71-19888	Vieux-Port (Le),	Monchanin	71310		
+DT71-02760	Bruyères (Les),	Monmort	71317		
+DT71-00623	Bas-de-Montagny (Le)	Montagny-près-Louhans	71302		
+DT71-03546	Champ-Billard,	Montagny-près-Louhans	71302		
+DT71-03843	Champ-Joly,	Montagny-près-Louhans	71302		
+DT71-05001	Chênes-Cornus (Les),	Montagny-près-Louhans	71302		
+DT71-06112	Cours (Les),	Montagny-près-Louhans	71302		
+DT71-07764	Ferrière (La),	Montagny-près-Louhans	71302		
+DT71-07792	Feys (Les),	Montagny-près-Louhans	71302		
+DT71-11368	Marsots (Les),	Montagny-près-Louhans	71302		
+DT71-15761	Putacrot,	Montagny-près-Louhans	71302		
+DT71-16392	Rippe-Pageault (La),	Montagny-près-Louhans	71302		
+DT71-19389	Verdin,	Montagny-près-Louhans	71302		
+DT71-19736	Vessières (Les),	Montagny-près-Louhans	71302		
+DT71-19750	Vesvre (La),	Montagny-près-Louhans	71302		
+DT71-19988	Villard (Le),	Montagny-près-Louhans	71302		
+DT71-07923	Fondrys (Les),	Montceau-Ragny	71308		
+DT71-05762	Conde,	Montceaux-l	71307		Pb de segmentation
+DT71-01412	Bois (Les),	Montpont	71318		
+DT71-08188	Forteresse (La),	Montpont	71318		
+DT71-00052	Agnevaul	Morey	71321		Non identifié (art. 71-12592)
+DT71-00121	Alouettes (Les)	Morey	71321		
+DT71-00456	Baraques (Les)	Morey	71321		
+DT71-00753	Baugey	Morey	71321		
+DT71-01856	Boissot,	Morey	71321		
+DT71-03328	Cerney,	Morey	71321		
+DT71-04364	Charmenat (Le),	Morey	71321		
+DT71-04527	Chassignole,	Morey	71321		
+DT71-06158	Courtagne (La),	Morey	71321		
+DT71-06943	Denizots (Les),	Morey	71321		
+DT71-07634	Fangey-le-Bas,	Morey	71321		
+DT71-07635	Fangey-le-Haut,	Morey	71321		
+DT71-08168	Forge (La),	Morey	71321		
+DT71-08471	Gabriares (Les),	Morey	71321		
+DT71-08490	Gagère (La),	Morey	71321		
+DT71-11014	Maison-Pintot,	Morey	71321		
+DT71-11036	Maison-Rouge (La),	Morey	71321		
+DT71-11051	Maison-Sandin,	Morey	71321		
+DT71-13020	Moulin-de-la-Fortune (Le),	Morey	71321		
+DT71-13048	Moulin-de-Leuvre,	Morey	71321		
+DT71-13066	Moulin-de-Nuits,	Morey	71321		
+DT71-13208	Moulin-Jean-Charles (Le),	Morey	71321		
+DT71-13492	Narvaux,	Morey	71321		
+DT71-13682	Nuits,	Morey	71321		
+DT71-14688	Pintot (En),	Morey	71321		
+DT71-15231	Pontot (En),	Morey	71321		
+DT71-17109	Sainte-Catherine,	Morey	71321		
+DT71-18308	Teurot-des-Gardes,	Morey	71321		
+DT71-18733	Trois-Ecluses (Les),	Morey	71321		
+DT71-19265	Vaux-la-Velle,	Morey	71321		
+DT71-19309	Velle (La),	Morey	71321		
+DT71-12647	Mortin,	Mortin	Non		
+DT71-20203	Yonne (L’),	Nièvre	Non		
+DT71-13562	Nion,	Nyon	Non		
+DT71-06766	Cupriés (Les),	Pierre	71351		
+DT71-12690	Motte (La),	Pierre	71351		
+DT71-11007	Maison-Neuve,	Pierre-en-Bresse	71351		
+DT71-11177	Manche,	Poisson-Moinche	71354		
+DT71-04648	Châtelot (Le),	Rigny-sous-Arroux	71370		
+DT71-06767	Curaine,	Saint	71423		Pb de segmentation
+DT71-01143	Besançon	Saint-Amour)	71385	Saint-Amour	
+DT71-05844	Corbey,	Saint-Bonne-de-Cray	71393	Saint-Bonnet-de-Cray	
+DT71-00994	Belouses (Les)	Saint-Cécile	71397	Sainte-Cécile	
+DT71-01443	Bois-Billard,	Saint-Cécile	71397	Sainte-Cécile	
+DT71-02156	Bourbes (Les),	Saint-Clément-sur-Guye	71400		
+DT71-02195	Bourges,	Saint-Clément-sur-Guye	71400		
+DT71-02963	Burnoux (Le),	Saint-Clément-sur-Guye	71400		
+DT71-04529	Chassignole,	Saint-Clément-sur-Guye	71400		
+DT71-04777	Chaumes (Les),	Saint-Clément-sur-Guye	71400		
+DT71-05425	Clou-du-Jonc (Le),	Saint-Clément-sur-Guye	71400		
+DT71-05871	Corcelles,	Saint-Clément-sur-Guye	71400		
+DT71-07260	Effondré,	Saint-Clément-sur-Guye	71400		
+DT71-08194	Fortunet,	Saint-Clément-sur-Guye	71400		
+DT71-08690	Gautheret,	Saint-Clément-sur-Guye	71400		
+DT71-09678	Grenouille (La),	Saint-Clément-sur-Guye	71400		
+DT71-11947	Molleron,	Saint-Clément-sur-Guye	71400		
+DT71-12864	Moulin-à-Vent,	Saint-Clément-sur-Guye	71400		
+DT71-12865	Moulin-à-Vent,	Saint-Clément-sur-Guye	71400		
+DT71-14796	Plain (Le),	Saint-Clément-sur-Guye	71400		
+DT71-14968	Plâtrière (La),	Saint-Clément-sur-Guye	71400		
+DT71-16442	Robert-de-Vaux (En),	Saint-Clément-sur-Guye	71400		
+DT71-17944	Sur-la-Route,	Saint-Denis-en-Vaux	71403		
+DT71-15181	Pont-d’Épinet,	Saint-Gengoux-le-national	71417	Saint-Gengoux-le-National	
+DT71-17891	Sous-l’Orme,	Saint-Jean-de-Vieux	71430	Saint-Jean-de-Vaux	
+DT71-19263	Vaux,	Saint-Martin-de-Montaigu	71459		
+DT71-04960	Chenauderie (La),	Saint-Martin-lès-Châteauneuf	71463	Saint-Maurice-lès-Châteauneuf	
+DT71-11452	Matrouille (La),	Saint-Maurice-de-Châteauneuf	71463		
+DT71-00401	Balande (La)	Saint-Maurice-des-Prés	71460		
+DT71-00820	Beaumont	Saint-Rémy-sous-Gourdon	71477	Saint-Romain-sous-Gourdon	
+DT71-03333	Certenue (La),	Saint-Symphorien	71482		
+DT71-00143	Ancelles	Saint-Symphorien-d’Ancelles	71481		
+DT71-00564	Barreau (Le)	Saint-Symphorien-d’Ancelles	71481		
+DT71-03071	Cadots (Les),	Saint-Symphorien-d’Ancelles	71481		
+DT71-03417	Chalendons (Les),	Saint-Symphorien-d’Ancelles	71481		
+DT71-04138	Chanillons (Les),	Saint-Symphorien-d’Ancelles	71481		
+DT71-05520	Collonges (Les),	Saint-Symphorien-d’Ancelles	71481		
+DT71-08226	Fougère (La),	Saint-Symphorien-d’Ancelles	71481		
+DT71-09916	Guicheries (Les),	Saint-Symphorien-d’Ancelles	71481		
+DT71-10599	Lie (La),	Saint-Symphorien-d’Ancelles	71481		
+DT71-15123	Pontanevaux,	Saint-Symphorien-d’Ancelles	71481		
+DT71-15243	Pont-Pierre,	Saint-Symphorien-d’Ancelles	71481		
+DT71-15324	Port-Jean-Gras,	Saint-Symphorien-d’Ancelles	71481		
+DT71-15996	Ramelette (La),	Saint-Symphorien-d’Ancelles	71481		
+DT71-17199	Saint-Jean,	Saint-Symphorien-d’Ancelles	71481		
+DT71-17370	Saint-Romain-des-Îles,	Saint-Symphorien-d’Ancelles	71481		
+DT71-11521	Mazerolle,	Saizy	71493		
+DT71-00468	Barat	Sanvignes	71499		
+DT71-00725	Battiers (Les)	Sanvignes	71499		
+DT71-00747	Baudras (Les)	Sanvignes	71499		
+DT71-01368	Bobelins (Les)	Sanvignes	71499		
+DT71-01415	Bois (Les),	Sanvignes	71499		
+DT71-01451	Bois-Bouché (Le),	Sanvignes	71499		
+DT71-01483	Bois-Burot (Le),	Sanvignes	71499		
+DT71-01565	Bois-de-la-Borde,	Sanvignes	71499		
+DT71-01591	Bois-de-la-Ragée,	Sanvignes	71499		
+DT71-01638	Bois-des-Boulais,	Sanvignes	71499		
+DT71-01692	Bois-du-Leu,	Sanvignes	71499		
+DT71-01760	Bois-Marais,	Sanvignes	71499		
+DT71-01811	Bois-Reva (Le),	Sanvignes	71499		
+DT71-01953	Borde (La),	Sanvignes	71499		
+DT71-02386	Bretenière (La),	Sanvignes	71499		
+DT71-02488	Brochettes (Les),	Sanvignes	71499		
+DT71-02495	Brossards (Les),	Sanvignes	71499		
+DT71-02905	Buisson-Michel,	Sanvignes	71499		
+DT71-02985	Bussière (La),	Sanvignes	71499		
+DT71-03338	Ceurney,	Sanvignes	71499		
+DT71-03631	Champ-Daroux,	Sanvignes	71499		
+DT71-03709	Champ-des-Bruyères (Le),	Sanvignes	71499		
+DT71-03771	Champeau,	Sanvignes	71499		
+DT71-03878	Champmaillot,	Sanvignes	71499		
+DT71-03962	Champ-Regnault,	Sanvignes	71499		
+DT71-04782	Chaumes (Les),	Sanvignes	71499		
+DT71-04829	Chauviry,	Sanvignes	71499		
+DT71-05123	Chevriers (Les),	Sanvignes	71499		
+DT71-05137	Chez-Baudin,	Sanvignes	71499		
+DT71-05139	Chez-Baupoix,	Sanvignes	71499		
+DT71-05190	Chez-Legain,	Sanvignes	71499		
+DT71-05193	Chez-le-Père,	Sanvignes	71499		
+DT71-05222	Chez-Nollet,	Sanvignes	71499		
+DT71-05367	Clayette (La),	Sanvignes	71499		
+DT71-05650	Combe-Gannat (La),	Sanvignes	71499		
+DT71-06040	Coupe-des-Chevaux (La),	Sanvignes	71499		
+DT71-06402	Croix (La),	Sanvignes	71499		
+DT71-06632	Crot-de-la-Canne,	Sanvignes	71499		
+DT71-06724	Cruzille,	Sanvignes	71499		
+DT71-06876	Danons (Les),	Sanvignes	71499		
+DT71-06958	Derva (Le),	Sanvignes	71499		
+DT71-06980	Détour (Le),	Sanvignes	71499		
+DT71-07098	Dornand,	Sanvignes	71499		
+DT71-07212	Echenaud (L’),	Sanvignes	71499		
+DT71-07213	Echenaud (L’),	Sanvignes	71499		
+DT71-07257	Eculottes (Les),	Sanvignes	71499		
+DT71-07279	Embouche (L’),	Sanvignes	71499		
+DT71-07306	Envers (Les),	Sanvignes	71499		
+DT71-07318	Epinats (Les),	Sanvignes	71499		
+DT71-07384	Essart (L’),	Sanvignes	71499		
+DT71-07397	Essarts (Les),	Sanvignes	71499		
+DT71-07576	Etangs-Charollais (Les),	Sanvignes	71499		
+DT71-07723	Faye (La),	Sanvignes	71499		
+DT71-08070	Fontenys (Les),	Sanvignes	71499		
+DT71-08320	Fourneau (Le),	Sanvignes	71499		
+DT71-08339	Fourriers (Les),	Sanvignes	71499		
+DT71-08350	Foutiaux (Les),	Sanvignes	71499		
+DT71-08397	Frêne (Le),	Sanvignes	71499		
+DT71-08614	Garenne (La),	Sanvignes	71499		
+DT71-08778	Georgets (Les),	Sanvignes	71499		
+DT71-09057	Grand-Bâtiment (Le),	Sanvignes	71499		
+DT71-09186	Grande-Pièce (La),	Sanvignes	71499		
+DT71-09223	Grandes-Mollières,	Sanvignes	71499		
+DT71-09267	Grande-Terre (La),	Sanvignes	71499		
+DT71-09321	Grand-Pâquier (Le),	Sanvignes	71499		
+DT71-09362	Grands-Bois (Les),	Sanvignes	71499		
+DT71-09466	Grange (La),	Sanvignes	71499		
+DT71-09663	Grelins (Les),	Sanvignes	71499		
+DT71-09682	Grenouillot (Le),	Sanvignes	71499		
+DT71-09956	Guillemette,	Sanvignes	71499		
+DT71-09985	Guise,	Sanvignes	71499		
+DT71-10195	Jacquinots (Les),	Sanvignes	71499		
+DT71-10489	Laugerette,	Sanvignes	71499		
+DT71-10690	Loges (Les),	Sanvignes	71499		
+DT71-10847	Lyman,	Sanvignes	71499		
+DT71-11044	Maison-Rouge,	Sanvignes	71499		
+DT71-11193	Marais (Le),	Sanvignes	71499		
+DT71-11225	Marciaux (Les),	Sanvignes	71499		
+DT71-11226	Marciaux (Les),	Sanvignes	71499		
+DT71-11279	Margeris (Les),	Sanvignes	71499		
+DT71-11482	Maumurger,	Sanvignes	71499		
+DT71-12158	Montbugy,	Sanvignes	71499		
+DT71-12366	Montirat,	Sanvignes	71499		
+DT71-12398	Montmaillot,	Sanvignes	71499		
+DT71-13207	Moulin-Jean-Bard (Le),	Sanvignes	71499		
+DT71-13714	Orache (L’),	Sanvignes	71499		
+DT71-13764	Ouche-D’Auvin,	Sanvignes	71499		
+DT71-13765	Ouche-Gauthier,	Sanvignes	71499		
+DT71-13767	Ouche-Michon,	Sanvignes	71499		
+DT71-14138	Penache,	Sanvignes	71499		
+DT71-14763	Place-Quelet,	Sanvignes	71499		
+DT71-14926	Plantes (Les),	Sanvignes	71499		
+DT71-15280	Porrots (Les),	Sanvignes	71499		
+DT71-15347	Potuisat,	Sanvignes	71499		
+DT71-15557	Pré-Régnat,	Sanvignes	71499		
+DT71-15723	Puits-de-l’Essertot,	Sanvignes	71499		
+DT71-15724	Puits-des-Baudras,	Sanvignes	71499		
+DT71-15728	Puits-du-Charme,	Sanvignes	71499		
+DT71-15733	Puits-Jumeaux,	Sanvignes	71499		
+DT71-15736	Puits-Pansemont,	Sanvignes	71499		
+DT71-15741	Puits-Saint-Amédée,	Sanvignes	71499		
+DT71-15743	Puits-Sainte-Barbe,	Sanvignes	71499		
+DT71-15751	Puits-Saint-Paul,	Sanvignes	71499		
+DT71-15958	Ragée (La),	Sanvignes	71499		
+DT71-16334	Riaux (Les),	Sanvignes	71499		
+DT71-16925	Rues (Les),	Sanvignes	71499		
+DT71-17330	Saint-Paul,	Sanvignes	71499		
+DT71-17429	Saluts (Les),	Sanvignes	71499		
+DT71-17468	Sapins (Les),	Sanvignes	71499		
+DT71-17869	Sourillot (Le),	Sanvignes	71499		
+DT71-18093	Tartre (Le),	Sanvignes	71499		
+DT71-18178	Teppes (Les),	Sanvignes	71499		
+DT71-18210	Terre-des-Chemins,	Sanvignes	71499		
+DT71-18216	Terre-du-Bois (La),	Sanvignes	71499		
+DT71-18272	Tessonnières (Les),	Sanvignes	71499		
+DT71-18282	Teuffaux (Les),	Sanvignes	71499		
+DT71-18363	Theurots (Les),	Sanvignes	71499		
+DT71-18547	Tour (La),	Sanvignes	71499		
+DT71-18603	Tourva (La),	Sanvignes	71499		
+DT71-18638	Trêche (La),	Sanvignes	71499		
+DT71-18977	Uxeau,	Sanvignes	71499		
+DT71-19293	Velay,	Sanvignes	71499		
+DT71-19332	Vendée (La),	Sanvignes	71499		
+DT71-19509	Verne (Le),	Sanvignes	71499		
+DT71-19605	Vernizy,	Sanvignes	71499		
+DT71-19608	Vernoche (La),	Sanvignes	71499		
+DT71-19655	Verrerie (La),	Sanvignes	71499		
+DT71-19832	Vieille-Verrerie,	Sanvignes	71499		
+DT71-19850	Vieux-Buissons,	Sanvignes	71499		
+DT71-19905	Vigne (La),	Sanvignes	71499		
+DT71-13768	Ouche-Moulinière (L’),	Sauvignes	71499	Sanvignes	
+DT71-05825	Copin,	Savigny-sur-Seile	71508	Savigny-sur-Seille	
+DT71-01922	Bonnetin,	Sennecé-lès-Mâcon	71270		
+DT71-05588	Coltière (La),	Serigny-en-Bresse	71519		
+DT71-07493	Etang-Dioche (L’),	Serrigny	71519		
+DT71-08784	Gerbeaux (Les),	Solutré	71526		
+DT71-11600	Meix-Manaud (Le),	Ste-Cécile	71397	Sainte-Cécile	
+DT71-17113	Sainte-Cécile-la-Valouze,	Ste-Cécile	71397	Sainte-Cécile	
+DT71-11423	Mas-Richerois,	Ste-Croix	71401	Sainte-Croix	
+DT71-11495	Maupoirier (Le),	Ste-Croix	71401	Sainte-Croix	
+DT71-11608	Meix-Tuzon,	Ste-Croix	71401	Sainte-Croix	
+DT71-18861	Tuilerie (La),	Ste-Croix	71401	Sainte-Croix	
+DT71-18944	Tupins (Les),	Ste-Croix	71401	Sainte-Croix	
+DT71-00154	Angle	Ste-Foy	71415	Sainte-Foy	
+DT71-02875	Buisseau,	Ste-Foy	71415	Sainte-Foy	
+DT71-11716	Métairie (La),	Ste-Hélène	71426	Sainte-Hélène	
+DT71-18569	Tour-de-Sercy (La),	Ste-Hélène	71426	Sainte-Hélène	
+DT71-18863	Tuilerie (La),	Ste-Hélène	71426	Sainte-Hélène	
+DT71-11527	Mazille (La),	Ste-Radegonde	71474	Sainte-Radegonde	
+DT71-12052	Montagne (La),	Ste-Radegonde	71474	Sainte-Radegonde	
+DT71-18396	Thivoli,	Ste-Radegonde	71474	Sainte-Radegonde	
+DT71-17722	Serrée (La),	Sussy-en-Morvan	71165	Cussy-en-Morvan	
+DT71-18956	Urbise (L’),	Urbise)	42317		
+DT71-02572	Brosses (Les),	Varenne-l	71554		Pb de segmentation
+DT71-05031	Chéru (Le),	Varenne-l	71554		Pb de segmentation
+DT71-08180	Forges (Les),	Varenne-l	71554		Pb de segmentation
+DT71-00270	Atrizet	Varenne-Saint-Sauveur	71558		
+DT71-07490	Etang-des-Dames,	Varenne-Saint-Sauveur	71558		
+DT71-14094	Pavillon-Sain-Marc,	Varenne-Saint-Sauveur	71558		
+DT71-13842	Palluau,	Varennes-l’Arconce	71554		
+DT71-15828	Quartiers (Les),	Varennes-l’Arconce	71554		
+DT71-01844	Boisseret (Le),	Varennes-Saint-Germain	71557		
+DT71-17470	Sapins (Les),	Varennes-Saint-Germain	71557		
+DT71-18903	Tuilerie (La),	Varennes-sur-le-Doubs	71566		
+DT71-04436	Charnay-lès-Chalon,	Verdun-sous-le-Doubs	71566		
+DT71-14350	Petit-Chauvort,	Verdun-sous-le-Doubs	71566		
+DT71-06792	Cure (La),	Vitry-sur-loire	71589	Vitry-sur-Loire	
