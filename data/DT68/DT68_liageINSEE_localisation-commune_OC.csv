@@ -1,0 +1,646 @@
+Article	Vedette	Localisation	INSEE_corrigé	Nom_corrigé	Commentaire
+DT68-06826	Saint-Georges,	Alschwiller	Non		
+DT68-06802	Sainte-Gertrude,	Altdorf	Non		
+DT68-03327	Hospen,	Altkirch)	Non		
+DT68-03864	Kilbertshag (Im),	Altkirch)	Non		
+DT68-04412	Lerchenberg,	Altkirch)	Non		
+DT68-05110	Möslen,	Altkirch)	Non		
+DT68-05308	Muermatten,	Altkirch)	Non		
+DT68-07247	Schmittacker,	Altkirch)	Non		
+DT68-08004	Struethboden,	Altkirch)	Non		
+DT68-09170	Ziehlbach,	Altkirch)	Non		
+DT68-04007	Kohlhütte,	Altkirch) et Sainte-Croix-en-Plaine	Non et 68295		! Pb de segmentation
+DT68-06828	Saint-Georges,	Bowoltsheim	Non		
+DT68-00072	Altenberg,	Brunstatt	68056		Commune non identifiée (art. 68-00937)
+DT68-00500	Bich,	Brunstatt	68056		
+DT68-00660	Blutacker,	Brunstatt	68056		
+DT68-00744	Bösenborn,	Brunstatt	68056		
+DT68-00984	Burnen,	Brunstatt	68056		
+DT68-01314	Damberg,	Brunstatt	68056		
+DT68-01445	Dudely (Im),	Brunstatt	68056		
+DT68-01535	Eichelberg,	Brunstatt	68056		
+DT68-01894	Finsterwald,	Brunstatt	68056		
+DT68-02071	Friedlinsberg,	Brunstatt	68056		
+DT68-02142	Furth (Auf der),	Brunstatt	68056		
+DT68-02159	Galgen,	Brunstatt	68056		
+DT68-02226	Gangelberg,	Brunstatt	68056		
+DT68-02236	Gantzenberg,	Brunstatt	68056		
+DT68-02382	Girst,	Brunstatt	68056		
+DT68-02652	Gugelman,	Brunstatt	68056		
+DT68-02772	Hart (Auf der),	Brunstatt	68056		
+DT68-02947	Helderleberg,	Brunstatt	68056		
+DT68-02992	Herelen,	Brunstatt	68056		
+DT68-02998	Hermannsgrund,	Brunstatt	68056		
+DT68-03138	Hinter Willer,	Brunstatt	68056		
+DT68-03276	Holtzgraben,	Brunstatt	68056		
+DT68-03372	Hummel,	Brunstatt	68056		
+DT68-03456	Hüttenberg,	Brunstatt	68056		
+DT68-03487	Illberg,	Brunstatt	68056		
+DT68-03634	Käferberg,	Brunstatt	68056		
+DT68-03660	Kalberg,	Brunstatt	68056		
+DT68-03754	Kädererhäusel,	Brunstatt	68056		
+DT68-04208	Kutzelthal,	Brunstatt	68056		
+DT68-04541	Löchelacker,	Brunstatt	68056		
+DT68-04641	Louss,	Brunstatt	68056		
+DT68-04646	Loussberg,	Brunstatt	68056		
+DT68-05975	Pont-de-Dornach,	Brunstatt	68056		
+DT68-06197	Reckholderberg,	Brunstatt	68056		
+DT68-06253	Rennenberg,	Brunstatt	68056		
+DT68-06320	Richertsägerten,	Brunstatt	68056		
+DT68-06676	Ruedersbrunnen,	Brunstatt	68056		
+DT68-06931	Sanct-Jacobsberg,	Brunstatt	68056		
+DT68-06982	Sauloch,	Brunstatt	68056		
+DT68-07058	Schatz (Im),	Brunstatt	68056		
+DT68-07108	Schilckmatt,	Brunstatt	68056		
+DT68-07189	Schlittenhubel,	Brunstatt	68056		
+DT68-07389	Schwalmlöcher,	Brunstatt	68056		
+DT68-07401	Schwartzengrund,	Brunstatt	68056		
+DT68-07904	Stiegelgarten,	Brunstatt	68056		
+DT68-08717	Wasemen,	Brunstatt	68056		
+DT68-09005	Wog (An der),	Brunstatt	68056		
+DT68-09016	Wolfenloch,	Brunstatt	68056		
+DT68-00551	Birgelweg,	Cambes	Non		
+DT68-06202	Reckwiller,	Capucins	Non		
+DT68-08313	Trois-Pucelles (Les),	Champagney	70120		
+DT68-02011	Fougeret,	Chavannatte	90024		
+DT68-04819	Matraces (Les),	Dannemarie)	Non		
+DT68-05019	Moissonette,	Dannemarie)	Non		
+DT68-06006	Pré du Verrat,	Dannemarie)	Non		
+DT68-06099	Raichênes,	Dannemarie)	Non		
+DT68-06638	Rouellat (Bois),	Dannemarie)	Non		
+DT68-06654	Rougières,	Dannemarie)	Non		
+DT68-06703	Ruisseau de la Ville,	Dannemarie)	Non		
+DT68-08139	Têtre (Le),	Dannemarie)	Non		
+DT68-08533	Viannattes (Les),	Dannemarie)	Non		
+DT68-08545	Vie-de-Suarce (La),	Dannemarie)	Non		
+DT68-05277	Münchhof,	Deinheim	Non		
+DT68-05763	Pâquis (Le),	Delle)	Non		
+DT68-00061	Altebach,	Didenheim	68070		Commune non identifiée (art. 68-01355)
+DT68-02424	Goldbach,	Didenheim	68070		
+DT68-03345	Hübschenbühl,	Didenheim	68070		
+DT68-03487	Illberg,	Didenheim	68070		
+DT68-03660	Kalberg,	Didenheim	68070		
+DT68-04300	Langenstein,	Didenheim	68070		
+DT68-04396	Leitschenbrunn,	Didenheim	68070		
+DT68-05669	Öhlacker,	Didenheim	68070		
+DT68-06197	Reckholderberg,	Didenheim	68070		
+DT68-08394	Ungehürenhöltzle,	Didenheim	68070		
+DT68-08965	Wissengraben,	Didenheim	68070		
+DT68-04207	Küttigen-Sträng,	Diefmatten	68071		
+DT68-02211	Galgley,	Dintzheim	Non		
+DT68-03386	Hundsbihne,	Dintzheim	Non		
+DT68-00341	Barracken,	Dornach	68224		Commune non identifiée (art. 68-01414)
+DT68-00887	Bristlen,	Dornach	68224		
+DT68-01506	Egelessengraben,	Dornach	68224		
+DT68-01634	Erlenmatten,	Dornach	68224		
+DT68-01734	Fabrique Dollfus-Mieg,	Dornach	68224		
+DT68-01767	Fabrique Thierry-Mieg,	Dornach	68224		
+DT68-02288	Geisbühl,	Dornach	68224		
+DT68-03146	Hirsacker,	Dornach	68224		
+DT68-03158	Hirtzbach,	Dornach	68224		
+DT68-03525	Isenholtz,	Dornach	68224		
+DT68-04110	Kröslen,	Dornach	68224		
+DT68-04311	Langenhag,	Dornach	68224		
+DT68-05065	Moorjucherten,	Dornach	68224		
+DT68-06485	Rohracker,	Dornach	68224		
+DT68-06611	Rothenmeer,	Dornach	68224		
+DT68-06963	Sauacker,	Dornach	68224		
+DT68-08249	Todtengraben,	Dornach	68224		
+DT68-08394	Ungehürenhöltzle,	Dornach	68224		
+DT68-08577	Vogelacker,	Dornach	68224		
+DT68-08665	Walcke,	Dornach	68224		
+DT68-08711	Wannenboden,	Dornach	68224		
+DT68-08929	Winckelacker,	Dornach	68224		
+DT68-02688	Habelützel,	Ellenwiller	Non		
+DT68-03115	Himmelrich,	Ellenwiller	Non		
+DT68-04863	Melwe,	Ellenwiller	Non		
+DT68-07616	Silethal,	Ellenwiller	Non		
+DT68-09217	Zuckmantel,	Ellenwiller	Non		
+DT68-02315	Gemeinmarck,	Elsenheim	67121		
+DT68-09006	Wogacker,	Enschingen et de Mühlbach	68081 et 68223		! Pb de segmentation. Corriger « commune de » en « communes de »
+DT68-00240	Autrage,	Eschêne-Autrage	90082		Commune non identifiée (art. 68-01661)
+DT68-01258	Courtesières,	Eschêne-Autrage	90082		
+DT68-01661	Zur Eichen,	Eschêne-Autrage	90082		
+DT68-04787	Margottes,	Eschêne-Autrage	90082		
+DT68-05995	Praille (La),	Eschêne-Autrage	90082		
+DT68-06005	Pré du Taureau,	Eschêne-Autrage	90082		
+DT68-08213	Thurillot,	Eschêne-Autrage	90082		
+DT68-08493	Veau (Sur le),	Eschêne-Autrage	90082		
+DT68-08504	Verdot,	Eschêne-Autrage	90082		
+DT68-03603	Juglerberg,	Folgensburg	68094		
+DT68-03678	Kalchweg,	Galfingen	68101		Commune non identifiée (art. 68-02153)
+DT68-06424	Rittenweg,	Galfingen	68101		
+DT68-08060	Surenweyer,	Galfingen	68101		
+DT68-03217	Höhe (La),	Geischausen	68102		
+DT68-01611	Épaches (Les),	Giro	90052		! Pb de segmentation. Corriger « Giro magny » en « Giromagny »
+DT68-00030	Aiguiserie (L'),	Giromagny)	Non		
+DT68-00587	Blanche-Roche (La),	Giromagny)	Non		
+DT68-01570	Enderlé,	Giromagny)	Non		
+DT68-02020	Four de pierre (Le),	Giromagny)	Non		
+DT68-02460	Goutte de l'Étang des Belles-Filles,	Giromagny)	Non		
+DT68-02466	Goutte des Roseaux,	Giromagny)	Non		
+DT68-02479	Goutte Saint-Guillaume,	Giromagny)	Non		
+DT68-02483	Goutte-Thierry,	Giromagny)	Non		
+DT68-02821	Haut-Ballon,	Giromagny)	Non		
+DT68-03553	Jargogne (La),	Giromagny)	Non		
+DT68-04261	Landberg,	Giromagny)	Non		
+DT68-04729	Malevaux,	Giromagny)	Non		
+DT68-05063	Mont Thieron,	Giromagny)	Non		
+DT68-05196	Moulin Perrot,	Giromagny)	Non		
+DT68-05202	Moulin Romain,	Giromagny)	Non		
+DT68-05695	Ordon-Fief (L'),	Giromagny)	Non		
+DT68-05925	Phenningturn,	Giromagny)	Non		
+DT68-05943	Pilons (Les),	Giromagny)	Non		
+DT68-05950	Planche-des-Belles-Filles (La),	Giromagny)	Non		
+DT68-06023	Prés-Bourbets (Les),	Giromagny)	Non		
+DT68-06024	Prés-Guenez (Les),	Giromagny)	Non		
+DT68-06027	Prés-Rozées,	Giromagny)	Non		
+DT68-06461	Roches du Levrier (Les),	Giromagny)	Non		
+DT68-06657	Rouilleney,	Giromagny)	Non		
+DT68-06663	Ruant (La Goutte-),	Giromagny)	Non		
+DT68-06705	Ruisseau des Mines,	Giromagny)	Non		
+DT68-06707	Ruisseau des Sapinets,	Giromagny)	Non		
+DT68-06780	Saint-Daniel (Quartier de),	Giromagny)	Non		
+DT68-06993	Saut-de-la-Truite,	Giromagny)	Non		
+DT68-07466	Scierie (Quartier de la),	Giromagny)	Non		
+DT68-07468	Scierie Colin,	Giromagny)	Non		
+DT68-07574	Siebenie (Quartier de la),	Giromagny)	Non		
+DT68-07663	Sombres-Mousseux,	Giromagny)	Non		
+DT68-08131	Tête-des-Planches,	Giromagny)	Non		
+DT68-08389	Ullise,	Giromagny)	Non		
+DT68-08926	Winckel,	Giromagny)	Non		
+DT68-00004	Abreuvoir (L'),	Gros-Magny	90054		
+DT68-01125	Chaume (La),	Gros-Magny	90054		
+DT68-03582	Jonchières (Ès),	Gros-Magny	90054		
+DT68-05209	Moulin sous la Noie,	Gros-Magny	90054		
+DT68-05370	Navets (Les),	Gros-Magny	90054		
+DT68-05748	Paleroy,	Gros-Magny	90054		
+DT68-05948	Planche (La),	Gros-Magny	90054		
+DT68-08367	Turque Magny,	Gros-Magny	90054		
+DT68-08536	Viaux (Le pré des),	Gros-Magny	90054		
+DT68-01383	Dinckelacker,	Guewenatten	68114		
+DT68-03871	Kindelbaum,	Guewenhein	68115		
+DT68-00405	Begune,	Hachimette	Non		
+DT68-06804	Saint-Éloy,	Hammerstatt	Non		
+DT68-05269	Münchacker,	Hart	Non		
+DT68-06327	Hartrain,	Hart	Non		
+DT68-00408	Beinmatten,	Heidwiller	68127		Commune non identifiée (art. 68-02915)
+DT68-02209	Galgenstreng,	Heidwiller	68127		
+DT68-02547	Grengelmatten,	Heidwiller	68127		
+DT68-04311	Langenhag,	Heidwiller	68127		
+DT68-05846	Pfaffenmatten,	Heidwiller	68127		
+DT68-06227	Reinboldshürst,	Heidwiller	68127		
+DT68-06353	Riethmatten,	Heidwiller	68127		
+DT68-07782	Staffel (Auf dem),	Heidwiller	68127		
+DT68-07801	Stegmatten,	Heidwiller	68127		
+DT68-07917	Stirne (An der),	Heidwiller	68127		
+DT68-09014	Wolfenhag,	Heidwiller	68127		
+DT68-09173	Ziehlfeld,	Heidwiller	68127		
+DT68-00653	Blumersmatten,	Heimersdorf	68128		commune non identifiée (art. 68-02928)
+DT68-00708	Bollerweg,	Heimersdorf	68128		
+DT68-02042	Frau-Anna-Weyer,	Heimersdorf	68128		
+DT68-02559	Griechacker,	Heimersdorf	68128		
+DT68-02680	Gutenmorgenacker,	Heimersdorf	68128		
+DT68-03216	Höhe (Auf der),	Heimersdorf	68128		
+DT68-03353	Huebacker,	Heimersdorf	68128		
+DT68-03378	Hundacker,	Heimersdorf	68128		
+DT68-03569	Jesuitermatten,	Heimersdorf	68128		
+DT68-03710	Känelmatten,	Heimersdorf	68128		
+DT68-03843	Ketterlenacker,	Heimersdorf	68128		
+DT68-03966	Klostermatten,	Heimersdorf	68128		
+DT68-04121	Krummweyer,	Heimersdorf	68128		
+DT68-04165	Kuhstelly,	Heimersdorf	68128		
+DT68-04168	Kuhweg,	Heimersdorf	68128		
+DT68-04222	Lachenberg,	Heimersdorf	68128		
+DT68-04225	Lachenweyer,	Heimersdorf	68128		
+DT68-04926	Metzgeracker,	Heimersdorf	68128		
+DT68-05230	Mueltenweyer,	Heimersdorf	68128		
+DT68-05251	Mühlenberg,	Heimersdorf	68128		
+DT68-05313	Muschen (In der),	Heimersdorf	68128		
+DT68-05449	Niedermühle,	Heimersdorf	68128		
+DT68-05631	Obernweyer,	Heimersdorf	68128		
+DT68-06689	Ruestenhart,	Heimersdorf	68128		
+DT68-06696	Ruhberg,	Heimersdorf	68128		
+DT68-06809	Sainte-Odile,	Heimersdorf	68128		
+DT68-07262	Schneckenacker,	Heimersdorf	68128		
+DT68-07350	Schribersweyer,	Heimersdorf	68128		
+DT68-07410	Schwartzmatten,	Heimersdorf	68128		
+DT68-07516	Seilacker,	Heimersdorf	68128		
+DT68-07546	Sennhütte,	Heimersdorf	68128		
+DT68-07931	Stöcketlen,	Heimersdorf	68128		
+DT68-08679	Waldmühle,	Heimersdorf	68128		
+DT68-08788	Weisskopf,	Heimersdorf	68128		
+DT68-08929	Winckelacker,	Heimersdorf	68128		
+DT68-00438	Bentzenling,	Heimsbrunn	68129		Commune non identifiée (art. 68-02929)
+DT68-00918	Brücklenmühle,	Heimsbrunn	68129		
+DT68-02069	Herschaftwald,	Heimsbrunn	68129		
+DT68-04492	Limberg,	Heimsbrunn	68129		
+DT68-04651	Lisbiehl,	Heimsbrunn	68129		
+DT68-04919	Messjucherten,	Heimsbrunn	68129		
+DT68-05652	Ochsenmatten,	Heimsbrunn	68129		
+DT68-06055	Quecklinboden,	Heimsbrunn	68129		
+DT68-07868	Stellhurst,	Heimsbrunn	68129		
+DT68-08007	Struntzenthal,	Heimsbrunn	68129		
+DT68-08527	Veteranseck,	Heimsbrunn	68129		
+DT68-08584	Vogelheiren,	Heimsbrunn	68129		
+DT68-01899	Firstmisser-See,	Hoheneck	Non		
+DT68-07622	Simmelsee,	Hoheneck	Non		
+DT68-00058	Altdorf,	Huningen	68149		
+DT68-00627	Blettmatt,	Hüssern	68151		Commune non identifiée (art. 68-03451)
+DT68-00789	Brand,	Hüssern	68151		
+DT68-02014	die Walcke,	Hüssern	68151		
+DT68-02274	Geibelmatten,	Hüssern	68151		
+DT68-02405	Glatstein,	Hüssern	68151		
+DT68-02492	Graffe (In der),	Hüssern	68151		
+DT68-02896	Heidenfeld,	Hüssern	68151		
+DT68-03577	Johannesweg,	Hüssern	68151		
+DT68-03859	Kilbach,	Hüssern	68151		
+DT68-03978	Knappenlöcher,	Hüssern	68151		
+DT68-04072	Kreyenbühl,	Hüssern	68151		
+DT68-04288	Langen Brecher,	Hüssern	68151		
+DT68-04379	Lehmatt,	Hüssern	68151		
+DT68-04401	Lengelbach,	Hüssern	68151		
+DT68-04982	Misse,	Hüssern	68151		
+DT68-05439	Niederhüser,	Hüssern	68151		
+DT68-06071	Quinckmättlin,	Hüssern	68151		
+DT68-07608	Silbergrub,	Hüssern	68151		
+DT68-07754	Spilbrunnen,	Hüssern	68151		
+DT68-08829	Wesserling,	Hüssern	68151		
+DT68-08933	Windacker,	Hüssern	68151		
+DT68-01170	Judengottsacker,	Jungholtz	Non		
+DT68-07967	Strauberg,	Kalenwasen	Non		
+DT68-05340	Nadelbach,	Kapellen	68160		
+DT68-00814	Breite,	Kingersheim	68166		Commune non identifiée (art. 68-03877)
+DT68-01675	Eselsweg,	Kingersheim	68166		
+DT68-02707	Hagelbächle,	Kingersheim	68166		
+DT68-03341	Hubelacker,	Kingersheim	68166		
+DT68-03601	Judenweg,	Kingersheim	68166		
+DT68-04229	Lachgraben,	Kingersheim	68166		
+DT68-04538	Lochacker,	Kingersheim	68166		
+DT68-05381	Nesselhurst,	Kingersheim	68166		
+DT68-05877	Pferdallmenden,	Kingersheim	68166		
+DT68-06747	Saalweg,	Kingersheim	68166		
+DT68-06999	Schabis,	Kingersheim	68166		
+DT68-07998	Struet (La),	Kingersheim	68166		
+DT68-02135	Furchgraben,	Küppele	Non		
+DT68-04217	la Buse,	Lagrange	90060		Pas d’article correspondant
+DT68-03626	Kabisacker,	Landser)	Non		
+DT68-04572	Lohfeld,	Landser)	Non		
+DT68-04786	Margelacker,	Landser)	Non		
+DT68-05655	Ochsenrieth,	Landser)	Non		
+DT68-07821	Steinbächle,	Landser)	Non		
+DT68-00289	Belchen,	Lautenbachzell	68178		
+DT68-08728	Wasserfall (Zum),	Lengenberg	Non		
+DT68-00412	Belchenbach,	Linthal	68188		Commune non identifiée (art. 68-04511)
+DT68-01446	Dupackerhaus,	Linthal	68188		
+DT68-01628	Erlenbach,	Linthal	68188		
+DT68-03111	Hilsen,	Linthal	68188		
+DT68-03204	Höffen,	Linthal	68188		
+DT68-03266	Höllruntz,	Linthal	68188		
+DT68-03367	Öhltrott,	Linthal	68188		
+DT68-04353	Lauchenweyer,	Linthal	68188		
+DT68-04970	Milesmatt,	Linthal	68188		
+DT68-05603	Oberlauchen,	Linthal	68188		
+DT68-06246	Remspach,	Linthal	68188		
+DT68-07541	Sengeren,	Linthal	68188		
+DT68-08969	Wissort,	Linthal	68188		
+DT68-00019	Affterberg,	Lutterbach	68195		Commune non identifiée (art. 68-04677)
+DT68-00594	Blanchisserie (La),	Lutterbach	68195		
+DT68-00937	Brunstatt,	Lutterbach	68195		
+DT68-01355	Didenheim,	Lutterbach	68195		
+DT68-01388	Dissel (Im),	Lutterbach	68195		
+DT68-01414	Dornach,	Lutterbach	68195		
+DT68-01913	Flaxlanden,	Lutterbach	68195		
+DT68-02153	Galfingen,	Lutterbach	68195		
+DT68-02196	Galgenhag,	Lutterbach	68195		
+DT68-02681	Guthusermatten,	Lutterbach	68195		
+DT68-02929	Heimsprung,	Lutterbach	68195		
+DT68-03182	Hocheich,	Lutterbach	68195		
+DT68-03493	Illzach,	Lutterbach	68195		
+DT68-03574	Jocklebohler,	Lutterbach	68195		
+DT68-03877	Kingersheim,	Lutterbach	68195		
+DT68-03922	Kleindorf,	Lutterbach	68195		
+DT68-05128	Moulin Brodhag,	Lutterbach	68195		
+DT68-05210	Moulin Struch,	Lutterbach	68195		
+DT68-05443	Niedermorschwiller,	Lutterbach	68195		
+DT68-05507	Nonnenbruch,	Lutterbach	68195		
+DT68-05866	Pfastatt,	Lutterbach	68195		
+DT68-06236	Reiningen,	Lutterbach	68195		
+DT68-06323	Richwiller,	Lutterbach	68195		
+DT68-06473	Roderen,	Lutterbach	68195		
+DT68-06932	Sanct-Johann,	Lutterbach	68195		
+DT68-07220	Schlunggraben,	Lutterbach	68195		
+DT68-07434	Schweinfurth,	Lutterbach	68195		
+DT68-07629	Sindering,	Lutterbach	68195		
+DT68-08978	Wittenheim,	Lutterbach	68195		
+DT68-09063	Wolfweg,	Lutterbach	68195		
+DT68-09182	Zillisheim,	Lutterbach	68195		
+DT68-06443	Ritty (La),	Lymen	68182	Leymen	
+DT68-06839	Saint-Jean,	Machtolsheim	Non		
+DT68-02430	Goldinhurst,	Manspach-Saint-Léger	68200		
+DT68-08728	Wasserfall (Zum),	Marbach	Non		
+DT68-04807	Martinet-du-Haut,	Masse	Non		corriger « Masse vaux en « Massevaux »
+DT68-07471	Scierie du Bas (La),	Massev.)	Non		
+DT68-02553	der Kratzen,	Massevaux)	Non		
+DT68-03547	Jägerswald,	Massevaux)	Non		
+DT68-03578	Johannisberg,	Massevaux)	Non		
+DT68-04995	Mittelbers,	Massevaux)	Non		
+DT68-06846	Saint-Léonard (Étang de),	Massevaux)	Non		
+DT68-06867	Saint-Nicolas,	Massevaux)	Non		
+DT68-07500	Seekopf,	Massevaux)	Non		
+DT68-08338	Tschabrunnen,	Massevaux)	Non		
+DT68-01537	Eidechsenberg,	Minrenwiler	Non		
+DT68-04688	Lützelweyer,	Moss	68216		
+DT68-02231	Gänseplon,	Napoléon	Non		
+DT68-00015	Adelspachweyer,	Niedermorschwiller	68218		Commune non identifiée (art. 68-05443)
+DT68-00574	Bisserich,	Niedermorschwiller	68218		
+DT68-01358	Diebsberg,	Niedermorschwiller	68218		
+DT68-01492	Eckenbruch,	Niedermorschwiller	68218		
+DT68-01744	Fabrique Hofer,	Niedermorschwiller	68218		
+DT68-01757	Fabrique Meyer,	Niedermorschwiller	68218		
+DT68-02040	Fräntzlismatten,	Niedermorschwiller	68218		
+DT68-02130	Fulenbrunnen,	Niedermorschwiller	68218		
+DT68-02410	Glockacker,	Niedermorschwiller	68218		
+DT68-02419	Goben,	Niedermorschwiller	68218		
+DT68-02611	Grottacker,	Niedermorschwiller	68218		
+DT68-02663	Gumpost,	Niedermorschwiller	68218		
+DT68-03628	Kabisland,	Niedermorschwiller	68218		
+DT68-03733	Käsberg,	Niedermorschwiller	68218		
+DT68-04498	Lindenacker,	Niedermorschwiller	68218		
+DT68-04648	Lissberg,	Niedermorschwiller	68218		
+DT68-04741	Maltzenbruch,	Niedermorschwiller	68218		
+DT68-04789	Margruben,	Niedermorschwiller	68218		
+DT68-05375	Negelenweyer,	Niedermorschwiller	68218		
+DT68-05841	Pfaffenhuet,	Niedermorschwiller	68218		
+DT68-06235	Reinhardswald,	Niedermorschwiller	68218		
+DT68-06253	Rennenberg,	Niedermorschwiller	68218		
+DT68-06302	Ribberg,	Niedermorschwiller	68218		
+DT68-06489	Rohrberg,	Niedermorschwiller	68218		
+DT68-06982	Sauloch,	Niedermorschwiller	68218		
+DT68-07737	Spenglerhag,	Niedermorschwiller	68218		
+DT68-07844	Steinert,	Niedermorschwiller	68218		
+DT68-07958	Stössenbruch,	Niedermorschwiller	68218		
+DT68-08394	Ungehürenhöltzle,	Niedermorschwiller	68218		
+DT68-09128	Zapfholder,	Niedermorschwiller	68218		
+DT68-09169	Ziehlacker,	Niedermorschwiller	68218		
+DT68-01938	Foigeret,	Novillars	90074		
+DT68-01981	Forges (Les),	Oberbruck	68239		Commune non identifiée (art. 68-05590)
+DT68-02223	Gallmann,	Oberbruck	68239		
+DT68-03163	Hirtzenbrunnen,	Oberbruck	68239		
+DT68-04806	Martinet-du-Bas,	Oberbruck	68239		
+DT68-04851	Meisenthal,	Oberbruck	68239		
+DT68-05005	Mittel Kratzen,	Oberbruck	68239		
+DT68-06257	Rennschmitt,	Oberbruck	68239		
+DT68-07237	Schmeltzmatt,	Oberbruck	68239		
+DT68-07526	Seltzbach,	Oberbruck	68239		
+DT68-08966	Wissenstein,	Oberbruck	68239		
+DT68-02189	Galgenberg,	Oberdorf	68240		Commune non identifiée (art. 68-05591)
+DT68-00188	Arbogast (Beim),	Oberentzen	68241		Commune non identifiée (art. 68-05595)
+DT68-03423	Hungerfeld,	Oberentzen	68241		
+DT68-04574	Lohgraben,	Oberentzen	68241		
+DT68-08215	Thurwald,	Oberentzen	68241		
+DT68-02315	Gemeinmarck,	Onenheim	67360		
+DT68-02315	Gemeinmarck,	Orschwiller	67362		
+DT68-03580	Joncherey,	Petit-Croix	90077		
+DT68-04710	Magny (Le),	Petit-Croix	90077		
+DT68-05129	Moulin Brûlé,	Petit-Croix	90077		
+DT68-05192	Moulin Neuf,	Petit-Croix	90077		
+DT68-05796	Perier,	Petit-Croix	90077		
+DT68-08543	Vie des Charettes (La),	Petit-Croix	90077		
+DT68-00110	le Vieux-Château,	Pfastatt	68256		commune non identifiée (art. 68-05866)
+DT68-00400	Beckenzunft,	Pfastatt	68256		
+DT68-00990	Burtzwiller,	Pfastatt	68256		
+DT68-01838	Felacker,	Pfastatt	68256		
+DT68-02199	Galgenmatten,	Pfastatt	68256		
+DT68-02707	Hagelbächle,	Pfastatt	68256		
+DT68-03240	Hollenberg,	Pfastatt	68256		
+DT68-03609	Jungenberg,	Pfastatt	68256		
+DT68-03983	Knobligschlag,	Pfastatt	68256		
+DT68-05507	Nonnenbruch,	Pfastatt	68256		
+DT68-07987	Strittfeld,	Pfastatt	68256		
+DT68-07205	Schlossmühle,	Reichenberg	Non		
+DT68-00108	Altschies,	Reiningen	68267		Commune non identifiée (art. 68-06236)
+DT68-00284	Balleschlag,	Reiningen	68267		
+DT68-00325	Bärenbach,	Reiningen	68267		
+DT68-00618	Blaustein,	Reiningen	68267		
+DT68-00802	Bratzmatten,	Reiningen	68267		
+DT68-01330	Deckwiller,	Reiningen	68267		
+DT68-01463	Dutenbühl,	Reiningen	68267		
+DT68-01580	Engelgrütt,	Reiningen	68267		
+DT68-02415	Glockenwog,	Reiningen	68267		
+DT68-02886	Heiden,	Reiningen	68267		
+DT68-02938	Heisterruntz,	Reiningen	68267		
+DT68-03191	Hochstaden,	Reiningen	68267		
+DT68-03256	Holdern,	Reiningen	68267		
+DT68-03309	Hörigematte,	Reiningen	68267		
+DT68-03733	Käsberg,	Reiningen	68267		
+DT68-03895	Kirschgarten,	Reiningen	68267		
+DT68-04118	Krummbach,	Reiningen	68267		
+DT68-04168	Kuhweg,	Reiningen	68267		
+DT68-04210	Kutzenloch,	Reiningen	68267		
+DT68-04256	Lampeden,	Reiningen	68267		
+DT68-04389	Leimby,	Reiningen	68267		
+DT68-04727	Majorenacker,	Reiningen	68267		
+DT68-05240	Muhgarten,	Reiningen	68267		
+DT68-05282	Munckenmatte,	Reiningen	68267		
+DT68-05410	Neugraben,	Reiningen	68267		
+DT68-05682	Ölenberg,	Reiningen	68267		
+DT68-05815	Petite-Dollern,	Reiningen	68267		
+DT68-05865	Pfarrmatt,	Reiningen	68267		
+DT68-05867	Pfauacker,	Reiningen	68267		
+DT68-05885	Pfifferacker,	Reiningen	68267		
+DT68-06193	Reckenmatten,	Reiningen	68267		
+DT68-06232	Reinhardsboden,	Reiningen	68267		
+DT68-06353	Riethmatten,	Reiningen	68267		
+DT68-06882	Saint-Romain,	Reiningen	68267		
+DT68-06963	Sauacker,	Reiningen	68267		
+DT68-07110	Schild,	Reiningen	68267		
+DT68-07137	Schinderwald,	Reiningen	68267		
+DT68-07301	Schollacker,	Reiningen	68267		
+DT68-07324	Schor,	Reiningen	68267		
+DT68-07712	Spanischkreuz,	Reiningen	68267		
+DT68-08206	Thormatt,	Reiningen	68267		
+DT68-08217	Tich,	Reiningen	68267		
+DT68-08266	Torschenwinckel,	Reiningen	68267		
+DT68-08341	Tschämbele,	Reiningen	68267		
+DT68-09016	Wolfenloch,	Reiningen	68267		
+DT68-09202	Zobelsmatt,	Reiningen	68267		
+DT68-09216	Zuckerplon,	Reiningen	68267		
+DT68-01616	Épine (L'),	Relfort	90010	Belfort	
+DT68-07624	Simonshaus,	Rhin	Non		
+DT68-07829	Steinbrunn,	Rhin	Non		
+DT68-05079	Mördergrub,	Ribeauvillé)	Non		
+DT68-06615	Rothgebenn,	Ribeauvillé)	Non		
+DT68-06634	Rotzel,	Ribeauvillé)	Non		
+DT68-07039	Schäntzel,	Ribeauvillé)	Non		
+DT68-03601	Judenweg,	Richwiller	68270		Commune non identifiée (art. 68-06323)
+DT68-06999	Schabis,	Richwiller	68270		
+DT68-07495	Seeboden,	Richwiller	68270		
+DT68-04604	Louvière (La),	Riervescemont	90085		
+DT68-04965	Milandre (La),	Riervescemont	90085		
+DT68-00552	Birgenhof,	Ruederbach	68288		Commune non identifiée (art. 68-06672)
+DT68-01912	Fläschlingen,	Ruederbach	68288		
+DT68-02576	Grislingermatten,	Ruederbach	68288		
+DT68-03255	Holderacker,	Ruederbach	68288		
+DT68-04764	Marasmatten,	Ruederbach	68288		
+DT68-05080	Mörderhaag,	Ruederbach	68288		
+DT68-06673	Ruederbach,	Ruederbach	68288		
+DT68-06975	Sauerboden,	Ruederbach	68288		
+DT68-08096	Tappenmetzger,	Ruederbach	68288		
+DT68-08590	Vogelsgesang,	Ruederbach	68288		
+DT68-00406	Behwasen,	Ruelisheim	68289		Commune non identifiée (art. 68-06680)
+DT68-01400	Dollernbächlé,	Ruelisheim	68289		
+DT68-03524	Isenheimerfeld,	Ruelisheim	68289		
+DT68-04529	Vordere-),	Ruelisheim	68289		
+DT68-05556	Maria-Eich,	Ruelisheim	68289		
+DT68-05859	Pfannenstiel,	Ruelisheim	68289		
+DT68-06101	Rain,	Ruelisheim	68289		
+DT68-06294	Rheinfelderhof,	Ruestenhart	68290		Commune non identifiée (art. 68-06688)
+DT68-00627	Blettmatt,	Saint-Amarin)	Non		
+DT68-03577	Johannesweg,	Saint-Amarin)	Non		
+DT68-04379	Lehmatt,	Saint-Amarin)	Non		
+DT68-04401	Lengelbach,	Saint-Amarin)	Non		
+DT68-08829	Wesserling,	Saint-Amarin)	Non		
+DT68-08933	Windacker,	Saint-Amarin)	Non		
+DT68-04721	Maison-Neuve (La),	Saint-André	Non		
+DT68-08033	Suisses (Maison des),	Saint-André	Non		
+DT68-01067	Champ-du-Haut,	Saint-Nicolas-des-Bois	Non		corriger « commune de Saint-Nicolas » en « territoire de Saint-Nicolas »
+DT68-06523	Ronchamps,	Saint-Nicolas-des-Bois	Non		corriger « commune de Saint-Nicolas » en « territoire de Saint-Nicolas »
+DT68-05245	Mühlbach,	Sainte-Apolline	Non		
+DT68-00057	Altdorf,	Sainte-Gertrude	Non		
+DT68-03287	Holtzweg,	Sausheim	68300		Commune non identifiée (art. 68-06991)
+DT68-05648	Ochsengrün,	Sausheim	68300		
+DT68-06346	Riethacker,	Sausheim	68300		
+DT68-06588	Roth,	Sausheim	68300		
+DT68-06990	Sausermühle,	Sausheim	68300		
+DT68-07518	Seilhof,	Sausheim	68300		
+DT68-07687	Sonnenrain,	Sausheim	68300		
+DT68-07919	Stöck,	Sausheim	68300		
+DT68-08438	Usine des Pins (L'),	Sausheim	68300		
+DT68-09057	Wolfskübel,	Sausheim	68300		
+DT68-04303	Langenstein,	Schäferthal	Non		
+DT68-00633	Blind (La),	Schelestadt	67462		
+DT68-03797	Kayserstuhl,	Seelbourg	Non		
+DT68-06681	Ruelle-Touche,	Sevenans-et-Leupe	90094		
+DT68-03581	Jonchet,	Sévenans-et-Leupe	90094		
+DT68-02088	Fromenteau,	Sévenans-et-Leuppe	90094		
+DT68-05306	Muring,	Soulzmatt	68318		
+DT68-06869	Sanct-Claus,	Soulzmatt	68318		
+DT68-00558	Birsebruck,	Suisse	Non		
+DT68-00086	Altenrain,	Thann)	Non		
+DT68-00332	Bärenthal,	Thann)	Non		
+DT68-00864	Bretscha,	Thann)	Non		
+DT68-01905	Fischgrönle,	Thann)	Non		
+DT68-01980	Forge (La),	Thann)	Non		
+DT68-02235	Gantzel,	Thann)	Non		
+DT68-02258	Gauchmättlen,	Thann)	Non		
+DT68-02270	Gehren,	Thann)	Non		
+DT68-02358	Gigel,	Thann)	Non		
+DT68-02449	Goutte (La Basse-),	Thann)	Non		
+DT68-02450	Goutte (La Haute-),	Thann)	Non		
+DT68-02562	Griedel,	Thann)	Non		
+DT68-02600	Grossgarten,	Thann)	Non		
+DT68-02630	Grussel,	Thann)	Non		
+DT68-02668	Gungelrain,	Thann)	Non		
+DT68-02781	Hartzbächle (Hinter-Mittel-Vorder-),	Thann)	Non		
+DT68-02811	Haulenrain,	Thann)	Non		
+DT68-03274	Höltzelsbach,	Thann)	Non		
+DT68-03291	Homatt,	Thann)	Non		
+DT68-03696	Kalten Rohm,	Thann)	Non		
+DT68-03703	Kammswald,	Thann)	Non		
+DT68-03730	Karsprung,	Thann)	Non		
+DT68-03918	Kleffelbach,	Thann)	Non		
+DT68-04004	Kohlerbroch,	Thann)	Non		
+DT68-04156	Kühläger,	Thann)	Non		
+DT68-04298	Langenrück,	Thann)	Non		
+DT68-04336	Lathebel,	Thann)	Non		
+DT68-04556	Löffelbach,	Thann)	Non		
+DT68-04937	Meyenfeld,	Thann)	Non		
+DT68-04987	Mittelbach,	Thann)	Non		
+DT68-05009	Mittelrain,	Thann)	Non		
+DT68-05148	Niedermühle,	Thann)	Non		
+DT68-05160	Obermühle,	Thann)	Non		
+DT68-05397	Neueberg,	Thann)	Non		
+DT68-05435	Niedereck,	Thann)	Non		
+DT68-05580	Nudloch,	Thann)	Non		
+DT68-05596	Oberfeld,	Thann)	Non		
+DT68-05639	Oberstel,	Thann)	Non		
+DT68-05712	Ostein,	Thann)	Non		
+DT68-05715	Osterbächle,	Thann)	Non		
+DT68-05875	Pfentzen,	Thann)	Non		
+DT68-06192	Reckenacker,	Thann)	Non		
+DT68-06513	Romberg,	Thann)	Non		
+DT68-07141	Schirbächel,	Thann)	Non		
+DT68-07264	Schneckenberg,	Thann)	Non		
+DT68-07405	Schwartzenwand,	Thann)	Non		
+DT68-07432	Schweinbach,	Thann)	Non		
+DT68-07465	Sägmühle,	Thann)	Non		
+DT68-07472	Scierie du Bas (La),	Thann)	Non		
+DT68-07473	Scierie du Haut (La),	Thann)	Non		
+DT68-07878	Stempelrain,	Thann)	Non		
+DT68-08347	Tschell (Beim),	Thann)	Non		
+DT68-08530	Veyel,	Thann)	Non		
+DT68-08623	Vorgasse,	Thann)	Non		
+DT68-08858	Wickenbroch,	Thann)	Non		
+DT68-08973	Witseelwald,	Thann)	Non		
+DT68-09061	Wolfstatt,	Thann)	Non		
+DT68-04693	Luxengraben,	Traubach	68336 et 68337		
+DT68-00716	Bombernusweyer,	Ubertrass	68340	Uberstrass	
+DT68-01909	Fitzenthann,	Watwiller	68359		
+DT68-08911	Willerbach,	Wintenhof	Non		
+DT68-00526	Bildeich,	Wintzenheim)	Non		
+DT68-01172	Cité (La),	Wintzenheim)	Non		
+DT68-01633	Erlengraben,	Wintzenheim)	Non		
+DT68-03260	Höll,	Wintzenheim)	Non		
+DT68-06980	Sauköpfle,	Wintzenheim)	Non		
+DT68-07651	Sol,	Wintzenheim)	Non		
+DT68-00094	Altig,	Wittenheim	68376		Commune non identifiée (art. 68-08978)
+DT68-00614	Blauenstein (Beim),	Wittenheim	68376		
+DT68-00619	Blausteinweg,	Wittenheim	68376		
+DT68-00859	Brestenberg,	Wittenheim	68376		
+DT68-01310	Dachshubel,	Wittenheim	68376		
+DT68-01518	Eglismatt,	Wittenheim	68376		
+DT68-01713	Etzmattengraben,	Wittenheim	68376		
+DT68-02234	Gäntzbüttel,	Wittenheim	68376		
+DT68-02422	Goldacker,	Wittenheim	68376		
+DT68-02750	Hanenbihne,	Wittenheim	68376		
+DT68-03246	Hohrederehubel,	Wittenheim	68376		
+DT68-03303	Horenwegle,	Wittenheim	68376		
+DT68-04229	Lachgraben,	Wittenheim	68376		
+DT68-04316	Langschloff,	Wittenheim	68376		
+DT68-04411	Lerchbühl,	Wittenheim	68376		
+DT68-05085	Morenfeld,	Wittenheim	68376		
+DT68-05336	Nachtigall,	Wittenheim	68376		
+DT68-05413	Neuhof,	Wittenheim	68376		
+DT68-05507	Nonnenbruch,	Wittenheim	68376		
+DT68-05703	Ortleshag,	Wittenheim	68376		
+DT68-07313	Schönensteinbach,	Wittenheim	68376		
+DT68-07508	Seeloch,	Wittenheim	68376		
+DT68-08212	Thurbächle,	Wittenheim	68376		
+DT68-01411	Dorfmühle,	Zässingen	68382		
+DT68-04083	Kriegacker,	Zässingen	68382		
+DT68-06482	Rohr,	Zässingen	68382		
+DT68-06870	Saint-Nicolas,	Zässingen	68382		
+DT68-08688	Wallenrieth,	Zässingen	68382		
+DT68-00509	Bielspach,	Zillisheim	68384		Commune non identifiée (art. 68-09182)
+DT68-00730	Borberg,	Zillisheim	68384		
+DT68-02283	Geisberg,	Zillisheim	68384		
+DT68-02772	Hart (Auf der),	Zillisheim	68384		
+DT68-02881	Heidacker,	Zillisheim	68384		
+DT68-03104	Hieracker,	Zillisheim	68384		
+DT68-03461	Hüttenbühl,	Zillisheim	68384		
+DT68-03737	Käsmatten,	Zillisheim	68384		
+DT68-03851	Kientzelin,	Zillisheim	68384		
+DT68-04181	Küppele,	Zillisheim	68384		
+DT68-04391	Leimenkopf,	Zillisheim	68384		
+DT68-04615	Lueginsland,	Zillisheim	68384		
+DT68-04919	Messjucherten,	Zillisheim	68384		
+DT68-05082	Morenacker,	Zillisheim	68384		
+DT68-05587	Oberberg,	Zillisheim	68384		
+DT68-05769	Paradies,	Zillisheim	68384		
+DT68-06274	Reschenbühl,	Zillisheim	68384		
+DT68-06549	Rosen,	Zillisheim	68384		
+DT68-07570	Siebenbett,	Zillisheim	68384		
+DT68-08274	Tränckenberg,	Zillisheim	68384		
+DT68-08349	Tschoben,	Zillisheim	68384		
+DT68-08371	Ubelhuser,	Zillisheim	68384		
