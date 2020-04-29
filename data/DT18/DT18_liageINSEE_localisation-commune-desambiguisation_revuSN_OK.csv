@@ -1,0 +1,886 @@
+Article,Vedette,Type vedette,Candidat,INSEE,Définition
+DT18-02490,"Bourg-Canteau (Le),",faubourg,"
+Chapelle-d’Angillon
+",18047,"
+faubourg de la 
+Chapelle-d’Angillon
+"
+DT18-03210,"Canivas,",village,"
+Charenton
+",non,"
+village, dont le territoire, situé dans la vicaria de 
+Charenton
+, comprenait une île du Sagonin"
+DT18-00060,"Airin (L’),",rivière,"
+Étang-Neuf
+",non,"
+rivière, affluent de l’Yévrette ; prend sa source à l’
+Étang-Neuf
+, commune de Tendron, et se jette dans l’Yévrette à Savigny"
+DT18-03100,"Buteau-Jaune (Le),",îlot,"
+Loire
+",non,"
+îlot de la 
+Loire
+, commune de Saint-Satur"
+DT18-02333,"la Boule-Vive,",ruisseau,"
+Pierrefitte
+",41176,"
+ruisseau, affluent de la Grande-Sauldre, dans laquelle il se jette à 
+Pierrefitte
+ (Loir-et-Cher), après avoir arrosé dans le département du Cher les communes de Sainte-Montaine et de Brinon-sur-Sauldre"
+DT18-06346,"Entre-les-deux-Villes,",ancien faubourg,"
+Saint-Amand-Mont-Rond
+",18197,"
+ancien faubourg de 
+Saint-Amand-Mont-Rond
+"
+DT18-13038,"Queugne (La),",ruisseau,"
+Viplaix
+",3317,"
+ruisseau, affluent du Cher, qui prend sa source à 
+Viplaix
+ (Allier) et arrose dans le département du Cher les communes d’Épineuil-le-Fleuriel et de Saint-Vitte"
+DT18-13980,"Saint-Jean-la-Prehée,",ancienne chapelle,"baronnie de Châteauneuf
+",non,"
+ancienne chapelle de la baronnie de Châteauneuf
+"
+DT18-03050,"Buisson-Roussillon (Le),",ancien fief,"baronnie de Montfaucon
+",non,"
+ancien fief relevant de la baronnie de Montfaucon
+"
+DT18-04040,"Château-Colin (Le),",ancien fief,"baronnie de Montfaucon
+",non,"
+ancien fief de la baronnie de Montfaucon
+"
+DT18-06200,"Douges,",ancien fief,"baronnie de Montfaucon
+",non,"
+ancien fief de la baronnie de Montfaucon
+"
+DT18-07159,"Forêt-aux-Filles (La),",ancien fief,"baronnie de Montfaucon
+",non,"
+ancien fief de la baronnie de Montfaucon
+"
+DT18-08745,"Haut-Brisson,",ancienne forêt,"châtellenie de Châteaumeillant
+",non,"
+ancienne forêt de la châtellenie de Châteaumeillant
+"
+DT18-12987,"Quartet (Le),",ancien fief,"châtellenie de Châteaumeillant
+",non,"
+ancien fief de la châtellenie de Châteaumeillant
+"
+DT18-15560,"Ville-Bouffin,",ancienne seigneurie,"châtellenie de Montfaucon
+",non,"
+ancienne seigneurie de la châtellenie de Montfaucon
+"
+DT18-06731,"Filerie (La),",ancien domaine,châtellenie du Fief-Pot,non,"
+ancien domaine de la châtellenie du Fief-Pot, paroisse de Menetou-Salon"
+DT18-06822,"Foliot (Le Petit-),",ancien fief,comté de Sancerre,non,"
+ancien fief du comté de Sancerre"
+DT18-13188,"Ravechat,",domaine et moulin,"cure de Colombier
+",18069,"
+domaine et moulin, cure de Colombier
+"
+DT18-00241,"Arnon (L’),",rivière,département de l’Indre,non,"
+rivière, affluent du Cher, prend sa source dans la commune de Saint-Marien (Creuse), entre dans le département du Cher par la commune de Sidiailles, baigne Culan, Ardenais, Lignieres, entre dans le département de l’Indre pour rentrer ensuite à Saint-Ambroix dans celui du Cher, et termine son cours dans la commune de Saint-Hilaire-de-Court"
+DT18-14655,"Théol (La),",rivière,département de l’Indre,non,"
+rivière qui se jette à Lazenay dans l’Arnon après avoir coulé dans le département de l’Indre"
+DT18-00087,"Allier (L’),",rivière,département de la Nièvre,non,"
+rivière, affluent de la Loire, qui prend sa source dans la forêt de Mercoire (Lozère) et arrose dans le département du Cher les communes de Mornay, Neuvy-le-Barrois, Apremont et Cuffy, qu’il sépare des communes limitrophes du département de la Nièvre"
+DT18-01426,"Beuvron (Le),",rivière,département de Loir-et-Cher,non,"
+rivière, affluent de la Loire, qui prend sa source dans la commune d’Argent-sur-Sauldre, entre ensuite dans le département du Loiret, puis sert de limite aux communes de Brinon-sur-Sauldre (Cher) et de Chaon (Loir-et-Cher) et coule ensuite dans le département de Loir-et-Cher"
+DT18-00087,"Allier (L’),",rivière,département du Cher,non,"
+rivière, affluent de la Loire, qui prend sa source dans la forêt de Mercoire (Lozère) et arrose dans le département du Cher les communes de Mornay, Neuvy-le-Barrois, Apremont et Cuffy, qu’il sépare des communes limitrophes du département de la Nièvre"
+DT18-00241,"Arnon (L’),",rivière,département du Cher,non,"
+rivière, affluent du Cher, prend sa source dans la commune de Saint-Marien (Creuse), entre dans le département du Cher par la commune de Sidiailles, baigne Culan, Ardenais, Lignieres, entre dans le département de l’Indre pour rentrer ensuite à Saint-Ambroix dans celui du Cher, et termine son cours dans la commune de Saint-Hilaire-de-Court"
+DT18-00399,"Auron (L’),",rivière,département du Cher,non,"
+rivière, affluent de l’Yèvre, qui prend sa source dans la commune de Cerilly (Allier), entre dans le département du Cher par la commune de Bessais-le-Fromental et se jette dans l’Yèvre sur la commune de Bourges"
+DT18-03200,"Canal du Berry (Le),",canal,département du Cher,non,"
+canal dont la principale branche part du canal latéral à la Loire dans la commune de Marseilles-lès-Aubigny, traverse le département du Cher en passant par Saint-Amand-Mont-Rond et le quitte par la commune de Thénioux ; cette branche emprunte les vallées de l’Aubois, de l’Auron et du Cher"
+DT18-03201,"Canal latéral à la Loire (Le),",canal,département du Cher,non,"
+canal qui suit la rive gauche de la Loire ; il entre dans le département du Cher par la commune de Cuffy et en sort par celle de Belleville"
+DT18-04522,"Cher (Le),",rivière,département du Cher,non,"
+rivière, qui entre dans le département du Cher par la commune d’Épineuil-le-Fleuriel et en sort par celle de Thenioux"
+DT18-09627,"Loire (La),",fleuve,département du Cher,non,"
+fleuve qui sépare le département du Cher depuis la commune de Cuffy jusqu’à celle de Belleville"
+DT18-10361,"Marmande (La),",rivière,département du Cher,non,"
+rivière qui entre dans le département du Cher à Charenton-sur-Cher et se jette dans le Cher à Orval"
+DT18-12968,"Puy-Bouillard (Le Ruisseau de),",ruisseau,département du Cher,non,"
+ruisseau qui entre dans le département du Cher par la commune de Saint-Vitte et se jette à Epineuil-le-Fleuriel dans la Queugne"
+DT18-13038,"Queugne (La),",ruisseau,département du Cher,non,"
+ruisseau, affluent du Cher, qui prend sa source à 
+Viplaix
+ (Allier) et arrose dans le département du Cher les communes d’Épineuil-le-Fleuriel et de Saint-Vitte"
+DT18-14218,"Sauldre (La Grande-),",rivière,département du Cher,non,"
+rivière, affluent du Cher, qui prend sa source à Humbligny et quitte le département du Cher après avoir traversé la commune de Brinon-sur-Sauldre"
+DT18-14219,"Sauldre (La Petite-),",rivière,département du Cher,non,"
+rivière, affluent de la Grande Sauldre, qui prend sa source à Parassy et quitte le département du Cher après avoir traversé la commune de Ménétréol-sur-Sauldre"
+DT18-15246,"Venelle (La),",rivière,département du Cher,non,"
+rivière, affluent de la Loire, qui a sa source dans la commune d’Assigny et quitte le département du Cher par la commune de Santranges"
+DT18-01426,"Beuvron (Le),",rivière,département du Loiret,non,"
+rivière, affluent de la Loire, qui prend sa source dans la commune d’Argent-sur-Sauldre, entre ensuite dans le département du Loiret, puis sert de limite aux communes de Brinon-sur-Sauldre (Cher) et de Chaon (Loir-et-Cher) et coule ensuite dans le département de Loir-et-Cher"
+DT18-00200,"Arcueil (Ruisseau d’),",,départements du Cher et de l’Allier,non,"affluent de l’Aubois, qui prend sa source dans la commune de Lurcy (Allier) et parcourt la commune de Sancoins après avoir séparé sur une certaine étendue les départements du Cher et de l’Allier"
+DT18-14382,"Sologne (La),",région,"départements du Cher, de Loir-et-Cher et du Loiret",non,"
+région qui s’étend sur une portion des départements du Cher, de Loir-et-Cher et du Loiret, et dont le nom a désigné deux archidiaconés appartenant, l’un au diocèse de Bourges, l’autre à celui d’Orléans"
+DT18-00846,"Bauzon,",seigneurie,"fief de Dun-le-Roi
+",non,"
+seigneurie relevant du fief de Dun-le-Roi
+"
+DT18-08192,"Grange-aux-Forges (La),",ancien fief,Grosse-Tour de Dun-le-Roi,/18087,"
+ancien fief de la Grosse-Tour de Dun-le-Roi"
+DT18-13840,"Saint-Adelin,",ancienne chapelle,"juridiction de Vierzon
+",non,"
+ancienne chapelle de la juridiction de Vierzon
+"
+DT18-13972,"Saint-Jacques,",ancienne chapelle,"juridiction de Vierzon
+",non,"
+ancienne chapelle située dans la juridiction de Vierzon
+"
+DT18-07429,"Fouzon (Le),",rivière,Loir-et-Cher,non,"
+rivière, affluent du Cher, qui prend sa source dans l’Indre, arrose dans le Cher la commune de Nohant-en-Graçay, sépare celles de Gracay et de Saint-Outrille et pénètre dans le Loir-et-Cher"
+DT18-07027,"Fontbon,",étang et ruisseau,Moulin-Neuf,non,"
+étang et ruisseau qui prend sa source dans la commune de Chalivoy-Milon et se jette dans celui de Moulin-Neuf à Dun-sur-Auron, village et domaine, communes de Bussy et de Lantan"
+DT18-04780,"Chezeau-Coudray (Le),",ancien fief,"mouvance d’Orval
+",non,"
+ancien fief de la mouvance d’Orval
+"
+DT18-01008,"Bégassière (La),",ancien fief,"mouvance de Dun-le-Roi
+",non,"
+ancien fief de la mouvance de Dun-le-Roi
+, paroisse de Verneuil"
+DT18-07007,"Fontancière,",ancien fief,"mouvance de Rezay
+",non,"
+ancien fief de la mouvance de Rezay
+"
+DT18-08079,"Gotinière (La),",ancien fief,"mouvance de Vierzon
+",non,"
+ancien fief de la mouvance de Vierzon
+"
+DT18-06921,"Fontaine-de-Pusselot (La),",ancien fief,paroisse ,non,"
+ancien fief de la paroisse 160de Sancerre"
+DT18-11105,"Motte-des-Vèvres (La),",ancienne seigneurie,"paroisse d’Ainay-le-Vieil
+",18002,"
+ancienne seigneurie de la paroisse d’Ainay-le-Vieil
+"
+DT18-04655,"Chezal-Aubin (Le),",ancien fief,"paroisse d’Annoix
+",18006,"
+ancien fief de la paroisse d’Annoix
+"
+DT18-09969,"Maison-Rouge (La),",ancien fief,"paroisse d’Ardenais
+",18010,"
+ancien fief de la paroisse d’Ardenais
+"
+DT18-08026,"Gloriette (La),",ancien fief,"paroisse d’Argent
+",18011,"
+ancien fief de la paroisse d’Argent
+"
+DT18-07167,"Forêt-de-Vèvre (La),",ancien bois,"paroisse d’Aubigny
+",18015,"
+ancien bois de la paroisse d’Aubigny
+"
+DT18-08712,"Guyart,",ancien village,"paroisse d’Augy-sur-l’Aubois
+",18017,"
+ancien village de la paroisse d’Augy-sur-l’Aubois
+"
+DT18-12215,"Pierrefritte,",ancien village,"paroisse d’Augy-sur-l’Aubois
+",18017,"
+ancien village de la paroisse d’Augy-sur-l’Aubois
+"
+DT18-12084,"Perouse-Rogerin (La),",ancien fief,"paroisse d’Azy
+",18019,"
+ancien fief de la paroisse d’Azy
+"
+DT18-01711,"Le Bois-à-la-Burelle,",ancien fief,"paroisse d’Ennordres
+",18088,"
+ancien fief de la paroisse d’Ennordres
+"
+DT18-02076,"Borde (La),",ancien fief,"paroisse d’Etrechy
+",18090,"
+ancien fief de la paroisse d’Etrechy
+"
+DT18-03234,"Carigniacum,",lieu,"paroisse d’Herry
+",18110,"
+lieu où fut élevée l’abbaye primitive de Chalivoy, paroisse d’Herry
+"
+DT18-11118,"Motte-Montsévry (La),",ancien domaine,"paroisse d’Humbligny
+",18110,"
+ancien domaine de la paroisse d’Humbligny
+"
+DT18-01709,"Bois-Bardin,",ancien domaine,"paroisse d’Ignol
+",18113,"
+ancien domaine de la paroisse d’Ignol
+"
+DT18-01758,"Bois-Crots (Les),",ancien fief,"paroisse d’Ineuil
+",18114,"
+ancien fief de la paroisse d’Ineuil
+"
+DT18-10960,"Montigny,",ancien fief,"paroisse d’Ivoy-le-Pré
+",18115,"
+ancien fief de la paroisse d’Ivoy-le-Pré
+"
+DT18-01783,"Bois-de-l’Étang (Le),",ancien fief,"paroisse d’Ourouër
+",18175,"
+ancien fief de la paroisse d’Ourouër
+"
+DT18-15230,"Vaux,",ancien domaine,"paroisse d’Ourouër
+",18175,"
+ancien domaine de la paroisse d’Ourouër
+"
+DT18-08774,"Hérigny,",ancienne seigneurie,"paroisse d’Ourouër-les-Bourdelins
+",18175,"
+ancienne seigneurie de la paroisse d’Ourouër-les-Bourdelins
+"
+DT18-13896,"Sainte-Brigitte,",ancienne chapelle,"paroisse de Bannay
+",18020,"
+ancienne chapelle de la paroisse de Bannay
+"
+DT18-10917,"Montaudon,",ancien fief,"paroisse de Beffes
+",18025,"
+ancien fief de la paroisse de Beffes
+"
+DT18-01860,"Bois-Justin,",ancien fief,"paroisse de Bengy-sur-Craon
+",18027,"
+ancien fief de la paroisse de Bengy-sur-Craon
+"
+DT18-11134,"Motte-Vouzeron (La),",ancien fief,"paroisse de Berry-Marmagne
+",18028,"
+ancien fief de la paroisse de Berry-Marmagne
+"
+DT18-11602,"Notre-Dame-de-Venon,",ancienne chapelle,"paroisse de Bessais-le-Fromental
+",18029,"
+ancienne chapelle de la paroisse de Bessais-le-Fromental
+"
+DT18-08865,"Hurerie (La),",ancien domaine,"paroisse de Blancafort
+",18030,"
+ancien domaine de la paroisse de Blancafort
+"
+DT18-13992,"Saint-Ladre,",ancienne chapelle,"paroisse de Blet
+",18031,"
+ancienne chapelle de la paroisse de Blet
+"
+DT18-08679,"Guillons (Les),",ancien domaine,"paroisse de Bouy
+",18028,"
+ancien domaine de la paroisse de Bouy
+"
+DT18-02687,"Brénefins (Les),",ancien fief,"paroisse de Brinay
+",18036,"
+ancien fief de la paroisse de Brinay
+"
+DT18-06825,"Foltière (La),",ancien fief,"paroisse de Brinay
+",18036,"
+ancien fief de la paroisse de Brinay
+"
+DT18-07810,"Gautinière (La),",ancien fief,"paroisse de Brinay
+",18036,"
+ancien fief de la paroisse de Brinay
+"
+DT18-09898,"Maisonfort-de-Brinay (La),",ancien fief,"paroisse de Brinay
+",18036,"
+ancien fief de la paroisse de Brinay
+"
+DT18-07301,"Fossés-de-Bussy (Les),",ancien fief,"paroisse de Bussy
+",18040,"
+ancien fief de la paroisse de Bussy
+"
+DT18-11120,"Motte-Raimbaut (La),",ancien fief,"paroisse de Bussy
+",18040,"
+ancien fief de la paroisse de Bussy
+"
+DT18-07139,"Forêt (La),",ancien fief,"paroisse de Cerbois
+",18044,"
+ancien fief de la paroisse de Cerbois
+"
+DT18-15598,"Ville-Neuve (Le Petit-),",ancien fief,"paroisse de Cerbois
+",18044,"
+ancien fief de la paroisse de Cerbois
+"
+DT18-03527,"Chalivoy-les-Mesles,",ancienne collecte,"paroisse de Chalivoy-Milon
+",18045,"
+ancienne collecte de la paroisse de Chalivoy-Milon
+"
+DT18-09223,"Lassy,",ancien fief,"paroisse de Chassy
+",18056,"
+ancien fief de la paroisse de Chassy
+"
+DT18-09268,"Lavau,",ancien fief,"paroisse de Chassy
+",18056,"
+ancien fief de la paroisse de Chassy
+"
+DT18-14255,"Sauvageonnerie (La),",ancienne locature,"paroisse de Chautay
+",18062,"
+ancienne locature de la paroisse de Chautay
+"
+DT18-15264,"Verdiers (Les),",ancien fief,"paroisse de Chavannes
+",18063,"
+ancien fief de la paroisse de Chavannes
+"
+DT18-09674,"Louroy,",ancien fief,"paroisse de Clémont
+",18067,"
+ancien fief de la paroisse de Clémont
+"
+DT18-07855,"Genetoy-de-la-Brosse (Le),",ancien fief,"paroisse de Concressault
+",18070,"
+ancien fief de la paroisse de Concressault
+"
+DT18-10596,"Mère-Dieu (La),",ancien prieuré,"paroisse de Concressault
+",18070,"
+ancien prieuré sis en la paroisse de Concressault
+ : dépendait de l’abbaye de Saint-Satur"
+DT18-10622,"Mesnil (Le),",ancien fief,"paroisse de Concressault
+",18070,"
+ancien fief de la paroisse de Concressault
+"
+DT18-13056,"Rabas,",ancien fief,"paroisse de Condé
+",18043,"
+ancien fief de la paroisse de Condé
+"
+DT18-15640,"Villiers,",ancien village,"paroisse de Cornusse
+",18072,"
+ancien village de la paroisse de Cornusse
+"
+DT18-09719,"Luzarches,",ancienne seigneurie,"paroisse de Cours-les-Barres
+",18075,"
+ancienne seigneurie de la paroisse de Cours-les-Barres
+"
+DT18-10571,"Menetay,",ancien fief,"paroisse de Cours-les-Barres
+",18075,"
+ancien fief de la paroisse de Cours-les-Barres
+"
+DT18-01776,"Bois-de-la-Chaume (Le),",ancien fief,"paroisse de Crézancy
+",18079,"
+ancien fief de la paroisse de Crézancy
+"
+DT18-03338,"Cassignolles,",ancien fief,"paroisse de Croissy
+",18080,"
+ancien fief de la paroisse de Croissy
+"
+DT18-02168,"Bornillat,",ancien fief,"paroisse de Crosses
+",18081,"
+ancien fief de la paroisse de Crosses
+"
+DT18-11605,"Nouan,",ancien fief,"paroisse de Culan
+",18083,"
+ancien fief de la paroisse de Culan
+"
+DT18-14106,"Saint-Ursin,",ancienne chapelle,"paroisse de Culan
+",18083,"
+ancienne chapelle de la paroisse de Culan
+"
+DT18-09715,"Lussaut,",anc domaine et moulins,"paroisse de Cuzay-Sainte-Radegonde
+",18087,"
+anc domaine et moulins de la paroisse de Cuzay-Sainte-Radegonde
+"
+DT18-06324,"Embrouilleries (Les),",ancien domaine,"paroisse de Dampierre-en-Crot
+",18084,"
+ancien domaine de la paroisse de Dampierre-en-Crot
+"
+DT18-13983,"Saint-Joseph,",ancienne chapelle,"paroisse de Dun-le-Roi
+",18087,"
+ancienne chapelle de la paroisse de Dun-le-Roi
+"
+DT18-09879,"Maison-du-Bois (La),",ancien fief,"paroisse de Farges-en-Septaine
+",18092,"
+ancien fief de la paroisse de Farges-en-Septaine
+"
+DT18-13484,"Roche (La),",ancien fief,"paroisse de Feux
+",18094,"
+ancien fief de la paroisse de Feux
+"
+DT18-15221,"Vauvrille,",ancien fief,"paroisse de Flavigny
+",18095,"
+ancien fief de la paroisse de Flavigny
+"
+DT18-08919,"Jacquelinerie (La),",ancien fief,"paroisse de Foëcy
+",18096,"
+ancien fief de la paroisse de Foëcy
+"
+DT18-11106,"Motte-de-Varennes (La),",ancien fief,"paroisse de Foëcy
+",18096,"
+ancien fief de la paroisse de Foëcy
+"
+DT18-12913,"Prouverie (La),",ancien château,"paroisse de Foëcy
+",18096,"
+ancien château de la paroisse de Foëcy
+"
+DT18-11116,"Motte-Lécuyer (La),",ancien fief,"paroisse de Foux
+",18094,"
+ancien fief de la paroisse de Foux
+"
+DT18-01873,"Bois-Luillier,",ancien fief,"paroisse de Garigny
+",18099,"
+ancien fief de la paroisse de Garigny
+"
+DT18-14055,"Saint-Michel,",ancienne chapelle,"paroisse de Germigny-l’Exempt
+",18101,"
+ancienne chapelle de la paroisse de Germigny-l’Exempt
+"
+DT18-11599,"Notre-Dame-de-Pitié,",ancienne chapelle,"paroisse de Jalognes
+",18116,"
+ancienne chapelle de la paroisse de Jalognes
+"
+DT18-11927,"Patins (Les),",ancien village,"paroisse de Jalognes
+",18116,"
+ancien village de la paroisse de Jalognes
+"
+DT18-04930,"Claudis-Boucard (Les),",ancien fief,"paroisse de Jars
+",18117,"
+ancien fief de la paroisse de Jars
+"
+DT18-06280,"Écluse (L’),",ancien fief,"paroisse de Jussy-le-Chaudrier
+",18120,"
+ancien fief de la paroisse de Jussy-le-Chaudrier
+"
+DT18-09929,"Maison-Neuve (La),",ancien fief,"paroisse de la Celette
+",18041,"
+ancien fief de la paroisse de la Celette
+"
+DT18-15320,"Vernillière (La),",ancien fief,"paroisse de la Celette
+",18041,"
+ancien fief de la paroisse de la Celette
+"
+DT18-11129,"Motte-sous-la-Perche (La),",ancien fief,"paroisse de la Perche
+",18178,"
+ancien fief de la paroisse de la Perche
+"
+DT18-12676,"Potard (Le),",ancien fief,"paroisse de Lazenay
+",18124,"
+ancien fief de la paroisse de Lazenay
+"
+DT18-13947,"Saint-Germain,",ancienne chapelle,"paroisse de Léré
+",18125,"
+ancienne chapelle de la paroisse de Léré
+"
+DT18-13871,"Saint-Blaise,",ancien prieuré bénédictin,"paroisse de Lignières
+",18127,"
+ancien prieuré bénédictin de la paroisse de Lignières
+"
+DT18-08607,"Guercy,",ancienne châtellenie,"paroisse de Limeux
+",18128,"
+ancienne châtellenie de la paroisse de Limeux
+"
+DT18-13973,"Saint-Jean,",ancien prieuré,"paroisse de Lissay
+",18129,"
+ancien prieuré de la paroisse de Lissay
+"
+DT18-04953,"Clinchauderie (La),",locature,"paroisse de Lury
+",18134,"
+locature de la paroisse de Lury
+"
+DT18-05481,"Cour-de-Champ (La),",ancien fief,"paroisse de Lury
+",18134,"
+ancien fief de la paroisse de Lury
+"
+DT18-10958,"Montignon,",ancien fief,"paroisse de Lury
+",18134,"
+ancien fief de la paroisse de Lury
+"
+DT18-15603,"Ville-Neuve,",ancien fief,"paroisse de Lury
+",18134,"
+ancien fief de la paroisse de Lury
+"
+DT18-11698,"Oiselets (Les),",ancien domaine,"paroisse de Maisonnais
+",18135,"
+ancien domaine de la paroisse de Maisonnais
+"
+DT18-05538,"Courtieux,",ancienne justice,"paroisse de Marigny
+",non,"
+ancienne justice de la paroisse de Marigny
+"
+DT18-14259,"Sauvert,",ancien fief,"paroisse de Marseilles-les-Aubigny
+",18139,"
+ancien fief de la paroisse de Marseilles-les-Aubigny
+"
+DT18-04778,"Chezeau-Copeau (Le),",ancien fief,"paroisse de Massay
+",18140,"
+ancien fief de la paroisse de Massay
+"
+DT18-07160,"Forêt-aux-Guyons (La),",ancien fief,"paroisse de Mehun-sur-Yèvre
+",18141,"
+ancien fief de la paroisse de Mehun-sur-Yèvre
+"
+DT18-10824,"Mirebeau,",ancienne seigneurie,"paroisse de Mehun-sur-Yèvre
+",18141,"
+ancienne seigneurie de la paroisse de Mehun-sur-Yèvre
+"
+DT18-06731,"Filerie (La),",ancien domaine,paroisse de Menetou-Salon,18145,"
+ancien domaine de la châtellenie du Fief-Pot, paroisse de Menetou-Salon"
+DT18-04712,"Chezal-Gareau (Le),",ancien domaine,"paroisse de Menetou-Salon
+",18145,"
+ancien domaine de la paroisse de Menetou-Salon
+"
+DT18-06727,"Fief-Pot (Le),",ancienne châtellenie,"paroisse de Menetou-Salon
+",18145,"
+ancienne châtellenie de la paroisse de Menetou-Salon
+"
+DT18-08660,"Guillaume-Martin,",ancien domaine,"paroisse de Ménétréol-sur-Sauldre
+",18147,"
+ancien domaine de la paroisse de Ménétréol-sur-Sauldre
+"
+DT18-12034,"Pelure (La),",ancien fief,"paroisse de Ménétréol-sur-Sauldre
+",18147,"
+ancien fief de la paroisse de Ménétréol-sur-Sauldre
+"
+DT18-08890,"Ilon (L’),",ancien fief,"paroisse de Mereau
+",18148,"
+ancien fief de la paroisse de Mereau
+"
+DT18-11561,"Nipart,",ancien château,"paroisse de Mereau
+",18148,"
+ancien château de la paroisse de Mereau
+"
+DT18-15514,"Villages-de-Berry (Les),",collecte,"paroisse de Mornay-Berry
+",18154,"
+collecte de l’élection de Bourges, paroisse de Mornay-Berry
+"
+DT18-05435,"Coupe-Gorge,",ancien domaine,"paroisse de Morogues
+",18156,"
+ancien domaine de la paroisse de Morogues
+"
+DT18-07085,"Fontenille (La),",ancien domaine,"paroisse de Morogues
+",18156,"
+ancien domaine de la paroisse de Morogues
+"
+DT18-09339,"Liesse,",ancienne locature,"paroisse de Moulins-sur-Yèvre
+",18158,"
+ancienne locature de la paroisse de Moulins-sur-Yèvre
+"
+DT18-11600,"Notre-Dame-de-Pitié,",ancienne chapelle,"paroisse de Nançay
+",18159,"
+ancienne chapelle de la paroisse de Nançay
+"
+DT18-03023,"Buisson (Le),",ancien fief,"paroisse de Nérondes
+",18160,"
+ancien fief de la paroisse de Nérondes
+"
+DT18-13597,"Rongère (La),",ancienne chapelle,"paroisse de Neuilly-en-Sancerre
+",18162,"
+ancienne chapelle de la paroisse de Neuilly-en-Sancerre
+"
+DT18-04304,"Chaumereuil,",ancien domaine,"paroisse de Neuvy-le-Barrois
+",18164,"
+ancien domaine de la paroisse de Neuvy-le-Barrois
+"
+DT18-09995,"Maison-Rouge (La Grande-),",ancien fief,"paroisse de Nohant-en-Goût
+",18166,"
+ancien fief de la paroisse de Nohant-en-Goût
+"
+DT18-12089,"Perreau (Le),",ancien fief,"paroisse de Nohant-en-Goût
+",18166,"
+ancien fief de la paroisse de Nohant-en-Goût
+"
+DT18-12062,"Percy,",ancien fief,"paroisse de Nohant-en-Graçay
+",18167,"
+ancien fief de la paroisse de Nohant-en-Graçay
+"
+DT18-12117,"Perry (Le),",ancien fief,"paroisse de Nohant-en-Graçay
+",18167,"
+ancien fief de la paroisse de Nohant-en-Graçay
+"
+DT18-14913,"Trousseaux (Les),",ancien fief,"paroisse de Nohant-en-Graçay
+",18167,"
+ancien fief de la paroisse de Nohant-en-Graçay
+"
+DT18-01857,"Bois-Jeanne (Le),",ancien fief,"paroisse de Parnay
+",18177,"
+ancien fief de la paroisse de Parnay
+"
+DT18-01962,"Bois-Tournés,",ancien fief,"paroisse de Parnay
+",18177,"
+ancien fief, paroisse de Parnay
+"
+DT18-11889,"Parcion,",ancienne seigneurie,"paroisse de Patinges
+",18265,"
+ancienne seigneurie de la paroisse de Patinges
+"
+DT18-13143,"Rampenay,",ancien fief,"paroisse de Pigny
+",18179,"
+ancien fief de la paroisse de Pigny
+"
+DT18-14389,"Sordeaux (Les),",ancienne métairie,"paroisse de Presly
+",18185,"
+ancienne métairie de la paroisse de Presly
+"
+DT18-04787,"Chezeau-Mureau (Le),",ancienne locature,"paroisse de Preuilly
+",18186,"
+ancienne locature de la paroisse de Preuilly
+"
+DT18-13927,"Sainte-Valérie,",ancienne chapelle,"paroisse de Préveranges
+",18187,"
+ancienne chapelle de la paroisse de Préveranges
+"
+DT18-13493,"Roche (La),",ancien fief,"paroisse de Quincy
+",18190,"
+ancien fief de la paroisse de Quincy
+"
+DT18-14012,"Saint-Liset,",ancienne chapelle,"paroisse de Raymond
+",18191,"
+ancienne chapelle de la paroisse de Raymond
+"
+DT18-12822,"Prêle,",ancien fief,"paroisse de Sagonne
+",18195,"
+ancien fief de la paroisse de Sagonne
+"
+DT18-13895,"Sainte-Barbe,",ancienne chapelle,"paroisse de Sagonne
+",18195,"
+ancienne chapelle de la paroisse de Sagonne
+"
+DT18-10820,"Mirebeau,",ancien moulin,"paroisse de Saint-Ambroix
+",18198,"
+ancien moulin de la paroisse de Saint-Ambroix
+ à Bourges"
+DT18-11437,"Moulon,",ancien fief,"paroisse de Saint-Baudel
+",18199,"
+ancien fief de la paroisse de Saint-Baudel
+"
+DT18-12342,"Place (La),",ancien moulin,"paroisse de Saint-Baudel
+",18199,"
+ancien moulin de la paroisse de Saint-Baudel
+"
+DT18-12426,"Plantureuse (La),",ancien domaine,"paroisse de Saint-Baudel
+",18199,"
+ancien domaine de la paroisse de Saint-Baudel
+"
+DT18-15090,"Vadron,",ancien moulin,"paroisse de Saint-Christophe-le-Chaudry
+",18203,"
+ancien moulin de la paroisse de Saint-Christophe-le-Chaudry
+"
+DT18-08987,"Jarry,",anc étang et fief,"paroisse de Saint-Doulchard
+",18205,"
+anc étang et fief de la paroisse de Saint-Doulchard
+"
+DT18-13162,"Rateaux (Les),",ancien fief,"paroisse de Saint-Georges-de-Poisieux
+",18209,"
+ancien fief de la paroisse de Saint-Georges-de-Poisieux
+"
+DT18-14065,"Saint-Père,",ancien fief,"paroisse de Saint-Germain-des-Bois
+",18212,"
+ancien fief de la paroisse de Saint-Germain-des-Bois
+"
+DT18-10182,"Maltaverne,",ancienne chapelle,"paroisse de Saint-Hilaire-en-Lignières
+",18216,"
+ancienne chapelle de la paroisse de Saint-Hilaire-en-Lignières
+"
+DT18-03871,"Charbonnière (La),",ancien fief,"paroisse de Saint-Julien
+",non,"
+ancien fief de la paroisse de Saint-Julien
+, commune de Saint-Symphorien"
+DT18-14786,"Toutifaut,",ancien fief,"paroisse de Saint-Just
+",18218,"
+ancien fief de la paroisse de Saint-Just
+"
+DT18-07888,"Georges (Les),",ancien domaine,"paroisse de Saint-Laurent
+",18219,"
+ancien domaine de la paroisse de Saint-Laurent
+"
+DT18-06763,"Florendry,",ancien fief,"paroisse de Saint-Loup
+",18221,"
+ancien fief de la paroisse de Saint-Loup
+"
+DT18-07651,"Garçonnetterie (La),",ancien domaine,"paroisse de Saint-Martin-de-Court
+",18140,"
+ancien domaine de la paroisse de Saint-Martin-de-Court
+"
+DT18-10554,"Mêliers (Les),",ancien fief,"paroisse de Saint-Martin-des-Champs
+",18224,"
+ancien fief de la paroisse de Saint-Martin-des-Champs
+"
+DT18-11885,"Parçay,",ancienne seigneurie,"paroisse de Saint-Maur
+",18225,"
+ancienne seigneurie de la paroisse de Saint-Maur
+"
+DT18-13976,"Saint-Jean,",ancienne chapelle,"paroisse de Saint-Pierre-les-Étieux
+",18231,"
+ancienne chapelle de la paroisse de Saint-Pierre-les-Étieux
+"
+DT18-11820,"Pain (Le),",ancien fief,"paroisse de Sainte-Gemme
+",18208,"
+ancien fief de la paroisse de Sainte-Gemme
+"
+DT18-08468,"Grosieux,",ancien fief,"paroisse de Sainte-Solange
+",18235,"
+ancien fief de la paroisse de Sainte-Solange
+"
+DT18-13737,"Ruelle,",ancien domaine,"paroisse de Sainte-Thorette
+",18237,"
+ancien domaine de la paroisse de Sainte-Thorette
+"
+DT18-15283,"Verger (Le),",ancien fief,"paroisse de Sanceaux
+",18202,"
+ancien fief de la paroisse de Sanceaux
+"
+DT18-11669,"Nousillé,",ancien fief,"paroisse de Sancergues
+",18240,"
+ancien fief de la paroisse de Sancergues
+"
+DT18-11133,"Motte-Voisin (La),",ancien fief,"paroisse de Sancerre
+",18241,"
+ancien fief de la paroisse de Sancerre
+"
+DT18-02019,"Bonnay,",ancien fief,"paroisse de Savigny
+",18246,"
+ancien fief de la paroisse de Savigny
+"
+DT18-05479,"Cour-d’Aubigny (La),",ancien fief,"paroisse de Savigny-en-Septaine
+",18247,"
+ancien fief de la paroisse de Savigny-en-Septaine
+"
+DT18-11635,"Noue-Cottin (La),",ancien fief,"paroisse de Savigny-en-Septaine
+",18247,"
+ancien fief de la paroisse de Savigny-en-Septaine
+"
+DT18-12991,"Quartiers-Roger (Les),",ancienne seigneurie,"paroisse de Sens-Beaujeu
+",18249,"
+ancienne seigneurie de la paroisse de Sens-Beaujeu
+"
+DT18-13228,"Rechigne-Voisin,",ancien village,"paroisse de Sidiailles
+",18252,"
+ancien village de la paroisse de Sidiailles
+"
+DT18-13910,"Saint-Éloy,",ancien prieuré,"paroisse de Sidiailles
+",18252,"
+ancien prieuré de la paroisse de Sidiailles
+"
+DT18-01788,"Bois-de-Nevers (Le),",ancien fief,"paroisse de Soulangis
+",18253,"
+ancien fief de la paroisse de Soulangis
+"
+DT18-05467,"Courage,",ancien fief,"paroisse de Sury-en-Léré
+",18257,"
+ancien fief de la paroisse de Sury-en-Léré
+"
+DT18-05226,"Corjouan,",ancien fief,"paroisse de Sury-ès-Bois
+",18259,"
+ancien fief de la paroisse de Sury-ès-Bois
+"
+DT18-10169,"Malleville,",ancien fief,"paroisse de Thénioux
+",18263,"
+ancien fief de la paroisse de Thénioux
+"
+DT18-12025,"Pelle-Jarry,",ancien fief,"paroisse de Vallenay
+",18270,"
+ancien fief de la paroisse de Vallenay
+"
+DT18-12059,"Percheras (Le bois de la),",ancien bois,"paroisse de Vasselay
+",18271,"
+ancien bois de la paroisse de Vasselay
+"
+DT18-01829,"Bois-Garseau (Le),",ancien fief,"paroisse de Veaugues
+",18272,"
+ancien fief de la paroisse de Veaugues
+"
+DT18-08825,"Hôpital (L’),",ancien domaine,"paroisse de Venesmes
+",18273,"
+ancien domaine de la paroisse de Venesmes
+"
+DT18-13978,"Saint-Jean,",ancienne chapelle,"paroisse de Vereaux
+",18275,"
+ancienne chapelle de la paroisse de Vereaux
+"
+DT18-14198,"Sarrie,",ancien fief,"paroisse de Vereaux
+",18275,"
+ancien fief de la paroisse de Vereaux
+"
+DT18-01008,"Bégassière (La),",ancien fief,paroisse de Verneuil,18277,"
+ancien fief de la mouvance de Dun-le-Roi
+, paroisse de Verneuil"
+DT18-06810,"Folie (La),",ancien fief,"paroisse de Vierzon
+",18279,"
+ancien fief de la paroisse de Vierzon
+"
+DT18-09104,"Lac-Amer (Le),",étang,"paroisse de Vierzon
+",18279,"ancien nom d’un étang de la paroisse de Vierzon
+"
+DT18-09749,"Madelaine (La),",ancien prieuré,"paroisse de Vierzon
+",18279,"
+ancien prieuré de la paroisse de Vierzon
+"
+DT18-15346,"Verrie (La),",ancien fief,"paroisse de Vignoux-sur-Barangeon
+",18281,"
+ancien fief de la paroisse de Vignoux-sur-Barangeon
+"
+DT18-10480,"Mauchy,",ancien moulin,"paroisse de Villabon
+",18282,"
+ancien moulin de la paroisse de Villabon
+"
+DT18-09221,"Lassay,",ancien fief,"paroisse de Vinon
+",18287,"
+ancien fief de la paroisse de Vinon
+"
+DT18-01184,"Bergerie (La),",ancien fief,"paroisse de Vorly
+",18288,"
+ancien fief de la paroisse de Vorly
+"
+DT18-06216,"Drouauderies (Les),",ancien fief,"paroisse de Vouzeron
+",18290,"
+ancien fief de la paroisse de Vouzeron
+"
+DT18-09303,"Léderie (La),",ancien fief,"paroisse de Vouzeron
+",18290,"
+ancien fief de la paroisse de Vouzeron
+"
+DT18-12977,"Puy-Semorin (Le),",ancien fief,"paroisse de Vouzeron
+",18290,"
+ancien fief de la paroisse de Vouzeron
+"
+DT18-14308,"Semorin,",ancien étang,"paroisse de Vouzeron
+",18290,"
+ancien étang de la paroisse de Vouzeron
+"
+DT18-14368,"Soisy,",ancien fief,"paroisse de Vouzeron
+",18290,"
+ancien fief de la paroisse de Vouzeron
+"
+DT18-08262,"Granges (Les),",ancien fief,"paroisse des Aix-d’Angillon
+",18003,"
+ancien fief de la paroisse des Aix-d’Angillon
+"
+DT18-09874,"Maison-de-Vallières (La Grande-),",ancien manoir,"paroisse des Aix-d’Angillon
+",18003,"
+ancien manoir de la paroisse des Aix-d’Angillon
+"
+DT18-02869,"les Landes-de-Saint-Martin,",communaux,"paroisses de Bannay, Boulleret et Sainte-Gemme",18020/18032/18208,"
+communaux qui s’étendaient sur les paroisses de Bannay, Boulleret et Sainte-Gemme"
+DT18-10695,"Métairie-Gaudon (La),",ancien domaine,paroisses de Levet et Saint-Lunaise,18126/18222,"
+ancien domaine des paroisses de Levet et Saint-Lunaise"
+DT18-12095,"Perreux (Les),",ancien village,paroisses de Menetou-Salon et de Quantilly,18145/18189,"
+ancien village des paroisses de Menetou-Salon et de Quantilly"
+DT18-14274,"Savigeons (Les),",ancien village,paroisses de Menetou-Salon et de Quantilly,18145/18189,"
+ancien village des paroisses de Menetou-Salon et de Quantilly"
+DT18-13984,"Saint-Joseph,",ancienne chapelle,paroisses de Quantilly et de Menetou-Salon,18189/18145,"
+ancienne chapelle des paroisses de Quantilly et de Menetou-Salon"
+DT18-00060,"Airin (L’),",rivière,Savigny,18247,"
+rivière, affluent de l’Yévrette ; prend sa source à l’
+Étang-Neuf
+, commune de Tendron, et se jette dans l’Yévrette à Savigny"
+DT18-06374,"Épinière (L’),",ancien fief,"seigneurie d’Etrechy
+",18090,"
+ancien fief de la seigneurie d’Etrechy
+"
+DT18-04783,"Chezeau-des-Chaumes (Le),",ancien fief,"seigneurie de Blancafort
+",18030,"
+ancien fief de la seigneurie de Blancafort
+"
+DT18-08084,"Gouaudière (La),",ancien fief,"seigneurie de Concressault
+",18070,"
+ancien fief de la seigneurie de Concressault
+, commune de Dampierre-en-Crot"
+DT18-11493,"Musse-Vilain,",ancien moulin,"seigneurie de Concressault
+",18070,"
+ancien moulin relevant en fief de la seigneurie de Concressault
+"
+DT18-06155,"Domerat,",ancien fief,"seigneurie de Culan
+",18083,"
+ancien fief de la seigneurie de Culan
+"
+DT18-01830,"Bois-Geffier,",ancien fief,"seigneurie de Mareuil
+",18137,"
+ancien fief de la seigneurie de Mareuil
+"
+DT18-03540,"Chambelais (Les),",ancien fief,"seigneurie de Menetou-Salon
+",18145,"
+ancien fief de la seigneurie de Menetou-Salon
+"
+DT18-13239,"le Petit-Referre,",anciennes seigneuries,"seigneurie de Rezay
+",18193,"
+anciennes seigneuries relevant de la châtellenie de Châteaumeillant et de la seigneurie de Rezay
+"
