@@ -2,13 +2,18 @@ import csv
 import click
 from lxml import etree
 
+dict_commune = {}
+dict_codepostaux = {}
+
 @click.command()
-@click.argument('path')
+@click.argument('source_file')
 @click.argument('output_file')
-def main (path, output_file):
+def main (source_file, output_file):
+    """
+    SOURCE_FILE c'est le chemin ou le nom du fichier à mettre en entrée
+    OUTPUT_FILE c'est le chemin ou le nom du fichier de sortie
+    """
     list_final = []
-    dict_commune = {}
-    dict_codepostaux = {}
     #création d'un dictionnaire des communes de 2011 pour pouvoir trouver le nom des communes qui datent de 2011 et non celle des DT qui peuvent avoir des noms de communes disparus ou pas forcément bien orthographier
     with open("Listedescommunes2011.csv") as csvfile:
         ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
@@ -19,7 +24,7 @@ def main (path, output_file):
         ListcommunesInsee = csv.reader(csvfile, delimiter=';', quotechar='|')
         for communeInsee in ListcommunesInsee :
             dict_codepostaux[communeInsee[0]] = communeInsee[1]
-    tree= etree.parse("{}".format(path))
+    tree= etree.parse("{}".format(source_file))
     for article in tree.xpath("//article") :
         id_article = article.attrib.get("id")
         vedette = article.xpath("./vedette/sm/text()")[0]
