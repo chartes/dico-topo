@@ -2,13 +2,13 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "89"
+dep = "01"
 
 path_file_in = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"
 path_file_out = "/home/corentink/Bureau/Dicotopo/dico-topo/data/DT"
 path_result = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
 
-file_in = "DT89.xml"
+file_in = "DT01.xml"
 file_out ="output5.xml"
 file_result = "result"
 
@@ -22,6 +22,17 @@ for article in tree_original.xpath("article"):
     count_article_in += 1
 for article in tree.xpath("article"):
     count_article_out += 1
+
+#Vérifier que le nombre de charactère d'un label soit inférieur à 30
+count_long_vedette_in = 0
+count_long_vedette_out = 0
+for article in tree_original.xpath("//vedette/sm"):
+    if len(article.text) > 31:
+        count_long_vedette_in += 1
+for article in tree.xpath("//vedette/sm"):
+    if len(article.text) > 31:
+        print("out : "+ article.text)
+        count_long_vedette_out += 1
 
 #Compte le nombre de vedette
 count_vedette_in = 0
@@ -125,6 +136,7 @@ with open("{0}{1}{2}.csv".format(path_result, file_result, dep), "w") as csvfile
     ListresultatTest.writerow (["", "DT_input", "DT_output(CF)"])
     ListresultatTest.writerow (["place(article)", count_article_in, count_article_out])
     ListresultatTest.writerow (["place.label(//vedette/sm)", count_vedette_in, count_vedette_out])
+    ListresultatTest.writerow (["place.label(//sm) > 30", count_long_vedette_in, count_long_vedette_out])
     ListresultatTest.writerow (["place.commune_insee_code(//insee)", count_insee_in, count_insee_out])
     ListresultatTest.writerow (["place.localization_commune_insee_code(//commune/@insee)", commune_insee_in, commune_insee_out])
     ListresultatTest.writerow(["codes insee non résolu(//commune[@insee='article_not_found'])", article_not_found_in, article_not_found_out])
