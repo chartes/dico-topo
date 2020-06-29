@@ -68,9 +68,9 @@ for article in tree.xpath("//commune[@insee='article_not_found']"):
 #Compte le nombre de commentaire pour voir si on en a pas perdu
 commentary_in = 0
 commentary_out = 0
-for commune in tree_original.xpath("//commentary"):
+for commune in tree_original.xpath("//commentaire"):
     commentary_in += 1
-for article in tree.xpath("//commentary"):
+for article in tree.xpath("//commentaire"):
     commentary_out += 1
 
 #Compte le nombre de formes anciennes, on ne doit pas en perdre
@@ -81,13 +81,13 @@ for commune in tree_original.xpath("//forme_ancienne"):
 for article in tree.xpath("//forme_ancienne"):
     forme_ancienne_out += 1
 
-#Compte le nombre de description, on ne doit pas en perdre
-description_in = 0
-description_out = 0
-for commune in tree_original.xpath("//description"):
-    description_in += 1
-for article in tree.xpath("//description"):
-    description_out += 1
+#Compte le nombre de definition, on ne doit pas en perdre
+definition_in = 0
+definition_out = 0
+for commune in tree_original.xpath("//definition"):
+    definition_in += 1
+for article in tree.xpath("//definition"):
+    definition_out += 1
 
 #Compte le nombre de typologie, on ne doit pas en perdre
 typologie_in = 0
@@ -169,7 +169,7 @@ with open(file_result, "w") as csvfile:
     ListresultatTest.writerow(["codes insee non résolu(//commune[@insee='article_not_found'])", article_not_found_in, article_not_found_out])
     ListresultatTest.writerow(["place_comment.content (//commentaire)", commentary_in, commentary_out])
     ListresultatTest.writerow(["place_old_label (//forme_ancienne)", forme_ancienne_in, forme_ancienne_out])
-    ListresultatTest.writerow(["place_description.content (//description)", description_in, description_out])
+    ListresultatTest.writerow(["place_description.content (//definition)", definition_in, definition_out])
     ListresultatTest.writerow(["place_feature_type.term(//typologie)", typologie_in, typologie_out])
     ListresultatTest.writerow(["place sans forme ancienne(//article[not(forme_ancienne)]) – total", article_not_forme_ancienne_in, article_not_forme_ancienne_out])
     ListresultatTest.writerow(["place sans forme ancienne(//article[not(forme_ancienne)]) – %", article_not_forme_ancienne_in/count_article_in, article_not_forme_ancienne_out/count_article_out])
