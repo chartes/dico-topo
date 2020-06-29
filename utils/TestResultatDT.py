@@ -24,20 +24,21 @@ for article in tree.xpath("article"):
 #Vérifier que le nombre de charactère d'un label soit inférieur à 30
 count_long_vedette_in = 0
 count_long_vedette_out = 0
-for article in tree_original.xpath("//vedette/sm"):
+for article in tree_original.xpath("//vedette//sm"):
     if len(article.text) > 31:
         count_long_vedette_in += 1
-for article in tree.xpath("//vedette/sm"):
-    if len(article.text) > 31:
-        print("out : "+ article.text)
-        count_long_vedette_out += 1
+for article in tree.xpath("//article"):
+    for com in article.xpath(".//vedette//sm"):
+        if len(etree.tostring(com, method="text", encoding=str)) > 31:
+            count_long_vedette_out += 1
+            print("out:" + article.get('id') + " " + com.text)
 
 #Compte le nombre de vedette
 count_vedette_in = 0
 count_vedette_out = 0
-for article in tree_original.xpath("//vedette/sm"):
+for article in tree_original.xpath("//vedette//sm"):
     count_vedette_in += 1
-for article in tree.xpath("//vedette/sm"):
+for article in tree.xpath("//vedette//sm"):
     count_vedette_out += 1
 
 #compte le nombre d'article commune
@@ -131,12 +132,14 @@ for article in tree.xpath("//article/@id"):
 #Controle que toutes les communes sont plus gros que 2
 count_commune_len_in = 0
 count_commune_len_out = 0
-for article in tree_original.xpath("//commune"):
-    if article.text: print("in: " + article.text)
-for article in tree.xpath("//commune"):
-    if len(article.text) < 3 :
-        print("out: " + article.text)
-
+for article in tree_original.xpath("//article"):
+    for com in article.xpath(".//commune"):
+        if len(etree.tostring(com, method="text", encoding=str)) < 3:
+            print("in:" + article.get('id') + etree.tostring(com, method="text", encoding=str))
+for article in tree.xpath("//article"):
+    for com in article.xpath(".//commune"):
+        if len(etree.tostring(com, method="text", encoding=str)) < 3:
+            print("out:" + article.get('id') + etree.tostring(com, method="text", encoding=str))
 #Controle que les valeurs de localisation sont identiques
 count_localisation_ok = 0
 list_localisation_in = []
