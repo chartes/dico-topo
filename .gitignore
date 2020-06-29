@@ -3,3 +3,4 @@ dt2ghs.xsl
 *.ttl
 app/
 docs/
+utils/out/

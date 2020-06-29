@@ -4,16 +4,14 @@ import csv
 
 dep = "01"
 
-path_file_in = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"
-path_file_out = "/home/corentink/Bureau/Dicotopo/dico-topo/data/DT"
-path_result = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
+dir_path = "../data/"
+file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
+file_out = dir_path+"DT"+dep+"/output5.xml"
+file_result = "out/DT"+dep+"_result.csv"
 
-file_in = "DT01.xml"
-file_out ="output5.xml"
-file_result = "result"
 
-tree_original = etree.parse("{0}{1}/{2}".format(path_file_in, dep, file_in))
-tree = etree.parse("{0}{1}/{2}".format(path_file_out, dep, file_out))
+tree_original = etree.parse(file_in)
+tree = etree.parse(file_out)
 
 #compte le nombre d'article dans le fichier xml
 count_article_in = 0
@@ -134,7 +132,7 @@ for article in tree.xpath("//article/@id"):
 count_commune_len_in = 0
 count_commune_len_out = 0
 for article in tree_original.xpath("//commune"):
-    print("in: " + article.text)
+    if article.text: print("in: " + article.text)
 for article in tree.xpath("//commune"):
     if len(article.text) < 3 :
         print("out: " + article.text)
@@ -157,7 +155,7 @@ for article in tree.xpath("//article"):
 print(count_localisation_ok)
 
 #Créer un fichier csv avec les différents résultats
-with open("{0}{1}{2}.csv".format(path_result, file_result, dep), "w") as csvfile:
+with open(file_result, "w") as csvfile:
     ListresultatTest = csv.writer(csvfile)
     ListresultatTest.writerow (["", "DT_input", "DT_output(CF)"])
     ListresultatTest.writerow (["place(article)", count_article_in, count_article_out])
@@ -175,7 +173,7 @@ with open("{0}{1}{2}.csv".format(path_result, file_result, dep), "w") as csvfile
     ListresultatTest.writerow(["article sans id (//article[not(@id)])",article_not_id_in, article_not_id_out])
 
 #Renvoie un fichier csv des localisation qui peuvent poser problème
-with open("{0}ListenomCommuneDT{1}.csv".format(path_result,dep), "w") as csvfile:
+with open("{0}_commune.csv".format(file_result), "w") as csvfile:
     ListCommuneResult = csv.writer(csvfile)
     ListCommuneResult.writerow(["article", "ProblemeLocalisation ?"])
     for com in list_localisation_out :
