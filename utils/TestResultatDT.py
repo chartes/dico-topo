@@ -130,6 +130,32 @@ for article in tree.xpath("//article/@id"):
     else:
         num_id_out = article
 
+#Controle que toutes les communes sont plus gros que 2
+count_commune_len_in = 0
+count_commune_len_out = 0
+for article in tree_original.xpath("//commune"):
+    print("in: " + article.text)
+for article in tree.xpath("//commune"):
+    if len(article.text) < 3 :
+        print("out: " + article.text)
+
+#Controle que les valeurs de localisation sont identiques
+count_localisation_ok = 0
+list_localisation_in = []
+list_localisation_out =[]
+for article in tree_original.xpath("//localisation"):
+    list_localisation_in.append(etree.tostring(article, method="text", encoding=str).replace("'","’"))
+
+
+for article in tree.xpath("//article"):
+    for loc in article.xpath(".//localisation"):
+        if etree.tostring(loc, method="text", encoding=str) in list_localisation_in:
+            continue
+        else:
+            count_localisation_ok += 1
+            list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str)])
+print(count_localisation_ok)
+
 #Créer un fichier csv avec les différents résultats
 with open("{0}{1}{2}.csv".format(path_result, file_result, dep), "w") as csvfile:
     ListresultatTest = csv.writer(csvfile)
@@ -147,3 +173,10 @@ with open("{0}{1}{2}.csv".format(path_result, file_result, dep), "w") as csvfile
     ListresultatTest.writerow(["place sans forme ancienne(//article[not(forme_ancienne)]) – total", article_not_forme_ancienne_in, article_not_forme_ancienne_out])
     ListresultatTest.writerow(["place sans forme ancienne(//article[not(forme_ancienne)]) – %", article_not_forme_ancienne_in/count_article_in, article_not_forme_ancienne_out/count_article_out])
     ListresultatTest.writerow(["article sans id (//article[not(@id)])",article_not_id_in, article_not_id_out])
+
+#Renvoie un fichier csv des localisation qui peuvent poser problème
+with open("{0}ListenomCommuneDT{1}.csv".format(path_result,dep), "w") as csvfile:
+    ListCommuneResult = csv.writer(csvfile)
+    ListCommuneResult.writerow(["article", "ProblemeLocalisation ?"])
+    for com in list_localisation_out :
+        ListCommuneResult.writerow(com)
