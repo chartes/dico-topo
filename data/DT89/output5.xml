@@ -1243,7 +1243,7 @@
          <sm>Armance,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation><commune insee="10241" />
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
             <commune insee="10241">Meix-Robert</commune>
          </localisation> (Aube) et se jette dans l'Armançon à <localisation><commune insee="89345">Saint-Florentin</commune></localisation>.</definition>
       <forme_ancienne>— <i>Esmantia,</i> 
@@ -1267,7 +1267,7 @@
          <sm>Armançon,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation><commune insee="21153" />
+         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>
             <commune insee="21153">Châtellenot</commune>
          </localisation> (Côte-d'Or), trav. l'<localisation>arrondissement de <commune insee="89418" precision="approximatif">Tonnerre</commune></localisation> et une partie de ceux <localisation>d'Auxerre et de Joigny</localisation> et se jette dans l'Yonne à <localisation><commune insee="89099" precision="certain">Cheny</commune></localisation>.</definition>
       <forme_ancienne>— <i>Hermentaria,</i> 
@@ -1803,7 +1803,7 @@
          <sm>Aussenot,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="58249" />
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
             <commune insee="58249">Saint-Léger-de-Foucherets</commune>
          </localisation> et se jette dans le Trinquelin.</definition>
       <forme_ancienne>— <i>Ausum fluviolum,</i> 
@@ -5544,7 +5544,7 @@
       </vedette>
         <definition>
          <date>1491</date>, <typologie>fief entouré de fossés</typologie> ; situé sur la
-            justice de <localisation><commune insee="89382" />
+            justice de <localisation>
             <commune insee="89382">Seignelay</commune>
          </localisation>, dont il relevait (<reference>Masle,
                 notaire ; arch. de l'Yonne)</reference>.</definition>
@@ -9387,7 +9387,7 @@
          <sm>Buisson-Goudeau,</sm>
       </vedette>
       <definition>
-         <date>1697</date>. <typologie>Fief</typologie> dépendant de la terre de <localisation><commune insee="89304" />
+         <date>1697</date>. <typologie>Fief</typologie> dépendant de la terre de <localisation>
             <commune insee="89304">Poilly-près-Aillant</commune>
          </localisation> (<reference>prieuré de
     Vieupou)</reference>.</definition>
@@ -11722,7 +11722,7 @@
          <sm>Champ-Millier,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="21247" />
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
             <commune insee="21247">Époisses</commune>
          </localisation> (Côte-d'Or) et se jette dans le <localisation>ruisseau de Perrigny</localisation>, <localisation>commune de <commune insee="89197" precision="certain">Guillon</commune></localisation>.</definition>
    </article>
@@ -12507,7 +12507,7 @@
          <sm>Charency,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> prend sa source à <localisation><commune insee="58230" />
+         <typologie>ruisseau</typologie> prend sa source à <localisation>
             <commune insee="58230">Charency</commune>
          </localisation> (Nièvre) et se jette dans la Cure, <localisation>commune de <commune insee="89297" precision="certain">Pierre-Pertuis</commune></localisation>.</definition>
    </article>
@@ -14525,7 +14525,7 @@
       </vedette>
         <definition>
          <typologie>château</typologie> existant autrefois sur la paroisse de
-            <localisation><commune insee="89324" />
+            <localisation>
             <commune insee="89324">Saint-Eusoge</commune>
          </localisation>, auj. détruit <reference>(Annuaire de l'Yonne,
                 1862 ; notice sur la Puisaye, par B. Duranton, p. 116)</reference>.</definition>
@@ -17524,7 +17524,7 @@
          <sm>Cousin,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source aux <localisation><commune insee="89134" />
+         <typologie>ruisseau</typologie> qui prend sa source aux <localisation>
             <commune insee="89134">Ponts-de-Cussy</commune>
          </localisation> (Yonne) et se jette dans la Cure à <localisation><commune insee="89044" precision="certain">Blannay</commune></localisation>.</definition>
       <forme_ancienne>— <i>Cosa,</i> 
@@ -22267,7 +22267,7 @@
       <vedette>
          <sm>Fontaines (Ru des),</sm>
       </vedette>
-      <definition>prend sa source à <localisation><commune insee="89055" />
+      <definition>prend sa source à <localisation>
             <commune insee="89055">Brienon</commune>
          </localisation> et se jette dans l'Armançon au même lieu.</definition>
    </article>
@@ -32532,7 +32532,7 @@
          <sm>Marchais-Ralu (Le),</sm> dit <sm>du Saussoy,</sm>
       </vedette>
       <definition>
-         <typologie>hameau</typologie> de <localisation><commune insee="89066" />
+         <typologie>hameau</typologie> de <localisation>
             <commune insee="89066">Cerisiers</commune>
          </localisation>.</definition>
       <forme_ancienne>— <i>Marchais-Rallus,</i> 
@@ -33505,7 +33505,7 @@
          <sm>Mauvotte,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source dans les fossés de l'ancien château de Voisines et se jette dans l'Yonne à <localisation><commune insee="89342" />
+         <typologie>ruisseau</typologie> qui prend sa source dans les fossés de l'ancien château de Voisines et se jette dans l'Yonne à <localisation>
             <commune insee="89342">Saint-Denis</commune>
          </localisation>.</definition>
       <forme_ancienne>— <i>Malvetum,</i> 
@@ -38578,7 +38578,7 @@
       <vedette>
          <sm>Noue (Ruisseau de la)</sm> ou <sm>des Touches,</sm>
       </vedette>
-      <definition>prend sa source à <localisation><commune insee="89022" />
+      <definition>prend sa source à <localisation>
             <commune insee="89022">Athies</commune>
          </localisation> et se jette dans le Serain à <localisation><commune insee="89008" precision="certain">Angely</commune></localisation>.</definition>
    </article>
@@ -42635,7 +42635,7 @@
       <vedette>
          <sm>Pré-au-Comte (Ruisseau du),</sm>
       </vedette>
-      <definition>prend sa source à <localisation><commune insee="58249" />
+      <definition>prend sa source à <localisation>
             <commune insee="58249">Saint-Léger-de-Foucherets</commune>
          </localisation> et se jette dans le Trinquelin, même territoire.</definition>
    </article>
@@ -44771,7 +44771,7 @@
          <sm>Riot</sm> ou <sm>Ravillon,</sm>
       </vedette>
       <definition>
-         <typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="89083" />
+         <typologie>ruisseau</typologie> qui prend sa source à <localisation>
             <commune insee="89083">Charbuy</commune>
          </localisation> et se jette dans l'Yonne à <localisation><commune insee="89067" precision="certain">Cesy</commune></localisation>, rive gauche.</definition>
    </article>
@@ -47247,7 +47247,7 @@
       <vedette>
          <sm>Saint-Germain (Château de),</sm>
       </vedette>
-      <definition>à <localisation><commune insee="89024" />
+      <definition>à <localisation>
             <commune insee="89024">Auxerre</commune>
          </localisation>, <date>1188</date> 
          <reference>(cart. gén. de l'Yonne, II, 386)</reference>.</definition>
@@ -47732,7 +47732,7 @@
          <sm>Saint-Martin,</sm>
       </vedette>
       <definition>
-         <typologie>faubourg</typologie> d'<localisation><commune insee="89025" />
+         <typologie>faubourg</typologie> d'<localisation>
             <commune insee="89025">Avallon</commune>
          </localisation>.</definition>
       <commentaire>
@@ -48748,7 +48748,7 @@
          <sm>Salles (Les),</sm>
       </vedette>
       <definition>
-         <typologie>anc. château</typologie> royal à <localisation><commune insee="89464" />
+         <typologie>anc. château</typologie> royal à <localisation>
             <commune insee="89464">Villeneuve-le-Roi</commune>
          </localisation>.</definition>
    </article>
@@ -50017,7 +50017,7 @@
          <sm>Serain,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation><commune insee="21560" />
+         <typologie>rivière</typologie> affluent de l'Yonne, rive droite, prend sa source à <localisation>
             <commune insee="21560">Saint-Martin-de-la-Mer</commune>
          </localisation> (Côte-d'Or), arrose une partie des <localisation>arrondissement d’Avallon, de Tonnerre et d’Auxerre</localisation> et se jette dans l'Yonne à <localisation><commune insee="89050" precision="certain">Bonnard</commune></localisation>.</definition>
       <forme_ancienne>— <i>Sedena,</i> 
@@ -53974,7 +53974,7 @@
          <sm>Vanne,</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie> qui prend sa source à <localisation><commune insee="10156" />
+         <typologie>rivière</typologie> qui prend sa source à <localisation>
             <commune insee="10156">Fontvanne</commune>
          </localisation> (Aube) et se jette dans l'Yonne à <localisation><commune insee="89387">Sens</commune></localisation>, après un parcours de 42,075 mètres dans l'<localisation>arrondissement de <commune insee="89387" precision="approximatif">Sens</commune></localisation>.</definition>
       <forme_ancienne>— <i>Venna,</i> 
@@ -55514,7 +55514,7 @@
          <sm>Vernade (La),</sm>
       </vedette>
       <definition>
-         <typologie>fief</typologie> situé à <localisation><commune insee="89387" />
+         <typologie>fief</typologie> situé à <localisation>
             <commune insee="89387">Sens</commune>
          </localisation>, et relev. de l'archev. <date>fin du <sm>xvi</sm>
             <sup>e</sup> siècle</date> (f. archev.).</definition>
