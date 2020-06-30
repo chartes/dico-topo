@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "02"
+dep = "01"
 
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
@@ -24,9 +24,11 @@ for article in tree.xpath("article"):
 #Vérifier que le nombre de charactère d'un label soit inférieur à 30
 count_long_vedette_in = 0
 count_long_vedette_out = 0
-for article in tree_original.xpath("//vedette//sm"):
-    if len(article.text) > 31:
-        count_long_vedette_in += 1
+for article in tree_original.xpath("//article"):
+    for com in article.xpath(".//vedette//sm"):
+        if len(etree.tostring(com, method="text", encoding=str)) > 31:
+            print("in : " + article.get('id')+ " " + com.text)
+            count_long_vedette_in += 1
 for article in tree.xpath("//article"):
     for com in article.xpath(".//vedette//sm"):
         if len(etree.tostring(com, method="text", encoding=str)) > 31:
@@ -144,17 +146,26 @@ for article in tree.xpath("//article"):
 count_localisation_ok = 0
 list_localisation_in = []
 list_localisation_out =[]
-for article in tree_original.xpath("//localisation"):
-    list_localisation_in.append(etree.tostring(article, method="text", encoding=str).replace("’","'").replace("\n",""))
+dict_localisation_in = {}
+for article in tree_original.xpath("//article"):
+    count_loc = 0
+    for loc in article.xpath(".//localisation"):
+        count_loc += 1
+        dict_localisation_in[article.get('id')+"-"+str(count_loc)] = etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")
+        list_localisation_in.append([article.get('id')+"-"+str(count_loc),etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")])
 
+print(dict_localisation_in)
 
 for article in tree.xpath("//article"):
+    count_loc = 0
     for loc in article.xpath(".//localisation"):
-        if etree.tostring(loc, method="text", encoding=str).replace("\n","").replace("’","'") in list_localisation_in:
+        count_loc += 1
+        if etree.tostring(loc, method="text", encoding=str).replace("\n","").replace("’","'") == dict_localisation_in[article.get('id')+"-"+str(count_loc)]:
             continue
         else:
             count_localisation_ok += 1
-            list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str)])
+            list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str), dict_localisation_in[article.get('id')+"-"+str(count_loc)]])
+
 print(count_localisation_ok)
 
 #Créer un fichier csv avec les différents résultats
