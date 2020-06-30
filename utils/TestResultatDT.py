@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "01"
+dep = "02"
 
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
@@ -31,7 +31,7 @@ for article in tree.xpath("//article"):
     for com in article.xpath(".//vedette//sm"):
         if len(etree.tostring(com, method="text", encoding=str)) > 31:
             count_long_vedette_out += 1
-            print("out:" + article.get('id') + " " + com.text)
+            print("out:" + article.get('id') + " " + etree.tostring(com, method="text", encoding=str))
 
 #Compte le nombre de vedette
 count_vedette_in = 0
@@ -145,12 +145,12 @@ count_localisation_ok = 0
 list_localisation_in = []
 list_localisation_out =[]
 for article in tree_original.xpath("//localisation"):
-    list_localisation_in.append(etree.tostring(article, method="text", encoding=str).replace("'","’"))
+    list_localisation_in.append(etree.tostring(article, method="text", encoding=str).replace("’","'").replace("\n",""))
 
 
 for article in tree.xpath("//article"):
     for loc in article.xpath(".//localisation"):
-        if etree.tostring(loc, method="text", encoding=str) in list_localisation_in:
+        if etree.tostring(loc, method="text", encoding=str).replace("\n","").replace("’","'") in list_localisation_in:
             continue
         else:
             count_localisation_ok += 1
