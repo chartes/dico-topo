@@ -154,7 +154,7 @@ for article in tree_original.xpath("//article"):
         dict_localisation_in[article.get('id')+"-"+str(count_loc)] = etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")
         list_localisation_in.append([article.get('id')+"-"+str(count_loc),etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")])
 
-print(dict_localisation_in)
+#print(dict_localisation_in)
 
 for article in tree.xpath("//article"):
     count_loc = 0
