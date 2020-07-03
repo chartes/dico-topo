@@ -13,6 +13,13 @@ file_result = "out/DT"+dep+"_result.csv"
 tree_original = etree.parse(file_in)
 tree = etree.parse(file_out)
 
+"""
+# sortir les alt labels
+for vedette in tree.xpath("//vedette[.//sm[position() > 1]]"):
+    print(etree.tostring(vedette, method="xml", encoding=str))
+exit()
+"""
+
 #compte le nombre d'article dans le fichier xml
 count_article_in = 0
 count_article_out = 0
