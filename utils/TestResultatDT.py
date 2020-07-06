@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "01"
+dep = "07"
 
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
@@ -161,8 +161,6 @@ for article in tree_original.xpath("//article"):
         dict_localisation_in[article.get('id')+"-"+str(count_loc)] = etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")
         list_localisation_in.append([article.get('id')+"-"+str(count_loc),etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")])
 
-#print(dict_localisation_in)
-
 for article in tree.xpath("//article"):
     count_loc = 0
     for loc in article.xpath(".//localisation"):
@@ -173,7 +171,20 @@ for article in tree.xpath("//article"):
             count_localisation_ok += 1
             list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str), dict_localisation_in[article.get('id')+"-"+str(count_loc)]])
 
-print(count_localisation_ok)
+count_sup_out = 0
+#Controle que les vedettes  ne contiennet pas St ou S<sup>t
+for article in tree.xpath("//article"):
+    count_sup_out += 1
+    for sup in article.xpath(".//sm/sup"):
+        if "t" in sup.text :
+            print("problème de sup: ",article.get('id'))
+    for su in article.xpath(".//sm"):
+        if "St-" in etree.tostring(su, method="text", encoding=str):
+            print("problème ST : ", article.get("id"))
+        elif "St " in etree.tostring(su, method="text", encoding=str):
+            print("problème ST : ", article.get("id"))
+
+
 
 #Créer un fichier csv avec les différents résultats
 with open(file_result, "w") as csvfile:
