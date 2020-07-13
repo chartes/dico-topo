@@ -2,11 +2,11 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "07"
+dep = "05"
 
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
-file_out = dir_path+"DT"+dep+"/output5.xml"
+file_out = dir_path+"DT"+dep+"/output6.xml"
 file_result = "out/DT"+dep+"_result.csv"
 
 
@@ -151,25 +151,25 @@ for article in tree.xpath("//article"):
             print("out:" + article.get('id') + etree.tostring(com, method="text", encoding=str))
 #Controle que les valeurs de localisation sont identiques
 count_localisation_ok = 0
-list_localisation_in = []
+dict_localisation_in_affichage = {}
 list_localisation_out =[]
 dict_localisation_in = {}
 for article in tree_original.xpath("//article"):
     count_loc = 0
     for loc in article.xpath(".//localisation"):
         count_loc += 1
-        dict_localisation_in[article.get('id')+"-"+str(count_loc)] = etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")
-        list_localisation_in.append([article.get('id')+"-"+str(count_loc),etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","")])
+        dict_localisation_in[article.get('id')+"-"+str(count_loc)] = "".join(etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","").split())
+        dict_localisation_in_affichage[article.get('id')+"-"+str(count_loc)] = "".join(etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n",""))
 
 for article in tree.xpath("//article"):
     count_loc = 0
     for loc in article.xpath(".//localisation"):
         count_loc += 1
-        if etree.tostring(loc, method="text", encoding=str).replace("\n","").replace("’","'") == dict_localisation_in[article.get('id')+"-"+str(count_loc)]:
+        if "".join(etree.tostring(loc, method="text", encoding=str).replace("’","'").replace("\n","").split()) == dict_localisation_in[article.get('id')+"-"+str(count_loc)]:
             continue
         else:
             count_localisation_ok += 1
-            list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str), dict_localisation_in[article.get('id')+"-"+str(count_loc)]])
+            list_localisation_out.append([article.get('id'),etree.tostring(loc, method="text", encoding=str), dict_localisation_in_affichage[article.get('id')+"-"+str(count_loc)]])
 
 count_sup_out = 0
 #Controle que les vedettes  ne contiennet pas St ou S<sup>t
