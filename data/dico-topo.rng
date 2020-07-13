@@ -51,6 +51,9 @@
     <a:documentation>Un article du dictionnaire</a:documentation>
     <element name="article">
       <ref name="article.atts"/>
+      <optional>
+        <ref name="pg"/>
+      </optional>
       <ref name="vedette"/>
       <!-- certaines entrées n’ont pas de définition… souhaitable ? -> CB: Certains articles ne peuvent pas avoir de définition, comme par exemple les articles servant de renvoi. Là où ça pose problème, c'est lorsque les informations qui devraient être dans <definition> se trouvent dans un <commentaire> à la place. -->
       <optional>
@@ -98,9 +101,6 @@
     <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -> CB: Le plus souvent, c'est le premier <sm> qui compte, le second étant une variante, mais parfois il peut s'agir d'adjectifs qualifiant le toponyme, par exemple "Le Grand" dans le premier <sm>, et "Le Petit", dans le second <sm>. Si on ne veut avoir qu'une seule forme par article, il faudrait créer deux articles à chaque fois. C'est déjà parfois le cas (et on trouve alors quand même les deux possibilités dans deux <sm>. -->
     <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -> CB : on peut toujours corriger, mais la ponctuation avait été prise en compte dans les scripts pour le moteur de recherche du site Internet. -->
     <element name="vedette">
-      <optional>
-        <ref name="pg"/>
-      </optional>
       <oneOrMore>
         <choice>
           <text/>
