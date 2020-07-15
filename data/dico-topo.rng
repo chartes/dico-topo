@@ -5,12 +5,7 @@
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
   xml:lang="fr">
   <a:documentation>Dico-Topo</a:documentation>
-  <!-- TODO: définir un pattern flow pour les enrichissements typo : i peut contenir sup, sm etc. -->
   <!--
-    Les effectifs, indicatifs, sont ceux du DT01
-    DICTIONNAIRE : 1
-    article : 11268
-    vedette : 11268
     pg : 473
     sm : 13849
     definition : 11186
@@ -55,11 +50,11 @@
         <ref name="pg"/>
       </optional>
       <ref name="vedette"/>
-      <!-- certaines entrées n’ont pas de définition… souhaitable ? -> CB: Certains articles ne peuvent pas avoir de définition, comme par exemple les articles servant de renvoi. Là où ça pose problème, c'est lorsque les informations qui devraient être dans <definition> se trouvent dans un <commentaire> à la place. -->
+      <!-- quelques rares articles sans définition (essentiellement des renvois) -->
       <optional>
         <ref name="definition"/>
       </optional>
-      <!-- ordre et hiérarchie entre commentaire et forme_ancienne est à revoir sans doute dans les fichiers… pattern pour validation, mais à reprendre -> CB: Il n'y a pas d'ordre possible entre les deux car il peut y avoir une alternance. En effet, dans une liste de formes anciennes, chaque forme ancienne peut être suivie de son propre commentaire  -->
+      <!-- imbrication possible des formes anciennes et des commentaires  -->
       <optional>
         <oneOrMore>
           <choice>
@@ -97,12 +92,11 @@
     </optional>
   </define>
   <define name="vedette">
-    <a:documentation>Vedette(s) d’un article. Contient le label du toponyme</a:documentation>
-    <!-- parfois plusieurs formes pour une entrée… on fait quoi ? -> CB: Le plus souvent, c'est le premier <sm> qui compte, le second étant une variante, mais parfois il peut s'agir d'adjectifs qualifiant le toponyme, par exemple "Le Grand" dans le premier <sm>, et "Le Petit", dans le second <sm>. Si on ne veut avoir qu'une seule forme par article, il faudrait créer deux articles à chaque fois. C'est déjà parfois le cas (et on trouve alors quand même les deux possibilités dans deux <sm>. -->
-    <!-- pas de text() (on n’utilise pas le pattern flow) ; problème de la ponctuation dans <sm> => on corrige ? -> CB : on peut toujours corriger, mais la ponctuation avait été prise en compte dans les scripts pour le moteur de recherche du site Internet. -->
+    <a:documentation>Vedette(s) d’un article. Contient le label du toponyme et ses éventuelles formes alternatives</a:documentation>
     <element name="vedette">
       <oneOrMore>
         <choice>
+          <!-- la ponctuation se balade… -->
           <text/>
           <ref name="sm"/>
           <ref name="i"/>
@@ -116,12 +110,13 @@
       <zeroOrMore>
         <choice>
           <text/>
-          <ref name="date"/>
-          <ref name="localisation"/>
           <ref name="typologie"/>
+          <ref name="localisation"/>
           <ref name="sup"/>
+          <ref name="i"/>
           <ref name="pg"/>
-          <!-- TYPOLOGIE : on ne souhaite pas rendre obligatoire ? -> CB: il n'y a pas toujours de typologie (ex: "nom primitif de Dompierre-de-Chalamont" / "nom que l'on donne parfois aux communes réunies du Grand et du Petit-Abergement" / nom probablement ibère de la Saône). Par ailleurs, il peut y avoir plusieurs <typologie> dans <definition>, donc il faut le mettre avec les autres dans <choice>. Il peut également ne pas y avoir de <typologie> ou de <localisation>. -->
+          <!-- Plus rare. On conserve pour transformation HTML ? -->
+          <ref name="date"/>
           <ref name="reference"/>
         </choice>
       </zeroOrMore>
@@ -142,34 +137,19 @@
   <define name="commune">
     <a:documentation>Identifie la commune présente dans l'élément localisation</a:documentation>
     <element name="commune">
-      <attribute name="precision">
-        <choice>
-          <value>certain</value>
-          <a:documentation>certain : le toponyme est localisé avec certitude dans la commune</a:documentation>
-          <value>approximatif</value>
-          <a:documentation>approximatif : le toponyme est localisé de manière plus floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
-        </choice>
-      </attribute>
       <attribute name="insee">
+        <!-- obligatoire suite aux enrichissements CF -->
         <a:documentation>Code INSEE de la commune dans laquelle se trouve le toponyme</a:documentation>
-        <!-- TMP (très moche) pour OC qui souhaite exploiter les erreurs générées par JP: TODO rétablir le datatype -->
-        <!-- <data type="integer"/> -->
-        <choice>
-          <data type="integer"/>
-          <value>article_not_found</value>
-          <a:documentation>le renvoi ne correspond à aucune vedette</a:documentation>
-          <value>commune_is_empty</value>
-          <a:documentation>la balise commune est vide</a:documentation>
-          <value>insee_not_found</value>
-          <a:documentation>la vedette n’a pas de code insee</a:documentation>
-          <value>too_many_insee_codes</value>
-          <a:documentation>localisation correspondant à plusieurs vedettes</a:documentation>
-        </choice>
+        <data type="integer"/>
       </attribute>
-      <optional><!-- TMP -> rendre obligatoire après enrichissement -->
-        <attribute name="ref">
-          <a:documentation>Référence à l'id de la commune de rattachement</a:documentation>
-          <data type="ID"/>
+      <optional>
+        <attribute name="precision">
+          <choice>
+            <value>certain</value>
+            <a:documentation>certain : le lieu est localisé dans la commune</a:documentation>
+            <value>approximatif</value>
+            <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
+          </choice>
         </attribute>
       </optional>
       <text/>
@@ -177,10 +157,8 @@
   </define>
   <define name="forme_ancienne">
     <a:documentation>Une (unique) forme ancienne datée et référencée. Contenu semi-structuré</a:documentation>
-    <!-- CB: Il peut y a très souvent plusieurs formes anciennes dans <forme_ancienne>, elles sont identifiables grâce à la balise <i>. Il peut s'agir de précisions sur la forme ancienne, de compléments, d'une variable. Mais ces différents <i> ne peuvent pas être sortis de <forme_ancienne> car ils sont liés, et proviennent d'une même source. Ils font sens ensemble. -->
-    <!-- TODO: déterminer si on peut structurer plus rigoureusement (cf puces, ponctuation très flottante…) -> CB : Dans l'ensemble, les formes anciennes commencent toujours par un tiret et se terminent par un point. La seule exception, on la trouve avec les balises <forme_ancienne2>, qu'il faudrait transformer en profondeur car ce sont des formes anciennes insérées dans des phrases. Elles ne sont donc pas structurées de la meme manière. -->
-    <!-- problème de la relation date / référence: 1 référence pour 1 date ? -> CB: Dans la majorité des cas oui, mais il peut parfois y avoir deux dates pour une référence (lorsqu'il y a un doute par exemple). D'abord la date, puis la référence. -->
-    <!-- Y’a du boulot de restructuration ! Le pattern est devrait être beaucoup plus restrictif -->
+    <!-- Le(s) label(s) de la forme ancienne à proprement parler est(sont) inscrit(s) dans <i>. -->
+    <!-- Parfois plusieurs dates pour une forme ancienne (si doute ou plusieurs occurrences -->
     <element name="forme_ancienne">
       <oneOrMore>
         <choice>
@@ -196,7 +174,6 @@
   <define name="reference">
     <a:documentation>La référence d’une forme ancienne</a:documentation>
     <element name="reference">
-      <!-- du contenu mixed ? souhaitable ? -> CB: les balises du flow ne sont là que pour retranscrire la typographie du dictionnaire papier. Ils sont utiles pour la version HTML du dictionnaire sur le site internet, mais ne sont pas nécessaire pour l'information contenue. L'idéal serait bien sûr de n'avoir que le texte de la référence. -->
       <oneOrMore>
         <choice>
           <text/>
