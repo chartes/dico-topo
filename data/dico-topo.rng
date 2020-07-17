@@ -237,7 +237,6 @@
           <text/>
           <ref name="sm"/>
           <ref name="sup"/>
-          <ref name="pg"/>
         </choice>
       </oneOrMore>
     </element>
