@@ -6,8 +6,8 @@
 -->
 <DICTIONNAIRE dep="05" departement="Hautes-Alpes">
   <article id="DT05-00001" pg="1">
+     <pg>1</pg>
       <vedette>
-         <pg>1</pg>
          <sm>Abadons (Les),</sm>
       </vedette>
       <definition>
@@ -281,8 +281,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05135" precision="certain">Sainte-Colombe</commune></localisation>.</definition>
   </article>
   <article id="DT05-00030" pg="2">
+     <pg>2</pg>
       <vedette>
-         <pg>2</pg>
          <sm>Adrech (L'),</sm>
       </vedette>
       <definition>
@@ -798,8 +798,8 @@
          <typologie>bois et montagne</typologie>, <localisation>communes d'<commune insee="05008" precision="certain">Aspremont</commune>, de la <commune insee="05102" precision="certain">Piarre</commune> et de <commune insee="05167" precision="certain">Sigottier</commune></localisation>.</definition>
   </article>
   <article id="DT05-00082" pg="3">
+     <pg>3</pg>
       <vedette>
-         <pg>3</pg>
          <sm>Aiguille (L'),</sm>
       </vedette>
       <definition>
@@ -1360,8 +1360,8 @@
          <typologie>chalet</typologie>, <localisation>commune de <commune insee="05027" precision="certain">Cervières</commune></localisation>.</definition>
   </article>
   <article id="DT05-00146" pg="4">
-      <vedette>
-         <pg>4</pg>
+     <pg>4</pg> 
+     <vedette>
          <sm>Alp-d'en-haut (L'),</sm>
       </vedette>
       <definition>
@@ -2332,8 +2332,8 @@
          <typologie>ferme</typologie>, <localisation>commune d’<commune insee="05004" precision="certain">Ancelle</commune></localisation>.</definition>
   </article>
   <article id="DT05-00250" pg="6">
-      <vedette>
-         <pg>6</pg>
+     <pg>6</pg> 
+     <vedette>
          <sm>Artaud,</sm>
       </vedette>
       <definition>
@@ -3302,8 +3302,8 @@
          <reference>(Is. rec. Bri.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-00339" pg="8">
-      <vedette>
-         <pg>8</pg>
+     <pg>8</pg> 
+     <vedette>
          <sm>Aval (L'),</sm>
       </vedette>
       <definition>
@@ -4339,8 +4339,8 @@
          <typologie>moulin</typologie>, <localisation>commune de la <commune insee="05161" precision="certain">Salle</commune></localisation>.</definition>
   </article>
   <article id="DT05-00452" pg="10">
-      <vedette>
-         <pg>10</pg>
+     <pg>10</pg> 
+     <vedette>
          <sm>Baronne (La),</sm>
       </vedette>
       <definition>
@@ -4823,8 +4823,8 @@
          <typologie>torrent</typologie>, <localisation>commune de <commune insee="05120" precision="certain">Ristolas</commune></localisation>, affluent du Guil.</definition>
   </article>
   <article id="DT05-00508" pg="11">
-      <vedette>
-         <pg>11</pg>
+     <pg>11</pg> 
+     <vedette>
          <sm>Batailler,</sm>
       </vedette>
       <definition>
@@ -5670,8 +5670,8 @@
          <typologie>lac</typologie>, <localisation>commune de <commune insee="05156" precision="certain">Saint-Sauveur</commune></localisation>.</definition>
   </article>
   <article id="DT05-00589" pg="13">
-      <vedette>
-         <pg>13</pg>
+     <pg>13</pg> 
+     <vedette>
          <sm>Beau-Château,</sm>
       </vedette>
       <definition>
@@ -6088,7 +6088,7 @@
       <definition>
          <typologie>Ancien mandement</typologie> comprenant <localisation>
             Corps
-         </localisation>, <localisation>la Salette</localisation>, etc., actuellement dans l'Isère, et <localisation><commune insee="05009" precision="certaine">Aspres-les-Corps</commune></localisation> qui fait partie du département des Hautes-Alpes.</definition>
+         </localisation>, <localisation>la Salette</localisation>, etc., actuellement dans l'Isère, et <localisation><commune insee="05009" precision="certain">Aspres-les-Corps</commune></localisation> qui fait partie du département des Hautes-Alpes.</definition>
       <forme_ancienne>— <i>Patria Bellimontis,</i> 
          <date>1475</date> 
          <reference>(Vaccarone, p. 68)</reference>.</forme_ancienne>
@@ -6691,8 +6691,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05134" precision="certain">Saint-Clément</commune></localisation>.</definition>
   </article>
   <article id="DT05-00691" pg="15">
-      <vedette>
-         <pg>15</pg>
+     <pg>15</pg> 
+     <vedette>
          <sm>Belregard,</sm>
       </vedette>
       <definition>
@@ -7215,8 +7215,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05164" precision="certain">Savines</commune></localisation>.</definition>
   </article>
   <article id="DT05-00743" pg="16">
-      <vedette>
-         <pg>16</pg>
+     <pg>16</pg> 
+     <vedette>
          <sm>Berthon,</sm>
       </vedette>
       <definition>
@@ -7523,7 +7523,7 @@
          <sm>Biaysse (La),</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05058" precision="certain">Freyssinières</commune></localisation> et se jette dans la Durance, dans celle de <localisation><commune insee="05031" precision="certaine">Champcella</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05058" precision="certain">Freyssinières</commune></localisation> et se jette dans la Durance, dans celle de <localisation><commune insee="05031" precision="certain">Champcella</commune></localisation>.</definition>
       <forme_ancienne>— <i>Ripperia Biaychie,</i> 
          <date>1401</date> 
          <reference>(Is. B, 3,001)</reference>.</forme_ancienne>
@@ -7796,8 +7796,8 @@
          <typologie>ferme</typologie>, <localisation>commune de la <commune insee="05016" precision="certain">Bâtie-Mont-Saléon</commune></localisation>.</definition>
   </article>
   <article id="DT05-00809" pg="17">
-      <vedette>
-         <pg>17</pg>
+     <pg>17</pg> 
+     <vedette>
          <sm>Blache-Ronde (La),</sm>
       </vedette>
       <definition>
@@ -8392,8 +8392,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05035" precision="certain">Châteauneuf-d'Oze</commune></localisation>.</definition>
   </article>
   <article id="DT05-00886" pg="18">
-      <vedette>
-         <pg>18</pg>
+     <pg>18</pg> 
+     <vedette>
          <sm>Boisserate-Clote (La)</sm> [Le bosquet plat],</vedette>
       <definition>
          <typologie>bois</typologie>, <localisation>commune d’<commune insee="05003" precision="certain">Aiguilles</commune></localisation>.</definition>
@@ -9460,8 +9460,8 @@
          </localisation>.</definition>
   </article>
   <article id="DT05-01005" pg="20">
-      <vedette>
-         <pg>20</pg>
+     <pg>20</pg> 
+     <vedette>
          <sm>Bourgea (La),</sm>
       </vedette>
       <definition>
@@ -10503,8 +10503,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05160" precision="certain">Salérans</commune></localisation>.</definition>
   </article>
   <article id="DT05-01113" pg="22">
-      <vedette>
-         <pg>22</pg>
+     <pg>22</pg> 
+     <vedette>
          <sm>Brouas (Les),</sm>
       </vedette>
       <definition>
@@ -11469,8 +11469,8 @@
          <reference>(H.-A. terrier de Gap)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-01207" pg="24">
-      <vedette>
-         <pg>24</pg>
+     <pg>24</pg> 
+     <vedette>
          <sm>Cabane (La),</sm>
       </vedette>
       <definition>
@@ -12018,8 +12018,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05092" precision="certain">Neffes</commune></localisation>.</definition>
   </article>
   <article id="DT05-01273" pg="25">
-      <vedette>
-         <pg>25</pg>
+     <pg>25</pg> 
+     <vedette>
          <sm>Capucins (Les),</sm>
       </vedette>
       <definition>
@@ -12641,7 +12641,7 @@
          <sm>Céans,</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend naissance dans la <localisation>commune de <commune insee="26153" precision="certain">Laborel</commune></localisation> (Drôme), traverse celles d'<localisation><commune insee="05097" precision="certaine">Orpierre</commune></localisation>, de <localisation><commune insee="05135" precision="certaine">Sainte-Colombe</commune></localisation>, et se jette dans Blaisance <localisation>au-dessous de <commune insee="05069">Lagrand</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend naissance dans la <localisation>commune de <commune insee="26153" precision="certain">Laborel</commune></localisation> (Drôme), traverse celles d'<localisation><commune insee="05097" precision="certain">Orpierre</commune></localisation>, de <localisation><commune insee="05135" precision="certain">Sainte-Colombe</commune></localisation>, et se jette dans Blaisance <localisation>au-dessous de <commune insee="05069">Lagrand</commune></localisation>.</definition>
   </article>
   <article id="DT05-01352" pg="26">
       <vedette>
@@ -12870,7 +12870,7 @@
          <sm>Cerveyrette (La),</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05027" precision="certain">Cervières</commune></localisation> et se jette dans la Durance, dans celle de <localisation><commune insee="05023" precision="certaine">Briançon</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05027" precision="certain">Cervières</commune></localisation> et se jette dans la Durance, dans celle de <localisation><commune insee="05023" precision="certain">Briançon</commune></localisation>.</definition>
       <forme_ancienne>— <i>Aqua Cervarie,</i> 
          <date>1391</date> 
          <reference>(Is. rec. Bri.)</reference>.</forme_ancienne>
@@ -13128,8 +13128,8 @@
          <reference>(Is. rec. Bri.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-01400" pg="27">
-      <vedette>
-         <pg>27</pg>
+     <pg>27</pg> 
+     <vedette>
          <sm>Chabertouse (La) ?</sm>
       </vedette>
       <definition>
@@ -13609,8 +13609,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05153" precision="certain">Saint-Michel-de-Chaillol</commune></localisation>.</definition>
   </article>
   <article id="DT05-01444" pg="28">
-      <vedette>
-         <pg>28</pg>
+     <pg>28</pg> 
+     <vedette>
          <sm>Chaillol-le-Vieil,</sm>
       </vedette>
       <definition>
@@ -14154,8 +14154,8 @@
          <reference>(Saint-Chaffrey, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-01502" pg="29">
-      <vedette>
-         <pg>29</pg>
+     <pg>29</pg> 
+     <vedette>
          <sm>Champart,</sm>
       </vedette>
       <definition>
@@ -14704,8 +14704,8 @@
          <reference>(Saint-Laurent, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-01562" pg="30">
-      <vedette>
-         <pg>30</pg>
+     <pg>30</pg> 
+     <vedette>
          <sm>Champ-de-l'Hort (Le)</sm> [Champ du jardin],</vedette>
       <definition>
          <typologie>écart</typologie>, <localisation>commune de l'<commune insee="05006">Argentière</commune>
@@ -15293,8 +15293,8 @@
          </localisation>.</definition>
   </article>
   <article id="DT05-01638" pg="31">
-      <vedette>
-         <pg>31</pg>
+     <pg>31</pg> 
+     <vedette>
          <sm>Champ-la-Jaouta</sm> [Champ la joue],</vedette>
       <definition>
          <typologie>quartier</typologie>, <localisation>commune de <commune insee="05175" precision="certain">Vallouise</commune></localisation>.</definition>
@@ -15739,7 +15739,7 @@
          <sm>Champsaur (Le).</sm>
       </vedette>
       <definition>
-         <typologie>Ancien duché</typologie>, siège d'une châtellenie, qui comprenait les <localisation>cantons actuels d'<commune insee="05096" precision="approximatif">Orcières</commune>, de <commune insee="05132" precision="approximatif">Saint-Bonnet</commune></localisation> et partie de celui de <localisation><commune insee="05142" precision="certaine">Saint-Firmin</commune></localisation>.</definition>
+         <typologie>Ancien duché</typologie>, siège d'une châtellenie, qui comprenait les <localisation>cantons actuels d'<commune insee="05096" precision="approximatif">Orcières</commune>, de <commune insee="05132" precision="approximatif">Saint-Bonnet</commune></localisation> et partie de celui de <localisation><commune insee="05142" precision="certain">Saint-Firmin</commune></localisation>.</definition>
       <commentaire>
          <p>Il était divisé en Haut et Bas Champsaur ; le premier comprenait les mandements de Montorcier, de Faudon et de Chaillol ; le second, ceux du Buissard, de Terre d'Église, de la Motte et de Saint-Bonnet. Vingt et une paroisses du Champsaur furent érigées en <date>1611</date> en duché sous le titre de <i>duché de Lesdiguières</i> en faveur du maréchal de France de ce nom.</p>
       </commentaire>
@@ -16318,8 +16318,8 @@
          <typologie>montagne</typologie>, <localisation>commune d’<commune insee="05096" precision="certain">Orcières</commune></localisation>.</definition>
   </article>
   <article id="DT05-01747" pg="33">
-      <vedette>
-         <pg>33</pg>
+     <pg>33</pg> 
+     <vedette>
          <sm>Chapelain (Le),</sm>
       </vedette>
       <definition>
@@ -17380,8 +17380,8 @@
          <reference>(Is. châtel.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-01863" pg="35">
-      <vedette>
-         <pg>35</pg>
+     <pg>35</pg> 
+     <vedette>
          <sm>Chasiellart (Le),</sm>
       </vedette>
       <definition>
@@ -20401,8 +20401,8 @@
          <reference>(Chorges, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-02153" pg="41">
-      <vedette>
-         <pg>41</pg>
+     <pg>41</pg> 
+     <vedette>
          <sm>Claris (Les),</sm>
       </vedette>
       <definition>
@@ -20925,8 +20925,8 @@
          <typologie>lac</typologie>, <localisation>commune de <commune insee="05120" precision="certain">Ristolas</commune></localisation>.</definition>
   </article>
   <article id="DT05-02214" pg="42">
-      <vedette>
-         <pg>42</pg>
+     <pg>42</pg> 
+     <vedette>
          <sm>Clotas (Le),</sm>
       </vedette>
       <definition>
@@ -21480,8 +21480,8 @@
          <reference>(Crottes, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-02282" pg="43">
-      <vedette>
-         <pg>43</pg>
+     <pg>43</pg> 
+     <vedette>
          <sm>Clot-Journier,</sm>
       </vedette>
       <definition>
@@ -22649,8 +22649,8 @@
          <reference>(Crottes, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-02418" pg="45">
-      <vedette>
-         <pg>45</pg>
+     <pg>45</pg> 
+     <vedette>
          <sm>Collet (Le),</sm>
       </vedette>
       <definition>
@@ -23198,8 +23198,8 @@
          <reference>(H.-A. Durb.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-02479" pg="46">
-      <vedette>
-         <pg>46</pg>
+     <pg>46</pg> 
+     <vedette>
          <sm>Combe (La),</sm>
       </vedette>
       <definition>
@@ -23779,8 +23779,8 @@
          <typologie>chalet</typologie>, <localisation>commune du <commune insee="05181" precision="certain">Villard-d'Arène</commune></localisation>.</definition>
   </article>
   <article id="DT05-02544" pg="47">
-      <vedette>
-         <pg>47</pg>
+     <pg>47</pg> 
+     <vedette>
          <sm>Combe-de-Chérines (La),</sm>
       </vedette>
       <definition>
@@ -24301,8 +24301,8 @@
          <reference>(Saint-André, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-02605" pg="48">
-      <vedette>
-         <pg>48</pg>
+     <pg>48</pg> 
+     <vedette>
          <sm>Combes (Les),</sm>
       </vedette>
       <definition>
@@ -24907,8 +24907,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05128" precision="certain">Saint-André-d'Embrun</commune></localisation>.</definition>
   </article>
   <article id="DT05-02678" pg="49">
-      <vedette>
-         <pg>49</pg>
+     <pg>49</pg> 
+     <vedette>
          <sm>Cordeliers (Les),</sm>
       </vedette>
       <definition>
@@ -25485,8 +25485,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05068" precision="certain">Jarjayes</commune></localisation>.</definition>
   </article>
   <article id="DT05-02746" pg="50">
-      <vedette>
-         <pg>50</pg>
+     <pg>50</pg> 
+     <vedette>
          <sm>Costes (Les),</sm>
       </vedette>
       <definition>
@@ -26054,8 +26054,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05164" precision="certain">Savines</commune></localisation>.</definition>
   </article>
   <article id="DT05-02815" pg="51">
-      <vedette>
-         <pg>51</pg>
+     <pg>51</pg> 
+     <vedette>
          <sm>Cougnous (Les),</sm>
       </vedette>
       <definition>
@@ -29267,8 +29267,8 @@
          <typologie>torrent</typologie>, <localisation>commune de <commune insee="05132" precision="certain">Saint-Bonnet</commune></localisation>, affluent du Drac.</definition>
   </article>
   <article id="DT05-03176" pg="57">
-      <vedette>
-         <pg>57</pg>
+     <pg>57</pg> 
+     <vedette>
          <sm>Eau-d'Arvieux (L'),</sm>
       </vedette>
       <definition>
@@ -29661,7 +29661,7 @@
          <sm>Embrunais (L').</sm>
       </vedette>
       <definition>
-         <typologie>Ancien comté</typologie> comprenant les <localisation>cantons actuels de <commune insee="05065" precision="approximatif">Guillestre</commune>, d'<commune insee="05046" precision="approximatif">Embrun</commune>, de <commune insee="05164" precision="approximatif">Savines</commune>, de <commune insee="05040" precision="approximatif">Chorges</commune></localisation> et partie de ceux de l'<localisation><commune insee="05006" precision="certaine">Argentière</commune></localisation> et de la <localisation><commune insee="05017" precision="certaine">Batie-Neuve</commune></localisation>.</definition>
+         <typologie>Ancien comté</typologie> comprenant les <localisation>cantons actuels de <commune insee="05065" precision="approximatif">Guillestre</commune>, d'<commune insee="05046" precision="approximatif">Embrun</commune>, de <commune insee="05164" precision="approximatif">Savines</commune>, de <commune insee="05040" precision="approximatif">Chorges</commune></localisation> et partie de ceux de l'<localisation><commune insee="05006" precision="certain">Argentière</commune></localisation> et de la <localisation><commune insee="05017" precision="certain">Batie-Neuve</commune></localisation>.</definition>
       <forme_ancienne>— <i>Civitas Ebreduniens</i>[<i>is</i>] <reference>(Corpus inscript. V, p. 819)</reference>.</forme_ancienne>
       <forme_ancienne>— <i>Civitas Ebrodunensium</i> 
          <reference>(Not. Gall.)</reference>.</forme_ancienne>
@@ -29973,7 +29973,7 @@
          <sm>Épervier (L'),</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05061" precision="certain">Chaudun</commune></localisation> et se jette dans le Buëch, dans celle de la <localisation><commune insee="05123" precision="certaine">Roche-des-Arnauds</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05061" precision="certain">Chaudun</commune></localisation> et se jette dans le Buëch, dans celle de la <localisation><commune insee="05123" precision="certain">Roche-des-Arnauds</commune></localisation>.</definition>
       <forme_ancienne>— <i>Rivus Desparverius,</i> 
          <date>vers 1300</date> 
          <reference>(B.-du-Rhône. Malte, comm<sup>rie</sup> de Gap)</reference>.</forme_ancienne>
@@ -30211,8 +30211,8 @@
          <typologie>bois</typologie>, <localisation>commune d’<commune insee="05052" precision="certain">Eygliers</commune></localisation>.</definition>
   </article>
   <article id="DT05-03277" pg="59">
-      <vedette>
-         <pg>59</pg>
+     <pg>59</pg> 
+     <vedette>
          <sm>Escoyères (Les),</sm>
       </vedette>
       <definition>
@@ -30761,8 +30761,8 @@
          <reference>(Saint-Chaffrey, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-03334" pg="60">
-      <vedette>
-         <pg>60</pg>
+     <pg>60</pg> 
+     <vedette>
          <sm>Étroits (Les),</sm>
       </vedette>
       <definition>
@@ -31105,7 +31105,7 @@
          <sm>Eygues (L'),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, affluent du Rhône. Prend sa source dans la <localisation>commune de <commune insee="05086" precision="certain">Montjay</commune></localisation>, traverse celles de <localisation><commune insee="05169" precision="certaine">Sorbiers</commune></localisation>, de <localisation><commune insee="05129" precision="certaine">Saint-André-de-Rosans</commune></localisation>, et quitte le département dans celle de <localisation><commune insee="05126" precision="certaine">Rosans</commune></localisation>, au lieu dit <i>le bois de Briançon</i>.</definition>
+         <typologie>rivière</typologie>, affluent du Rhône. Prend sa source dans la <localisation>commune de <commune insee="05086" precision="certain">Montjay</commune></localisation>, traverse celles de <localisation><commune insee="05169" precision="certain">Sorbiers</commune></localisation>, de <localisation><commune insee="05129" precision="certain">Saint-André-de-Rosans</commune></localisation>, et quitte le département dans celle de <localisation><commune insee="05126" precision="certain">Rosans</commune></localisation>, au lieu dit <i>le bois de Briançon</i>.</definition>
       <forme_ancienne>— <i>Ripperia Ecaris,</i> 
          <date>1272</date> 
          <reference>(Inv. des Dauph. p. 252)</reference>.</forme_ancienne>
@@ -31277,8 +31277,8 @@
          <reference>(Briançon, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-03384" pg="61">
-      <vedette>
-         <pg>61</pg>
+     <pg>61</pg> 
+     <vedette>
          <sm>Eyrette (L'),</sm>
       </vedette>
       <definition>
@@ -31807,8 +31807,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05154" precision="certain">Saint-Pierre-d'Argençon</commune></localisation>.</definition>
   </article>
   <article id="DT05-03448" pg="62">
-      <vedette>
-         <pg>62</pg>
+     <pg>62</pg> 
+     <vedette>
          <sm>Fantin,</sm>
       </vedette>
       <definition>
@@ -32356,8 +32356,8 @@
          </localisation>.</definition>
   </article>
   <article id="DT05-03509" pg="63">
-      <vedette>
-         <pg>63</pg>
+     <pg>63</pg> 
+     <vedette>
          <sm>Favie (La),</sm>
       </vedette>
       <definition>
@@ -32959,8 +32959,8 @@
          <reference>(État-maj.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-03586" pg="64">
-      <vedette>
-         <pg>64</pg>
+     <pg>64</pg> 
+     <vedette>
          <sm>Fleurendon,</sm>
       </vedette>
       <definition>
@@ -33540,8 +33540,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05086" precision="certain">Montjay</commune></localisation>.</definition>
   </article>
   <article id="DT05-03656" pg="65">
-      <vedette>
-         <pg>65</pg>
+     <pg>65</pg> 
+     <vedette>
          <sm>Font-du-Frène (La),</sm>
       </vedette>
       <definition>
@@ -34128,8 +34128,8 @@
          <typologie>lac</typologie>, <localisation>commune de <commune insee="05120" precision="certain">Ristolas</commune></localisation>.</definition>
   </article>
   <article id="DT05-03725" pg="66">
-      <vedette>
-         <pg>66</pg>
+     <pg>66</pg> 
+     <vedette>
          <sm>Forest (Le)</sm> [La cabane],</vedette>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune d’<commune insee="05002" precision="certain">Agnière</commune></localisation>.</definition>
@@ -34744,8 +34744,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05014" precision="certain">Barret-le-Bas</commune></localisation>.</definition>
   </article>
   <article id="DT05-03804" pg="67">
-      <vedette>
-         <pg>67</pg>
+     <pg>67</pg> 
+     <vedette>
          <sm>Forests (Les),</sm>
       </vedette>
       <definition>
@@ -35323,8 +35323,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05168" precision="certain">Sigoyer</commune></localisation>.</definition>
   </article>
   <article id="DT05-03874" pg="68">
-      <vedette>
-         <pg>68</pg>
+     <pg>68</pg> 
+     <vedette>
          <sm>Fourèze,</sm>
       </vedette>
       <definition>
@@ -36362,8 +36362,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05038" precision="certain">Château-Ville-Vieille</commune></localisation>.</definition>
   </article>
   <article id="DT05-03983" pg="70">
-      <vedette>
-         <pg>70</pg>
+     <pg>70</pg> 
+     <vedette>
          <sm>Gamma (Le),</sm>
       </vedette>
       <definition>
@@ -36817,8 +36817,8 @@
          <typologie>ferme</typologie>, <localisation>commune d’<commune insee="05050" precision="certain">Espinasses</commune></localisation>.</definition>
   </article>
   <article id="DT05-04020" pg="71">
-      <vedette>
-         <pg>71</pg>
+     <pg>71</pg> 
+     <vedette>
          <sm>Gardes (Les),</sm>
       </vedette>
       <definition>
@@ -38550,8 +38550,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05168" precision="certain">Sigoyer</commune></localisation>.</definition>
   </article>
   <article id="DT05-04230" pg="74">
-      <vedette>
-         <pg>74</pg>
+     <pg>74</pg> 
+     <vedette>
          <sm>Gorsse (La),</sm>
       </vedette>
       <definition>
@@ -39187,8 +39187,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05171" precision="certain">Théus</commune></localisation>.</definition>
   </article>
   <article id="DT05-04314" pg="75">
-      <vedette>
-         <pg>75</pg>
+     <pg>75</pg> 
+     <vedette>
          <sm>Grande-Pièce (La),</sm>
       </vedette>
       <definition>
@@ -39755,8 +39755,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05033" precision="certain">Chanousse</commune></localisation>.</definition>
   </article>
   <article id="DT05-04389" pg="76">
-      <vedette>
-         <pg>76</pg>
+     <pg>76</pg> 
+     <vedette>
          <sm>Grangeon (Le),</sm>
       </vedette>
       <definition>
@@ -40335,8 +40335,8 @@
          <reference>(Saint-Chaffrey, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-04458" pg="77">
-      <vedette>
-         <pg>77</pg>
+     <pg>77</pg> 
+     <vedette>
          <sm>Grenoble,</sm>
       </vedette>
       <definition>
@@ -40947,7 +40947,7 @@
          <sm>Guil (Le),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source dans la <localisation>commune de <commune insee="05120" precision="certain">Ristolas</commune></localisation> et se jette dans la Durance dans celle de <localisation><commune insee="05065" precision="certaine">Guillestre</commune></localisation>, <localisation>près de <commune insee="05082" precision="approximatif">Mont-Dauphin</commune></localisation>.</definition>
+         <typologie>rivière</typologie>, prend sa source dans la <localisation>commune de <commune insee="05120" precision="certain">Ristolas</commune></localisation> et se jette dans la Durance dans celle de <localisation><commune insee="05065" precision="certain">Guillestre</commune></localisation>, <localisation>près de <commune insee="05082" precision="approximatif">Mont-Dauphin</commune></localisation>.</definition>
       <forme_ancienne>— <i>Aqua Guillestre,</i> 
          <date>1290</date> 
          <reference>(Valb. II, p. 54)</reference>.</forme_ancienne>
@@ -41124,7 +41124,7 @@
          <sm>Guisane (La),</sm>
       </vedette>
       <definition>
-         <typologie>rivière</typologie>, prend sa source dans la <localisation>commune du <commune insee="05079" precision="certain">Monêtier-de-Briançon</commune></localisation> et se jette dans la Durance dans celle de <localisation><commune insee="05023" precision="certaine">Briançon</commune></localisation>, au pont de Sainte-Catherine.</definition>
+         <typologie>rivière</typologie>, prend sa source dans la <localisation>commune du <commune insee="05079" precision="certain">Monêtier-de-Briançon</commune></localisation> et se jette dans la Durance dans celle de <localisation><commune insee="05023" precision="certain">Briançon</commune></localisation>, au pont de Sainte-Catherine.</definition>
       <forme_ancienne>— <i>Aquisiana,</i> 
          <date>739</date> 
          <reference>(Cart. de Saint-Hugues, testament d'Abbon)</reference>.</forme_ancienne>
@@ -41309,8 +41309,8 @@
          <reference>(Is. B, 2,998)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-04565" pg="79">
-      <vedette>
-         <pg>79</pg>
+     <pg>79</pg> 
+     <vedette>
          <sm>Haut-Paitre (Le),</sm>
       </vedette>
       <definition>
@@ -41811,8 +41811,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05164" precision="certain">Savines</commune></localisation>.</definition>
   </article>
   <article id="DT05-04625" pg="80">
-      <vedette>
-         <pg>80</pg>
+     <pg>80</pg> 
+     <vedette>
          <sm>Huguenot (Chemin de l'),</sm>
       </vedette>
       <definition>
@@ -42294,8 +42294,8 @@
          <reference>(H.-A. terrier d'Orcières)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-04681" pg="81">
-      <vedette>
-         <pg>81</pg>
+     <pg>81</pg> 
+     <vedette>
          <sm>Issora (L'),</sm>
       </vedette>
       <definition>
@@ -42807,8 +42807,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05100" precision="certain">Pelleautier</commune></localisation>.</definition>
   </article>
   <article id="DT05-04743" pg="82">
-      <vedette>
-         <pg>82</pg>
+     <pg>82</pg> 
+     <vedette>
          <sm>Jean-Blanc,</sm>
       </vedette>
       <definition>
@@ -43368,8 +43368,8 @@
          <reference>(H.-A.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-04816" pg="83">
-      <vedette>
-         <pg>83</pg>
+     <pg>83</pg> 
+     <vedette>
          <sm>Labeauravour,</sm>
       </vedette>
       <definition>
@@ -43889,8 +43889,8 @@
          <reference>(Is. B, 2,998)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-04876" pg="84">
-      <vedette>
-         <pg>84</pg>
+     <pg>84</pg> 
+     <vedette>
          <sm>Langouste (La)</sm> [La sauterelle],</vedette>
       <definition>
          <typologie>ferme</typologie>, <localisation>commune des <commune insee="05045" precision="certain">Crottes</commune></localisation>.</definition>
@@ -44950,8 +44950,8 @@
          <typologie>écart</typologie>, <localisation>commune du <commune insee="05183" precision="certain">Villard-Saint-Pancrace</commune></localisation>.</definition>
   </article>
   <article id="DT05-04997" pg="86">
-      <vedette>
-         <pg>86</pg>
+     <pg>86</pg> 
+     <vedette>
          <sm>Lavé (Le),</sm>
       </vedette>
       <definition>
@@ -45464,8 +45464,8 @@
          <reference>(Cluny, III, n° 1784)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-05049" pg="87">
-      <vedette>
-         <pg>87</pg>
+     <pg>87</pg> 
+     <vedette>
          <sm>Lieutard,</sm>
       </vedette>
       <definition>
@@ -46005,8 +46005,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05126" precision="certain">Rosans</commune></localisation>.</definition>
   </article>
   <article id="DT05-05119" pg="88">
-      <vedette>
-         <pg>88</pg>
+     <pg>88</pg> 
+     <vedette>
          <sm>Macare,</sm>
       </vedette>
       <definition>
@@ -46504,8 +46504,8 @@
          <typologie>lac</typologie>, <localisation>commune de <commune insee="05027" precision="certain">Cervières</commune></localisation>.</definition>
   </article>
   <article id="DT05-05180" pg="89">
-      <vedette>
-         <pg>89</pg>
+     <pg>89</pg> 
+     <vedette>
          <sm>Major (Le),</sm>
       </vedette>
       <definition>
@@ -46981,8 +46981,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05114" precision="certain">Réalon</commune></localisation>.</definition>
   </article>
   <article id="DT05-05228" pg="90">
-      <vedette>
-         <pg>90</pg>
+     <pg>90</pg> 
+     <vedette>
          <sm>Mallins (Les),</sm>
       </vedette>
       <definition>
@@ -47497,8 +47497,8 @@
          <reference>(Is. châtel.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-05278" pg="91">
-      <vedette>
-         <pg>91</pg>
+     <pg>91</pg> 
+     <vedette>
          <sm>Maratra,</sm>
       </vedette>
       <definition>
@@ -48095,8 +48095,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05036" precision="certain">Châteauroux</commune></localisation>.</definition>
   </article>
   <article id="DT05-05352" pg="92">
-      <vedette>
-         <pg>92</pg>
+     <pg>92</pg> 
+     <vedette>
          <sm>Martins (Les),</sm>
       </vedette>
       <definition>
@@ -48620,8 +48620,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05061" precision="certain">Gap</commune></localisation>.</definition>
   </article>
   <article id="DT05-05410" pg="93">
-      <vedette>
-         <pg>93</pg>
+     <pg>93</pg> 
+     <vedette>
          <sm>Maupas (Le),</sm>
       </vedette>
       <definition>
@@ -49762,8 +49762,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05130" precision="certain">Saint-Apollinaire</commune></localisation>.</definition>
   </article>
   <article id="DT05-05544" pg="95">
-      <vedette>
-         <pg>95</pg>
+     <pg>95</pg> 
+     <vedette>
          <sm>Michelane,</sm>
       </vedette>
       <definition>
@@ -50741,7 +50741,7 @@
          <sm>Montbrand (Col de),</sm>
       </vedette>
       <definition>
-         <typologie>col</typologie>, <localisation>commune de la <commune insee="05019" precision="certain">Beaume</commune></localisation>, conduisant de cette commune dans celle de <localisation><commune insee="05080" precision="certaine">Montbrand</commune></localisation>.</definition>
+         <typologie>col</typologie>, <localisation>commune de la <commune insee="05019" precision="certain">Beaume</commune></localisation>, conduisant de cette commune dans celle de <localisation><commune insee="05080" precision="certain">Montbrand</commune></localisation>.</definition>
       <forme_ancienne>— <i>Collum de Montebrando,</i> 
          <date>1403</date> 
          <reference>(Is. B, 3,001)</reference>.</forme_ancienne>
@@ -51139,8 +51139,8 @@
       <insee>05086</insee>
   </article>
   <article id="DT05-05667" pg="98">
-      <vedette>
-         <pg>98</pg>
+     <pg>98</pg> 
+     <vedette>
          <sm>Montjuan,</sm>
       </vedette>
       <definition>
@@ -52136,8 +52136,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05093" precision="certain">Névache</commune></localisation>.</definition>
   </article>
   <article id="DT05-05774" pg="100">
-      <vedette>
-         <pg>100</pg>
+     <pg>100</pg> 
+     <vedette>
          <sm>Moulins (Les),</sm>
       </vedette>
       <definition>
@@ -53159,8 +53159,8 @@
          <reference>(Chorges, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-05892" pg="102" type="commune">
-      <vedette>
-         <pg>102</pg>
+     <pg>102</pg> 
+     <vedette>
          <sm>Nossage-et-Bénévent,</sm>
       </vedette>
       <definition>
@@ -53582,8 +53582,8 @@
          <typologie>chalet</typologie>, <localisation>commune de <commune insee="05027" precision="certain">Cervières</commune></localisation>.</definition>
   </article>
   <article id="DT05-05933" pg="103">
-      <vedette>
-         <pg>103</pg>
+     <pg>103</pg> 
+     <vedette>
          <sm>Obélisque (L'),</sm>
       </vedette>
       <definition>
@@ -54073,8 +54073,8 @@
          <reference>(Is. châtel.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-05987" pg="104">
-      <vedette>
-         <pg>104</pg>
+     <pg>104</pg> 
+     <vedette>
          <sm>Opillons (Les),</sm>
       </vedette>
       <definition>
@@ -54594,8 +54594,8 @@
          <reference>(Albert, I, p. 269)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06035" pg="105">
-      <vedette>
-         <pg>105</pg>
+     <pg>105</pg> 
+     <vedette>
          <sm>Oulles (Les),</sm>
       </vedette>
       <definition>
@@ -55062,8 +55062,8 @@
          <reference>(H.-A.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06086" pg="106">
-      <vedette>
-         <pg>106</pg>
+     <pg>106</pg> 
+     <vedette>
          <sm>Palud (La),</sm>
       </vedette>
       <definition>
@@ -55652,8 +55652,8 @@
          <reference>(Saint-Laurent, cadastre)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06161" pg="107">
-      <vedette>
-         <pg>107</pg>
+     <pg>107</pg> 
+     <vedette>
          <sm>Pas-du-Loup (Le),</sm>
       </vedette>
       <definition>
@@ -56237,8 +56237,8 @@
          <reference>(H.-A. terrier de Savines)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06233" pg="108">
-      <vedette>
-         <pg>108</pg>
+     <pg>108</pg> 
+     <vedette>
          <sm>Pelloux (Les),</sm>
       </vedette>
       <definition>
@@ -57341,8 +57341,8 @@
          <reference>(B.-du-Rhône, B, Sisteron, 18)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06360" pg="110">
-      <vedette>
-         <pg>110</pg>
+     <pg>110</pg> 
+     <vedette>
          <sm>Peytavin (Le),</sm>
       </vedette>
       <definition>
@@ -57915,8 +57915,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05118" precision="certain">Ribiers</commune></localisation>.</definition>
   </article>
   <article id="DT05-06427" pg="111">
-      <vedette>
-         <pg>111</pg>
+     <pg>111</pg> 
+     <vedette>
          <sm>Pierre-Donne,</sm>
       </vedette>
       <definition>
@@ -58509,8 +58509,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05139" precision="certain">Saint-Étienne-en-Dévoluy</commune></localisation>.</definition>
   </article>
   <article id="DT05-06500" pg="112">
-      <vedette>
-         <pg>112</pg>
+     <pg>112</pg> 
+     <vedette>
          <sm>Pinatelle (La),</sm>
       </vedette>
       <definition>
@@ -59037,8 +59037,8 @@
          <typologie>torrent</typologie>, <localisation>commune de <commune insee="05114" precision="certain">Réalon</commune></localisation>, affluent du torrent de Réalon.</definition>
   </article>
   <article id="DT05-06558" pg="113">
-      <vedette>
-         <pg>113</pg>
+     <pg>113</pg> 
+     <vedette>
          <sm>Pisse (La),</sm>
       </vedette>
       <definition>
@@ -59601,8 +59601,8 @@
       </commentaire>
   </article>
   <article id="DT05-06624" pg="114">
-      <vedette>
-         <pg>114</pg>
+     <pg>114</pg> 
+     <vedette>
          <sm>Plan-du-Bourg (Le),</sm>
       </vedette>
       <definition>
@@ -60167,8 +60167,8 @@
       <insee>05103</insee>
   </article>
   <article id="DT05-06685" pg="115">
-      <vedette>
-         <pg>115</pg>
+     <pg>115</pg> 
+     <vedette>
          <sm>Poët (Le),</sm>
       </vedette>
       <definition>
@@ -60656,8 +60656,8 @@
          <reference>(Is. B, 3,001)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06733" pg="116">
-      <vedette>
-         <pg>116</pg>
+     <pg>116</pg> 
+     <vedette>
          <sm>Pont-de-Corbières,</sm>
       </vedette>
       <definition>
@@ -61147,8 +61147,8 @@
          <reference>(lang. vulg.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06791" pg="117">
-      <vedette>
-         <pg>117</pg>
+     <pg>117</pg> 
+     <vedette>
          <sm>Portes (Les),</sm>
       </vedette>
       <definition>
@@ -61723,8 +61723,8 @@
          <reference>(B. N. mss. Brienne, 141, p. 233)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06859" pg="118">
-      <vedette>
-         <pg>118</pg>
+     <pg>118</pg> 
+     <vedette>
          <sm>Pra-la-Donne (Le),</sm>
       </vedette>
       <definition>
@@ -62283,8 +62283,8 @@
          <reference>(État-maj.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-06921" pg="119">
-      <vedette>
-         <pg>119</pg>
+     <pg>119</pg> 
+     <vedette>
          <sm>Preaux (Les),</sm>
       </vedette>
       <definition>
@@ -62887,8 +62887,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05022" precision="certain">Bréziers</commune></localisation>.</definition>
   </article>
   <article id="DT05-06996" pg="120">
-      <vedette>
-         <pg>120</pg>
+     <pg>120</pg> 
+     <vedette>
          <sm>Pré-du-Jardin (Le),</sm>
       </vedette>
       <definition>
@@ -63453,8 +63453,8 @@
          <typologie>ferme</typologie>, <localisation>commune d’<commune insee="05046" precision="certain">Embrun</commune></localisation>.</definition>
   </article>
   <article id="DT05-07067" pg="121">
-      <vedette>
-         <pg>121</pg>
+     <pg>121</pg> 
+     <vedette>
          <sm>Pré-la-Saulce (Le),</sm>
       </vedette>
       <definition>
@@ -64053,8 +64053,8 @@
          <typologie>bois</typologie>, <localisation>commune de la <commune insee="05063" precision="certain">Grave</commune></localisation>.</definition>
   </article>
   <article id="DT05-07138" pg="122">
-      <vedette>
-         <pg>122</pg>
+     <pg>122</pg> 
+     <vedette>
          <sm>Pré-Rura,</sm>
       </vedette>
       <definition>
@@ -64646,8 +64646,8 @@
       <insee>05106</insee>
   </article>
   <article id="DT05-07204" pg="123">
-      <vedette>
-         <pg>123</pg>
+     <pg>123</pg> 
+     <vedette>
          <sm>Puimobeau,</sm>
       </vedette>
       <definition>
@@ -66014,8 +66014,8 @@
          <typologie>montagne</typologie>, <localisation>communes d'<commune insee="05002" precision="certain">Agnière</commune> et de <commune insee="26168" precision="certain">Lus-la-Croix-Hante</commune></localisation> (Drôme).</definition>
   </article>
   <article id="DT05-07327" pg="126">
-      <vedette>
-         <pg>126</pg>
+     <pg>126</pg> 
+     <vedette>
          <sm>Rama (La),</sm>
       </vedette>
       <definition>
@@ -66670,7 +66670,7 @@
          <sm>Réalon (Torrent de),</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Formé dans la <localisation>commune de <commune insee="05114" precision="certain">Réalon</commune></localisation>, par la réunion des torrents de Reussas et de Charges, il se jette dans la Durance, dans celle de <localisation><commune insee="05164" precision="certaine">Savines</commune></localisation> au lieu dit <i>le Pont-de-Savines.</i>
+         <typologie>torrent</typologie>. Formé dans la <localisation>commune de <commune insee="05114" precision="certain">Réalon</commune></localisation>, par la réunion des torrents de Reussas et de Charges, il se jette dans la Durance, dans celle de <localisation><commune insee="05164" precision="certain">Savines</commune></localisation> au lieu dit <i>le Pont-de-Savines.</i>
       </definition>
       <forme_ancienne>— <i>Rabiosum,</i> 
          <date>1349</date> 
@@ -67045,8 +67045,8 @@
          <reference>(Briançon)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-07431" pg="128">
-      <vedette>
-         <pg>128</pg>
+     <pg>128</pg> 
+     <vedette>
          <sm>Rente (La),</sm>
       </vedette>
       <definition>
@@ -68028,8 +68028,8 @@
          <typologie>montagne</typologie>, <localisation>communes des <commune insee="05098" precision="certain">Orres</commune> et de <commune insee="04161" precision="certain">Revel</commune></localisation> (Basses-Alpes).</definition>
   </article>
   <article id="DT05-07540" pg="130">
-      <vedette>
-         <pg>130</pg>
+     <pg>130</pg> 
+     <vedette>
          <sm>Riolette (La),</sm>
       </vedette>
       <definition>
@@ -68176,7 +68176,7 @@
       <vedette>
          <sm>Riou-Bourdoux (Le)</sm> [Le ruisseau bourbeux],</vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05106" precision="certain">Prunières</commune></localisation> et se jette dans la Durance entre celles de <localisation><commune insee="05164" precision="certaine">Savines</commune></localisation> et de <localisation><commune insee="05106" precision="certaine">Prunières</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="05106" precision="certain">Prunières</commune></localisation> et se jette dans la Durance entre celles de <localisation><commune insee="05164" precision="certain">Savines</commune></localisation> et de <localisation><commune insee="05106" precision="certain">Prunières</commune></localisation>.</definition>
   </article>
   <article id="DT05-07558" pg="130">
       <vedette>
@@ -68507,8 +68507,8 @@
          <reference>(H.-A. Durb.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-07593" pg="131">
-      <vedette>
-         <pg>131</pg>
+     <pg>131</pg> 
+     <vedette>
          <sm>Riousset,</sm>
       </vedette>
       <definition>
@@ -69040,8 +69040,8 @@
          <typologie>montagne</typologie>, <localisation>communes de la <commune insee="05019" precision="certain">Beaume</commune>, de <commune insee="05154" precision="certain">Saint-Pierre-d'Argençon</commune> et de la <commune insee="26030" precision="certain">Bâtie-des-Fonds</commune></localisation> (Drôme).</definition>
   </article>
   <article id="DT05-07647" pg="132">
-      <vedette>
-         <pg>132</pg>
+     <pg>132</pg> 
+     <vedette>
          <sm>Roc-de-l'Aigle (Le),</sm>
       </vedette>
       <definition>
@@ -69531,8 +69531,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05084" precision="certain">Montgardin</commune></localisation>.</definition>
   </article>
   <article id="DT05-07694" pg="133">
-      <vedette>
-         <pg>133</pg>
+     <pg>133</pg> 
+     <vedette>
          <sm>Roche-Noire,</sm>
       </vedette>
       <definition>
@@ -70560,8 +70560,8 @@
          <typologie>bois</typologie>, <localisation>commune de <commune insee="05064" precision="certain">Guillaume-Pérouse</commune></localisation>.</definition>
   </article>
   <article id="DT05-07804" pg="135">
-      <vedette>
-         <pg>135</pg>
+     <pg>135</pg> 
+     <vedette>
          <sm>Roulette (La),</sm>
       </vedette>
       <definition>
@@ -71145,8 +71145,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05075" precision="certain">Manteyer</commune></localisation>.</definition>
   </article>
   <article id="DT05-07868" pg="136">
-      <vedette>
-         <pg>136</pg>
+     <pg>136</pg> 
+     <vedette>
          <sm>Roux (Les)</sm> [Les torrents],</vedette>
       <definition>
          <typologie>village</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriés</commune></localisation>.</definition>
@@ -71663,8 +71663,8 @@
          <reference>(Cass.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-07931" pg="137">
-      <vedette>
-         <pg>137</pg>
+     <pg>137</pg> 
+     <vedette>
          <sm>Sachas (Le),</sm>
       </vedette>
       <definition>
@@ -72239,8 +72239,8 @@
          <reference>(Is. B, 3,010)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-07995" pg="138">
-      <vedette>
-         <pg>138</pg>
+     <pg>138</pg> 
+     <vedette>
          <sm>Saint-André,</sm>
       </vedette>
       <definition>
@@ -73068,8 +73068,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05026" precision="certain">Ceillac</commune></localisation>.</definition>
   </article>
   <article id="DT05-08059" pg="140">
-      <vedette>
-         <pg>140</pg>
+     <pg>140</pg> 
+     <vedette>
          <sm>Saint-Claude,</sm>
       </vedette>
       <definition>
@@ -73370,7 +73370,7 @@
          <sm>Saint-Cyrice (Torrent de),</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="26374" precision="certain">Villebois</commune></localisation> (Drôme), et, après avoir traversé celles de <localisation><commune insee="05051" precision="certaine">Saint-Cyrice</commune></localisation> et d'<localisation><commune insee="05051" precision="certaine">Etoile</commune></localisation>, se jette dans la Céans <localisation>près d’<commune insee="05097" precision="certain">Orpierre</commune></localisation>.</definition>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune de <commune insee="26374" precision="certain">Villebois</commune></localisation> (Drôme), et, après avoir traversé celles de <localisation><commune insee="05051" precision="certain">Saint-Cyrice</commune></localisation> et d'<localisation><commune insee="05051" precision="certain">Etoile</commune></localisation>, se jette dans la Céans <localisation>près d’<commune insee="05097" precision="certain">Orpierre</commune></localisation>.</definition>
   </article>
   <article id="DT05-08078" pg="140">
       <vedette>
@@ -73475,8 +73475,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05023" precision="certain">Briançon</commune></localisation>.</definition>
   </article>
   <article id="DT05-08086" pg="141">
-      <vedette>
-         <pg>141</pg>
+     <pg>141</pg> 
+     <vedette>
          <sm>Saint-Esprit (Le),</sm>
       </vedette>
       <definition>
@@ -73863,8 +73863,8 @@
       <insee>05143</insee>
   </article>
   <article id="DT05-08110" pg="142">
-      <vedette>
-         <pg>142</pg>
+     <pg>142</pg> 
+     <vedette>
          <sm>Saint-Georges,</sm>
       </vedette>
       <definition>
@@ -74313,8 +74313,8 @@
          <reference>(État. des par.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-08149" pg="143">
-      <vedette>
-         <pg>143</pg>
+     <pg>143</pg> 
+     <vedette>
          <sm>Saint-Jean,</sm>
       </vedette>
       <definition>
@@ -76607,8 +76607,8 @@
          <typologie>écart</typologie>, <localisation>commune de <commune insee="05119" precision="certain">Risoul</commune></localisation>.</definition>
   </article>
   <article id="DT05-08344" pg="148">
-      <vedette>
-         <pg>148</pg>
+     <pg>148</pg> 
+     <vedette>
          <sm>Samaroux (Les),</sm>
       </vedette>
       <definition>
@@ -77638,8 +77638,8 @@
          <reference>(Cass.)</reference>.</forme_ancienne>
   </article>
   <article id="DT05-08455" pg="150">
-      <vedette>
-         <pg>150</pg>
+     <pg>150</pg> 
+     <vedette>
          <sm>Seille-Bœuf,</sm>
       </vedette>
       <definition>
@@ -78258,8 +78258,8 @@
          <typologie>hameau</typologie>, <localisation>commune de la <commune insee="05122" precision="certain">Roche-de-Briançon</commune></localisation>.</definition>
   </article>
   <article id="DT05-08530" pg="151">
-      <vedette>
-         <pg>151</pg>
+     <pg>151</pg> 
+     <vedette>
          <sm>Serre (Le),</sm>
       </vedette>
       <definition>
@@ -78828,8 +78828,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05071" precision="certain">Lardier-et-Valença</commune></localisation>.</definition>
    </article>
    <article id="DT05-08599" pg="152">
+      <pg>152</pg>
       <vedette>
-         <pg>152</pg>
          <sm>Serre-de-l'Homme (Le),</sm>
       </vedette>
       <definition>
@@ -79418,8 +79418,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05088" precision="certain">Montmorin</commune></localisation>.</definition>
    </article>
    <article id="DT05-08673" pg="153">
+      <pg>153</pg>
       <vedette>
-         <pg>153</pg>
          <sm>Serre-la-Croix (Le),</sm>
       </vedette>
       <definition>
@@ -79991,8 +79991,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05071" precision="certain">Lardier-et-Valença</commune></localisation>.</definition>
    </article>
    <article id="DT05-08737" pg="154">
+      <pg>154</pg>
       <vedette>
-         <pg>154</pg>
          <sm>Serret (Le),</sm>
       </vedette>
       <definition>
@@ -80463,8 +80463,8 @@
          </localisation>.</definition>
    </article>
    <article id="DT05-08774" pg="155">
+      <pg>155</pg>
       <vedette>
-         <pg>155</pg>
          <sm>Simonds (Les),</sm>
       </vedette>
       <definition>
@@ -81038,8 +81038,8 @@
          <typologie>hameau</typologie>, <localisation>commune de la <commune insee="05017" precision="certain">Bâtie-Neuve</commune></localisation>.</definition>
    </article>
    <article id="DT05-08842" pg="156">
+      <pg>156</pg>
       <vedette>
-         <pg>156</pg>
          <sm>Sur-la-Ruine,</sm>
       </vedette>
       <definition>
@@ -81530,8 +81530,8 @@
          <reference>(Cass.)</reference>.</forme_ancienne>
    </article>
    <article id="DT05-08900" pg="157">
+      <pg>157</pg>
       <vedette>
-         <pg>157</pg>
          <sm>Teinture (La),</sm>
       </vedette>
       <definition>
@@ -82691,8 +82691,8 @@
          <typologie>ferme</typologie>, <localisation>commune de <commune insee="05061" precision="certain">Gap</commune></localisation>.</definition>
    </article>
    <article id="DT05-09038" pg="159">
+      <pg>159</pg>
       <vedette>
-         <pg>159</pg>
          <sm>Tour (La),</sm>
       </vedette>
       <definition>
@@ -82777,7 +82777,7 @@
          <sm>Tour-Brune (La).</sm>
       </vedette>
       <definition>
-         <typologie>Tour carrée</typologie> au centre de l'ancien palais archiépiscopal d'<localisation><commune insee="05046" precision="certaine">Embrun</commune></localisation>.</definition>
+         <typologie>Tour carrée</typologie> au centre de l'ancien palais archiépiscopal d'<localisation><commune insee="05046" precision="certain">Embrun</commune></localisation>.</definition>
       <forme_ancienne>— <i>La Tour de l'arcevesque qui s'appelle Tour Brune,</i> 
          <date>1472</date> 
          <reference>(Is. B, 2,994)</reference>.</forme_ancienne>
@@ -83218,8 +83218,8 @@
          <typologie>col et torrent</typologie>, <localisation>commune de <commune insee="05031" precision="certain">Champcella</commune></localisation>, affluent de la Durance.</definition>
    </article>
    <article id="DT05-09094" pg="160">
+      <pg>160</pg>
       <vedette>
-         <pg>160</pg>
          <sm>Trapes (Les),</sm>
       </vedette>
       <definition>
@@ -83729,8 +83729,8 @@
          <typologie>chalet</typologie>, <localisation>commune de <commune insee="05031" precision="certain">Champcella</commune></localisation>.</definition>
    </article>
    <article id="DT05-09148" pg="161">
+      <pg>161</pg>
       <vedette>
-         <pg>161</pg>
          <sm>Tronchet (Le),</sm>
       </vedette>
       <definition>
@@ -84261,8 +84261,8 @@
          <reference>(Albert, I, p. 172)</reference>.</forme_ancienne>
    </article>
    <article id="DT05-09212" pg="162">
+      <pg>162</pg>
       <vedette>
-         <pg>162</pg>
          <sm>Ubac (L'),</sm>
       </vedette>
       <definition>
@@ -84750,7 +84750,7 @@
          <sm>Vachères,</sm>
       </vedette>
       <definition>
-         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune des <commune insee="05098" precision="certain">Orres</commune></localisation> et se jette dans la Durance dans celle d'<localisation><commune insee="05046" precision="certaine">Embrun</commune></localisation> entre les lieux dits <i>Entraigues</i> et <i>Calignon.</i>
+         <typologie>torrent</typologie>. Prend sa source dans la <localisation>commune des <commune insee="05098" precision="certain">Orres</commune></localisation> et se jette dans la Durance dans celle d'<localisation><commune insee="05046" precision="certain">Embrun</commune></localisation> entre les lieux dits <i>Entraigues</i> et <i>Calignon.</i>
       </definition>
       <forme_ancienne>— <i>Vacherie,</i> 
          <date>1127</date> 
@@ -85587,8 +85587,8 @@
          <date>1793</date>.</forme_ancienne>
    </article>
    <article id="DT05-09341" pg="165" type="commune">
+      <pg>165</pg>
       <vedette>
-         <pg>165</pg>
          <sm>Vallouise,</sm>
       </vedette>
       <definition>
@@ -86067,8 +86067,8 @@
       <insee>05178</insee>
    </article>
    <article id="DT05-09378" pg="166">
+      <pg>166</pg>
       <vedette>
-         <pg>166</pg>
          <sm>Ventelon,</sm>
       </vedette>
       <definition>
@@ -87671,8 +87671,8 @@
          <typologie>hameau</typologie>, <localisation>commune de <commune insee="05142" precision="certain">Saint-Firmin</commune></localisation>.</definition>
    </article>
    <article id="DT05-09540" pg="169">
+      <pg>169</pg>
       <vedette>
-         <pg>169</pg>
          <sm>Villard (Torrent du),</sm>
       </vedette>
       <definition>
@@ -88569,8 +88569,8 @@
          <typologie>ruines</typologie>, <localisation>commune de <commune insee="05065" precision="certain">Guillestre</commune></localisation>.</definition>
    </article>
    <article id="DT05-09613" pg="171">
+      <pg>171</pg>
       <vedette>
-         <pg>171</pg>
          <sm>Ville-Vielle,</sm>
       </vedette>
       <definition>
