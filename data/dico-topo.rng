@@ -5,29 +5,6 @@
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
   xml:lang="fr">
   <a:documentation>Dico-Topo</a:documentation>
-  <!--
-    pg : 473
-    sm : 13849
-    definition : 11186
-    typologie : 10642
-    localisation : 10745
-    commune : 9822
-    commentaire : 2316
-    p : 3301
-    renvoi : 137
-    forme_ancienne : 15208
-    i : 16109
-    date : 18787
-    reference : 15863
-    sup : 2200
-    insee : 457
-    @dep : 1
-    @departement : 1
-    @id : 11268
-    @pg : 11268
-    @precision : 9822
-    @type : 457
-  -->
   <start>
     <element name="DICTIONNAIRE">
       <a:documentation>Élément racine</a:documentation>
@@ -71,7 +48,7 @@
   <define name="article.atts">
     <a:documentation>Attributs attachés à un article</a:documentation>
     <attribute name="id">
-      <a:documentation>Identifiant de l’article, formé des lettres DT pour Dictionnaire Topographique, suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000</a:documentation>
+      <a:documentation>Identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000</a:documentation>
       <data type="ID"/>
     </attribute>
     <attribute name="pg">
@@ -158,7 +135,7 @@
   <define name="forme_ancienne">
     <a:documentation>Une (unique) forme ancienne datée et référencée. Contenu semi-structuré</a:documentation>
     <!-- Le(s) label(s) de la forme ancienne à proprement parler est(sont) inscrit(s) dans <i>. -->
-    <!-- Parfois plusieurs dates pour une forme ancienne (si doute ou plusieurs occurrences -->
+    <!-- Parfois plusieurs dates pour une forme ancienne (si doute ou plusieurs occurrences) -->
     <element name="forme_ancienne">
       <oneOrMore>
         <choice>
@@ -191,13 +168,13 @@
       </oneOrMore>
     </element>
   </define>
-  <define name="p"><!-- CB: Attention, il n'y a pas que dans <commentaire> qu'il y a un p : il y en a aussi dans <note>. -->
+  <define name="p">
     <a:documentation>Les paragraphes des commentaires</a:documentation>
     <element name="p">
       <oneOrMore>
         <choice>
           <ref name="flow"/>
-          <ref name="date"/><!-- vraiment souhaitable ? pour faire quoi ? même sémantique ? -> CB: les dates dans les commentaires n'ont effectivement pas besoin d'être encodées, cela n'apporte pas grand chose. On peut les interdire si on le souhaite. -->
+          <ref name="date"/><!-- certaines dates sont balisées dans les commentaires (on ne les exploite pas) -->
           <ref name="renvoi"/>
         </choice>
       </oneOrMore>
@@ -209,30 +186,17 @@
       <ref name="flow"/>
       <optional>
         <attribute name="corresp">
-          <!-- pointer l’identifiant de l’article référencé -->
+          <!-- idéalement, pointer l’identifiant de l’article référencé -->
           <text/>
         </attribute>
       </optional>
-      <!-- Maintenir l’élément référence ???
-      <optional>
-        <ref name="reference"/>
-      </optional>
-       -->
     </element>
   </define>
   <define name="date">
-    <a:documentation>Dates des formes anciennes</a:documentation><!-- CB: On peut ne conserver que les <date> qui se trouvent dans <forme_ancienne> et dans <reference>, et supprimer toutes les autres qui se trouvent dans <commentaire> ou <definition> par exemple. -->
+    <a:documentation>Dates des formes anciennes</a:documentation>
     <element name="date">
-      <!--
-        OK pour du contenu mixe, mais un petit attribut pour normaliser la date serait utile…
-        Quel serait le bon datatype ?
-        <attribute name="when">
-          <data type="date"/>
-        </attribute>
-        -> CB: Je ne sais pas s'il est possible de définir un datatype car toutes les dates n'ont pas le même format (chiffres, siècles, phrases entières).
-      -->
+      <!-- les dates ne sont hélas pas standardisées (pas de @when) dans la source XML -->
       <oneOrMore>
-        <!-- moins riche que flow… -->
         <choice>
           <text/>
           <ref name="sm"/>
@@ -243,7 +207,6 @@
   </define>
   <define name="flow">
     <a:documentation>Du contenu riche (typographie, structure du dictionnaire)</a:documentation>
-    <!-- date dans flow ????? -> CB : Si on met la date dans le flow, on l'autorise à pouvoir se trouver un peu partout dans les fichiers. Je ne sais pas si c'est un bon choix (cf. ma remarque pour le p.commentaire). -->
     <oneOrMore>
       <choice>
         <text/>
@@ -261,10 +224,12 @@
         <choice>
           <text/>
           <ref name="sup"/>
-          <ref name="sm"/><!-- un unique cas. Souhaitable ? -> CB: Non, il n'y a pas qu'un seul cas. On le trouve dans suffisamment de dictionnaires pour qu'on le conserve : DT01, DT10, DT24, DT27, DT30 (4 occurrences dans ce dictionnaire), DT43, DT51 (4 occurrences également), DT52, DT54, DT55 (4 occurrences), DT68 (11 occurrences), DT71, DT88 (3 occurrences). -->
+          <!-- <ref name="sm"/> -->
           <ref name="pg"/>
+          <!-- 
           <ref name="ads"/>
           <ref name="pti"/>
+           -->
         </choice>
       </zeroOrMore>
     </element>
@@ -284,7 +249,7 @@
       <zeroOrMore>
         <choice>
           <text/>
-          <ref name="pg"/>
+          <!-- <ref name="pg"/> pénible pour les traitements ; on interdit ? -->
           <ref name="i"/>
           <ref name="sup"/>
         </choice>
@@ -326,424 +291,7 @@
     <a:documentation>Types de lieu</a:documentation>
     <element name="typologie">
       <text/>
-      <!-- TODO. Valider la liste, normaliser les valeurs pour l’ensemble des dictionnaires. -> CB : Je suis en train de travailler sur la liste des typologies des 11 derniers dictionnaires livrés. -->
-      <!--
-      <choice>
-        <value>affluent</value>
-        <value>affluent de la Veyle</value>
-        <value>affluent du Furans</value>
-        <value>anc. chapelle rurale et ferme</value>
-        <value>anc. chapelle rurale et grange</value>
-        <value>anc. chapelle rurale et hameau</value>
-        <value>anc. chapelle rurale et écart</value>
-        <value>anc. fief et château</value>
-        <value>anc. fief et ferme</value>
-        <value>anc. fief et hameau</value>
-        <value>anc. maison forte et fief</value>
-        <value>anc. mas et étang, aujourd'hui lieu dit</value>
-        <value>anc. seigneurie et hameau</value>
-        <value>anc. village et fief</value>
-        <value>ancien bois</value>
-        <value>ancien carrefour</value>
-        <value>ancien chef-lieu</value>
-        <value>ancien chemin</value>
-        <value>ancien chemin public</value>
-        <value>ancien château</value>
-        <value>ancien château et ancien fief</value>
-        <value>ancien château-fort</value>
-        <value>ancien château-fort en ruines</value>
-        <value>ancien comté</value>
-        <value>ancien domaine</value>
-        <value>ancien domaine rural</value>
-        <value>ancien faubourg, aujourd'hui quartier</value>
-        <value>ancien fief</value>
-        <value>ancien fief avec château</value>
-        <value>ancien fief avec maison forte</value>
-        <value>ancien fief avec poype</value>
-        <value>ancien fief avec poype, aujourd'hui hameau</value>
-        <value>ancien fief de Dombes, avec château-fort et poype</value>
-        <value>ancien fief de Dombes, avec maison-forte</value>
-        <value>ancien fief des Échelles</value>
-        <value>ancien fief sans justice</value>
-        <value>ancien fief, aujourd'hui domaine</value>
-        <value>ancien fief, avec maison-forte</value>
-        <value>ancien fief, sans justice</value>
-        <value>ancien fort</value>
-        <value>ancien four</value>
-        <value>ancien four-à-chaux</value>
-        <value>ancien hameau</value>
-        <value>ancien hameau aujourd'hui simple lieu dit</value>
-        <value>ancien hameau et ancien fief</value>
-        <value>ancien hôpital</value>
-        <value>ancien lac</value>
-        <value>ancien lac ou étang</value>
-        <value>ancien lieu dit</value>
-        <value>ancien lieu-dit</value>
-        <value>ancien mas</value>
-        <value>ancien mas de la châtellenie</value>
-        <value>ancien mas et ancien moulin</value>
-        <value>ancien mas, aujourd'hui étang</value>
-        <value>ancien moulin</value>
-        <value>ancien nom d'un bief et d'un moulin</value>
-        <value>ancien nom de vallée et de montagne</value>
-        <value>ancien pays</value>
-        <value>ancien pont</value>
-        <value>ancien port</value>
-        <value>ancien prieuré</value>
-        <value>ancien prieuré et ancien collège congréganiste</value>
-        <value>ancien prieuré rural</value>
-        <value>ancien péage</value>
-        <value>ancien quartier</value>
-        <value>ancien territoire</value>
-        <value>ancien vignoble</value>
-        <value>ancien village</value>
-        <value>ancien village aujourd'hui bois</value>
-        <value>ancien village, aujourd'hui ferme</value>
-        <value>ancien village, aujourd'hui locaterie</value>
-        <value>ancien village, aujourd'hui étang</value>
-        <value>ancien écart</value>
-        <value>ancien étang</value>
-        <value>ancien étang et ancien fief</value>
-        <value>ancien étang, aujourd'hui ferme</value>
-        <value>ancienne abbaye</value>
-        <value>ancienne bergerie</value>
-        <value>ancienne chapelle</value>
-        <value>ancienne chapelle rurale</value>
-        <value>ancienne chapelle rurale, aujourd'hui lieu dit</value>
-        <value>ancienne chapelle rurale, aujourd'hui maison isolée</value>
-        <value>ancienne chartreuse</value>
-        <value>ancienne ferme</value>
-        <value>ancienne forêt</value>
-        <value>ancienne grange</value>
-        <value>ancienne localité habitée, aujourd'hui simple lieu dit</value>
-        <value>ancienne léproserie</value>
-        <value>ancienne maison</value>
-        <value>ancienne maison de l'ordre de Saint-Jean de Jérusalem</value>
-        <value>ancienne maison des Templiers</value>
-        <value>ancienne maison des chevaliers de Saint-Jean de Jérusalem</value>
-        <value>ancienne maison forte</value>
-        <value>ancienne maison isolée</value>
-        <value>ancienne maison noble</value>
-        <value>ancienne maison-forte</value>
-        <value>ancienne paroisse</value>
-        <value>ancienne porte</value>
-        <value>ancienne province</value>
-        <value>ancienne pêcherie</value>
-        <value>ancienne rente</value>
-        <value>ancienne rente noble</value>
-        <value>ancienne rente noble, aujourd'hui écart</value>
-        <value>ancienne route</value>
-        <value>ancienne route de messageries</value>
-        <value>ancienne seigneurie</value>
-        <value>ancienne seigneurie, aujourd'hui maison isolée</value>
-        <value>ancienne seigneurie, avec maison-forte</value>
-        <value>ancienne subdivision naturelle</value>
-        <value>ancienne tour</value>
-        <value>ancienne villa</value>
-        <value>ancienne villa gallo-romaine</value>
-        <value>ancienne villa gallo-romaine, aujourd'hui lieu dit</value>
-        <value>ancienne villa gallo-romaine, aujourd'hui simple lieu dit</value>
-        <value>ancienne villa gallo-romaine, aujourd'hui triage</value>
-        <value>ancienne église</value>
-        <value>anciennes fortifications en terre</value>
-        <value>archiprêtré</value>
-        <value>bergerie</value>
-        <value>bief</value>
-        <value>bois</value>
-        <value>bois et combe</value>
-        <value>bois et ferme</value>
-        <value>bois et vignes</value>
-        <value>bourg et château</value>
-        <value>branche</value>
-        <value>bras du Rhône</value>
-        <value>bâtiment rural</value>
-        <value>camp.</value>
-        <value>canton de Poncin</value>
-        <value>canton de la forêt</value>
-        <value>cascade</value>
-        <value>cascade de 50 mètres</value>
-        <value>cascades superposées</value>
-        <value>chalet</value>
-        <value>chapelle en ruines</value>
-        <value>chapelle et triage</value>
-        <value>chapelle rurale</value>
-        <value>chapelle rurale détruite</value>
-        <value>chapelle rurale en ruines</value>
-        <value>chapelle rurale et ancienne grange</value>
-        <value>chapelle rurale ruinée</value>
-        <value>chaîne de montagnes</value>
-        <value>chef-lieu</value>
-        <value>chef-lieu d'arrondissement</value>
-        <value>château</value>
-        <value>château en ruines et maison isol.</value>
-        <value>château et ancien fief</value>
-        <value>château et ancienne commanderie de Malte</value>
-        <value>château et ferme</value>
-        <value>château et fermes</value>
-        <value>château et hameau</value>
-        <value>château et écart</value>
-        <value>château et étang</value>
-        <value>château ruiné</value>
-        <value>château, ferme et ancien fief</value>
-        <value>château, ferme et moulin</value>
-        <value>château, maison et lieu dit</value>
-        <value>cinquième et dernier chaînon du Jura de l'Ain</value>
-        <value>col</value>
-        <value>col et hameau</value>
-        <value>colline</value>
-        <value>commune</value>
-        <value>cours inférieur de la Loutre</value>
-        <value>cours supérieur</value>
-        <value>deux localités disparues</value>
-        <value>deux petits lacs</value>
-        <value>domaine</value>
-        <value>domaine et ancien fief</value>
-        <value>domaine et château</value>
-        <value>domaine rural</value>
-        <value>domaines</value>
-        <value>défilé</value>
-        <value>entrée de grottes</value>
-        <value>ermitage et chapelle</value>
-        <value>faubourg</value>
-        <value>ferme</value>
-        <value>ferme abandonnée</value>
-        <value>ferme et ancien château</value>
-        <value>ferme et ancien fief</value>
-        <value>ferme et ancien fief sans justice</value>
-        <value>ferme et ancien étang</value>
-        <value>ferme et bois</value>
-        <value>ferme et chalet</value>
-        <value>ferme et château</value>
-        <value>ferme et moulin</value>
-        <value>ferme et prés</value>
-        <value>ferme et tour en ruines</value>
-        <value>ferme et vignoble</value>
-        <value>ferme et étang</value>
-        <value>ferme, château et ancien fief</value>
-        <value>ferme, moulin et scierie</value>
-        <value>ferme, moulin, château et ancien fief</value>
-        <value>fermes</value>
-        <value>fermes et château</value>
-        <value>fermes et moulin</value>
-        <value>finage</value>
-        <value>fontaine</value>
-        <value>fontaine abondante</value>
-        <value>fontaine et ruisseau</value>
-        <value>fontaine et ruisseau, affluent</value>
-        <value>fort</value>
-        <value>forteresse</value>
-        <value>forêt</value>
-        <value>forêt communale</value>
-        <value>forêt de sapins</value>
-        <value>forêt domaniale</value>
-        <value>forêt domaniale de feuillus</value>
-        <value>forêt située</value>
-        <value>fossé</value>
-        <value>grand finage</value>
-        <value>grand étang</value>
-        <value>grange</value>
-        <value>granges</value>
-        <value>grotte</value>
-        <value>grotte et bois</value>
-        <value>gué</value>
-        <value>habitant</value>
-        <value>habitants</value>
-        <value>hameau</value>
-        <value>hameau et ancien château</value>
-        <value>hameau et ancien fief</value>
-        <value>hameau et ancienne chartreuse</value>
-        <value>hameau et ancienne maison-forte</value>
-        <value>hameau et carrière</value>
-        <value>hameau et caserne de douaniers</value>
-        <value>hameau et château</value>
-        <value>hameau et château en ruines</value>
-        <value>hameau et domaine rural</value>
-        <value>hameau et maison isolée</value>
-        <value>hameau et moulin</value>
-        <value>hameau et moulins</value>
-        <value>hameau et pont</value>
-        <value>hameau et port</value>
-        <value>hameau et ruisseau</value>
-        <value>hameau et scierie</value>
-        <value>hameau et section cadastrale</value>
-        <value>hameau et tour</value>
-        <value>hameau et tour en ruines</value>
-        <value>hameau et usine</value>
-        <value>hameau et étang</value>
-        <value>hameau formant</value>
-        <value>hameau, ancien fief</value>
-        <value>hameau, château et ancien fief</value>
-        <value>hameau, château et bois</value>
-        <value>hameau, château et ferme</value>
-        <value>hameau, château et forêt</value>
-        <value>hameau, et ancien fief</value>
-        <value>hameau, et ancienne paroisse</value>
-        <value>hameau, maison forestière et moulin</value>
-        <value>hameau, moulin et tour en ruines</value>
-        <value>hameaux</value>
-        <value>hameaux et ancien fief</value>
-        <value>hospice et moulin</value>
-        <value>hôpital</value>
-        <value>lac</value>
-        <value>lac, montagne et hameau</value>
-        <value>lieu</value>
-        <value>lieu dit</value>
-        <value>lieu dit et maison isolée</value>
-        <value>lieu dit et étang</value>
-        <value>lieu-dit</value>
-        <value>lieux dits</value>
-        <value>localité</value>
-        <value>localité aujourd'hui disparue</value>
-        <value>localité disparue</value>
-        <value>localité disparue ou ancien lieu dit</value>
-        <value>localité disparue ou montagne</value>
-        <value>localité disparue, aujourd'hui bois</value>
-        <value>localité disparue, aujourd'hui étang</value>
-        <value>localité détruite</value>
-        <value>localité détruite et ancien fief</value>
-        <value>localité détruite, aujourd'hui lieu dit</value>
-        <value>localité détruite, aujourd'hui simple lieu dit</value>
-        <value>localité détruite, aujourd'hui étang</value>
-        <value>localités disparues</value>
-        <value>locaterie</value>
-        <value>locateries</value>
-        <value>maison</value>
-        <value>maison et moulin</value>
-        <value>maison forestière</value>
-        <value>maison isolée</value>
-        <value>maison isolée et ancien fief</value>
-        <value>maison isolée et moulin</value>
-        <value>maison isolée et triage</value>
-        <value>maisons isolées</value>
-        <value>maisons isolées et bureau de douane</value>
-        <value>maisons isolées et section cadastrale</value>
-        <value>marais</value>
-        <value>mas</value>
-        <value>massif de montagnes</value>
-        <value>mines d'asphalte</value>
-        <value>mont</value>
-        <value>montagne</value>
-        <value>montagne ou de territoire</value>
-        <value>montagnes</value>
-        <value>monticule factice ou poype</value>
-        <value>monument historique</value>
-        <value>moulin</value>
-        <value>moulin détruit</value>
-        <value>moulin et ancien fief</value>
-        <value>moulin et hameau</value>
-        <value>moulin et maisons is.</value>
-        <value>moulin et scierie</value>
-        <value>moulin isolé</value>
-        <value>moulins</value>
-        <value>partie du canton</value>
-        <value>partie méridionale</value>
-        <value>passerelle</value>
-        <value>petit bâtiment rural</value>
-        <value>petit fief</value>
-        <value>petit hameau</value>
-        <value>petit lac</value>
-        <value>petit monastère</value>
-        <value>peuple gaulois</value>
-        <value>pic</value>
-        <value>pont</value>
-        <value>pont de bois</value>
-        <value>port</value>
-        <value>port et hameau</value>
-        <value>portion occidentale</value>
-        <value>portion septentrionale</value>
-        <value>pré</value>
-        <value>précipice</value>
-        <value>pâture</value>
-        <value>pâture et bois de sapin</value>
-        <value>pâtures et prés</value>
-        <value>quartier</value>
-        <value>quartiers</value>
-        <value>rente noble</value>
-        <value>rivière</value>
-        <value>rivière et moulin</value>
-        <value>rivière, affluent</value>
-        <value>rocher</value>
-        <value>ruine</value>
-        <value>ruines</value>
-        <value>ruisseau</value>
-        <value>ruisseau et localité riveraine disparue</value>
-        <value>ruisseau et maison is.</value>
-        <value>ruisseau, affluent</value>
-        <value>région naturelle</value>
-        <value>scierie</value>
-        <value>scieries</value>
-        <value>second chaînon du Jura</value>
-        <value>section</value>
-        <value>section cadastrale</value>
-        <value>section, château et moulin</value>
-        <value>septième membre de la commanderie de Laumusse</value>
-        <value>signal</value>
-        <value>source</value>
-        <value>source abondante et hameau</value>
-        <value>source et hameau</value>
-        <value>source et ruisseau, affluent</value>
-        <value>source intermittente, affluent</value>
-        <value>sous-affluent</value>
-        <value>terre</value>
-        <value>territoire</value>
-        <value>torrent</value>
-        <value>torrent, affluent</value>
-        <value>tour carrée en ruines</value>
-        <value>tour en ruines</value>
-        <value>triage</value>
-        <value>triage et montagne</value>
-        <value>tronçon de voie romaine</value>
-        <value>très ancienne église</value>
-        <value>tuilerie</value>
-        <value>un des deux bras de la Veyle</value>
-        <value>un des grands étangs de la Dombes</value>
-        <value>un des ruisseaux</value>
-        <value>un des sommets</value>
-        <value>une des anciennes portes</value>
-        <value>usine</value>
-        <value>usine et moulin</value>
-        <value>usines</value>
-        <value>vallée</value>
-        <value>vaste lande</value>
-        <value>vaste marais</value>
-        <value>vaste territoire</value>
-        <value>verchère</value>
-        <value>vestiges de fortifications en terre</value>
-        <value>vigne et cellier</value>
-        <value>vignoble</value>
-        <value>village</value>
-        <value>village aujourd'hui disparu</value>
-        <value>village chef-lieu</value>
-        <value>village détruit</value>
-        <value>village et moulin</value>
-        <value>village et moulins</value>
-        <value>village, chef-lieu</value>
-        <value>voie antique</value>
-        <value>écart</value>
-        <value>écart et ancien fief</value>
-        <value>écart et ancien fief avec château</value>
-        <value>écart et ancienne chapelle rurale</value>
-        <value>écart et ancienne seigneurie</value>
-        <value>écart et bois</value>
-        <value>écart et château</value>
-        <value>écart et moulin</value>
-        <value>écart et triage</value>
-        <value>écart et étang</value>
-        <value>écarts</value>
-        <value>église</value>
-        <value>église paroissiale</value>
-        <value>émissaire</value>
-        <value>étang</value>
-        <value>étang de 109 hectares</value>
-        <value>étang de 22 hectares</value>
-        <value>étang desséché</value>
-        <value>étang et ancienne rente noble</value>
-        <value>étang et bois</value>
-        <value>étang, terres et prés</value>
-        <value>étangs</value>
-        <value>île</value>
-      </choice>
-      -->
+      <!-- TODO. Définir une liste d’autorité -->
     </element>
   </define>
 </grammar>
