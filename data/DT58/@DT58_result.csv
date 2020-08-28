@@ -1,0 +1,14 @@
+,DT_input,DT_output(CF)
+place(article),9276,9276
+place.label(//vedette/sm),9417,9417
+place.label(//sm) > 30,305,305
+place.commune_insee_code(//insee),316,317
+place.localization_commune_insee_code(//commune/@insee),8779,8845
+codes insee non résolu(//commune[@insee='article_not_found']),901,0
+place_comment.content (//commentaire),1260,1260
+place_old_label (//forme_ancienne),7162,7162
+place_description.content (//definition),9273,9273
+place_feature_type.term(//typologie),8589,8589
+place sans forme ancienne(//article[not(forme_ancienne)]) – total,5871,5871
+place sans forme ancienne(//article[not(forme_ancienne)]) – %,0.6329236739974127,0.6329236739974127
+article sans id (//article[not(@id)]),0,0
