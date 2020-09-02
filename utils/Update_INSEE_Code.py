@@ -2,27 +2,27 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 #Changer le numéro du département
-dep = "55"
+dep = "64"
 d = {}
 #Crée un dictionnaire qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune à partir du fichier corriger
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation_OC.csv", newline='') as csvfile:
+with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation_revuOC.csv", newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter='\t')
     for communeInsee in ListcommunesInsee :
-        if communeInsee[4] == "Non" or communeInsee[4] == "NON":
+        if communeInsee[4] == "Non" or communeInsee[4] == "NON" or communeInsee[4] == "non":
             continue
         if communeInsee[0] in d.keys():
 
-            d[communeInsee[0]].update({communeInsee[3]:communeInsee[4]})
+            d[communeInsee[0]].update({"".join(communeInsee[3].replace("\n","").split()):communeInsee[4]})
         else:
-            d[communeInsee[0]] = {communeInsee[3]: communeInsee[4]}
+            d[communeInsee[0]] = {"".join(communeInsee[3].replace("\n","").split()): communeInsee[4]}
 
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4.xml")
+tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4_2.xml")
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance
 controleList = []
 n = 0
 nb = 0
-
+print(d)
 
 for article in xml :
     NumArticle = article.attrib.get("id")
@@ -39,7 +39,11 @@ for article in xml :
                         if NArticle == NumArticle :
                             #Rest[0] == typologie
                             for Candidat, Insee in ValeurCorrection.items():
-                                if Candidat == typologie :
+                                try:
+                                    Candidat == "".join(typologie.replace("\n","").split())
+                                except:
+                                    continue
+                                if Candidat == "".join(typologie.replace("\n","").split()) :
                                     #divise le string si le caractère n'est pas une lettre majuscule et minuscule, accentué ou non ou un tiret
                                     co = re.split('([^a-zA-Z0-9À-ÿ\)\-])', localisation.text)
                                     localisation.text = ""
