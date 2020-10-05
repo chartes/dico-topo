@@ -95,6 +95,7 @@
           <!-- Plus rare. On conserve pour transformation HTML ? -->
           <ref name="date"/>
           <ref name="reference"/>
+          <ref name="renvoi"/>
         </choice>
       </zeroOrMore>
     </element>
