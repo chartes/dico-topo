@@ -4385,7 +4385,7 @@
   </article>
   <article id="DT10-00590" pg="32" type="commune">
     <vedette><sm>Chaise (La),</sm></vedette>
-    <definition><localisation>canton de <commune insee="10372" precision="approximatif">Soulaines</commune></localisation>, autrefois <sm>Ferrières.</sm></definition>
+    <definition><localisation>canton de <commune insee="10372" precision="approximatif">Soulaines</commune></localisation>, autrefois Ferrières.</definition>
     <forme_ancienne>- <i>Ferrerie,</i> <date>1145-1169</date> <reference>(ch. de l'abb. de Beaulieu)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Villa de la Chase,</i> <date>1244</date> <reference>(ch. de l'abb. de Boulancourt)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Lachise,</i> <date>1248</date> <reference>(ch. de l'abb. de Beaulieu)</reference>.</forme_ancienne>
@@ -10389,7 +10389,7 @@
   </article>
   <article id="DT10-01439" pg="72" type="commune">
     <vedette><sm>Gérosdot,</sm></vedette>
-    <definition><localisation>canton de <commune insee="10287" precision="approximatif">Piney</commune></localisation>, autrefois <sm>Aillefol :</sm> le nom de Gérosdot s'appliquait à la seigneurie ; depuis <date>1670</date>, il est donné à la seigneurie, au château et au village d'Aillefol, ce dernier nom ayant été abandonné en exécution de lettres patentes de <date>1670</date>.</definition>
+    <definition><localisation>canton de <commune insee="10287" precision="approximatif">Piney</commune></localisation>, autrefois Aillefol : le nom de Gérosdot s'appliquait à la seigneurie ; depuis <date>1670</date>, il est donné à la seigneurie, au château et au village d'Aillefol, ce dernier nom ayant été abandonné en exécution de lettres patentes de <date>1670</date>.</definition>
     <forme_ancienne>- <i>Allefou,</i> <date>1202</date> <reference>(ch. de l'abb. de Montiéramey)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Aillefol,</i> <date>1224</date> <reference>(cart. de l'abb. de la Rivour)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ailefou,</i> <date>1225</date> <reference>(cart. de l'abb. de la Rivour)</reference>.</forme_ancienne>
@@ -20077,7 +20077,7 @@
   </article>
   <article id="DT10-02727" pg="141">
     <vedette><sm>Saint-Bernard (Forge de),</sm></vedette>
-    <definition>usine métallurgique, <localisation>commune de <commune insee="10203" precision="certain">Longchamp</commune></localisation> ; naguère <sm>Forge d'en-Bas.</sm></definition>
+    <definition>usine métallurgique, <localisation>commune de <commune insee="10203" precision="certain">Longchamp</commune></localisation> ; naguère Forge d'en-Bas.</definition>
   </article>
   <article id="DT10-02728" pg="141">
     <vedette><sm>Saint-Bernard (Hôpital),</sm></vedette>
@@ -22302,7 +22302,7 @@
   </article>
   <article id="DT10-03030" pg="158">
     <vedette><sm>Temple (Le),</sm></vedette>
-    <definition><typologie>préceptorerie, aujourd'hui ferme</typologie>, <localisation>commune de <commune insee="10406" precision="certain">Verrières</commune></localisation>, autrefois <sm>Villiers.</sm></definition>
+    <definition><typologie>préceptorerie, aujourd'hui ferme</typologie>, <localisation>commune de <commune insee="10406" precision="certain">Verrières</commune></localisation>, autrefois Villiers.</definition>
     <forme_ancienne>- <i>Vilers,</i> <date>1154</date> <reference>(ch. de l'abb. de Saint-Loup)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Villare secus Verrerias,</i> <date>1195</date> <reference>(ch. de l'abb. de Montiéramey)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Viler,</i> <date>1197</date> <reference>(ch. de l'abb. de Montiéramey)</reference>.</forme_ancienne>
@@ -26143,8 +26143,8 @@
     </commentaire>
   </article>
   <article id="DT10-03527" pg="190">
-    <vedette><sm>Voie romaine</sm></vedette>
-    <definition>de <localisation> <commune insee="10387">Troyes</commune> à Soissons</localisation> ou <sm>voie de Rhèges.</sm></definition>
+    <vedette><sm>Voie romaine</sm>, <sm>voie de Rhèges.</sm></vedette>
+    <definition>de <localisation> <commune insee="10387">Troyes</commune> à Soissons</localisation>.</definition>
     <commentaire>
       <p>- Sort de Troyes par le Pont-Hubert, se tient au point de partage de la vallée de la Seine et de celle de la Barbuise, limite différents territoires, traverse ceux des Petites et des Grandes Chapelles et de Premierfait, atteint le village de Rhèges et traverse la Barbuise et l'Aube, puis Plancy, pour se diriger sur Sézanne (Boutiot, <i>Études sur les voies romaines, etc.</i>).</p>
     </commentaire>
