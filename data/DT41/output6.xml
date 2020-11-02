@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
   Copyright © 2020 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/

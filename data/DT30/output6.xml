@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
@@ -5715,7 +5715,7 @@
   <article id="DT30-00998" pg="34">
     <vedette><sm>Bouzène,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="30330" precision="certain">Tornac</commune></localisation>.</definition>
-    <forme_ancienne>— <i><sm>bvdenicenses</sm></i> <reference>(inscr. de l'ermitage de Colias)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>BVDENICENSES</i> <reference>(inscr. de l'ermitage de Colias)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>G. de Bozene,</i> <date>1211</date> <reference>(cart. de N.-D. de Bonh. ch. 33)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bozena,</i> <date>1482</date> <reference>(Mém. gén. du marq. d'Aubais, bibl. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bozène,</i> <date>1558</date> <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>

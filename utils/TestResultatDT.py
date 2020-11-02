@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "05"
+dep = "89"
 
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
   Copyright © 2017 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
@@ -6256,7 +6256,7 @@
   </article>
   <article id="DT55-01065" pg="46">
     <vedette><sm>Charité (La),</sm></vedette>
-    <definition>à <localisation><commune insee="55545" precision="certain">Verdun</commune></localisation>, <typologie>anc. maison et communauté des sœurs dites <i>Sœurs grises</i> ou <i>de Saint-Vincent-de Paul</i></typologie>, établie à l’extrémité de la rue Saint-Louis, supprimée en <date>1790</date>, rétablie en <date>1802</date> dans les bâtiments de l’ancienne abbaye des Dames Bénédictines de Saint-Maur.</definition>
+    <definition>à <localisation><commune insee="55545" precision="certain">Verdun</commune></localisation>, <typologie>anc. maison et communauté des sœurs dites Sœurs grises ou de Saint-Vincent-de Paul</typologie>, établie à l’extrémité de la rue Saint-Louis, supprimée en <date>1790</date>, rétablie en <date>1802</date> dans les bâtiments de l’ancienne abbaye des Dames Bénédictines de Saint-Maur.</definition>
   </article>
   <article id="DT55-01066" pg="46">
     <vedette><sm>Charlemagne (Château de),</sm></vedette>
@@ -21595,9 +21595,9 @@
   <article id="DT55-03648" pg="159" type="commune">
     <vedette><sm>Morley,</sm></vedette>
     <definition><typologie>village</typologie> sur la Saulx, à <localisation>5 kil. au N. de Montiers-sur-Saulx</localisation>.</definition>
-    <forme_ancienne>— <i>Datum Morlacas vico publico quod fecit mensis Marcius dies decem, anno <sm>xvi</sm> regni domini nostri Clothocharii gloriosissimi Regis,</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(ch. de Clotaire III)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Datum quod fecit mensis december dies <sm>xii,</sm> anno <sm>v</sm> regni nostri, Morlaco in Dei nomine feliciter,</i> <date>678</date> <reference>(ch. de Théodoric III)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Ad nostro palatio Morlaco villa jussemus advenire… datum medio mense september, annum <sm>v</sm> regni nostri, Morlaco,</i> <date>678</date> <reference>(ch. de Théodoric III, convocation d’une assemblée à Morley des évêques de France et de Bourgogne)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Datum Morlacas vico publico quod fecit mensis Marcius dies decem, anno xvi regni domini nostri Clothocharii gloriosissimi Regis,</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(ch. de Clotaire III)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Datum quod fecit mensis december dies xii, anno v regni nostri, Morlaco in Dei nomine feliciter,</i> <date>678</date> <reference>(ch. de Théodoric III)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ad nostro palatio Morlaco villa jussemus advenire… datum medio mense september, annum v regni nostri, Morlaco,</i> <date>678</date> <reference>(ch. de Théodoric III, convocation d’une assemblée à Morley des évêques de France et de Bourgogne)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Morlei,</i> <date>1188</date> <reference>(Trés. des ch. B. 455, n° 57)</reference> ; <date>1249</date> <reference>(abb. d’Écurey)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Morley,</i> <date>1188</date> <reference>(Trés. des ch. B. 455)</reference> ; <date>1460</date> <reference>(coll. lorr. t. 247.39, A. 14)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Morleyum,</i> <date>1402</date> <reference>(regestr. Tull.)</reference>.</forme_ancienne>
