@@ -1,9 +1,9 @@
 ,DT_input,DT_output(CF)
 place(article),20208,20208
 place.label(//vedette/sm),20210,20210
-place.label(//sm) > 30,187,187
+place.label(//sm) > 30,187,13
 place.commune_insee_code(//insee),571,573
-place.localization_commune_insee_code(//commune/@insee),18907,20827
+place.localization_commune_insee_code(//commune/@insee),18907,20828
 codes insee non résolu(//commune[@insee='article_not_found']),778,0
 place_comment.content (//commentaire),4748,4748
 place_old_label (//forme_ancienne),69169,69169

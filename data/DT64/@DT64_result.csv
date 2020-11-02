@@ -2,10 +2,10 @@
 place(article),5799,5799
 place.label(//vedette/sm),5889,5889
 place.label(//sm) > 30,13,13
-place.commune_insee_code(//insee),558,560
+place.commune_insee_code(//insee),0,560
 place.localization_commune_insee_code(//commune/@insee),0,7592
 codes insee non résolu(//commune[@insee='article_not_found']),0,0
-place_comment.content (//commentaire),1339,1339
+place_comment.content (//commentaire),1340,1339
 place_old_label (//forme_ancienne),5414,5414
 place_description.content (//definition),5777,5777
 place_feature_type.term(//typologie),5162,5162

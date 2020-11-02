@@ -1,7 +1,7 @@
 ,DT_input,DT_output(CF)
 place(article),3926,3926
 place.label(//vedette/sm),4190,4190
-place.label(//sm) > 30,344,344
+place.label(//sm) > 30,344,103
 place.commune_insee_code(//insee),732,735
 place.localization_commune_insee_code(//commune/@insee),2605,4705
 codes insee non résolu(//commune[@insee='article_not_found']),154,0
