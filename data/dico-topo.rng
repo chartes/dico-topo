@@ -121,11 +121,12 @@
         <data type="integer"/>
       </attribute>
       <attribute name="precision">
+        <a:documentation>Type de la relation entre le lieu et la commune de localisation</a:documentation>
         <choice>
           <value>certain</value>
-          <a:documentation>certain : le lieu est localisé dans la commune</a:documentation>
+          <a:documentation>certain : le lieu est localisé dans la commune (broaderPartitive : http://vocab.getty.edu/ontology#anchor-28390563)</a:documentation>
           <value>approximatif</value>
-          <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
+          <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune (tgn3000_related_to)</a:documentation>
         </choice>
       </attribute>
       <text/>
