@@ -26,7 +26,7 @@
   </article>
   <article id="DT30-00005" pg="1">
     <vedette><sm>Abau (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, <localisation>commune de <commune insee="30044" precision="certain">Bonnevaux</commune></localisation> ; il se jette dans la Gagnère sur le <localisation>territoire de la commune de <commune insee="07148" precision="certain">Malbos</commune></localisation> (Ardèche).</definition>
+    <definition><typologie>ruisseau</typologie>, <localisation>commune de <commune insee="30044" precision="approximatif">Bonnevaux</commune></localisation> ; il se jette dans la Gagnère sur le <localisation>territoire de la commune de <commune insee="07148" precision="approximatif">Malbos</commune></localisation> (Ardèche).</definition>
   </article>
   <article id="DT30-00006" pg="1">
     <vedette><sm>Abauzit,</sm></vedette>
@@ -149,11 +149,11 @@
   </article>
   <article id="DT30-00030" pg="2">
     <vedette><sm>Agal (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30058" precision="certain">Cambo</commune></localisation> et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30263" precision="certain">Saint-Hippolyte-du-Fort</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30058" precision="approximatif">Cambo</commune></localisation> et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30263" precision="approximatif">Saint-Hippolyte-du-Fort</commune></localisation>.</definition>
   </article>
   <article id="DT30-00031" pg="2">
     <vedette><sm>Agal (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>chaussée de Planque</localisation>, <localisation>commune de <commune insee="30148" precision="certain">Liouc</commune></localisation>, et se jette dans le Vidourle un peu <localisation>au-dessous de <commune insee="30210" precision="approximatif">Quissac</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>chaussée de Planque</localisation>, <localisation>commune de <commune insee="30148" precision="approximatif">Liouc</commune></localisation>, et se jette dans le Vidourle un peu <localisation>au-dessous de <commune insee="30210" precision="approximatif">Quissac</commune></localisation>.</definition>
   </article>
   <article id="DT30-00032" pg="2">
     <vedette><sm>Agas (L'),</sm></vedette>
@@ -191,7 +191,7 @@
   </article>
   <article id="DT30-00038" pg="2">
     <vedette><sm>Agau (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30233" precision="certain">Saint-Bauzély-en-Malgoirès</commune></localisation> et se jette dans la Braüne sur le territoire de la <localisation>commune de la <commune insee="30224" precision="certain">Rouvière-en-Malgoirès</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30233" precision="approximatif">Saint-Bauzély-en-Malgoirès</commune></localisation> et se jette dans la Braüne sur le territoire de la <localisation>commune de la <commune insee="30224" precision="approximatif">Rouvière-en-Malgoirès</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 8 kilomètres.</p>
     </commentaire>
@@ -396,7 +396,7 @@
   </article>
   <article id="DT30-00069" pg="3">
     <vedette><sm>Aigueblanque (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="30086" precision="certain">Colorgues</commune></localisation> et se joint au Gardon sur le <localisation>territoire de celle de <commune insee="30241" precision="approximatif">Saint-Chapte</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="30086" precision="approximatif">Colorgues</commune></localisation> et se joint au Gardon sur le <localisation>territoire de celle de <commune insee="30241" precision="approximatif">Saint-Chapte</commune></localisation>.</definition>
   </article>
   <article id="DT30-00070" pg="3">
     <vedette><sm>Aiguebonne,</sm></vedette>
@@ -871,7 +871,7 @@
   </article>
   <article id="DT30-00138" pg="7">
     <vedette><sm>Amaleth (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="30130" precision="approximatif">Génolhac</commune></localisation> et se jette dans l'Homol à <localisation><commune insee="30316" precision="certain">Sénéchas</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="30130" precision="approximatif">Génolhac</commune></localisation> et se jette dans l'Homol à <localisation><commune insee="30316" precision="approximatif">Sénéchas</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 5,200 mètres.</p>
     </commentaire>
@@ -941,7 +941,7 @@
   </article>
   <article id="DT30-00150" pg="7">
     <vedette><sm>Andiole (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30282" precision="certain">Saint-Marcel-de-Carreiret</commune></localisation>, traverse celle de <localisation><commune insee="30225" precision="certain">Sabran</commune></localisation> et se jette dans la Cèze au moulin Bez, <localisation>commune de <commune insee="30225" precision="certain">Sabran</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30282" precision="approximatif">Saint-Marcel-de-Carreiret</commune></localisation>, traverse celle de <localisation><commune insee="30225" precision="approximatif">Sabran</commune></localisation> et se jette dans la Cèze au moulin Bez, <localisation>commune de <commune insee="30225" precision="approximatif">Sabran</commune></localisation>.</definition>
     <forme_ancienne>— <i>diIona</i> <reference>(inscr. d'un autel votif trouvé en <date>1849</date> aux environs de Bagnols ; cabinet de M. L. de Bérard, à Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Vionne,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'Audiole,</i> <date>1828</date> <reference>(notar. de Nimes)</reference>.</forme_ancienne>
@@ -1489,7 +1489,7 @@
   </article>
   <article id="DT30-00232" pg="11">
     <vedette><sm>Arias (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30223" precision="certain">Rousson</commune></localisation> et se jette dans l'Avène à la <localisation>Cavalerie</localisation>, <localisation>commune de <commune insee="30294" precision="certain">Saint-Privat-des-Vieux</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30223" precision="approximatif">Rousson</commune></localisation> et se jette dans l'Avène à la <localisation>Cavalerie</localisation>, <localisation>commune de <commune insee="30294" precision="approximatif">Saint-Privat-des-Vieux</commune></localisation>.</definition>
     <forme_ancienne>— <i>L'Allias,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Azias</i> <reference>(carte hydr. du Gard)</reference>.</forme_ancienne>
     <commentaire>
@@ -1498,7 +1498,7 @@
   </article>
   <article id="DT30-00233" pg="11">
     <vedette><sm>Ariasse (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30128" precision="certain">Générac</commune></localisation> et traverse celle d'<localisation><commune insee="30020" precision="certain">Aubord</commune></localisation>, sur le territoire de laquelle il se jette dans un vallat du Vistre.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30128" precision="approximatif">Générac</commune></localisation> et traverse celle d'<localisation><commune insee="30020" precision="approximatif">Aubord</commune></localisation>, sur le territoire de laquelle il se jette dans un vallat du Vistre.</definition>
   </article>
   <article id="DT30-00234" pg="11">
     <vedette><sm>Arièges (Les),</sm></vedette>
@@ -1551,7 +1551,7 @@
   </article>
   <article id="DT30-00238" pg="12">
     <vedette><sm>Arlende,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>commune de <commune insee="30048" precision="certain">Bouquet</commune></localisation> et se jette dans l'Auzonnet sur la <localisation>commune d’<commune insee="30008" precision="certain">Allègre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>commune de <commune insee="30048" precision="approximatif">Bouquet</commune></localisation> et se jette dans l'Auzonnet sur la <localisation>commune d’<commune insee="30008" precision="approximatif">Allègre</commune></localisation>.</definition>
   </article>
   <article id="DT30-00239" pg="12">
     <vedette><sm>Arluse,</sm></vedette>
@@ -1758,7 +1758,7 @@
   </article>
   <article id="DT30-00269" pg="13">
     <vedette><sm>Artigue (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30200" precision="certain">Pompignan</commune></localisation>, <localisation>près du hameau de Quintanel</localisation>, et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30311" precision="approximatif">Sauve</commune></localisation>, après avoir reçu le Rieumassel.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30200" precision="approximatif">Pompignan</commune></localisation>, <localisation>près du hameau de Quintanel</localisation>, et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30311" precision="approximatif">Sauve</commune></localisation>, après avoir reçu le Rieumassel.</definition>
     <commentaire>
       <p>— Son parcours est de 12,500 mètres.</p>
     </commentaire>
@@ -2195,7 +2195,7 @@
   </article>
   <article id="DT30-00332" pg="16">
     <vedette><sm>Auriol (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30101" precision="certain">Deaux</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30348" precision="certain">Vèzenobre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30101" precision="approximatif">Deaux</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30348" precision="approximatif">Vèzenobre</commune></localisation>.</definition>
   </article>
   <article id="DT30-00333" pg="16">
     <vedette><sm>Auriol (L'),</sm></vedette>
@@ -2222,7 +2222,7 @@
   </article>
   <article id="DT30-00338" pg="16">
     <vedette><sm>Ausson (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30058" precision="certain">Cadière</commune></localisation> et sort du département pour aller se jeter dans l'Hérault sur le <localisation>territoire de <commune insee="34243" precision="approximatif">Saint-Bauzile-de-Putois</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30058" precision="approximatif">Cadière</commune></localisation> et sort du département pour aller se jeter dans l'Hérault sur le <localisation>territoire de <commune insee="34243" precision="approximatif">Saint-Bauzile-de-Putois</commune></localisation>.</definition>
     <forme_ancienne>— <i>L'Alzon</i> <reference>(Mercier de La Morière, <i>Carte hydr. du Gard</i>)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-00339" pg="16">
@@ -2266,7 +2266,7 @@
   </article>
   <article id="DT30-00348" pg="16">
     <vedette><sm>Auzigue,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30225" precision="certain">Sabran</commune></localisation> et va se jeter dans le Tave sur le <localisation>territoire de la commune de <commune insee="30076" precision="certain">Cavillargues</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30225" precision="approximatif">Sabran</commune></localisation> et va se jeter dans le Tave sur le <localisation>territoire de la commune de <commune insee="30076" precision="approximatif">Cavillargues</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 6 kilomètres.</p>
     </commentaire>
@@ -2302,7 +2302,7 @@
   </article>
   <article id="DT30-00352" pg="17">
     <vedette><sm>Auzonnette (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30275" precision="certain">Saint-Just-et-Vaquières</commune></localisation> et se jette dans l'Auzonnet sur le <localisation>territoire de la commune d’<commune insee="30008" precision="certain">Allègre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30275" precision="approximatif">Saint-Just-et-Vaquières</commune></localisation> et se jette dans l'Auzonnet sur le <localisation>territoire de la commune d’<commune insee="30008" precision="approximatif">Allègre</commune></localisation>.</definition>
   </article>
   <article id="DT30-00353" pg="17">
     <vedette><sm>Avedon,</sm></vedette>
@@ -2315,7 +2315,7 @@
   </article>
   <article id="DT30-00354" pg="17">
     <vedette><sm>Avedon (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>domaine de la Tour</localisation>, <localisation>commune d’<commune insee="30334" precision="certain">Uzès</commune></localisation>, et se jette dans l'Alzon sur la <localisation>commune de <commune insee="30286" precision="certain">Saint-Maximin</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>domaine de la Tour</localisation>, <localisation>commune d’<commune insee="30334" precision="approximatif">Uzès</commune></localisation>, et se jette dans l'Alzon sur la <localisation>commune de <commune insee="30286" precision="approximatif">Saint-Maximin</commune></localisation>.</definition>
   </article>
   <article id="DT30-00355" pg="17">
     <vedette><sm>Avègne (L'),</sm></vedette>
@@ -2550,7 +2550,7 @@
   </article>
   <article id="DT30-00390" pg="18">
     <vedette><sm>Baissasse (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation>Fontbonne</localisation>, <localisation>commune de <commune insee="30352" precision="certain">Villevieille</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30321" precision="approximatif">Sommière</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation>Fontbonne</localisation>, <localisation>commune de <commune insee="30352" precision="approximatif">Villevieille</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30321" precision="approximatif">Sommière</commune></localisation>.</definition>
   </article>
   <article id="DT30-00391" pg="18">
     <vedette><sm>Baïsse-de-Japhet (La),</sm></vedette>
@@ -2567,7 +2567,7 @@
   </article>
   <article id="DT30-00394" pg="18">
     <vedette><sm>Baix (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30267" precision="approximatif">Saint-Jean-de-Serres</commune></localisation>, traverse celle de <localisation><commune insee="30065" precision="approximatif">Canaules-et-Argentières</commune></localisation> et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30150" precision="certain">Logrian-et-Comiac-de-Florian</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30267" precision="approximatif">Saint-Jean-de-Serres</commune></localisation>, traverse celle de <localisation><commune insee="30065" precision="approximatif">Canaules-et-Argentières</commune></localisation> et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30150" precision="approximatif">Logrian-et-Comiac-de-Florian</commune></localisation>.</definition>
     <forme_ancienne>— <i>Biotum,</i> <date>1236</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riperia d'Emi-Biot,</i> <date>1253</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Bayle,</i> <date>1642</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
@@ -2802,7 +2802,7 @@
   </article>
   <article id="DT30-00439" pg="19">
     <vedette><sm>Barlaude (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30101" precision="certain">Deaux</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de <commune insee="30348" precision="approximatif">Vèzenobre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30101" precision="approximatif">Deaux</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de <commune insee="30348" precision="approximatif">Vèzenobre</commune></localisation>.</definition>
   </article>
   <article id="DT30-00440" pg="19">
     <vedette><sm>Barma (Le),</sm></vedette>
@@ -3461,7 +3461,7 @@
   </article>
   <article id="DT30-00576" pg="22">
     <vedette><sm>Bavière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30180" precision="certain">Montignargues</commune></localisation> et se jette dans la Braüne sur le <localisation>territoire de la <commune insee="30224" precision="approximatif">Rouvière-en-Malgoirès</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30180" precision="approximatif">Montignargues</commune></localisation> et se jette dans la Braüne sur le <localisation>territoire de la <commune insee="30224" precision="approximatif">Rouvière-en-Malgoirès</commune></localisation>.</definition>
   </article>
   <article id="DT30-00577" pg="22">
     <vedette><sm>Bayle (Le),</sm></vedette>
@@ -3547,7 +3547,7 @@
   </article>
   <article id="DT30-00591" pg="23">
     <vedette><sm>Beaumont,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30206" precision="certain">Poulx</commune></localisation> et se jette dans le Gardon sur la <localisation>commune de <commune insee="30085" precision="certain">Colias</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30206" precision="approximatif">Poulx</commune></localisation> et se jette dans le Gardon sur la <localisation>commune de <commune insee="30085" precision="approximatif">Colias</commune></localisation>.</definition>
     <forme_ancienne>— <i>De Bello-Monte,</i> <date>1254</date> <reference>(bibl. du gr. sém. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le bois de Laval ou Beaumont,</i> <date>1723</date> <reference>(arch. comm. de Colias)</reference>.</forme_ancienne>
   </article>
@@ -3696,7 +3696,7 @@
   </article>
   <article id="DT30-00617" pg="24">
     <vedette><sm>Bedous (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Cap-des-Mourèses</localisation>, <localisation>commune du <commune insee="30350" precision="certain">Vigan</commune></localisation>, traverse la <localisation>commune de <commune insee="30154" precision="certain">Mandagout</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune de <commune insee="30229" precision="certain">Saint-André-de-Majencoules</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Cap-des-Mourèses</localisation>, <localisation>commune du <commune insee="30350" precision="approximatif">Vigan</commune></localisation>, traverse la <localisation>commune de <commune insee="30154" precision="approximatif">Mandagout</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune de <commune insee="30229" precision="approximatif">Saint-André-de-Majencoules</commune></localisation>.</definition>
     <forme_ancienne>— <i>Territorium et vallatum de Bedos,</i> <date>1472</date> <reference>(A. Razoris, not. du Vigan)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-00618" pg="24">
@@ -3773,7 +3773,7 @@
   </article>
   <article id="DT30-00634" pg="24">
     <vedette><sm>Bégude-de-Sernhac (Ruiss. de la),</sm></vedette>
-    <definition>sort de l'<localisation>étang de Clausonne</localisation>, <localisation>commune de <commune insee="30166" precision="certain">Meynes</commune></localisation>, et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30179" precision="certain">Montfrin</commune></localisation>.</definition>
+    <definition>sort de l'<localisation>étang de Clausonne</localisation>, <localisation>commune de <commune insee="30166" precision="approximatif">Meynes</commune></localisation>, et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le ruisseau de Malentrin,</i> <date>1760</date> <reference>(arch. départ. C. 1127)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vallat-de-Bournègre,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
   </article>
@@ -4179,7 +4179,7 @@
   </article>
   <article id="DT30-00711" pg="26">
     <vedette><sm>Bezon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Bezon</localisation>, <localisation>commune de <commune insee="30044" precision="certain">Bonnevaux</commune></localisation>, et se jette dans la Conne sur le <localisation>territoire de la commune de <commune insee="30090" precision="certain">Concoules</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Bezon</localisation>, <localisation>commune de <commune insee="30044" precision="approximatif">Bonnevaux</commune></localisation>, et se jette dans la Conne sur le <localisation>territoire de la commune de <commune insee="30090" precision="approximatif">Concoules</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 3,500 mètres.</p>
     </commentaire>
@@ -4672,7 +4672,7 @@
   </article>
   <article id="DT30-00800" pg="29">
     <vedette><sm>Boissière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation>Ségoussas</localisation>, <localisation>commune de <commune insee="30223" precision="certain">Rousson</commune></localisation>, et se jette dans le Camelier sur le <localisation>territoire de la commune de <commune insee="30187" precision="certain">Navacelle</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation>Ségoussas</localisation>, <localisation>commune de <commune insee="30223" precision="approximatif">Rousson</commune></localisation>, et se jette dans le Camelier sur le <localisation>territoire de la commune de <commune insee="30187" precision="approximatif">Navacelle</commune></localisation>.</definition>
     <forme_ancienne>— <i>Riperia de Boyseria,</i> <date>1462</date> <reference>(reg.-cop. de lettr. roy. E, <sm>v</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'Aubaron</i> <reference>(carte hydr. du Gard)</reference>.</forme_ancienne>
     <commentaire>
@@ -4774,7 +4774,7 @@
   </article>
   <article id="DT30-00816" pg="29">
     <vedette><sm>Bonheur (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>Sérayrède</localisation>, <localisation>commune de <commune insee="30339" precision="certain">Valleraugue</commune></localisation>, disparaît dans l'abîme de Bramabiaou et, après avoir reparu, va se jeter dans <pg>30</pg>le Trévezels sur la <localisation>commune de <commune insee="30297" precision="certain">Saint-Sauveur-des-Poursils</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>Sérayrède</localisation>, <localisation>commune de <commune insee="30339" precision="approximatif">Valleraugue</commune></localisation>, disparaît dans l'abîme de Bramabiaou et, après avoir reparu, va se jeter dans <pg>30</pg>le Trévezels sur la <localisation>commune de <commune insee="30297" precision="approximatif">Saint-Sauveur-des-Poursils</commune></localisation>.</definition>
     <forme_ancienne>— <i>Aqua de Calmrieu,</i> <date>1150</date> <reference>(cart. de N.-D. de Bonh. ch. 46)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Aqua de Calmriu,</i> <date>1238</date> <reference>(cart. de N.-D. de Bonh. ch. 45)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vallatum de Campo-Rivo,</i> <date>1265</date> <reference>(cart. de N.-D. de Bonh. ch. 47)</reference>.</forme_ancienne>
@@ -4876,7 +4876,7 @@
   </article>
   <article id="DT30-00835" pg="30">
     <vedette><sm>Bordarié (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07033" precision="approximatif">Bessas</commune> (Ardèche)</localisation> et se jette dans le Roméjac sur le <localisation>territoire de la commune de <commune insee="30029" precision="certain">Barjac</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07033" precision="approximatif">Bessas</commune> (Ardèche)</localisation> et se jette dans le Roméjac sur le <localisation>territoire de la commune de <commune insee="30029" precision="approximatif">Barjac</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 5,200 mètres.</p>
     </commentaire>
@@ -5518,7 +5518,7 @@
   </article>
   <article id="DT30-00958" pg="33">
     <vedette><sm>Bournaves (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Liquemaille</localisation>, <localisation>commune de <commune insee="30153" precision="certain">Malons</commune></localisation>, et se jette dans la Cèze au <localisation>hameau de Conflans</localisation>, <localisation>commune de <commune insee="30201" precision="certain">Ponteils</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Liquemaille</localisation>, <localisation>commune de <commune insee="30153" precision="approximatif">Malons</commune></localisation>, et se jette dans la Cèze au <localisation>hameau de Conflans</localisation>, <localisation>commune de <commune insee="30201" precision="approximatif">Ponteils</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 3,500 mètres.</p>
     </commentaire>
@@ -5825,7 +5825,7 @@
   </article>
   <article id="DT30-01016" pg="35">
     <vedette><sm>Branoux (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30051" precision="certain">Blannaves</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune des <commune insee="30307" precision="certain">Salles-du-Gardon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30051" precision="approximatif">Blannaves</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune des <commune insee="30307" precision="approximatif">Salles-du-Gardon</commune></localisation>.</definition>
   </article>
   <article id="DT30-01017" pg="35">
     <vedette><sm>Brasque,</sm></vedette>
@@ -6008,7 +6008,7 @@
   </article>
   <article id="DT30-01046" pg="36">
     <vedette><sm>Brié (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30088" precision="certain">Combas</commune></localisation> et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30114" precision="approximatif">Fontanès</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30088" precision="approximatif">Combas</commune></localisation> et se jette dans le Vidourle sur le <localisation>territoire de <commune insee="30114" precision="approximatif">Fontanès</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le valat de Brye, la rivière de Brye,</i> <date>1616</date> <reference>(arch. comm. de Combas)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-01047" pg="36">
@@ -6199,7 +6199,7 @@
   </article>
   <article id="DT30-01075" pg="37">
     <vedette><sm>Bruéges (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au Mas-Moreau, <localisation>commune de <commune insee="30294" precision="certain">Saint-Privat-des-Vieux</commune></localisation>, et se jette dans le Grabieu sur le <localisation>territoire de la commune d’<commune insee="30007" precision="certain">Alais</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au Mas-Moreau, <localisation>commune de <commune insee="30294" precision="approximatif">Saint-Privat-des-Vieux</commune></localisation>, et se jette dans le Grabieu sur le <localisation>territoire de la commune d’<commune insee="30007" precision="approximatif">Alais</commune></localisation>.</definition>
   </article>
   <article id="DT30-01076" pg="37">
     <vedette><sm>Brueis,</sm></vedette>
@@ -6341,7 +6341,7 @@
   </article>
   <article id="DT30-01099" pg="38">
     <vedette><sm>Bruguière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30234" precision="certain">Saint-Bénézet</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30046" precision="certain">Boucoiran</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30234" precision="approximatif">Saint-Bénézet</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30046" precision="approximatif">Boucoiran</commune></localisation>.</definition>
   </article>
   <article id="DT30-01100" pg="38">
     <vedette><sm>Bruguiérette (La),</sm></vedette>
@@ -6677,7 +6677,7 @@
   </article>
   <article id="DT30-01173" pg="39">
     <vedette><sm>Cabredées (Les),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30252" precision="certain">Saint-Félix-de-Pallières</commune></localisation> et se jette dans l'Ourne sur le <localisation>territoire de la commune d’<commune insee="30010" precision="certain">Anduze</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30252" precision="approximatif">Saint-Félix-de-Pallières</commune></localisation> et se jette dans l'Ourne sur le <localisation>territoire de la commune d’<commune insee="30010" precision="approximatif">Anduze</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cabredées sire Valéraube,</i> <date>1812</date> <reference>(notar. de Nimes)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-01174" pg="39">
@@ -6912,7 +6912,7 @@
   </article>
   <article id="DT30-01209" pg="41">
     <vedette><sm>Cagaraule (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Fontanille</localisation>, <localisation>commune de <commune insee="30062" precision="certain">Calvisson</commune></localisation>, et se jette dans le Rhôny sur le <localisation>territoire de la commune de <commune insee="30043" precision="certain">Boissières</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Fontanille</localisation>, <localisation>commune de <commune insee="30062" precision="approximatif">Calvisson</commune></localisation>, et se jette dans le Rhôny sur le <localisation>territoire de la commune de <commune insee="30043" precision="approximatif">Boissières</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cagalaure,</i> <date>1567</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cagerole,</i> <date>1619</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <commentaire>
@@ -7686,11 +7686,11 @@
   </article>
   <article id="DT30-01346" pg="45">
     <vedette><sm>Canabière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="30048" precision="certain">Bouquet</commune></localisation> et va se jeter dans l'Aguillon, au <localisation>hameau de Valcrose</localisation>, <localisation>commune de <commune insee="30151" precision="certain">Lussan</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="30048" precision="approximatif">Bouquet</commune></localisation> et va se jeter dans l'Aguillon, au <localisation>hameau de Valcrose</localisation>, <localisation>commune de <commune insee="30151" precision="approximatif">Lussan</commune></localisation>.</definition>
   </article>
   <article id="DT30-01347" pg="45">
     <vedette><sm>Canabou (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30057" precision="certain">Cabrières</commune></localisation> et se jette dans le Vistre à <localisation>Couloures</localisation>, <localisation>commune de <commune insee="30156" precision="certain">Marguerittes</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30057" precision="approximatif">Cabrières</commune></localisation> et se jette dans le Vistre à <localisation>Couloures</localisation>, <localisation>commune de <commune insee="30156" precision="approximatif">Marguerittes</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 7 kilomètres.</p>
     </commentaire>
@@ -7821,7 +7821,7 @@
   </article>
   <article id="DT30-01370" pg="46">
     <vedette><sm>Cannabière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30030" precision="certain">Barron</commune></localisation> et va se jeter dans la Candoullière sur le <localisation>territoire de la commune de <commune insee="30285" precision="certain">Saint-Maurice-de-Casesvieilles</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30030" precision="approximatif">Barron</commune></localisation> et va se jeter dans la Candoullière sur le <localisation>territoire de la commune de <commune insee="30285" precision="approximatif">Saint-Maurice-de-Casesvieilles</commune></localisation>.</definition>
   </article>
   <article id="DT30-01371" pg="46">
     <vedette><sm>Cannac,</sm></vedette>
@@ -7879,7 +7879,7 @@
   </article>
   <article id="DT30-01379" pg="46">
     <vedette><sm>Cantarel (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="30072" precision="certain">Castelnau</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30053" precision="certain">Brignon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="30072" precision="approximatif">Castelnau</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30053" precision="approximatif">Brignon</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 4,300 mètres.</p>
     </commentaire>
@@ -8174,7 +8174,7 @@
   </article>
   <article id="DT30-01435" pg="48">
     <vedette><sm>Carréol (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>montagne de Peyremale</localisation>, <localisation>commune de <commune insee="30027" precision="certain">Bagard</commune></localisation>, et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30214" precision="certain">Ribaute</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>montagne de Peyremale</localisation>, <localisation>commune de <commune insee="30027" precision="approximatif">Bagard</commune></localisation>, et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30214" precision="approximatif">Ribaute</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vallatum de Carriolo, in parrochia Sancti-Saturnini de Bagarnis,</i> <date>1429</date> <reference>(Et. Rostang, not. d'Anduze)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Vallat-de-Fontvive,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Carriol</i> <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
@@ -9043,7 +9043,7 @@
   </article>
   <article id="DT30-01579" pg="53">
     <vedette><sm>Cèze (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à <localisation>Saint-André-de-Capcèze</localisation> (Lozère), entre dans le département sur <pg>54</pg>le <localisation>territoire de la commune de <commune insee="30201" precision="certain">Ponteils</commune></localisation> et, après en avoir arrosé toute la partie septentrionale, se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30084" precision="certain">Codolet</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à <localisation>Saint-André-de-Capcèze</localisation> (Lozère), entre dans le département sur <pg>54</pg>le <localisation>territoire de la commune de <commune insee="30201" precision="approximatif">Ponteils</commune></localisation> et, après en avoir arrosé toute la partie septentrionale, se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30084" precision="approximatif">Codolet</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cicer,</i> <date>817</date> <reference>(Hist. de Lang. t. I, pr. <i>Dipl. de Louis le Débonnaire</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvius Cicers,</i> <date>1242</date> <reference>(Gall. Christ. t. VI, p. 618)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cisser,</i> <date>1384</date> <reference>(dénombr. de la sénéch.)</reference>.</forme_ancienne>
@@ -9436,7 +9436,7 @@
   </article>
   <article id="DT30-01659" pg="55">
     <vedette><sm>Chaudebois (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30270" precision="certain">Saint-Jean-du-Pin</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune d’<commune insee="30007" precision="certain">Alais</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30270" precision="approximatif">Saint-Jean-du-Pin</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune d’<commune insee="30007" precision="approximatif">Alais</commune></localisation>.</definition>
     <forme_ancienne>— <i>Chaud-de-Bois,</i> <date>1850</date> <reference>(notar. de Nimes)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-01660" pg="55">
@@ -9769,7 +9769,7 @@
   </article>
   <article id="DT30-01698" pg="58">
     <vedette><sm>Claisse (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07211" precision="certain">Saint-André-de-Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur la <localisation>commune de <commune insee="30266" precision="certain">Saint-Jean-de-Maruéjols</commune></localisation> et se jette dans la Cèze sur le territoire de cette même commune.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07211" precision="approximatif">Saint-André-de-Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur la <localisation>commune de <commune insee="30266" precision="approximatif">Saint-Jean-de-Maruéjols</commune></localisation> et se jette dans la Cèze sur le territoire de cette même commune.</definition>
     <commentaire>
       <p>— Parcours : 4 kilomètres.</p>
     </commentaire>
@@ -10526,7 +10526,7 @@
   </article>
   <article id="DT30-01825" pg="62">
     <vedette><sm>Combe (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30149" precision="certain">Lirac</commune></localisation>, <localisation>près de la Sainte-Baume de <commune insee="30149" precision="approximatif">Lirac</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30149" precision="approximatif">Lirac</commune></localisation>, <localisation>près de la Sainte-Baume de <commune insee="30149" precision="approximatif">Lirac</commune></localisation>.</definition>
     <forme_ancienne>— <date>1780</date> <reference>(arch. départ. C. 1650)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-01826" pg="62">
@@ -10815,7 +10815,7 @@
   </article>
   <article id="DT30-01885" pg="64">
     <vedette><sm>Comeyro (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Comeyro</localisation>, <localisation>commune de <commune insee="30238" precision="certain">Saint-Bresson</commune></localisation>, et se jette dans la Vis sur le <localisation>territoire de la commune de <commune insee="30280" precision="certain">Saint-Laurent-le-Minier</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Comeyro</localisation>, <localisation>commune de <commune insee="30238" precision="approximatif">Saint-Bresson</commune></localisation>, et se jette dans la Vis sur le <localisation>territoire de la commune de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
   </article>
   <article id="DT30-01886" pg="64" type="commune">
     <vedette><sm>Comiac,</sm></vedette>
@@ -10930,7 +10930,7 @@
   </article>
   <article id="DT30-01902" pg="64">
     <vedette><sm>Conduzorgues,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Conduzorgues</localisation>, <localisation>commune de <commune insee="30176" precision="certain">Montdardier</commune></localisation>, et se jette dans la Vis sur la <localisation>commune de <commune insee="34115" precision="certain">Gorniès</commune></localisation> (Hérault).</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de Conduzorgues</localisation>, <localisation>commune de <commune insee="30176" precision="approximatif">Montdardier</commune></localisation>, et se jette dans la Vis sur la <localisation>commune de <commune insee="34115" precision="approximatif">Gorniès</commune></localisation> (Hérault).</definition>
   </article>
   <article id="DT30-01903" pg="64">
     <vedette><sm>Confine (La),</sm></vedette>
@@ -10998,7 +10998,7 @@
   </article>
   <article id="DT30-01909" pg="65">
     <vedette><sm>Conne (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois des Armes</localisation>, <localisation>commune de <commune insee="30090" precision="certain">Concoules</commune></localisation>, et se jette dans la Cèze au <localisation>hameau de Conflans</localisation>, <localisation>commune de <commune insee="30201" precision="certain">Ponteils</commune></localisation>, qui en prend son nom (<i>confluens</i>).</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois des Armes</localisation>, <localisation>commune de <commune insee="30090" precision="approximatif">Concoules</commune></localisation>, et se jette dans la Cèze au <localisation>hameau de Conflans</localisation>, <localisation>commune de <commune insee="30201" precision="approximatif">Ponteils</commune></localisation>, qui en prend son nom (<i>confluens</i>).</definition>
     <commentaire>
       <p>— Son parcours est de 4,300 mètres.</p>
     </commentaire>
@@ -11123,7 +11123,7 @@
   </article>
   <article id="DT30-01932" pg="66">
     <vedette><sm>Contry (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>ferme de Lacan</localisation>, <localisation>commune de <commune insee="30252" precision="certain">Saint-Félix-de-Pallières</commune></localisation>, traverse le <localisation>territoire de <commune insee="30172" precision="approximatif">Monoblet</commune></localisation> et va se jeter dans le Crespenon ou Cazalet sur le <localisation>territoire de la commune de <commune insee="30119" precision="certain">Fressac</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>ferme de Lacan</localisation>, <localisation>commune de <commune insee="30252" precision="approximatif">Saint-Félix-de-Pallières</commune></localisation>, traverse le <localisation>territoire de <commune insee="30172" precision="approximatif">Monoblet</commune></localisation> et va se jeter dans le Crespenon ou Cazalet sur le <localisation>territoire de la commune de <commune insee="30119" precision="approximatif">Fressac</commune></localisation>.</definition>
     <forme_ancienne>— <i>Conturby</i> <reference>(carte hydr. du Gard)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours : 3,500 mètres.</p>
@@ -11152,7 +11152,7 @@
   </article>
   <article id="DT30-01936" pg="66">
     <vedette><sm>Corbière (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune d’<commune insee="30023" precision="certain">Aujargues</commune></localisation>, traverse celle de <localisation><commune insee="30352" precision="certain">Villevieille</commune></localisation> et va se jeter dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30321" precision="certain">Sommière</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune d’<commune insee="30023" precision="approximatif">Aujargues</commune></localisation>, traverse celle de <localisation><commune insee="30352" precision="approximatif">Villevieille</commune></localisation> et va se jeter dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30321" precision="approximatif">Sommière</commune></localisation>.</definition>
   </article>
   <article id="DT30-01937" pg="66">
     <vedette><sm>Corcadesse,</sm></vedette>
@@ -11492,7 +11492,7 @@
   </article>
   <article id="DT30-01999" pg="68">
     <vedette><sm>Coularou (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="certain">Saint-Bresson</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune du <commune insee="30350" precision="certain">Vigan</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="approximatif">Saint-Bresson</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune du <commune insee="30350" precision="approximatif">Vigan</commune></localisation>.</definition>
     <forme_ancienne>— <i>Riperia de Colaro,</i> <date>1330</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riperia descendens versus mansum de Croalono,</i> <date>1430</date> <reference>(A. Montfajon, not. du Vigan)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ripperia de Coralono,</i> <date>1461</date> <reference>(reg.-cop. de lettr. roy. E, <sm>v</sm>)</reference>.</forme_ancienne>
@@ -11503,14 +11503,14 @@
   </article>
   <article id="DT30-02000" pg="68">
     <vedette><sm>Coulègne (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Coulègne</localisation>, <localisation>commune de <commune insee="30087" precision="certain">Colognac</commune></localisation>, et se jette dans la Salindre sur le <localisation>territoire de la commune de la <commune insee="30140" precision="certain">Salle</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Coulègne</localisation>, <localisation>commune de <commune insee="30087" precision="approximatif">Colognac</commune></localisation>, et se jette dans la Salindre sur le <localisation>territoire de la commune de la <commune insee="30140" precision="approximatif">Salle</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 4,400 mètres.</p>
     </commentaire>
   </article>
   <article id="DT30-02001" pg="68">
     <vedette><sm>Coulès (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois de Paris</localisation>, <localisation>commune d’<commune insee="30018" precision="certain">Aspères</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30306" precision="certain">Salinelles</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois de Paris</localisation>, <localisation>commune d’<commune insee="30018" precision="approximatif">Aspères</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30306" precision="approximatif">Salinelles</commune></localisation>.</definition>
     <forme_ancienne>— <i>Pont-de-Coulès,</i> <date>1754</date> <reference>(plans de l'archit. G. Rollin)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-02002" pg="68">
@@ -12485,7 +12485,7 @@
   </article>
   <article id="DT30-02189" pg="73">
     <vedette><sm>Derbèze (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30342" precision="certain">Vénéjan</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30028" precision="certain">Bagnols</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30342" precision="approximatif">Vénéjan</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30028" precision="approximatif">Bagnols</commune></localisation>.</definition>
     <commentaire>
       <p>— Il s'appelle aussi <i>la Passadouire.</i></p>
     </commentaire>
@@ -12580,7 +12580,7 @@
   </article>
   <article id="DT30-02210" pg="73">
     <vedette><sm>Devèze (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Quier</localisation>, <localisation>commune de <commune insee="30157" precision="certain">Mars</commune></localisation>, et se jette dans le Rat sur le <localisation>territoire de la commune de <commune insee="30052" precision="certain">Bréau</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Quier</localisation>, <localisation>commune de <commune insee="30157" precision="approximatif">Mars</commune></localisation>, et se jette dans le Rat sur le <localisation>territoire de la commune de <commune insee="30052" precision="approximatif">Bréau</commune></localisation>.</definition>
   </article>
   <article id="DT30-02211" pg="73">
     <vedette><sm>Devézette (La),</sm></vedette>
@@ -12617,7 +12617,7 @@
   </article>
   <article id="DT30-02219" pg="73">
     <vedette><sm>Dieuses,</sm></vedette>
-    <definition><typologie>hameau</typologie> aujourd'hui <localisation>commune de <commune insee="30079" precision="certain">Chambon</commune></localisation>, auparavant de la <localisation>commune de <commune insee="30316" precision="certain">Sénéchas</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie> aujourd'hui <localisation>commune de <commune insee="30079" precision="approximatif">Chambon</commune></localisation>, auparavant de la <localisation>commune de <commune insee="30316" precision="approximatif">Sénéchas</commune></localisation>.</definition>
     <forme_ancienne>— <i>Dieusses,</i> <date>1715</date> <reference>(J.-B. Nolin, <i>Carte du diocèse d'Uzès</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Devisse</i> (sic), <i>mandement de Peiremale,</i> <date>1737</date> <reference>(arch. départ. C. 1498)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Dieuse,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
@@ -12793,11 +12793,11 @@
   </article>
   <article id="DT30-02244" pg="74">
     <vedette><sm>Doulibre (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>Font-de-Grazilhes</localisation>, <localisation>commune de <commune insee="30098" precision="certain">Crespian</commune></localisation>, et se jette dans le <pg>75</pg>Vidourle sur le <localisation>territoire de la commune de <commune insee="30349" precision="certain">Vic-le-Fesq</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>Font-de-Grazilhes</localisation>, <localisation>commune de <commune insee="30098" precision="approximatif">Crespian</commune></localisation>, et se jette dans le <pg>75</pg>Vidourle sur le <localisation>territoire de la commune de <commune insee="30349" precision="approximatif">Vic-le-Fesq</commune></localisation>.</definition>
   </article>
   <article id="DT30-02245" pg="75">
     <vedette><sm>Douloby (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07024" precision="certain">Banne</commune></localisation> (Ardèche) et se jette dans le Gardon au <localisation>hameau du Devès</localisation>, <localisation>commune de <commune insee="30120" precision="certain">Castillon-de-Gagnère</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07024" precision="approximatif">Banne</commune></localisation> (Ardèche) et se jette dans le Gardon au <localisation>hameau du Devès</localisation>, <localisation>commune de <commune insee="30120" precision="approximatif">Castillon-de-Gagnère</commune></localisation>.</definition>
     <commentaire>
       <p>— On appelle aussi ce ruisseau <i>la Doulobie.</i></p>
     </commentaire>
@@ -12828,7 +12828,7 @@
   </article>
   <article id="DT30-02249" pg="75">
     <vedette><sm>Dourbie (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source dans les <localisation>bois de Montals</localisation>, sur l'Espérou, traverse le <localisation>territoire de la commune de <commune insee="30105" precision="certain">Dourbie</commune></localisation>, entre dans le <localisation>département de l'Aveyron</localisation> et va se jeter dans le Tarn à <localisation><commune insee="30169" precision="certain">Milhau</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source dans les <localisation>bois de Montals</localisation>, sur l'Espérou, traverse le <localisation>territoire de la commune de <commune insee="30105" precision="approximatif">Dourbie</commune></localisation>, entre dans le <localisation>département de l'Aveyron</localisation> et va se jeter dans le Tarn à <localisation><commune insee="30169" precision="approximatif">Milhau</commune></localisation>.</definition>
     <forme_ancienne>— <i>Flumen Durbiæ,</i> <date>1278</date> <reference>(cart. de N.-D. de Bonh. ch. 101)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1309</date> <reference>(cart. de N.-D. de Bonh. ch. 88)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvius Durbiæ,</i> <date>1514</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
@@ -13219,7 +13219,7 @@
   </article>
   <article id="DT30-02320" pg="77">
     <vedette><sm>Escaillon (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>ferme de Campagnolles</localisation>, <localisation>commune de <commune insee="30128" precision="certain">Générac</commune></localisation>, traverse la <localisation>commune d’<commune insee="30020" precision="certain">Aubord</commune></localisation> et se jette dans le Vistre un peu <localisation>au-dessus du moulin Fouquet</localisation>, <localisation>commune d’<commune insee="30020" precision="certain">Aubord</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>ferme de Campagnolles</localisation>, <localisation>commune de <commune insee="30128" precision="approximatif">Générac</commune></localisation>, traverse la <localisation>commune d’<commune insee="30020" precision="approximatif">Aubord</commune></localisation> et se jette dans le Vistre un peu <localisation>au-dessus du moulin Fouquet</localisation>, <localisation>commune d’<commune insee="30020" precision="approximatif">Aubord</commune></localisation>.</definition>
   </article>
   <article id="DT30-02321" pg="77">
     <vedette><sm>Escalette (L'),</sm></vedette>
@@ -13283,7 +13283,7 @@
   </article>
   <article id="DT30-02333" pg="77">
     <vedette><sm>Escattes (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30091" precision="certain">Congéniès</commune></localisation>, traverse celle de <localisation><commune insee="30062" precision="certain">Calvisson</commune></localisation> et va se jeter dans le Rhôny un peu <localisation>au-dessus de la ferme de Lorieux</localisation>, <localisation>commune de <commune insee="30062" precision="certain">Calvisson</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30091" precision="approximatif">Congéniès</commune></localisation>, traverse celle de <localisation><commune insee="30062" precision="approximatif">Calvisson</commune></localisation> et va se jeter dans le Rhôny un peu <localisation>au-dessus de la ferme de Lorieux</localisation>, <localisation>commune de <commune insee="30062" precision="approximatif">Calvisson</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 8 kilomètres.</p>
     </commentaire>
@@ -13476,7 +13476,7 @@
   <article id="DT30-02364" pg="79">
     <pg>79</pg>
     <vedette><sm>Esquielle (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30233" precision="certain">Saint-Bauzély-en-Malgoirès</commune></localisation> et va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30224" precision="certain">Rouvière-en-Malgoirès</commune></localisation> : <renvoi>voy. <sm>Agau (L')</sm></renvoi>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30233" precision="approximatif">Saint-Bauzély-en-Malgoirès</commune></localisation> et va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30224" precision="approximatif">Rouvière-en-Malgoirès</commune></localisation> : <renvoi>voy. <sm>Agau (L')</sm></renvoi>.</definition>
     <forme_ancienne>— <i>Aqua de Squiela,</i> <date>1234</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In loco Sancti-Genesii de Mediogoto, prope Squielam ; aqualis de Squiela,</i> <date>1463</date> <reference>(L. Peladan, not. de Saint-Geniès-en-Malgoirès)</reference>.</forme_ancienne>
   </article>
@@ -13842,7 +13842,7 @@
   </article>
   <article id="DT30-02429" pg="81">
     <vedette><sm>Fage (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>montagne de la Fage</localisation>, <localisation>commune de <commune insee="30325" precision="certain">Cézas</commune></localisation>, et se jette dans le Vidourle à <localisation><commune insee="30263" precision="approximatif">Saint-Hippolyte-du-Fort</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>montagne de la Fage</localisation>, <localisation>commune de <commune insee="30325" precision="approximatif">Cézas</commune></localisation>, et se jette dans le Vidourle à <localisation><commune insee="30263" precision="approximatif">Saint-Hippolyte-du-Fort</commune></localisation>.</definition>
   </article>
   <article id="DT30-02430" pg="81">
     <vedette><sm>Faget (Le),</sm></vedette>
@@ -14079,7 +14079,7 @@
   </article>
   <article id="DT30-02481" pg="82">
     <vedette><sm>Favarol (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30243" precision="certain">Saint-Christol-lez-Alais</commune></localisation> et se jette dans le Carriol sur le <localisation>territoire de la commune de <commune insee="30027" precision="certain">Bagard</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30243" precision="approximatif">Saint-Christol-lez-Alais</commune></localisation> et se jette dans le Carriol sur le <localisation>territoire de la commune de <commune insee="30027" precision="approximatif">Bagard</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le Vallat de Jérusalem,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-02482" pg="82">
@@ -14650,7 +14650,7 @@
   <article id="DT30-02583" pg="85">
     <pg>85</pg>
     <vedette><sm>Fonds (Les),</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="30028" precision="certain">Bagnols</commune></localisation>, autrefois <localisation>commune de <commune insee="30288" precision="certain">Saint-Nazaire</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="30028" precision="approximatif">Bagnols</commune></localisation>, autrefois <localisation>commune de <commune insee="30288" precision="approximatif">Saint-Nazaire</commune></localisation>.</definition>
   </article>
   <article id="DT30-02584" pg="85" type="commune">
     <vedette><sm>Fons,</sm></vedette>
@@ -14673,7 +14673,7 @@
   </article>
   <article id="DT30-02586" pg="85">
     <vedette><sm>Fons (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30284" precision="certain">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Grabieux sur le <localisation>territoire de la commune de <commune insee="30284" precision="certain">Saint-Martin-de-Valgalgue</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30284" precision="approximatif">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Grabieux sur le <localisation>territoire de la commune de <commune insee="30284" precision="approximatif">Saint-Martin-de-Valgalgue</commune></localisation>.</definition>
   </article>
   <article id="DT30-02587" pg="85">
     <vedette><sm>Fons (La),</sm></vedette>
@@ -14790,7 +14790,7 @@
   </article>
   <article id="DT30-02606" pg="85">
     <vedette><sm>Fontaine-de-Saint-Bonnet,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30235" precision="certain">Saint-Bonnet</commune></localisation> et se jette dans le Gardon à Lafoux, <localisation>commune de <commune insee="30212" precision="certain">Remoulins</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30235" precision="approximatif">Saint-Bonnet</commune></localisation> et se jette dans le Gardon à Lafoux, <localisation>commune de <commune insee="30212" precision="approximatif">Remoulins</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 3,400 mètres.</p>
     </commentaire>
@@ -14825,7 +14825,7 @@
   </article>
   <article id="DT30-02612" pg="86">
     <vedette><sm>Fontaine-Gaillarde</sm> ou <sm>Font-Gaillard,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30324" precision="approximatif">Souvignargues</commune></localisation>, traverse celle <localisation>d'<commune insee="30023" precision="approximatif">Aujargues</commune></localisation> et se jette dans la Corbière sur la <localisation>commune de <commune insee="30352" precision="certain">Villevieille</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30324" precision="approximatif">Souvignargues</commune></localisation>, traverse celle <localisation>d'<commune insee="30023" precision="approximatif">Aujargues</commune></localisation> et se jette dans la Corbière sur la <localisation>commune de <commune insee="30352" precision="approximatif">Villevieille</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ad Fontem-Galhard, in decimaria de Orinanicis,</i> <date>1444</date> <reference>(arch. départ. G. 269)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fonton</i> et <i>Font-Gaillarde,</i> <date>1754</date> <reference>(plans de l'architecte G. Rollin)</reference>.</forme_ancienne>
     <commentaire>
@@ -14982,7 +14982,7 @@
   </article>
   <article id="DT30-02640" pg="87">
     <vedette><sm>Font-Aubarne,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>garrigues de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, <localisation>territoire de Courbessac</localisation>, et se jette dans le Vistre <localisation>près de la ferme de la Tour-l'Évêque</localisation>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>garrigues de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, <localisation>territoire de Courbessac</localisation>, et se jette dans le Vistre <localisation>près de la ferme de la Tour-l'Évêque</localisation>, <localisation>commune de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rius de Albarna,</i> <date>971</date> <reference>(cart. de N.-D. de Nimes, ch. 90)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ad fontem Albarnæ,</i> <date>1160</date> <reference>(Lay. du Tr. des ch. t. I, p. 91)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Reyra de Corbessatz,</i> <date>1380</date> <reference>(comp. de Nimes)</reference>.</forme_ancienne>
@@ -15104,7 +15104,7 @@
   </article>
   <article id="DT30-02662" pg="87">
     <vedette><sm>Font-Caude,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>ferme de Valensolle</localisation>, <localisation>commune de <commune insee="30106" precision="certain">Saint-Martin-de-Saussenac</commune></localisation>, et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30106" precision="certain">Durfort</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>ferme de Valensolle</localisation>, <localisation>commune de <commune insee="30106" precision="approximatif">Saint-Martin-de-Saussenac</commune></localisation>, et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30106" precision="approximatif">Durfort</commune></localisation>.</definition>
     <forme_ancienne>— <i>Font-Coude</i> <reference>(Rivoire, <i>Statist. du Gard</i>)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-02663" pg="87">
@@ -15185,7 +15185,7 @@
   </article>
   <article id="DT30-02677" pg="88">
     <vedette><sm>Font-Couverte,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07294" precision="certain">Saint-Sauveur-de-Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur le <localisation>territoire de la commune de <commune insee="30029" precision="certain">Barjac</commune></localisation> et se jette dans le Roméjac sur le <localisation>territoire de la commune de <commune insee="30293" precision="certain">Saint-Privat-de-Champclos</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07294" precision="approximatif">Saint-Sauveur-de-Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur le <localisation>territoire de la commune de <commune insee="30029" precision="approximatif">Barjac</commune></localisation> et se jette dans le Roméjac sur le <localisation>territoire de la commune de <commune insee="30293" precision="approximatif">Saint-Privat-de-Champclos</commune></localisation>.</definition>
   </article>
   <article id="DT30-02678" pg="88">
     <vedette><sm>Font-Couverte,</sm></vedette>
@@ -15215,7 +15215,7 @@
   </article>
   <article id="DT30-02682" pg="88">
     <vedette><sm>Font-d'Anduze,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur les <localisation>pentes de la Grande-Pallière</localisation>, <localisation>montagne de la commune de <commune insee="30329" precision="certain">Thoiras</commune></localisation>, et va se jeter dans le Gardon un peu <localisation>au-dessus d'<commune insee="30010" precision="approximatif">Anduze</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur les <localisation>pentes de la Grande-Pallière</localisation>, <localisation>montagne de la commune de <commune insee="30329" precision="approximatif">Thoiras</commune></localisation>, et va se jeter dans le Gardon un peu <localisation>au-dessus d'<commune insee="30010" precision="approximatif">Anduze</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fontaine-d'Anduze</i> <reference>(cart. hydr. du Gard)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-02683" pg="88">
@@ -15317,7 +15317,7 @@
   </article>
   <article id="DT30-02700" pg="88">
     <vedette><sm>Font-de-Linque,</sm></vedette>
-    <definition><typologie>source</typologie> sur le <localisation>territoire de <commune insee="30354" precision="approximatif">Montagnac</commune></localisation>, <localisation>commune de <commune insee="30354" precision="certain">Moulézan-et-Montagnac</commune></localisation>.</definition>
+    <definition><typologie>source</typologie> sur le <localisation>territoire de <commune insee="30354" precision="approximatif">Montagnac</commune></localisation>, <localisation>commune de <commune insee="30354" precision="approximatif">Moulézan-et-Montagnac</commune></localisation>.</definition>
   </article>
   <article id="DT30-02701" pg="88">
     <vedette><sm>Font-de-Lissac,</sm></vedette>
@@ -15682,7 +15682,7 @@
   </article>
   <article id="DT30-02774" pg="90">
     <vedette><sm>Font-Saint-Pierre,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>garrigues de Saint-Pierre-de-Vaquières</localisation>, <localisation>commune de <commune insee="30193" precision="certain">Parignargues</commune></localisation>, et se jette dans le Vallat-des-Crottes sur le <localisation>territoire de la commune de <commune insee="30122" precision="certain">Gajan</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>garrigues de Saint-Pierre-de-Vaquières</localisation>, <localisation>commune de <commune insee="30193" precision="approximatif">Parignargues</commune></localisation>, et se jette dans le Vallat-des-Crottes sur le <localisation>territoire de la commune de <commune insee="30122" precision="approximatif">Gajan</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fon-Sainct-Peyre,</i> <date>1555</date> <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Font-Saint-Peyre</i> <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
   </article>
@@ -16509,7 +16509,7 @@
   </article>
   <article id="DT30-02924" pg="95">
     <vedette><sm>Galeizon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Pendédis</localisation>, <localisation>commune de <commune insee="48173" precision="certain">Saint-Michel-de-Dèzes</commune></localisation> (Lozère), entre dans le département du Gard par la <localisation>commune de la <commune insee="30137" precision="certain">Melouse</commune></localisation>, traverse celle de <localisation><commune insee="30291" precision="certain">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30077" precision="certain">Cendras</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>Pendédis</localisation>, <localisation>commune de <commune insee="48173" precision="approximatif">Saint-Michel-de-Dèzes</commune></localisation> (Lozère), entre dans le département du Gard par la <localisation>commune de la <commune insee="30137" precision="approximatif">Melouse</commune></localisation>, traverse celle de <localisation><commune insee="30291" precision="approximatif">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30077" precision="approximatif">Cendras</commune></localisation>.</definition>
   </article>
   <article id="DT30-02925" pg="95">
     <vedette><sm>Galès, — Grand et Petit,</sm></vedette>
@@ -16722,7 +16722,7 @@
   </article>
   <article id="DT30-02961" pg="96">
     <vedette><sm>Garenne (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30139" precision="certain">Lanuéjols</commune></localisation> et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30213" precision="certain">Revens</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30139" precision="approximatif">Lanuéjols</commune></localisation> et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30213" precision="approximatif">Revens</commune></localisation>.</definition>
   </article>
   <article id="DT30-02962" pg="96">
     <vedette><sm>Gargas,</sm></vedette>
@@ -16860,7 +16860,7 @@
   </article>
   <article id="DT30-02984" pg="97">
     <vedette><sm>Gassas (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30176" precision="certain">Montdardier</commune></localisation> et se jette dans la Vis sur le <localisation>territoire de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30176" precision="approximatif">Montdardier</commune></localisation> et se jette dans la Vis sur le <localisation>territoire de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
   </article>
   <article id="DT30-02985" pg="97">
     <vedette><sm>Gastette (La),</sm></vedette>
@@ -17191,7 +17191,7 @@
   </article>
   <article id="DT30-03034" pg="100">
     <vedette><sm>Ginestous (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30052" precision="certain">Bréau-et-Salagosse</commune></localisation> et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30105" precision="certain">Dourbie</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30052" precision="approximatif">Bréau-et-Salagosse</commune></localisation> et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30105" precision="approximatif">Dourbie</commune></localisation>.</definition>
   </article>
   <article id="DT30-03035" pg="100">
     <vedette><sm>Ginestoux (Les),</sm></vedette>
@@ -17211,7 +17211,7 @@
   </article>
   <article id="DT30-03038" pg="100">
     <vedette><sm>Gipières (Les),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30298" precision="certain">Saint-Sébastien-d'Aigrefeuille</commune></localisation> et se jette dans l'Amoux sur le <localisation>territoire de la commune de <commune insee="30129" precision="certain">Générargues</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30298" precision="approximatif">Saint-Sébastien-d'Aigrefeuille</commune></localisation> et se jette dans l'Amoux sur le <localisation>territoire de la commune de <commune insee="30129" precision="approximatif">Générargues</commune></localisation>.</definition>
   </article>
   <article id="DT30-03039" pg="100">
     <vedette><sm>Girac,</sm></vedette>
@@ -17293,7 +17293,7 @@
   </article>
   <article id="DT30-03056" pg="100">
     <vedette><sm>Glèpe (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30176" precision="certain">Montdardier</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune d'<commune insee="30026" precision="certain">Avèze</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30176" precision="approximatif">Montdardier</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune d'<commune insee="30026" precision="approximatif">Avèze</commune></localisation>.</definition>
     <forme_ancienne>— <i>Riperia de Glepa,</i> <date>1311</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riperia de Glipa,</i> <date>1513</date> <reference>(A. Bilanges, not. du Vigan)</reference>.</forme_ancienne>
     <commentaire>
@@ -17354,7 +17354,7 @@
   </article>
   <article id="DT30-03066" pg="101">
     <vedette><sm>Gour-Faraux (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>ferme de Bétargues</localisation>, <localisation>commune de <commune insee="30289" precision="certain">Saint-Nazaire-des-Gardies</commune></localisation>, et se jette dans le Baix sur le <localisation>territoire de la commune de <commune insee="30208" precision="certain">Puechredon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à la <localisation>ferme de Bétargues</localisation>, <localisation>commune de <commune insee="30289" precision="approximatif">Saint-Nazaire-des-Gardies</commune></localisation>, et se jette dans le Baix sur le <localisation>territoire de la commune de <commune insee="30208" precision="approximatif">Puechredon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Gurges Asinerius,</i> <date>1260</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vallis Azineria,</i> <date>1280</date> <reference>(Gall. Christ. t. VI, p. 629)</reference>.</forme_ancienne>
   </article>
@@ -17456,7 +17456,7 @@
   </article>
   <article id="DT30-03088" pg="101">
     <vedette><sm>Grabieu (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30284" precision="certain">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune d’<commune insee="30007" precision="certain">Alais</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30284" precision="approximatif">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune d’<commune insee="30007" precision="approximatif">Alais</commune></localisation>.</definition>
     <forme_ancienne>— <date>1701</date> <reference>(arch. départ. C. 1815)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-03089" pg="101">
@@ -18103,7 +18103,7 @@
   </article>
   <article id="DT30-03226" pg="104">
     <vedette><sm>Habimes (Les),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30223" precision="certain">Rousson</commune></localisation>, traverse celle de <localisation><commune insee="30305" precision="certain">Salindres</commune></localisation> et se jette dans l'Alauzène sur le <localisation>territoire de la commune de <commune insee="30318" precision="certain">Servas</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30223" precision="approximatif">Rousson</commune></localisation>, traverse celle de <localisation><commune insee="30305" precision="approximatif">Salindres</commune></localisation> et se jette dans l'Alauzène sur le <localisation>territoire de la commune de <commune insee="30318" precision="approximatif">Servas</commune></localisation>.</definition>
   </article>
   <article id="DT30-03227" pg="104">
     <vedette><sm>Haltat (L'),</sm></vedette>
@@ -18241,7 +18241,7 @@
   </article>
   <article id="DT30-03249" pg="104">
     <vedette><sm>Homol (L'),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois des Armes</localisation>, <localisation>commune de <commune insee="30090" precision="certain">Concoules</commune></localisation>, traverse dans le <localisation>département de la Lozère</localisation>, la <localisation>commune de <commune insee="48194" precision="certain">Vialas</commune></localisation>, rentre dans le département du Gard par la <localisation>commune de <commune insee="30130" precision="certain">Génolhac</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30316" precision="certain">Sénéchas</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois des Armes</localisation>, <localisation>commune de <commune insee="30090" precision="approximatif">Concoules</commune></localisation>, traverse dans le <localisation>département de la Lozère</localisation>, la <localisation>commune de <commune insee="48194" precision="approximatif">Vialas</commune></localisation>, rentre dans le département du Gard par la <localisation>commune de <commune insee="30130" precision="approximatif">Génolhac</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30316" precision="approximatif">Sénéchas</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 16,500 mètres.</p>
     </commentaire>
@@ -18518,7 +18518,7 @@
   </article>
   <article id="DT30-03303" pg="106">
     <vedette><sm>Isis,</sm></vedette>
-    <definition><typologie>source</typologie> qui prend naissance sur le <localisation>territoire d’<commune insee="30026" precision="approximatif">Avèze</commune></localisation>, fournit à la <localisation>ville du <commune insee="30350" precision="certain">Vigan</commune></localisation> des eaux excellentes et se jette dans l'Arre sur le <localisation>territoire de la commune du <commune insee="30350" precision="certain">Vigan</commune></localisation>.</definition>
+    <definition><typologie>source</typologie> qui prend naissance sur le <localisation>territoire d’<commune insee="30026" precision="approximatif">Avèze</commune></localisation>, fournit à la <localisation>ville du <commune insee="30350" precision="approximatif">Vigan</commune></localisation> des eaux excellentes et se jette dans l'Arre sur le <localisation>territoire de la commune du <commune insee="30350" precision="approximatif">Vigan</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fons ille qui appellatur Ysa,</i> <date>1069</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fons cui nomen est Yza,</i> <date>1071</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fons d'Ysa,</i> <date>1325</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
@@ -18681,7 +18681,7 @@
   </article>
   <article id="DT30-03334" pg="107">
     <vedette><sm>Jarnègue,</sm></vedette>
-    <definition><typologie>île du Rhône</typologie>, entre <localisation>Beaucaire</localisation> et <localisation><commune insee="13108" precision="approximatif">Tarascon</commune></localisation>, aujourd'hui réunie par atterrissement à la <localisation>commune de <commune insee="13108" precision="certain">Tarascon</commune></localisation>.</definition>
+    <definition><typologie>île du Rhône</typologie>, entre <localisation>Beaucaire</localisation> et <localisation><commune insee="13108" precision="approximatif">Tarascon</commune></localisation>, aujourd'hui réunie par atterrissement à la <localisation>commune de <commune insee="13108" precision="approximatif">Tarascon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ugernica insula,</i> <date>1185</date> <reference>(Hist. de Lang. II, pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vernia</i> <reference>(Guill. de Puylaurens, <i>Chron.</i> cap. 44)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Vergne</i> <reference>(Valois, <i>Not. Gall.</i> p. 601)</reference>.</forme_ancienne>
@@ -19013,7 +19013,7 @@
   </article>
   <article id="DT30-03397" pg="109">
     <vedette><sm>Lac (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au Mas-Vanel, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, et va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30061" precision="certain">Calmette</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au Mas-Vanel, <localisation>commune de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, et va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30061" precision="approximatif">Calmette</commune></localisation>.</definition>
   </article>
   <article id="DT30-03398" pg="109">
     <vedette><sm>Lacan,</sm></vedette>
@@ -19122,7 +19122,7 @@
   </article>
   <article id="DT30-03419" pg="109">
     <vedette><sm>Lalle,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au hameau du même nom, <localisation>commune de <commune insee="30252" precision="certain">Saint-Félix-de-Pallières</commune></localisation>, et se jette dans la Salindres sur le <localisation>territoire de la commune de <commune insee="30329" precision="certain">Thoiras</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au hameau du même nom, <localisation>commune de <commune insee="30252" precision="approximatif">Saint-Félix-de-Pallières</commune></localisation>, et se jette dans la Salindres sur le <localisation>territoire de la commune de <commune insee="30329" precision="approximatif">Thoiras</commune></localisation>.</definition>
   </article>
   <article id="DT30-03420" pg="109">
     <vedette><sm>Lallement,</sm></vedette>
@@ -19209,7 +19209,7 @@
   </article>
   <article id="DT30-03435" pg="110">
     <vedette><sm>Lander (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au versant <localisation>S.-E. de la montagne de Pierremale</localisation>, sur la <localisation>ferme du Mazelet</localisation>, <localisation>commune de <commune insee="30027" precision="certain">Bagard</commune></localisation>, et se jette dans le Gardon d'Anduze sur le <localisation>territoire de la commune de <commune insee="30042" precision="certain">Boisset-et-Gaujac</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au versant <localisation>S.-E. de la montagne de Pierremale</localisation>, sur la <localisation>ferme du Mazelet</localisation>, <localisation>commune de <commune insee="30027" precision="approximatif">Bagard</commune></localisation>, et se jette dans le Gardon d'Anduze sur le <localisation>territoire de la commune de <commune insee="30042" precision="approximatif">Boisset-et-Gaujac</commune></localisation>.</definition>
   </article>
   <article id="DT30-03436" pg="110">
     <vedette><sm>Landes (Les),</sm></vedette>
@@ -19557,7 +19557,7 @@
   </article>
   <article id="DT30-03489" pg="112">
     <vedette><sm>Lauret (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30291" precision="certain">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30168" precision="certain">Mialet</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30291" precision="approximatif">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30168" precision="approximatif">Mialet</commune></localisation>.</definition>
   </article>
   <article id="DT30-03490" pg="112">
     <vedette><sm>Lauriol,</sm></vedette>
@@ -19569,7 +19569,7 @@
   </article>
   <article id="DT30-03492" pg="112">
     <vedette><sm>Lauriol,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>commune de <commune insee="30163" precision="certain">Mauressargues</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30241" precision="certain">Saint-Chapte</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>commune de <commune insee="30163" precision="approximatif">Mauressargues</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30241" precision="approximatif">Saint-Chapte</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ad ripariam d'Auriol,</i> <date>1237</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vallatum de Auruol, in territorio loci de Domessanicis, Uticensis diocesis,</i> <date>1463</date> <reference>(L. Peladan, not. de Saint-Geniès-en-Malgoirès)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'Esquielle</i> <reference>(H. Rivoire, <i>Statist. du Gard</i>)</reference>.</forme_ancienne>
@@ -19725,7 +19725,7 @@
   </article>
   <article id="DT30-03517" pg="113">
     <vedette><sm>Lavent,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près du Mas-Dieu</localisation>, <localisation>commune de <commune insee="30142" precision="certain">Laval</commune></localisation>, traverse celle de <localisation><commune insee="30284" precision="certain">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Grabieux sur la <localisation>commune de <commune insee="30284" precision="certain">Saint-Martin-de-Valgalgue</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près du Mas-Dieu</localisation>, <localisation>commune de <commune insee="30142" precision="approximatif">Laval</commune></localisation>, traverse celle de <localisation><commune insee="30284" precision="approximatif">Saint-Julien-de-Valgalgue</commune></localisation> et se jette dans le Grabieux sur la <localisation>commune de <commune insee="30284" precision="approximatif">Saint-Martin-de-Valgalgue</commune></localisation>.</definition>
   </article>
   <article id="DT30-03518" pg="113">
     <vedette><sm>Laves,</sm></vedette>
@@ -19791,7 +19791,7 @@
   </article>
   <article id="DT30-03524" pg="114">
     <vedette><sm>Lefonts,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30207" precision="certain">Pouzillac</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="certain">Tresques</commune></localisation> (carte hydr. du Gard).</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30207" precision="approximatif">Pouzillac</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="approximatif">Tresques</commune></localisation> (carte hydr. du Gard).</definition>
     <commentaire>
       <p>— Parcours : 4 kilomètres.</p>
     </commentaire>
@@ -19843,7 +19843,7 @@
   </article>
   <article id="DT30-03534" pg="114">
     <vedette><sm>Lengas (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Lengas</localisation>, sur la <localisation>commune d’<commune insee="30015" precision="certain">Arphy</commune></localisation>, et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30105" precision="certain">Dourbie</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Lengas</localisation>, sur la <localisation>commune d’<commune insee="30015" precision="approximatif">Arphy</commune></localisation>, et se jette dans la Dourbie sur le <localisation>territoire de la commune de <commune insee="30105" precision="approximatif">Dourbie</commune></localisation>.</definition>
   </article>
   <article id="DT30-03535" pg="114">
     <vedette><sm>Lenne,</sm></vedette>
@@ -20168,7 +20168,7 @@
   </article>
   <article id="DT30-03587" pg="116">
     <vedette><sm>Liqueyrol (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>pied de la montagne de Pierremale</localisation>, <localisation>commune de <commune insee="30027" precision="certain">Bagard</commune></localisation>, et va se jeter dans le Gardon d'Anduze sur le <localisation>territoire de <commune insee="30214" precision="approximatif">Ribaute</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>pied de la montagne de Pierremale</localisation>, <localisation>commune de <commune insee="30027" precision="approximatif">Bagard</commune></localisation>, et va se jeter dans le Gardon d'Anduze sur le <localisation>territoire de <commune insee="30214" precision="approximatif">Ribaute</commune></localisation>.</definition>
   </article>
   <article id="DT30-03588" pg="116">
     <vedette><sm>Liquière (La),</sm></vedette>
@@ -20518,7 +20518,7 @@
   </article>
   <article id="DT30-03642" pg="118">
     <vedette><sm>Luech (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="48172" precision="certain">Saint-Maurice-de-Ventalon</commune></localisation> (Lozère), entre dans le département du Gard par la <localisation>commune de <commune insee="30080" precision="certain">Chamborigaud</commune></localisation>, traverse celle de <localisation><commune insee="30079" precision="certain">Chambon</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30194" precision="certain">Peyremale</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="48172" precision="approximatif">Saint-Maurice-de-Ventalon</commune></localisation> (Lozère), entre dans le département du Gard par la <localisation>commune de <commune insee="30080" precision="approximatif">Chamborigaud</commune></localisation>, traverse celle de <localisation><commune insee="30079" precision="approximatif">Chambon</commune></localisation> et se jette dans la Cèze sur le <localisation>territoire de la commune de <commune insee="30194" precision="approximatif">Peyremale</commune></localisation>.</definition>
     <forme_ancienne>— <i>La rivière de Luèche,</i> <date>1635</date> <reference>(arch. départ. C. 1291)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours dans le dép<sup>t</sup> : 14,700 mètres.</p>
@@ -20714,7 +20714,7 @@
   </article>
   <article id="DT30-03676" pg="119">
     <vedette><sm>Maistre (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30248" precision="certain">Saint-Dézéry</commune></localisation> et va se jeter dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30241" precision="certain">Saint-Chapte</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30248" precision="approximatif">Saint-Dézéry</commune></localisation> et va se jeter dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30241" precision="approximatif">Saint-Chapte</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le Vallat-Maistre,</i> <date>1776</date> <reference>(comp. de Saint-Dézéry)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-03677" pg="119">
@@ -21142,7 +21142,7 @@
   </article>
   <article id="DT30-03749" pg="122">
     <vedette><sm>Mandelle (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="certain">Saint-Bresson</commune></localisation> et se jette dans la Vis sur le <localisation>territoire de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="approximatif">Saint-Bresson</commune></localisation> et se jette dans la Vis sur le <localisation>territoire de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
   </article>
   <article id="DT30-03750" pg="122">
     <vedette><sm>Mandiargues,</sm></vedette>
@@ -22168,7 +22168,7 @@
   </article>
   <article id="DT30-03952" pg="127">
     <vedette><sm>Mas-de-la-Baume,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="30334" precision="certain">Uzès</commune></localisation>, <localisation>près de l'<commune insee="30009" precision="approximatif">Alzon</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="30334" precision="approximatif">Uzès</commune></localisation>, <localisation>près de l'<commune insee="30009" precision="approximatif">Alzon</commune></localisation>.</definition>
   </article>
   <article id="DT30-03953" pg="127">
     <vedette><sm>Mas-de-l'Abbé,</sm></vedette>
@@ -23421,7 +23421,7 @@
   </article>
   <article id="DT30-04215" pg="132">
     <vedette><sm>Massorgues,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30252" precision="certain">Saint-Félix-de-Pallières</commune></localisation> et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30106" precision="certain">Durfort</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30252" precision="approximatif">Saint-Félix-de-Pallières</commune></localisation> et se jette dans le Crieulon sur le <localisation>territoire de la commune de <commune insee="30106" precision="approximatif">Durfort</commune></localisation>.</definition>
   </article>
   <article id="DT30-04216" pg="132">
     <vedette><sm>Mas-Soubeyran,</sm></vedette>
@@ -23596,7 +23596,7 @@
   </article>
   <article id="DT30-04249" pg="133">
     <vedette><sm>Mauvallat (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="30033" precision="certain">Beauvoisin</commune></localisation> et se jette dans le Vistre sur le <localisation>territoire de la commune de <commune insee="30347" precision="certain">Vestric-et-Candiac</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source sur la <localisation>commune de <commune insee="30033" precision="approximatif">Beauvoisin</commune></localisation> et se jette dans le Vistre sur le <localisation>territoire de la commune de <commune insee="30347" precision="approximatif">Vestric-et-Candiac</commune></localisation>.</definition>
   </article>
   <article id="DT30-04250" pg="133">
     <vedette><sm>Mauvinettes (Les),</sm></vedette>
@@ -24076,7 +24076,7 @@
   </article>
   <article id="DT30-04339" pg="135">
     <vedette><sm>Merdanson (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de la ferme de Rouvergat</localisation>, <localisation>commune de <commune insee="30305" precision="certain">Salindres</commune></localisation>, et se jette dans l'Auzonnet <localisation>en face d'Auzon</localisation>, <localisation>commune d’<commune insee="30008" precision="certain">Allègre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de la ferme de Rouvergat</localisation>, <localisation>commune de <commune insee="30305" precision="approximatif">Salindres</commune></localisation>, et se jette dans l'Auzonnet <localisation>en face d'Auzon</localisation>, <localisation>commune d’<commune insee="30008" precision="approximatif">Allègre</commune></localisation>.</definition>
   </article>
   <article id="DT30-04340" pg="135">
     <vedette><sm>Mère-de-Dieu (La),</sm></vedette>
@@ -24137,7 +24137,7 @@
   </article>
   <article id="DT30-04350" pg="135">
     <vedette><sm>Meslançon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de la <commune insee="30067" precision="approximatif">Capelle-et-Mamolène</commune></localisation> et se jette dans l'Alzon sur le <localisation>territoire de la commune de <commune insee="30295" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de la <commune insee="30067" precision="approximatif">Capelle-et-Mamolène</commune></localisation> et se jette dans l'Alzon sur le <localisation>territoire de la commune de <commune insee="30295" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 6,500 mètres.</p>
     </commentaire>
@@ -24548,7 +24548,7 @@
   </article>
   <article id="DT30-04421" pg="138">
     <vedette><sm>Monézille (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30224" precision="certain">Rouvière-en-Malgoirès</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30102" precision="certain">Dions</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30224" precision="approximatif">Rouvière-en-Malgoirès</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30102" precision="approximatif">Dions</commune></localisation>.</definition>
   </article>
   <article id="DT30-04422" pg="138">
     <vedette><sm>Moniers (Les),</sm></vedette>
@@ -26305,7 +26305,7 @@
   </article>
   <article id="DT30-04720" pg="149">
     <vedette><sm>Naduel (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près du hameau de la Sanguinède</localisation>, <localisation>commune de <commune insee="30176" precision="certain">Montdardier</commune></localisation>, et va se jeter dans la Creuse au <localisation>hameau de l'Arboussine</localisation>, <localisation>commune de <commune insee="30280" precision="certain">Saint-Laurent-le-Minier</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près du hameau de la Sanguinède</localisation>, <localisation>commune de <commune insee="30176" precision="approximatif">Montdardier</commune></localisation>, et va se jeter dans la Creuse au <localisation>hameau de l'Arboussine</localisation>, <localisation>commune de <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 3,100 mètres.</p>
     </commentaire>
@@ -26541,7 +26541,7 @@
   </article>
   <article id="DT30-04749" pg="151">
     <vedette><sm>Nizon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30207" precision="certain">Pouzilhac</commune></localisation> et se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30178" precision="certain">Montfaucon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30207" precision="approximatif">Pouzilhac</commune></localisation> et se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30178" precision="approximatif">Montfaucon</commune></localisation>.</definition>
     <forme_ancienne>— LE PONT DE NIZON <reference>(inscript. de 1588, à Laudun)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours : 8,300 mètres.</p>
@@ -26638,7 +26638,7 @@
   </article>
   <article id="DT30-04766" pg="152">
     <vedette><sm>Norat (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="48015" precision="certain">Balmelles</commune></localisation> (Lozère), sert de limite entre le Gard et la Lozère et se jette dans le Chassezac sur le <localisation>territoire de la commune de <commune insee="30153" precision="certain">Malons-et-Elze</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="48015" precision="approximatif">Balmelles</commune></localisation> (Lozère), sert de limite entre le Gard et la Lozère et se jette dans le Chassezac sur le <localisation>territoire de la commune de <commune insee="30153" precision="approximatif">Malons-et-Elze</commune></localisation>.</definition>
   </article>
   <article id="DT30-04767" pg="152">
     <vedette><sm>Notre-Dame,</sm></vedette>
@@ -27216,7 +27216,7 @@
   </article>
   <article id="DT30-04843" pg="156">
     <vedette><sm>Orgne (L'),</sm></vedette>
-    <definition><typologie>abîme</typologie>, <localisation>près de l'étang de <commune insee="30135" precision="approximatif">Jonquières</commune></localisation>, <localisation>commune de <commune insee="30135" precision="certain">Jonquières-et-Saint-Vincent</commune></localisation>.</definition>
+    <definition><typologie>abîme</typologie>, <localisation>près de l'étang de <commune insee="30135" precision="approximatif">Jonquières</commune></localisation>, <localisation>commune de <commune insee="30135" precision="approximatif">Jonquières-et-Saint-Vincent</commune></localisation>.</definition>
     <forme_ancienne>— <i>Euricus,</i> <date>825</date> <reference>(cart. d'Aniane, apud Forton, <i>Nouv. Rech. hist. sur Beaucaire,</i> p. 402)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Trou de l'Orgne</i> <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
   </article>
@@ -28115,7 +28115,7 @@
   </article>
   <article id="DT30-05021" pg="161">
     <vedette><sm>Pepin (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30225" precision="certain">Sabran</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="certain">Tresques</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30225" precision="approximatif">Sabran</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="approximatif">Tresques</commune></localisation>.</definition>
   </article>
   <article id="DT30-05022" pg="161">
     <vedette><sm>Pérache (La),</sm></vedette>
@@ -29492,7 +29492,7 @@
   </article>
   <article id="DT30-05291" pg="167">
     <vedette><sm>Pondre (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30075" precision="certain">Caveirac</commune></localisation> et se joint au Vistre sur le <localisation>territoire de la commune de <commune insee="30169" precision="certain">Milhau</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30075" precision="approximatif">Caveirac</commune></localisation> et se joint au Vistre sur le <localisation>territoire de la commune de <commune insee="30169" precision="approximatif">Milhau</commune></localisation>.</definition>
     <forme_ancienne>— <i>Reyra de Ameglavo,</i> <date>1369</date> <reference>(cart. de Saint-Sauveur-de-la-Font)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Reyra de Pondra,</i> <date>1380</date> <reference>(compoix de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le vallat de Pondre,</i> <date>1613</date> <reference>(Bruguier, not. de Nimes)</reference>.</forme_ancienne>
@@ -29753,7 +29753,7 @@
   </article>
   <article id="DT30-05339" pg="168">
     <vedette><sm>Pontieu (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30344" precision="certain">Vergèze</commune></localisation> et se jette dans le Vistre entre le moulin des Quatre-Prêtres et celui de l'Ausselon, <localisation>commune de <commune insee="30341" precision="certain">Vauvert</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30344" precision="approximatif">Vergèze</commune></localisation> et se jette dans le Vistre entre le moulin des Quatre-Prêtres et celui de l'Ausselon, <localisation>commune de <commune insee="30341" precision="approximatif">Vauvert</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le vallat de Pontieu,</i> <date>1726</date> <reference>(carte de la bar. du Caylar)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-05340" pg="168">
@@ -31345,7 +31345,7 @@
   </article>
   <article id="DT30-05618" pg="177">
     <vedette><sm>Quiquilhan (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois de Paris</localisation>, <localisation>commune de <commune insee="30069" precision="certain">Carnas</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30144" precision="certain">Lèques</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>bois de Paris</localisation>, <localisation>commune de <commune insee="30069" precision="approximatif">Carnas</commune></localisation>, et se jette dans le Vidourle sur le <localisation>territoire de la commune de <commune insee="30144" precision="approximatif">Lèques</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cuquilhan,</i> <date>1734</date> <reference>(pap. de la fam. Séguret, arch. hosp. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Coquilhan</i> <reference>(carte hydr. du Gard)</reference>.</forme_ancienne>
     <commentaire>
@@ -31984,7 +31984,7 @@
   </article>
   <article id="DT30-05733" pg="181">
     <vedette><sm>Rey (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune d’<commune insee="30015" precision="certain">Arphy</commune></localisation>, traverse celle de <localisation><commune insee="30154" precision="certain">Mandagout</commune></localisation>, et se jette dans l'Arre au <localisation>hameau du Rey</localisation>, <localisation>commune de <commune insee="30229" precision="certain">Saint-André-de-Majencoules</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune d’<commune insee="30015" precision="approximatif">Arphy</commune></localisation>, traverse celle de <localisation><commune insee="30154" precision="approximatif">Mandagout</commune></localisation>, et se jette dans l'Arre au <localisation>hameau du Rey</localisation>, <localisation>commune de <commune insee="30229" precision="approximatif">Saint-André-de-Majencoules</commune></localisation>.</definition>
     <commentaire>
       <p>— On l'appelle aussi <i>la Courbière</i> ou <i>Corbière.</i></p>
     </commentaire>
@@ -31992,7 +31992,7 @@
   </article>
   <article id="DT30-05734" pg="181">
     <vedette><sm>Reyanne (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30300" precision="certain">Saint-Théodorit</commune></localisation> et se jette dans le Baix un peu <localisation>au-dessus de l'Argentière</localisation>, <localisation>commune de <commune insee="30065" precision="certain">Canaules-et-Argentières</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30300" precision="approximatif">Saint-Théodorit</commune></localisation> et se jette dans le Baix un peu <localisation>au-dessus de l'Argentière</localisation>, <localisation>commune de <commune insee="30065" precision="approximatif">Canaules-et-Argentières</commune></localisation>.</definition>
   </article>
   <article id="DT30-05735" pg="181">
     <vedette><sm>Reylac,</sm></vedette>
@@ -32284,7 +32284,7 @@
   </article>
   <article id="DT30-05785" pg="183">
     <vedette><sm>Rieufraix (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="34078" precision="certain">Claret</commune></localisation> (Hérault), entre dans le département du Gard sur le <localisation>territoire de la commune de <commune insee="30095" precision="certain">Corconne</commune></localisation> et rentre dans le département de l'Hérault pour se jeter dans le Brestalou.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="34078" precision="approximatif">Claret</commune></localisation> (Hérault), entre dans le département du Gard sur le <localisation>territoire de la commune de <commune insee="30095" precision="approximatif">Corconne</commune></localisation> et rentre dans le département de l'Hérault pour se jeter dans le Brestalou.</definition>
     <forme_ancienne>— <i>Riufraix</i> <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-05786" pg="183">
@@ -32422,7 +32422,7 @@
   </article>
   <article id="DT30-05811" pg="184">
     <vedette><sm>Rivière de Parignargues (La),</sm></vedette>
-    <definition>prend sa source à la <localisation>fontaine des Joncs</localisation>, sur le <localisation>territoire de la commune de <commune insee="30193" precision="certain">Parignargues</commune></localisation>, et se jette dans le Vallat-des-Crottes sur le <localisation>territoire de la commune de <commune insee="30122" precision="certain">Gajan</commune></localisation>.</definition>
+    <definition>prend sa source à la <localisation>fontaine des Joncs</localisation>, sur le <localisation>territoire de la commune de <commune insee="30193" precision="approximatif">Parignargues</commune></localisation>, et se jette dans le Vallat-des-Crottes sur le <localisation>territoire de la commune de <commune insee="30122" precision="approximatif">Gajan</commune></localisation>.</definition>
   </article>
   <article id="DT30-05812" pg="184">
     <vedette><sm>Rivières (Les),</sm></vedette>
@@ -33123,7 +33123,7 @@
   </article>
   <article id="DT30-05922" pg="189">
     <vedette><sm>Rou (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07211" precision="certain">Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur la <localisation>commune de <commune insee="30266" precision="certain">Saint-Jean-de-Maruéjols</commune></localisation> et s'y jette dans la Claisse <localisation>près du moulin de <commune insee="30075" precision="approximatif">Caveirac</commune></localisation>, même commune.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07211" precision="approximatif">Crugières</commune></localisation> (Ardèche), entre dans le département du Gard sur la <localisation>commune de <commune insee="30266" precision="approximatif">Saint-Jean-de-Maruéjols</commune></localisation> et s'y jette dans la Claisse <localisation>près du moulin de <commune insee="30075" precision="approximatif">Caveirac</commune></localisation>, même commune.</definition>
   </article>
   <article id="DT30-05923" pg="189">
     <vedette><sm>Rouanesse,</sm></vedette>
@@ -33700,7 +33700,7 @@
   </article>
   <article id="DT30-06035" pg="192">
     <vedette><sm>Sablier (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30304" precision="certain">Salazac</commune></localisation>, traverse celle de <localisation><commune insee="30273" precision="certain">Saint-Julien-de-Peyrolas</commune></localisation> et va se jeter dans l'Ardèche à la limite du département.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30304" precision="approximatif">Salazac</commune></localisation>, traverse celle de <localisation><commune insee="30273" precision="approximatif">Saint-Julien-de-Peyrolas</commune></localisation> et va se jeter dans l'Ardèche à la limite du département.</definition>
     <commentaire>
       <p>— Parcours : 7,400 mètres.</p>
     </commentaire>
@@ -33716,7 +33716,7 @@
   </article>
   <article id="DT30-06038" pg="192">
     <vedette><sm>Sablières (Les),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="certain">Saint-Bresson</commune></localisation> et, parvenu sur la <localisation>commune du <commune insee="30350" precision="certain">Vigan</commune></localisation>, prend le nom de ruisseau de <i>Coularou</i> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30238" precision="approximatif">Saint-Bresson</commune></localisation> et, parvenu sur la <localisation>commune du <commune insee="30350" precision="approximatif">Vigan</commune></localisation>, prend le nom de ruisseau de <i>Coularou</i> <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Ripperia de Sableriis, prope Campicium,</i> <date>1326</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riperia de Sableriis, in manso de Podio-Vitalis,</i> <date>1430</date> <reference>(A. Montfajon, not. du Vigan)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riperia de la Gasquaria,</i> <date>1472</date> <reference>(A. Razoris, not. du Vigan)</reference>.</forme_ancienne>
@@ -34473,7 +34473,7 @@
   </article>
   <article id="DT30-06116" pg="200">
     <vedette><sm>Saint-Cosme,</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, <localisation>près de la fontaine de <commune insee="30245" precision="approximatif">Saint-Cosme</commune></localisation>, <localisation>commune de <commune insee="30123" precision="certain">Galargues</commune></localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, <localisation>près de la fontaine de <commune insee="30245" precision="approximatif">Saint-Cosme</commune></localisation>, <localisation>commune de <commune insee="30123" precision="approximatif">Galargues</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia de Galadanicis, cum capella Sancti-Cosmæ,</i> <date>1156</date> <reference>(cart. de N.-D. de Nimes, ch. 84)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-06117" pg="200">
@@ -37720,7 +37720,7 @@
   </article>
   <article id="DT30-06464" pg="231">
     <vedette><sm>Salindrèze (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de l'Espinassonnet</localisation>, <localisation>commune de <commune insee="48170" precision="certain">Saint-Martin-de-Boubaux</commune></localisation> (Lozère), entre dans le département du Gard sur la <localisation>commune de <commune insee="30291" precision="certain">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Galeizon sur le territoire de la même commune.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>hameau de l'Espinassonnet</localisation>, <localisation>commune de <commune insee="48170" precision="approximatif">Saint-Martin-de-Boubaux</commune></localisation> (Lozère), entre dans le département du Gard sur la <localisation>commune de <commune insee="30291" precision="approximatif">Saint-Paul-la-Coste</commune></localisation> et se jette dans le Galeizon sur le territoire de la même commune.</definition>
   </article>
   <article id="DT30-06465" pg="231" type="commune">
     <vedette><sm>Salinelles,</sm></vedette>
@@ -38340,7 +38340,7 @@
   </article>
   <article id="DT30-06564" pg="235">
     <vedette><sm>Séguisson (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30048" precision="certain">Bouquet</commune></localisation> et va se jeter dans l'Alauzène sur le <localisation>territoire de la commune de <commune insee="30187" precision="certain">Navacelle</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30048" precision="approximatif">Bouquet</commune></localisation> et va se jeter dans l'Alauzène sur le <localisation>territoire de la commune de <commune insee="30187" precision="approximatif">Navacelle</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 8 kilomètres.</p>
     </commentaire>
@@ -39221,7 +39221,7 @@
   </article>
   <article id="DT30-06720" pg="240">
     <vedette><sm>Souls (Les),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source au <localisation>Minier</localisation>, <localisation>commune de <commune insee="30052" precision="certain">Bréau-et-Salagosse</commune></localisation>, et se jette dans le Coudouloux ou rivière d'Aulas à la <localisation>limite du territoire de <commune insee="30052" precision="approximatif">Bréau</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source au <localisation>Minier</localisation>, <localisation>commune de <commune insee="30052" precision="approximatif">Bréau-et-Salagosse</commune></localisation>, et se jette dans le Coudouloux ou rivière d'Aulas à la <localisation>limite du territoire de <commune insee="30052" precision="approximatif">Bréau</commune></localisation>.</definition>
     <commentaire>
       <p>Il porte dans la partie inférieure de son cours le nom de rivière de Salagosse, puis celui de Bréaunèze <renvoi>(voy. ce nom)</renvoi>.</p>
     </commentaire>
@@ -39441,7 +39441,7 @@
   </article>
   <article id="DT30-06753" pg="242">
     <vedette><sm>Tableau (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07148" precision="certain">Malbos</commune></localisation> (Ardèche) et entre dans le département du Gard sur la <localisation>commune de <commune insee="30079" precision="certain">Chambon</commune></localisation>, pour se jeter presque immédiatement dans la Cèze.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="07148" precision="approximatif">Malbos</commune></localisation> (Ardèche) et entre dans le département du Gard sur la <localisation>commune de <commune insee="30079" precision="approximatif">Chambon</commune></localisation>, pour se jeter presque immédiatement dans la Cèze.</definition>
   </article>
   <article id="DT30-06754" pg="242">
     <vedette><sm>Tagnac,</sm></vedette>
@@ -39640,7 +39640,7 @@
   </article>
   <article id="DT30-06793" pg="242">
     <vedette><sm>Tave (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30115" precision="certain">Fontarèche</commune></localisation>, traverse les <localisation>communes de <commune insee="30279" precision="certain">Saint-Laurent-de-la-Vernède</commune>, <pg>243</pg>la Bastide-d'Engras, Pougnadoresse, le Pin, Saint-Pons-la-Calm, Connaux, Tresques et Laudun</localisation>, et se jette dans la Cèze tout près de l'embouchure de cette dernière rivière dans le Rhône.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30115" precision="approximatif">Fontarèche</commune></localisation>, traverse les <localisation>communes de <commune insee="30279" precision="approximatif">Saint-Laurent-de-la-Vernède</commune>, <pg>243</pg>la Bastide-d'Engras, Pougnadoresse, le Pin, Saint-Pons-la-Calm, Connaux, Tresques et Laudun</localisation>, et se jette dans la Cèze tout près de l'embouchure de cette dernière rivière dans le Rhône.</definition>
     <forme_ancienne>— <i>Le Tave,</i> <date>1736</date> <reference>(arch. départ. C. 1307)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours : 25 kilomètres.</p>
@@ -40829,7 +40829,7 @@
   </article>
   <article id="DT30-07006" pg="249">
     <vedette><sm>Tronche (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30203" precision="certain">Portes</commune></localisation> et va se jeter dans le Gardon sur le <localisation>territoire de la commune des <commune insee="30307" precision="certain">Salles-du-Gardon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30203" precision="approximatif">Portes</commune></localisation> et va se jeter dans le Gardon sur le <localisation>territoire de la commune des <commune insee="30307" precision="approximatif">Salles-du-Gardon</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Troche (La).</sm></renvoi></p>
     </commentaire>
@@ -41635,7 +41635,7 @@
   </article>
   <article id="DT30-07131" pg="255">
     <vedette><sm>Vallat-Blanc (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30326" precision="certain">Tavels</commune></localisation> et se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30209" precision="certain">Pujaut</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30326" precision="approximatif">Tavels</commune></localisation> et se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30209" precision="approximatif">Pujaut</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 13 kilomètres.</p>
     </commentaire>
@@ -41674,7 +41674,7 @@
   </article>
   <article id="DT30-07139" pg="255">
     <vedette><sm>Vallat-des-Bernadelles (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à las Trestaulières, <localisation>commune d’<commune insee="30016" precision="certain">Arre</commune></localisation>, et se jette dans l'Arre au <localisation>village d’<commune insee="30016" precision="certain">Arre</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à las Trestaulières, <localisation>commune d’<commune insee="30016" precision="approximatif">Arre</commune></localisation>, et se jette dans l'Arre au <localisation>village d’<commune insee="30016" precision="approximatif">Arre</commune></localisation>.</definition>
   </article>
   <article id="DT30-07140" pg="255">
     <vedette><sm>Vallat-des-Cannes (Le),</sm></vedette>
@@ -41683,7 +41683,7 @@
   </article>
   <article id="DT30-07141" pg="255">
     <vedette><sm>Vallat-des-Combes (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30138" precision="certain">Langlade</commune></localisation> et se jette dans le Vistre sur le <localisation>territoire de la commune de <commune insee="30036" precision="certain">Bernis</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30138" precision="approximatif">Langlade</commune></localisation> et se jette dans le Vistre sur le <localisation>territoire de la commune de <commune insee="30036" precision="approximatif">Bernis</commune></localisation>.</definition>
   </article>
   <article id="DT30-07142" pg="255">
     <vedette><sm>Vallat-des-Combes (Le),</sm></vedette>
@@ -41745,7 +41745,7 @@
   </article>
   <article id="DT30-07149" pg="255">
     <vedette><sm>Vallier (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30073" precision="certain">Castillon-du-Gard</commune></localisation> et se jette dans la Valliguière sur le <localisation>territoire de la commune de <commune insee="30260" precision="certain">Saint-Hilaire-d'Ozilhan</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30073" precision="approximatif">Castillon-du-Gard</commune></localisation> et se jette dans la Valliguière sur le <localisation>territoire de la commune de <commune insee="30260" precision="approximatif">Saint-Hilaire-d'Ozilhan</commune></localisation>.</definition>
     <commentaire>
       <p>— Parcours : 4,400 mètres.</p>
     </commentaire>
@@ -41897,7 +41897,7 @@
   </article>
   <article id="DT30-07174" pg="256">
     <vedette><sm>Valmy,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, <localisation>près du chemin de <commune insee="30311" precision="approximatif">Sauve</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, <localisation>près du chemin de <commune insee="30311" precision="approximatif">Sauve</commune></localisation>.</definition>
   </article>
   <article id="DT30-07175" pg="256">
     <vedette><sm>Valmy (La Haute- et la Basse-),</sm></vedette>
@@ -42208,7 +42208,7 @@
   </article>
   <article id="DT30-07217" pg="258">
     <vedette><sm>Vébron (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>flanc du mont Bannassac</localisation>, sur la <localisation>commune de <commune insee="30227" precision="certain">Saint-Ambroix</commune></localisation>, traverse le territoire de cette commune et celui de la <localisation>commune des <commune insee="30152" precision="certain">Mages</commune></localisation>, entre lesquels il sert de limite, et se jette dans la Cèze un peu <localisation>au-dessus du hameau de Saint-Germain-de-Cèze</localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>flanc du mont Bannassac</localisation>, sur la <localisation>commune de <commune insee="30227" precision="approximatif">Saint-Ambroix</commune></localisation>, traverse le territoire de cette commune et celui de la <localisation>commune des <commune insee="30152" precision="approximatif">Mages</commune></localisation>, entre lesquels il sert de limite, et se jette dans la Cèze un peu <localisation>au-dessus du hameau de Saint-Germain-de-Cèze</localisation>.</definition>
   </article>
   <article id="DT30-07218" pg="258">
     <vedette><sm>Védelin,</sm></vedette>
@@ -42488,7 +42488,7 @@
   </article>
   <article id="DT30-07261" pg="260">
     <vedette><sm>Verre (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30095" precision="certain">Corconne</commune></localisation> et se jette dans le Brestalou sur le <localisation>territoire de la commune de <commune insee="30055" precision="certain">Brouzet</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30095" precision="approximatif">Corconne</commune></localisation> et se jette dans le Brestalou sur le <localisation>territoire de la commune de <commune insee="30055" precision="approximatif">Brouzet</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Vère,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours : 4,800 mètres.</p>
@@ -42553,7 +42553,7 @@
   </article>
   <article id="DT30-07272" pg="260">
     <vedette><sm>Vérune-Haute (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30182" precision="certain">Montpezat</commune></localisation> et se jette dans la Braüne sur le <localisation>territoire de la commune de <commune insee="30193" precision="certain">Parignargues</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30182" precision="approximatif">Montpezat</commune></localisation> et se jette dans la Braüne sur le <localisation>territoire de la commune de <commune insee="30193" precision="approximatif">Parignargues</commune></localisation>.</definition>
   </article>
   <article id="DT30-07273" pg="261">
     <pg>261</pg>
@@ -42608,7 +42608,7 @@
   </article>
   <article id="DT30-07279" pg="261">
     <vedette><sm>Veyre (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30031" precision="certain">Bastide-d'Engras</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="certain">Tresques</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de la <commune insee="30031" precision="approximatif">Bastide-d'Engras</commune></localisation> et se jette dans le Tave sur le <localisation>territoire de la commune de <commune insee="30331" precision="approximatif">Tresques</commune></localisation>.</definition>
   </article>
   <article id="DT30-07280" pg="261">
     <vedette><sm>Veyrière (La),</sm></vedette>
@@ -42662,7 +42662,7 @@
   </article>
   <article id="DT30-07285" pg="261">
     <vedette><sm>Vèzenobre (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30199" precision="certain">Pommiers</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune d’<commune insee="30026" precision="certain">Avèze</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30199" precision="approximatif">Pommiers</commune></localisation> et se jette dans l'Arre sur le <localisation>territoire de la commune d’<commune insee="30026" precision="approximatif">Avèze</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ripperia de Vizenobrio,</i> <date>1293</date> <reference>(pap. de la fam. d'Alzon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vallatum de Vicenobrio,</i> <date>1430</date> <reference>(Ant. Montfajon, not. du Vigan)</reference>.</forme_ancienne>
     <commentaire>
@@ -43058,7 +43058,7 @@
   </article>
   <article id="DT30-07352" pg="264">
     <vedette><sm>Villaret (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Saint-Guiral</localisation>, sur la <localisation>commune d’<commune insee="30017" precision="certain">Arrigas</commune></localisation>, et se jette dans la Vis sur le <localisation>territoire de la commune d’<commune insee="30009" precision="certain">Alzon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>mont Saint-Guiral</localisation>, sur la <localisation>commune d’<commune insee="30017" precision="approximatif">Arrigas</commune></localisation>, et se jette dans la Vis sur le <localisation>territoire de la commune d’<commune insee="30009" precision="approximatif">Alzon</commune></localisation>.</definition>
   </article>
   <article id="DT30-07353" pg="264">
     <vedette><sm>Villaret (Le),</sm></vedette>
@@ -43360,7 +43360,7 @@
   </article>
   <article id="DT30-07396" pg="266">
     <vedette><sm>Vistre-de-Cabrières (Le),</sm></vedette>
-    <definition>affluent du Vistre qui prend sa source sur la <localisation>commune de <commune insee="30057" precision="certain">Cabrières</commune></localisation> et se <pg>267</pg>jette dans la branche principale du Vistre un peu au-dessous de Coloures, <localisation>commune de <commune insee="30156" precision="certain">Marguerittes</commune></localisation>.</definition>
+    <definition>affluent du Vistre qui prend sa source sur la <localisation>commune de <commune insee="30057" precision="approximatif">Cabrières</commune></localisation> et se <pg>267</pg>jette dans la branche principale du Vistre un peu au-dessous de Coloures, <localisation>commune de <commune insee="30156" precision="approximatif">Marguerittes</commune></localisation>.</definition>
   </article>
   <article id="DT30-07397" pg="267">
     <vedette><sm>Vistre-de-Nimes (Le),</sm></vedette>

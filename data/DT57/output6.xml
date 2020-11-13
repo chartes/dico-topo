@@ -223,7 +223,7 @@
     </commentaire>
   </article>
   <article id="DT57-00020" pg="3">
-    <vedette><sm>Albach</sm> ou <sm>Altbach (Ruisseau d’).</sm></vedette>
+    <vedette><sm>Albach ou Altbach (Ruisseau d’).</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Aspelt (Luxembourg), traverse les communes de Mondorff, Beyren et Kontz-Haute sur une longueur de 10 kilomètres et se jette dans la Moselle.</p>
     </commentaire>
@@ -617,7 +617,7 @@
   </article>
   <article id="DT57-00063" pg="6">
     <vedette><sm>Amandillier,</sm></vedette>
-    <definition><typologie>village ruiné</typologie> qui était situé <localisation>entre <commune insee="57552">Pouilly</commune> et <commune insee="57218">Fleury</commune></localisation> et qui appartenait à l’abbaye Saint-Clément de Metz <reference>(abb. Saint-Clément, s. l’<date>an 1714</date>)</reference>.</definition>
+    <definition><typologie>village ruiné</typologie> qui était situé <localisation>entre <commune insee="57552" precision="approximatif">Pouilly</commune> et <commune insee="57218" precision="approximatif">Fleury</commune></localisation> et qui appartenait à l’abbaye Saint-Clément de Metz <reference>(abb. Saint-Clément, s. l’<date>an 1714</date>)</reference>.</definition>
   </article>
   <article type="commune" id="DT57-00064" pg="6">
     <vedette><sm>Amanvillers,</sm></vedette>
@@ -774,7 +774,7 @@
     <definition><typologie>ancien moulin</typologie>, sur le <localisation>ban de Munsthal</localisation> <reference>(<date>1681</date>, dénomb. 22 déc.)</reference>.</definition>
   </article>
   <article id="DT57-00077" pg="7">
-    <vedette><sm>Aneckersmühl, Eidenhemmermühl</sm> ou <sm>Paleimühl,</sm></vedette>
+    <vedette><sm>Aneckersmühl, Eidenhemmermühl ou Paleimühl,</sm></vedette>
     <definition><typologie>cense</typologie>, <localisation>commune de <commune insee="57658" precision="certain">Soucht</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-00078" pg="7">
@@ -1815,7 +1815,7 @@
     </commentaire>
   </article>
   <article id="DT57-00172" pg="17">
-    <vedette><sm>Batzendal (Ruisseau de)</sm> ou <sm>Pensperne.</sm></vedette>
+    <vedette><sm>Batzendal (Ruisseau de) ou Pensperne.</sm></vedette>
     <commentaire>
       <p>— Il prend sa source à Algrange, traverse cette commune sur une longueur de 1,400 mèt. et se jette dans la Fensch.</p>
     </commentaire>
@@ -2071,7 +2071,7 @@
   </article>
   <article id="DT57-00196" pg="19">
     <vedette><sm>Belair,</sm></vedette>
-    <definition><typologie>ferme, autrefois hameau</typologie>, <localisation>commune de <commune insee="54542">Valleroy</commune>, sur l’Orne</localisation>.</definition>
+    <definition><typologie>ferme, autrefois hameau</typologie>, <localisation>commune de <commune insee="54542" precision="certain">Valleroy</commune>, sur l’Orne</localisation>.</definition>
     <forme_ancienne>— <i>Bellair,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bélair,</i> vill. <date>1756</date> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
     <commentaire>
@@ -2206,7 +2206,7 @@
   </article>
   <article id="DT57-00217" pg="19">
     <vedette><sm>Belle-Vue,</sm></vedette>
-    <definition><typologie>ancienne maison</typologie> de la <localisation>paroisse de <commune insee="57672">Thionville</commune></localisation>.</definition>
+    <definition><typologie>ancienne maison</typologie> de la <localisation>paroisse de <commune insee="57672" precision="approximatif">Thionville</commune></localisation>.</definition>
     <forme_ancienne>— <i>Faustembourg,</i> appelée aussi <i>la Maison Schwetzi,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(arch. de Thionv.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00218" pg="19">
@@ -2275,7 +2275,7 @@
   </article>
   <article id="DT57-00225" pg="20">
     <vedette><sm>Béon,</sm></vedette>
-    <definition><typologie>ancienne tuilerie</typologie> sur la <localisation>paroisse de <commune insee="57589">Rohrbach</commune></localisation> <reference>(<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
+    <definition><typologie>ancienne tuilerie</typologie> sur la <localisation>paroisse de <commune insee="57589" precision="approximatif">Rohrbach</commune></localisation> <reference>(<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
   </article>
   <article id="DT57-00226" pg="20">
     <vedette><sm>Berenbach (Ruisseau de).</sm></vedette>
@@ -2492,7 +2492,7 @@
   </article>
   <article id="DT57-00248" pg="22">
     <vedette><sm>Betenart,</sm></vedette>
-    <definition><typologie>ancien village</typologie> annexe de la <localisation>paroisse de <commune insee="57453">Maxstadt</commune></localisation>, <date>875</date> (abbaye Sainte-Gloss. ch. Louis le Germ.).</definition>
+    <definition><typologie>ancien village</typologie> annexe de la <localisation>paroisse de <commune insee="57453" precision="approximatif">Maxstadt</commune></localisation>, <date>875</date> (abbaye Sainte-Gloss. ch. Louis le Germ.).</definition>
     <forme_ancienne>— <i>Betenant,</i> <date>1292</date> <reference>(abb. Sainte-Gloss. ch. s. l’an.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00249" pg="22">
@@ -2783,7 +2783,7 @@
     <definition><typologie>métairie isolée</typologie>, <localisation>commune de <commune insee="57153" precision="certain">Corny</commune></localisation>.</definition>
   </article>
   <article id="DT57-00272" pg="25">
-    <vedette><sm>Bevange (Haute</sm> et <sm>Basse),</sm></vedette>
+    <vedette><sm>Bevange (Haute et Basse),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57582" precision="certain">Richemont</commune></localisation>.</definition>
     <forme_ancienne>— <i>Besanges,</i> <date>1341</date> <reference>(inv. des tit. de Lorr. III, 234)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bevange au-dessus de Richemont,</i> <date>1756</date> <reference>(Stem. dép<sup>t</sup> M.)</reference>.</forme_ancienne>
@@ -3093,7 +3093,7 @@
   </article>
   <article id="DT57-00306" pg="27">
     <vedette><sm>Bischwald (Étang de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="57088" precision="certain">Bistroff</commune> et de <commune insee="57063" precision="certain">Bérig</commune></localisation>, d’une superficie de 202 hectares</definition>
+    <definition><localisation>communes de <commune insee="57088" precision="approximatif">Bistroff</commune> et de <commune insee="57063" precision="approximatif">Bérig</commune></localisation>, d’une superficie de 202 hectares</definition>
     <forme_ancienne>— <i>Buchewalde,</i> <date>1447</date> étang et m<sup>in</sup> <reference>(cart. év. de Metz, t. IV, p. 61)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L’Étang de Bicheval,</i> <date>1756</date> <reference>(Stem. dép<sup>t</sup> M.)</reference>.</forme_ancienne>
     <commentaire>
@@ -3259,7 +3259,7 @@
   </article>
   <article id="DT57-00322" pg="29">
     <vedette><sm>Blanru,</sm></vedette>
-    <definition><typologie>cense</typologie> de la <localisation>paroisse de <commune insee="57716">Vigy</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
+    <definition><typologie>cense</typologie> de la <localisation>paroisse de <commune insee="57716" precision="approximatif">Vigy</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
   </article>
   <article id="DT57-00323" pg="29">
     <vedette><sm>Blauberg,</sm></vedette>
@@ -3267,7 +3267,7 @@
   </article>
   <article id="DT57-00324" pg="29">
     <vedette><sm>Blauberg,</sm></vedette>
-    <definition><typologie>seigneurie</typologie> composée des <localisation>villages de <commune insee="57106">Benting</commune>, <commune insee="57507">Guising</commune>, <commune insee="57567">Remelfang</commune> et <commune insee="57048">Itzing</commune></localisation>, siége d’une justice haute, moyenne et basse ; fut érigée en baronnie par lettres patentes de Stanislas, le <date>2 septembre 1754</date>, en faveur de J.F. de Kœler, <date>1681</date> <reference>(dénomb. 1<sup>er</sup> mai et Dur. Lorr.)</reference>.</definition>
+    <definition><typologie>seigneurie</typologie> composée des <localisation>villages de <commune insee="57106" precision="approximatif">Benting</commune>, <commune insee="57507" precision="approximatif">Guising</commune>, <commune insee="57567" precision="approximatif">Remelfang</commune> et <commune insee="57048" precision="approximatif">Itzing</commune></localisation>, siége d’une justice haute, moyenne et basse ; fut érigée en baronnie par lettres patentes de Stanislas, le <date>2 septembre 1754</date>, en faveur de J.F. de Kœler, <date>1681</date> <reference>(dénomb. 1<sup>er</sup> mai et Dur. Lorr.)</reference>.</definition>
     <forme_ancienne>— <i>Blauberg</i> ou <i>Bloberg,</i> <date>1756</date> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
     <commentaire>
       <p>Autrefois Lorr. baill. de Bouzonville.</p>
@@ -3365,7 +3365,7 @@
     <forme_ancienne>— <i>Blies</i> <reference>(carte allem.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00334" pg="30">
-    <vedette><sm>Bliese (Pays de la)</sm> ou <sm>Bliesgau.</sm></vedette>
+    <vedette><sm>Bliese (Pays de la) ou Bliesgau.</sm></vedette>
     <commentaire>
       <p>— Il formait un comté de la Haute Lorraine et était borné, à l’est, par le Speyergau et le Wormsgau, au nord par le Nahegau, à l’ouest et au sud par le Moselgau et le Saargau.</p>
     </commentaire>
@@ -3756,7 +3756,7 @@
   </article>
   <article id="DT57-00371" pg="33">
     <vedette><sm>Boul,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57433">Maizières-lez-Metz</commune></localisation>.</definition>
+    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57433" precision="approximatif">Maizières-lez-Metz</commune></localisation>.</definition>
   </article>
   <article id="DT57-00372" pg="33">
     <vedette><sm>Bouland,</sm></vedette>
@@ -3912,7 +3912,7 @@
   </article>
   <article id="DT57-00388" pg="34">
     <vedette><sm>Bourray,</sm></vedette>
-    <definition><typologie>village détruit</typologie>, <localisation>annexe de <commune insee="57125">Chailly-lez-Ennery</commune></localisation>.</definition>
+    <definition><typologie>village détruit</typologie>, <localisation>annexe de <commune insee="57125" precision="approximatif">Chailly-lez-Ennery</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bourray,</i> <date>1487</date> <reference>(abb. Saint-Vincent, liasse Maizières)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bourai,</i> <date><sm>xvi</sm><sup>e</sup> siècle</date> <reference>(abb. Saint-Vincent, liasse Ennery)</reference>.</forme_ancienne>
   </article>
@@ -4650,7 +4650,7 @@
   </article>
   <article id="DT57-00462" pg="41">
     <vedette><sm>Buchviller,</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, annexe de l’<localisation>église de <commune insee="57159">Créhange</commune></localisation>.</definition>
+    <definition><typologie>hameau détruit</typologie>, annexe de l’<localisation>église de <commune insee="57159" precision="approximatif">Créhange</commune></localisation>.</definition>
     <forme_ancienne>— <i>Büch,</i> <date>1180</date> <reference>(abb. de Long. bulle d’Alex. III)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bulchwire,</i> <date>1221</date> <reference>(abb. de Long. confirm. des biens)</reference>.</forme_ancienne>
   </article>
@@ -4777,7 +4777,7 @@
   </article>
   <article id="DT57-00471" pg="42">
     <vedette><sm>Buré-d’Orval,</sm></vedette>
-    <definition><typologie>forêt domaniale</typologie> de 593 hectares, sur le <localisation>territoire des communes de <commune insee="54322">Longuyon</commune> et d’<commune insee="54011">Allondrelle</commune></localisation>.</definition>
+    <definition><typologie>forêt domaniale</typologie> de 593 hectares, sur le <localisation>territoire des communes de <commune insee="54322" precision="approximatif">Longuyon</commune> et d’<commune insee="54011" precision="approximatif">Allondrelle</commune></localisation>.</definition>
   </article>
   <article id="DT57-00472" pg="42">
     <vedette><sm>Buré-la-Forge,</sm></vedette>
@@ -4981,7 +4981,7 @@
   </article>
   <article id="DT57-00496" pg="44">
     <vedette><sm>Cama,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57226">Fontoy</commune></localisation> <reference>(<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
+    <definition><typologie>ancienne cense</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57226" precision="approximatif">Fontoy</commune></localisation> <reference>(<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
   </article>
   <article id="DT57-00497" pg="44">
     <vedette><sm>Cama,</sm></vedette>
@@ -5010,13 +5010,13 @@
     <definition>nom donné à une <typologie>partie du fort</typologie> de <localisation><commune insee="57672" precision="certain">Thionville</commune></localisation>, construite par Cormontaigne.</definition>
   </article>
   <article id="DT57-00501" pg="44">
-    <vedette><sm>Canal des Forges (Ruisseau</sm> dit <sm>le).</sm></vedette>
+    <vedette><sm>Canal des Forges (Ruisseau dit le).</sm></vedette>
     <commentaire>
       <p>— Coule sur le territ. de la c<sup>ne</sup> d’Audun-le-Tiche et va se jeter dans l’Alzette.</p>
     </commentaire>
   </article>
   <article id="DT57-00502" pg="44">
-    <vedette><sm>Canal du Moulin (Ruisseau</sm> dit <sm>le).</sm></vedette>
+    <vedette><sm>Canal du Moulin (Ruisseau dit le).</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Neudorff, traverse la c<sup>ne</sup> de Chémery-les-Deux sur une longueur de 1,085 mètres et se jette dans la Nied.</p>
     </commentaire>
@@ -5102,7 +5102,7 @@
   </article>
   <article id="DT57-00514" pg="45">
     <vedette><sm>Carling,</sm></vedette>
-    <definition><typologie>village</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>village</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p>— Ce village a été bâti en <date>1716</date> sur des terrains concédés par Charles-Louis, comte de Nassau-Sarrebrück. Il fit partie de la baronnie d’Uberhern (Empire) et fut cédé à la France par le prince de Nassau-Sarrebruck le <date>16 novembre 1770</date>. — En allemand : <i>Karlingen.</i></p>
       <p>L’église de Carling était une succursale de l’hôpital de Saint-Avold, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</p>
@@ -5257,7 +5257,7 @@
   </article>
   <article id="DT57-00532" pg="47">
     <vedette><sm>Cense aux Chèvres,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57751">Woippy</commune></localisation> <reference>(<date><sm>xvii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
+    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57751" precision="approximatif">Woippy</commune></localisation> <reference>(<date><sm>xvii</sm><sup>e</sup> siècle</date>, pouillé de M.)</reference>.</definition>
   </article>
   <article id="DT57-00533" pg="47">
     <vedette><sm>Cense-aux-Loups (La),</sm></vedette>
@@ -5656,7 +5656,7 @@
   </article>
   <article id="DT57-00577" pg="50">
     <vedette><sm>Charrière (La),</sm></vedette>
-    <definition>nom sous lequel est connue dans le pays la <typologie>voie romaine</typologie> de <localisation><commune insee="51454">Reims</commune></localisation> à <localisation><commune insee="57463" precision="certain">Metz</commune></localisation>.</definition>
+    <definition>nom sous lequel est connue dans le pays la <typologie>voie romaine</typologie> de <localisation><commune insee="51454" precision="approximatif">Reims</commune></localisation> à <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Grande-Charrière,</i> <date>1638</date> <reference>(Journ. J. Bauch.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00578" pg="50">
@@ -5890,7 +5890,7 @@
   </article>
   <article id="DT57-00602" pg="52">
     <vedette><sm>Chelaincourt,</sm></vedette>
-    <definition><typologie>château et hameau</typologie>, <localisation>annexe de <commune insee="57219">Flévy</commune></localisation>.</definition>
+    <definition><typologie>château et hameau</typologie>, <localisation>annexe de <commune insee="57219" precision="approximatif">Flévy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cincilonecurtis,</i> <date>763</date> <reference>(abb. Gorze, ch. Chrod.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Silinicurtis,</i> <date>936</date> <reference>(conf. de S<sup>t</sup>-Epv. D. Cal. II, pr. <sm>clxxxi</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sellacort,</i> <date>1210</date> <reference>(chron. Met. app. pr. D. Cal. pr. I, <sm>lxxviii</sm>)</reference>.</forme_ancienne>
@@ -5926,7 +5926,7 @@
     <insee>57136</insee>
   </article>
   <article type="commune" id="DT57-00604" pg="52">
-    <vedette><sm>Chémery (Les Deux) : Vieille</sm> et <sm>Neuve,</sm></vedette>
+    <vedette><sm>Chémery (Les Deux) : Vieille et Neuve,</sm></vedette>
     <definition><localisation>canton de <commune insee="57106" precision="approximatif">Bouzonville</commune></localisation>.</definition>
     <forme_ancienne>— <i>Schoumberg,</i> <date>1334</date> <reference>(abb. Bouzonv. s. l’an.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Schouenberg,</i> <date>1338</date> <reference>(abb. Bouzonv. s. l’an.)</reference>.</forme_ancienne>
@@ -5954,7 +5954,7 @@
   </article>
   <article id="DT57-00606" pg="53">
     <vedette><sm>Chemin de la Reine (Le),</sm></vedette>
-    <definition><localisation>communes de <commune insee="57716" precision="certain">Vigy</commune>, de <commune insee="57607" precision="certain">Sainte-Barbe</commune> et de <commune insee="57575" precision="certain">Retonféy</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="57716" precision="approximatif">Vigy</commune>, de <commune insee="57607" precision="approximatif">Sainte-Barbe</commune> et de <commune insee="57575" precision="approximatif">Retonféy</commune></localisation>.</definition>
     <commentaire>
       <p>— Ancienne chaussée qui conduit du canton de Vigy à celui de Pange. — Souvenir des chemins restaurés ou créés en Austrasie par la reine Brunechild.</p>
     </commentaire>
@@ -6228,7 +6228,7 @@
   </article>
   <article id="DT57-00635" pg="55">
     <vedette><sm>Choro (Le),</sm></vedette>
-    <definition><typologie>ancien hameau</typologie> de la <localisation>mairie de <commune insee="57511">Norroy-le-Veneur</commune></localisation>, <localisation>près de <commune insee="54099" precision="approximatif">Briey</commune></localisation> <reference>(<date>1756</date>, D. Cal. not. Lorr.)</reference>.</definition>
+    <definition><typologie>ancien hameau</typologie> de la <localisation>mairie de <commune insee="57511" precision="approximatif">Norroy-le-Veneur</commune></localisation>, <localisation>près de <commune insee="54099" precision="approximatif">Briey</commune></localisation> <reference>(<date>1756</date>, D. Cal. not. Lorr.)</reference>.</definition>
   </article>
   <article id="DT57-00636" pg="55">
     <vedette><sm>Cimetière Belle-Croix (Le),</sm></vedette>
@@ -6287,7 +6287,7 @@
   </article>
   <article id="DT57-00643" pg="55">
     <vedette><sm>Clairefontaine,</sm></vedette>
-    <definition><typologie>ancienne localité</typologie> située sur la rive gauche de la Moselle, à peu près <localisation>en face d’<commune insee="57757">Yutz</commune></localisation>.</definition>
+    <definition><typologie>ancienne localité</typologie> située sur la rive gauche de la Moselle, à peu près <localisation>en face d’<commune insee="57757" precision="approximatif">Yutz</commune></localisation>.</definition>
     <forme_ancienne>— <i>Clerefontaine,</i> <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(cart. Tass.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00644" pg="55">
@@ -6296,7 +6296,7 @@
   </article>
   <article id="DT57-00645" pg="55">
     <vedette><sm>Clause (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à Escherange, traverse les <localisation>communes d’<commune insee="57199" precision="certain">Escherange</commune> et de <commune insee="57731" precision="certain">Volmerange-lez-</commune>Œutrange</localisation> sur une longueur de 4 kilom. et se jette dans l’Alzette (Belgique).</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à Escherange, traverse les <localisation>communes d’<commune insee="57199" precision="approximatif">Escherange</commune> et de <commune insee="57731" precision="approximatif">Volmerange-lez-</commune>Œutrange</localisation> sur une longueur de 4 kilom. et se jette dans l’Alzette (Belgique).</definition>
   </article>
   <article id="DT57-00646" pg="55">
     <vedette><sm>Clémency.</sm></vedette>
@@ -6635,7 +6635,7 @@
     <insee>54136</insee>
   </article>
   <article id="DT57-00678" pg="59">
-    <vedette><sm>Conrois</sm> ou <sm>Conroy (Ruisseau du).</sm></vedette>
+    <vedette><sm>Conrois ou Conroy (Ruisseau du).</sm></vedette>
     <commentaire>
       <p>— Prend sa source près de Boulange, traverse les c<sup>nes</sup> de Lommerange, Neufchef, Moyeuvre-Petite et Moyeuvre-Grande sur une longueur de 14 kilomètres et va se jeter dans l’Orne.</p>
     </commentaire>
@@ -7072,7 +7072,7 @@
   </article>
   <article id="DT57-00724" pg="63">
     <vedette><sm>Croix-de-Franchise (La),</sm></vedette>
-    <definition><typologie>ancienne croix plantée</typologie> sur la <localisation>place de <commune insee="57483">Morhange</commune></localisation> (D. Calmet, not. Lorr. v° <i>Morhange</i>).</definition>
+    <definition><typologie>ancienne croix plantée</typologie> sur la <localisation>place de <commune insee="57483" precision="certain">Morhange</commune></localisation> (D. Calmet, not. Lorr. v° <i>Morhange</i>).</definition>
   </article>
   <article id="DT57-00725" pg="63">
     <vedette><sm>Croix-de-Lorraine (La),</sm></vedette>
@@ -7080,7 +7080,7 @@
   </article>
   <article id="DT57-00726" pg="63">
     <vedette><sm>Croix Médar (La),</sm></vedette>
-    <definition>plantée au-dessus de Plappeville, à l’embranchement des routes de Scy et de Lessy, à <localisation>la gorge du mont <commune insee="57642">Saint-Quentin</commune></localisation> <reference>(<date>1636</date>, Journ. J. Bauch.)</reference>.</definition>
+    <definition>plantée au-dessus de Plappeville, à l’embranchement des routes de Scy et de Lessy, à <localisation>la gorge du mont <commune insee="57642" precision="approximatif">Saint-Quentin</commune></localisation> <reference>(<date>1636</date>, Journ. J. Bauch.)</reference>.</definition>
   </article>
   <article id="DT57-00727" pg="63">
     <vedette><sm>Cronenberg (Les voueries de).</sm></vedette>
@@ -7436,7 +7436,7 @@
   </article>
   <article id="DT57-00771" pg="66">
     <vedette><sm>Desiremont,</sm></vedette>
-    <definition><typologie>colline</typologie> <localisation>près de <commune insee="57463" precision="approximatif">Metz</commune></localisation>, sur le flanc de laquelle se trouvait autrefois le <localisation>village de <commune insee="57616" precision="certain">Saint-Julien</commune></localisation>, rebâti plus loin lors de la construction du fort Belle-Croix : <renvoi>voy. ce nom.</renvoi>.</definition>
+    <definition><typologie>colline</typologie> <localisation>près de <commune insee="57463" precision="approximatif">Metz</commune></localisation>, sur le flanc de laquelle se trouvait autrefois le <localisation>village de <commune insee="57616" precision="approximatif">Saint-Julien</commune></localisation>, rebâti plus loin lors de la construction du fort Belle-Croix : <renvoi>voy. ce nom.</renvoi>.</definition>
     <forme_ancienne>— <i>Vinea ad sanctum Desiderum,</i> <date>945</date> <reference>(abb. Sainte-Gloss. ch. Adalb. I)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Dezeremont,</i> <date>1344</date> <reference>(abb. Vill. M. 9)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Destirmont,</i> <date>1399</date> <reference>(abb. Vill. M. 15)</reference>.</forme_ancienne>
@@ -7558,7 +7558,7 @@
     <definition>sur le <localisation>territoire de la commune de <commune insee="57550" precision="certain">Porcelette</commune></localisation>.</definition>
   </article>
   <article id="DT57-00783" pg="67">
-    <vedette><sm>Diesen (Haut</sm> et <sm>Bas),</sm></vedette>
+    <vedette><sm>Diesen (Haut et Bas),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57550" precision="certain">Porcelette</commune></localisation>.</definition>
     <forme_ancienne>— <i>Dizène,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Dezin, moulin qui dépend de la Porcelette,</i> <date>1756</date> <reference>(Stem. dép. M.)</reference>.</forme_ancienne>
@@ -7577,14 +7577,14 @@
   </article>
   <article id="DT57-00785" pg="67">
     <vedette><sm>Dietersbach,</sm></vedette>
-    <definition><typologie>ancien gagnage</typologie> de la <localisation>seigneurie de <commune insee="57089">Bitche</commune></localisation>, <date>1594</date> (dén. Th. Alix).</definition>
+    <definition><typologie>ancien gagnage</typologie> de la <localisation>seigneurie de <commune insee="57089" precision="approximatif">Bitche</commune></localisation>, <date>1594</date> (dén. Th. Alix).</definition>
     <commentaire>
       <p>— N’existait plus au commencement du <date><sm>xviii</sm><sup>e</sup> siècle</date>, car Bugnon ne le mentionne pas.</p>
     </commentaire>
   </article>
   <article id="DT57-00786" pg="67">
     <vedette><sm>Dietzwiller,</sm></vedette>
-    <definition><typologie>ancien hameau</typologie> annexe de la <localisation>paroisse de <commune insee="57297">Béning-lez-Harprich</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
+    <definition><typologie>ancien hameau</typologie> annexe de la <localisation>paroisse de <commune insee="57297" precision="approximatif">Béning-lez-Harprich</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
   </article>
   <article id="DT57-00787" pg="67">
     <vedette><sm>Diffembach (Ruisseau de).</sm></vedette>
@@ -7659,12 +7659,12 @@
   </article>
   <article id="DT57-00794" pg="68">
     <vedette><sm>Dithmar,</sm></vedette>
-    <definition><typologie>cense-fief</typologie> érigée le <date>4 octobre 1723</date> par le duc de Lorraine Léopold I<sup>er</sup>, absorbée par le village <localisation>de <commune insee="57636">Schmittwiller</commune></localisation>, dont il fait aujourd’hui partie intégrante.</definition>
+    <definition><typologie>cense-fief</typologie> érigée le <date>4 octobre 1723</date> par le duc de Lorraine Léopold I<sup>er</sup>, absorbée par le village <localisation>de <commune insee="57636" precision="certain">Schmittwiller</commune></localisation>, dont il fait aujourd’hui partie intégrante.</definition>
     <forme_ancienne>— <i>Diethemar,</i> <date>1779</date> <reference>(Dur. Lorr.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00795" pg="68">
     <vedette><sm>Ditschwiller,</sm></vedette>
-    <definition><typologie>ancien ban</typologie> situé <localisation>entre <commune insee="57330">Holving</commune> et <commune insee="57628">Sarralbe</commune></localisation>.</definition>
+    <definition><typologie>ancien ban</typologie> situé <localisation>entre <commune insee="57330" precision="approximatif">Holving</commune> et <commune insee="57628" precision="approximatif">Sarralbe</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ditshwiller,</i> <date><sm>xvi</sm><sup>e</sup> siècle</date> <reference>(arch. de Sarralbe, ff. 1)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00796" pg="68">
@@ -7781,7 +7781,7 @@
   </article>
   <article id="DT57-00805" pg="69">
     <vedette><sm>Domprobst,</sm></vedette>
-    <definition><typologie>seigneurie, haute, moyenne et basse justice</typologie>, située sur le <localisation>ban de <commune insee="57465">Metzerwisse</commune></localisation>.</definition>
+    <definition><typologie>seigneurie, haute, moyenne et basse justice</typologie>, située sur le <localisation>ban de <commune insee="57465" precision="approximatif">Metzerwisse</commune></localisation>.</definition>
     <commentaire>
       <p>Faisait partie de la seigneurie de Meilbourg. Ses habitants portaient le titre de <i>Domprobstuls,</i> <date>1681</date> (dénombr. du 8 juillet).</p>
     </commentaire>
@@ -8556,7 +8556,7 @@
   </article>
   <article id="DT57-00884" pg="76">
     <vedette><sm>Epping,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie> de la <localisation>paroisse de <commune insee="57235">Freistroff</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
+    <definition><typologie>ancienne cense</typologie> de la <localisation>paroisse de <commune insee="57235" precision="approximatif">Freistroff</commune></localisation>, <date><sm>xviii</sm><sup>e</sup> siècle</date> (pouillé de M.).</definition>
     <forme_ancienne>— <i>Eppingen,</i> <date>1594</date> <reference>(dén. Th. Alix)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00885" pg="76">
@@ -8630,7 +8630,7 @@
   </article>
   <article id="DT57-00894" pg="76">
     <vedette><sm>Erpelhoff,</sm></vedette>
-    <definition><typologie>ancienne ferme</typologie> sise <localisation>entre <commune insee="57757">Yutz-Haute</commune> et <commune insee="57343">Illange</commune></localisation> (carte Cass.).</definition>
+    <definition><typologie>ancienne ferme</typologie> sise <localisation>entre <commune insee="57757" precision="approximatif">Yutz-Haute</commune> et <commune insee="57343" precision="approximatif">Illange</commune></localisation> (carte Cass.).</definition>
   </article>
   <article type="commune" id="DT57-00895" pg="76">
     <vedette><sm>Errouville,</sm></vedette>
@@ -8735,7 +8735,7 @@
   </article>
   <article id="DT57-00903" pg="77">
     <vedette><sm>Eschwiller,</sm></vedette>
-    <definition><typologie>ancien étang et cense</typologie> dépendant de la mairie de  <localisation><commune insee="57088" precision="certain">Bistroff</commune></localisation> et de la <localisation>seigneurie de <commune insee="57262">Hinguesange</commune></localisation> <reference>(<date>1682</date>, dénombr. 15 janvier)</reference>.</definition>
+    <definition><typologie>ancien étang et cense</typologie> dépendant de la mairie de  <localisation><commune insee="57088" precision="approximatif">Bistroff</commune></localisation> et de la <localisation>seigneurie de <commune insee="57262" precision="approximatif">Hinguesange</commune></localisation> <reference>(<date>1682</date>, dénombr. 15 janvier)</reference>.</definition>
     <forme_ancienne>— <i>Escheviller,</i> <date>1442</date> <reference>(cart. év. de M. t. II v°, p. 68)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eschwiller,</i> <date>1447</date> <reference>(cart. év. de M. t. IV, p. 61)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Echeveyer,</i> <date>1787</date> <reference>(dénombr. s. l’an.)</reference>.</forme_ancienne>
@@ -8956,7 +8956,7 @@
     </commentaire>
   </article>
   <article id="DT57-00932" pg="79">
-    <vedette><sm>Fahl</sm> ou <sm>Falt (Ruisseau de).</sm></vedette>
+    <vedette><sm>Fahl ou Falt (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Prend sa source au-dessus d’Hargarten, traverse le territ. de la c<sup>ne</sup> de Falck, se réunit au ruisseau de Dalem et se jette dans la Bisten.</p>
     </commentaire>
@@ -9037,7 +9037,7 @@
   </article>
   <article id="DT57-00941" pg="79">
     <vedette><sm>Falkenstein-Herbach (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près de <commune insee="57089" precision="approximatif">Bitche</commune></localisation>, traverse les <localisation>territoires d’<commune insee="57188">Eguelshardt</commune> et de <commune insee="57046">Bærenthal</commune></localisation>, entre dans le département du Bas-Rhin et se jette dans la Zinzel.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près de <commune insee="57089" precision="approximatif">Bitche</commune></localisation>, traverse les <localisation>territoires d’<commune insee="57188" precision="approximatif">Eguelshardt</commune> et de <commune insee="57046" precision="approximatif">Bærenthal</commune></localisation>, entre dans le département du Bas-Rhin et se jette dans la Zinzel.</definition>
     <forme_ancienne>— <i>Falkensteinerbach,</i> <date>1592</date> <reference>(Hertzog, Edels. chron. III, 8)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Falkensteinvach,</i> <date>1756</date> <reference>(D. Cal. not. Lorr. v° <i>Falkenstein</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Falkenstein-Herbach</i> <reference>(dict. Viv.)</reference>.</forme_ancienne>
@@ -9106,7 +9106,7 @@
   </article>
   <article id="DT57-00947" pg="80">
     <vedette><sm>Fartinge,</sm></vedette>
-    <definition><typologie>ancien moulin</typologie> entre <localisation><commune insee="57230">Fouligny</commune> et <commune insee="57563">Raville</commune></localisation>, <date>1681</date> (dén. abbaye de Long.-lez-Saint-Avold).</definition>
+    <definition><typologie>ancien moulin</typologie> entre <localisation><commune insee="57230" precision="approximatif">Fouligny</commune> et <commune insee="57563" precision="approximatif">Raville</commune></localisation>, <date>1681</date> (dén. abbaye de Long.-lez-Saint-Avold).</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Faitinga.</sm></renvoi></p>
     </commentaire>
@@ -9197,7 +9197,7 @@
   </article>
   <article id="DT57-00956" pg="81">
     <vedette><sm>Fensch,</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à Fontoy, traverse les <localisation>communes de <commune insee="57226" precision="certain">Fontoy</commune>, <commune insee="57368" precision="certain">Knutange</commune>, <commune insee="57508" precision="certain">Nilvange</commune>, <commune insee="57306" precision="certain">Hayange</commune>, <commune insee="57647" precision="certain">Schrémange</commune>, <commune insee="57221" precision="certain">Florange</commune>, <commune insee="57602" precision="certain">Rurange</commune>, <commune insee="57672" precision="certain">Thionville</commune></localisation>, sur une longueur de 12 kilomètres, et se jette dans la Moselle à Thionville.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à Fontoy, traverse les <localisation>communes de <commune insee="57226" precision="approximatif">Fontoy</commune>, <commune insee="57368" precision="approximatif">Knutange</commune>, <commune insee="57508" precision="approximatif">Nilvange</commune>, <commune insee="57306" precision="approximatif">Hayange</commune>, <commune insee="57647" precision="approximatif">Schrémange</commune>, <commune insee="57221" precision="approximatif">Florange</commune>, <commune insee="57602" precision="approximatif">Rurange</commune>, <commune insee="57672" precision="approximatif">Thionville</commune></localisation>, sur une longueur de 12 kilomètres, et se jette dans la Moselle à Thionville.</definition>
     <forme_ancienne>— <i>Fontes,</i> <date>959</date> <reference>(cart. Gorz. t. 108)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Feuschen,</i> <date>1403</date> <reference>(cart. Vill. f° 11)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fensth,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
@@ -9234,10 +9234,10 @@
   </article>
   <article id="DT57-00959" pg="82">
     <vedette><sm>Ferme de Rédange (La),</sm></vedette>
-    <definition><localisation>annexe de <commune insee="57565">Rédange</commune></localisation>.</definition>
+    <definition><localisation>annexe de <commune insee="57565" precision="approximatif">Rédange</commune></localisation>.</definition>
   </article>
   <article id="DT57-00960" pg="82">
-    <vedette><sm>Ferme des Terres (La),</sm> dite <sm>de Mercy,</sm></vedette>
+    <vedette><sm>Ferme des Terres (La), dite de Mercy,</sm></vedette>
     <definition><localisation>commune de <commune insee="54382" precision="certain">Mont-Saint-Martin</commune></localisation>.</definition>
   </article>
   <article id="DT57-00961" pg="82">
@@ -9305,7 +9305,7 @@
     <insee>57212</insee>
   </article>
   <article id="DT57-00966" pg="82">
-    <vedette><sm>Filbach (Ruisseau de)</sm> ou <sm>Fillenbach.</sm></vedette>
+    <vedette><sm>Filbach (Ruisseau de) ou Fillenbach.</sm></vedette>
     <commentaire>
       <p>— Il coule sur le territ. des c<sup>nes</sup> de Vigneulle Haute et Basse et se jette dans la Nied allemande.</p>
     </commentaire>
@@ -9679,7 +9679,7 @@
   </article>
   <article id="DT57-00998" pg="86">
     <vedette><sm>Folie (La),</sm></vedette>
-    <definition><typologie>maison de vigneron</typologie>, <localisation>paroisse d’<commune insee="57021">Ancy-sur-Moselle</commune></localisation>.</definition>
+    <definition><typologie>maison de vigneron</typologie>, <localisation>paroisse d’<commune insee="57021" precision="approximatif">Ancy-sur-Moselle</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(pouillé de Metz)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-00999" pg="86">
@@ -9864,7 +9864,7 @@
     </commentaire>
   </article>
   <article id="DT57-01024" pg="87">
-    <vedette><sm>Fontaine-Wagot (Ruisseau de la)</sm> ou <sm>de la Mance.</sm></vedette>
+    <vedette><sm>Fontaine-Wagot (Ruisseau de la) ou de la Mance.</sm></vedette>
     <commentaire>
       <p>— Il coule sur le territ. de la c<sup>ne</sup> de Tucquegnieux.</p>
       <p>Ce ruisseau est un des éléments qui forment le ruisseau de Mance.</p>
@@ -9940,7 +9940,7 @@
   </article>
   <article id="DT57-01030" pg="88">
     <vedette><sm>Forêt (La Houillère de la),</sm></vedette>
-    <definition><localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-01031" pg="88">
     <vedette><sm>Forêt-Faux (La),</sm></vedette>
@@ -9986,7 +9986,7 @@
   </article>
   <article id="DT57-01040" pg="89">
     <vedette><sm>Forges (Les)</sm> ou <sm>Platinerie de Saint-Louis,</sm></vedette>
-    <definition><typologie>usines et hameau</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>usines et hameau</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-01041" pg="89">
     <vedette><sm>Forges d’Ars-sur-Moselle (Les),</sm></vedette>
@@ -10041,7 +10041,7 @@
   </article>
   <article id="DT57-01050" pg="89">
     <vedette><sm>Foulant (Le),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, annexe de la <localisation>paroisse de <commune insee="57213">Filstroff</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, annexe de la <localisation>paroisse de <commune insee="57213" precision="approximatif">Filstroff</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT57-01051" pg="89">
@@ -10329,7 +10329,7 @@
   </article>
   <article id="DT57-01078" pg="92">
     <vedette><sm>Frescatelli,</sm></vedette>
-    <definition><typologie>ancien château, aujourd’hui jardin botanique</typologie> de la <localisation>ville de <commune insee="57463" precision="certain">Metz</commune></localisation>, à l’entrée de la <localisation>commune de <commune insee="57480" precision="certain">Montigny-lez-Metz</commune></localisation>.</definition>
+    <definition><typologie>ancien château, aujourd’hui jardin botanique</typologie> de la <localisation>ville de <commune insee="57463" precision="approximatif">Metz</commune></localisation>, à l’entrée de la <localisation>commune de <commune insee="57480" precision="approximatif">Montigny-lez-Metz</commune></localisation>.</definition>
     <commentaire>
       <p>Était de la paroisse de Saint-Privat.</p>
     </commentaire>
@@ -10442,7 +10442,7 @@
   </article>
   <article id="DT57-01089" pg="93">
     <vedette><sm>Friendthal,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>cense de <commune insee="57606">Dourd</commune>’hal</localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>cense de <commune insee="57606" precision="approximatif">Dourd</commune>’hal</localisation>.</definition>
     <forme_ancienne>— <i>Friendhall,</i> <date>1752</date> <reference>(arr. du roi de Pol.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Feriendal,</i> <date>1770</date> <reference>(pap. de fam.)</reference>.</forme_ancienne>
     <commentaire>
@@ -10524,7 +10524,7 @@
     </commentaire>
   </article>
   <article id="DT57-01099" pg="93">
-    <vedette><sm>Froicul (Haute</sm> et <sm>Basse),</sm></vedette>
+    <vedette><sm>Froicul (Haute et Basse),</sm></vedette>
     <definition><typologie>fermes</typologie>, <localisation>commune de <commune insee="57491" precision="certain">Moyeuvre-Grande</commune></localisation>.</definition>
     <forme_ancienne>— <i>Froid,</i> <date>1779</date> <reference>(Dur. Lorr.)</reference>.</forme_ancienne>
   </article>
@@ -10545,14 +10545,14 @@
   </article>
   <article id="DT57-01102" pg="93">
     <vedette><sm>Froihemuhl,</sm></vedette>
-    <definition><typologie>étang</typologie> sur le <localisation>ban de <commune insee="57561">Holbach</commune></localisation>.</definition>
+    <definition><typologie>étang</typologie> sur le <localisation>ban de <commune insee="57561" precision="approximatif">Holbach</commune></localisation>.</definition>
     <commentaire>
       <p>— Superficie : 1 hectare.</p>
     </commentaire>
   </article>
   <article id="DT57-01103" pg="93">
     <vedette><sm>Frombourg,</sm></vedette>
-    <definition><typologie>forêt</typologie> sise <localisation>entre <commune insee="57192">Enchenberg</commune> et <commune insee="57477">Montbronn</commune></localisation>, affectée à l’usage des verreries de Saint-Louis.</definition>
+    <definition><typologie>forêt</typologie> sise <localisation>entre <commune insee="57192" precision="approximatif">Enchenberg</commune> et <commune insee="57477" precision="approximatif">Montbronn</commune></localisation>, affectée à l’usage des verreries de Saint-Louis.</definition>
     <forme_ancienne>— <date>1781</date> <reference>(arch. départ. B. 117)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01104" pg="93">
@@ -10616,7 +10616,7 @@
   <article id="DT57-01112" pg="94">
     <pg>94</pg>
     <vedette><sm>Gaendersberg,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie> qui faisait partie de la <localisation>paroisse de <commune insee="57089">Bitche</commune></localisation>.</definition>
+    <definition><typologie>ancienne cense</typologie> qui faisait partie de la <localisation>paroisse de <commune insee="57089" precision="approximatif">Bitche</commune></localisation>.</definition>
     <forme_ancienne>— <i>Güntersberg,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de Metz)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01113" pg="94">
@@ -10656,7 +10656,7 @@
     <definition><typologie>cense</typologie>, <localisation>commune d’<commune insee="57313" precision="certain">Hémilly</commune></localisation>.</definition>
   </article>
   <article id="DT57-01120" pg="94">
-    <vedette><sm>Gand (Cense de)</sm> ou <sm>Chambéry,</sm></vedette>
+    <vedette><sm>Gand (Cense de) ou Chambéry,</sm></vedette>
     <definition><localisation>commune de <commune insee="57323" precision="certain">Hettange-Grande</commune></localisation>.</definition>
     <forme_ancienne>— <i>Gand</i> <reference>(carte de l’État-major)</reference>.</forme_ancienne>
   </article>
@@ -10695,7 +10695,7 @@
     </commentaire>
   </article>
   <article id="DT57-01123" pg="94">
-    <vedette><sm>Gandren (Ruisseau de)</sm> ou <sm>Aspelt,</sm></vedette>
+    <vedette><sm>Gandren (Ruisseau de) ou Aspelt,</sm></vedette>
     <definition>sur le <localisation>territoire des communes de Beyren et de <commune insee="57371" precision="approximatif">Konz-Haute</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fluvius Gapera,</i> <date>781</date> <reference>(ch. Charlem.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gannerenback,</i> <date>1756</date> <reference>(Stem. dép. M.)</reference>.</forme_ancienne>
@@ -10841,7 +10841,7 @@
   </article>
   <article id="DT57-01143" pg="95">
     <vedette><sm>Geai (La Côte de),</sm></vedette>
-    <definition><typologie>vaste plateau</typologie> qui s’étend à gauche de la Moselle, <localisation>entre les vallées de <commune insee="57254">Gorze</commune> et d’<commune insee="57032">Ars-sur-Moselle</commune>, sur le territoire de ces communes et de celles de <commune insee="57515">Novéant</commune> et d’Ancy</localisation>.</definition>
+    <definition><typologie>vaste plateau</typologie> qui s’étend à gauche de la Moselle, <localisation>entre les vallées de <commune insee="57254" precision="approximatif">Gorze</commune> et d’<commune insee="57032" precision="approximatif">Ars-sur-Moselle</commune>, sur le territoire de ces communes et de celles de <commune insee="57515" precision="approximatif">Novéant</commune> et d’Ancy</localisation>.</definition>
     <commentaire>
       <p>— Le sol de ce plateau, qui contient des carrières d’oolithe exploitées par les Romains, est traversé par l’aqueduc souterrain qui amène à Metz les eaux de Gorze.</p>
     </commentaire>
@@ -10879,7 +10879,7 @@
   </article>
   <article id="DT57-01148" pg="95">
     <vedette><sm>Generey,</sm></vedette>
-    <definition><typologie>localité inconnue</typologie>, <localisation>annexe de <commune insee="57028">Rugy</commune></localisation>.</definition>
+    <definition><typologie>localité inconnue</typologie>, <localisation>annexe de <commune insee="57028" precision="approximatif">Rugy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Gennerey,</i> <date>1346</date> <reference>(P. Fer. obs. séc. <sm>xiv</sm><sup>e</sup> s<sup>e</sup>, 262)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ruxey</i> et <i>Generey,</i> <date>1404</date> <reference>(liste des vill.)</reference>.</forme_ancienne>
   </article>
@@ -10947,7 +10947,7 @@
   </article>
   <article id="DT57-01157" pg="96">
     <vedette><sm>Giroménil,</sm></vedette>
-    <definition><typologie>ancienne maison</typologie> seigneuriale de la <localisation>paroisse de <commune insee="57396">Lessy</commune></localisation>.</definition>
+    <definition><typologie>ancienne maison</typologie> seigneuriale de la <localisation>paroisse de <commune insee="57396" precision="approximatif">Lessy</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01158" pg="96">
@@ -11343,7 +11343,7 @@
   </article>
   <article id="DT57-01197" pg="100">
     <vedette><sm>Grand-Ban (Le),</sm></vedette>
-    <definition><typologie>seigneurie</typologie>, haute, moyenne et basse justice, composée des bans Cuny, Gervaise, Pomcourt et Frécourt, situés sur les <localisation>territoires de <commune insee="57642">Scy</commune>, de <commune insee="57396">Lessy</commune> et de <commune insee="57134">Châtel</commune></localisation>.</definition>
+    <definition><typologie>seigneurie</typologie>, haute, moyenne et basse justice, composée des bans Cuny, Gervaise, Pomcourt et Frécourt, situés sur les <localisation>territoires de <commune insee="57642" precision="approximatif">Scy</commune>, de <commune insee="57396" precision="approximatif">Lessy</commune> et de <commune insee="57134" precision="approximatif">Châtel</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le Grand-Ban</i>, fief mouvant du roi, <date>1767</date> <reference>(dénombr. du 19 déc.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01198" pg="100">
@@ -11444,7 +11444,7 @@
   </article>
   <article id="DT57-01209" pg="101">
     <vedette><sm>Grange-aux-Dîmes (La),</sm></vedette>
-    <definition><typologie>maison ruinée</typologie>, <localisation>commune et seigneurie d’<commune insee="57043">Ay</commune></localisation> <reference>(<date>1681</date>, dénombr. 5 oct.)</reference>.</definition>
+    <definition><typologie>maison ruinée</typologie>, <localisation>commune et seigneurie d’<commune insee="57043" precision="approximatif">Ay</commune></localisation> <reference>(<date>1681</date>, dénombr. 5 oct.)</reference>.</definition>
   </article>
   <article id="DT57-01210" pg="101">
     <vedette><sm>Grange-aux-Ormes (La),</sm></vedette>
@@ -11990,7 +11990,7 @@
     </commentaire>
   </article>
   <article id="DT57-01270" pg="105">
-    <vedette><sm>Guénange (Haute</sm> et <sm>Basse),</sm></vedette>
+    <vedette><sm>Guénange (Haute et Basse),</sm></vedette>
     <definition><localisation>commune de <commune insee="57465" precision="certain">Metzerwisse</commune></localisation>, sur la rive droite de la Moselle.</definition>
     <forme_ancienne>— <i>Geminges,</i> <date>1157</date> <reference>(abb. Saint-Martin, ann. Prem. t. X, 2)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gananges,</i> <date>1269</date> <reference>(abb. Vill. cart. t. I, V. 18)</reference>.</forme_ancienne>
@@ -12068,7 +12068,7 @@
     </commentaire>
   </article>
   <article id="DT57-01274" pg="106">
-    <vedette><sm>Guentrange (Basse</sm> et <sm>Haute),</sm></vedette>
+    <vedette><sm>Guentrange (Basse et Haute),</sm></vedette>
     <definition><typologie>village</typologie>, <localisation>commune de <commune insee="57672" precision="certain">Thionville</commune></localisation>.</definition>
     <forme_ancienne>— <i>Guntringas,</i> <date>1147</date> <reference>(abb. Vill. cart.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gentrigen,</i> <date>1572</date> <reference>(dioc. Lux. Berth. VIII, 40)</reference>.</forme_ancienne>
@@ -12107,7 +12107,7 @@
   </article>
   <article id="DT57-01278" pg="106">
     <vedette><sm>Guerling,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie> de la <localisation>paroisse de <commune insee="57222">Folckling</commune></localisation>.</definition>
+    <definition><typologie>ancienne cense</typologie> de la <localisation>paroisse de <commune insee="57222" precision="approximatif">Folckling</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de Metz)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01279" pg="106">
@@ -12202,7 +12202,7 @@
   </article>
   <article id="DT57-01288" pg="107">
     <vedette><sm>Gugny,</sm></vedette>
-    <definition><typologie>hameau ruiné</typologie>, <localisation>ban de <commune insee="57727">Viviers</commune></localisation>.</definition>
+    <definition><typologie>hameau ruiné</typologie>, <localisation>ban de <commune insee="57727" precision="approximatif">Viviers</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le Gaignage appelé Gugny, qui est en ruines près le ban de Viviers,</i> <date>1456</date> <reference>(inv. des tit. de Lorr. VIII, 117)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01289" pg="107">
@@ -12385,7 +12385,7 @@
   </article>
   <article id="DT57-01306" pg="108">
     <vedette><sm>Hackenberg</sm> ou <sm>Hackemberg,</sm></vedette>
-    <definition><typologie>église et presbytère</typologie>, <localisation>commune de <pg>109</pg><commune insee="57118">Budling</commune></localisation>.</definition>
+    <definition><typologie>église et presbytère</typologie>, <localisation>commune de <pg>109</pg><commune insee="57118" precision="certain">Budling</commune></localisation>.</definition>
     <forme_ancienne>— <i>Hakenberg,</i> <date>1572</date> <reference>(dioc. Lux. Berth. VIII, 40)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Hackquemberg, Hackenberg,</i> <date>1699</date> <reference>(terr. de Veckring)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Hachenberg,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de Tr.)</reference>.</forme_ancienne>
@@ -12815,7 +12815,7 @@
   </article>
   <article id="DT57-01347" pg="112">
     <vedette><sm>Harlin,</sm></vedette>
-    <definition><typologie>village disparu</typologie> <localisation>entre <commune insee="57221">Florange</commune>, <commune insee="57683">Uckange</commune> et <commune insee="57306">Hayange</commune></localisation> (Tess. Hist. Thionv.).</definition>
+    <definition><typologie>village disparu</typologie> <localisation>entre <commune insee="57221" precision="approximatif">Florange</commune>, <commune insee="57683" precision="approximatif">Uckange</commune> et <commune insee="57306" precision="approximatif">Hayange</commune></localisation> (Tess. Hist. Thionv.).</definition>
   </article>
   <article id="DT57-01348" pg="113">
     <pg>113</pg>
@@ -12985,12 +12985,12 @@
   </article>
   <article id="DT57-01362" pg="114">
     <vedette><sm>Hauffen</sm> ou <sm>Haunfen,</sm></vedette>
-    <definition><typologie>ancien moulin</typologie> dépendant de la <localisation>seigneurie de <commune insee="57731">Wolmerange-lez-</commune><commune insee="57731">Œ</commune>utrange</localisation>.</definition>
+    <definition><typologie>ancien moulin</typologie> dépendant de la <localisation>seigneurie de <commune insee="57731" precision="approximatif">Wolmerange-lez-</commune><commune insee="57731" precision="approximatif">Œ</commune>utrange</localisation>.</definition>
     <forme_ancienne>— <date>1682</date> <reference>(dénombr. 18 avril)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01363" pg="114">
     <vedette><sm>Haufgarten,</sm></vedette>
-    <definition><typologie>ancienne métairie</typologie> dépendant de la <localisation>seigneurie de <commune insee="57457">Menskirchen</commune></localisation>.</definition>
+    <definition><typologie>ancienne métairie</typologie> dépendant de la <localisation>seigneurie de <commune insee="57457" precision="approximatif">Menskirchen</commune></localisation>.</definition>
     <forme_ancienne>— <date>1728</date> <reference>(dénombr. du 8 avril)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01364" pg="114">
@@ -13145,7 +13145,7 @@
     <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="57224" precision="certain">Folschwiller</commune></localisation>.</definition>
   </article>
   <article id="DT57-01382" pg="115">
-    <vedette><sm>Hazard (La Cense du)</sm> ou <sm>Roschardshof,</sm></vedette>
+    <vedette><sm>Hazard (La Cense du) ou Roschardshof,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57089" precision="certain">Bitche</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-01383" pg="115">
@@ -13169,7 +13169,7 @@
   </article>
   <article id="DT57-01385" pg="116">
     <vedette><sm>Hechling,</sm></vedette>
-    <definition><typologie>village disparu</typologie> <localisation>entre <commune insee="57767">Stuckange</commune> et <commune insee="57465">Metzerwisse</commune></localisation>.</definition>
+    <definition><typologie>village disparu</typologie> <localisation>entre <commune insee="57767" precision="approximatif">Stuckange</commune> et <commune insee="57465" precision="approximatif">Metzerwisse</commune></localisation>.</definition>
     <forme_ancienne>— <i>Hecklein,</i> anc. ham. c<sup>ne</sup> de Metzerwisse <reference>(Tess. Hist. de Thionv.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le ban de Hekling entre Distroff et Metzerwisse,</i> <date>1698</date> <reference>(terr. de Metzerwisse)</reference>.</forme_ancienne>
     <commentaire>
@@ -13486,7 +13486,7 @@
   </article>
   <article id="DT57-01414" pg="118">
     <vedette><sm>Hennequin (La Chapelle),</sm></vedette>
-    <definition>ancienne dépendance de la <localisation>paroisse d’<commune insee="57757">Yütz-Basse</commune></localisation> (pouillé de M.).</definition>
+    <definition>ancienne dépendance de la <localisation>paroisse d’<commune insee="57757" precision="approximatif">Yütz-Basse</commune></localisation> (pouillé de M.).</definition>
   </article>
   <article id="DT57-01415" pg="118">
     <vedette><sm>Hennerstermuhl,</sm></vedette>
@@ -13688,7 +13688,7 @@
   </article>
   <article id="DT57-01446" pg="120">
     <vedette><sm>Hesperange,</sm></vedette>
-    <definition><typologie>mairie</typologie> du <localisation>ban de <commune insee="57109">Breistroff</commune></localisation> ; siége d’une justice haute, moyenne et basse, dépendant de la seigneurie de Rodemack, <date>1740</date> <reference>(arch. départ. E. 36)</reference>.</definition>
+    <definition><typologie>mairie</typologie> du <localisation>ban de <commune insee="57109" precision="approximatif">Breistroff</commune></localisation> ; siége d’une justice haute, moyenne et basse, dépendant de la seigneurie de Rodemack, <date>1740</date> <reference>(arch. départ. E. 36)</reference>.</definition>
     <forme_ancienne>— <i>Hesteringe,</i> <date>1759</date> <reference>(arch. départ. E. 43)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01447" pg="120">
@@ -13707,7 +13707,7 @@
   </article>
   <article id="DT57-01448" pg="120">
     <vedette><sm>Hesseling,</sm></vedette>
-    <definition><typologie>église et presbytère</typologie> à gauche de la Sarre, à 1 kilom. <localisation>d’<commune insee="57013">Alsting</commune></localisation>, annexe de cette commune.</definition>
+    <definition><typologie>église et presbytère</typologie> à gauche de la Sarre, à 1 kilom. <localisation>d’<commune insee="57013" precision="approximatif">Alsting</commune></localisation>, annexe de cette commune.</definition>
     <forme_ancienne>— <i>Esselange, Eccelange,</i> <date>1429</date> <reference>(arch. H. de V. AA, II)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Esselingen,</i> <date>1430</date> <reference>(arch. H. de V. AA, 4)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Hessling,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
@@ -13956,7 +13956,7 @@
   </article>
   <article id="DT57-01471" pg="122">
     <vedette><sm>Hinnerlmühl,</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>annexe de <commune insee="57176">Diebling</commune></localisation>.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>annexe de <commune insee="57176" precision="approximatif">Diebling</commune></localisation>.</definition>
   </article>
   <article id="DT57-01472" pg="122">
     <vedette><sm>Hintengerhoff</sm> ou <sm>Henting,</sm></vedette>
@@ -14519,7 +14519,7 @@
   </article>
   <article id="DT57-01527" pg="127">
     <vedette><sm>Houillère (La),</sm></vedette>
-    <definition><localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-01528" pg="127">
     <vedette><sm>Houillère (La),</sm></vedette>
@@ -14561,7 +14561,7 @@
   </article>
   <article id="DT57-01537" pg="127">
     <vedette><sm>Hulleuf,</sm></vedette>
-    <definition><typologie>ancien lieu-dit</typologie>, voisin de la porte <localisation>Mazelle de <commune insee="57463">Metz</commune></localisation>.</definition>
+    <definition><typologie>ancien lieu-dit</typologie>, voisin de la porte <localisation>Mazelle de <commune insee="57463" precision="approximatif">Metz</commune></localisation>.</definition>
     <forme_ancienne>— <i>Hulleuf,</i> <date>1334</date> <reference>(P. Ferr. obs. séc. <sm>xiv</sm><sup>e</sup> s<sup>e</sup>, f° 436)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Hullouf par-dessus Mazelle,</i> <date>1552</date> <reference>(P. Ferr. obs. séc. <sm>xiv</sm><sup>e</sup> s<sup>e</sup>, f° 436)</reference>.</forme_ancienne>
   </article>
@@ -14856,7 +14856,7 @@
   </article>
   <article id="DT57-01568" pg="130">
     <vedette><sm>Jacobwald,</sm></vedette>
-    <definition><typologie>forêt défrichée</typologie> <localisation>entre <commune insee="57631">Neunkirch</commune> et <commune insee="57234">Frauenberg</commune></localisation> (carte de l’État-major).</definition>
+    <definition><typologie>forêt défrichée</typologie> <localisation>entre <commune insee="57631" precision="approximatif">Neunkirch</commune> et <commune insee="57234" precision="approximatif">Frauenberg</commune></localisation> (carte de l’État-major).</definition>
   </article>
   <article id="DT57-01569" pg="130">
     <vedette><sm>Jagerbronn,</sm></vedette>
@@ -14882,7 +14882,7 @@
   </article>
   <article id="DT57-01572" pg="130">
     <vedette><sm>Janan,</sm></vedette>
-    <definition><typologie>deux fermes contiguës</typologie>, l’une <localisation>commune de <commune insee="57083" precision="certain">Bining</commune></localisation>, l’autre <localisation>commune de <commune insee="57561" precision="certain">Rahling</commune></localisation>.</definition>
+    <definition><typologie>deux fermes contiguës</typologie>, l’une <localisation>commune de <commune insee="57083" precision="approximatif">Bining</commune></localisation>, l’autre <localisation>commune de <commune insee="57561" precision="approximatif">Rahling</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vayer, métairie,</i> <date>1730</date> <reference>(Dur. Lorr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Janans, cense-fief,</i> <date>1736</date> <reference>(Dur. Lorr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Jannans,</i> <date>1755</date> <reference>(atl. de Bitche, f° 104)</reference>.</forme_ancienne>
@@ -15147,7 +15147,7 @@
   </article>
   <article id="DT57-01597" pg="133">
     <vedette><sm>Jussy (Le Haut-Ban de),</sm></vedette>
-    <definition><typologie>seigneurie, haute, moyenne et basse justice</typologie>, sise sur les <localisation>bans de <commune insee="57352">Jussy</commune>, <commune insee="57624">Sainte-Ruffine</commune> et <commune insee="57701">Vaux</commune></localisation>, <date>1781</date> <reference>(dénombr. du 24 janv.)</reference>.</definition>
+    <definition><typologie>seigneurie, haute, moyenne et basse justice</typologie>, sise sur les <localisation>bans de <commune insee="57352" precision="approximatif">Jussy</commune>, <commune insee="57624" precision="approximatif">Sainte-Ruffine</commune> et <commune insee="57701" precision="approximatif">Vaux</commune></localisation>, <date>1781</date> <reference>(dénombr. du 24 janv.)</reference>.</definition>
   </article>
   <article id="DT57-01598" pg="133">
     <vedette><sm>Justemont,</sm></vedette>
@@ -15232,7 +15232,7 @@
     <insee>57355</insee>
   </article>
   <article id="DT57-01608" pg="134">
-    <vedette><sm>Kaltbach</sm> ou <sm>Katzbach (Ruisseau de).</sm></vedette>
+    <vedette><sm>Kaltbach ou Katzbach (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Coule sur le territ. des c<sup>nes</sup> d’Hinckange et de Boulay et afflue à la Nied.</p>
     </commentaire>
@@ -15426,10 +15426,10 @@
   </article>
   <article id="DT57-01627" pg="135">
     <vedette><sm>Kilbourg,</sm></vedette>
-    <definition><typologie>métairie franche</typologie>, <localisation>ban de <commune insee="57668">Téting</commune></localisation>, faisant partie de la <localisation>seigneurie de Hesser</localisation>, <date>1681</date> (dénombr. de nov.).</definition>
+    <definition><typologie>métairie franche</typologie>, <localisation>ban de <commune insee="57668" precision="approximatif">Téting</commune></localisation>, faisant partie de la <localisation>seigneurie de Hesser</localisation>, <date>1681</date> (dénombr. de nov.).</definition>
   </article>
   <article type="commune" id="DT57-01628" pg="135">
-    <vedette><sm>Kinger (Kappel</sm> et <sm>Uber),</sm></vedette>
+    <vedette><sm>Kinger (Kappel et Uber),</sm></vedette>
     <definition><localisation>canton de <commune insee="57628" precision="approximatif">Sarralbe</commune></localisation>, sur l’Albe.</definition>
     <forme_ancienne>— <i>Kongeren,</i> <date>1329</date> <reference>(cart. év. de M. t. I, p. 238)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cungnerey,</i> <date>1395</date> <reference>(cart. év. de M. t. I, p. 20)</reference>.</forme_ancienne>
@@ -15670,7 +15670,7 @@
     </commentaire>
   </article>
   <article id="DT57-01660" pg="137">
-    <vedette><sm>Klumpenhoff, Klumpenhütte</sm> ou <sm>Baraque aux Sabots,</sm></vedette>
+    <vedette><sm>Klumpenhoff, Klumpenhütte ou Baraque aux Sabots,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57661" precision="certain">Sturtzelbronn</commune></localisation>.</definition>
     <forme_ancienne>— <i>Glumpenhütte</i> <reference>(carte de l’État-major)</reference>.</forme_ancienne>
   </article>
@@ -15700,7 +15700,7 @@
     <definition> formaient un fief mouvant du château de <localisation><commune insee="57672" precision="certain">Wolkrange</commune></localisation>.</definition>
   </article>
   <article id="DT57-01664" pg="137">
-    <vedette><sm>Kobrette (Deutsch</sm> et <sm>Welsch),</sm></vedette>
+    <vedette><sm>Kobrette (Deutsch et Welsch),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57661" precision="certain">Sturtzelbronn</commune></localisation>.</definition>
     <forme_ancienne>— <i>Grangia Cobart,</i> <date>1178</date> <reference>(ch. abb. Sturtz. 2 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Chobart,</i> <date>1348</date> <reference>(ch. abb. Sturtz. 23)</reference>.</forme_ancienne>
@@ -15741,7 +15741,7 @@
   </article>
   <article id="DT57-01668" pg="137">
     <vedette><sm>Koenigsberg,</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>communes de <commune insee="57456" precision="certain">Meisenthal</commune> et d’<commune insee="57250" precision="certain">Althorn</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>communes de <commune insee="57456" precision="approximatif">Meisenthal</commune> et d’<commune insee="57250" precision="approximatif">Althorn</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Breitenstein.</sm></renvoi></p>
     </commentaire>
@@ -16097,7 +16097,7 @@
   </article>
   <article id="DT57-01708" pg="140">
     <vedette><sm>Laître (Les Bans fiefs de),</sm></vedette>
-    <definition>à <localisation><commune insee="57352" precision="certain">Jussy</commune></localisation> et à <localisation><commune insee="57701" precision="certain">Vaux</commune></localisation>.</definition>
+    <definition>à <localisation><commune insee="57352" precision="approximatif">Jussy</commune></localisation> et à <localisation><commune insee="57701" precision="approximatif">Vaux</commune></localisation>.</definition>
     <commentaire>
       <p>— Mouvaient du roi de France ; étaient siége, chacun, d’une justice haute, moyenne et basse, et appartenaient à la cure de Jussy, <date>1681</date> (dénombr. 29 juin).</p>
     </commentaire>
@@ -16239,7 +16239,7 @@
   </article>
   <article id="DT57-01723" pg="141">
     <vedette><sm>Landweiller,</sm></vedette>
-    <definition><typologie>village détruit</typologie>, situé <localisation>entre <commune insee="57006">Achen</commune> et <commune insee="57083">Bining</commune></localisation>.</definition>
+    <definition><typologie>village détruit</typologie>, situé <localisation>entre <commune insee="57006" precision="approximatif">Achen</commune> et <commune insee="57083" precision="approximatif">Bining</commune></localisation>.</definition>
     <forme_ancienne>— Le gagnage de <i>Landtsweiller,</i> <date>1594</date> <reference>(dén. Th. Alix)</reference>.</forme_ancienne>
     <commentaire>
       <p>Il n’existait plus au <date><sm>xvi</sm><sup>e</sup> siècle</date> (arch. d’Achen, pr.-verb. d’abornement du <date>7 août 1726</date>).</p>
@@ -16513,7 +16513,7 @@
   </article>
   <article id="DT57-01753" pg="143">
     <vedette><sm>Lazeraille,</sm></vedette>
-    <definition><typologie>ancienne maison</typologie> franche sur la Nied, dépendant de la <localisation>seigneurie de <commune insee="57627">Dommangeville</commune></localisation>.</definition>
+    <definition><typologie>ancienne maison</typologie> franche sur la Nied, dépendant de la <localisation>seigneurie de <commune insee="57627" precision="approximatif">Dommangeville</commune></localisation>.</definition>
     <commentaire>
       <p>— <date>1682</date> (dénombr. 28 fév.).</p>
     </commentaire>
@@ -16648,7 +16648,7 @@
   </article>
   <article id="DT57-01770" pg="144">
     <vedette><sm>Leming,</sm></vedette>
-    <definition><typologie>maison, fief</typologie>, siége d’une petite seigneurie foncière dépendant de la <localisation>seigneurie de <commune insee="57588">Rodemack</commune></localisation>, <date>1681</date> <reference>(dénombr. du 20 mai)</reference>.</definition>
+    <definition><typologie>maison, fief</typologie>, siége d’une petite seigneurie foncière dépendant de la <localisation>seigneurie de <commune insee="57588" precision="approximatif">Rodemack</commune></localisation>, <date>1681</date> <reference>(dénombr. du 20 mai)</reference>.</definition>
   </article>
   <article type="commune" id="DT57-01771" pg="144">
     <vedette><sm>Lemud,</sm></vedette>
@@ -16855,7 +16855,7 @@
   </article>
   <article id="DT57-01791" pg="146">
     <vedette><sm>Liers,</sm></vedette>
-    <definition><typologie>localité inconnue</typologie>, <localisation>voisine de <commune insee="57433">Maizières</commune></localisation>.</definition>
+    <definition><typologie>localité inconnue</typologie>, <localisation>voisine de <commune insee="57433" precision="approximatif">Maizières</commune></localisation>.</definition>
     <forme_ancienne>— <date>1404</date> <reference>(liste des vill.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01792" pg="146">
@@ -17030,7 +17030,7 @@
   </article>
   <article id="DT57-01814" pg="147">
     <vedette><sm>Loixy,</sm></vedette>
-    <definition><typologie>ancienne métairie seigneuriale</typologie>, avec justice haute, moyenne et basse, dépendant de la <localisation>seigneurie de <commune insee="57385">Villers-Laquenexy</commune></localisation> <reference>(dénombr. <date>23 mai 1681</date>)</reference>.</definition>
+    <definition><typologie>ancienne métairie seigneuriale</typologie>, avec justice haute, moyenne et basse, dépendant de la <localisation>seigneurie de <commune insee="57385" precision="approximatif">Villers-Laquenexy</commune></localisation> <reference>(dénombr. <date>23 mai 1681</date>)</reference>.</definition>
     <forme_ancienne>— <i>Loixey,</i> <date>1404</date> <reference>(liste des vill.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01815" pg="147">
@@ -17041,14 +17041,14 @@
   </article>
   <article id="DT57-01816" pg="147">
     <vedette><sm>Lolieux,</sm></vedette>
-    <definition><typologie>ban séparé</typologie>, au <localisation>finage de <commune insee="54249">Hannonville-au-Passage</commune></localisation>.</definition>
+    <definition><typologie>ban séparé</typologie>, au <localisation>finage de <commune insee="54249" precision="approximatif">Hannonville-au-Passage</commune></localisation>.</definition>
     <commentaire>
       <p>Autrefois Barrois, baill. de Thiaucourt.</p>
     </commentaire>
   </article>
   <article id="DT57-01817" pg="147">
     <vedette><sm>Lollieux,</sm></vedette>
-    <definition><typologie>chemin et bois</typologie> dans les <localisation>environs de <commune insee="54322">Longuyon</commune></localisation> <reference>(arch. commun. CC. 1 et FF. 15)</reference>.</definition>
+    <definition><typologie>chemin et bois</typologie> dans les <localisation>environs de <commune insee="54322" precision="approximatif">Longuyon</commune></localisation> <reference>(arch. commun. CC. 1 et FF. 15)</reference>.</definition>
     <forme_ancienne>— <i>Lollieuf,</i> <date>1689</date> <reference>(Barr. dom. 8, 1)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01818" pg="147">
@@ -17230,7 +17230,7 @@
   </article>
   <article id="DT57-01834" pg="149">
     <vedette><sm>Longwy-Bas,</sm></vedette>
-    <definition><typologie>village usines et paroisse</typologie>, <localisation>annexe de <commune insee="54323">Longwy-Haut</commune></localisation>.</definition>
+    <definition><typologie>village usines et paroisse</typologie>, <localisation>annexe de <commune insee="54323" precision="approximatif">Longwy-Haut</commune></localisation>.</definition>
   </article>
   <article id="DT57-01835" pg="149">
     <vedette><sm>Longwy-Haut,</sm></vedette>
@@ -17425,7 +17425,7 @@
   <article id="DT57-01848" pg="152">
     <pg>152</pg>
     <vedette><sm>Lucelhoven,</sm></vedette>
-    <definition><typologie>localité inconnue</typologie>, <localisation>paroisse de <commune insee="57453">Maxstadt</commune></localisation>.</definition>
+    <definition><typologie>localité inconnue</typologie>, <localisation>paroisse de <commune insee="57453" precision="approximatif">Maxstadt</commune></localisation>.</definition>
     <forme_ancienne>— <date>875</date> <reference>(abb. Sainte-Gloss. ch. de Louis le Germanique)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01849" pg="152">
@@ -17750,7 +17750,7 @@
     <insee>57430</insee>
   </article>
   <article id="DT57-01876" pg="155">
-    <vedette><sm>Mainvillers (Ruisseau de)</sm> ou <sm>Widenpouhl.</sm></vedette>
+    <vedette><sm>Mainvillers (Ruisseau de) ou Widenpouhl.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Mainvillers, traverse les c<sup>nes</sup> de Mainvillers et de Créhange sur une longueur de 4 kilom. et demi et se jette dans la Nied allemande.</p>
     </commentaire>
@@ -17818,7 +17818,7 @@
   </article>
   <article id="DT57-01885" pg="155">
     <vedette><sm>Maison-Neuve</sm> ou <sm>Grange-Drohier (La),</sm></vedette>
-    <definition><typologie>maison</typologie> seigneuriale sise sous le <localisation>château de <commune insee="54491">Sanry</commune></localisation>.</definition>
+    <definition><typologie>maison</typologie> seigneuriale sise sous le <localisation>château de <commune insee="54491" precision="approximatif">Sanry</commune></localisation>.</definition>
     <forme_ancienne>— <date>1681</date> <reference>(dénombr. 6 mai)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01886" pg="155">
@@ -18131,7 +18131,7 @@
     </commentaire>
   </article>
   <article id="DT57-01918" pg="158">
-    <vedette><sm>Mance (Ru de)</sm> ou <sm>Woigot.</sm></vedette>
+    <vedette><sm>Mance (Ru de) ou Woigot.</sm></vedette>
     <commentaire>
       <p><renvoi>— Voy. <sm>Woigot.</sm></renvoi></p>
     </commentaire>
@@ -18451,7 +18451,7 @@
   </article>
   <article id="DT57-01951" pg="160">
     <vedette><sm>Marinbois,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>annexe de <commune insee="54153">Dampvitoux</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>annexe de <commune insee="54153" precision="approximatif">Dampvitoux</commune></localisation>.</definition>
     <forme_ancienne>— <i>Maraimbois</i> <reference>(Stem. dép<sup>t</sup> M.)</reference>.</forme_ancienne>
     <commentaire>
       <p>— En patois : <i>Mairinbou.</i></p>
@@ -18652,7 +18652,7 @@
     <definition><typologie>tuilerie</typologie>, <localisation>commune de <commune insee="57088" precision="certain">Bistroff</commune></localisation>.</definition>
   </article>
   <article id="DT57-01972" pg="162">
-    <vedette><sm>Maxe (Ancienne</sm> ou <sm>Vieille),</sm></vedette>
+    <vedette><sm>Maxe (Ancienne ou Vieille),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57088" precision="certain">Bistroff</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-01973" pg="162">
@@ -18863,7 +18863,7 @@
     </commentaire>
   </article>
   <article id="DT57-01990" pg="164">
-    <vedette><sm>Meisenthal (Ruisseau de)</sm> ou <sm>Meisenbach.</sm></vedette>
+    <vedette><sm>Meisenthal (Ruisseau de) ou Meisenbach.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à la fontaine de Meisenthal, traverse la c<sup>ne</sup> de ce nom sur une longueur de 2 kilomètres, puis va se jeter dans le petit ruisseau de Saint-Louis.</p>
     </commentaire>
@@ -19135,7 +19135,7 @@
   </article>
   <article id="DT57-02019" pg="167">
     <vedette><sm>Messeren,</sm></vedette>
-    <definition><typologie>village ruiné</typologie> de la <localisation>paroisse de <commune insee="57442">Marcourt</commune></localisation>.</definition>
+    <definition><typologie>village ruiné</typologie> de la <localisation>paroisse de <commune insee="57442" precision="approximatif">Marcourt</commune></localisation>.</definition>
     <forme_ancienne>— <i>Metzera,</i> <date>1131</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mecera,</i> <date>1210</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Meccera,</i> <date>1267</date> <reference>(abb. Longev. bulle Clém. IV)</reference>.</forme_ancienne>
@@ -19147,11 +19147,11 @@
   </article>
   <article id="DT57-02020" pg="167">
     <vedette><sm>Métairie des Seigneurs (La),</sm></vedette>
-    <definition><typologie>cense fief</typologie> située à <localisation><commune insee="57627">Domangeville</commune></localisation>.</definition>
+    <definition><typologie>cense fief</typologie> située à <localisation><commune insee="57627" precision="approximatif">Domangeville</commune></localisation>.</definition>
   </article>
   <article id="DT57-02021" pg="167">
     <vedette><sm>Meterquin,</sm></vedette>
-    <definition><typologie>bois</typologie>, sis sur le <localisation>ban de <commune insee="57762">Zimming</commune></localisation>, <date>1702</date> (abbaye Longev. dénombr.).</definition>
+    <definition><typologie>bois</typologie>, sis sur le <localisation>ban de <commune insee="57762" precision="approximatif">Zimming</commune></localisation>, <date>1702</date> (abbaye Longev. dénombr.).</definition>
     <forme_ancienne>— <i>Metterchen,</i> <date>1590</date> <reference>(vente de bois, abb. Longev.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02022" pg="167">
@@ -19430,7 +19430,7 @@
   <article id="DT57-02046" pg="171">
     <pg>171</pg>
     <vedette><sm>Mirbach (Ban de),</sm></vedette>
-    <definition><localisation>proche <commune insee="57306">Hayange</commune></localisation>.</definition>
+    <definition><localisation>proche <commune insee="57306" precision="approximatif">Hayange</commune></localisation>.</definition>
     <forme_ancienne>— <date>1686</date> <reference>(gén. de M. dom.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02047" pg="171">
@@ -19459,7 +19459,7 @@
     <forme_ancienne>— <i>Mother</i> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02051" pg="171">
-    <vedette><sm>Moderbach (Ruisseau de)</sm> ou <sm>Mutterbach.</sm></vedette>
+    <vedette><sm>Moderbach (Ruisseau de) ou Mutterbach.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Farschwiller, coule du N. au S., passe à Loupershausen, Ellwiller, Puttelange, Rémering, Richeling, Holving, et se jette ensuite dans l’Albe, près de la ferme de Lenderhoff, après un cours de 14 kilomètres.</p>
     </commentaire>
@@ -19524,7 +19524,7 @@
     </commentaire>
   </article>
   <article id="DT57-02058" pg="171">
-    <vedette><sm>Molvange (Ruisseau de)</sm> ou <sm>Grandebach.</sm></vedette>
+    <vedette><sm>Molvange (Ruisseau de) ou Grandebach.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Escherange, traverse cette c<sup>ne</sup> et celles de Kanfen, Volmerange-lez-Œutrange (Moselle), Dudelange (Luxembourg), et se jette dans l’Alzette près de Bettembourg.</p>
     </commentaire>
@@ -19678,7 +19678,7 @@
   </article>
   <article id="DT57-02071" pg="173">
     <vedette><sm>Mont (Le),</sm></vedette>
-    <definition><typologie>cense-fief</typologie> dépendant de la <localisation>seigneurie de <commune insee="54056">Bazailles</commune></localisation>, <date>1680</date> <reference>(dénombr. 20 décembre)</reference>.</definition>
+    <definition><typologie>cense-fief</typologie> dépendant de la <localisation>seigneurie de <commune insee="54056" precision="approximatif">Bazailles</commune></localisation>, <date>1680</date> <reference>(dénombr. 20 décembre)</reference>.</definition>
   </article>
   <article id="DT57-02072" pg="173">
     <vedette><sm>Montagne (Mairie de la).</sm></vedette>
@@ -19760,7 +19760,7 @@
   <article id="DT57-02080" pg="174">
     <pg>174</pg>
     <vedette><sm>Montigny (Basse-),</sm></vedette>
-    <definition><localisation>partie de <commune insee="57480">Montigny-lez-Metz</commune></localisation>.</definition>
+    <definition><localisation>partie de <commune insee="57480" precision="certain">Montigny-lez-Metz</commune></localisation>.</definition>
   </article>
   <article id="DT57-02081" pg="174">
     <vedette><sm>Montigny-la-Grange,</sm></vedette>
@@ -19890,7 +19890,7 @@
   </article>
   <article id="DT57-02093" pg="175">
     <vedette><sm>Montvaux (Vallée de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="57134" precision="certain">Châtel-Saint-Germain</commune> et d’<commune insee="57017" precision="certain">Amanvillers</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="57134" precision="approximatif">Châtel-Saint-Germain</commune> et d’<commune insee="57017" precision="approximatif">Amanvillers</commune></localisation>.</definition>
     <commentaire>
       <p>Vallée ombragée et profonde, à l’entrée de laquelle se trouve Châtel-Saint-Germain, lieu renommé pour la beauté de ses sites.</p>
     </commentaire>
@@ -20053,7 +20053,7 @@
   </article>
   <article id="DT57-02111" pg="176">
     <vedette><sm>Morville (Ban de),</sm></vedette>
-    <definition><typologie>fief</typologie> enclavé dans la <localisation>seigneurie de <commune insee="57648">Servigny-lez-Raville</commune></localisation>, <date>1681</date> <reference>(dén. 23 décembre)</reference>.</definition>
+    <definition><typologie>fief</typologie> enclavé dans la <localisation>seigneurie de <commune insee="57648" precision="approximatif">Servigny-lez-Raville</commune></localisation>, <date>1681</date> <reference>(dén. 23 décembre)</reference>.</definition>
     <forme_ancienne>— <i>La Maison seigneuriale de Moriville,</i> <date>1581</date> <reference>(P. Fer. obs. séc. <sm>xvi</sm><sup>e</sup> s<sup>e</sup>, f. 593)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le chasteau ruiné de Moriville,</i> <date>1592</date> <reference>(acte d’aman s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le ban de Morville contre Frécourt,</i> <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(terr. du ban)</reference>.</forme_ancienne>
@@ -20084,7 +20084,7 @@
   </article>
   <article id="DT57-02116" pg="177">
     <vedette><sm>Moselle (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui a plusieurs branches, dont deux principales : l’une, qui prend sa source à <localisation><commune insee="88081">Bussang</commune> (Vosges)</localisation> et porte son nom dès son origine ; l’autre, la Petite Moselle ou Mosellotte, qui a sa source au Grand-Ventron, et se joint à la première à Remiremont.</definition>
+    <definition><typologie>rivière</typologie> qui a plusieurs branches, dont deux principales : l’une, qui prend sa source à <localisation><commune insee="88081" precision="approximatif">Bussang</commune> (Vosges)</localisation> et porte son nom dès son origine ; l’autre, la Petite Moselle ou Mosellotte, qui a sa source au Grand-Ventron, et se joint à la première à Remiremont.</definition>
     <commentaire>
       <p>La Moselle traverse le dép<sup>t</sup> de la Meurthe, puis celui auquel elle donne son nom, dans la direction du S. au N. N. E., et y passe sur le territ. des c<sup>nes</sup> d’Arry, Novéant, Corny, Dornot, Ancy, Jouy, Ars, Vaux, Moulins, Scy, Longeville-lez-Metz, Montigny, Metz (où elle reçoit la Seille), Devant-les-Ponts, la Maxe, Woippy, Malroy, Argancy, Maizières, Ennery, Hautconcourt, Talange, Hagondange, Ay, Richemont (où elle reçoit l’Orne), Guénange, Uckange, Bertrange, Thionville (où elle reçoit la Fensch), Yutz, Maquenom, Manom, Garsch, Haute et Basse Ham, Kœnigsmacker (où elle reçoit la Canner), Cattenom, Senzich, Malling, Berg, Hunting, Haute et Basse Kontz, Rettel, Sierck et Apach, où elle sort de France, formant la séparation des grands-duchés de Luxembourg et du Bas-Rhin (Prusse rhénane), puis arrose Trèves et va se jeter dans le Rhin à Coblentz.</p>
     </commentaire>
@@ -20243,11 +20243,11 @@
     <definition>sur la Nied allemande, <localisation>commune de <commune insee="57684" precision="certain">Wahl-Ébersing</commune></localisation>.</definition>
   </article>
   <article id="DT57-02137" pg="178">
-    <vedette><sm>Moulin (Le Bas</sm> et <sm>Haut),</sm></vedette>
+    <vedette><sm>Moulin (Le Bas et Haut),</sm></vedette>
     <definition>sur le ruisseau du Rosne, <localisation>commune de <commune insee="57415" precision="certain">Lorry-lez-Metz</commune></localisation>.</definition>
   </article>
   <article id="DT57-02138" pg="178">
-    <vedette><sm>Moulin (Le Bas</sm> et <sm>Haut),</sm></vedette>
+    <vedette><sm>Moulin (Le Bas et Haut),</sm></vedette>
     <definition>sur la Bisten, <localisation>commune de <commune insee="57696" precision="certain">Warsberg</commune></localisation>.</definition>
   </article>
   <article id="DT57-02139" pg="178">
@@ -20492,7 +20492,7 @@
     <definition>sur la Rosselle, <localisation>commune de <commune insee="57332" precision="certain">Hombourg-Haut</commune></localisation>.</definition>
   </article>
   <article id="DT57-02197" pg="179">
-    <vedette><sm>Moulin de Hellimer (Le)</sm> ou <sm>du Château,</sm></vedette>
+    <vedette><sm>Moulin de Hellimer (Le) ou du Château,</sm></vedette>
     <definition>sur un ruisseau sans nom, <localisation>commune de <commune insee="57311" precision="certain">Hellimer</commune></localisation>.</definition>
     <commentaire>
       <p>Existait en <date>1316</date> (<i>Meurisse,</i> 491).</p>
@@ -20583,7 +20583,7 @@
   </article>
   <article id="DT57-02218" pg="179">
     <vedette><sm>Moulin de l’Hôpital (Le),</sm></vedette>
-    <definition>sur le canal de l’Étang, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition>sur le canal de l’Étang, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-02219" pg="179">
     <vedette><sm>Moulin de Limbach (Le)</sm> ou <sm>Perchmühl,</sm></vedette>
@@ -20592,7 +20592,7 @@
   </article>
   <article id="DT57-02220" pg="179">
     <vedette><sm>Moulin de Lœbhersbach,</sm></vedette>
-    <definition><typologie>ancien moulin</typologie> de la <localisation>paroisse de <commune insee="57651">Siersthal</commune></localisation>.</definition>
+    <definition><typologie>ancien moulin</typologie> de la <localisation>paroisse de <commune insee="57651" precision="approximatif">Siersthal</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02221" pg="179">
@@ -20638,7 +20638,7 @@
     <definition>sur une branche de l’Eichel, <localisation>commune de <commune insee="57477" precision="certain">Montbronn</commune></localisation>.</definition>
   </article>
   <article id="DT57-02231" pg="180">
-    <vedette><sm>Moulin de Morsbach (Le), Lohmühl</sm> ou <sm>Moulin Margo,</sm></vedette>
+    <vedette><sm>Moulin de Morsbach (Le), Lohmühl ou Moulin Margo,</sm></vedette>
     <definition>sur la Rosselle, <localisation>commune de <commune insee="57484" precision="certain">Morsbach</commune></localisation>.</definition>
   </article>
   <article id="DT57-02232" pg="180">
@@ -21154,7 +21154,7 @@
     </commentaire>
   </article>
   <article id="DT57-02322" pg="183">
-    <vedette><sm>Mühlthal (Ober</sm> et <sm>Unter),</sm></vedette>
+    <vedette><sm>Mühlthal (Ober et Unter),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57046" precision="certain">Bærenthal</commune></localisation>.</definition>
   </article>
   <article id="DT57-02323" pg="183">
@@ -21164,7 +21164,7 @@
     </commentaire>
   </article>
   <article id="DT57-02324" pg="183">
-    <vedette><sm>Multerbach (Ruisseau de)</sm> ou <sm>Wasserbach.</sm></vedette>
+    <vedette><sm>Multerbach (Ruisseau de) ou Wasserbach.</sm></vedette>
     <commentaire>
       <p>— Coule sur le territ. des c<sup>nes</sup> de Soucht et d’Hundling.</p>
     </commentaire>
@@ -21263,13 +21263,13 @@
   </article>
   <article id="DT57-02334" pg="184">
     <vedette><sm>Mütsch (Étang de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="57297" precision="certain">Harprich</commune> et de <commune insee="57483" precision="certain">Morhange</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="57297" precision="approximatif">Harprich</commune> et de <commune insee="57483" precision="approximatif">Morhange</commune></localisation>.</definition>
     <commentaire>
       <p>— Superficie : 82 hectares.</p>
     </commentaire>
   </article>
   <article id="DT57-02335" pg="184">
-    <vedette><sm>Mutterbach</sm> ou <sm>Mouterbach (Ruisseau de).</sm></vedette>
+    <vedette><sm>Mutterbach ou Mouterbach (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Prend sa source sur le territ. de Farschwiller, au pied d’une tour nommée Mutterkirche, passe à Farschwiller, Loupershausen, Puttelange, Rémering, Holving, et se jette dans l’Albe entre Schweix et Rech.</p>
     </commentaire>
@@ -21475,7 +21475,7 @@
   </article>
   <article id="DT57-02360" pg="185">
     <vedette><sm>Neufmoulin,</sm></vedette>
-    <definition><typologie>anciennes forges</typologie> dépendant de la <localisation>seigneurie de <commune insee="54099">Briey</commune></localisation>.</definition>
+    <definition><typologie>anciennes forges</typologie> dépendant de la <localisation>seigneurie de <commune insee="54099" precision="approximatif">Briey</commune></localisation>.</definition>
     <forme_ancienne>— <i>Noeumoulin,</i> <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(cens. de Briey)</reference>.</forme_ancienne>
     <commentaire>
       <p>L’emplacement en est auj. ignoré.</p>
@@ -21639,7 +21639,7 @@
   </article>
   <article id="DT57-02381" pg="186">
     <vedette><sm>Neuweyer,</sm></vedette>
-    <definition><typologie>étang</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>étang</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p>— Sa superficie est de 8 hectares.</p>
     </commentaire>
@@ -22152,7 +22152,7 @@
   </article>
   <article id="DT57-02432" pg="191">
     <vedette><sm>Oberech,</sm></vedette>
-    <definition><typologie>métairie ruinée</typologie>, faisant partie de la <localisation>seigneurie de <commune insee="57235">Freistroff</commune></localisation>, <date>1681</date> <reference>(dénomb. du 31 oct.)</reference>.</definition>
+    <definition><typologie>métairie ruinée</typologie>, faisant partie de la <localisation>seigneurie de <commune insee="57235" precision="approximatif">Freistroff</commune></localisation>, <date>1681</date> <reference>(dénomb. du 31 oct.)</reference>.</definition>
   </article>
   <article type="commune" id="DT57-02433" pg="191">
     <vedette><sm>Obergailbach,</sm></vedette>
@@ -22511,7 +22511,7 @@
   </article>
   <article id="DT57-02473" pg="194">
     <vedette><sm>Openheim,</sm></vedette>
-    <definition><typologie>village ruiné</typologie> de l’ancienne <localisation>paroisse de <commune insee="57442">Marcourt</commune></localisation>.</definition>
+    <definition><typologie>village ruiné</typologie> de l’ancienne <localisation>paroisse de <commune insee="57442" precision="approximatif">Marcourt</commune></localisation>.</definition>
     <forme_ancienne>— <i>Openheim,</i> <date>1121</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Opemh,</i> <date>1180</date> <reference>(abb. Longev. bulle d’Alex. III)</reference>.</forme_ancienne>
   </article>
@@ -22602,7 +22602,7 @@
     <forme_ancienne>— <i>Odorna</i> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02481" pg="194">
-    <vedette><sm>Orne (Le pays de l’)</sm> ou <sm>Ornois.</sm></vedette>
+    <vedette><sm>Orne (Le pays de l’) ou Ornois.</sm></vedette>
     <commentaire>
       <p>— Occupait la partie septentrionale du <i>pagus Virdunensis,</i> dont il formait <pg>195</pg>une subdivision.</p>
     </commentaire>
@@ -22634,7 +22634,7 @@
     <insee>57527</insee>
   </article>
   <article id="DT57-02484" pg="195">
-    <vedette><sm>Othain</sm> ou <sm>Oltain (Ruisseau d’).</sm></vedette>
+    <vedette><sm>Othain ou Oltain (Ruisseau d’).</sm></vedette>
     <commentaire>
       <p>— Prend sa source sur le territ. de Gondrecourt (canton de Conflans), traverse les c<sup>nes</sup> d’Affléville, Grand-Failly, Petit-Failly et Othe, sur une longueur de 40 kilomètres, et se jette dans la Chiers à Montmédy (Meuse).</p>
     </commentaire>
@@ -22930,7 +22930,7 @@
     </commentaire>
   </article>
   <article id="DT57-02516" pg="197">
-    <vedette><sm>Parthe (Basse</sm> et <sm>Haute),</sm></vedette>
+    <vedette><sm>Parthe (Basse et Haute),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57104" precision="certain">Boust</commune></localisation>.</definition>
     <forme_ancienne>— <i>Parett,</i> <date>1740</date> <reference>(terr. de Breistroff)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La haute et basse Parette,</i> <date>1756</date> <reference>(Stem. dép<sup>t</sup> M.)</reference>.</forme_ancienne>
@@ -22949,7 +22949,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="54504" precision="certain">Serrouville</commune></localisation>.</definition>
   </article>
   <article id="DT57-02519" pg="198">
-    <vedette><sm>Patural (Ruisseau</sm> dit <sm>le)</sm> ou <sm>Ruisseau des Pastourelles.</sm></vedette>
+    <vedette><sm>Patural (Ruisseau dit le)</sm> ou <sm>Ruisseau des Pastourelles.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Épange, traverse la c<sup>ne</sup> d’Hinckange sur une longueur de 2 kilom. et se jette dans la Nied.</p>
     </commentaire>
@@ -23290,7 +23290,7 @@
     </commentaire>
   </article>
   <article id="DT57-02552" pg="200">
-    <vedette><sm>Pienne (Ruisseau de la)</sm> ou <sm>la Piennoise.</sm></vedette>
+    <vedette><sm>Pienne (Ruisseau de la) ou la Piennoise.</sm></vedette>
     <commentaire>
       <p>— Prend sa source à Piennes, traverse les territ. de Piennes (annexe de Landres), Domprix et Bertrameix, Xivry-Circourt, Mercy-le-Bas et Saint-Supplet sur une longueur de 5 kilom. et se jette dans la Crusne.</p>
     </commentaire>
@@ -23397,7 +23397,7 @@
   </article>
   <article id="DT57-02562" pg="201">
     <vedette><sm>Planter,</sm></vedette>
-    <definition><typologie>ancienne métairie</typologie>, <localisation>entre <commune insee="57159">Créhange</commune> et <commune insee="57190">Elvange</commune></localisation>.</definition>
+    <definition><typologie>ancienne métairie</typologie>, <localisation>entre <commune insee="57159" precision="approximatif">Créhange</commune> et <commune insee="57190" precision="approximatif">Elvange</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cour de Planteyre,</i> <date>1327</date> <reference>(abb. Longev. dénombr. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Plenter,</i> <date>1681</date> <reference>(abb. Longev. dénombr. s. l’an)</reference>.</forme_ancienne>
     <commentaire>
@@ -23473,7 +23473,7 @@
   </article>
   <article id="DT57-02568" pg="202">
     <vedette><sm>Platinerie (La),</sm></vedette>
-    <definition><typologie>étang</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>étang</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p>— Superficie : 4 hectares.</p>
     </commentaire>
@@ -23484,7 +23484,7 @@
   </article>
   <article id="DT57-02570" pg="202">
     <vedette><sm>Platinerie de Saint-Louis (La)</sm> ou <sm>les Forges,</sm></vedette>
-    <definition><localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-02571" pg="202">
     <vedette><sm>Plâtrière (La)</sm> ou <sm>Gypskaul,</sm></vedette>
@@ -23640,7 +23640,7 @@
   </article>
   <article id="DT57-02588" pg="203">
     <vedette><sm>Pont-de-la-Bliese (Le),</sm></vedette>
-    <definition><localisation>ban de <commune insee="57631">Sarreguemines</commune></localisation>.</definition>
+    <definition><localisation>ban de <commune insee="57631" precision="approximatif">Sarreguemines</commune></localisation>.</definition>
     <commentaire>
       <p>— Ruiné au <date><sm>xvii</sm><sup>e</sup> siècle</date>.</p>
     </commentaire>
@@ -23995,7 +23995,7 @@
     </commentaire>
   </article>
   <article id="DT57-02626" pg="206">
-    <vedette><sm>Pulter (Cour de)</sm> ou <sm>Pulterhoff.</sm></vedette>
+    <vedette><sm>Pulter (Cour de) ou Pulterhoff.</sm></vedette>
     <commentaire>
       <p>— Elle faisait partie de la seigneurie de Bertrange et s’étendait sur les villages de Bertrange, Blettange, Guélange, Haute et Basse Guénange, Immeldange, Reinange et Stückange. Un maire et deux échevins y administraient la justice (<date>1682</date>, dénomb. 6 août).</p>
       <p>Siége d’une justice haute, moyenne et basse.</p>
@@ -24157,14 +24157,14 @@
   </article>
   <article id="DT57-02637" pg="208">
     <vedette><sm>Quatre-Seigneurs (Forêt des),</sm></vedette>
-    <definition><typologie>forêt domaniale</typologie> de 226 hectares, située sur le <localisation><commune insee="57387" precision="certain">Laumesfeld</commune>territoire de la commune de </localisation>.</definition>
+    <definition><typologie>forêt domaniale</typologie> de 226 hectares, située sur le <localisation>territoire de la commune de <commune insee="57387" precision="certain">Laumesfeld</commune></localisation>.</definition>
   </article>
   <article id="DT57-02638" pg="208">
     <vedette><sm>Quatre-Vents,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57386" precision="certain">Landrefang</commune></localisation>.</definition>
   </article>
   <article id="DT57-02639" pg="208">
-    <vedette><sm>Quemènes (Hautes</sm> et <sm>Basses),</sm></vedette>
+    <vedette><sm>Quemènes (Hautes et Basses),</sm></vedette>
     <definition><typologie>lieu-dit</typologie>, <localisation>commune de <commune insee="57545" precision="certain">Plappeville</commune></localisation>.</definition>
     <commentaire>
       <p>— Souvenir de l’ancienne voie romaine de Reims à Trèves, passant près de Metz.</p>
@@ -24327,7 +24327,7 @@
     <forme_ancienne>— <date>1680</date> <reference>(dénombr. 31 déc.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02655" pg="209">
-    <vedette><sm>Raoué (Ruisseau)</sm> ou <sm>Rawé.</sm></vedette>
+    <vedette><sm>Raoué (Ruisseau) ou Rawé.</sm></vedette>
     <commentaire>
       <p>— Coule sur le territ. des c<sup>nes</sup> de Gondrecourt, Fléville, Ozerailles, Lubey et Valleroy, où il se jette dans l’Orne.</p>
     </commentaire>
@@ -24553,7 +24553,7 @@
     <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="57672" precision="certain">Thionville</commune></localisation>.</definition>
   </article>
   <article id="DT57-02681" pg="211">
-    <vedette><sm>Rémelange (Basse</sm> et <sm>Haute),</sm></vedette>
+    <vedette><sm>Rémelange (Basse et Haute),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57206" precision="certain">Fameck</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fiscum nostrum Rumeliacum,</i> <date>855</date> <reference>(ch. emp. Loth. Wilth. Lux. Rom.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Remelangues,</i> <date>1250</date> <reference>(abb. Saint-Pierre, cens.)</reference>.</forme_ancienne>
@@ -24888,7 +24888,7 @@
   </article>
   <article id="DT57-02711" pg="214">
     <vedette><sm>Rexange,</sm></vedette>
-    <definition><typologie>ancien hameau</typologie>, <localisation>entre <commune insee="57072">Altroff</commune> et <commune insee="57426">Luttange</commune></localisation>.</definition>
+    <definition><typologie>ancien hameau</typologie>, <localisation>entre <commune insee="57072" precision="approximatif">Altroff</commune> et <commune insee="57426" precision="approximatif">Luttange</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ruxenges,</i> <date>1230</date> <reference>(fonds de Malte, inv. liasse H)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Rexanges,</i> <date>1300</date> <reference>(fonds de Malte, 16)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Allestorfe</i> ou <i>Ban de Requexange,</i> <date>1389</date> <reference>(abb. Vill. cart. t. I, A. 2)</reference>.</forme_ancienne>
@@ -24960,7 +24960,7 @@
     </commentaire>
   </article>
   <article id="DT57-02717" pg="215">
-    <vedette><sm>Rhône</sm> ou <sm>Rosne (Ruisseau du).</sm></vedette>
+    <vedette><sm>Rhône ou Rosne (Ruisseau du).</sm></vedette>
     <commentaire>
       <p>— Prend sa source dans le bois de Lorry-Vigneulles, traverse cette c<sup>ne</sup> et celle de Woippy, sur une longueur de 2 kilom. et demi, et se jette dans le ruiss. de Saulny.</p>
     </commentaire>
@@ -25207,7 +25207,7 @@
     </commentaire>
   </article>
   <article id="DT57-02746" pg="217">
-    <vedette><sm>Rode</sm> ou <sm>Rotha (Ruisseau de).</sm></vedette>
+    <vedette><sm>Rode ou Rotha (Ruisseau de).</sm></vedette>
     <commentaire>
       <p><renvoi>— Voy. <sm>Rose (Ruisseau de la).</sm></renvoi></p>
     </commentaire>
@@ -25263,7 +25263,7 @@
   </article>
   <article id="DT57-02750" pg="218">
     <vedette><sm>Rodenvald,</sm></vedette>
-    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57359">Kemplich</commune></localisation>.</definition>
+    <definition><typologie>ancienne cense</typologie>, <localisation>paroisse de <commune insee="57359" precision="approximatif">Kemplich</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02751" pg="218">
@@ -25291,7 +25291,7 @@
   </article>
   <article id="DT57-02754" pg="218">
     <vedette><sm>Roemer,</sm></vedette>
-    <definition><typologie>cense-fief</typologie> dépendant de la <localisation>seigneurie de <commune insee="57588">Rodemack</commune></localisation> <reference>(<date>1749</date>, dénombr. 7 mai)</reference>.</definition>
+    <definition><typologie>cense-fief</typologie> dépendant de la <localisation>seigneurie de <commune insee="57588" precision="approximatif">Rodemack</commune></localisation> <reference>(<date>1749</date>, dénombr. 7 mai)</reference>.</definition>
   </article>
   <article id="DT57-02755" pg="218">
     <vedette><sm>Rohr,</sm></vedette>
@@ -25352,7 +25352,7 @@
   </article>
   <article id="DT57-02761" pg="219">
     <vedette><sm>Rollingen,</sm></vedette>
-    <definition><typologie>ancien village</typologie> de la <localisation>seigneurie de <commune insee="57089">Bitche</commune></localisation>, chef-lieu d’une mairie qui comprenait Rollingen, Schmalenthal, Mouterhausen, Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>1594</date> (dénomb. Th. Alix).</definition>
+    <definition><typologie>ancien village</typologie> de la <localisation>seigneurie de <commune insee="57089" precision="approximatif">Bitche</commune></localisation>, chef-lieu d’une mairie qui comprenait Rollingen, Schmalenthal, Mouterhausen, Hohe-Weyersberg, et les gagnages de Gaendersberg, Eguelshardt et Waldeck, <date>1594</date> (dénomb. Th. Alix).</definition>
     <forme_ancienne>— <i>Rollingen, village ; le chasteau est ruiné</i> <reference>(<i>loc. cit.</i>)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02762" pg="219">
@@ -25399,7 +25399,7 @@
   </article>
   <article id="DT57-02764" pg="219">
     <vedette><sm>Romelueven,</sm></vedette>
-    <definition><typologie>localité inconnue</typologie>, <localisation>paroisse de <commune insee="57453">Maxstadt</commune></localisation>, <date>875</date> (abbaye Sainte-Gloss. ch. Louis le Germ.).</definition>
+    <definition><typologie>localité inconnue</typologie>, <localisation>paroisse de <commune insee="57453" precision="approximatif">Maxstadt</commune></localisation>, <date>875</date> (abbaye Sainte-Gloss. ch. Louis le Germ.).</definition>
   </article>
   <article type="commune" id="DT57-02765" pg="219">
     <vedette><sm>Roncourt,</sm></vedette>
@@ -25415,7 +25415,7 @@
     <insee>57593</insee>
   </article>
   <article id="DT57-02766" pg="219">
-    <vedette><sm>Rondbois (Le), Rundwælchen</sm> ou <sm>Rundwies,</sm></vedette>
+    <vedette><sm>Rondbois (Le), Rundwælchen ou Rundwies,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57262" precision="certain">Gros-Tenquin</commune></localisation>.</definition>
   </article>
   <article id="DT57-02767" pg="219">
@@ -25715,7 +25715,7 @@
     <insee>57599</insee>
   </article>
   <article id="DT57-02800" pg="222">
-    <vedette><sm>Roupelstouden (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Roupelstouden (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>fermes</typologie>, <localisation>commune de <commune insee="57154" precision="certain">Coume</commune></localisation>.</definition>
   </article>
   <article id="DT57-02801" pg="222">
@@ -25856,7 +25856,7 @@
   </article>
   <article id="DT57-02813" pg="223">
     <vedette><sm>Ru d’Hutron (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>bois de <commune insee="54286">Labry</commune></localisation>, traverse la commune de ce nom sur une longueur de 1 kilom. et se jette dans l’Orne.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans les <localisation>bois de <commune insee="54286" precision="approximatif">Labry</commune></localisation>, traverse la commune de ce nom sur une longueur de 1 kilom. et se jette dans l’Orne.</definition>
   </article>
   <article id="DT57-02814" pg="223">
     <vedette><sm>Ruchelingen,</sm></vedette>
@@ -26339,7 +26339,7 @@
   </article>
   <article id="DT57-02861" pg="228">
     <vedette><sm>Saint-Clément,</sm></vedette>
-    <definition><typologie>ancienne abbaye de Bénédictins et faubourg sous les murs de </typologie> <localisation><commune insee="57463" precision="certain">Metz</commune></localisation>, <localisation>commune du <commune insee="57463" precision="certain">Sablon</commune></localisation>.</definition>
+    <definition><typologie>ancienne abbaye de Bénédictins et faubourg sous les murs de </typologie> <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation>, <localisation>commune du <commune insee="57463" precision="approximatif">Sablon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Les frères de Saint-Clémant,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(abb. Saint-Clém. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ecclesia beati Clementis,</i> <date>1130</date> <reference>(abb. Saint-Clém. ch. év. Ét. de Bar)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eglise Saint-Clément,</i> <date>1201</date> <reference>(abb. Saint-Clém. s. l’an)</reference>.</forme_ancienne>
@@ -26453,7 +26453,7 @@
   </article>
   <article id="DT57-02877" pg="229">
     <vedette><sm>Saint-Hubert-Saint-Athanase,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> de la <localisation>paroisse de <commune insee="57067">Bertrange</commune></localisation>.</definition>
+    <definition><typologie>ancienne chapelle</typologie> de la <localisation>paroisse de <commune insee="57067" precision="approximatif">Bertrange</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02878" pg="229">
@@ -26640,14 +26640,14 @@
   </article>
   <article id="DT57-02901" pg="231">
     <vedette><sm>Saint-Louis,</sm></vedette>
-    <definition><typologie>usine et hameau</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>usine et hameau</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Forges (Les)</sm> ou <sm>Platinerie de Saint-Louis.</sm></renvoi></p>
     </commentaire>
   </article>
   <article id="DT57-02902" pg="231">
     <vedette><sm>Saint-Louis,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> sous les <localisation>murs de <commune insee="57463">Metz</commune></localisation>.</definition>
+    <definition><typologie>ancienne chapelle</typologie> sous les <localisation>murs de <commune insee="57463" precision="certain">Metz</commune></localisation>.</definition>
     <forme_ancienne>— <i>Saint-Lowis, proche Saint-Thiébault,</i> cimetière des suppliciés, <date>1404</date> <reference>(chron. mess. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Lowy aux champs,</i> <date>1444</date> <reference>(chron. doy. de S<sup>t</sup>-Thiéb.)</reference>.</forme_ancienne>
     <commentaire>
@@ -26666,7 +26666,7 @@
     </commentaire>
   </article>
   <article id="DT57-02905" pg="231">
-    <vedette><sm>Saint-Louis (Ruisseau de)</sm> ou <sm>Segmühlenbach.</sm></vedette>
+    <vedette><sm>Saint-Louis (Ruisseau de) ou Segmühlenbach.</sm></vedette>
     <commentaire>
       <p>— Il prend sa source dans un pré de Saint-Louis, traverse les c<sup>nes</sup> de Saint-Louis, de Montbronn et de Soucht sur une longueur de 1 kilom. et se jette dans le Spiegelbach, une des branches de l’Eichel.</p>
     </commentaire>
@@ -26828,14 +26828,14 @@
   </article>
   <article id="DT57-02929" pg="232">
     <vedette><sm>Saint-Pierre-aux-Arènes,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie>, sous les <localisation>murs de <commune insee="57463">Metz</commune></localisation>.</definition>
+    <definition><typologie>ancienne chapelle</typologie>, sous les <localisation>murs de <commune insee="57463" precision="certain">Metz</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia beati Petri ad Harenas,</i> <date>1130</date> <reference>(abb. Saint-Clém. ch. conf.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint Pierre az Arannes,</i> <date>1232</date> <reference>(arch. h. de V. cart. f. 58)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint Pierre az Erennes,</i> <date>1235</date> <reference>(hôp. Saint-Nic. cart. f. <sm>xxiv</sm>)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-02930" pg="232">
     <vedette><sm>Saint-Pierre-aux-Champs,</sm></vedette>
-    <definition><typologie>église et prieuré</typologie> hors de la porte <localisation>Saint-Thiébaut de <commune insee="57463">Metz</commune></localisation>.</definition>
+    <definition><typologie>église et prieuré</typologie> hors de la porte <localisation>Saint-Thiébaut de <commune insee="57463" precision="certain">Metz</commune></localisation>.</definition>
     <forme_ancienne>— <i>L’esglise de saint Pierre as Champs,</i> <date><sm>xv</sm><sup>e</sup> siècle</date> <reference>(chron. Prail.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le bourc de saint Pierre con dist saint Pierre as champts,</i> <date>1444</date> <reference>(chron. doy. de S<sup>t</sup>-Thiéb.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bourg saint Pierre aux champs,</i> <date>1486</date> <reference>(sém. Saint-Sim. s. l’an)</reference>.</forme_ancienne>
@@ -27103,7 +27103,7 @@
   </article>
   <article id="DT57-02962" pg="235">
     <vedette><sm>Sainte-Anne,</sm></vedette>
-    <definition><typologie>chapelle</typologie> sise <localisation>entre <commune insee="57683">Brouck</commune> et <commune insee="57206">Budange</commune></localisation> (carte Cass.).</definition>
+    <definition><typologie>chapelle</typologie> sise <localisation>entre <commune insee="57683" precision="approximatif">Brouck</commune> et <commune insee="57206" precision="approximatif">Budange</commune></localisation> (carte Cass.).</definition>
   </article>
   <article id="DT57-02963" pg="235">
     <vedette><sm>Sainte-Anne,</sm></vedette>
@@ -27221,7 +27221,7 @@
   </article>
   <article id="DT57-02984" pg="235">
     <vedette><sm>Sainte-Croix,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57124">Cattenom</commune></localisation>.</definition>
+    <definition><typologie>ancienne chapelle</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57124" precision="approximatif">Cattenom</commune></localisation>.</definition>
   </article>
   <article id="DT57-02985" pg="235">
     <vedette><sm>Sainte-Croix,</sm></vedette>
@@ -27465,7 +27465,7 @@
   </article>
   <article id="DT57-03021" pg="237">
     <vedette><sm>Salival (Bans de),</sm></vedette>
-    <definition><typologie>bans-fiefs</typologie> situés à <localisation><commune insee="57032">Ars</commune>, <commune insee="57352">Jussy</commune> et <commune insee="57624">Sainte-Ruffine</commune></localisation> ; ils appartenaient à l’abbaye Sainte-Glossinde de Metz, <date>1606</date> (terr. de ladite abbaye).</definition>
+    <definition><typologie>bans-fiefs</typologie> situés à <localisation><commune insee="57032" precision="approximatif">Ars</commune>, <commune insee="57352" precision="approximatif">Jussy</commune> et <commune insee="57624" precision="approximatif">Sainte-Ruffine</commune></localisation> ; ils appartenaient à l’abbaye Sainte-Glossinde de Metz, <date>1606</date> (terr. de ladite abbaye).</definition>
   </article>
   <article id="DT57-03022" pg="237">
     <vedette><sm>Saltzbronn,</sm></vedette>
@@ -27486,7 +27486,7 @@
     </commentaire>
   </article>
   <article id="DT57-03023" pg="237">
-    <vedette><sm>Sancy (Haut</sm> et <sm>Bas-),</sm></vedette>
+    <vedette><sm>Sancy (Haut et Bas-),</sm></vedette>
     <definition><localisation>commune d’<commune insee="54029" precision="certain">Audun-le-Roman</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanceum Castrum,</i> <date>1096</date> <reference>(Berth. Hist. Lux. III, pr. <sm>xlv</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanci,</i> <date>1255</date> <reference>(chap. cath. s. l’an)</reference>.</forme_ancienne>
@@ -27732,7 +27732,7 @@
     <definition><typologie>moulin</typologie> sur le ruisseau de Mance, <localisation>commune de <commune insee="54536" precision="certain">Tucquegnieux</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-03042" pg="240">
-    <vedette><sm>Saulnes (Haute</sm> et <sm>Basse),</sm></vedette>
+    <vedette><sm>Saulnes (Haute et Basse),</sm></vedette>
     <definition><localisation>canton de <commune insee="54323" precision="approximatif">Longwy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sonne la Basse, Sonne la Haute,</i> <date>1689</date> <reference>(Barr. dom.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sône la haute et la basse,</i> <date>1749</date> <reference>(de Maill. Barr.)</reference>.</forme_ancienne>
@@ -27827,7 +27827,7 @@
   </article>
   <article id="DT57-03051" pg="241">
     <vedette><sm>Schaffling,</sm></vedette>
-    <definition><typologie>village aujourd’hui disparu</typologie>, <localisation>entre <commune insee="57287">Ham</commune> et <commune insee="57689">Walmestroff</commune></localisation> (Teiss. Hist. de Thionv.).</definition>
+    <definition><typologie>village aujourd’hui disparu</typologie>, <localisation>entre <commune insee="57287" precision="approximatif">Ham</commune> et <commune insee="57689" precision="approximatif">Walmestroff</commune></localisation> (Teiss. Hist. de Thionv.).</definition>
   </article>
   <article id="DT57-03052" pg="241">
     <vedette><sm>Schantz,</sm></vedette>
@@ -28141,7 +28141,7 @@
   </article>
   <article id="DT57-03101" pg="243">
     <vedette><sm>Schwartzmœrter,</sm></vedette>
-    <definition><typologie>métairie détruite</typologie>, <localisation>entre <commune insee="57128">Charleville</commune>, <commune insee="57128">Épange</commune>, le moulin de <commune insee="57128">Renange</commune> et <commune insee="57326">Hinckange</commune></localisation>, <date>1624</date> <reference>(abb. Vill. liasse 83, Charleville)</reference>.</definition>
+    <definition><typologie>métairie détruite</typologie>, <localisation>entre <commune insee="57128" precision="approximatif">Charleville</commune>, <commune insee="57128" precision="approximatif">Épange</commune>, le moulin de <commune insee="57128" precision="approximatif">Renange</commune> et <commune insee="57326" precision="approximatif">Hinckange</commune></localisation>, <date>1624</date> <reference>(abb. Vill. liasse 83, Charleville)</reference>.</definition>
     <forme_ancienne>— <i>Xwarzmutre proche Woimmeranges,</i> <date>1371</date> <reference>(abb. Vill. cart. t. I, c. 16)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Schoismeurter, metterie proche Chairleville,</i> <date>1731</date> <reference>(abb. Vill. cart. t. I, 3, c. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Schartezmorther,</i> <date>1594</date> <reference>(dénomb. Th. Alix)</reference>.</forme_ancienne>
@@ -28150,7 +28150,7 @@
   </article>
   <article id="DT57-03102" pg="243">
     <vedette><sm>Schwartzweyer,</sm></vedette>
-    <definition><typologie>étang</typologie> situé sur le <localisation>territoire de la commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>étang</typologie> situé sur le <localisation>territoire de la commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p>— La superficie en est de 3 hectares.</p>
     </commentaire>
@@ -28358,7 +28358,7 @@
   </article>
   <article id="DT57-03128" pg="244">
     <vedette><sm>Seille (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source dans l’<localisation>étang de <commune insee="57404">Lindre</commune> (Meurthe)</localisation>, traverse les <localisation>communes de <commune insee="57137" precision="certain">Cheminot</commune>, <pg>245</pg><commune insee="57422">Louvigny</commune>, <commune insee="57652">Sillegny</commune>, <commune insee="57547">Pommerieux</commune>, <commune insee="57554">Pournoy-la-Grasse</commune>, <commune insee="57147">Coin-sur-Seille</commune>, <commune insee="57218">Fleury</commune>, <commune insee="57552">Pouilly</commune>, <commune insee="57162">Cuvry</commune>, <commune insee="57447">Marly</commune>, <commune insee="57463">Magny</commune>, <commune insee="57463">Plantières</commune> et <commune insee="57463">Metz</commune></localisation> sur une longueur de 42 kilom. et se jette dans la Moselle à Metz.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source dans l’<localisation>étang de <commune insee="57404" precision="approximatif">Lindre</commune> (Meurthe)</localisation>, traverse les <localisation>communes de <commune insee="57137" precision="approximatif">Cheminot</commune>, <pg>245</pg><commune insee="57422" precision="approximatif">Louvigny</commune>, <commune insee="57652" precision="approximatif">Sillegny</commune>, <commune insee="57547" precision="approximatif">Pommerieux</commune>, <commune insee="57554" precision="approximatif">Pournoy-la-Grasse</commune>, <commune insee="57147" precision="approximatif">Coin-sur-Seille</commune>, <commune insee="57218" precision="approximatif">Fleury</commune>, <commune insee="57552" precision="approximatif">Pouilly</commune>, <commune insee="57162" precision="approximatif">Cuvry</commune>, <commune insee="57447" precision="approximatif">Marly</commune>, <commune insee="57463" precision="approximatif">Magny</commune>, <commune insee="57463" precision="approximatif">Plantières</commune> et <commune insee="57463" precision="approximatif">Metz</commune></localisation> sur une longueur de 42 kilom. et se jette dans la Moselle à Metz.</definition>
     <forme_ancienne>— <i>Salia,</i> <date><sm>v</sm><sup>e</sup> siècle</date> <reference>(Venan. Fortun. c. <sm>iii,</sm> 12)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Seylhe,</i> <date>893</date> <reference>(abb. Prüm. décl. de biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sallia fluvius,</i> <date>1049</date> <reference>(pri. de Lay, fond.)</reference>.</forme_ancienne>
@@ -28376,7 +28376,7 @@
   </article>
   <article id="DT57-03129" pg="245">
     <vedette><sm>Seille (La Petite-),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>entre <commune insee="57483">Morhange</commune> et <commune insee="57560">Racrange</commune></localisation>, forme l’étang Neuf, passe dans le département de la Meurthe et se jette dans la Seille au village de Salone.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>entre <commune insee="57483" precision="approximatif">Morhange</commune> et <commune insee="57560" precision="approximatif">Racrange</commune></localisation>, forme l’étang Neuf, passe dans le département de la Meurthe et se jette dans la Seille au village de Salone.</definition>
   </article>
   <article id="DT57-03130" pg="245">
     <vedette><sm>Seille (Pays de la).</sm></vedette>
@@ -29014,7 +29014,7 @@
   </article>
   <article id="DT57-03191" pg="251">
     <vedette><sm>Spillermühl,</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>commune de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>commune de l’<commune insee="57336" precision="certain">Hôpital</commune></localisation>.</definition>
   </article>
   <article id="DT57-03192" pg="251">
     <vedette><sm>Spitzensteinerkopf,</sm></vedette>
@@ -29022,7 +29022,7 @@
   </article>
   <article id="DT57-03193" pg="251">
     <vedette><sm>Spitzweyer,</sm></vedette>
-    <definition><typologie>étang</typologie> situé sur le <localisation>ban de l’<commune insee="57336">Hôpital</commune></localisation>.</definition>
+    <definition><typologie>étang</typologie> situé sur le <localisation>ban de l’<commune insee="57336" precision="approximatif">Hôpital</commune></localisation>.</definition>
     <commentaire>
       <p>— La superficie en est de 3 hectares.</p>
     </commentaire>
@@ -29062,7 +29062,7 @@
   </article>
   <article id="DT57-03197" pg="251">
     <vedette><sm>Standalmont,</sm></vedette>
-    <definition><typologie>lieu-dit</typologie>, où fut érigée l’abbaye <localisation><commune insee="54036">Saint-Pierremont</commune></localisation>.</definition>
+    <definition><typologie>lieu-dit</typologie>, où fut érigée l’abbaye <localisation><commune insee="54036" precision="approximatif">Saint-Pierremont</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Saint-Pierremont.</sm></renvoi></p>
     </commentaire>
@@ -29118,7 +29118,7 @@
   </article>
   <article id="DT57-03207" pg="251">
     <vedette><sm>Stiring,</sm></vedette>
-    <definition><typologie>cense ruinée</typologie> au <localisation>ban de <commune insee="57598">Hallingen</commune></localisation>.</definition>
+    <definition><typologie>cense ruinée</typologie> au <localisation>ban de <commune insee="57598" precision="approximatif">Hallingen</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Hallingen.</sm></renvoi></p>
     </commentaire>
@@ -29313,7 +29313,7 @@
   </article>
   <article id="DT57-03231" pg="253">
     <vedette><sm>Suisserie (La),</sm></vedette>
-    <definition><typologie>ancienne cense</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57764">Zoufftgen</commune></localisation>.</definition>
+    <definition><typologie>ancienne cense</typologie> qui dépendait de la <localisation>paroisse de <commune insee="57764" precision="approximatif">Zoufftgen</commune></localisation>.</definition>
   </article>
   <article id="DT57-03232" pg="253">
     <vedette><sm>Sulzen,</sm></vedette>
@@ -29551,7 +29551,7 @@
   </article>
   <article id="DT57-03258" pg="255">
     <vedette><sm>Terlange,</sm></vedette>
-    <definition><typologie>village disparu</typologie>, réuni au <localisation>ban de <commune insee="57464">Metzeresche</commune></localisation> (Tess. quest. Hist. de Thionv.).</definition>
+    <definition><typologie>village disparu</typologie>, réuni au <localisation>ban de <commune insee="57464" precision="approximatif">Metzeresche</commune></localisation> (Tess. quest. Hist. de Thionv.).</definition>
     <forme_ancienne>— <i>Terlinga,</i> <date>875</date> <reference>(abb. Sainte-Gloss. ch. conf. Louis le Germ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Terlange,</i> village près de Thionville, détruit par les Suédois en <date>1636</date> <reference>(Revue d’Austr. 1854, 340)</reference>.</forme_ancienne>
     <commentaire>
@@ -29808,7 +29808,7 @@
   </article>
   <article id="DT57-03279" pg="258">
     <vedette><sm>Thor,</sm></vedette>
-    <definition><typologie>village ruiné</typologie>, situé dans le <localisation>Sart de <commune insee="54533">Trieux</commune></localisation>, « sur la gauche de Hamerange, en prenant de Trieux à Lommerange, » <date><sm>xvii</sm><sup>e</sup> siècle</date> (chan. Rég. liasse Trieux, mém.).</definition>
+    <definition><typologie>village ruiné</typologie>, situé dans le <localisation>Sart de <commune insee="54533" precision="approximatif">Trieux</commune></localisation>, « sur la gauche de Hamerange, en prenant de Trieux à Lommerange, » <date><sm>xvii</sm><sup>e</sup> siècle</date> (chan. Rég. liasse Trieux, mém.).</definition>
   </article>
   <article type="commune" id="DT57-03280" pg="258">
     <vedette><sm>Thumeréville,</sm></vedette>
@@ -29829,7 +29829,7 @@
     <insee>54524</insee>
   </article>
   <article id="DT57-03281" pg="258">
-    <vedette><sm>Thury (Grande</sm> et <sm>Petite),</sm></vedette>
+    <vedette><sm>Thury (Grande et Petite),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de la <commune insee="57452" precision="certain">Maxe</commune></localisation>, à gauche de la Moselle : <renvoi>voy. <sm>Saint-Éloi</sm></renvoi>.</definition>
     <forme_ancienne>— <i>Sancta Crux in Buris,</i> <date>1101</date> <reference>(abb. Sainte-Croix, ch. conf.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Finagia de Turei,</i> <date>1316</date> <reference>(pouillé de M. Portef.)</reference>.</forme_ancienne>
@@ -29847,7 +29847,7 @@
   </article>
   <article id="DT57-03282" pg="258">
     <vedette><sm>Thutange,</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>annexe de <commune insee="54580">Villerupt</commune></localisation>.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>annexe de <commune insee="54580" precision="approximatif">Villerupt</commune></localisation>.</definition>
     <forme_ancienne>— <i>Le moulin de Tutanges près de Thil,</i> <date>1517</date> <reference>(abb. Vill. cart. t. I, tit. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Tuttenges,</i> <date>1572</date> <reference>(abb. Vill. cart. t. I, tit. 7)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Teutenges,</i> <date>1573</date> <reference>(abb. Vill. cart. t. I, tit. 6)</reference>.</forme_ancienne>
@@ -30155,7 +30155,7 @@
   </article>
   <article id="DT57-03315" pg="261">
     <vedette><sm>Trusch</sm> ou <sm>Trousch,</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, <localisation>entre <commune insee="57741">Dorst</commune> et <commune insee="57590">Rolbing</commune></localisation>.</definition>
+    <definition><typologie>hameau détruit</typologie>, <localisation>entre <commune insee="57741" precision="approximatif">Dorst</commune> et <commune insee="57590" precision="approximatif">Rolbing</commune></localisation>.</definition>
     <forme_ancienne>— <i>Trousch</i> (<i>ban de</i>), <date>1755</date> <reference>(atlas de Bitche, f. 25, 26, 27, 41)</reference>.</forme_ancienne>
     <commentaire>
       <p>N’existait plus au <date><sm>xvi</sm><sup>e</sup> siècle</date>.</p>
@@ -30238,7 +30238,7 @@
   </article>
   <article id="DT57-03332" pg="262">
     <pg>262</pg>
-    <vedette><sm>Tuilerie de Host (La Haute</sm> et <sm>Basse),</sm></vedette>
+    <vedette><sm>Tuilerie de Host (La Haute et Basse),</sm></vedette>
     <definition><localisation>commune de <commune insee="57337" precision="certain">Host</commune></localisation>.</definition>
   </article>
   <article id="DT57-03333" pg="262">
@@ -30593,7 +30593,7 @@
   </article>
   <article id="DT57-03390" pg="264">
     <vedette><sm>Val-de-Metz (Le),</sm></vedette>
-    <definition>titre d’un archiprêtré qui comprenait les <localisation>paroisses d’<commune insee="57017">Amanvillers</commune>, <commune insee="57021">Ancy</commune>, <commune insee="57032">Ars-sur-Moselle</commune>, <commune insee="57039">Augny</commune>, <commune insee="57134">Châtel-Saint-Germain</commune>, <commune insee="57162">Cuvry</commune>, <commune insee="57350">Jouy</commune>, <commune insee="57352">Jussy</commune>, <commune insee="57396">Lessy</commune>, <commune insee="57415">Lorry-lez-Metz</commune>, <commune insee="57447">Marly</commune>, <commune insee="57487">Moulins-lez-Metz</commune>, <commune insee="57601">Rozérieulles</commune>, <commune insee="57634">Saulny</commune>, <commune insee="57642">Scy</commune>, <commune insee="57652">Sillegny</commune> et <commune insee="57751">Woippy</commune></localisation>, avec leurs annexes.</definition>
+    <definition>titre d’un archiprêtré qui comprenait les <localisation>paroisses d’<commune insee="57017" precision="approximatif">Amanvillers</commune>, <commune insee="57021" precision="approximatif">Ancy</commune>, <commune insee="57032" precision="approximatif">Ars-sur-Moselle</commune>, <commune insee="57039" precision="approximatif">Augny</commune>, <commune insee="57134" precision="approximatif">Châtel-Saint-Germain</commune>, <commune insee="57162" precision="approximatif">Cuvry</commune>, <commune insee="57350" precision="approximatif">Jouy</commune>, <commune insee="57352" precision="approximatif">Jussy</commune>, <commune insee="57396" precision="approximatif">Lessy</commune>, <commune insee="57415" precision="approximatif">Lorry-lez-Metz</commune>, <commune insee="57447" precision="approximatif">Marly</commune>, <commune insee="57487" precision="approximatif">Moulins-lez-Metz</commune>, <commune insee="57601" precision="approximatif">Rozérieulles</commune>, <commune insee="57634" precision="approximatif">Saulny</commune>, <commune insee="57642" precision="approximatif">Scy</commune>, <commune insee="57652" precision="approximatif">Sillegny</commune> et <commune insee="57751" precision="approximatif">Woippy</commune></localisation>, avec leurs annexes.</definition>
     <forme_ancienne>— <i>Archipresbiteratus de Valle,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-03391" pg="264">
@@ -30869,7 +30869,7 @@
   </article>
   <article id="DT57-03414" pg="267">
     <vedette><sm>Vathiménil,</sm></vedette>
-    <definition><typologie>maison</typologie> de la <localisation>paroisse de <commune insee="57128">Charleville</commune></localisation>.</definition>
+    <definition><typologie>maison</typologie> de la <localisation>paroisse de <commune insee="57128" precision="approximatif">Charleville</commune></localisation>.</definition>
     <forme_ancienne>— <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT57-03415" pg="267">
@@ -31766,7 +31766,7 @@
   </article>
   <article id="DT57-03489" pg="275">
     <vedette><sm>Voie Romaine</sm></vedette>
-    <definition>de <localisation><commune insee="51454">Reims</commune></localisation> à <localisation><commune insee="57463" precision="certain">Metz</commune></localisation> par <localisation><commune insee="54157">Scarpone</commune></localisation>, d’après la carte de Peutinger (<date><sm>iii</sm><sup>e</sup> siècle</date>) et l’itinéraire d’Antonin (<date><sm>iv</sm><sup>e</sup> siècle</date>).</definition>
+    <definition>de <localisation><commune insee="51454" precision="approximatif">Reims</commune></localisation> à <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation> par <localisation><commune insee="54157" precision="approximatif">Scarpone</commune></localisation>, d’après la carte de Peutinger (<date><sm>iii</sm><sup>e</sup> siècle</date>) et l’itinéraire d’Antonin (<date><sm>iv</sm><sup>e</sup> siècle</date>).</definition>
     <commentaire>
       <p><pg>276</pg>Route n° 3 de la <i>Commission de topographie des Gaules.</i> — De Chalon-sur-Saône à Bingen sur le Rhin.</p>
       <p>Première partie : de Scarpone à Metz.</p>
@@ -31810,7 +31810,7 @@
   <article id="DT57-03492" pg="277">
     <pg>277</pg>
     <vedette><sm>Voie romaine</sm></vedette>
-    <definition>de <localisation><commune insee="51454">Reims</commune></localisation> à <localisation><commune insee="57463" precision="certain">Metz</commune></localisation>.</definition>
+    <definition>de <localisation><commune insee="51454" precision="approximatif">Reims</commune></localisation> à <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation>.</definition>
     <commentaire>
       <p>Cette route existait au <date><sm>iii</sm><sup>e</sup> siècle</date>. Elle figure sur la carte de Peutinger.</p>
       <p>Route n° 6 de la <i>Commission de topographie des Gaules ;</i></p>
@@ -31826,7 +31826,7 @@
   </article>
   <article id="DT57-03493" pg="277">
     <vedette><sm>Voie romaine</sm></vedette>
-    <definition>de <localisation><commune insee="57463" precision="certain">Metz</commune></localisation> à <localisation><commune insee="67482">Strasbourg</commune></localisation>.</definition>
+    <definition>de <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation> à <localisation><commune insee="67482" precision="approximatif">Strasbourg</commune></localisation>.</definition>
     <commentaire>
       <p>Cette voie existait au <date><sm>iii</sm><sup>e</sup> siècle</date> : elle figure sur la carte de Peutinger.</p>
       <p>D’après la <i>Commission de topographie des Gaules,</i> même route que la précédente.</p>
@@ -31840,14 +31840,14 @@
   </article>
   <article id="DT57-03494" pg="277">
     <vedette><sm>Voie Romaine</sm></vedette>
-    <definition>de <localisation><commune insee="57463" precision="certain">Metz</commune></localisation> à <localisation><commune insee="67482">Strasbourg</commune></localisation>, second itinéraire.</definition>
+    <definition>de <localisation><commune insee="57463" precision="approximatif">Metz</commune></localisation> à <localisation><commune insee="67482" precision="approximatif">Strasbourg</commune></localisation>, second itinéraire.</definition>
     <commentaire>
       <p>Cette voie n’existait pas au <date><sm>iii</sm><sup>e</sup> siècle</date>, mais elle existe comme second tracé dans l’itinéraire du <date><sm>iv</sm><sup>e</sup> siècle</date>. Selon ce tracé, elle ne passe plus par Delme et ne présente pas de station intermédiaire entre <i>Divodurum</i> et <i>Decem pagi.</i> — Elle s’éloignait de la voie précédente à partir de Grigy, se dirigeait vers Mercy-lez-Metz, Ars-Laquenexy, Domangeville (où elle passait la Nied), le bois de Bazoncourt, Chanville, Arriance, Many, Chémery, Einchwiller, Boustroff, Willer et Gros-Tenquin ; de là elle se dirigeait vers Dieuze, en s’infléchissant fortement vers le sud. — Un embranchement, dont on retrouve des traces fort apparentes entre Kappelkinger et Steinbach, se dirigeait vers Kescastel et le pays de la Sarre. — Ce chemin est appelé <i>le Kem</i> dans la partie allemande qu’il traverse.</p>
     </commentaire>
   </article>
   <article id="DT57-03495" pg="277">
     <vedette><sm>Voie Romaine</sm></vedette>
-    <definition><localisation>de <commune insee="57463">Metz</commune> vers Mayence</localisation>, ou mieux, troisième itinéraire de Metz à Strasbourg par Sarrebrück, qui serait représenté par cette indication de l’itinéraire du <date><sm>iv</sm><sup>e</sup> siècle</date> : <i>Divodurum ; Pontem Sarvix XXIV ; Argentoratum XXII.</i></definition>
+    <definition><localisation>de <commune insee="57463" precision="approximatif">Metz</commune> vers Mayence</localisation>, ou mieux, troisième itinéraire de Metz à Strasbourg par Sarrebrück, qui serait représenté par cette indication de l’itinéraire du <date><sm>iv</sm><sup>e</sup> siècle</date> : <i>Divodurum ; Pontem Sarvix XXIV ; Argentoratum XXII.</i></definition>
     <commentaire>
       <p>Cette voie sortait de Metz par la porte Mazelle, franchissait la Seille et passait par la vallée du ruisseau de Vallières, à Noisseville, à Rétonfey, à Glatigny, aux Étangs, près de Pontigny, de Vaudoncourt et de Narbéfontaine, à Boucheporn, près de Hombourg-lez-Saint-Avold, à Cocheren, où l’on a retrouvé des traces d’un établissement romain important qu’on appelait <i>le Hiéraple.</i> La voie à partir de là paraît s’être dirigée, en se tenant à droite de Morsbach et de Forbach, vers Sarrebrück, au delà duquel on la retrouve.</p>
     </commentaire>
@@ -32109,7 +32109,7 @@
   </article>
   <article id="DT57-03517" pg="280">
     <vedette><sm>Waldeck (Forêt de),</sm></vedette>
-    <definition><typologie>forêt domaniale</typologie> de 2,272 hectares, située sur le <localisation>territoire des communes de <commune insee="57089">Bitche</commune> et d’<commune insee="57188">Éguelshardt</commune></localisation>.</definition>
+    <definition><typologie>forêt domaniale</typologie> de 2,272 hectares, située sur le <localisation>territoire des communes de <commune insee="57089" precision="approximatif">Bitche</commune> et d’<commune insee="57188" precision="approximatif">Éguelshardt</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-03518" pg="280">
     <vedette><sm>Waldhausen,</sm></vedette>
@@ -32174,7 +32174,7 @@
   </article>
   <article id="DT57-03524" pg="280">
     <vedette><sm>Walmestroff,</sm></vedette>
-    <definition><typologie>village</typologie>, <localisation>commune d’<commune insee="57191" precision="certain">Elzange</commune></localisation>, <localisation>près de la <commune insee="57079" precision="approximatif">Bibiche</commune></localisation>.</definition>
+    <definition><typologie>village</typologie>, <localisation>commune d’<commune insee="57191" precision="approximatif">Elzange</commune></localisation>, <localisation>près de la <commune insee="57079" precision="approximatif">Bibiche</commune></localisation>.</definition>
     <forme_ancienne>— <i>Walmmistorff, Walmstroff,</i> <date>1469</date> <reference>(cart. év. de M. IV)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Walmestorff,</i> <date>1632</date> <reference>(abb. Vill. liasse Luxemb.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Valmestorff,</i> <date>1632</date> <reference>(abb. Vill. liasse Luxemb.)</reference>.</forme_ancienne>
@@ -32341,7 +32341,7 @@
     <definition><typologie>maisons</typologie>, <localisation>commune de <commune insee="57546" precision="certain">Plesnois</commune></localisation>.</definition>
   </article>
   <article id="DT57-03537" pg="282">
-    <vedette><sm>Wasserbach</sm> ou <sm>Müllerbach (Ruisseau de).</sm></vedette>
+    <vedette><sm>Wasserbach ou Müllerbach (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Coule sur le territ. de la c<sup>ne</sup> de Soucht.</p>
     </commentaire>
@@ -32731,13 +32731,13 @@
     <insee>57746</insee>
   </article>
   <article id="DT57-03585" pg="285">
-    <vedette><sm>Willerwald</sm> n° 1 <sm>(Ruisseau de).</sm></vedette>
+    <vedette><sm>Willerwald n° 1 (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Prend sa source aux prés de Schottenhoff, traverse les c<sup>nes</sup> de Sarralbe et de Willerwald sur une longueur d’un kilom., entre dans le dép<sup>t</sup> du Bas-Rhin et tombe dans la Sarre près du moulin de Niederhan (Bas-Rhin).</p>
     </commentaire>
   </article>
   <article id="DT57-03586" pg="285">
-    <vedette><sm>Willerwald</sm> n° 2 <sm>(Ruisseau de).</sm></vedette>
+    <vedette><sm>Willerwald n° 2 (Ruisseau de).</sm></vedette>
     <commentaire>
       <p>— Prend sa source dans les prés de Heckenransbach, traverse les c<sup>nes</sup> de Heckenransbach, Grundwiller, Hambach, Willerwald, sur une longueur de 2 kilom., entre dans le dép<sup>t</sup> du Bas-Rhin et se jette dans la Sarre sur le ban de Herbitzheim.</p>
     </commentaire>
@@ -32762,7 +32762,7 @@
   </article>
   <article id="DT57-03591" pg="285">
     <vedette><sm>Wingnerdal,</sm></vedette>
-    <definition><typologie>village, aujourd’hui détruit</typologie> de l’anc. <localisation>paroisse de <commune insee="57413">Longeville-lez-Saint-Avold</commune></localisation>, <date>1681</date> (abbaye Longev. dénombr.).</definition>
+    <definition><typologie>village, aujourd’hui détruit</typologie> de l’anc. <localisation>paroisse de <commune insee="57413" precision="approximatif">Longeville-lez-Saint-Avold</commune></localisation>, <date>1681</date> (abbaye Longev. dénombr.).</definition>
   </article>
   <article id="DT57-03592" pg="285">
     <vedette><sm>Wingsberg,</sm></vedette>
@@ -32899,7 +32899,7 @@
     <insee>57749</insee>
   </article>
   <article id="DT57-03604" pg="286">
-    <vedette><sm>Woëvre (Pays de la)</sm> ou <sm>de la Woivre.</sm></vedette>
+    <vedette><sm>Woëvre (Pays de la) ou de la Woivre.</sm></vedette>
     <forme_ancienne>— <i>Pagus Vabrensis (Ad ripas Alisontiæ, Crunæ et Cari, Mosam inter et Mosellam),</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Greg. Tur. IX, notes D. Ruin.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Wabrensis, Quabrensis, Vafransis, Wabrensis, Wuaprensis pagus,</i> <date>636-856</date> <reference>(cart. Moy. Rhin, I, 10, 37, 76, 88, 260)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pagus Wabrensis,</i> <date>851</date> <reference>(cart. Gorze, t. LIV, p. 72)</reference>.</forme_ancienne>
@@ -33101,7 +33101,7 @@
   </article>
   <article id="DT57-03622" pg="288">
     <vedette><sm>Wualker (La Cour de),</sm></vedette>
-    <definition><typologie>fief</typologie> sur le <localisation>ban d’<commune insee="57683">Uckange</commune></localisation>, et faisant partie de la <localisation>seigneurie de Distroff</localisation> <reference>(<date>1681</date>, dénomb. 30 août)</reference>.</definition>
+    <definition><typologie>fief</typologie> sur le <localisation>ban d’<commune insee="57683" precision="approximatif">Uckange</commune></localisation>, et faisant partie de la <localisation>seigneurie de Distroff</localisation> <reference>(<date>1681</date>, dénomb. 30 août)</reference>.</definition>
   </article>
   <article id="DT57-03623" pg="288">
     <vedette><sm>Wurschingen,</sm></vedette>
@@ -33219,7 +33219,7 @@
     <insee>54599</insee>
   </article>
   <article id="DT57-03633" pg="289">
-    <vedette><sm>Yron</sm> ou <sm>Iron (Ruisseau d’).</sm></vedette>
+    <vedette><sm>Yron ou Iron (Ruisseau d’).</sm></vedette>
     <commentaire>
       <p>— Prend sa source dans les étangs de la Chaussée (Meuse), puis traverse les territ. d’Hannonville-au-Passage, Ville-sur-Yron, Ville-aux-Prés, Droitaumont (annexe de Jarny) et Conflans, où il se jette dans l’Orne.</p>
     </commentaire>
@@ -33277,18 +33277,18 @@
     </commentaire>
   </article>
   <article id="DT57-03638" pg="290">
-    <vedette><sm>Zand (La Cour de)</sm> ou <sm>d’Ezand,</sm></vedette>
-    <definition><typologie>seigneurie</typologie> mouvant du roi sur le <localisation>ban de <commune insee="57464">Metzeresche</commune></localisation> <reference>(<date>1681</date>, dénombr. 7 juil.)</reference>.</definition>
+    <vedette><sm>Zand (La Cour de) ou d’Ezand,</sm></vedette>
+    <definition><typologie>seigneurie</typologie> mouvant du roi sur le <localisation>ban de <commune insee="57464" precision="approximatif">Metzeresche</commune></localisation> <reference>(<date>1681</date>, dénombr. 7 juil.)</reference>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Metzeresche.</sm></renvoi></p>
     </commentaire>
   </article>
   <article id="DT57-03639" pg="290">
-    <vedette><sm>Zell</sm> ou <sm>Zellen (Pays de la).</sm></vedette>
+    <vedette><sm>Zell ou Zellen (Pays de la).</sm></vedette>
     <forme_ancienne>— <i>Zellekowe,</i> <date>1285</date> <reference>(ch. abb. Wadgasse, Kremer, Ard. Gesch. II, 374)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-03640" pg="290">
-    <vedette><sm>Zell</sm> ou <sm>Zellen (Ruisseau de)</sm> ou <sm>Zellenbach.</sm></vedette>
+    <vedette><sm>Zell ou Zellen (Ruisseau de) ou Zellenbach.</sm></vedette>
     <commentaire>
       <p>— Prend sa source près du château de Hellimer, traverse les c<sup>nes</sup> de Hellimer, Petit-Tenquin, Hilsprich, Kinger et Petit-Rohrbach, sur une longueur de 4 kilom., et se jette dans l’Albe.</p>
     </commentaire>

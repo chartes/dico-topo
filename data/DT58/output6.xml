@@ -28,7 +28,7 @@
   </article>
   <article id="DT58-00005" pg="1">
     <vedette><sm>Abron (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="03076" precision="certain">Chézy</commune></localisation> (Allier) et se jette dans l’Acolin, après avoir traversé les <localisation>communes de <commune insee="58146" precision="certain">Lucenay-les-Aix</commune>, <commune insee="58293" precision="certain">Toury-Lurcy</commune>, <commune insee="58241" precision="certain">Saint-Germain-Chassenay</commune> et <commune insee="58020" precision="certain">Avril</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="03076" precision="approximatif">Chézy</commune></localisation> (Allier) et se jette dans l’Acolin, après avoir traversé les <localisation>communes de <commune insee="58146" precision="approximatif">Lucenay-les-Aix</commune>, <commune insee="58293" precision="approximatif">Toury-Lurcy</commune>, <commune insee="58241" precision="approximatif">Saint-Germain-Chassenay</commune> et <commune insee="58020" precision="approximatif">Avril</commune></localisation>.</definition>
     <forme_ancienne>— <i>Abron,</i> <date>1281</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Abro,</i> <date>1388</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Habron,</i> <date>1512</date> <reference>(A. N.)</reference>.</forme_ancienne>
@@ -90,7 +90,7 @@
   </article>
   <article id="DT58-00016" pg="1">
     <vedette><sm>Acolin (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="03054" precision="certain">Chapeaux</commune></localisation> (Allier) et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58146" precision="certain">Lucenay-les-Aix</commune>, <commune insee="58087" precision="certain">Cossaye</commune>, <commune insee="58241" precision="certain">Saint-Germain-Chassenay</commune>, <commune insee="58020" precision="certain">Avril-sur-Loire</commune> et <commune insee="58095" precision="certain">Decize</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="03054" precision="approximatif">Chapeaux</commune></localisation> (Allier) et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58146" precision="approximatif">Lucenay-les-Aix</commune>, <commune insee="58087" precision="approximatif">Cossaye</commune>, <commune insee="58241" precision="approximatif">Saint-Germain-Chassenay</commune>, <commune insee="58020" precision="approximatif">Avril-sur-Loire</commune> et <commune insee="58095" precision="approximatif">Decize</commune></localisation>.</definition>
     <forme_ancienne>— <i>L’Acollin,</i> <date>1530</date> <reference>(A. D.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00017" pg="1">
@@ -100,7 +100,7 @@
   </article>
   <article id="DT58-00018" pg="1">
     <vedette><sm>Acotin (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, prend sa source dans la <localisation>commune de <commune insee="58236" precision="certain">Sainte-Colombe</commune></localisation> et se jette dans le Nohain, après avoir traversé la <localisation>commune de <commune insee="58281" precision="certain">Suilly-la-Tour</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie>, prend sa source dans la <localisation>commune de <commune insee="58236" precision="approximatif">Sainte-Colombe</commune></localisation> et se jette dans le Nohain, après avoir traversé la <localisation>commune de <commune insee="58281" precision="approximatif">Suilly-la-Tour</commune></localisation>.</definition>
   </article>
   <article id="DT58-00019" pg="1">
     <vedette><sm>Acroux,</sm></vedette>
@@ -156,7 +156,7 @@
   </article>
   <article id="DT58-00026" pg="2">
     <vedette><sm>Agles (Ruisseau des),</sm></vedette>
-    <definition>prend sa source dans l’<localisation>étang d’Ouroux</localisation>, <localisation>commune d’<commune insee="58205" precision="certain">Ouroux</commune></localisation>, et se jette dans la <localisation>rivière de Chalaux</localisation>, après avoir traversé la <localisation>commune de <commune insee="58037" precision="certain">Brassy</commune></localisation>.</definition>
+    <definition>prend sa source dans l’<localisation>étang d’Ouroux</localisation>, <localisation>commune d’<commune insee="58205" precision="approximatif">Ouroux</commune></localisation>, et se jette dans la <localisation>rivière de Chalaux</localisation>, après avoir traversé la <localisation>commune de <commune insee="58037" precision="approximatif">Brassy</commune></localisation>.</definition>
   </article>
   <article id="DT58-00027" pg="2">
     <vedette><sm>Agnon,</sm></vedette>
@@ -211,7 +211,7 @@
   </article>
   <article id="DT58-00036" pg="2">
     <vedette><sm>Aiguillon (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58094" precision="certain">Dampierre-sur-Bouhy</commune></localisation> et se jette dans la Vrille, après avoir traversé la <localisation>commune de <commune insee="58227" precision="certain">Saint-Amand</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58094" precision="approximatif">Dampierre-sur-Bouhy</commune></localisation> et se jette dans la Vrille, après avoir traversé la <localisation>commune de <commune insee="58227" precision="approximatif">Saint-Amand</commune></localisation>.</definition>
   </article>
   <article id="DT58-00037" pg="2">
     <vedette><sm>Ainay,</sm></vedette>
@@ -336,7 +336,7 @@
   </article>
   <article id="DT58-00058" pg="2">
     <vedette><sm>Alnain (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans l’<localisation>étang de Baye</localisation>, <localisation>commune de <commune insee="58024" precision="certain">Bazolles</commune></localisation>, et se jette dans l’Aron, après avoir traversé les <localisation>communes de <commune insee="58175" precision="certain">Mont-et-Marré</commune> et de <commune insee="58065" precision="certain">Mingot</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans l’<localisation>étang de Baye</localisation>, <localisation>commune de <commune insee="58024" precision="approximatif">Bazolles</commune></localisation>, et se jette dans l’Aron, après avoir traversé les <localisation>communes de <commune insee="58175" precision="approximatif">Mont-et-Marré</commune> et de <commune insee="58065" precision="approximatif">Mingot</commune></localisation>.</definition>
   </article>
   <article id="DT58-00059" pg="3">
     <pg>3</pg>
@@ -459,7 +459,7 @@
   </article>
   <article id="DT58-00079" pg="3">
     <vedette><sm>Angelot (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, prend sa source à la ferme du Magny, <localisation>commune de la <commune insee="58112" precision="certain">Fermeté</commune></localisation>, et se jette dans la Loire, après avoir traversé la <localisation>commune de <commune insee="58273" precision="certain">Sauvigny-les-Bois</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie>, prend sa source à la ferme du Magny, <localisation>commune de la <commune insee="58112" precision="approximatif">Fermeté</commune></localisation>, et se jette dans la Loire, après avoir traversé la <localisation>commune de <commune insee="58273" precision="approximatif">Sauvigny-les-Bois</commune></localisation>.</definition>
     <forme_ancienne>— <i>L’Harlaut</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00080" pg="3">
@@ -493,7 +493,7 @@
   </article>
   <article id="DT58-00086" pg="3">
     <vedette><sm>Anguison (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie>, prend sa source dans la <localisation>forêt d’<commune insee="58205">Ouroux</commune></localisation> et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58120" precision="certain">Gâcogne</commune>, <commune insee="58166" precision="certain">Mhère</commune>, <commune insee="58305" precision="certain">Vauclaix</commune>, <commune insee="58047" precision="certain">Cervon</commune>, <commune insee="58083" precision="certain">Corbigny</commune> et <commune insee="58075" precision="certain">Chitry-les-Mines</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>, prend sa source dans la <localisation>forêt d’<commune insee="58205" precision="approximatif">Ouroux</commune></localisation> et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58120" precision="approximatif">Gâcogne</commune>, <commune insee="58166" precision="approximatif">Mhère</commune>, <commune insee="58305" precision="approximatif">Vauclaix</commune>, <commune insee="58047" precision="approximatif">Cervon</commune>, <commune insee="58083" precision="approximatif">Corbigny</commune> et <commune insee="58075" precision="approximatif">Chitry-les-Mines</commune></localisation>.</definition>
     <forme_ancienne>— <i>Enguison,</i> <date>1450</date> <reference>(A. N.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00087" pg="3">
@@ -560,7 +560,7 @@
   </article>
   <article id="DT58-00094" pg="4">
     <vedette><sm>Ansin (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, prend sa source dans la <localisation>commune d’<commune insee="58205" precision="certain">Ouroux</commune></localisation> et se jette dans le <localisation>ruisseau de Minage</localisation>, après avoir traversé la <localisation>commune de <commune insee="58068" precision="certain">Chaumard</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie>, prend sa source dans la <localisation>commune d’<commune insee="58205" precision="approximatif">Ouroux</commune></localisation> et se jette dans le <localisation>ruisseau de Minage</localisation>, après avoir traversé la <localisation>commune de <commune insee="58068" precision="approximatif">Chaumard</commune></localisation>.</definition>
   </article>
   <article id="DT58-00095" pg="4" type="commune">
     <vedette><sm>Anthien,</sm></vedette>
@@ -836,7 +836,7 @@
   </article>
   <article id="DT58-00140" pg="5">
     <vedette><sm>Armance (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58190" precision="certain">Neuffontaines</commune></localisation> et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58197" precision="certain">Nuars</commune>, <commune insee="58288" precision="certain">Teigny</commune>, <commune insee="58165" precision="certain">Metz-le-Comte</commune>, la <commune insee="58154" precision="certain">Maison-Dieu</commune>, <commune insee="58039" precision="certain">Brèves</commune> et <commune insee="58103" precision="certain">Dornecy</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58190" precision="approximatif">Neuffontaines</commune></localisation> et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58197" precision="approximatif">Nuars</commune>, <commune insee="58288" precision="approximatif">Teigny</commune>, <commune insee="58165" precision="approximatif">Metz-le-Comte</commune>, la <commune insee="58154" precision="approximatif">Maison-Dieu</commune>, <commune insee="58039" precision="approximatif">Brèves</commune> et <commune insee="58103" precision="approximatif">Dornecy</commune></localisation>.</definition>
     <forme_ancienne>— <i>L’Armenet,</i> <date>1579</date> <reference>(terrier du Bouchet)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00141" pg="5">
@@ -876,14 +876,14 @@
   </article>
   <article id="DT58-00146" pg="5">
     <vedette><sm>Aron (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> a sa source dans la <localisation>commune de <commune insee="58092" precision="certain">Crux-la-Ville</commune></localisation> et se jette dans la Loire, <localisation>près de <commune insee="58095" precision="approximatif">Decize</commune></localisation>, après avoir arrosé les <localisation>communes de <commune insee="58171" precision="certain">Montapas</commune>, <commune insee="58065" precision="certain">Mingot</commune>, <commune insee="58065" precision="certain">Châtillon</commune>, <commune insee="58040" precision="certain">Brinay</commune>, <commune insee="58142" precision="certain">Limanton</commune>, <commune insee="58135" precision="certain">Isenay</commune>, <commune insee="58046" precision="certain">Cercy-la-Tour</commune>, <commune insee="58306" precision="certain">Verneuil</commune> et <commune insee="58055" precision="certain">Champvert</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> a sa source dans la <localisation>commune de <commune insee="58092" precision="approximatif">Crux-la-Ville</commune></localisation> et se jette dans la Loire, <localisation>près de <commune insee="58095" precision="approximatif">Decize</commune></localisation>, après avoir arrosé les <localisation>communes de <commune insee="58171" precision="approximatif">Montapas</commune>, <commune insee="58065" precision="approximatif">Mingot</commune>, <commune insee="58065" precision="approximatif">Châtillon</commune>, <commune insee="58040" precision="approximatif">Brinay</commune>, <commune insee="58142" precision="approximatif">Limanton</commune>, <commune insee="58135" precision="approximatif">Isenay</commune>, <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune>, <commune insee="58306" precision="approximatif">Verneuil</commune> et <commune insee="58055" precision="approximatif">Champvert</commune></localisation>.</definition>
     <forme_ancienne>— <i>Arronnum,</i> <date>1336</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Arron,</i> <date>1406</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Auron,</i> <date>1638</date> <reference>(Marolles)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00147" pg="5">
     <vedette><sm>Aron (L’)</sm> ou <sm>Ruisseau de Vaucreux,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> a sa source dans l’<localisation>étang de Ligny</localisation>, <localisation>commune de <commune insee="58092" precision="certain">Crux-la-Ville</commune></localisation>, et se jette dans le Beuvron, après avoir traversé les <localisation>communes de <commune insee="58266" precision="certain">Saint-Révérien</commune>, <commune insee="58191" precision="certain">Neuilly</commune> et <commune insee="58041" precision="certain">Brinon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> a sa source dans l’<localisation>étang de Ligny</localisation>, <localisation>commune de <commune insee="58092" precision="approximatif">Crux-la-Ville</commune></localisation>, et se jette dans le Beuvron, après avoir traversé les <localisation>communes de <commune insee="58266" precision="approximatif">Saint-Révérien</commune>, <commune insee="58191" precision="approximatif">Neuilly</commune> et <commune insee="58041" precision="approximatif">Brinon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rivière de Naully,</i> <date>1607</date> <reference>(A. N.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00148" pg="5" type="commune">
@@ -1232,7 +1232,7 @@
   </article>
   <article id="DT58-00201" pg="6">
     <vedette><sm>Aussois (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source à la <localisation>ferme de Moulinot</localisation>, dans la <localisation>commune de <commune insee="58145" precision="certain">Lormes</commune></localisation>, et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58047" precision="certain">Cervon</commune>, <commune insee="58083" precision="certain">Corbigny</commune>, <commune insee="58008" precision="certain">Anthien</commune> et <commune insee="58075" precision="certain">Chitry-les-Mines</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source à la <localisation>ferme de Moulinot</localisation>, dans la <localisation>commune de <commune insee="58145" precision="approximatif">Lormes</commune></localisation>, et se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58047" precision="approximatif">Cervon</commune>, <commune insee="58083" precision="approximatif">Corbigny</commune>, <commune insee="58008" precision="approximatif">Anthien</commune> et <commune insee="58075" precision="approximatif">Chitry-les-Mines</commune></localisation>.</definition>
   </article>
   <article id="DT58-00202" pg="7">
     <pg>7</pg>
@@ -1284,7 +1284,7 @@
   </article>
   <article id="DT58-00210" pg="7">
     <vedette><sm>Auxois (L’),</sm></vedette>
-    <definition><typologie>petite rivière formée</typologie>, dans la <localisation>commune de <commune insee="58145" precision="certain">Lormes</commune></localisation>, de la réunion des <localisation>ruisseaux du Goulot et de Cornillat</localisation> ; elle se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58153" precision="certain">Magny-Lormes</commune>, <commune insee="58083" precision="certain">Corbigny</commune> et <commune insee="58224" precision="certain">Ruages</commune></localisation>.</definition>
+    <definition><typologie>petite rivière formée</typologie>, dans la <localisation>commune de <commune insee="58145" precision="approximatif">Lormes</commune></localisation>, de la réunion des <localisation>ruisseaux du Goulot et de Cornillat</localisation> ; elle se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58153" precision="approximatif">Magny-Lormes</commune>, <commune insee="58083" precision="approximatif">Corbigny</commune> et <commune insee="58224" precision="approximatif">Ruages</commune></localisation>.</definition>
   </article>
   <article id="DT58-00211" pg="7">
     <vedette><sm>Auzon,</sm></vedette>
@@ -1292,7 +1292,7 @@
   </article>
   <article id="DT58-00212" pg="7">
     <vedette><sm>Auzon (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans le <localisation>département de l’Allier</localisation> et se jette dans l’Acolin, après avoir traversé les <localisation>communes de <commune insee="58146" precision="certain">Lucenay-les-Aix</commune> et <commune insee="58087" precision="certain">Cossaye</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans le <localisation>département de l’Allier</localisation> et se jette dans l’Acolin, après avoir traversé les <localisation>communes de <commune insee="58146" precision="approximatif">Lucenay-les-Aix</commune> et <commune insee="58087" precision="approximatif">Cossaye</commune></localisation>.</definition>
   </article>
   <article id="DT58-00213" pg="7">
     <vedette><sm>Avaigne,</sm></vedette>
@@ -1368,7 +1368,7 @@
   </article>
   <article id="DT58-00227" pg="7">
     <vedette><sm>Avril (Bois d’),</sm></vedette>
-    <definition><typologie>forêt</typologie>, <localisation>communes de <commune insee="58306" precision="certain">Verneuil</commune> et d’<commune insee="58097" precision="certain">Aubigny-le-Chétif</commune></localisation>.</definition>
+    <definition><typologie>forêt</typologie>, <localisation>communes de <commune insee="58306" precision="approximatif">Verneuil</commune> et d’<commune insee="58097" precision="approximatif">Aubigny-le-Chétif</commune></localisation>.</definition>
   </article>
   <article id="DT58-00228" pg="7">
     <vedette><sm>Avril-les-Loups,</sm></vedette>
@@ -1503,7 +1503,7 @@
   </article>
   <article id="DT58-00248" pg="8">
     <vedette><sm>Baie (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans les <localisation>étangs de la Baie et de Chanvé</localisation>, <localisation>commune de <commune insee="58034" precision="certain">Poussignol-Blismes</commune></localisation>, et se jette dans l’Yonne, après avoir traversé la <localisation>commune de <commune insee="58179" precision="certain">Montreuillon</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans les <localisation>étangs de la Baie et de Chanvé</localisation>, <localisation>commune de <commune insee="58034" precision="approximatif">Poussignol-Blismes</commune></localisation>, et se jette dans l’Yonne, après avoir traversé la <localisation>commune de <commune insee="58179" precision="approximatif">Montreuillon</commune></localisation>.</definition>
   </article>
   <article id="DT58-00249" pg="8">
     <vedette><sm>Bailli,</sm></vedette>
@@ -2093,7 +2093,7 @@
   </article>
   <article id="DT58-00372" pg="10">
     <vedette><sm>Baugouchon,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie> de la <localisation>paroisse de <commune insee="58060">Charrin</commune></localisation>, mentionné en <date>1763</date> parmi les fiefs de la châtellenie de Decize (A. D.).</definition>
+    <definition><typologie>lieu détruit</typologie> de la <localisation>paroisse de <commune insee="58060" precision="approximatif">Charrin</commune></localisation>, mentionné en <date>1763</date> parmi les fiefs de la châtellenie de Decize (A. D.).</definition>
     <forme_ancienne>— <i>Beaugacho,</i> <date>1489</date> <reference>(Marolles)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Beaugachon,</i> <date>1581</date> <reference>(Marolles)</reference>.</forme_ancienne>
   </article>
@@ -2162,7 +2162,7 @@
   </article>
   <article id="DT58-00386" pg="10">
     <vedette><sm>Bazay,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58142">Anisy</commune></localisation>, mentionné en <date>1500</date> (S.).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58142" precision="approximatif">Anisy</commune></localisation>, mentionné en <date>1500</date> (S.).</definition>
   </article>
   <article id="DT58-00387" pg="10" type="commune">
     <vedette><sm>Bazoches,</sm></vedette>
@@ -2371,7 +2371,7 @@
   </article>
   <article id="DT58-00420" pg="11">
     <vedette><sm>Beaulieu,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie> de la <localisation>paroisse de <commune insee="58148">Luthenay</commune></localisation>, anc. prieuré de l’ordre de Saint-Benoît dépendant du prieuré de Souvigny.</definition>
+    <definition><typologie>lieu détruit</typologie> de la <localisation>paroisse de <commune insee="58148" precision="approximatif">Luthenay</commune></localisation>, anc. prieuré de l’ordre de Saint-Benoît dépendant du prieuré de Souvigny.</definition>
     <forme_ancienne>— <i>Prioratus de Bello Loco,</i> <date>1478</date> <reference>(pouillé de Nevers)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00421" pg="11">
@@ -2730,7 +2730,7 @@
     <definition><typologie>maison de garde</typologie>, <localisation>commune d’<commune insee="58012" precision="certain">Arquian</commune></localisation>.</definition>
   </article>
   <article id="DT58-00491" pg="12">
-    <vedette><sm>Belleperche (Étangs</sm> et <sm>Ruisseau de),</sm></vedette>
+    <vedette><sm>Belleperche (Étangs et Ruisseau de),</sm></vedette>
     <definition><typologie>sources de l’Yonne</typologie>, <localisation>commune de <commune insee="58128" precision="certain">Glux</commune></localisation>.</definition>
   </article>
   <article id="DT58-00492" pg="12">
@@ -2814,7 +2814,7 @@
   </article>
   <article id="DT58-00508" pg="12">
     <vedette><sm>Belouze (La),</sm></vedette>
-    <definition><typologie>hameau</typologie> de la <localisation>paroisse d’<commune insee="58004">Alluye</commune></localisation>, mentionné en <date>1564</date> (C.).</definition>
+    <definition><typologie>hameau</typologie> de la <localisation>paroisse d’<commune insee="58004" precision="approximatif">Alluye</commune></localisation>, mentionné en <date>1564</date> (C.).</definition>
   </article>
   <article id="DT58-00509" pg="13">
     <pg>13</pg>
@@ -2836,7 +2836,7 @@
   </article>
   <article id="DT58-00513" pg="13">
     <vedette><sm>Belyart,</sm></vedette>
-    <definition><typologie>localité</typologie> de la <localisation>paroisse de <commune insee="58051">Challuy</commune></localisation>, mentionnée en <date>1259</date> (A. N.).</definition>
+    <definition><typologie>localité</typologie> de la <localisation>paroisse de <commune insee="58051" precision="approximatif">Challuy</commune></localisation>, mentionnée en <date>1259</date> (A. N.).</definition>
   </article>
   <article id="DT58-00514" pg="13">
     <vedette><sm>Benarderie (La),</sm></vedette>
@@ -2854,7 +2854,7 @@
   </article>
   <article id="DT58-00517" pg="13">
     <vedette><sm>Beraulx (Les),</sm></vedette>
-    <definition><typologie>ferme</typologie> de la <localisation>paroisse de <commune insee="58034">Blismes</commune></localisation>, mentionnée en <date>1477</date> (C.).</definition>
+    <definition><typologie>ferme</typologie> de la <localisation>paroisse de <commune insee="58034" precision="approximatif">Blismes</commune></localisation>, mentionnée en <date>1477</date> (C.).</definition>
   </article>
   <article id="DT58-00518" pg="13">
     <vedette><sm>Berberaut (Nemus de),</sm></vedette>
@@ -2932,7 +2932,7 @@
   </article>
   <article id="DT58-00535" pg="13">
     <vedette><sm>Bergerye (La),</sm></vedette>
-    <definition><typologie>hameau détruit</typologie> de la <localisation>paroisse de <commune insee="58191">Neuilly</commune></localisation>, mentionné en <date>1678</date> (A. N.).</definition>
+    <definition><typologie>hameau détruit</typologie> de la <localisation>paroisse de <commune insee="58191" precision="approximatif">Neuilly</commune></localisation>, mentionné en <date>1678</date> (A. N.).</definition>
   </article>
   <article id="DT58-00536" pg="13">
     <vedette><sm>Berges,</sm></vedette>
@@ -3137,7 +3137,7 @@
   </article>
   <article id="DT58-00576" pg="14">
     <vedette><sm>Bertrange (Bois de la),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58186" precision="certain">Murlin</commune> et de <commune insee="58189" precision="certain">Narcy</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58186" precision="approximatif">Murlin</commune> et de <commune insee="58189" precision="approximatif">Narcy</commune></localisation>.</definition>
   </article>
   <article id="DT58-00577" pg="14">
     <vedette><sm>Bertrange (La),</sm></vedette>
@@ -3217,7 +3217,7 @@
   </article>
   <article id="DT58-00589" pg="14">
     <vedette><sm>Bessonnat,</sm></vedette>
-    <definition><typologie>fief</typologie> de la paroisse et de la <localisation>châtellenie de <commune insee="58095">Decize</commune></localisation>, mentionnée en <date>1729</date> (A. D.).</definition>
+    <definition><typologie>fief</typologie> de la paroisse et de la <localisation>châtellenie de <commune insee="58095" precision="approximatif">Decize</commune></localisation>, mentionnée en <date>1729</date> (A. D.).</definition>
   </article>
   <article id="DT58-00590" pg="14">
     <vedette><sm>Bessons (Les),</sm></vedette>
@@ -3311,7 +3311,7 @@
   </article>
   <article id="DT58-00606" pg="15">
     <vedette><sm>Beuvray (Le),</sm></vedette>
-    <definition>l’une des plus hautes <typologie>montagnes</typologie> du <localisation>département de la Nièvre</localisation>, <localisation>communes de <commune insee="58128" precision="certain">Glux</commune> et de la <commune insee="58140" precision="certain">Roche-Millay</commune></localisation>, sur laquelle se trouvaient une chapelle, dédiée à saint Martin, et un couvent de Cordeliers, fondé au <date><sm>xiv</sm><sup>e</sup> siècle</date> et ruiné en <date>1538</date>.</definition>
+    <definition>l’une des plus hautes <typologie>montagnes</typologie> du <localisation>département de la Nièvre</localisation>, <localisation>communes de <commune insee="58128" precision="approximatif">Glux</commune> et de la <commune insee="58140" precision="approximatif">Roche-Millay</commune></localisation>, sur laquelle se trouvaient une chapelle, dédiée à saint Martin, et un couvent de Cordeliers, fondé au <date><sm>xiv</sm><sup>e</sup> siècle</date> et ruiné en <date>1538</date>.</definition>
     <commentaire>
       <p>Sur cette montagne se tenaient d’importantes foires.</p>
     </commentaire>
@@ -3335,7 +3335,7 @@
   </article>
   <article id="DT58-00608" pg="15">
     <vedette><sm>Beuvron (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58240" precision="certain">Saint-Franchy</commune></localisation> et se jette dans l’Yonne (rive gauche), après avoir traversé les <localisation>communes de <commune insee="58191" precision="certain">Neuilly</commune>, <commune insee="58041" precision="certain">Brinon</commune>, <commune insee="58283" precision="certain">Neuville</commune>, <commune insee="58029" precision="certain">Beuvron</commune>, <commune insee="58241" precision="certain">Saint-Germain</commune>, <commune insee="58200" precision="certain">Ouagne</commune>, <commune insee="58222" precision="certain">Rix</commune> et <commune insee="58079" precision="certain">Clamecy</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58240" precision="approximatif">Saint-Franchy</commune></localisation> et se jette dans l’Yonne (rive gauche), après avoir traversé les <localisation>communes de <commune insee="58191" precision="approximatif">Neuilly</commune>, <commune insee="58041" precision="approximatif">Brinon</commune>, <commune insee="58283" precision="approximatif">Neuville</commune>, <commune insee="58029" precision="approximatif">Beuvron</commune>, <commune insee="58241" precision="approximatif">Saint-Germain</commune>, <commune insee="58200" precision="approximatif">Ouagne</commune>, <commune insee="58222" precision="approximatif">Rix</commune> et <commune insee="58079" precision="approximatif">Clamecy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rivière de Beuvron,</i> <date>1501</date> <reference>(inv. de Villemoison)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00609" pg="15">
@@ -3348,7 +3348,7 @@
   </article>
   <article id="DT58-00611" pg="15">
     <vedette><sm>Bèze,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58169">Moissy-Molinet</commune></localisation> et de la <localisation>châtellenie de Monceaux-le-Comte</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58169" precision="approximatif">Moissy-Molinet</commune></localisation> et de la <localisation>châtellenie de Monceaux-le-Comte</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
   </article>
   <article id="DT58-00612" pg="15">
     <vedette><sm>Biat,</sm></vedette>
@@ -5710,7 +5710,7 @@
   </article>
   <article id="DT58-01095" pg="24">
     <vedette><sm>Bouthière (La),</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="58277" precision="certain">Sermages</commune></localisation>, mentionné en <date>1689</date> (reg. des fiefs) ; <typologie>châtellenie</typologie> de <localisation><commune insee="58182" precision="certain">Moulins-Engilbert</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="58277" precision="approximatif">Sermages</commune></localisation>, mentionné en <date>1689</date> (reg. des fiefs) ; <typologie>châtellenie</typologie> de <localisation><commune insee="58182" precision="approximatif">Moulins-Engilbert</commune></localisation>.</definition>
   </article>
   <article id="DT58-01096" pg="24">
     <vedette><sm>Boutibeau,</sm></vedette>
@@ -5784,7 +5784,7 @@
   </article>
   <article id="DT58-01110" pg="24">
     <vedette><sm>Branjame (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58145" precision="certain">Lormes</commune></localisation> et se jette dans la Cure, après avoir traversé les <localisation>communes d’<commune insee="58108" precision="certain">Empury</commune> et de <commune insee="58229" precision="certain">Saint-André</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58145" precision="approximatif">Lormes</commune></localisation> et se jette dans la Cure, après avoir traversé les <localisation>communes d’<commune insee="58108" precision="approximatif">Empury</commune> et de <commune insee="58229" precision="approximatif">Saint-André</commune></localisation>.</definition>
   </article>
   <article id="DT58-01111" pg="24">
     <vedette><sm>Branlasses (Les),</sm></vedette>
@@ -5792,7 +5792,7 @@
   </article>
   <article id="DT58-01112" pg="24">
     <vedette><sm>Branlesse (Forêt de la),</sm></vedette>
-    <definition><localisation>communes d’<commune insee="58010" precision="certain">Arleuf</commune> et de <commune insee="58082" precision="certain">Corancy</commune></localisation>.</definition>
+    <definition><localisation>communes d’<commune insee="58010" precision="approximatif">Arleuf</commune> et de <commune insee="58082" precision="approximatif">Corancy</commune></localisation>.</definition>
   </article>
   <article id="DT58-01113" pg="24">
     <vedette><sm>Bras-de-Fer,</sm></vedette>
@@ -6205,7 +6205,7 @@
   </article>
   <article id="DT58-01194" pg="25">
     <vedette><sm>Briname (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58255" precision="certain">Saint-Martin-du-Puits</commune></localisation>, et se jette dans la Cure, <localisation>près de <commune insee="89145">Domecy</commune> (Yonne)</localisation>, après avoir traversé les <localisation>communes d’<commune insee="58108" precision="certain">Empury</commune> et de <commune insee="58023" precision="certain">Bazoches</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58255" precision="approximatif">Saint-Martin-du-Puits</commune></localisation>, et se jette dans la Cure, <localisation>près de <commune insee="89145" precision="approximatif">Domecy</commune> (Yonne)</localisation>, après avoir traversé les <localisation>communes d’<commune insee="58108" precision="approximatif">Empury</commune> et de <commune insee="58023" precision="approximatif">Bazoches</commune></localisation>.</definition>
   </article>
   <article id="DT58-01195" pg="25" type="commune">
     <vedette><sm>Brinay,</sm></vedette>
@@ -6621,7 +6621,7 @@
   </article>
   <article id="DT58-01274" pg="27">
     <vedette><sm>Bruit (Ruisseau du),</sm></vedette>
-    <definition>affluent de l’Yonne, traverse les <localisation>communes de <commune insee="58177" precision="certain">Montigny-en-Morvand</commune> et de <commune insee="58179" precision="certain">Montreuillon</commune></localisation>.</definition>
+    <definition>affluent de l’Yonne, traverse les <localisation>communes de <commune insee="58177" precision="approximatif">Montigny-en-Morvand</commune> et de <commune insee="58179" precision="approximatif">Montreuillon</commune></localisation>.</definition>
   </article>
   <article id="DT58-01275" pg="27">
     <vedette><sm>Brûlats (Les),</sm></vedette>
@@ -6898,11 +6898,11 @@
   </article>
   <article id="DT58-01333" pg="28">
     <vedette><sm>Bruyères-Sebaud (Les),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58104" precision="certain">Dornes</commune> et de <commune insee="58259" precision="certain">Saint-Parize-en-Viry</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58104" precision="approximatif">Dornes</commune> et de <commune insee="58259" precision="approximatif">Saint-Parize-en-Viry</commune></localisation>.</definition>
   </article>
   <article id="DT58-01334" pg="28">
     <vedette><sm>Bruyères-Voidoux (Les),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58146" precision="certain">Lucenay-les-Aix</commune> et de <commune insee="58293" precision="certain">Toury-Lurcy</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58146" precision="approximatif">Lucenay-les-Aix</commune> et de <commune insee="58293" precision="approximatif">Toury-Lurcy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Nemus de Vesdor,</i> <date>1231</date> <reference>(A. D. ch. du prieuré de Lucenay-les-Aix)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Loges de Voidoux,</i> <date>1778</date> <reference>(plan de la seigneurie de Toury-sur-Abron)</reference>.</forme_ancienne>
   </article>
@@ -7064,7 +7064,7 @@
   </article>
   <article id="DT58-01366" pg="28">
     <vedette><sm>Bulvin (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58274" precision="certain">Savigny-Poil-Fol</commune></localisation> et se jette dans l’Haleine, après avoir traversé la <localisation>commune de <commune insee="58221" precision="certain">Rémilly</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> prend sa source dans la <localisation>commune de <commune insee="58274" precision="approximatif">Savigny-Poil-Fol</commune></localisation> et se jette dans l’Haleine, après avoir traversé la <localisation>commune de <commune insee="58221" precision="approximatif">Rémilly</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vellerin,</i> <date>1497</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Beullevain,</i> <date>1530</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bullevin,</i> <date>1659</date> <reference>(C.)</reference>.</forme_ancienne>
@@ -7101,7 +7101,7 @@
   </article>
   <article id="DT58-01374" pg="29">
     <vedette><sm>Buson (Bois de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58074" precision="certain">Chiddes</commune> et de la <commune insee="58140" precision="certain">Roche-Millay</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58074" precision="approximatif">Chiddes</commune> et de la <commune insee="58140" precision="approximatif">Roche-Millay</commune></localisation>.</definition>
   </article>
   <article id="DT58-01375" pg="29">
     <vedette><sm>Busseaux,</sm></vedette>
@@ -7180,7 +7180,7 @@
     <forme_ancienne>— <date>1703</date> <reference>(reg. de Lormes)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-01386" pg="29">
-    <vedette><sm>Bussière (La Grande</sm> et <sm>la Petite),</sm></vedette>
+    <vedette><sm>Bussière (La Grande et la Petite),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="58121" precision="certain">Garchizy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Territorium de Buxeria,</i> <date>1374</date> <reference>(A. N. fonds de Saint-Arigle)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Molendum de Busseria apud Busseriam,</i> <date>1390</date> <reference>(A. N. fonds de l’év.)</reference>.</forme_ancienne>
@@ -7393,7 +7393,7 @@
   </article>
   <article id="DT58-01423" pg="30">
     <vedette><sm>Caillonnerie (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="58134" precision="certain">Imphy</commune> et de <commune insee="58273" precision="certain">Sauvigny-les-Bois</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="58134" precision="approximatif">Imphy</commune> et de <commune insee="58273" precision="approximatif">Sauvigny-les-Bois</commune></localisation>.</definition>
   </article>
   <article id="DT58-01424" pg="30">
     <vedette><sm>Caillons (Les),</sm></vedette>
@@ -7495,7 +7495,7 @@
   </article>
   <article id="DT58-01443" pg="30">
     <vedette><sm>Canne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58253" precision="certain">Sainte-Marie</commune></localisation> et se jette dans l’Aron, <localisation>près de <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>, après avoir arrosé les <localisation>communes de <commune insee="58136" precision="certain">Jailly</commune>, <commune insee="58267" precision="certain">Saint-Saulge</commune>, <commune insee="58275" precision="certain">Saxy-Bourdon</commune>, <commune insee="58223" precision="certain">Rouy</commune>, <commune insee="58292" precision="certain">Fleury-la-Tour</commune>, <commune insee="58299" precision="certain">Crécy-sur-Canne</commune>, <commune insee="58113" precision="certain">Saint-Cy</commune>, <commune insee="58178" precision="certain">Montigny-sur-Canne</commune>, <commune insee="58243" precision="certain">Saint-Gratien-Savigny</commune> et <commune insee="58046" precision="certain">Cercy-la-Tour</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58253" precision="approximatif">Sainte-Marie</commune></localisation> et se jette dans l’Aron, <localisation>près de <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>, après avoir arrosé les <localisation>communes de <commune insee="58136" precision="approximatif">Jailly</commune>, <commune insee="58267" precision="approximatif">Saint-Saulge</commune>, <commune insee="58275" precision="approximatif">Saxy-Bourdon</commune>, <commune insee="58223" precision="approximatif">Rouy</commune>, <commune insee="58292" precision="approximatif">Fleury-la-Tour</commune>, <commune insee="58299" precision="approximatif">Crécy-sur-Canne</commune>, <commune insee="58113" precision="approximatif">Saint-Cy</commune>, <commune insee="58178" precision="approximatif">Montigny-sur-Canne</commune>, <commune insee="58243" precision="approximatif">Saint-Gratien-Savigny</commune> et <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>.</definition>
     <forme_ancienne>— <i>Caula,</i> <date>1342</date> <reference>(A. D.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Canne,</i> <date>1395</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Queusne,</i> <date>1452</date> <reference>(A. N.)</reference>.</forme_ancienne>
@@ -7514,7 +7514,7 @@
     <definition><typologie>maison détruite</typologie>, <localisation>commune de <commune insee="58095" precision="certain">Decize</commune></localisation>, portée sur la carte de Cassini.</definition>
   </article>
   <article id="DT58-01447" pg="30">
-    <vedette><sm>Capella Mortuorum</sm> <i>alias</i> <sm>des Folz,</sm></vedette>
+    <vedette><sm>Capella Mortuorum <i>alias</i> des Folz,</sm></vedette>
     <definition><localisation>près de <commune insee="58112" precision="approximatif">Prie</commune></localisation>, mentionnée en <date>1518</date> (pouillé de Nevers).</definition>
   </article>
   <article id="DT58-01448" pg="30">
@@ -7550,7 +7550,7 @@
   </article>
   <article id="DT58-01455" pg="31">
     <vedette><sm>Care (La),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58301">Vandenesse</commune></localisation>.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58301" precision="certain">Vandenesse</commune></localisation>.</definition>
   </article>
   <article id="DT58-01456" pg="31">
     <vedette><sm>Carejots (Les),</sm></vedette>
@@ -7615,7 +7615,7 @@
   </article>
   <article id="DT58-01470" pg="31">
     <vedette><sm>Carrége (Le),</sm></vedette>
-    <definition><typologie>hameau</typologie>, dép. du <localisation>bourg de <commune insee="58279">Sichamps</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, dép. du <localisation>bourg de <commune insee="58279" precision="certain">Sichamps</commune></localisation>.</definition>
   </article>
   <article id="DT58-01471" pg="31">
     <vedette><sm>Carré-la-Rose,</sm></vedette>
@@ -7669,7 +7669,7 @@
   </article>
   <article id="DT58-01483" pg="31">
     <vedette><sm>Carrouge-au-Loup,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, <localisation>entre <commune insee="58121">Garchizy</commune> et <commune insee="58214">Pougues</commune></localisation>, mentionné en <date>1462</date> (A. N. fonds du chap.).</definition>
+    <definition><typologie>lieu détruit</typologie>, <localisation>entre <commune insee="58121" precision="approximatif">Garchizy</commune> et <commune insee="58214" precision="approximatif">Pougues</commune></localisation>, mentionné en <date>1462</date> (A. N. fonds du chap.).</definition>
     <forme_ancienne>— <i>Terra dou Quarruge,</i> <date>1331</date> <reference>(censier du chap. de Nevers)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Carroge,</i> <date>1602</date> <reference>(S.)</reference>.</forme_ancienne>
   </article>
@@ -7959,7 +7959,7 @@
   </article>
   <article id="DT58-01533" pg="32">
     <vedette><sm>Chael (Villa),</sm></vedette>
-    <definition><localisation>près <commune insee="58086">Cosne</commune></localisation>, mentionnée au <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, t. I, p. 425)</reference>.</definition>
+    <definition><localisation>près <commune insee="58086" precision="approximatif">Cosne</commune></localisation>, mentionnée au <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, t. I, p. 425)</reference>.</definition>
   </article>
   <article id="DT58-01534" pg="32">
     <vedette><sm>Chagnette (La),</sm></vedette>
@@ -8014,7 +8014,7 @@
     <definition><typologie>lieu détruit</typologie>, <localisation>près d’<commune insee="58300" precision="certain">Urzy</commune></localisation>, mentionné en <date>1324</date> (arch. des Bordes).</definition>
   </article>
   <article id="DT58-01543" pg="32">
-    <vedette><sm>Chaillou (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Chaillou (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>hameau et ferme</typologie>, <localisation>commune de <commune insee="58218" precision="certain">Prémery</commune></localisation>.</definition>
     <forme_ancienne>— <i>Chaillo,</i> <date>1402</date> <reference>(A. N. fonds de l’év.)</reference>.</forme_ancienne>
   </article>
@@ -8255,7 +8255,7 @@
   </article>
   <article id="DT58-01579" pg="33">
     <vedette><sm>Chalonière (La),</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58046">Cercy-la-Tour</commune></localisation>, mentionné en <date>1779</date> comme étant de la châtellenie de Decize (A. D.).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>, mentionné en <date>1779</date> comme étant de la châtellenie de Decize (A. D.).</definition>
   </article>
   <article id="DT58-01580" pg="33">
     <vedette><sm>Châlons-les-Coques,</sm></vedette>
@@ -8682,7 +8682,7 @@
   </article>
   <article id="DT58-01651" pg="35">
     <vedette><sm>Champclos,</sm></vedette>
-    <definition><typologie>maison</typologie>, dép. du <localisation>bourg de <commune insee="58246">Saint-Honoré</commune></localisation> ; anc. fief vassal de la Montagne.</definition>
+    <definition><typologie>maison</typologie>, dép. du <localisation>bourg de <commune insee="58246" precision="certain">Saint-Honoré</commune></localisation> ; anc. fief vassal de la Montagne.</definition>
   </article>
   <article id="DT58-01652" pg="35">
     <vedette><sm>Champ-Cognard (Le),</sm></vedette>
@@ -9014,7 +9014,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="58180" precision="certain">Montsauche</commune></localisation>.</definition>
   </article>
   <article id="DT58-01721" pg="36">
-    <vedette><sm>Champignolle (Le Bas</sm> et <sm>le Haut),</sm></vedette>
+    <vedette><sm>Champignolle (Le Bas et le Haut),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58023" precision="certain">Bazoches</commune></localisation>.</definition>
     <forme_ancienne>— <i>Champignol,</i> <date>1687</date> <reference>(reg. des fiefs)</reference>.</forme_ancienne>
     <commentaire>
@@ -10041,7 +10041,7 @@
   </article>
   <article id="DT58-01920" pg="40">
     <vedette><sm>Charnouveau (Forêt de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58234" precision="certain">Saint-Bonnot</commune> et de <commune insee="58053" precision="certain">Champlemy</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58234" precision="approximatif">Saint-Bonnot</commune> et de <commune insee="58053" precision="approximatif">Champlemy</commune></localisation>.</definition>
   </article>
   <article id="DT58-01921" pg="40">
     <vedette><sm>Charnoy,</sm></vedette>
@@ -10689,11 +10689,11 @@
   </article>
   <article id="DT58-02034" pg="43">
     <vedette><sm>Châtillon (Forêt de),</sm></vedette>
-    <definition>s’étend dans les <localisation>communes de la <commune insee="58140" precision="certain">Roche-Millay</commune> et de <commune insee="58309" precision="certain">Villapourçon</commune></localisation>.</definition>
+    <definition>s’étend dans les <localisation>communes de la <commune insee="58140" precision="approximatif">Roche-Millay</commune> et de <commune insee="58309" precision="approximatif">Villapourçon</commune></localisation>.</definition>
   </article>
   <article id="DT58-02035" pg="43">
     <vedette><sm>Châtillon (Ruisseau de),</sm></vedette>
-    <definition>se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58050" precision="certain">Challement</commune>, de <commune insee="58098" precision="certain">Dirol</commune> et de <commune insee="58150" precision="certain">Lys</commune></localisation>.</definition>
+    <definition>se jette dans l’Yonne, après avoir traversé les <localisation>communes de <commune insee="58050" precision="approximatif">Challement</commune>, de <commune insee="58098" precision="approximatif">Dirol</commune> et de <commune insee="58150" precision="approximatif">Lys</commune></localisation>.</definition>
   </article>
   <article id="DT58-02036" pg="43" type="commune">
     <vedette><sm>Châtillon-en-Bazois,</sm></vedette>
@@ -11685,7 +11685,7 @@
   </article>
   <article id="DT58-2229bis" pg="47">
     <vedette><sm>Chemin Brunechon (Le),</sm></vedette>
-    <definition><typologie>chemin</typologie>, allant de <localisation><commune insee="58264">Saint-Pierre-Le-Moûtier</commune></localisation> à Langeron, mentionné en 1544 <reference>(arch. de Saint-Pierre-Le-Moûtier)</reference>.</definition>
+    <definition><typologie>chemin</typologie>, allant de <localisation><commune insee="58264" precision="approximatif">Saint-Pierre-Le-Moûtier</commune></localisation> à Langeron, mentionné en 1544 <reference>(arch. de Saint-Pierre-Le-Moûtier)</reference>.</definition>
   </article>
   <article id="DT58-02230" pg="47">
     <vedette><sm>Chemin-de-Fer (Le),</sm></vedette>
@@ -11697,7 +11697,7 @@
   </article>
   <article id="DT58-02232" pg="47">
     <vedette><sm>Chemyn de la royne Burnichede,</sm></vedette>
-    <definition><typologie>chemin</typologie> de <localisation><commune insee="58062" precision="certain">Château-Chinon</commune></localisation> à <localisation><commune insee="58301" precision="certain">Vandenesse</commune></localisation>, passant par <localisation><commune insee="58249" precision="certain">Saint-Léger-de-Fougeret</commune></localisation>, mentionné en <date>1451</date> (arch. de Vandenesse, terrier de Commagny).</definition>
+    <definition><typologie>chemin</typologie> de <localisation><commune insee="58062" precision="approximatif">Château-Chinon</commune></localisation> à <localisation><commune insee="58301" precision="approximatif">Vandenesse</commune></localisation>, passant par <localisation><commune insee="58249" precision="approximatif">Saint-Léger-de-Fougeret</commune></localisation>, mentionné en <date>1451</date> (arch. de Vandenesse, terrier de Commagny).</definition>
     <forme_ancienne>— <i>Le grand chemin real que fit faire feu de bonne memoire pour le temps qu’elle vivoyt la royne Burnichede ; le pavé de la Burnichede</i> <reference>(arch. de Vandenesse, terrier de Commagny)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-02233" pg="47">
@@ -12123,7 +12123,7 @@
   </article>
   <article id="DT58-02309" pg="49">
     <vedette><sm>Chèvres,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> affluent de l’Aron, traverse les <localisation>communes de <commune insee="58276" precision="certain">Sémelay</commune> et de <commune insee="58173" precision="certain">Montaron</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> affluent de l’Aron, traverse les <localisation>communes de <commune insee="58276" precision="approximatif">Sémelay</commune> et de <commune insee="58173" precision="approximatif">Montaron</commune></localisation>.</definition>
   </article>
   <article id="DT58-02310" pg="49">
     <vedette><sm>Chèvres (Les),</sm></vedette>
@@ -12680,7 +12680,7 @@
   </article>
   <article id="DT58-02412" pg="51">
     <vedette><sm>Cirot,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> affluent du Beuvron, traverse les <localisation>communes de <commune insee="58029" precision="certain">Beuvron</commune> et de <commune insee="58093" precision="certain">Cuncy-lez-Varzy</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> affluent du Beuvron, traverse les <localisation>communes de <commune insee="58029" precision="approximatif">Beuvron</commune> et de <commune insee="58093" precision="approximatif">Cuncy-lez-Varzy</commune></localisation>.</definition>
   </article>
   <article id="DT58-02413" pg="51">
     <vedette><sm>Ciseau,</sm></vedette>
@@ -13054,7 +13054,7 @@
   </article>
   <article id="DT58-02484" pg="52">
     <vedette><sm>Colâtre (La),</sm></vedette>
-    <definition><typologie>rivière</typologie>, prend sa source dans les étangs du Perray, <localisation>commune d’<commune insee="58021" precision="certain">Azy-le-Vif</commune></localisation>, et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58148" precision="certain">Luthenay-Uxeloup</commune> et <commune insee="58072" precision="certain">Chevenon-Jaugenay</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>, prend sa source dans les étangs du Perray, <localisation>commune d’<commune insee="58021" precision="approximatif">Azy-le-Vif</commune></localisation>, et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58148" precision="approximatif">Luthenay-Uxeloup</commune> et <commune insee="58072" precision="approximatif">Chevenon-Jaugenay</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rippia de la Colatre,</i> <date>1315</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riviere Dacolastre,</i> <date>1431</date> <reference>(A. N.)</reference>.</forme_ancienne>
   </article>
@@ -13693,7 +13693,7 @@
   </article>
   <article id="DT58-02605" pg="55">
     <vedette><sm>Cornot (Ruisseau de),</sm></vedette>
-    <definition>prend sa source dans la <localisation>commune de <commune insee="58132" precision="certain">Guipy</commune></localisation> et se jette dans le Beuvron, après avoir traversé les <localisation>communes de <commune insee="58100" precision="certain">Dompierre-sur-Héry</commune>, <commune insee="58181" precision="certain">Moraches</commune>, <commune insee="58283" precision="certain">Neuville</commune> et <commune insee="58041" precision="certain">Brinon</commune></localisation>.</definition>
+    <definition>prend sa source dans la <localisation>commune de <commune insee="58132" precision="approximatif">Guipy</commune></localisation> et se jette dans le Beuvron, après avoir traversé les <localisation>communes de <commune insee="58100" precision="approximatif">Dompierre-sur-Héry</commune>, <commune insee="58181" precision="approximatif">Moraches</commune>, <commune insee="58283" precision="approximatif">Neuville</commune> et <commune insee="58041" precision="approximatif">Brinon</commune></localisation>.</definition>
   </article>
   <article id="DT58-02606" pg="55">
     <vedette><sm>Cortillats (Les),</sm></vedette>
@@ -13779,7 +13779,7 @@
   </article>
   <article id="DT58-02614" pg="56">
     <vedette><sm>Cossay,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58290">Thaix</commune></localisation>, mentionné en <date>1760</date> (A. D.).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58290" precision="approximatif">Thaix</commune></localisation>, mentionné en <date>1760</date> (A. D.).</definition>
   </article>
   <article id="DT58-02615" pg="56" type="commune">
     <vedette><sm>Cossaye,</sm></vedette>
@@ -13858,7 +13858,7 @@
   </article>
   <article id="DT58-02627" pg="56">
     <vedette><sm>Coudray,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58022">Balleray</commune></localisation>, mentionné en <date>1689</date>.</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58022" precision="approximatif">Balleray</commune></localisation>, mentionné en <date>1689</date>.</definition>
   </article>
   <article id="DT58-02628" pg="56">
     <vedette><sm>Coudray (Bois du),</sm></vedette>
@@ -14230,7 +14230,7 @@
   </article>
   <article id="DT58-02688" pg="57">
     <vedette><sm>Courcier (Bois de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58218" precision="certain">Prémery</commune>, <commune insee="58279" precision="certain">Sichamps</commune> et <commune insee="58027" precision="certain">Beaumont-la-Ferrière</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58218" precision="approximatif">Prémery</commune>, <commune insee="58279" precision="approximatif">Sichamps</commune> et <commune insee="58027" precision="approximatif">Beaumont-la-Ferrière</commune></localisation>.</definition>
   </article>
   <article id="DT58-02689" pg="57">
     <vedette><sm>Cour-des-Laigrets (La),</sm></vedette>
@@ -14692,7 +14692,7 @@
   </article>
   <article id="DT58-02774" pg="59">
     <vedette><sm>Cressonne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans l’<localisation>étang de la <commune insee="58289">Loge</commune></localisation> et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58268" precision="certain">Saint-Seine</commune>, <commune insee="58195" precision="certain">Maulaix</commune>, <commune insee="58172" precision="certain">Montambert-Tannay</commune> et <commune insee="58245" precision="certain">Saint-Hilaire</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans l’<localisation>étang de la <commune insee="58289" precision="approximatif">Loge</commune></localisation> et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58268" precision="approximatif">Saint-Seine</commune>, <commune insee="58195" precision="approximatif">Maulaix</commune>, <commune insee="58172" precision="approximatif">Montambert-Tannay</commune> et <commune insee="58245" precision="approximatif">Saint-Hilaire</commune></localisation>.</definition>
     <forme_ancienne>— <i>Pont de Cressonne,</i> <date>1453</date> <reference>(A. N. procès-verbal des limites du Nivernais)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-02775" pg="59">
@@ -14846,7 +14846,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58060" precision="certain">Charrin</commune></localisation>.</definition>
   </article>
   <article id="DT58-02806" pg="60">
-    <vedette><sm>Crezan (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Crezan (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>maison de campagne et ferme</typologie>, <localisation>commune de <commune insee="58102" precision="certain">Donzy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Les Cresans</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
@@ -14956,7 +14956,7 @@
   </article>
   <article id="DT58-02829" pg="60">
     <vedette><sm>Croix (La),</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58305">Vauclaix</commune></localisation> et de la <localisation>châtellenie de Montreuillon</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58305" precision="approximatif">Vauclaix</commune></localisation> et de la <localisation>châtellenie de Montreuillon</localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
     <forme_ancienne>— <i>La Croix de Tartre,</i> <date>1705</date> <reference>(S.)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Ce fief était vassal du comté de Château-Chinon.</p>
@@ -15273,11 +15273,11 @@
   </article>
   <article id="DT58-02903" pg="61">
     <vedette><sm>Crot-d’Achun (Le),</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58001">Achun</commune></localisation>, mentionné en <date>1444</date> (Lory).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58001" precision="approximatif">Achun</commune></localisation>, mentionné en <date>1444</date> (Lory).</definition>
   </article>
   <article id="DT58-02904" pg="61">
     <vedette><sm>Crot-d’Achun (Le),</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58008">Anthien</commune></localisation>, vassal du comté de Château-Chinon, à cause de Lormes, mentionné en <date>1703</date> (A. N.).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse d’<commune insee="58008" precision="approximatif">Anthien</commune></localisation>, vassal du comté de Château-Chinon, à cause de Lormes, mentionné en <date>1703</date> (A. N.).</definition>
   </article>
   <article id="DT58-02905" pg="61">
     <vedette><sm>Crot-de-Foudraulx (Le),</sm></vedette>
@@ -15314,7 +15314,7 @@
   </article>
   <article id="DT58-02912" pg="61">
     <vedette><sm>Crot-d’Ourouer (Le),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204">Ourouer</commune></localisation>, commune de ce nom.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204" precision="certain">Ourouer</commune></localisation>, commune de ce nom.</definition>
   </article>
   <article id="DT58-02913" pg="61">
     <vedette><sm>Crot-du-Glat (Le),</sm></vedette>
@@ -15574,7 +15574,7 @@
   </article>
   <article id="DT58-02963" pg="62">
     <vedette><sm>Cure (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58125" precision="certain">Gien-sur-Cure</commune></localisation>, traverse les <localisation>communes de <commune insee="58185" precision="certain">Moux</commune>, <commune insee="58210" precision="certain">Planchez</commune>, <commune insee="58180" precision="certain">Montsauche</commune>, <commune insee="58129" precision="certain">Gouloux</commune>, <commune insee="58106" precision="certain">Dun-les-Places</commune>, <commune insee="58157" precision="certain">Marigny-l’Église</commune> et <commune insee="58229" precision="certain">Saint-André-en-Morvand</commune></localisation>, et entre dans le <localisation>département de l’Yonne</localisation> pour se jeter dans la rivière de ce nom.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58125" precision="approximatif">Gien-sur-Cure</commune></localisation>, traverse les <localisation>communes de <commune insee="58185" precision="approximatif">Moux</commune>, <commune insee="58210" precision="approximatif">Planchez</commune>, <commune insee="58180" precision="approximatif">Montsauche</commune>, <commune insee="58129" precision="approximatif">Gouloux</commune>, <commune insee="58106" precision="approximatif">Dun-les-Places</commune>, <commune insee="58157" precision="approximatif">Marigny-l’Église</commune> et <commune insee="58229" precision="approximatif">Saint-André-en-Morvand</commune></localisation>, et entre dans le <localisation>département de l’Yonne</localisation> pour se jeter dans la rivière de ce nom.</definition>
     <forme_ancienne>— <i>Cora,</i> <date><sm>vi</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, I)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Chora,</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, I, 164)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvium Chore,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, I, 337)</reference>.</forme_ancienne>
@@ -15769,7 +15769,7 @@
     <definition><typologie>ruisseau</typologie> affluent de la Dornette, <localisation>commune de <commune insee="58104" precision="certain">Dornes</commune></localisation>.</definition>
   </article>
   <article id="DT58-03000" pg="63">
-    <vedette><sm>Davion (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Davion (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58263" precision="certain">Saint-Pierre-du-Mont</commune></localisation>.</definition>
     <forme_ancienne>— <i>Davyon,</i> <date>1561</date> <reference>(A. N.)</reference>.</forme_ancienne>
   </article>
@@ -16187,8 +16187,8 @@
     <definition><localisation>commune de <commune insee="58168" precision="certain">Millay</commune></localisation> ; l’une des montagnes les plus élevées du Morvand.</definition>
   </article>
   <article id="DT58-03071" pg="65">
-    <vedette><sm>Donjon</sm> ou <sm>de la Chèvre (Ruisseau du),</sm></vedette>
-    <definition>affluent de la rivière de Saint-Michel, traverse les <localisation>communes de <commune insee="58246" precision="certain">Saint-Honoré</commune> et de <commune insee="58173" precision="certain">Montaron</commune></localisation>.</definition>
+    <vedette><sm>Donjon ou de la Chèvre (Ruisseau du),</sm></vedette>
+    <definition>affluent de la rivière de Saint-Michel, traverse les <localisation>communes de <commune insee="58246" precision="approximatif">Saint-Honoré</commune> et de <commune insee="58173" precision="approximatif">Montaron</commune></localisation>.</definition>
   </article>
   <article id="DT58-03072" pg="65">
     <vedette><sm>Donjon (Le),</sm></vedette>
@@ -16296,7 +16296,7 @@
   </article>
   <article id="DT58-03086" pg="66">
     <vedette><sm>Dornette (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58104" precision="certain">Dornes</commune></localisation>, et se jette dans l’Abron, après avoir traversé les <localisation>communes de <commune insee="58259" precision="certain">Saint-Parize-en-Viry</commune> et de <commune insee="58241" precision="certain">Saint-Germain-Chassenay</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58104" precision="approximatif">Dornes</commune></localisation>, et se jette dans l’Abron, après avoir traversé les <localisation>communes de <commune insee="58259" precision="approximatif">Saint-Parize-en-Viry</commune> et de <commune insee="58241" precision="approximatif">Saint-Germain-Chassenay</commune></localisation>.</definition>
   </article>
   <article id="DT58-03087" pg="66">
     <vedette><sm>Dosne,</sm></vedette>
@@ -16322,7 +16322,7 @@
   </article>
   <article id="DT58-03091" pg="66">
     <vedette><sm>Douceline (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui se jette dans la Loire, après avoir traversé les <localisation>communes de la <commune insee="58155" precision="certain">Marche</commune> et de la <commune insee="58059" precision="certain">Charité</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui se jette dans la Loire, après avoir traversé les <localisation>communes de la <commune insee="58155" precision="approximatif">Marche</commune> et de la <commune insee="58059" precision="approximatif">Charité</commune></localisation>.</definition>
   </article>
   <article id="DT58-03092" pg="66">
     <vedette><sm>Doudois,</sm></vedette>
@@ -17160,7 +17160,7 @@
   </article>
   <article id="DT58-03252" pg="70">
     <vedette><sm>Étang-de-Charrière (Ruisseau de l’),</sm></vedette>
-    <definition>prend sa source dans l’étang de ce nom, <localisation>commune d’<commune insee="58108" precision="certain">Empury</commune></localisation>, et se jette dans la Cure à <localisation><commune insee="89145">Domecy</commune></localisation> (Yonne).</definition>
+    <definition>prend sa source dans l’étang de ce nom, <localisation>commune d’<commune insee="58108" precision="approximatif">Empury</commune></localisation>, et se jette dans la Cure à <localisation><commune insee="89145" precision="approximatif">Domecy</commune></localisation> (Yonne).</definition>
   </article>
   <article id="DT58-03253" pg="70">
     <vedette><sm>Étang-de-Chofray (L’),</sm></vedette>
@@ -17243,7 +17243,7 @@
   </article>
   <article id="DT58-03272" pg="70">
     <vedette><sm>Étang-Poitrot (Bois de l’),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58037" precision="certain">Brassy</commune> et de <commune insee="58106" precision="certain">Dun-les-Places</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58037" precision="approximatif">Brassy</commune> et de <commune insee="58106" precision="approximatif">Dun-les-Places</commune></localisation>.</definition>
   </article>
   <article id="DT58-03273" pg="70">
     <vedette><sm>Étang-Poulain (L’),</sm></vedette>
@@ -17460,7 +17460,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58087" precision="certain">Cossaye</commune></localisation>.</definition>
   </article>
   <article id="DT58-03311" pg="71">
-    <vedette><sm>Faux (Les Grands</sm> et <sm>les Petits),</sm></vedette>
+    <vedette><sm>Faux (Les Grands et les Petits),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58092" precision="certain">Crux-la-Ville</commune></localisation>.</definition>
     <forme_ancienne>— <i>Grand et Petit Faux</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
@@ -17488,7 +17488,7 @@
     </commentaire>
   </article>
   <article id="DT58-03316" pg="71">
-    <vedette><sm>Favray (Grand</sm> et <sm>Petit),</sm></vedette>
+    <vedette><sm>Favray (Grand et Petit),</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="58256" precision="certain">Saint-Martin-du-Tronsec</commune></localisation>.</definition>
     <forme_ancienne>— <i>Haut</i> et <i>Bas Favré</i> <reference>(Cassini)</reference>.</forme_ancienne>
     <commentaire>
@@ -17666,7 +17666,7 @@
     </commentaire>
   </article>
   <article id="DT58-03347" pg="72">
-    <vedette><sm>Ferrière (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Ferrière (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58236" precision="certain">Sainte-Colombe</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ferrieres,</i> <date>1382</date> <reference>(Marolles)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ferieres,</i> <date>1604</date> <reference>(reg. de Cessy-les-Bois)</reference>.</forme_ancienne>
@@ -18309,7 +18309,7 @@
   </article>
   <article id="DT58-03465" pg="74">
     <vedette><sm>Fontaine-de-la-Vache (Ruisseau de la),</sm></vedette>
-    <definition>affluent du Mazou ; traverse les <localisation>communes de <commune insee="58220" precision="certain">Raveau</commune>, <commune insee="58189" precision="certain">Narcy</commune> et <commune insee="58302" precision="certain">Varennes-lez-Narcy</commune></localisation>.</definition>
+    <definition>affluent du Mazou ; traverse les <localisation>communes de <commune insee="58220" precision="approximatif">Raveau</commune>, <commune insee="58189" precision="approximatif">Narcy</commune> et <commune insee="58302" precision="approximatif">Varennes-lez-Narcy</commune></localisation>.</definition>
   </article>
   <article id="DT58-03466" pg="74">
     <vedette><sm>Fontaine-Dérable,</sm></vedette>
@@ -18471,7 +18471,7 @@
   </article>
   <article id="DT58-03502" pg="75">
     <vedette><sm>Fontenasse (Ruisseau de),</sm></vedette>
-    <definition>affluent du ruisseau de Grenotte ; traverse les <localisation>communes de <commune insee="58174" precision="certain">Montenoison</commune>, <commune insee="58203" precision="certain">Oulon</commune> et <commune insee="58147" precision="certain">Lurcy-le-Bourg</commune></localisation>.</definition>
+    <definition>affluent du ruisseau de Grenotte ; traverse les <localisation>communes de <commune insee="58174" precision="approximatif">Montenoison</commune>, <commune insee="58203" precision="approximatif">Oulon</commune> et <commune insee="58147" precision="approximatif">Lurcy-le-Bourg</commune></localisation>.</definition>
   </article>
   <article id="DT58-03503" pg="75">
     <vedette><sm>Fonteneau</sm> ou <sm>Champ-Solé,</sm></vedette>
@@ -18579,7 +18579,7 @@
   </article>
   <article id="DT58-03527" pg="75">
     <vedette><sm>Forestière (La),</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, <localisation>près de la Chartreuse d’<commune insee="58221">Apponay</commune></localisation>, mentionné en <date>1469</date> (C.).</definition>
+    <definition><typologie>lieu détruit</typologie>, <localisation>près de la Chartreuse d’<commune insee="58221" precision="approximatif">Apponay</commune></localisation>, mentionné en <date>1469</date> (C.).</definition>
   </article>
   <article id="DT58-03528" pg="75">
     <vedette><sm>Forestilles,</sm></vedette>
@@ -18855,7 +18855,7 @@
   </article>
   <article id="DT58-03578" pg="76">
     <vedette><sm>Forgia-de-Hostia,</sm></vedette>
-    <definition><localisation>près <commune insee="58303">Varennes-lez-Nevers</commune></localisation>, mentionné en <date>1331</date> (cens. du chap. de Nevers).</definition>
+    <definition><localisation>près <commune insee="58303" precision="approximatif">Varennes-lez-Nevers</commune></localisation>, mentionné en <date>1331</date> (cens. du chap. de Nevers).</definition>
   </article>
   <article id="DT58-03579" pg="76">
     <vedette><sm>Forgiis (Terra de),</sm></vedette>
@@ -19259,7 +19259,7 @@
   </article>
   <article id="DT58-03663" pg="78">
     <vedette><sm>Fourneau (Ruisseau du),</sm></vedette>
-    <definition>affluent de la Loire ; traverse les <localisation>communes de <commune insee="58105" precision="certain">Druy</commune> et de <commune insee="58025" precision="certain">Béard</commune></localisation>.</definition>
+    <definition>affluent de la Loire ; traverse les <localisation>communes de <commune insee="58105" precision="approximatif">Druy</commune> et de <commune insee="58025" precision="approximatif">Béard</commune></localisation>.</definition>
   </article>
   <article id="DT58-03664" pg="78">
     <vedette><sm>Fourneau (Le),</sm></vedette>
@@ -19823,7 +19823,7 @@
   </article>
   <article id="DT58-03770" pg="80">
     <vedette><sm>Garat (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58249" precision="certain">Saint-Léger-de-Fougeret</commune></localisation> et qui vient se réunir, à <localisation><commune insee="58182" precision="certain">Moulins-Engilbert</commune></localisation>, au ruisseau de Guignon pour former l’Anisy.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58249" precision="approximatif">Saint-Léger-de-Fougeret</commune></localisation> et qui vient se réunir, à <localisation><commune insee="58182" precision="approximatif">Moulins-Engilbert</commune></localisation>, au ruisseau de Guignon pour former l’Anisy.</definition>
   </article>
   <article id="DT58-03771" pg="80">
     <vedette><sm>Garchère (La),</sm></vedette>
@@ -20238,7 +20238,7 @@
     <definition><typologie>fief vassal</typologie> de <localisation><commune insee="58301" precision="certain">Vandenesse</commune></localisation>, mentionné en <date>1638</date> (Marolles).</definition>
   </article>
   <article id="DT58-03858" pg="82">
-    <vedette><sm>Gentiers (Les Grands</sm> et <sm>les Petits),</sm></vedette>
+    <vedette><sm>Gentiers (Les Grands et les Petits),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58270" precision="certain">Saint-Verain</commune></localisation>.</definition>
     <forme_ancienne>— <i>Genthiers,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(reg. de Saint-Verain)</reference>.</forme_ancienne>
   </article>
@@ -20354,7 +20354,7 @@
     </commentaire>
   </article>
   <article id="DT58-03879" pg="82">
-    <vedette><sm>Giblins (Les Grands</sm> et <sm>les Petits),</sm></vedette>
+    <vedette><sm>Giblins (Les Grands et les Petits),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58227" precision="certain">Saint-Amand</commune></localisation>.</definition>
   </article>
   <article id="DT58-03880" pg="82">
@@ -20553,7 +20553,7 @@
   </article>
   <article id="DT58-03912" pg="83">
     <vedette><sm>Glenons (Bois des),</sm></vedette>
-    <definition><localisation>communes de la <commune insee="58151" precision="certain">Machine</commune> et de <commune insee="58250" precision="certain">Saint-Léger-des-Vignes</commune></localisation>.</definition>
+    <definition><localisation>communes de la <commune insee="58151" precision="approximatif">Machine</commune> et de <commune insee="58250" precision="approximatif">Saint-Léger-des-Vignes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Foresta de Glenum,</i> <date>1312</date> <reference>(A. D.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bois de Glanon,</i> <date>1422</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Foret de Gleynon,</i> <date>1512</date> <reference>(A. N.)</reference>.</forme_ancienne>
@@ -20838,7 +20838,7 @@
   </article>
   <article id="DT58-03973" pg="84">
     <vedette><sm>Goutte (La),</sm></vedette>
-    <definition><typologie>anc. château et ferme</typologie>, faisant partie du <localisation>bourg de <commune insee="58114">Fléty</commune></localisation>.</definition>
+    <definition><typologie>anc. château et ferme</typologie>, faisant partie du <localisation>bourg de <commune insee="58114" precision="certain">Fléty</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Goucte,</i> <date>1480</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La grange de La Goutte,</i> <date>1556</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Goute,</i> <date>1623</date> <reference>(reg. de Luzy)</reference>.</forme_ancienne>
@@ -21129,7 +21129,7 @@
   </article>
   <article id="DT58-04041" pg="85">
     <vedette><sm>Grand-Font (Ruisseau de),</sm></vedette>
-    <definition>affluent de la Mazou ; traverse les <localisation>communes de <commune insee="58064" precision="certain">Châteauneuf-Val-de-Bargis</commune>, <commune insee="58188" precision="certain">Nannay</commune> et <commune insee="58061" precision="certain">Chasnay</commune></localisation>.</definition>
+    <definition>affluent de la Mazou ; traverse les <localisation>communes de <commune insee="58064" precision="approximatif">Châteauneuf-Val-de-Bargis</commune>, <commune insee="58188" precision="approximatif">Nannay</commune> et <commune insee="58061" precision="approximatif">Chasnay</commune></localisation>.</definition>
   </article>
   <article id="DT58-04042" pg="85">
     <vedette><sm>Grand-Font (Ruisseau du),</sm></vedette>
@@ -21288,7 +21288,7 @@
   </article>
   <article id="DT58-04074" pg="85">
     <vedette><sm>Grands-Bois (Les),</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58180" precision="certain">Montsauche</commune> et de <commune insee="58210" precision="certain">Planchez</commune></localisation> ; <typologie>partie</typologie> du <localisation>bois de Montsauche</localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58180" precision="approximatif">Montsauche</commune> et de <commune insee="58210" precision="approximatif">Planchez</commune></localisation> ; <typologie>partie</typologie> du <localisation>bois de Montsauche</localisation>.</definition>
   </article>
   <article id="DT58-04075" pg="85">
     <vedette><sm>Grands-Bois (Les),</sm></vedette>
@@ -21363,7 +21363,7 @@
   </article>
   <article id="DT58-04092" pg="86">
     <vedette><sm>Grands-Taillis (Bois des),</sm></vedette>
-    <definition><typologie>partie</typologie> de la <localisation>forêt de <commune insee="58212" precision="approximatif">Poiseux</commune></localisation>, <localisation>commune de <commune insee="58212" precision="certain">Poiseux</commune></localisation>.</definition>
+    <definition><typologie>partie</typologie> de la <localisation>forêt de <commune insee="58212" precision="approximatif">Poiseux</commune></localisation>, <localisation>commune de <commune insee="58212" precision="approximatif">Poiseux</commune></localisation>.</definition>
   </article>
   <article id="DT58-04093" pg="86">
     <vedette><sm>Grands-Taillis (Les),</sm></vedette>
@@ -21684,7 +21684,7 @@
   </article>
   <article id="DT58-04155" pg="87">
     <vedette><sm>Gravelle (La),</sm></vedette>
-    <definition><typologie>montagne et forêt</typologie>, <localisation>communes de <commune insee="58249" precision="certain">Saint-Léger-de-Fougeret</commune>, <commune insee="58199" precision="certain">Onlay</commune> et <commune insee="58309" precision="certain">Villapourçon</commune></localisation>.</definition>
+    <definition><typologie>montagne et forêt</typologie>, <localisation>communes de <commune insee="58249" precision="approximatif">Saint-Léger-de-Fougeret</commune>, <commune insee="58199" precision="approximatif">Onlay</commune> et <commune insee="58309" precision="approximatif">Villapourçon</commune></localisation>.</definition>
   </article>
   <article id="DT58-04156" pg="87">
     <vedette><sm>Gravière,</sm></vedette>
@@ -21759,7 +21759,7 @@
   </article>
   <article id="DT58-04167" pg="87">
     <vedette><sm>Grenotte (Ruisseau de),</sm></vedette>
-    <definition>affluent de la Nièvre, <localisation>communes de <commune insee="58184" precision="certain">Moussy</commune> et de <commune insee="58147" precision="certain">Lurcy-le-Bourg</commune></localisation>.</definition>
+    <definition>affluent de la Nièvre, <localisation>communes de <commune insee="58184" precision="approximatif">Moussy</commune> et de <commune insee="58147" precision="approximatif">Lurcy-le-Bourg</commune></localisation>.</definition>
   </article>
   <article id="DT58-04168" pg="87">
     <vedette><sm>Grenouillat (Le),</sm></vedette>
@@ -21787,7 +21787,7 @@
     <definition><typologie>tuilerie</typologie>, <localisation>commune de <commune insee="58263" precision="certain">Saint-Pierre-du-Mont</commune></localisation>.</definition>
   </article>
   <article id="DT58-04173" pg="87">
-    <vedette><sm>Gresigny (Molin</sm> et <sm>Bruyeres de),</sm></vedette>
+    <vedette><sm>Gresigny (Molin et Bruyeres de),</sm></vedette>
     <definition><localisation>commune de <commune insee="58104" precision="certain">Dornes</commune></localisation>, mentionnés en <date>1669</date> (aliénation des biens de l’Église).</definition>
     <forme_ancienne>— <i>Dîmerie de Grésigny,</i> <date>1774</date> <reference>(plan de la seigneurie de Dornes)</reference>.</forme_ancienne>
   </article>
@@ -21870,7 +21870,7 @@
   </article>
   <article id="DT58-04192" pg="87">
     <vedette><sm>Griveau,</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, affluent de l’Oussière, <localisation>communes de <commune insee="58141" precision="certain">Frétoy</commune> et de <commune insee="58082" precision="certain">Corancy</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie>, affluent de l’Oussière, <localisation>communes de <commune insee="58141" precision="approximatif">Frétoy</commune> et de <commune insee="58082" precision="approximatif">Corancy</commune></localisation>.</definition>
   </article>
   <article id="DT58-04193" pg="87">
     <vedette><sm>Gron,</sm></vedette>
@@ -21941,7 +21941,7 @@
   </article>
   <article id="DT58-04208" pg="88">
     <vedette><sm>Gros-Riou (Ruisseau du),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58028" precision="certain">Beaumont-sur-Sardolles</commune> et de <commune insee="58291" precision="certain">Thianges</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58028" precision="approximatif">Beaumont-sur-Sardolles</commune> et de <commune insee="58291" precision="approximatif">Thianges</commune></localisation>.</definition>
   </article>
   <article id="DT58-04209" pg="88">
     <vedette><sm>Gros-Sabots (Les),</sm></vedette>
@@ -22019,7 +22019,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="58012" precision="certain">Arquian</commune></localisation>.</definition>
   </article>
   <article id="DT58-04225" pg="88">
-    <vedette><sm>Gué-Botron (Le Petit</sm> et <sm>le Grand),</sm></vedette>
+    <vedette><sm>Gué-Botron (Le Petit et le Grand),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58261" precision="certain">Saint-Père</commune></localisation>.</definition>
     <forme_ancienne>— <i>Gué-Botron</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
@@ -22247,7 +22247,7 @@
   </article>
   <article id="DT58-04267" pg="89">
     <vedette><sm>Guignon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, qui prend sa source dans la <localisation>commune de <commune insee="58249" precision="certain">Saint-Léger-de-Fougeret</commune></localisation>, traverse celle de Sermages et vient se réunir au Garat, à <localisation><commune insee="58182" precision="certain">Moulins-Engilbert</commune></localisation>, pour former l’Anisy.</definition>
+    <definition><typologie>ruisseau</typologie>, qui prend sa source dans la <localisation>commune de <commune insee="58249" precision="approximatif">Saint-Léger-de-Fougeret</commune></localisation>, traverse celle de Sermages et vient se réunir au Garat, à <localisation><commune insee="58182" precision="approximatif">Moulins-Engilbert</commune></localisation>, pour former l’Anisy.</definition>
     <forme_ancienne>— <i>Riviere de Guynon,</i> <date>1406</date> <reference>(C.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04268" pg="89">
@@ -22428,7 +22428,7 @@
   </article>
   <article id="DT58-04304" pg="90">
     <vedette><sm>Haleine (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie>, prend sa source à la fontaine de l'Âne, au pied du mont Dône, <localisation>commune de <commune insee="58149" precision="certain">Luzy</commune></localisation>, traverse les <localisation>communes de <commune insee="58168" precision="certain">Millay</commune>, <commune insee="58149" precision="certain">Luzy</commune>, <commune insee="58287" precision="certain">Tazilly</commune>, <commune insee="58019" precision="certain">Avrée</commune>, <commune insee="58276" precision="certain">Sémelay</commune>, <commune insee="58221" precision="certain">Rémilly</commune>, <commune insee="58118" precision="certain">Fours</commune>, <commune insee="58290" precision="certain">Thaix</commune></localisation>, et se jette dans l’Aron <localisation>près de <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>, prend sa source à la fontaine de l'Âne, au pied du mont Dône, <localisation>commune de <commune insee="58149" precision="approximatif">Luzy</commune></localisation>, traverse les <localisation>communes de <commune insee="58168" precision="approximatif">Millay</commune>, <commune insee="58149" precision="approximatif">Luzy</commune>, <commune insee="58287" precision="approximatif">Tazilly</commune>, <commune insee="58019" precision="approximatif">Avrée</commune>, <commune insee="58276" precision="approximatif">Sémelay</commune>, <commune insee="58221" precision="approximatif">Rémilly</commune>, <commune insee="58118" precision="approximatif">Fours</commune>, <commune insee="58290" precision="approximatif">Thaix</commune></localisation>, et se jette dans l’Aron <localisation>près de <commune insee="58046" precision="approximatif">Cercy-la-Tour</commune></localisation>.</definition>
     <forme_ancienne>— <i>Riviere d’Anneille,</i> <date>1443</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L’Aloyne,</i> <date>1450</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Alene,</i> <date>1461</date> <reference>(C.)</reference>.</forme_ancienne>
@@ -22545,7 +22545,7 @@
   </article>
   <article id="DT58-04328" pg="90">
     <vedette><sm>Hautecour (La),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204">Ourouer</commune></localisation>, commune de ce nom.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204" precision="certain">Ourouer</commune></localisation>, commune de ce nom.</definition>
     <forme_ancienne>— <i>Villaige de Lautre-Court,</i> <date>1379</date> <reference>(arch. des Bordes)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04329" pg="90">
@@ -22809,7 +22809,7 @@
   </article>
   <article id="DT58-04378" pg="91">
     <vedette><sm>Huis-au-Roi (L’),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58208" precision="certain">Pazy</commune> et de <commune insee="58069" precision="certain">Chaumot-sur-Yonne</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58208" precision="approximatif">Pazy</commune> et de <commune insee="58069" precision="approximatif">Chaumot-sur-Yonne</commune></localisation>.</definition>
   </article>
   <article id="DT58-04379" pg="91">
     <vedette><sm>Huis-au-Roué (L’),</sm></vedette>
@@ -23310,7 +23310,7 @@
   </article>
   <article id="DT58-04492" pg="93">
     <vedette><sm>Huis-Villard (L’),</sm></vedette>
-    <definition>réuni au <localisation>hameau de l’<commune insee="58216">Huis-Tardy</commune></localisation>, mentionné en <date>1789</date> (reg. de Pouques).</definition>
+    <definition>réuni au <localisation>hameau de l’<commune insee="58216" precision="certain">Huis-Tardy</commune></localisation>, mentionné en <date>1789</date> (reg. de Pouques).</definition>
   </article>
   <article id="DT58-04493" pg="93">
     <vedette><sm>Husseaux,</sm></vedette>
@@ -23323,7 +23323,7 @@
   </article>
   <article id="DT58-04495" pg="93">
     <vedette><sm>Ié (Bois d’),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58192" precision="certain">Neuville-lez-Decize</commune> et d’<commune insee="58020" precision="certain">Avril-sur-Loire</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58192" precision="approximatif">Neuville-lez-Decize</commune> et d’<commune insee="58020" precision="approximatif">Avril-sur-Loire</commune></localisation>.</definition>
   </article>
   <article id="DT58-04496" pg="93">
     <vedette><sm>Ile,</sm></vedette>
@@ -23456,7 +23456,7 @@
   </article>
   <article id="DT58-04519" pg="93">
     <vedette><sm>Ixeure (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58035" precision="certain">Bona</commune></localisation> et se jette dans la Loire au-dessus d’Imphy, après avoir traversé les <localisation>communes de <commune insee="58239" precision="certain">Saint-Firmin</commune>, <commune insee="58232" precision="certain">Saint-Benin-d’Azy</commune>, la <commune insee="58112" precision="certain">Fermeté</commune> et <commune insee="58134" precision="certain">Imphy</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58035" precision="approximatif">Bona</commune></localisation> et se jette dans la Loire au-dessus d’Imphy, après avoir traversé les <localisation>communes de <commune insee="58239" precision="approximatif">Saint-Firmin</commune>, <commune insee="58232" precision="approximatif">Saint-Benin-d’Azy</commune>, la <commune insee="58112" precision="approximatif">Fermeté</commune> et <commune insee="58134" precision="approximatif">Imphy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Surra,</i> <date>1342</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lixurre,</i> <date>1450</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lixura,</i> <date>1478</date> <reference>(pouillé de Nevers)</reference>.</forme_ancienne>
@@ -23473,7 +23473,7 @@
   </article>
   <article id="DT58-04522" pg="94">
     <vedette><sm>Jaconet,</sm></vedette>
-    <definition><typologie>fief</typologie> aux <localisation>environs de <commune insee="58267">Saint-Saulge</commune></localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
+    <definition><typologie>fief</typologie> aux <localisation>environs de <commune insee="58267" precision="approximatif">Saint-Saulge</commune></localisation>, mentionné en <date>1689</date> (reg. des fiefs).</definition>
   </article>
   <article id="DT58-04523" pg="94">
     <vedette><sm>Jacquelins (Les),</sm></vedette>
@@ -23499,7 +23499,7 @@
   </article>
   <article id="DT58-04527" pg="94">
     <vedette><sm>Jaigne,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> affluent du Nohain, arrose les <localisation>communes de <commune insee="58102" precision="certain">Donzy</commune> et de <commune insee="58281" precision="certain">Suilly-la-Tour</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> affluent du Nohain, arrose les <localisation>communes de <commune insee="58102" precision="approximatif">Donzy</commune> et de <commune insee="58281" precision="approximatif">Suilly-la-Tour</commune></localisation>.</definition>
   </article>
   <article id="DT58-04528" pg="94">
     <vedette><sm>Jaigny,</sm></vedette>
@@ -23579,14 +23579,14 @@
   </article>
   <article id="DT58-04542" pg="94">
     <vedette><sm>Jarie (La Motte de la),</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>près <commune insee="58267">Saint-Saulge</commune></localisation>, mentionné en <date>1689</date> (A. N.).</definition>
+    <definition><typologie>fief</typologie>, <localisation>près <commune insee="58267" precision="approximatif">Saint-Saulge</commune></localisation>, mentionné en <date>1689</date> (A. N.).</definition>
   </article>
   <article id="DT58-04543" pg="94">
     <vedette><sm>Jarle,</sm></vedette>
     <definition><typologie>moulin détruit</typologie> mentionné en <date>1649</date> comme étant près d’Alligny-en-Morvand (terrier d’Alligny).</definition>
   </article>
   <article id="DT58-04544" pg="94">
-    <vedette><sm>Jarnois (Le Haut</sm> et <sm>le Bas</sm>),</vedette>
+    <vedette><sm>Jarnois (Le Haut et le Bas</sm>),</vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58226" precision="certain">Saint-Agnan</commune></localisation>.</definition>
   </article>
   <article id="DT58-04545" pg="94">
@@ -24219,7 +24219,7 @@
   </article>
   <article id="DT58-04672" pg="97">
     <vedette><sm>Landarge (La),</sm></vedette>
-    <definition><typologie>rivière formée de plusieurs ruisseaux</typologie>, venant de <localisation>Saint-Benin-d’Azy, de Frasnay-le-Ravier et de Cizely</localisation>, qui se réunissent au-dessous d’Anlezy, elle arrose les <localisation>communes d’<commune insee="58006" precision="certain">Anlezy</commune>, <commune insee="58311" precision="certain">Ville-lez-Anlezy</commune>, <commune insee="58097" precision="certain">Aubigny-le-Chétif</commune>, <commune insee="58291" precision="certain">Thianges</commune></localisation>, et se jette dans l’Aron au-dessous de Verneuil.</definition>
+    <definition><typologie>rivière formée de plusieurs ruisseaux</typologie>, venant de <localisation>Saint-Benin-d’Azy, de Frasnay-le-Ravier et de Cizely</localisation>, qui se réunissent au-dessous d’Anlezy, elle arrose les <localisation>communes d’<commune insee="58006" precision="approximatif">Anlezy</commune>, <commune insee="58311" precision="approximatif">Ville-lez-Anlezy</commune>, <commune insee="58097" precision="approximatif">Aubigny-le-Chétif</commune>, <commune insee="58291" precision="approximatif">Thianges</commune></localisation>, et se jette dans l’Aron au-dessous de Verneuil.</definition>
     <forme_ancienne>— <i>Rivière d’Andarge,</i> <date>1486</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Le vrai nom de cette rivière est <i>l’Andarge.</i></p>
@@ -24698,7 +24698,7 @@
   </article>
   <article id="DT58-04771" pg="98">
     <vedette><sm>Lichen (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58264" precision="certain">Saint-Pierre-le-Moûtier</commune></localisation>, traverse <localisation>celle de <commune insee="58260">Saint-Parize-le-Châtel</commune></localisation> et se jette dans la Colâtre au-dessous d’Uxeloup.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune de <commune insee="58264" precision="approximatif">Saint-Pierre-le-Moûtier</commune></localisation>, traverse <localisation>celle de <commune insee="58260" precision="approximatif">Saint-Parize-le-Châtel</commune></localisation> et se jette dans la Colâtre au-dessous d’Uxeloup.</definition>
     <forme_ancienne>— <i>Lichien</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04772" pg="98">
@@ -24770,7 +24770,7 @@
   </article>
   <article id="DT58-04785" pg="99">
     <vedette><sm>Lieu-Cenon (Le),</sm></vedette>
-    <definition><typologie>hameau</typologie>, faisant partie du <localisation>bourg de la <commune insee="58044">Celle-sur-Loire</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, faisant partie du <localisation>bourg de la <commune insee="58044" precision="certain">Celle-sur-Loire</commune></localisation>.</definition>
   </article>
   <article id="DT58-04786" pg="99">
     <vedette><sm>Lieu-Chappus (Le),</sm></vedette>
@@ -25041,11 +25041,11 @@
   </article>
   <article id="DT58-04842" pg="100">
     <vedette><sm>Lirmay (Villa de),</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, au <localisation>sud de <commune insee="58065">Châtillon</commune></localisation>, mentionné en <date>1284</date> (S. charte fixant les limites des justices de Châtillon et de Passy).</definition>
+    <definition><typologie>lieu détruit</typologie>, au <localisation>sud de <commune insee="58065" precision="approximatif">Châtillon</commune></localisation>, mentionné en <date>1284</date> (S. charte fixant les limites des justices de Châtillon et de Passy).</definition>
   </article>
   <article id="DT58-04843" pg="100">
     <vedette><sm>Liscomus in pago Nivernensi,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, aux <localisation>environs de <commune insee="58083">Corbigny</commune></localisation>, mentionné en <date>721</date> <reference>(cart. gén. de l’Yonne, II, 2)</reference>.</definition>
+    <definition><typologie>lieu détruit</typologie>, aux <localisation>environs de <commune insee="58083" precision="approximatif">Corbigny</commune></localisation>, mentionné en <date>721</date> <reference>(cart. gén. de l’Yonne, II, 2)</reference>.</definition>
     <forme_ancienne>— <i>Inliscomum,</i> <date>864</date> <reference>(<i>Gall. christ.</i> IV, col. 58)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04844" pg="100">
@@ -25270,7 +25270,7 @@
   </article>
   <article id="DT58-04895" pg="101">
     <vedette><sm>Loire (La),</sm></vedette>
-    <definition><typologie>fleuve</typologie>, prend sa source au <localisation>mont <commune insee="07267">Gerbier-des-Joncs</commune></localisation> (Ardèche) ; après avoir traversé les <localisation>départements de la Haute-Loire et de la Loire</localisation> et séparé celui de l’Allier de celui de Saône-et-Loire, il pénètre au-dessus de Saint-Hilaire dans celui de la Nièvre, où il arrose le territoire des <localisation>communes de <commune insee="58245" precision="certain">Saint-Hilaire-Fontaine</commune>, <commune insee="58137" precision="certain">Lamenay</commune>, <commune insee="58060" precision="certain">Charrin</commune>, <commune insee="58096" precision="certain">Devay</commune>, <commune insee="58095" precision="certain">Decize</commune>, <commune insee="58250" precision="certain">Saint-Léger-des-Vignes</commune>, <commune insee="58020" precision="certain">Avril</commune>, <commune insee="58115" precision="certain">Fleury-sur-Loire</commune>, <commune insee="58025" precision="certain">Béard</commune>, <commune insee="58148" precision="certain">Luthenay-Uxeloup</commune>, <commune insee="58258" precision="certain">Saint-Ouen</commune>, <commune insee="58134" precision="certain">Imphy</commune>, <commune insee="58072" precision="certain">Chevenon</commune>, <commune insee="58238" precision="certain">Saint-Éloi</commune>, <commune insee="58278" precision="certain">Sermoise</commune>, <commune insee="58194" precision="certain">Nevers</commune>, <commune insee="58126" precision="certain">Gimouille</commune>, <commune insee="58160" precision="certain">Marzy</commune></localisation> ; la Loire sépare ensuite le département du Cher de celui de la Nièvre, arrosant, dans ce dernier département, les <localisation>communes de <commune insee="58117" precision="certain">Fourchambault</commune>, <commune insee="58121" precision="certain">Garchizy</commune>, <commune insee="58124" precision="certain">Germigny</commune>, <commune insee="58298" precision="certain">Tronsanges</commune>, la <commune insee="58155" precision="certain">Marche</commune>, la <commune insee="58059" precision="certain">Charité</commune>, <commune insee="58164" precision="certain">Mêves</commune>, <commune insee="58215" precision="certain">Pouilly</commune>, <commune insee="58295" precision="certain">Tracy</commune>, <commune insee="58086" precision="certain">Cosne</commune>, <commune insee="58187" precision="certain">Myennes</commune>, la <commune insee="58044" precision="certain">Celle-sur-Loire</commune> et <commune insee="58193" precision="certain">Neuvy</commune></localisation> ; elle entre alors dans le <localisation>département du Loiret</localisation>.</definition>
+    <definition><typologie>fleuve</typologie>, prend sa source au <localisation>mont <commune insee="07267" precision="approximatif">Gerbier-des-Joncs</commune></localisation> (Ardèche) ; après avoir traversé les <localisation>départements de la Haute-Loire et de la Loire</localisation> et séparé celui de l’Allier de celui de Saône-et-Loire, il pénètre au-dessus de Saint-Hilaire dans celui de la Nièvre, où il arrose le territoire des <localisation>communes de <commune insee="58245" precision="approximatif">Saint-Hilaire-Fontaine</commune>, <commune insee="58137" precision="approximatif">Lamenay</commune>, <commune insee="58060" precision="approximatif">Charrin</commune>, <commune insee="58096" precision="approximatif">Devay</commune>, <commune insee="58095" precision="approximatif">Decize</commune>, <commune insee="58250" precision="approximatif">Saint-Léger-des-Vignes</commune>, <commune insee="58020" precision="approximatif">Avril</commune>, <commune insee="58115" precision="approximatif">Fleury-sur-Loire</commune>, <commune insee="58025" precision="approximatif">Béard</commune>, <commune insee="58148" precision="approximatif">Luthenay-Uxeloup</commune>, <commune insee="58258" precision="approximatif">Saint-Ouen</commune>, <commune insee="58134" precision="approximatif">Imphy</commune>, <commune insee="58072" precision="approximatif">Chevenon</commune>, <commune insee="58238" precision="approximatif">Saint-Éloi</commune>, <commune insee="58278" precision="approximatif">Sermoise</commune>, <commune insee="58194" precision="approximatif">Nevers</commune>, <commune insee="58126" precision="approximatif">Gimouille</commune>, <commune insee="58160" precision="approximatif">Marzy</commune></localisation> ; la Loire sépare ensuite le département du Cher de celui de la Nièvre, arrosant, dans ce dernier département, les <localisation>communes de <commune insee="58117" precision="approximatif">Fourchambault</commune>, <commune insee="58121" precision="approximatif">Garchizy</commune>, <commune insee="58124" precision="approximatif">Germigny</commune>, <commune insee="58298" precision="approximatif">Tronsanges</commune>, la <commune insee="58155" precision="approximatif">Marche</commune>, la <commune insee="58059" precision="approximatif">Charité</commune>, <commune insee="58164" precision="approximatif">Mêves</commune>, <commune insee="58215" precision="approximatif">Pouilly</commune>, <commune insee="58295" precision="approximatif">Tracy</commune>, <commune insee="58086" precision="approximatif">Cosne</commune>, <commune insee="58187" precision="approximatif">Myennes</commune>, la <commune insee="58044" precision="approximatif">Celle-sur-Loire</commune> et <commune insee="58193" precision="approximatif">Neuvy</commune></localisation> ; elle entre alors dans le <localisation>département du Loiret</localisation>.</definition>
     <commentaire>
       <p>Son cours dans la Nièvre est de 130 kilomètres.</p>
     </commentaire>
@@ -25400,7 +25400,7 @@
   </article>
   <article id="DT58-04920" pg="102">
     <vedette><sm>Louage-Cot (Le),</sm></vedette>
-    <definition><typologie>maison</typologie>, dans le <localisation>bourg de <commune insee="58293">Toury-sur-Abron</commune></localisation>.</definition>
+    <definition><typologie>maison</typologie>, dans le <localisation>bourg de <commune insee="58293" precision="certain">Toury-sur-Abron</commune></localisation>.</definition>
   </article>
   <article id="DT58-04921" pg="102">
     <vedette><sm>Louage-Martin (Le),</sm></vedette>
@@ -25650,7 +25650,7 @@
     <forme_ancienne>— <i>Lussery,</i> <date>1704</date> <reference>(reg. de Lormes)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04966" pg="103">
-    <vedette><sm>Luza (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Luza (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58233" precision="certain">Saint-Benin-des-Bois</commune></localisation>.</definition>
   </article>
   <article id="DT58-04967" pg="103">
@@ -25917,7 +25917,7 @@
   </article>
   <article id="DT58-05007" pg="104">
     <vedette><sm>Maignit (Bois du),</sm></vedette>
-    <definition><typologie>bois</typologie> situé aux <localisation>environs de <commune insee="58194">Nevers</commune></localisation>, mentionné en <date>1229</date> (A. N. fonds Notre-Dame).</definition>
+    <definition><typologie>bois</typologie> situé aux <localisation>environs de <commune insee="58194" precision="approximatif">Nevers</commune></localisation>, mentionné en <date>1229</date> (A. N. fonds Notre-Dame).</definition>
   </article>
   <article id="DT58-05008" pg="104">
     <vedette><sm>Maigny (Le),</sm></vedette>
@@ -26071,7 +26071,7 @@
   </article>
   <article id="DT58-05041" pg="105">
     <vedette><sm>Maison de Beuvray (La),</sm></vedette>
-    <definition><typologie>maison détruite</typologie>, sur le mont <localisation><commune insee="58128">Beuvray</commune></localisation>, ancienne demeure du chapelain qui desservait une chapelle située au même lieu.</definition>
+    <definition><typologie>maison détruite</typologie>, sur le mont <localisation><commune insee="58128" precision="approximatif">Beuvray</commune></localisation>, ancienne demeure du chapelain qui desservait une chapelle située au même lieu.</definition>
   </article>
   <article id="DT58-05042" pg="105">
     <vedette><sm>Maison-de-la-Marzelle (La),</sm></vedette>
@@ -26409,7 +26409,7 @@
   </article>
   <article id="DT58-05117" pg="106">
     <vedette><sm>Maladière (Ruisseau de la),</sm></vedette>
-    <definition><typologie>ruisseau,</typologie> affluent de l’Haleine, qui traverse les <localisation>communes de <commune insee="58168" precision="certain">Millay</commune> et de <commune insee="58149" precision="certain">Luzy</commune></localisation>.</definition>
+    <definition><typologie>ruisseau,</typologie> affluent de l’Haleine, qui traverse les <localisation>communes de <commune insee="58168" precision="approximatif">Millay</commune> et de <commune insee="58149" precision="approximatif">Luzy</commune></localisation>.</definition>
     <commentaire>
       <p>— Tire son nom de la maladrerie de Luzy.</p>
     </commentaire>
@@ -26451,7 +26451,7 @@
   </article>
   <article id="DT58-05125" pg="106">
     <vedette><sm>Malaise (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> affluent de la Vrille, arrose les <localisation>communes de <commune insee="58033" precision="certain">Bitry</commune>, <commune insee="58270" precision="certain">Saint-Verain</commune> et <commune insee="58227" precision="certain">Saint-Amand</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> affluent de la Vrille, arrose les <localisation>communes de <commune insee="58033" precision="approximatif">Bitry</commune>, <commune insee="58270" precision="approximatif">Saint-Verain</commune> et <commune insee="58227" precision="approximatif">Saint-Amand</commune></localisation>.</definition>
   </article>
   <article id="DT58-05126" pg="106">
     <vedette><sm>Malechasseigne,</sm></vedette>
@@ -28013,7 +28013,7 @@
   </article>
   <article id="DT58-05406" pg="112">
     <vedette><sm>Meix-Jeannin (Le),</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, qui joignait le <localisation>bourg d’<commune insee="58003">Alligny-en-Morvand</commune></localisation>.</definition>
+    <definition><typologie>hameau détruit</typologie>, qui joignait le <localisation>bourg d’<commune insee="58003" precision="certain">Alligny-en-Morvand</commune></localisation>.</definition>
     <commentaire>
       <p>Ce hameau tirait son nom de la famille du président Jeannin.</p>
     </commentaire>
@@ -29075,7 +29075,7 @@
     <definition>mentionné en <date>1370</date> comme étant près de Saint-Martin-d’Heuille (arch. des Bordes).</definition>
   </article>
   <article id="DT58-05615" pg="117">
-    <vedette><sm>Moley (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Moley (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>bois</typologie>, <localisation>commune de la <commune insee="58154" precision="certain">Maison-Dieu</commune></localisation>.</definition>
   </article>
   <article id="DT58-05616" pg="117">
@@ -29566,7 +29566,7 @@
   </article>
   <article id="DT58-05701" pg="119">
     <vedette><sm>Montagne (La),</sm></vedette>
-    <definition>église isolée sur le sommet d’une <typologie>montagne</typologie> et qui sert aux <localisation>communes de <commune insee="58130" precision="certain">Grenois</commune> et de <commune insee="58284" precision="certain">Talon</commune></localisation>, <localisation>commune de <commune insee="58130" precision="certain">Grenois</commune></localisation>.</definition>
+    <definition>église isolée sur le sommet d’une <typologie>montagne</typologie> et qui sert aux <localisation>communes de <commune insee="58130" precision="approximatif">Grenois</commune> et de <commune insee="58284" precision="approximatif">Talon</commune></localisation>, <localisation>commune de <commune insee="58130" precision="approximatif">Grenois</commune></localisation>.</definition>
     <forme_ancienne>— <i>Montana,</i> <date>1287</date> <reference>(reg. de l’év. de Nevers)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Montaigne,</i> <date>1577</date> <reference>(A. N.)</reference>.</forme_ancienne>
   </article>
@@ -30380,14 +30380,14 @@
   </article>
   <article id="DT58-05849" pg="122">
     <vedette><sm>Montmartinges</sm> ou <sm>Montmartange,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58087">Cossaye</commune></localisation>, <localisation>châtellenie de Decize</localisation>, mentionné en <date>1409</date> (Marolles).</definition>
+    <definition><typologie>fief</typologie> de la <localisation>paroisse de <commune insee="58087" precision="approximatif">Cossaye</commune></localisation>, <localisation>châtellenie de Decize</localisation>, mentionné en <date>1409</date> (Marolles).</definition>
     <forme_ancienne>— <i>Bois de Bronche,</i> al. <i>de Montmartinges,</i> <date>1521</date> <reference>(arch. de la Montagne)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Martange,</i> <date>1568</date> <reference>(arch. de la Montagne)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Montartinges,</i> <date>1607</date> <reference>(A. D.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-05850" pg="122">
     <vedette><sm>Montmasson (Bois de),</sm></vedette>
-    <definition><localisation>entre <commune insee="58052">Champallement</commune> et <commune insee="58266">Saint-Révérien</commune></localisation>, mentionné en <date>1678</date> (A. N.).</definition>
+    <definition><localisation>entre <commune insee="58052" precision="approximatif">Champallement</commune> et <commune insee="58266" precision="approximatif">Saint-Révérien</commune></localisation>, mentionné en <date>1678</date> (A. N.).</definition>
   </article>
   <article id="DT58-05851" pg="122">
     <vedette><sm>Montmien,</sm></vedette>
@@ -30665,7 +30665,7 @@
     </commentaire>
   </article>
   <article id="DT58-05897" pg="124">
-    <vedette><sm>Montvigne (Bois</sm> et <sm>Croix de),</sm></vedette>
+    <vedette><sm>Montvigne (Bois et Croix de),</sm></vedette>
     <definition><localisation>commune de <commune insee="58190" precision="certain">Neuffontaines</commune></localisation>.</definition>
     <forme_ancienne>— <i>Nemus de Montivim,</i> <date>1233</date> <reference>(<i>Gall. christ.</i> IV, col. 97)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Montvigne,</i> <date>1455</date> <reference>(terrier de Chitry-sous-Montsabot)</reference>.</forme_ancienne>
@@ -30850,7 +30850,7 @@
     </commentaire>
   </article>
   <article id="DT58-05930" pg="125">
-    <vedette><sm>Morvand (Archidiaconé du)</sm> ou <sm>de Decize,</sm></vedette>
+    <vedette><sm>Morvand (Archidiaconé du) ou de Decize,</sm></vedette>
     <definition><typologie>dép.</typologie> du <localisation>diocèse de Nevers</localisation> ; il était composé des <localisation>archiprêtrés de Châtillon-en-Bazois, Decize, Moulins-Engilbert et Thianges</localisation>.</definition>
   </article>
   <article id="DT58-05931" pg="125">
@@ -31088,7 +31088,7 @@
   </article>
   <article id="DT58-05977" pg="126">
     <vedette><sm>Motte-deux-Fourches (La),</sm></vedette>
-    <definition><typologie>motte</typologie> sur le <localisation>chemin de Beauvoir</localisation> à <localisation><commune insee="58087" precision="certain">Cossaye</commune></localisation>, <localisation>commune de <commune insee="58241" precision="certain">Saint-Germain-Chassenay</commune></localisation>, marquée en <date>1772</date> (plan de la seigneurie de Beauvoir).</definition>
+    <definition><typologie>motte</typologie> sur le <localisation>chemin de Beauvoir</localisation> à <localisation><commune insee="58087" precision="approximatif">Cossaye</commune></localisation>, <localisation>commune de <commune insee="58241" precision="approximatif">Saint-Germain-Chassenay</commune></localisation>, marquée en <date>1772</date> (plan de la seigneurie de Beauvoir).</definition>
   </article>
   <article id="DT58-05978" pg="126">
     <vedette><sm>Motte-du-Boys (La),</sm></vedette>
@@ -31315,7 +31315,7 @@
   </article>
   <article id="DT58-06022" pg="127">
     <vedette><sm>Mouilleferts (Les),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="58010" precision="certain">Arleuf</commune> et de <commune insee="58063" precision="certain">Château-Chinon-Campagne</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="58010" precision="approximatif">Arleuf</commune> et de <commune insee="58063" precision="approximatif">Château-Chinon-Campagne</commune></localisation>.</definition>
   </article>
   <article id="DT58-06023" pg="127">
     <vedette><sm>Mouillère (La),</sm></vedette>
@@ -31986,7 +31986,7 @@
     <definition><typologie>fief</typologie> de la <localisation>châtellenie de Montenoison</localisation>, mentionné en <date>1638</date> (Marolles).</definition>
   </article>
   <article id="DT58-06175" pg="129">
-    <vedette><sm>Moulin du Pont-Sarre</sm> ou <sm>de Sainte-Seigne (Le),</sm></vedette>
+    <vedette><sm>Moulin du Pont-Sarre ou de Sainte-Seigne (Le),</sm></vedette>
     <definition><typologie>moulin détruit</typologie>, <localisation>commune de <commune insee="58207" precision="certain">Parigny-les-Vaux</commune></localisation>, mentionné en <date>1544</date> (A. N.).</definition>
   </article>
   <article id="DT58-06176" pg="129">
@@ -32068,7 +32068,7 @@
   </article>
   <article id="DT58-06193" pg="130">
     <vedette><sm>Moulin l’Évêque (Le),</sm></vedette>
-    <definition><typologie>moulins</typologie>, <localisation>communes de <commune insee="58086" precision="certain">Cosne</commune> et de <commune insee="58261" precision="certain">Saint-Père</commune></localisation>.</definition>
+    <definition><typologie>moulins</typologie>, <localisation>communes de <commune insee="58086" precision="approximatif">Cosne</commune> et de <commune insee="58261" precision="approximatif">Saint-Père</commune></localisation>.</definition>
     <forme_ancienne>— <i>Les moulins Levesque,</i> <date>1390</date> <reference>(arch. de l’Yonne, inv. de Cosne)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Ces moulins appartenaient aux évêques d’Auxerre, qui étaient seigneurs de Cosne.</p>
@@ -33249,7 +33249,7 @@
   </article>
   <article id="DT58-06393" pg="136">
     <vedette><sm>Nièvre (Ruisseau de),</sm></vedette>
-    <definition><typologie>ruisseau,</typologie> affluent de la Nièvre de Saint-Benin, qui traverse les <localisation>communes d’<commune insee="58014" precision="certain">Arzembouy</commune>, <commune insee="58127" precision="certain">Giry</commune> et <commune insee="58218" precision="certain">Prémery</commune></localisation>.</definition>
+    <definition><typologie>ruisseau,</typologie> affluent de la Nièvre de Saint-Benin, qui traverse les <localisation>communes d’<commune insee="58014" precision="approximatif">Arzembouy</commune>, <commune insee="58127" precision="approximatif">Giry</commune> et <commune insee="58218" precision="approximatif">Prémery</commune></localisation>.</definition>
   </article>
   <article id="DT58-06394" pg="136">
     <vedette><sm>Nifond,</sm></vedette>
@@ -33363,7 +33363,7 @@
   </article>
   <article id="DT58-06413" pg="136">
     <vedette><sm>Nohain (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune d’<commune insee="58109" precision="certain">Entrains</commune></localisation>, arrose les <localisation>communes de <commune insee="58162" precision="certain">Ménestreau</commune>, <commune insee="58089" precision="certain">Couloutre</commune>, <commune insee="58209" precision="certain">Perroy</commune>, <commune insee="58102" precision="certain">Donzy</commune>, <commune insee="58281" precision="certain">Suilly-la-Tour</commune>, <commune insee="58265" precision="certain">Saint-Quentin</commune>, <commune insee="58256" precision="certain">Saint-Martin-du-Tronsec</commune> et <commune insee="58086" precision="certain">Cosne</commune></localisation>, et se jette dans la Loire à Cosne.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune d’<commune insee="58109" precision="approximatif">Entrains</commune></localisation>, arrose les <localisation>communes de <commune insee="58162" precision="approximatif">Ménestreau</commune>, <commune insee="58089" precision="approximatif">Couloutre</commune>, <commune insee="58209" precision="approximatif">Perroy</commune>, <commune insee="58102" precision="approximatif">Donzy</commune>, <commune insee="58281" precision="approximatif">Suilly-la-Tour</commune>, <commune insee="58265" precision="approximatif">Saint-Quentin</commune>, <commune insee="58256" precision="approximatif">Saint-Martin-du-Tronsec</commune> et <commune insee="58086" precision="approximatif">Cosne</commune></localisation>, et se jette dans la Loire à Cosne.</definition>
     <forme_ancienne>— <i>Noyn,</i> <date>1453</date> <reference>(inv. de Villemoison)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Riviere de Noin,</i> <date>1691</date> <reference>(arch. de l’Yonne, inv. de Cosne)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Nouain</i> <reference>(Cassini)</reference>.</forme_ancienne>
@@ -33962,7 +33962,7 @@
   </article>
   <article id="DT58-06517" pg="139">
     <vedette><sm>Oussière (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans le dép. de <localisation>Saône-et-Loire</localisation>, arrose dans celui de la Nièvre les <localisation>communes de <commune insee="58141" precision="certain">Frétoy</commune>, <commune insee="58210" precision="certain">Planchez</commune>, <commune insee="58082" precision="certain">Corancy</commune> et <commune insee="58068" precision="certain">Chaumard</commune></localisation> et se jette dans l’Yonne.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans le dép. de <localisation>Saône-et-Loire</localisation>, arrose dans celui de la Nièvre les <localisation>communes de <commune insee="58141" precision="approximatif">Frétoy</commune>, <commune insee="58210" precision="approximatif">Planchez</commune>, <commune insee="58082" precision="approximatif">Corancy</commune> et <commune insee="58068" precision="approximatif">Chaumard</commune></localisation> et se jette dans l’Yonne.</definition>
     <forme_ancienne>— <i>Riviere Douxiere,</i> <date>1484</date> <reference>(C.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-06518" pg="139">
@@ -34869,7 +34869,7 @@
   </article>
   <article id="DT58-06695" pg="142">
     <vedette><sm>Perray (Forêt du),</sm></vedette>
-    <definition>s’étend sur les <localisation>communes de <commune insee="58294" precision="certain">Toury-sur-Jour</commune>, <commune insee="58192" precision="certain">Neuville-lez-Decize</commune> et <commune insee="58021" precision="certain">Azy-le-Vif</commune></localisation>.</definition>
+    <definition>s’étend sur les <localisation>communes de <commune insee="58294" precision="approximatif">Toury-sur-Jour</commune>, <commune insee="58192" precision="approximatif">Neuville-lez-Decize</commune> et <commune insee="58021" precision="approximatif">Azy-le-Vif</commune></localisation>.</definition>
   </article>
   <article id="DT58-06696" pg="142">
     <vedette><sm>Perray (Le),</sm></vedette>
@@ -35635,7 +35635,7 @@
   </article>
   <article id="DT58-06867" pg="145">
     <vedette><sm>Pisserotte (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58067" precision="certain">Chaulgnes</commune></localisation>, arrose les <localisation>communes de <commune insee="58207" precision="certain">Parigny-les-Vaux</commune>, <commune insee="58214" precision="certain">Pougues</commune> et <commune insee="58124" precision="certain">Germigny</commune></localisation>, et se jette dans la Loire à Germigny.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58067" precision="approximatif">Chaulgnes</commune></localisation>, arrose les <localisation>communes de <commune insee="58207" precision="approximatif">Parigny-les-Vaux</commune>, <commune insee="58214" precision="approximatif">Pougues</commune> et <commune insee="58124" precision="approximatif">Germigny</commune></localisation>, et se jette dans la Loire à Germigny.</definition>
   </article>
   <article id="DT58-06868" pg="145">
     <vedette><sm>Pissevache,</sm></vedette>
@@ -35814,7 +35814,7 @@
   </article>
   <article id="DT58-06906" pg="145">
     <vedette><sm>Plame-Soury,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58086" precision="certain">Cosne</commune> et de <commune insee="58295" precision="certain">Tracy</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="58086" precision="approximatif">Cosne</commune> et de <commune insee="58295" precision="approximatif">Tracy</commune></localisation>.</definition>
   </article>
   <article id="DT58-06907" pg="145">
     <vedette><sm>Plan-Bernard,</sm></vedette>
@@ -36044,7 +36044,7 @@
   </article>
   <article id="DT58-06951" pg="146">
     <vedette><sm>Plessis (Le),</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, <localisation>entre <commune insee="58182">Moulins-Engilbert</commune> et <commune insee="58065">Châtillon</commune></localisation>.</definition>
+    <definition><typologie>lieu détruit</typologie>, <localisation>entre <commune insee="58182" precision="approximatif">Moulins-Engilbert</commune> et <commune insee="58065" precision="approximatif">Châtillon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Plasseium,</i> <date>1311</date> <reference>(C.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Plaisseyum,</i> <date>1322</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Plesseiz,</i> <date>1369</date> <reference>(C.)</reference>.</forme_ancienne>
@@ -36287,7 +36287,7 @@
   </article>
   <article id="DT58-06998" pg="147">
     <vedette><sm>Poitevins (Bois des),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58215" precision="certain">Pouilly</commune> et de <commune insee="58228" precision="certain">Saint-Andelain</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58215" precision="approximatif">Pouilly</commune> et de <commune insee="58228" precision="approximatif">Saint-Andelain</commune></localisation>.</definition>
   </article>
   <article id="DT58-06999" pg="147">
     <vedette><sm>Poivrière (La),</sm></vedette>
@@ -37456,7 +37456,7 @@
   </article>
   <article id="DT58-07223" pg="152">
     <vedette><sm>Prémoux (Bois de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58255" precision="certain">Saint-Martin-du-Puits</commune> et d’<commune insee="58108" precision="certain">Empury</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58255" precision="approximatif">Saint-Martin-du-Puits</commune> et d’<commune insee="58108" precision="approximatif">Empury</commune></localisation>.</definition>
   </article>
   <article id="DT58-07224" pg="152">
     <vedette><sm>Prénat,</sm></vedette>
@@ -37586,7 +37586,7 @@
   </article>
   <article id="DT58-07249" pg="152">
     <vedette><sm>Pressoir (Le),</sm></vedette>
-    <definition><typologie>maison</typologie>, à <localisation><commune insee="58121">Parzy</commune></localisation>, mentionnée en <date>1409</date> (Marolles).</definition>
+    <definition><typologie>maison</typologie>, à <localisation><commune insee="58121" precision="certain">Parzy</commune></localisation>, mentionnée en <date>1409</date> (Marolles).</definition>
     <forme_ancienne>— <i>Pressoir-a-Parzy,</i> <date>1638</date> <reference>(Marolles)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Fief de la châtell. de Pougues.</p>
@@ -37604,7 +37604,7 @@
   </article>
   <article id="DT58-07252" pg="153">
     <vedette><sm>Pressoir (Le),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204">Ourouer</commune></localisation>, commune de ce nom.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg d’<commune insee="58204" precision="certain">Ourouer</commune></localisation>, commune de ce nom.</definition>
   </article>
   <article id="DT58-07253" pg="153">
     <vedette><sm>Pressures,</sm></vedette>
@@ -38311,7 +38311,7 @@
     <definition><typologie>maison</typologie>, <localisation>commune de <commune insee="58033" precision="certain">Bitry</commune></localisation>.</definition>
   </article>
   <article id="DT58-07392" pg="155">
-    <vedette><sm>Ranceau (Le Grand</sm> et <sm>le Petit),</sm></vedette>
+    <vedette><sm>Ranceau (Le Grand et le Petit),</sm></vedette>
     <definition><typologie>hameaux</typologie>, <localisation>commune de <commune insee="58267" precision="certain">Saint-Saulge</commune></localisation>.</definition>
   </article>
   <article id="DT58-07393" pg="155">
@@ -38892,7 +38892,7 @@
   </article>
   <article id="DT58-07506" pg="157">
     <vedette><sm>Réveillon (Le Petit-),</sm></vedette>
-    <definition><typologie>maison</typologie>, à <localisation><commune insee="58109">Entrains</commune></localisation>, proche de la porte d’Auxerre, où étaient, en <date>1638</date>, les religieux des Anges (arch. de l’Yonne).</definition>
+    <definition><typologie>maison</typologie>, à <localisation><commune insee="58109" precision="certain">Entrains</commune></localisation>, proche de la porte d’Auxerre, où étaient, en <date>1638</date>, les religieux des Anges (arch. de l’Yonne).</definition>
   </article>
   <article id="DT58-07507" pg="157">
     <vedette><sm>Revenue (Bois de la),</sm></vedette>
@@ -38939,7 +38939,7 @@
   </article>
   <article id="DT58-07515" pg="157">
     <vedette><sm>Riat (Bois de),</sm></vedette>
-    <definition><localisation>communes d’<commune insee="58134" precision="certain">Imphy</commune> et de la <commune insee="58112" precision="certain">Fermeté</commune></localisation>.</definition>
+    <definition><localisation>communes d’<commune insee="58134" precision="approximatif">Imphy</commune> et de la <commune insee="58112" precision="approximatif">Fermeté</commune></localisation>.</definition>
   </article>
   <article id="DT58-07516" pg="158">
     <pg>158</pg>
@@ -39680,7 +39680,7 @@
   </article>
   <article id="DT58-07661" pg="160">
     <vedette><sm>Ronceau (Forêt de),</sm></vedette>
-    <definition><localisation>communes de <commune insee="58053" precision="certain">Champlemy</commune> et d’<commune insee="58201" precision="certain">Oudan</commune></localisation>.</definition>
+    <definition><localisation>communes de <commune insee="58053" precision="approximatif">Champlemy</commune> et d’<commune insee="58201" precision="approximatif">Oudan</commune></localisation>.</definition>
     <forme_ancienne>— <i>Forêt de Ronceaux, dépendant de la terre de Varzy,</i> <date>1743</date> <reference>(arch. de l’Yonne, fonds de Varzy)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-07662" pg="160">
@@ -39890,7 +39890,7 @@
   </article>
   <article id="DT58-07700" pg="161">
     <vedette><sm>Rouesses (Les),</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58218" precision="certain">Prémery</commune> et de <commune insee="58279" precision="certain">Sichamps</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58218" precision="approximatif">Prémery</commune> et de <commune insee="58279" precision="approximatif">Sichamps</commune></localisation>.</definition>
   </article>
   <article id="DT58-07701" pg="161">
     <vedette><sm>Rouettard,</sm></vedette>
@@ -41691,7 +41691,7 @@
   </article>
   <article id="DT58-07985" pg="171">
     <vedette><sm>Salles (Les),</sm></vedette>
-    <definition><typologie>faubourg</typologie> d’<localisation><commune insee="58109">Entrains</commune></localisation>, mentionné en <date>1519</date> (arch. de l’Yonne, fonds de Varzy).</definition>
+    <definition><typologie>faubourg</typologie> d’<localisation><commune insee="58109" precision="approximatif">Entrains</commune></localisation>, mentionné en <date>1519</date> (arch. de l’Yonne, fonds de Varzy).</definition>
   </article>
   <article id="DT58-07986" pg="171">
     <vedette><sm>Sallinière,</sm></vedette>
@@ -42197,7 +42197,7 @@
   </article>
   <article id="DT58-08076" pg="173">
     <vedette><sm>Sauzay (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans l’étang d’Oudan, commune de ce nom, traverse les <localisation>communes d’<commune insee="58201" precision="certain">Oudan</commune>, la <commune insee="58058" precision="certain">Chapelle-Saint-André</commune>, Corvol-l’Orgueilleux, Trucy-l’Orgueilleux, <commune insee="58038" precision="certain">Breugnon</commune> et <commune insee="58079" precision="certain">Clamecy</commune></localisation> et se jette dans le Beuvron au-dessous de Beaugy.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans l’étang d’Oudan, commune de ce nom, traverse les <localisation>communes d’<commune insee="58201" precision="approximatif">Oudan</commune>, la <commune insee="58058" precision="approximatif">Chapelle-Saint-André</commune>, Corvol-l’Orgueilleux, Trucy-l’Orgueilleux, <commune insee="58038" precision="approximatif">Breugnon</commune> et <commune insee="58079" precision="approximatif">Clamecy</commune></localisation> et se jette dans le Beuvron au-dessous de Beaugy.</definition>
   </article>
   <article id="DT58-08077" pg="173">
     <vedette><sm>Sauzay (Le Grand-),</sm></vedette>
@@ -42363,7 +42363,7 @@
   </article>
   <article id="DT58-08103" pg="173">
     <vedette><sm>Séglise (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source au mont Beuvray et se jette dans l’Haleine, après avoir traversé les <localisation>communes de <commune insee="58128" precision="certain">Glux</commune>, la <commune insee="58140" precision="certain">Roche-Millay</commune>, <commune insee="58168" precision="certain">Millay</commune>, <commune insee="58074" precision="certain">Chiddes</commune>, <commune insee="58149" precision="certain">Luzy</commune> et <commune insee="58287" precision="certain">Tazilly</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source au mont Beuvray et se jette dans l’Haleine, après avoir traversé les <localisation>communes de <commune insee="58128" precision="approximatif">Glux</commune>, la <commune insee="58140" precision="approximatif">Roche-Millay</commune>, <commune insee="58168" precision="approximatif">Millay</commune>, <commune insee="58074" precision="approximatif">Chiddes</commune>, <commune insee="58149" precision="approximatif">Luzy</commune> et <commune insee="58287" precision="approximatif">Tazilly</commune></localisation>.</definition>
   </article>
   <article id="DT58-08104" pg="174">
     <pg>174</pg>
@@ -43017,7 +43017,7 @@
   </article>
   <article id="DT58-08219" pg="176">
     <vedette><sm>Source de la Nièvre,</sm></vedette>
-    <definition>dans le parc du <localisation>château de <commune insee="58053">Champlemy</commune></localisation>, commune de ce nom.</definition>
+    <definition>dans le parc du <localisation>château de <commune insee="58053" precision="approximatif">Champlemy</commune></localisation>, commune de ce nom.</definition>
   </article>
   <article id="DT58-08220" pg="176">
     <vedette><sm>Sources de l’Yonne,</sm></vedette>
@@ -43433,7 +43433,7 @@
   </article>
   <article id="DT58-08302" pg="178">
     <vedette><sm>Talvanne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58048" precision="certain">Cessy-les-Bois</commune></localisation> et va se jeter dans le Nohain à <localisation><commune insee="58102" precision="certain">Donzy</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source dans la <localisation>commune de <commune insee="58048" precision="approximatif">Cessy-les-Bois</commune></localisation> et va se jeter dans le Nohain à <localisation><commune insee="58102" precision="approximatif">Donzy</commune></localisation>.</definition>
   </article>
   <article id="DT58-08303" pg="178">
     <vedette><sm>Tambourinette (La),</sm></vedette>
@@ -43496,7 +43496,7 @@
   </article>
   <article id="DT58-08313" pg="178">
     <vedette><sm>Tannay,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58172" precision="certain">Montambert</commune></localisation> ; paroisse réunie à <localisation><commune insee="58172" precision="certain">Montambert</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58172" precision="approximatif">Montambert</commune></localisation> ; paroisse réunie à <localisation><commune insee="58172" precision="approximatif">Montambert</commune></localisation>.</definition>
     <forme_ancienne>— <i>Thanedus,</i> <date><sm>xiv</sm><sup>e</sup> siècle</date> <reference>(pouillé d’Autun)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Tannay,</i> <date>1453</date> <reference>(A. N.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Tasnay,</i> <date>1760</date> <reference>(A. N.)</reference>.</forme_ancienne>
@@ -43548,7 +43548,7 @@
   </article>
   <article id="DT58-08323" pg="178">
     <vedette><sm>Tarenne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans le <localisation>département de la Côte-d’Or</localisation>, traverse, dans la Nièvre, les <localisation>communes d’<commune insee="58003" precision="certain">Alligny-en-Morvand</commune> et de <commune insee="58185" precision="certain">Moux</commune></localisation> et se jette dans l’Arroux (Saône-et-Loire).</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans le <localisation>département de la Côte-d’Or</localisation>, traverse, dans la Nièvre, les <localisation>communes d’<commune insee="58003" precision="approximatif">Alligny-en-Morvand</commune> et de <commune insee="58185" precision="approximatif">Moux</commune></localisation> et se jette dans l’Arroux (Saône-et-Loire).</definition>
   </article>
   <article id="DT58-08324" pg="178">
     <vedette><sm>Tarin (Moulin de),</sm></vedette>
@@ -43950,7 +43950,7 @@
   </article>
   <article id="DT58-08395" pg="180">
     <vedette><sm>Thibaudats (Les),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58234">Saint-Bonnot</commune></localisation>, commune de ce nom.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58234" precision="certain">Saint-Bonnot</commune></localisation>, commune de ce nom.</definition>
   </article>
   <article id="DT58-08396" pg="180">
     <vedette><sm>Thibault,</sm></vedette>
@@ -43973,7 +43973,7 @@
     </commentaire>
   </article>
   <article id="DT58-08400" pg="180">
-    <vedette><sm>Thibert (Moulin</sm> et <sm>Étang de la),</sm></vedette>
+    <vedette><sm>Thibert (Moulin et Étang de la),</sm></vedette>
     <definition>détruits, mentionnés au <date><sm>xvi</sm><sup>e</sup> siècle</date> (arch. de Quincize).</definition>
   </article>
   <article id="DT58-08401" pg="180">
@@ -44353,7 +44353,7 @@
   </article>
   <article id="DT58-08475" pg="181">
     <vedette><sm>Touron,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> affluent de l’Yonne, <localisation>communes d’<commune insee="58010" precision="certain">Arleuf</commune> et de <commune insee="58082" precision="certain">Corancy</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> affluent de l’Yonne, <localisation>communes d’<commune insee="58010" precision="approximatif">Arleuf</commune> et de <commune insee="58082" precision="approximatif">Corancy</commune></localisation>.</definition>
   </article>
   <article id="DT58-08476" pg="181">
     <vedette><sm>Touroux (Les),</sm></vedette>
@@ -44486,7 +44486,7 @@
   </article>
   <article id="DT58-08496" pg="182">
     <vedette><sm>Trait (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune d’<commune insee="58001" precision="certain">Achun</commune></localisation>, traverse les <localisation>communes d’<commune insee="58017" precision="certain">Aunay</commune>, <commune insee="58202" precision="certain">Ougny</commune>, <commune insee="58285" precision="certain">Tamnay</commune> et <commune insee="58040" precision="certain">Brinay</commune></localisation> et se jette dans l’Aron.</definition>
+    <definition><typologie>rivière</typologie> prend sa source dans la <localisation>commune d’<commune insee="58001" precision="approximatif">Achun</commune></localisation>, traverse les <localisation>communes d’<commune insee="58017" precision="approximatif">Aunay</commune>, <commune insee="58202" precision="approximatif">Ougny</commune>, <commune insee="58285" precision="approximatif">Tamnay</commune> et <commune insee="58040" precision="approximatif">Brinay</commune></localisation> et se jette dans l’Aron.</definition>
     <forme_ancienne>— <i>Riviere de Poilly,</i> <date>1284</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Traict,</i> <date>1559</date> <reference>(C.)</reference>.</forme_ancienne>
   </article>
@@ -45254,7 +45254,7 @@
   </article>
   <article id="DT58-08637" pg="185">
     <vedette><sm>Usage-Bertin (L’),</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58178" precision="certain">Montigny-sur-Canne</commune> et d’<commune insee="58135" precision="certain">Isenay</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>communes de <commune insee="58178" precision="approximatif">Montigny-sur-Canne</commune> et d’<commune insee="58135" precision="approximatif">Isenay</commune></localisation>.</definition>
   </article>
   <article id="DT58-08638" pg="185">
     <vedette><sm>Usage-de-Faches (L’),</sm></vedette>
@@ -45286,7 +45286,7 @@
   </article>
   <article id="DT58-08644" pg="185">
     <vedette><sm>Usages-d’Arbourse (Les),</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>communes d’<commune insee="58009" precision="certain">Arbourse</commune> et de <commune insee="58061" precision="certain">Chasnay</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>communes d’<commune insee="58009" precision="approximatif">Arbourse</commune> et de <commune insee="58061" precision="approximatif">Chasnay</commune></localisation>.</definition>
   </article>
   <article id="DT58-08645" pg="185">
     <vedette><sm>Usages-d’Arthel (Les),</sm></vedette>
@@ -45444,7 +45444,7 @@
   </article>
   <article id="DT58-08676" pg="186">
     <vedette><sm>Valettes (Ruisseau des),</sm></vedette>
-    <definition>affluent de la Loire, prend sa source dans les <localisation>bois de la <commune insee="58151">Machine</commune></localisation>, commune de ce nom, et traverse les <localisation>communes de <commune insee="58250" precision="certain">Saint-Léger-des-Vignes</commune> et de <commune insee="58280" precision="certain">Sougy</commune></localisation>.</definition>
+    <definition>affluent de la Loire, prend sa source dans les <localisation>bois de la <commune insee="58151" precision="approximatif">Machine</commune></localisation>, commune de ce nom, et traverse les <localisation>communes de <commune insee="58250" precision="approximatif">Saint-Léger-des-Vignes</commune> et de <commune insee="58280" precision="approximatif">Sougy</commune></localisation>.</definition>
   </article>
   <article id="DT58-08677" pg="186">
     <vedette><sm>Vallée (La),</sm></vedette>
@@ -46361,7 +46361,7 @@
   </article>
   <article id="DT58-08840" pg="189">
     <vedette><sm>Vaux de Nevers (Les),</sm></vedette>
-    <definition><typologie>archiprêtré</typologie> du <localisation>diocèse de Nevers</localisation> qui, en <date>1287</date>, comprenait 30 paroisses, dont 17 seulement font aujourd’hui partie du <localisation>département de la Nièvre</localisation> : ce sont celles de <localisation><commune insee="58056">Champvoux</commune>, <commune insee="58067">Chaulgnes</commune>, <commune insee="58231">Frasnay-les-Chanoines</commune>, <commune insee="58121">Garchizy</commune>, <commune insee="58124">Germigny</commune>, Saint-Pierre-de-la-Marche, <pg>190</pg>Saint-Martin-de-la-Marche, Marzy, Munot, Parigny-les-Vaux, Parzy, Pougues, Satinges, Soulangy, Tronsanges, Urzy et Varennes-lez-Nevers</localisation>.</definition>
+    <definition><typologie>archiprêtré</typologie> du <localisation>diocèse de Nevers</localisation> qui, en <date>1287</date>, comprenait 30 paroisses, dont 17 seulement font aujourd’hui partie du <localisation>département de la Nièvre</localisation> : ce sont celles de <localisation><commune insee="58056" precision="approximatif">Champvoux</commune>, <commune insee="58067" precision="approximatif">Chaulgnes</commune>, <commune insee="58231" precision="approximatif">Frasnay-les-Chanoines</commune>, <commune insee="58121" precision="approximatif">Garchizy</commune>, <commune insee="58124" precision="approximatif">Germigny</commune>, Saint-Pierre-de-la-Marche, <pg>190</pg>Saint-Martin-de-la-Marche, Marzy, Munot, Parigny-les-Vaux, Parzy, Pougues, Satinges, Soulangy, Tronsanges, Urzy et Varennes-lez-Nevers</localisation>.</definition>
     <commentaire>
       <p>Les autres paroisses de cet archiprêtré, situées sur la rive gauche de la Loire et de l’Allier, font maintenant partie des départements du Cher et de l’Allier.</p>
     </commentaire>
@@ -46497,7 +46497,7 @@
   </article>
   <article id="DT58-08865" pg="190">
     <vedette><sm>Velné (Ruisseau de),</sm></vedette>
-    <definition>prend sa source dans le <localisation>département de Saône-et-Loire</localisation> et se jette dans l’Oussière, après avoir arrosé les <localisation>communes de <commune insee="58141" precision="certain">Frétoy</commune> et de <commune insee="58210" precision="certain">Planchez</commune></localisation>.</definition>
+    <definition>prend sa source dans le <localisation>département de Saône-et-Loire</localisation> et se jette dans l’Oussière, après avoir arrosé les <localisation>communes de <commune insee="58141" precision="approximatif">Frétoy</commune> et de <commune insee="58210" precision="approximatif">Planchez</commune></localisation>.</definition>
   </article>
   <article id="DT58-08866" pg="190">
     <vedette><sm>Velotte,</sm></vedette>
@@ -47166,7 +47166,7 @@
   </article>
   <article id="DT58-08998" pg="193">
     <vedette><sm>Vetula Vinea (Villa vocata),</sm></vedette>
-    <definition><typologie>lieu</typologie> qui faisait partie du <localisation>territoire actuel de <commune insee="58267">Saint-Saulge</commune></localisation>, mentionné en <date>908</date> (Bulliot, II, 20).</definition>
+    <definition><typologie>lieu</typologie> qui faisait partie du <localisation>territoire actuel de <commune insee="58267" precision="certain">Saint-Saulge</commune></localisation>, mentionné en <date>908</date> (Bulliot, II, 20).</definition>
   </article>
   <article id="DT58-08999" pg="193">
     <vedette><sm>Veuf (Étang),</sm></vedette>
@@ -47583,7 +47583,7 @@
   </article>
   <article id="DT58-09081" pg="194">
     <vedette><sm>Village-Dufaud (Le),</sm></vedette>
-    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58117">Fourchambault</commune></localisation> ; ce village tire son nom de M. Dufaud, qui fut le premier directeur de ce grand établissement métallurgique.</definition>
+    <definition><typologie>partie</typologie> du <localisation>bourg de <commune insee="58117" precision="certain">Fourchambault</commune></localisation> ; ce village tire son nom de M. Dufaud, qui fut le premier directeur de ce grand établissement métallurgique.</definition>
   </article>
   <article id="DT58-09082" pg="194">
     <vedette><sm>Village-du-Haut (Le),</sm></vedette>
@@ -47644,7 +47644,7 @@
   <article id="DT58-09093" pg="195">
     <pg>195</pg>
     <vedette><sm>Villaine (La),</sm></vedette>
-    <definition><typologie>fraction</typologie> du <localisation>bourg de <commune insee="58216">Pouques</commune></localisation>, commune de ce nom.</definition>
+    <definition><typologie>fraction</typologie> du <localisation>bourg de <commune insee="58216" precision="certain">Pouques</commune></localisation>, commune de ce nom.</definition>
     <forme_ancienne>— <i>La Villaine,</i> <date>1673</date> <reference>(reg. de Pouques)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-09094" pg="195">
@@ -47836,7 +47836,7 @@
   </article>
   <article id="DT58-09122" pg="195">
     <vedette><sm>Ville (Ruisseau de la),</sm></vedette>
-    <definition>affluent de l’Aron, traverse les <localisation>communes de <commune insee="58267" precision="certain">Saint-Saulge</commune> et de <commune insee="58171" precision="certain">Montapas</commune></localisation>.</definition>
+    <definition>affluent de l’Aron, traverse les <localisation>communes de <commune insee="58267" precision="approximatif">Saint-Saulge</commune> et de <commune insee="58171" precision="approximatif">Montapas</commune></localisation>.</definition>
   </article>
   <article id="DT58-09123" pg="195">
     <vedette><sm>Villeberne,</sm></vedette>
@@ -48297,7 +48297,7 @@
   </article>
   <article id="DT58-09202" pg="197">
     <vedette><sm>Vincence (Forêt de),</sm></vedette>
-    <definition>s’étend dans les <localisation>communes de <commune insee="58030" precision="certain">Biches</commune> et de <commune insee="58178" precision="certain">Montigny-sur-Canne</commune></localisation>.</definition>
+    <definition>s’étend dans les <localisation>communes de <commune insee="58030" precision="approximatif">Biches</commune> et de <commune insee="58178" precision="approximatif">Montigny-sur-Canne</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bois de Vincence,</i> <date>1461</date> <reference>(S.)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-09203" pg="197">
@@ -48416,7 +48416,7 @@
   </article>
   <article id="DT58-09224" pg="198">
     <vedette><sm>Viz-Creuses (Les),</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, <localisation>entre <commune insee="58194">Nevers</commune> et <commune insee="58214">Pougues</commune></localisation>, mentionné en <date>1481</date> (C.).</definition>
+    <definition><typologie>hameau détruit</typologie>, <localisation>entre <commune insee="58194" precision="approximatif">Nevers</commune> et <commune insee="58214" precision="approximatif">Pougues</commune></localisation>, mentionné en <date>1481</date> (C.).</definition>
   </article>
   <article id="DT58-09225" pg="198">
     <vedette><sm>Vocures (Les),</sm></vedette>
@@ -48544,7 +48544,7 @@
   </article>
   <article id="DT58-09249" pg="198">
     <vedette><sm>Vrille (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source dans le départ. de l’Yonne et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58227" precision="certain">Saint-Amand</commune>, <commune insee="58012" precision="certain">Arquian</commune>, <commune insee="58007" precision="certain">Annay</commune> et <commune insee="58193" precision="certain">Neuvy</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source dans le départ. de l’Yonne et se jette dans la Loire, après avoir traversé les <localisation>communes de <commune insee="58227" precision="approximatif">Saint-Amand</commune>, <commune insee="58012" precision="approximatif">Arquian</commune>, <commune insee="58007" precision="approximatif">Annay</commune> et <commune insee="58193" precision="approximatif">Neuvy</commune></localisation>.</definition>
   </article>
   <article id="DT58-09250" pg="198">
     <vedette><sm>Vrillon,</sm></vedette>
@@ -48582,7 +48582,7 @@
   </article>
   <article id="DT58-09255" pg="199">
     <vedette><sm>Yonne (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> prend sa source au lieu dit <i>les Sources de l’Yonne,</i> <localisation>commune de <commune insee="58128" precision="certain">Glux</commune></localisation>, arrose les <localisation>communes d’<commune insee="58010" precision="certain">Arleuf</commune>, <commune insee="58063" precision="certain">Château-Chinon-Campagne</commune>, <commune insee="58082" precision="certain">Corancy</commune>, <commune insee="58068" precision="certain">Chaumard</commune>, <commune insee="58166" precision="certain">Mhère</commune>, <commune insee="58179" precision="certain">Montreuillon</commune>, <commune insee="58183" precision="certain">Mouron</commune>, <commune insee="58110" precision="certain">Épiry</commune>, <commune insee="58272" precision="certain">Sardy</commune>, <commune insee="58208" precision="certain">Pazy</commune>, <commune insee="58069" precision="certain">Chaumot-sur-Yonne</commune>, <commune insee="58083" precision="certain">Corbigny</commune>, <commune insee="58075" precision="certain">Chitry-les-Mines</commune>, <commune insee="58159" precision="certain">Marigny-sur-Yonne</commune>, <commune insee="58098" precision="certain">Dirol</commune>, <commune insee="58170" precision="certain">Monceaux-le-Comte</commune>, <commune insee="58237" precision="certain">Saint-Didier</commune>, <commune insee="58116" precision="certain">Flez-Cuzy</commune>, <commune insee="58165" precision="certain">Metz-le-Comte</commune>, <commune insee="58016" precision="certain">Asnois</commune>, <commune insee="58039" precision="certain">Brèves</commune>, <commune insee="58312" precision="certain">Villiers-sur-Yonne</commune>, <commune insee="58103" precision="certain">Dornecy</commune>, <commune insee="58011" precision="certain">Armes</commune>, <commune insee="58079" precision="certain">Clamecy</commune>, <commune insee="58282" precision="certain">Surgy</commune> et <commune insee="58217" precision="certain">Pousseaux</commune></localisation>, entre dans le <localisation>département de l’Yonne</localisation>, et va se jeter enfin dans la Seine à <localisation><commune insee="77305">Montereau</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> prend sa source au lieu dit <i>les Sources de l’Yonne,</i> <localisation>commune de <commune insee="58128" precision="approximatif">Glux</commune></localisation>, arrose les <localisation>communes d’<commune insee="58010" precision="approximatif">Arleuf</commune>, <commune insee="58063" precision="approximatif">Château-Chinon-Campagne</commune>, <commune insee="58082" precision="approximatif">Corancy</commune>, <commune insee="58068" precision="approximatif">Chaumard</commune>, <commune insee="58166" precision="approximatif">Mhère</commune>, <commune insee="58179" precision="approximatif">Montreuillon</commune>, <commune insee="58183" precision="approximatif">Mouron</commune>, <commune insee="58110" precision="approximatif">Épiry</commune>, <commune insee="58272" precision="approximatif">Sardy</commune>, <commune insee="58208" precision="approximatif">Pazy</commune>, <commune insee="58069" precision="approximatif">Chaumot-sur-Yonne</commune>, <commune insee="58083" precision="approximatif">Corbigny</commune>, <commune insee="58075" precision="approximatif">Chitry-les-Mines</commune>, <commune insee="58159" precision="approximatif">Marigny-sur-Yonne</commune>, <commune insee="58098" precision="approximatif">Dirol</commune>, <commune insee="58170" precision="approximatif">Monceaux-le-Comte</commune>, <commune insee="58237" precision="approximatif">Saint-Didier</commune>, <commune insee="58116" precision="approximatif">Flez-Cuzy</commune>, <commune insee="58165" precision="approximatif">Metz-le-Comte</commune>, <commune insee="58016" precision="approximatif">Asnois</commune>, <commune insee="58039" precision="approximatif">Brèves</commune>, <commune insee="58312" precision="approximatif">Villiers-sur-Yonne</commune>, <commune insee="58103" precision="approximatif">Dornecy</commune>, <commune insee="58011" precision="approximatif">Armes</commune>, <commune insee="58079" precision="approximatif">Clamecy</commune>, <commune insee="58282" precision="approximatif">Surgy</commune> et <commune insee="58217" precision="approximatif">Pousseaux</commune></localisation>, entre dans le <localisation>département de l’Yonne</localisation>, et va se jeter enfin dans la Seine à <localisation><commune insee="77305" precision="approximatif">Montereau</commune></localisation>.</definition>
     <forme_ancienne>— <i>Deæ Icauni,</i> <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(inscription, Bibl. hist. de l’Yonne, I, 27)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Imgauna,</i> <date>vers 519</date> <reference>(cart. gén. de l’Yonne, I, 3)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvium Ichaune,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l’Yonne, I, 339)</reference>.</forme_ancienne>

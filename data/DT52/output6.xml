@@ -1129,7 +1129,7 @@
   </article>
   <article id="DT52-00129" pg="10">
     <vedette><sm>Barémont,</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="52306" precision="certain">Manois</commune></localisation>, située sur un versant de la montagne de Barémont, qui s'étend aussi sur le <localisation>territoire de <commune insee="52423" precision="approximatif">Rimaucourt</commune></localisation> ; on y a trouvé des vestiges de constructions romaines.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="52306" precision="approximatif">Manois</commune></localisation>, située sur un versant de la montagne de Barémont, qui s'étend aussi sur le <localisation>territoire de <commune insee="52423" precision="approximatif">Rimaucourt</commune></localisation> ; on y a trouvé des vestiges de constructions romaines.</definition>
     <commentaire>
       <p>Au bas de la colline se trouve une ferme du même nom.</p>
     </commentaire>
@@ -2238,7 +2238,7 @@
   </article>
   <article id="DT52-00299" pg="17">
     <vedette><sm>Blaiseron (Le),</sm></vedette>
-    <definition><typologie>petite rivière</typologie> qui prend sa source à <localisation><commune insee="52007" precision="certain">Ambonville</commune></localisation>, fait mouvoir les usines à fer de <localisation><commune insee="52109" precision="certain">Charmes-en-l'Angle</commune></localisation> et se jette dans la Blaise à <localisation><commune insee="52149" precision="certain">Courcelles-sur-Blaise</commune></localisation>.</definition>
+    <definition><typologie>petite rivière</typologie> qui prend sa source à <localisation><commune insee="52007" precision="approximatif">Ambonville</commune></localisation>, fait mouvoir les usines à fer de <localisation><commune insee="52109" precision="approximatif">Charmes-en-l'Angle</commune></localisation> et se jette dans la Blaise à <localisation><commune insee="52149" precision="approximatif">Courcelles-sur-Blaise</commune></localisation>.</definition>
     <forme_ancienne>- <i>Fluvius Blesironis,</i> <date><sm>x</sm><sup>e</sup> siècle</date> <reference>(cartul. Montier-en-Der, I, f° 34 r°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>La rivière de Bliseron,</i> <date>1264</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Le Blaiseron,</i> <date>1576</date> <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
@@ -2664,7 +2664,7 @@
   </article>
   <article id="DT52-00358" pg="20">
     <vedette><sm>Bonnelle (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="52449" precision="certain">Saint-Geômes</commune></localisation>, passe à <localisation>Brevoine</localisation>, sous les murs de Langres, et se perd dans la Marne au <localisation>territoire de <commune insee="52246" precision="approximatif">Hûmes</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="52449" precision="approximatif">Saint-Geômes</commune></localisation>, passe à <localisation>Brevoine</localisation>, sous les murs de Langres, et se perd dans la Marne au <localisation>territoire de <commune insee="52246" precision="approximatif">Hûmes</commune></localisation>.</definition>
     <commentaire>
       <p>Il a donné son nom à l'un des forts du camp retranché de Langres, qui est sur le territoire de Saint-Geômes.</p>
     </commentaire>
@@ -6580,7 +6580,7 @@
   </article>
   <article id="DT52-00947" pg="47">
     <vedette><sm>Cloncourt,</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52131" precision="certain">Cirfontaine-en-Ornois</commune></localisation>, section B, et <localisation>commune de <commune insee="52288" precision="certain">Lézéville</commune></localisation>, section A.</definition>
+    <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52131" precision="approximatif">Cirfontaine-en-Ornois</commune></localisation>, section B, et <localisation>commune de <commune insee="52288" precision="approximatif">Lézéville</commune></localisation>, section A.</definition>
   </article>
   <article id="DT52-00948" pg="47">
     <vedette><sm>Clongeon,</sm></vedette>
@@ -11948,7 +11948,7 @@
   </article>
   <article id="DT52-01773" pg="82">
     <vedette><sm>Grange-au-Bois (La),</sm></vedette>
-    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="52118" precision="certain">Chatonrupt</commune></localisation>, <localisation>près de <commune insee="52118" precision="approximatif">Sommermont</commune></localisation>, indiqué par Cassini ; serait peut-être la ferme aujourd'hui appelée de Saint-Éloi.</definition>
+    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="52118" precision="approximatif">Chatonrupt</commune></localisation>, <localisation>près de <commune insee="52118" precision="approximatif">Sommermont</commune></localisation>, indiqué par Cassini ; serait peut-être la ferme aujourd'hui appelée de Saint-Éloi.</definition>
     <forme_ancienne>- <i>La Grange aux Bois,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01774" pg="82">
@@ -12596,7 +12596,7 @@
   </article>
   <article id="DT52-01872" pg="86">
     <vedette><sm>Haut-Manson (Le),</sm></vedette>
-    <definition>affluent de la Voire, au <localisation>territoire de <commune insee="52331" precision="approximatif">Montier-en-Der</commune></localisation>, venant de <localisation><commune insee="52427" precision="certain">Robert-Magnil</commune></localisation>.</definition>
+    <definition>affluent de la Voire, au <localisation>territoire de <commune insee="52331" precision="approximatif">Montier-en-Der</commune></localisation>, venant de <localisation><commune insee="52427" precision="approximatif">Robert-Magnil</commune></localisation>.</definition>
     <forme_ancienne>- <i>Monasterium in Dervo constructum, quem domnus Bercharius construxit in pago Pertense, super fluvium Vigere et Almantia,</i> <date>829</date> <reference>(Cartul. Montier-en-Der, I, f° 11 v°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Monasterium situm in silva que vocatur Dervus, ubi fluvius Almantia ingreditur in Vigera, in pago Pertensi,</i> <date>840-875</date> <reference>(Cartul. Montier-en-Der, I, f° 13 v°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Alismantia,</i> <date>875</date> <reference>(Cartul. Montier-en-Der, I, f° 21 r°)</reference>.</forme_ancienne>
@@ -18663,7 +18663,7 @@
   </article>
   <article id="DT52-02788" pg="128">
     <vedette><sm>Orsoy,</sm></vedette>
-    <definition><typologie>étroite vallée</typologie> qui commence à <localisation><commune insee="52352" precision="certain">Ninville</commune></localisation> et finit à <localisation><commune insee="52271" precision="certain">Lanques</commune></localisation>, où le ruisseau qui l'arrose se jette dans le Rognon ; elle a donné son nom à la ferme du Val-d'Orsoy, commune de Lanques.</definition>
+    <definition><typologie>étroite vallée</typologie> qui commence à <localisation><commune insee="52352" precision="approximatif">Ninville</commune></localisation> et finit à <localisation><commune insee="52271" precision="approximatif">Lanques</commune></localisation>, où le ruisseau qui l'arrose se jette dans le Rognon ; elle a donné son nom à la ferme du Val-d'Orsoy, commune de Lanques.</definition>
   </article>
   <article id="DT52-02789" pg="128">
     <vedette><sm>Orsoy,</sm></vedette>
