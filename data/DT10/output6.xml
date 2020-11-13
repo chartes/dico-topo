@@ -4941,7 +4941,7 @@
   <article id="DT10-00658" pg="37">
     <vedette><sm>Chapelle aux Bés (La),</sm></vedette>
     <definition><localisation>commune de <commune insee="10333" precision="certain">Saint-André</commune></localisation>.</definition>
-    <forme_ancienne>- <date>1747</date> ou plutôt <date>1697</date> <reference>(plan de la ville de Troyes)</reference>.</forme_ancienne>
+    <forme_ancienne>- <date>1747</date> <date>ou plutôt 1697</date> <reference>(plan de la ville de Troyes)</reference>.</forme_ancienne>
   </article>
   <article id="DT10-00659" pg="37">
     <vedette><sm>Chapelle aux Marchands (La),</sm></vedette>
@@ -10187,7 +10187,8 @@
   <article id="DT10-01404" pg="71">
     <vedette><sm>Frisons,</sm></vedette>
     <definition><typologie>fief</typologie> de la prévôté d'Isle (Aumont) ; aujourd'hui détruit.</definition>
-    <forme_ancienne>- <date>1328</date> <reference>(prisie de la châtell. d'Isle)</reference> et <date>1503</date> <reference>(Bibl. nat. coll. de Champagne, t. XVII)</reference>.</forme_ancienne>
+    <forme_ancienne>- <date>1328</date> <reference>(prisie de la châtell. d'Isle)</reference></forme_ancienne>
+    <forme_ancienne>- <date>1503</date> <reference>(Bibl. nat. coll. de Champagne, t. XVII)</reference>.</forme_ancienne>
   </article>
   <article id="DT10-01405" pg="71">
     <vedette><sm>Froide-Fontaine,</sm></vedette>
@@ -11220,7 +11221,7 @@
   </article>
   <article id="DT10-01585" pg="77">
     <vedette><sm>Horreimontis ?</sm></vedette>
-    <forme_ancienne>… <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(arch. départ. G., 540)</reference>.</forme_ancienne>
+    <forme_ancienne><date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(arch. départ. G., 540)</reference>.</forme_ancienne>
     <commentaire>
       <p>- Lieu inconnu.</p>
     </commentaire>
