@@ -34,7 +34,7 @@
   </article>
   <article id="DT52-00006" pg="1">
     <vedette><sm>Abondance (L'),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>communes d'<commune insee="52353" precision="certain">Essey-les-Eaux</commune> et d'<commune insee="52353" precision="certain">Odival</commune></localisation>, appelée aussi <i>Corneloy</i>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>communes d'<commune insee="52353" precision="approximatif">Essey-les-Eaux</commune> et d'<commune insee="52353" precision="approximatif">Odival</commune></localisation>, appelée aussi <i>Corneloy</i>.</definition>
   </article>
   <article id="DT52-00007" pg="1">
     <vedette><sm>Achat (L'),</sm></vedette>
@@ -86,7 +86,7 @@
   </article>
   <article id="DT52-00012" pg="1">
     <vedette><sm>« Agninifons »,</sm></vedette>
-    <definition><typologie>localité</typologie> qui semble avoir été dans le <localisation>voisinage de <commune insee="52282">Leffonds</commune></localisation> ; l'église et le cimetière furent consacrés par Guillencus d'Aigremont, évêque de Langres, la veille des nones d'<date>octobre 1135</date>.</definition>
+    <definition><typologie>localité</typologie> qui semble avoir été dans le <localisation>voisinage de <commune insee="52282" precision="approximatif">Leffonds</commune></localisation> ; l'église et le cimetière furent consacrés par Guillencus d'Aigremont, évêque de Langres, la veille des nones d'<date>octobre 1135</date>.</definition>
     <forme_ancienne>- <i>Fratres Agninifontis, canonici de Agninofonte,</i> <date>vers 1135</date> <reference>(arch. Côte-d'Or, Morment)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00013" pg="2">
@@ -214,7 +214,7 @@
   </article>
   <article id="DT52-00024" pg="2">
     <vedette><sm>Amance,</sm></vedette>
-    <definition><typologie>rivière</typologie>, qui prend sa source à <localisation><commune insee="52119" precision="certain">Chaudenay</commune></localisation>, passe à <localisation><commune insee="52303">Maizières</commune>, <commune insee="52051">Bize</commune>, <commune insee="52013">Anrosey</commune>, la <commune insee="52257">Ferté</commune></localisation>, sort du département à <localisation><commune insee="52390" precision="certain">Pisseloup</commune></localisation>, après un parcours de 15 kilomètres, et se jette dans la Saône, rive droite, à <localisation><commune insee="70292">Jussey</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>, qui prend sa source à <localisation><commune insee="52119" precision="approximatif">Chaudenay</commune></localisation>, passe à <localisation><commune insee="52303" precision="approximatif">Maizières</commune>, <commune insee="52051" precision="approximatif">Bize</commune>, <commune insee="52013" precision="approximatif">Anrosey</commune>, la <commune insee="52257" precision="approximatif">Ferté</commune></localisation>, sort du département à <localisation><commune insee="52390" precision="approximatif">Pisseloup</commune></localisation>, après un parcours de 15 kilomètres, et se jette dans la Saône, rive droite, à <localisation><commune insee="70292" precision="approximatif">Jussey</commune></localisation>.</definition>
     <forme_ancienne>- <i>Asmantia,</i> <date>1098</date> <reference>(Chron. de Bèze, édit. Bougaud et Garnier, p. 388)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Aumantia,</i> <date>1189</date> <reference>(Vaux-la-Douce)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Esmantia,</i> <pg>3</pg><date>1224</date> <reference>(Beaulieu)</reference>.</forme_ancienne>
@@ -231,7 +231,7 @@
   </article>
   <article id="DT52-00026" pg="3">
     <vedette><sm>Ambonlieu,</sm></vedette>
-    <definition><typologie>ferme et lieu dit</typologie>, <localisation>communes de <commune insee="52131" precision="certain">Cirfontaine-en-Ornois</commune> et de <commune insee="52288" precision="certain">Lézéville</commune></localisation>.</definition>
+    <definition><typologie>ferme et lieu dit</typologie>, <localisation>communes de <commune insee="52131" precision="approximatif">Cirfontaine-en-Ornois</commune> et de <commune insee="52288" precision="approximatif">Lézéville</commune></localisation>.</definition>
     <forme_ancienne>- <i>Nabonlieu,</i> <date>1773</date> <reference>(arch. Haute-Marne, C. 262)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Bonlieu,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ambonlieu,</i> <date><sm>xix</sm><sup>e</sup> siècle</date> <reference>(cadastres de Cirfontaine, section C, et de Lézéville, section A)</reference>.</forme_ancienne>
@@ -440,7 +440,7 @@
   </article>
   <article id="DT52-00050" pg="4">
     <vedette><sm>Apance (L'),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à la <localisation>Bondice</localisation>, <localisation>commune de la <commune insee="52273" precision="certain">Rivière</commune></localisation>, passe à <localisation><commune insee="52060">Bourbonne</commune></localisation>, <localisation>près de Villars-Saint-Marcellin, à Fresne et <commune insee="52185" precision="approximatif">Enfonvelle</commune></localisation>, où elle quitte le département pour se jeter dans la Saône, rive droite, à <localisation><commune insee="88096">Châtillon</commune></localisation>, après un parcours de 20 kilomètres.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à la <localisation>Bondice</localisation>, <localisation>commune de la <commune insee="52273" precision="approximatif">Rivière</commune></localisation>, passe à <localisation><commune insee="52060" precision="approximatif">Bourbonne</commune></localisation>, <localisation>près de Villars-Saint-Marcellin, à Fresne et <commune insee="52185" precision="approximatif">Enfonvelle</commune></localisation>, où elle quitte le département pour se jeter dans la Saône, rive droite, à <localisation><commune insee="88096" precision="approximatif">Châtillon</commune></localisation>, après un parcours de 20 kilomètres.</definition>
     <forme_ancienne>- <i>Spancia,</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Gall. christ., XIII, col. 964)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>L'Espance,</i> <date>1460</date> <reference>(Arch. nat., P. 177<sup>1</sup>, n° 542)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>L'Apance,</i> <date>1538</date> <reference>(Arch. nat., P. 176<sup>2</sup>, n° 488)</reference>.</forme_ancienne>
@@ -651,7 +651,7 @@
   </article>
   <article id="DT52-00074" pg="6">
     <vedette><sm>Arney,</sm></vedette>
-    <definition><typologie>fief</typologie>, au <localisation>finage de <commune insee="52390">Pisseloup</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, au <localisation>finage de <commune insee="52390" precision="approximatif">Pisseloup</commune></localisation>.</definition>
     <forme_ancienne>- <i>Arney,</i> <date>1675</date> <reference>(arch. Haute-Marne, G. 85, f° 10)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00075" pg="6" type="commune">
@@ -667,7 +667,7 @@
   </article>
   <article id="DT52-00076" pg="6">
     <vedette><sm>« Arruain »,</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, qui était <localisation>voisin de <commune insee="52058">Bologne</commune></localisation>.</definition>
+    <definition><typologie>moulin détruit</typologie>, qui était <localisation>voisin de <commune insee="52058" precision="approximatif">Bologne</commune></localisation>.</definition>
     <forme_ancienne>- <i>Molendinum de Harewuns,</i> <date>1138-1143</date> <reference>(Bibl. nat., coll. Champ., t. CLII, f° 44)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Molendinum de Haroen,</i> <date>1167</date> <reference>(la Crête)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Boloigne sur Marne, dès le molin d'Arruain,</i> <date>1419</date> <reference>(Arch. nat., P. 174<sup>1</sup>, n° 298)</reference>.</forme_ancienne>
@@ -817,7 +817,7 @@
   </article>
   <article id="DT52-00087" pg="8">
     <vedette><sm>Aujon (L'),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source au <localisation>Creux-d'Aujon</localisation>, dans le <localisation>bois de <commune insee="52384">Perrogney</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source au <localisation>Creux-d'Aujon</localisation>, dans le <localisation>bois de <commune insee="52384" precision="approximatif">Perrogney</commune></localisation>.</definition>
     <commentaire>
       <p>Elle parcourt les territoires de Chameroy, Rochetaillée, Saint-Loup, Courcelles, Giey, Arc-en-Barrois, Cour-l'Évêque, Coupray, Montribourg, Châteauvillain, Pont-la-Ville, Aizanville, Maranville et Rennepont, puis sort du département et va se jeter dans l'Aube, près de Clairvaux, après un parcours de 45 kilomètres.</p>
     </commentaire>
@@ -1576,7 +1576,7 @@
   </article>
   <article id="DT52-00197" pg="13">
     <vedette><sm>Bel-Air,</sm></vedette>
-    <definition><localisation>faubourg de <commune insee="52269">Langres</commune></localisation>.</definition>
+    <definition><localisation>faubourg de <commune insee="52269" precision="approximatif">Langres</commune></localisation>.</definition>
   </article>
   <article id="DT52-00198" pg="13">
     <vedette><sm>Bel-Air,</sm></vedette>
@@ -2208,7 +2208,7 @@
   </article>
   <article id="DT52-00297" pg="17">
     <vedette><sm>Blaise (La),</sm></vedette>
-    <definition><typologie>rivière</typologie>, affluent de la Marne, rive gauche, qui prend sa source à <localisation><commune insee="52221" precision="certain">Gillancourt</commune></localisation>, passe à <localisation><commune insee="52053">Blaisy</commune>, <commune insee="52253">Juzennecourt</commune>, la <commune insee="52254">Chapelle-en-Blésy</commune>, la <commune insee="52262">Mothe-en-Blésy</commune>, <commune insee="52157">Curmont</commune>, <commune insee="52140">Blaise</commune>, <commune insee="52232">Guindrecourt-sur-Blaise</commune>, <commune insee="52160">Daillancourt</commune>, <commune insee="52065">Bouzancourt</commune>, <commune insee="52129">Cirey-sur-Blaise</commune>, <commune insee="52019">Arnancourt</commune>, <commune insee="52178">Doulevant-le-Château</commune>, <commune insee="52172">Dommartin-le-Saint-Père</commune>, <commune insee="52149">Courcelles-sur-Blaise</commune>, <commune insee="52171">Dommartin-le-Franc</commune>, <commune insee="52528">Ville-en-Blaisois</commune>, <commune insee="52179">Doulevant-le-Petit</commune>, <commune insee="52413">Ragecourt-sur-Blaise</commune>, <commune insee="52510">Vaux-sur-Blaise</commune>, <commune insee="52336">Montreuil-sur-Blaise</commune>, <commune insee="52079">Brousseval</commune>, <commune insee="52550">Vassy</commune>, <commune insee="52021">Attancourt</commune>, <commune insee="52294">Louvemont</commune>, <commune insee="52182">Eclaron</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>, affluent de la Marne, rive gauche, qui prend sa source à <localisation><commune insee="52221" precision="approximatif">Gillancourt</commune></localisation>, passe à <localisation><commune insee="52053" precision="approximatif">Blaisy</commune>, <commune insee="52253" precision="approximatif">Juzennecourt</commune>, la <commune insee="52254" precision="approximatif">Chapelle-en-Blésy</commune>, la <commune insee="52262" precision="approximatif">Mothe-en-Blésy</commune>, <commune insee="52157" precision="approximatif">Curmont</commune>, <commune insee="52140" precision="approximatif">Blaise</commune>, <commune insee="52232" precision="approximatif">Guindrecourt-sur-Blaise</commune>, <commune insee="52160" precision="approximatif">Daillancourt</commune>, <commune insee="52065" precision="approximatif">Bouzancourt</commune>, <commune insee="52129" precision="approximatif">Cirey-sur-Blaise</commune>, <commune insee="52019" precision="approximatif">Arnancourt</commune>, <commune insee="52178" precision="approximatif">Doulevant-le-Château</commune>, <commune insee="52172" precision="approximatif">Dommartin-le-Saint-Père</commune>, <commune insee="52149" precision="approximatif">Courcelles-sur-Blaise</commune>, <commune insee="52171" precision="approximatif">Dommartin-le-Franc</commune>, <commune insee="52528" precision="approximatif">Ville-en-Blaisois</commune>, <commune insee="52179" precision="approximatif">Doulevant-le-Petit</commune>, <commune insee="52413" precision="approximatif">Ragecourt-sur-Blaise</commune>, <commune insee="52510" precision="approximatif">Vaux-sur-Blaise</commune>, <commune insee="52336" precision="approximatif">Montreuil-sur-Blaise</commune>, <commune insee="52079" precision="approximatif">Brousseval</commune>, <commune insee="52550" precision="approximatif">Vassy</commune>, <commune insee="52021" precision="approximatif">Attancourt</commune>, <commune insee="52294" precision="approximatif">Louvemont</commune>, <commune insee="52182" precision="approximatif">Eclaron</commune></localisation>.</definition>
     <commentaire>
       <p>Elle pénètre dans le département de la Marne par le finage de Sainte-Livière et se jette dans la rivière de Marne en face de Larzicourt. - La Blaise a donné son nom à un doyenné du diocèse de Toul <renvoi>(<i>voir</i> le mot <sm>Blaisois</sm>)</renvoi>.</p>
     </commentaire>
@@ -2654,7 +2654,7 @@
   </article>
   <article id="DT52-00356" pg="20">
     <vedette><sm>Bonne-Fontaine,</sm></vedette>
-    <definition><typologie>domaine, avec parc</typologie>, près de la <localisation>forge de <commune insee="52114">Châteauvillain</commune></localisation>.</definition>
+    <definition><typologie>domaine, avec parc</typologie>, près de la <localisation>forge de <commune insee="52114" precision="approximatif">Châteauvillain</commune></localisation>.</definition>
     <forme_ancienne>- <i>Le gaignage de La Bonnefontaine,</i> <date>1579</date> <reference>(Arch. nat., P. 175<sup>1</sup>, n° 356)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00357" pg="20">
@@ -2905,7 +2905,7 @@
   </article>
   <article id="DT52-00402" pg="22">
     <vedette><sm>Boulainvaux,</sm></vedette>
-    <definition><typologie>fief</typologie> de la <localisation>châtellenie de <commune insee="52550">Vassy</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> de la <localisation>châtellenie de <commune insee="52550" precision="approximatif">Vassy</commune></localisation>.</definition>
     <forme_ancienne>- <i>Bolesvax,</i> <date>1202</date> <reference>(arch. Aube, Clairvaux)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Bollainvax, Bollaynvaus, Bollenvaus, Bolleyvaus,</i> <date>1224</date> <reference>(Thors)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Boulainvaux,</i> <date>1393</date> <reference>(Arch. nat., P. 177<sup>2</sup>, n° 593)</reference>.</forme_ancienne>
@@ -3707,7 +3707,7 @@
   </article>
   <article id="DT52-00497" pg="28">
     <vedette><sm>Bureton,</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, qui était sur la rivière de Blaise, dans le <localisation>voisinage de <commune insee="52160">Daillancourt</commune></localisation>.</definition>
+    <definition><typologie>moulin détruit</typologie>, qui était sur la rivière de Blaise, dans le <localisation>voisinage de <commune insee="52160" precision="approximatif">Daillancourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Un coppel de la rivière de Bloise, qui se prent dès le molin de Buretons, jusques au dessoubs d'icelle ville de Daillancourt,</i> <date>1447</date> <reference>(Arch. nat., P. 174<sup>1</sup>, n° 302)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00498" pg="28">
@@ -3865,7 +3865,7 @@
     <insee>52087</insee>
   </article>
   <article id="DT52-00515" pg="29">
-    <vedette><sm>Buzon (Grand</sm> et <sm>Petit),</sm></vedette>
+    <vedette><sm>Buzon (Grand et Petit),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="52269" precision="certain">Langres</commune></localisation> et fort du camp retranché de Langres.</definition>
     <forme_ancienne>- <i>Buzon,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
   </article>
@@ -4448,7 +4448,7 @@
   </article>
   <article id="DT52-00601" pg="33">
     <vedette><sm>Champgirault,</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, <localisation>finage de <commune insee="52158">Cusey</commune></localisation>, citée en <date>1328</date> <reference>(arch. Haute-Marne, G. 251)</reference>.</definition>
+    <definition><typologie>ferme détruite</typologie>, <localisation>finage de <commune insee="52158" precision="approximatif">Cusey</commune></localisation>, citée en <date>1328</date> <reference>(arch. Haute-Marne, G. 251)</reference>.</definition>
   </article>
   <article id="DT52-00602" pg="33" type="commune">
     <vedette><sm>Champigneulles,</sm></vedette>
@@ -4548,7 +4548,7 @@
   </article>
   <article id="DT52-00613" pg="34">
     <vedette><sm>Champsevraine,</sm></vedette>
-    <definition><typologie>bois, château détruit</typologie>, <localisation>commune de <commune insee="52083" precision="certain">Buxières-lez-Belmont</commune><i>ou</i> des <commune insee="52290" precision="certain">Loges</commune></localisation>.</definition>
+    <definition><typologie>bois, château détruit</typologie>, <localisation>commune de <commune insee="52083" precision="approximatif">Buxières-lez-Belmont</commune><i>ou</i> des <commune insee="52290" precision="approximatif">Loges</commune></localisation>.</definition>
     <forme_ancienne>- <i>Cancervina,</i> <date>1147</date> <reference>(Belmont)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Chan-Cevreine,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Sansevrenne,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
@@ -4623,7 +4623,7 @@
   </article>
   <article id="DT52-00621" pg="35">
     <vedette><sm>Chantemerle,</sm></vedette>
-    <definition><typologie>village détruit</typologie>, qui était <localisation>voisin de <commune insee="52060">Bourbonne-les-Bains</commune></localisation> et jouissait des privilèges accordés à cette ville.</definition>
+    <definition><typologie>village détruit</typologie>, qui était <localisation>voisin de <commune insee="52060" precision="approximatif">Bourbonne-les-Bains</commune></localisation> et jouissait des privilèges accordés à cette ville.</definition>
     <forme_ancienne>- <i>Cantus Merule,</i> <date>1318</date> <reference>(Berger de Xivrey : Lettre… sur Bourbonne…, 1833, p. 220)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00622" pg="35">
@@ -4968,7 +4968,7 @@
   </article>
   <article id="DT52-00689" pg="37">
     <vedette><sm>Chardon,</sm></vedette>
-    <definition><typologie>fief</typologie> qui relevait de la Fauche et dont les terres s'étendaient sur les <localisation>territoires de <commune insee="52407">Prez-sous-la-Fauche</commune>, <commune insee="52289">Liffol-le-Petit</commune> et <commune insee="52517">Vesaignes-sous-la-Fauche</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui relevait de la Fauche et dont les terres s'étendaient sur les <localisation>territoires de <commune insee="52407" precision="approximatif">Prez-sous-la-Fauche</commune>, <commune insee="52289" precision="approximatif">Liffol-le-Petit</commune> et <commune insee="52517" precision="approximatif">Vesaignes-sous-la-Fauche</commune></localisation>.</definition>
   </article>
   <article id="DT52-00690" pg="37">
     <vedette><sm>Chardonville,</sm></vedette>
@@ -5142,7 +5142,7 @@
   </article>
   <article id="DT52-00710" pg="38">
     <vedette><sm>Charmotte (La),</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, qui était sur l'Aujon, <localisation>entre <commune insee="52450">Saint-Loup</commune> et <commune insee="52431">Rochetaillée</commune></localisation>.</definition>
+    <definition><typologie>moulin détruit</typologie>, qui était sur l'Aujon, <localisation>entre <commune insee="52450" precision="approximatif">Saint-Loup</commune> et <commune insee="52431" precision="approximatif">Rochetaillée</commune></localisation>.</definition>
     <forme_ancienne>- <i>Lacharmotte,</i> <date>1858</date> <reference>(Jolibois : La Haute-Marne, p. 284)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00711" pg="38" type="commune">
@@ -5271,7 +5271,7 @@
   </article>
   <article id="DT52-00733" pg="39">
     <vedette><sm>Château-Gilbert (Le),</sm></vedette>
-    <definition><typologie>roche</typologie> qui sépare <localisation><commune insee="52315">Marnay</commune> de <commune insee="52401">Poulangy</commune></localisation>.</definition>
+    <definition><typologie>roche</typologie> qui sépare <localisation><commune insee="52315" precision="approximatif">Marnay</commune> de <commune insee="52401" precision="approximatif">Poulangy</commune></localisation>.</definition>
   </article>
   <article id="DT52-00734" pg="39">
     <vedette><sm>Château-Lion (Le),</sm></vedette>
@@ -6074,11 +6074,11 @@
   </article>
   <article id="DT52-00886" pg="43">
     <vedette><sm>Chavagne,</sm></vedette>
-    <definition><typologie>village détruit</typologie>, qui était sur les hauteurs, <localisation>entre <commune insee="52431">Chameroy</commune> et <commune insee="52545">Voisines</commune></localisation>.</definition>
+    <definition><typologie>village détruit</typologie>, qui était sur les hauteurs, <localisation>entre <commune insee="52431" precision="approximatif">Chameroy</commune> et <commune insee="52545" precision="approximatif">Voisines</commune></localisation>.</definition>
   </article>
   <article id="DT52-00887" pg="43">
     <vedette><sm>Chavanay,</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, <localisation>entre <commune insee="52519">Vesvre</commune> et <commune insee="52189">Esnoms</commune></localisation>, sur une <pg>44</pg>montagne.</definition>
+    <definition><typologie>lieu dit</typologie>, <localisation>entre <commune insee="52519" precision="approximatif">Vesvre</commune> et <commune insee="52189" precision="approximatif">Esnoms</commune></localisation>, sur une <pg>44</pg>montagne.</definition>
     <commentaire>
       <p>On y a trouvé de nombreux vestiges de constructions.</p>
     </commentaire>
@@ -6551,7 +6551,7 @@
   </article>
   <article id="DT52-00943" pg="47">
     <vedette><sm>Clémont,</sm></vedette>
-    <definition><typologie>fief</typologie>, qui était au <localisation>finage de <commune insee="52446">Saint-Broingt-les-Fosses</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, qui était au <localisation>finage de <commune insee="52446" precision="approximatif">Saint-Broingt-les-Fosses</commune></localisation>.</definition>
     <forme_ancienne>- <i>Saint Beroingt les Fosses, pour le fief de Clesmont,</i> <date>1675</date> <reference>(arch. Haute-Marne, G. 85)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00944" pg="47">
@@ -6619,7 +6619,7 @@
   </article>
   <article id="DT52-00955" pg="47">
     <vedette><sm>Cloyes (Les),</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52044">Bettaincourt</commune> et de <commune insee="52177">Doulaincourt</commune></localisation>.</definition>
+    <definition><typologie>moulin détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52044" precision="approximatif">Bettaincourt</commune> et de <commune insee="52177" precision="approximatif">Doulaincourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Molin de Cloies,</i> <date>1270</date> <reference>(Benoitevaux)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-00956" pg="48">
@@ -6879,7 +6879,7 @@
   </article>
   <article id="DT52-00984" pg="50">
     <vedette><sm>Côme,</sm></vedette>
-    <definition><typologie>fief</typologie>, qui était sur les <localisation>finages de <commune insee="52211">Buxières</commune> et de <commune insee="52211">Froncles</commune></localisation>, et appartenait à l'abbaye de Saint-Urbain.</definition>
+    <definition><typologie>fief</typologie>, qui était sur les <localisation>finages de <commune insee="52211" precision="approximatif">Buxières</commune> et de <commune insee="52211" precision="approximatif">Froncles</commune></localisation>, et appartenait à l'abbaye de Saint-Urbain.</definition>
     <forme_ancienne>- <i>Le fief de Cosme et Molinet,</i> <date>1633</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Le fief de Cosme et Moullinet,</i> <date>1720</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
   </article>
@@ -7174,7 +7174,7 @@
   </article>
   <article id="DT52-01023" pg="52">
     <vedette><sm>Coudre (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui descend de Dampierre, passe sur le <localisation>finage de <commune insee="52432">Charmoilles</commune></localisation> et se jette dans le ruisseau de Neuilly-l'Évêque, <localisation>près de <commune insee="52432" precision="approximatif">Lanne</commune></localisation>.</definition>
+    <definition><typologie>ruisseau</typologie> qui descend de Dampierre, passe sur le <localisation>finage de <commune insee="52432" precision="approximatif">Charmoilles</commune></localisation> et se jette dans le ruisseau de Neuilly-l'Évêque, <localisation>près de <commune insee="52432" precision="approximatif">Lanne</commune></localisation>.</definition>
     <commentaire>
       <p>Il a donné son nom à un moulin, aujourd'hui détruit, qui était au territoire de Dampierre.</p>
     </commentaire>
@@ -7244,7 +7244,7 @@
   </article>
   <article id="DT52-01035" pg="52">
     <vedette><sm>Cour (La),</sm></vedette>
-    <definition><typologie>ancien fief</typologie> de la <localisation>baronnie de <commune insee="52133">Clinchamp</commune></localisation>.</definition>
+    <definition><typologie>ancien fief</typologie> de la <localisation>baronnie de <commune insee="52133" precision="approximatif">Clinchamp</commune></localisation>.</definition>
     <forme_ancienne>- <i>Lacour,</i> <date>1858</date> <reference>(Jolibois : La Haute-Marne, p. 321)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01036" pg="52">
@@ -7747,7 +7747,7 @@
   </article>
   <article id="DT52-01115" pg="55">
     <vedette><sm>Cul-du-Bois (Le),</sm></vedette>
-    <definition><typologie>petit cours d'eau</typologie> qui prend sa source <localisation>entre <commune insee="52050">Biesle</commune> et <commune insee="52305">Mandre</commune></localisation> et se jette dans la Marne, rive droite, <localisation>près de <commune insee="52205" precision="approximatif">Foulain</commune></localisation>.</definition>
+    <definition><typologie>petit cours d'eau</typologie> qui prend sa source <localisation>entre <commune insee="52050" precision="approximatif">Biesle</commune> et <commune insee="52305" precision="approximatif">Mandre</commune></localisation> et se jette dans la Marne, rive droite, <localisation>près de <commune insee="52205" precision="approximatif">Foulain</commune></localisation>.</definition>
     <forme_ancienne>- <i>Le Cul-du-Bois,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ruisseau de Moiron,</i> <date><sm>xix</sm><sup>e</sup> siècle</date> <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
   </article>
@@ -7885,7 +7885,7 @@
     <insee>52161</insee>
   </article>
   <article id="DT52-01129" pg="56">
-    <vedette><sm>Dame-Alix (La Grande</sm> et <sm>la Petite),</sm></vedette>
+    <vedette><sm>Dame-Alix (La Grande et la Petite),</sm></vedette>
     <definition><typologie>fermes</typologie>, <localisation>commune de <commune insee="52145" precision="certain">Coublant</commune></localisation>.</definition>
     <forme_ancienne>- <i>Dame Alix,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
   </article>
@@ -7921,7 +7921,7 @@
   </article>
   <article id="DT52-01133" pg="57">
     <vedette><sm>Damolvaux,</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52280">Lecey</commune></localisation>.</definition>
+    <definition><typologie>moulin détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52280" precision="approximatif">Lecey</commune></localisation>.</definition>
     <forme_ancienne>- <i>Lecey, le moulin Damolvaux,</i> <date>1770</date> <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01134" pg="57">
@@ -8192,7 +8192,7 @@
   </article>
   <article id="DT52-01170" pg="58">
     <vedette><sm>Dieu-de-Piété (Le),</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, qui était dans le <localisation>cimetière de <commune insee="52038">Bassoncourt</commune></localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, qui était dans le <localisation>cimetière de <commune insee="52038" precision="approximatif">Bassoncourt</commune></localisation>.</definition>
   </article>
   <article id="DT52-01171" pg="58">
     <vedette><sm>Dieu-de-Pitié (Le).</sm></vedette>
@@ -8497,7 +8497,7 @@
   </article>
   <article id="DT52-01197" pg="61">
     <vedette><sm>Droye (La),</sm></vedette>
-    <definition><typologie>petite rivière</typologie> qui sort des étangs de la <localisation>forêt du Der</localisation>, sert pendant quelque temps de limite entre cette forêt et le département de la Marne, où elle pénètre ensuite et passe à <localisation><commune insee="51269">Giffaumont</commune></localisation>, puis rentre dans la Haute-Marne et se jette dans la Héronne, rive droite, au-dessus du <localisation>village de <commune insee="52180" precision="certain">Droye</commune></localisation>.</definition>
+    <definition><typologie>petite rivière</typologie> qui sort des étangs de la <localisation>forêt du Der</localisation>, sert pendant quelque temps de limite entre cette forêt et le département de la Marne, où elle pénètre ensuite et passe à <localisation><commune insee="51269" precision="approximatif">Giffaumont</commune></localisation>, puis rentre dans la Haute-Marne et se jette dans la Héronne, rive droite, au-dessus du <localisation>village de <commune insee="52180" precision="approximatif">Droye</commune></localisation>.</definition>
     <forme_ancienne>- <i>Dria,</i> <date>692</date> <reference>(Cartul. Montier-en-Der, I, f° 4 r°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>La Droye,</i> <date><sm>xix</sm><sup>e</sup> siècle</date> <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
   </article>
@@ -8521,7 +8521,7 @@
   </article>
   <article id="DT52-01200" pg="61">
     <vedette><sm>Duy (La),</sm></vedette>
-    <definition><typologie>anciens moulins</typologie>, <localisation>bannaux d'<commune insee="52365">Orges</commune></localisation>.</definition>
+    <definition><typologie>anciens moulins</typologie>, <localisation>bannaux d'<commune insee="52365" precision="approximatif">Orges</commune></localisation>.</definition>
     <forme_ancienne>- <i>Les moulins de la Duy,</i> <date>1579</date> <reference>(Arch. nat., P. 175<sup>1</sup>, n° 356)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01201" pg="62" type="commune">
@@ -8883,7 +8883,7 @@
   </article>
   <article id="DT52-01240" pg="64">
     <vedette><sm>Espautères,</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, qui était situé près de l'<localisation>village de Chavagne</localisation>, <localisation>entre <commune insee="52431">Chameroy</commune> et <commune insee="52545">Voisines</commune></localisation>.</definition>
+    <definition><typologie>hameau détruit</typologie>, qui était situé près de l'<localisation>village de Chavagne</localisation>, <localisation>entre <commune insee="52431" precision="approximatif">Chameroy</commune> et <commune insee="52545" precision="approximatif">Voisines</commune></localisation>.</definition>
     <forme_ancienne>- <i>Espoteriae,</i> <date>1187</date> <reference>(Auberive)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Espulteriae,</i> <date>1193</date> <reference>(Auberive)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Espuntères,</i> <date>1199</date> <reference>(chapitre de Langres)</reference>.</forme_ancienne>
@@ -8993,7 +8993,7 @@
   </article>
   <article id="DT52-01251" pg="65">
     <vedette><sm>Étanche (L'),</sm></vedette>
-    <definition><typologie>maison détruite</typologie>, qui était au <localisation>finage de <commune insee="52517">Vesaignes-sous-la-Fauche</commune></localisation>.</definition>
+    <definition><typologie>maison détruite</typologie>, qui était au <localisation>finage de <commune insee="52517" precision="approximatif">Vesaignes-sous-la-Fauche</commune></localisation>.</definition>
     <forme_ancienne>- <i>L'Estanche,</i> <date>1446</date> <reference>(Arch. nat., P. 176<sup>3</sup>, n° 509)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01252" pg="65">
@@ -9058,7 +9058,7 @@
   </article>
   <article id="DT52-01265" pg="65">
     <vedette><sm>Étoile (L'),</sm></vedette>
-    <definition><typologie>forêt</typologie> qui s'étend sur les <localisation>territoires de <commune insee="52140">Blaise</commune>, <commune insee="52310">Marbéville</commune>, <commune insee="52367">Ormoy-lez-Sexfontaine</commune>, <pg>66</pg><commune insee="52472">Sexfontaine</commune>, <commune insee="52253">Juzennecourt</commune>, la <commune insee="52254">Chapelle-en-Blésy</commune>, la <commune insee="52262">Mothe-en-Blésy</commune> et <commune insee="52157">Curmont</commune></localisation>.</definition>
+    <definition><typologie>forêt</typologie> qui s'étend sur les <localisation>territoires de <commune insee="52140" precision="approximatif">Blaise</commune>, <commune insee="52310" precision="approximatif">Marbéville</commune>, <commune insee="52367" precision="approximatif">Ormoy-lez-Sexfontaine</commune>, <pg>66</pg><commune insee="52472" precision="approximatif">Sexfontaine</commune>, <commune insee="52253" precision="approximatif">Juzennecourt</commune>, la <commune insee="52254" precision="approximatif">Chapelle-en-Blésy</commune>, la <commune insee="52262" precision="approximatif">Mothe-en-Blésy</commune> et <commune insee="52157" precision="approximatif">Curmont</commune></localisation>.</definition>
   </article>
   <article id="DT52-01266" pg="66">
     <vedette><sm>Étuf,</sm></vedette>
@@ -9132,7 +9132,7 @@
   </article>
   <article id="DT52-01273" pg="66">
     <vedette><sm>Fargoust,</sm></vedette>
-    <definition><typologie>fief</typologie> qui était au <localisation>finage de <commune insee="52058">Rôcourt-la-Côte</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui était au <localisation>finage de <commune insee="52058" precision="approximatif">Rôcourt-la-Côte</commune></localisation>.</definition>
     <forme_ancienne>- <i>Fargoust,</i> <date>1773</date> <reference>(Arch. nat., Q<sup>1</sup>, 693)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01274" pg="66" type="commune">
@@ -9439,7 +9439,7 @@
   </article>
   <article id="DT52-01312" pg="68">
     <vedette><sm>Fève (La),</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>communes de <commune insee="52424" precision="certain">Rivière-le-Bois</commune> et de <commune insee="52445" precision="certain">Saint-Broingt-le-Bois</commune></localisation>, sur la Flasse.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>communes de <commune insee="52424" precision="approximatif">Rivière-le-Bois</commune> et de <commune insee="52445" precision="approximatif">Saint-Broingt-le-Bois</commune></localisation>, sur la Flasse.</definition>
     <forme_ancienne>- <i>Le moulin de la Fève,</i> <date>1770</date> <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Moulin à plâtre,</i> <date>1884</date> <reference>(carte de l'Intérieur)</reference>.</forme_ancienne>
     <commentaire>
@@ -9624,7 +9624,7 @@
   <article id="DT52-01341" pg="70">
     <pg>70</pg>
     <vedette><sm>Folie (La),</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52147">Courcelles-en-Montagne</commune></localisation>, section D.</definition>
+    <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52147" precision="certain">Courcelles-en-Montagne</commune></localisation>, section D.</definition>
   </article>
   <article id="DT52-01342" pg="70">
     <vedette><sm>Folie (La),</sm></vedette>
@@ -10353,7 +10353,7 @@
   </article>
   <article id="DT52-01492" pg="73">
     <vedette><sm>Fouillot,</sm></vedette>
-    <definition><typologie>hauteur</typologie>, <localisation>finage de <commune insee="52423">Rimaucourt</commune></localisation>, où l'on a trouvé des boulets.</definition>
+    <definition><typologie>hauteur</typologie>, <localisation>finage de <commune insee="52423" precision="approximatif">Rimaucourt</commune></localisation>, où l'on a trouvé des boulets.</definition>
   </article>
   <article id="DT52-01493" pg="73">
     <vedette><sm>Fouillot (Le),</sm></vedette>
@@ -10981,7 +10981,7 @@
     <definition><typologie>lieu dit</typologie>, <localisation>commune d’<commune insee="52370" precision="certain">Osne-le-Val</commune></localisation>, section C.</definition>
   </article>
   <article id="DT52-01640" pg="75">
-    <vedette><sm>Fousseau (Le Grand</sm> et <sm>Le Petit),</sm></vedette>
+    <vedette><sm>Fousseau (Le Grand et Le Petit),</sm></vedette>
     <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="52060" precision="certain">Villars-Saint-Marcellin</commune></localisation> ; relevait de Bourbonne.</definition>
     <forme_ancienne>- <i>Le Fousseau,</i> <date>1538</date> <reference>(Arch. nat., P. 176<sup>2</sup>, n° 488)</reference>.</forme_ancienne>
   </article>
@@ -11013,12 +11013,12 @@
     <insee>52206</insee>
   </article>
   <article id="DT52-01644" pg="75">
-    <vedette><sm>France (Rue</sm> et <sm>Borne de),</sm></vedette>
+    <vedette><sm>France (Rue et Borne de),</sm></vedette>
     <definition>nom d'une rue de l'<localisation>village de Pelongerot</localisation>, aujourd'hui simple ferme, <localisation>commune de <commune insee="52431" precision="certain">Rochetaillée</commune></localisation>, et d'une des bornes qui servaient à limiter son finage ; elles sont indiquées dans une convention intervenue, en <date>1519</date>, entre M. de Rochebaron, seigneur de Rochetaillée, et les moines d'Auberive.</definition>
   </article>
   <article id="DT52-01645" pg="75">
     <vedette><sm>Franchecourt,</sm></vedette>
-    <definition><typologie>fief</typologie> qui était au <localisation>finage de <commune insee="52140">Harricourt</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui était au <localisation>finage de <commune insee="52140" precision="approximatif">Harricourt</commune></localisation>.</definition>
   </article>
   <article id="DT52-01646" pg="75">
     <vedette><sm>Franchevaux,</sm></vedette>
@@ -11417,7 +11417,7 @@
   </article>
   <article id="DT52-01695" pg="78">
     <vedette><sm>Germaines,</sm></vedette>
-    <definition><typologie>moulin détruit</typologie>, (?) qui était situé sur la Meuse, <localisation>entre <commune insee="52332">Léniseul</commune> et Damphal</localisation> ; il appartenait à l'abbaye de Morimond.</definition>
+    <definition><typologie>moulin détruit</typologie>, (?) qui était situé sur la Meuse, <localisation>entre <commune insee="52332" precision="certain">Léniseul</commune> et Damphal</localisation> ; il appartenait à l'abbaye de Morimond.</definition>
     <forme_ancienne>- <i>Molendinum de Germenmeis,</i> <date>1270</date> <reference>(Morimond)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Molendinum nostrum de Germainmes, situm supra fluvium de Mosa, inter Lenisueles et Damfole,</i> <date>1270</date> <reference>(Morimond)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Sur la rivière de Meuse, un molin appellé Germainnuelz,</i> <date>1515</date> <reference>(Arch. nat., P. 176<sup>2</sup>, n° 486)</reference>.</forme_ancienne>
@@ -11526,7 +11526,7 @@
   </article>
   <article id="DT52-01707" pg="79">
     <vedette><sm>Gigny,</sm></vedette>
-    <definition><typologie>faubourg</typologie> de <localisation><commune insee="52448">Saint-Dizier</commune></localisation>.</definition>
+    <definition><typologie>faubourg</typologie> de <localisation><commune insee="52448" precision="certain">Saint-Dizier</commune></localisation>.</definition>
     <forme_ancienne>- <i>Gihini Cortis,</i> <date>854</date> <reference>(Cartul. Montier-en-Der, I, f° 19 v°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ginneium,</i> <date>1175</date> <reference>(arch. Marne, Troisfontaines)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Cum inter presbyterum de Gigneio et presbyterum Sancti Desiderii, super limitibus parrochiarum suarum, propter translationem Gigneii ad alium locum, orta questio verteretur,</i> <date>1196</date> <reference>(Montier-en-Der)</reference>.</forme_ancienne>
@@ -11611,7 +11611,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="52543" precision="certain">Voillecomte</commune></localisation>.</definition>
   </article>
   <article id="DT52-01715" pg="80">
-    <vedette><sm>Gingeolle (Grande</sm> et <sm>Petite),</sm></vedette>
+    <vedette><sm>Gingeolle (Grande et Petite),</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="52093" precision="certain">Chalindrey</commune></localisation>.</definition>
     <forme_ancienne>- <i>La Gingeole,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>La Petite Gingeotte,</i> <date>1858</date> <reference>(Jolibois : La Haute-Marne, p. 103)</reference>.</forme_ancienne>
@@ -12008,7 +12008,7 @@
   </article>
   <article id="DT52-01785" pg="82">
     <vedette><sm>Grange-du-Bois (La),</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, qui était dans le <localisation>voisinage de la <commune insee="52264">Neuvelle-lez-Coiffy</commune></localisation> (Cassini).</definition>
+    <definition><typologie>ferme détruite</typologie>, qui était dans le <localisation>voisinage de la <commune insee="52264" precision="approximatif">Neuvelle-lez-Coiffy</commune></localisation> (Cassini).</definition>
     <forme_ancienne>- <i>La Grange du Bois,</i> <date>1770</date> <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01786" pg="82">
@@ -12045,7 +12045,7 @@
   </article>
   <article id="DT52-01792" pg="82">
     <vedette><sm>Grange-Neuve (La),</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, dans le <localisation>voisinage de <commune insee="52341">Morancourt</commune></localisation> ; elle appartenait à l'abbaye de Boulancourt.</definition>
+    <definition><typologie>ferme détruite</typologie>, dans le <localisation>voisinage de <commune insee="52341" precision="approximatif">Morancourt</commune></localisation> ; elle appartenait à l'abbaye de Boulancourt.</definition>
     <forme_ancienne>- <i>La Nuefve Grange,</i> <date>1448</date> <reference>(Arch. nat., P. 177<sup>2</sup>, n° 649)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01793" pg="82">
@@ -12072,7 +12072,7 @@
   </article>
   <article id="DT52-01798" pg="82">
     <vedette><sm>Grange-Robert (La),</sm></vedette>
-    <definition><typologie>fief</typologie> qui dépendait de la <localisation>paroisse de <commune insee="52500">Valcourt</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui dépendait de la <localisation>paroisse de <commune insee="52500" precision="approximatif">Valcourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Grange-Robert,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01799" pg="82">
@@ -12179,7 +12179,7 @@
     </commentaire>
   </article>
   <article id="DT52-01816" pg="83">
-    <vedette><sm>Griffonnote (La Grande</sm> et <sm>La Petite),</sm></vedette>
+    <vedette><sm>Griffonnote (La Grande et La Petite),</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="52492" precision="certain">Torcenay</commune></localisation>.</definition>
   </article>
   <article id="DT52-01817" pg="83">
@@ -12217,7 +12217,7 @@
   </article>
   <article id="DT52-01821" pg="83">
     <vedette><sm>Grigny,</sm></vedette>
-    <definition><typologie>fief</typologie> qui était au <localisation>finage d'<commune insee="52021">Attancourt</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui était au <localisation>finage d'<commune insee="52021" precision="approximatif">Attancourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Le moulin et emplacement de la grosse forge, à Grigny,</i> <date>1576</date> <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Attancourt et les fiefs de Grigny et de La Mothe,</i> <date>1763</date> <reference>(arch. Haute-Marne, C. 317)</reference>.</forme_ancienne>
   </article>
@@ -12227,7 +12227,7 @@
   </article>
   <article id="DT52-01823" pg="83">
     <vedette><sm>Grincourt,</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, dans le <localisation>voisinage de <commune insee="52524">Vignory</commune></localisation>.</definition>
+    <definition><typologie>lieu dit</typologie>, dans le <localisation>voisinage de <commune insee="52524" precision="approximatif">Vignory</commune></localisation>.</definition>
     <forme_ancienne>- <i>Grincurtis, Grincort,</i> <date>1108</date> <reference>(Arbaumont : Prieuré de Vignory, p. 28 et 152)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-01824" pg="83">
@@ -13053,7 +13053,7 @@
     </commentaire>
   </article>
   <article id="DT52-01932" pg="90">
-    <vedette><sm>Jard (Le Haut</sm> et <sm>Le Bas),</sm></vedette>
+    <vedette><sm>Jard (Le Haut et Le Bas),</sm></vedette>
     <definition><typologie>fermes</typologie>, <localisation>commune de <commune insee="52180" precision="certain">Droye</commune></localisation> ; ancien fief qui relevait de l'abbaye de Montier-en-Der.</definition>
     <forme_ancienne>- <i>Girardus de Jardo,</i> <date>vers 1200</date> <reference>(Longnon, Doc. I, n° 2334)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Jart,</i> <date>1200-1210 environ</date> <reference>(Longnon, Doc. I, n° 3161)</reference>.</forme_ancienne>
@@ -13222,7 +13222,7 @@
   </article>
   <article id="DT52-01954" pg="91">
     <vedette><sm>Juvigny,</sm></vedette>
-    <definition><typologie>fief</typologie> qui relevait de la Fauche et dont les terres appartenaient aux <localisation>finages de <commune insee="52289">Liffol-le-Petit</commune> et de <commune insee="52407">Prez-sous-la-Fauche</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui relevait de la Fauche et dont les terres appartenaient aux <localisation>finages de <commune insee="52289" precision="approximatif">Liffol-le-Petit</commune> et de <commune insee="52407" precision="approximatif">Prez-sous-la-Fauche</commune></localisation>.</definition>
   </article>
   <article id="DT52-01955" pg="91" type="commune">
     <vedette><sm>Juzennecourt,</sm></vedette>
@@ -13291,7 +13291,7 @@
   </article>
   <article id="DT52-01960" pg="92">
     <vedette><sm>Laine (La),</sm></vedette>
-    <definition><typologie>petite rivière</typologie> qui vient du <localisation>département de l'Aube</localisation>, et arrose, dans la Haute-Marne, les <localisation>territoires d'<commune insee="52088">Anglus</commune>, <commune insee="52088">Sauvage-Magnil</commune>, <commune insee="52296">Louze</commune> et <commune insee="52293">Longeville</commune></localisation> ; sert de limite au département, sur le territoire de cette dernière commune, et se jette dans la Voire.</definition>
+    <definition><typologie>petite rivière</typologie> qui vient du <localisation>département de l'Aube</localisation>, et arrose, dans la Haute-Marne, les <localisation>territoires d'<commune insee="52088" precision="approximatif">Anglus</commune>, <commune insee="52088" precision="approximatif">Sauvage-Magnil</commune>, <commune insee="52296" precision="approximatif">Louze</commune> et <commune insee="52293" precision="approximatif">Longeville</commune></localisation> ; sert de limite au département, sur le territoire de cette dernière commune, et se jette dans la Voire.</definition>
     <forme_ancienne>- <i>Lanna, Sublana fluvius,</i> <date>vers 1049</date> <reference>(Camuzat, Promptuarium, f° 98)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Soulene,</i> <date>1656</date> <reference>(carte de Sanson)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ruisseau de la fontaine de Soulene,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
@@ -14866,7 +14866,7 @@
   </article>
   <article id="DT52-02217" pg="102">
     <vedette><sm>Malassis,</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, qui était sur la <localisation>paroisse de <commune insee="52180">Droye</commune></localisation>.</definition>
+    <definition><typologie>ferme détruite</typologie>, qui était sur la <localisation>paroisse de <commune insee="52180" precision="approximatif">Droye</commune></localisation>.</definition>
   </article>
   <article id="DT52-02218" pg="102">
     <vedette><sm>Malassise,</sm></vedette>
@@ -14886,7 +14886,7 @@
   </article>
   <article id="DT52-02221" pg="102">
     <vedette><sm>Malbran</sm> <i>ou</i> <sm>Maubran,</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, qui était située sur les hauteurs, <localisation>entre <commune insee="52075">Briaucourt</commune> et <commune insee="52008">Andelot</commune></localisation> ; ancienne grange de l'abbaye de Septfontaines <reference>(Jolibois : La Haute-Marne, p. 345)</reference>.</definition>
+    <definition><typologie>ferme détruite</typologie>, qui était située sur les hauteurs, <localisation>entre <commune insee="52075" precision="approximatif">Briaucourt</commune> et <commune insee="52008" precision="approximatif">Andelot</commune></localisation> ; ancienne grange de l'abbaye de Septfontaines <reference>(Jolibois : La Haute-Marne, p. 345)</reference>.</definition>
   </article>
   <article id="DT52-02222" pg="102">
     <vedette><sm>Maleux (Les),</sm></vedette>
@@ -14899,7 +14899,7 @@
   </article>
   <article id="DT52-02223" pg="102">
     <vedette><sm>« <i>Malignicortis</i> »,</sm></vedette>
-    <definition><typologie>localité</typologie> qui était probablement <localisation>voisine d'<commune insee="52021">Attancourt</commune></localisation>.</definition>
+    <definition><typologie>localité</typologie> qui était probablement <localisation>voisine d'<commune insee="52021" precision="approximatif">Attancourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Maliniacicortis,</i> <date>855</date> <reference>(Lalore, Princip. cart., IV, p. 131)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Malignicortis, super Blesam,</i> au Perthois, <date>vers 968</date> <reference>(Lalore, Princip. cart., IV, p. 137)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ministralis cortis Malignicortis, terrarum nostrarum que sunt infra Ronam fluvium,</i> <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(1<sup>er</sup> cartul. Montier-en-Der, fol., 95 r°)</reference>.</forme_ancienne>
@@ -14933,7 +14933,7 @@
   </article>
   <article id="DT52-02228" pg="102">
     <vedette><sm>Malochère (La),</sm></vedette>
-    <definition><typologie>ferme détruite</typologie>, dans le <localisation>voisinage de l'abbaye d'<commune insee="52023">Auberive</commune></localisation>, dont elle dépendait.</definition>
+    <definition><typologie>ferme détruite</typologie>, dans le <localisation>voisinage de l'abbaye d'<commune insee="52023" precision="approximatif">Auberive</commune></localisation>, dont elle dépendait.</definition>
     <forme_ancienne>- <i>L'abbaye d'Auberive et les granges appelées la Malochère,</i> <date>1770</date> <reference>(arch. Haute-Marne, C. 344)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-02229" pg="102">
@@ -16761,7 +16761,7 @@
   </article>
   <article id="DT52-02458" pg="116">
     <vedette><sm>Mouche (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source dans le <localisation>bois de <commune insee="52457">Saint-Vallier</commune></localisation>, au <localisation>finage de <commune insee="52355">Noidant-le-Rocheux</commune></localisation>, parcourt les <localisation>territoires de <commune insee="52355">Noidant</commune>, <commune insee="52383">Vieux-Moulin</commune>, <commune insee="52383">Perrancey</commune>, <commune insee="52447">Saint-Ciergue</commune>, <commune insee="52452">Saint-Martin-lez-Langres</commune></localisation>, et se jette dans la Marne à <localisation><commune insee="52246" precision="certain">Hûmes</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source dans le <localisation>bois de <commune insee="52457" precision="approximatif">Saint-Vallier</commune></localisation>, au <localisation>finage de <commune insee="52355" precision="approximatif">Noidant-le-Rocheux</commune></localisation>, parcourt les <localisation>territoires de <commune insee="52355" precision="approximatif">Noidant</commune>, <commune insee="52383" precision="approximatif">Vieux-Moulin</commune>, <commune insee="52383" precision="approximatif">Perrancey</commune>, <commune insee="52447" precision="approximatif">Saint-Ciergue</commune>, <commune insee="52452" precision="approximatif">Saint-Martin-lez-Langres</commune></localisation>, et se jette dans la Marne à <localisation><commune insee="52246" precision="approximatif">Hûmes</commune></localisation>.</definition>
     <forme_ancienne>- <i>Riveria de Moeche,</i> <date>1274</date> <reference>(chapitre de Langres)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ripparia de Mouche,</i> <date>1283</date> <reference>(chapitre de Langres)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Ripparia de Moicha,</i> <date>1326</date> <reference>(chapitre de Langres)</reference>.</forme_ancienne>
@@ -17652,7 +17652,7 @@
   </article>
   <article id="DT52-02663" pg="120">
     <vedette><sm>Mouzon (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui vient de <localisation><commune insee="88289">Martigny</commune></localisation> (Vosges), passe à <localisation><commune insee="52482">Soulaucourt</commune>, et à <commune insee="52476">Sommerécourt</commune></localisation> et se jette dans la Meuse.</definition>
+    <definition><typologie>rivière</typologie> qui vient de <localisation><commune insee="88289" precision="approximatif">Martigny</commune></localisation> (Vosges), passe à <localisation><commune insee="52482" precision="approximatif">Soulaucourt</commune>, et à <commune insee="52476" precision="approximatif">Sommerécourt</commune></localisation> et se jette dans la Meuse.</definition>
     <forme_ancienne>- <i>La rivière de Moson,</i> <date>1254</date> <reference>(Morimond)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>La rivière de Mozon,</i> <date>1576</date> <reference>(Voillemier)</reference>.</forme_ancienne>
   </article>
@@ -17689,7 +17689,7 @@
   </article>
   <article id="DT52-02666" pg="120">
     <vedette><sm>Mutier (Le),</sm></vedette>
-    <definition><typologie>colline couronnée de bois</typologie>, <localisation>communes de <commune insee="52040" precision="certain">Bay</commune> et de <commune insee="52540" precision="certain">Vitry</commune></localisation>, sur laquelle était une église appartenant à l'abbaye de Luxeuil <reference>(Jolibois : La Haute-Marne, p. 50)</reference>.</definition>
+    <definition><typologie>colline couronnée de bois</typologie>, <localisation>communes de <commune insee="52040" precision="approximatif">Bay</commune> et de <commune insee="52540" precision="approximatif">Vitry</commune></localisation>, sur laquelle était une église appartenant à l'abbaye de Luxeuil <reference>(Jolibois : La Haute-Marne, p. 50)</reference>.</definition>
     <forme_ancienne>- <i>Le Mutier,</i> <date><sm>xix</sm><sup>e</sup> siècle</date> <reference>(cadastre de Bay, section A)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Muthier,</i> <date>1858</date> <reference>(Jolibois : La Haute-Marne, p. 50)</reference>.</forme_ancienne>
   </article>
@@ -18078,7 +18078,7 @@
   </article>
   <article id="DT52-02704" pg="124">
     <vedette><sm>Notre-Dame,</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, au <localisation>cimetière de <commune insee="52035">Baissey</commune></localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, au <localisation>cimetière de <commune insee="52035" precision="approximatif">Baissey</commune></localisation>.</definition>
     <forme_ancienne>- <i>Capellam in honorem Beate Marie et sancti Nicolai, in cymiterio parochialis ecclesie de Besseyo,</i> <date>1572</date> <reference>(arch. Haute-Marne, G. 876, f° 753 v°)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Capella B. Virginis, in pago de Bessey, in dispositione episcopi,</i> <date>1732</date> <reference>(Pouillé de 1732, p. 22)</reference>.</forme_ancienne>
   </article>
@@ -18184,7 +18184,7 @@
   </article>
   <article id="DT52-02725" pg="124">
     <vedette><sm>Notre-Dame,</sm></vedette>
-    <definition><typologie>ancienne abbaye de femmes</typologie>, ordre de Cîteaux, à <localisation><commune insee="52448">Saint-Dizier</commune></localisation>, fondée en <date>1227</date> par Guillaume de Dampierre, sire de Saint-Dizier, et Marguerite de Flandre, sa femme ; unie à l'abbaye de Saint-Jacques de Vitry, en <date>1747</date>.</definition>
+    <definition><typologie>ancienne abbaye de femmes</typologie>, ordre de Cîteaux, à <localisation><commune insee="52448" precision="approximatif">Saint-Dizier</commune></localisation>, fondée en <date>1227</date> par Guillaume de Dampierre, sire de Saint-Dizier, et Marguerite de Flandre, sa femme ; unie à l'abbaye de Saint-Jacques de Vitry, en <date>1747</date>.</definition>
     <forme_ancienne>- <i>Abbacia Sancti Desiderii,</i> <date>1227</date> <reference>(Notre-Dame de Vitry)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>L'abbaye de Saint-Dizier,</i> <date>1700</date> <reference>(Dillon)</reference>.</forme_ancienne>
     <commentaire>
@@ -18343,7 +18343,7 @@
   </article>
   <article id="DT52-02756" pg="125">
     <vedette><sm>Noue (La),</sm></vedette>
-    <definition><typologie>faubourg</typologie> de <localisation><commune insee="52448">Saint-Dizier</commune></localisation>.</definition>
+    <definition><typologie>faubourg</typologie> de <localisation><commune insee="52448" precision="approximatif">Saint-Dizier</commune></localisation>.</definition>
     <forme_ancienne>- <i>La Noue,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Lanoue,</i> <date>1858</date> <reference>(Jolibois : La Haute-Marne, p. 318)</reference>.</forme_ancienne>
     <commentaire>
@@ -18477,12 +18477,12 @@
   </article>
   <article id="DT52-02768" pg="127">
     <vedette><sm>« <i>Oflaincourt</i> »,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, <localisation>finage de <commune insee="52423">Rimaucourt</commune></localisation>.</definition>
+    <definition><typologie>lieu détruit</typologie>, <localisation>finage de <commune insee="52423" precision="approximatif">Rimaucourt</commune></localisation>.</definition>
     <forme_ancienne>- <i>Deux parz dou dime qui siet ou finaige de Rymaucort, ou leu c'on dit et apele communement Oflaincort,</i> <date>1278</date> <reference>(Roserot : Seize chartes originales, etc., p. 12, n° XII)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-02769" pg="127">
     <vedette><sm>Ogicourt,</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, qui était situé <localisation>entre <commune insee="52008">Andelot</commune> et <commune insee="52075">Briaucourt</commune></localisation>.</definition>
+    <definition><typologie>hameau détruit</typologie>, qui était situé <localisation>entre <commune insee="52008" precision="approximatif">Andelot</commune> et <commune insee="52075" precision="approximatif">Briaucourt</commune></localisation>.</definition>
   </article>
   <article id="DT52-02770" pg="127">
     <vedette><sm>« <i>Oisselot</i> »,</sm></vedette>
@@ -18635,14 +18635,14 @@
   </article>
   <article id="DT52-02785" pg="128">
     <vedette><sm>Ornain (L'),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui se jette dans la Meuse après avoir arrosé <localisation><commune insee="55029">Bar-le-Duc</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui se jette dans la Meuse après avoir arrosé <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation>.</definition>
     <commentaire>
       <p>Elle prend sa source au bois de Germay, sous le nom de <i>l'Oignon,</i> passe à la Neuville-au-Bois et entre ensuite dans le département de la Meuse.</p>
     </commentaire>
   </article>
   <article id="DT52-02786" pg="128">
     <vedette><sm>Ornelle (L'),</sm></vedette>
-    <definition><typologie>petite rivière</typologie>, qui prend sa source à <localisation><commune insee="55494">Sommelonne</commune></localisation> (Meuse) et se jette dans la Marne, à <localisation><commune insee="52448">Saint-Dizier</commune></localisation>, après un cours de quelques kilomètres.</definition>
+    <definition><typologie>petite rivière</typologie>, qui prend sa source à <localisation><commune insee="55494" precision="approximatif">Sommelonne</commune></localisation> (Meuse) et se jette dans la Marne, à <localisation><commune insee="52448" precision="approximatif">Saint-Dizier</commune></localisation>, après un cours de quelques kilomètres.</definition>
     <forme_ancienne>- <i>In pago Pertensi, super fluvium Olomnam, in loco qui Forensis curtis dicitur,</i> <date>865</date> <reference>(Gall. christ., X, instr., col. 148. Cf. D. Bouquet, VIII, 584, <i>ad annum,</i> 862)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-02787" pg="128" type="commune">
@@ -18957,7 +18957,7 @@
   </article>
   <article id="DT52-02828" pg="130">
     <vedette><sm>Pavillon (Le),</sm></vedette>
-    <definition><typologie>loge</typologie> du <localisation>parc de <commune insee="52114">Châteauvillain</commune></localisation>.</definition>
+    <definition><typologie>loge</typologie> du <localisation>parc de <commune insee="52114" precision="approximatif">Châteauvillain</commune></localisation>.</definition>
   </article>
   <article id="DT52-02829" pg="130">
     <vedette><sm>Pêcheux (Le),</sm></vedette>
@@ -19580,7 +19580,7 @@
   </article>
   <article id="DT52-02924" pg="134">
     <vedette><sm>Planchotte (La),</sm> dite aussi <sm>La Bourrique,</sm></vedette>
-    <definition><typologie>moulin, ancien bocard</typologie>, <localisation>communes d'<commune insee="52029" precision="certain">Autigny-le-Grand</commune> et de <commune insee="52118" precision="certain">Chatonrupt</commune></localisation>.</definition>
+    <definition><typologie>moulin, ancien bocard</typologie>, <localisation>communes d'<commune insee="52029" precision="approximatif">Autigny-le-Grand</commune> et de <commune insee="52118" precision="approximatif">Chatonrupt</commune></localisation>.</definition>
   </article>
   <article id="DT52-02925" pg="134">
     <vedette><sm>Plancourt,</sm></vedette>
@@ -19674,7 +19674,7 @@
   </article>
   <article id="DT52-02938" pg="135">
     <vedette><sm>Plessis (Le),</sm></vedette>
-    <definition><typologie>hôpital détruit</typologie>, qui aurait été situé <localisation>entre <commune insee="52420">Reynel</commune> et <commune insee="52423">Rimaucourt</commune></localisation>.</definition>
+    <definition><typologie>hôpital détruit</typologie>, qui aurait été situé <localisation>entre <commune insee="52420" precision="approximatif">Reynel</commune> et <commune insee="52423" precision="approximatif">Rimaucourt</commune></localisation>.</definition>
   </article>
   <article id="DT52-02939" pg="135">
     <vedette><sm>Plessis (Le),</sm></vedette>
@@ -20145,7 +20145,7 @@
   </article>
   <article id="DT52-02993" pg="139">
     <vedette><sm>Prémorin,</sm></vedette>
-    <definition><typologie>contrée</typologie> située <localisation>entre <commune insee="52542">Vivey</commune>, <commune insee="52403">Praslay</commune> et le Val-Clavin</localisation>, pour laquelle les religieux d'Auberive ont déterminé, en <date>1348</date>, la condition des hommes qui voudraient y habiter.</definition>
+    <definition><typologie>contrée</typologie> située <localisation>entre <commune insee="52542" precision="approximatif">Vivey</commune>, <commune insee="52403" precision="approximatif">Praslay</commune> et le Val-Clavin</localisation>, pour laquelle les religieux d'Auberive ont déterminé, en <date>1348</date>, la condition des hommes qui voudraient y habiter.</definition>
   </article>
   <article id="DT52-02994" pg="139">
     <vedette><sm>Préney,</sm></vedette>
@@ -20179,7 +20179,7 @@
   </article>
   <article id="DT52-02999" pg="139">
     <vedette><sm>Prés (Les),</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, <localisation>entre <commune insee="52239">Heuilley-Coton</commune> et <commune insee="52158">Percey-le-Petit</commune></localisation>, où l'on a trouvé des vestiges de constructions.</definition>
+    <definition><typologie>lieu dit</typologie>, <localisation>entre <commune insee="52239" precision="approximatif">Heuilley-Coton</commune> et <commune insee="52158" precision="approximatif">Percey-le-Petit</commune></localisation>, où l'on a trouvé des vestiges de constructions.</definition>
   </article>
   <article id="DT52-03000" pg="139">
     <vedette><sm>Prés (Les),</sm></vedette>
@@ -20342,7 +20342,7 @@
   </article>
   <article id="DT52-03027" pg="140">
     <vedette><sm>Priolée (La),</sm></vedette>
-    <definition><typologie>terrain attenant</typologie> à l'<localisation>église de <commune insee="52386">Perthe</commune></localisation>.</definition>
+    <definition><typologie>terrain attenant</typologie> à l'<localisation>église de <commune insee="52386" precision="approximatif">Perthe</commune></localisation>.</definition>
   </article>
   <article id="DT52-03028" pg="140">
     <vedette><sm>Priolet (Le),</sm></vedette>
@@ -20358,7 +20358,7 @@
   </article>
   <article id="DT52-03031" pg="140">
     <vedette><sm>Profonde-Fontaine (?),</sm></vedette>
-    <definition><typologie>village détruit</typologie>, qui semble avoir été dans le <localisation>voisinage de <commune insee="52203">Fontaine-sur-Marne</commune></localisation>.</definition>
+    <definition><typologie>village détruit</typologie>, qui semble avoir été dans le <localisation>voisinage de <commune insee="52203" precision="approximatif">Fontaine-sur-Marne</commune></localisation>.</definition>
     <forme_ancienne>- <i>Ex dono Ugonis, comitis de Durnay, villam que dicitur Profunda Funtana,</i> <date>1131</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Deux viles nostres, cil est à savoir à Fontainnes et à Parfondes Fontainnes,</i> <date>1255</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
   </article>
@@ -20372,7 +20372,7 @@
   </article>
   <article id="DT52-03034" pg="140">
     <vedette><sm>Provenchères,</sm></vedette>
-    <definition><typologie>ancien fief</typologie>, <localisation>finage de <commune insee="52398">Poissons</commune></localisation>, qui relevait de l'abbaye de Saint-Urbain.</definition>
+    <definition><typologie>ancien fief</typologie>, <localisation>finage de <commune insee="52398" precision="approximatif">Poissons</commune></localisation>, qui relevait de l'abbaye de Saint-Urbain.</definition>
     <forme_ancienne>- <i>Provenchierres,</i> <date>1609</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Provenchères,</i> <date>1631</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
   </article>
@@ -20589,7 +20589,7 @@
   </article>
   <article id="DT52-03059" pg="142">
     <vedette><sm>Raillemont (Le),</sm></vedette>
-    <definition><typologie>bois, ancien village</typologie>, <localisation>communes d'<commune insee="52190" precision="certain">Esnouveaux</commune>, de <commune insee="52325" precision="certain">Millières</commune> et de <commune insee="52142" precision="certain">Consigny</commune></localisation>.</definition>
+    <definition><typologie>bois, ancien village</typologie>, <localisation>communes d'<commune insee="52190" precision="approximatif">Esnouveaux</commune>, de <commune insee="52325" precision="approximatif">Millières</commune> et de <commune insee="52142" precision="approximatif">Consigny</commune></localisation>.</definition>
     <forme_ancienne>- <i>Es finaiges de Conseigneis, de Ralemont et de Jolimant, cumme faire ville et édifier à ces diz leus…,</i> <date>1252</date> <reference>(Layettes, n° 3994)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03060" pg="142">
@@ -20794,7 +20794,7 @@
   </article>
   <article id="DT52-03086" pg="143">
     <vedette><sm>Renne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui descend de <localisation><commune insee="52031" precision="certain">Valdelancourt</commune></localisation>, traverse <localisation><commune insee="52031">Autreville</commune>, <commune insee="52031">Saint-Martin-lez-Autreville</commune>, la <commune insee="52031">Villeneuve-au-Roi</commune> et <commune insee="52330">Monterie</commune></localisation>, et se jette dans l'Aujon à <localisation><commune insee="52419" precision="certain">Rennepont</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui descend de <localisation><commune insee="52031" precision="approximatif">Valdelancourt</commune></localisation>, traverse <localisation><commune insee="52031" precision="approximatif">Autreville</commune>, <commune insee="52031" precision="approximatif">Saint-Martin-lez-Autreville</commune>, la <commune insee="52031" precision="approximatif">Villeneuve-au-Roi</commune> et <commune insee="52330" precision="approximatif">Monterie</commune></localisation>, et se jette dans l'Aujon à <localisation><commune insee="52419" precision="approximatif">Rennepont</commune></localisation>.</definition>
     <forme_ancienne>- <i>In pago sive comitatu Barinse, et in loco qui Altera villa nuncupatur, ubi fluviolus qui Aderen vocatur discurrit,</i> <date>886</date> <reference>(Roserot, Dipl. carol., p. 19)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03087" pg="143" type="commune">
@@ -20942,7 +20942,7 @@
   </article>
   <article id="DT52-03102" pg="145">
     <vedette><sm>Rimaucourt,</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>finage de <commune insee="52504">Varennes</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, <localisation>finage de <commune insee="52504" precision="approximatif">Varennes</commune></localisation>.</definition>
     <forme_ancienne>- <i>Le fief de Rimaucourt, scitué au finage de Varennes,</i> <date>1675</date> <reference>(arch. Haute-Marne, G. 85)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03103" pg="145">
@@ -21164,7 +21164,7 @@
   </article>
   <article id="DT52-03130" pg="146">
     <vedette><sm>Rochette (La),</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>paroisse de <commune insee="52421">Riaucourt</commune></localisation>, qui relevait de Chaumont.</definition>
+    <definition><typologie>fief</typologie>, <localisation>paroisse de <commune insee="52421" precision="approximatif">Riaucourt</commune></localisation>, qui relevait de Chaumont.</definition>
     <forme_ancienne>- <i>La Rochette,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Arch. nat., Q<sup>1</sup>, 689)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03131" pg="146">
@@ -21205,7 +21205,7 @@
   </article>
   <article id="DT52-03133" pg="147">
     <vedette><sm>Rognon (Le),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source au <localisation>bois d'<commune insee="52332">Epinant</commune></localisation>, traverse les <localisation>territoires d'<commune insee="52248">Is-en-Bassigny</commune>, <commune insee="52353">Donnemarie</commune>, <commune insee="52271">Lanques</commune>, Pont-Minard, <commune insee="52204">Forcey</commune>, <commune insee="52061">Bourdons</commune>, la Vieille-Crête, <commune insee="52128">Morteau</commune>, <commune insee="52008">Andelot</commune>, <commune insee="52335">Montot</commune>, <commune insee="52044">Roche-sur-Rognon</commune>, <commune insee="52177">Doulaincourt</commune>, <commune insee="52177">Saucourt</commune></localisation>, les <localisation>forges de <commune insee="52175">Donjeux</commune></localisation> et se jette bientôt dans la Marne, rive droite, après un parcours de quarante-cinq kilomètres.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source au <localisation>bois d'<commune insee="52332" precision="approximatif">Epinant</commune></localisation>, traverse les <localisation>territoires d'<commune insee="52248" precision="approximatif">Is-en-Bassigny</commune>, <commune insee="52353" precision="approximatif">Donnemarie</commune>, <commune insee="52271" precision="approximatif">Lanques</commune>, Pont-Minard, <commune insee="52204" precision="approximatif">Forcey</commune>, <commune insee="52061" precision="approximatif">Bourdons</commune>, la Vieille-Crête, <commune insee="52128" precision="approximatif">Morteau</commune>, <commune insee="52008" precision="approximatif">Andelot</commune>, <commune insee="52335" precision="approximatif">Montot</commune>, <commune insee="52044" precision="approximatif">Roche-sur-Rognon</commune>, <commune insee="52177" precision="approximatif">Doulaincourt</commune>, <commune insee="52177" precision="approximatif">Saucourt</commune></localisation>, les <localisation>forges de <commune insee="52175" precision="approximatif">Donjeux</commune></localisation> et se jette bientôt dans la Marne, rive droite, après un parcours de quarante-cinq kilomètres.</definition>
     <forme_ancienne>- <i>Rodigio,</i> <date>1173</date> <reference>(la Crête)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Le Roignon,</i> <date>1240</date> <reference>(Layettes n° 2876)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Le Roignun,</i> <date>1244</date> <reference>(la Crête)</reference>.</forme_ancienne>
@@ -21914,7 +21914,7 @@
   </article>
   <article id="DT52-03234" pg="152">
     <vedette><sm>Saint-Claude,</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, qui était dans l'<localisation>cimetière d'<commune insee="52248">Is-en-Bassigny</commune></localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, qui était dans l'<localisation>cimetière d'<commune insee="52248" precision="approximatif">Is-en-Bassigny</commune></localisation>.</definition>
     <forme_ancienne>- <i>Saint-Claude,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03235" pg="152">
@@ -22091,7 +22091,7 @@
   </article>
   <article id="DT52-03265" pg="153">
     <vedette><sm>Sainte-Anne,</sm></vedette>
-    <definition><typologie>chapelle</typologie>, au <localisation>cimetière de <commune insee="52250">Joinville</commune></localisation>.</definition>
+    <definition><typologie>chapelle</typologie>, au <localisation>cimetière de <commune insee="52250" precision="approximatif">Joinville</commune></localisation>.</definition>
   </article>
   <article id="DT52-03266" pg="153">
     <vedette><sm>Sainte-Anne,</sm></vedette>
@@ -22176,7 +22176,7 @@
   </article>
   <article id="DT52-03283" pg="153">
     <vedette><sm>Sainte-Catherine,</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, de l'<localisation>ancien château de <commune insee="52132">Clefmont</commune></localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, de l'<localisation>ancien château de <commune insee="52132" precision="approximatif">Clefmont</commune></localisation>.</definition>
   </article>
   <article id="DT52-03284" pg="153">
     <vedette><sm>Sainte-Catherine,</sm></vedette>
@@ -22778,7 +22778,7 @@
   </article>
   <article id="DT52-03404" pg="156">
     <vedette><sm>Saint-Laurent,</sm></vedette>
-    <definition><typologie>ancien ermitage</typologie>, qui était situé <localisation>entre <pg>157</pg><commune insee="52269">Langres</commune> et <commune insee="52352">Ninville</commune></localisation>.</definition>
+    <definition><typologie>ancien ermitage</typologie>, qui était situé <localisation>entre <pg>157</pg><commune insee="52269" precision="approximatif">Langres</commune> et <commune insee="52352" precision="approximatif">Ninville</commune></localisation>.</definition>
     <forme_ancienne>- <i>Saint Laurent,</i> <date>1769</date> <reference>(Chalmandrier)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03405" pg="157">
@@ -23201,7 +23201,7 @@
   </article>
   <article id="DT52-03482" pg="159">
     <vedette><sm>Saint-Michel,</sm></vedette>
-    <definition><typologie>chapelle détruite</typologie>, du <localisation>cimetière d'<commune insee="52002">Aigremont</commune></localisation>, lequel était commun aux trois <localisation>villages d'Aigremont, d'Arnoncourt et de la Rivière</localisation>.</definition>
+    <definition><typologie>chapelle détruite</typologie>, du <localisation>cimetière d'<commune insee="52002" precision="approximatif">Aigremont</commune></localisation>, lequel était commun aux trois <localisation>villages d'Aigremont, d'Arnoncourt et de la Rivière</localisation>.</definition>
   </article>
   <article id="DT52-03483" pg="159">
     <vedette><sm>Saint-Michel,</sm></vedette>
@@ -23668,7 +23668,7 @@
   </article>
   <article id="DT52-03571" pg="161">
     <vedette><sm>Saint-Thiébaud,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> du <localisation>prieuré de <commune insee="52201">Flammerécourt</commune></localisation>, aujourd'hui désaffectée, et fontaine du même nom.</definition>
+    <definition><typologie>ancienne chapelle</typologie> du <localisation>prieuré de <commune insee="52201" precision="approximatif">Flammerécourt</commune></localisation>, aujourd'hui désaffectée, et fontaine du même nom.</definition>
     <forme_ancienne>- <i>Saint-Thiébault,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03572" pg="161">
@@ -23972,7 +23972,7 @@
   </article>
   <article id="DT52-03615" pg="163">
     <vedette><sm>Saulx (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui sort de <localisation><commune insee="52218" precision="certain">Germay</commune></localisation>, arrose <localisation><commune insee="52288" precision="certain">Harméville</commune></localisation>, où elle forme un étang, puis <localisation><commune insee="52181">Échènay</commune>, <commune insee="52376">Pancey</commune> et <commune insee="52378">Paroy</commune></localisation>, et entre alors dans le <localisation>département de la Meuse</localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui sort de <localisation><commune insee="52218" precision="approximatif">Germay</commune></localisation>, arrose <localisation><commune insee="52288" precision="approximatif">Harméville</commune></localisation>, où elle forme un étang, puis <localisation><commune insee="52181" precision="approximatif">Échènay</commune>, <commune insee="52376" precision="approximatif">Pancey</commune> et <commune insee="52378" precision="approximatif">Paroy</commune></localisation>, et entre alors dans le <localisation>département de la Meuse</localisation>.</definition>
     <forme_ancienne>- <i>Saltus,</i> <date>vers 904</date> <reference>(cartul. du chantre Warin)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03616" pg="163" type="commune">
@@ -24024,7 +24024,7 @@
     <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52168" precision="certain">Dinteville</commune></localisation>, où l'on prétend qu'il y eut une <localisation>maison de Templiers</localisation>.</definition>
   </article>
   <article id="DT52-03621" pg="164">
-    <vedette><sm>Sauvetrécourt (Petit</sm> et <sm>Grand),</sm></vedette>
+    <vedette><sm>Sauvetrécourt (Petit et Grand),</sm></vedette>
     <definition><typologie>lieu dit</typologie>, <localisation>commune de <commune insee="52318" precision="certain">Melay</commune></localisation>, section E.</definition>
   </article>
   <article id="DT52-03622" pg="164" type="commune">
@@ -24546,7 +24546,7 @@
   </article>
   <article id="DT52-03682" pg="168">
     <vedette><sm>Suize (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à <localisation><commune insee="52384" precision="certain">Perrogney</commune></localisation>, passe à <localisation><commune insee="52545">Voisines</commune>, <commune insee="52366">Ormancey</commune>, <commune insee="52307">Marac</commune>, <commune insee="52196">Faverolles</commune>, <commune insee="52538">Villiers-sur-Suize</commune>, Rochevilliers, <commune insee="52205">Crenay</commune>, <commune insee="52349">Neuilly-sur-Suize</commune> et <commune insee="52121">Brottes</commune></localisation>, et se jette dans la Marne après être passée sous le <localisation>viaduc de Chaumont</localisation> et avoir traversé <localisation>Buxereuilles</localisation>, hameau de Chaumont.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à <localisation><commune insee="52384" precision="approximatif">Perrogney</commune></localisation>, passe à <localisation><commune insee="52545" precision="approximatif">Voisines</commune>, <commune insee="52366" precision="approximatif">Ormancey</commune>, <commune insee="52307" precision="approximatif">Marac</commune>, <commune insee="52196" precision="approximatif">Faverolles</commune>, <commune insee="52538" precision="approximatif">Villiers-sur-Suize</commune>, Rochevilliers, <commune insee="52205" precision="approximatif">Crenay</commune>, <commune insee="52349" precision="approximatif">Neuilly-sur-Suize</commune> et <commune insee="52121" precision="approximatif">Brottes</commune></localisation>, et se jette dans la Marne après être passée sous le <localisation>viaduc de Chaumont</localisation> et avoir traversé <localisation>Buxereuilles</localisation>, hameau de Chaumont.</definition>
     <forme_ancienne>- <i>Amnis Secucie,</i> <date>vers 1123</date> <reference>(arch. Côte-d'Or, Morment)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Riperia de Suise,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(arch. Côte-d'Or, Morment)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Susa,</i> <date>1249-1252</date> <reference>(Longnon, Rôles, n° 643)</reference>.</forme_ancienne>
@@ -25571,7 +25571,7 @@
   </article>
   <article id="DT52-03862" pg="174">
     <vedette><sm>Val (Le),</sm></vedette>
-    <definition><typologie>forêt</typologie>, au <localisation>sud de <commune insee="52448">Saint-Dizier</commune></localisation>.</definition>
+    <definition><typologie>forêt</typologie>, au <localisation>sud de <commune insee="52448" precision="approximatif">Saint-Dizier</commune></localisation>.</definition>
     <forme_ancienne>- <i>La forest du Val,</i> <date>1576</date> <reference>(Arch. nat., P. 189<sup>1</sup>, n° 1585)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03863" pg="174">
@@ -25647,11 +25647,11 @@
   </article>
   <article id="DT52-03873" pg="175">
     <vedette><sm>Valcourt,</sm></vedette>
-    <definition><typologie>lieu dit</typologie>, dans le <localisation>voisinage de <commune insee="52271">Lanques</commune></localisation> <reference>(Roussel, Dioc. de Langres, II, p. 165, 2<sup>e</sup> col.)</reference>.</definition>
+    <definition><typologie>lieu dit</typologie>, dans le <localisation>voisinage de <commune insee="52271" precision="approximatif">Lanques</commune></localisation> <reference>(Roussel, Dioc. de Langres, II, p. 165, 2<sup>e</sup> col.)</reference>.</definition>
   </article>
   <article id="DT52-03874" pg="175">
     <vedette><sm>Val-Darde (Le),</sm></vedette>
-    <definition><typologie>vallée</typologie>, située <localisation>entre <commune insee="52315">Marnay</commune> et <commune insee="52205">Foulain</commune></localisation>, où il y avait, dit-on, un couvent de Cordeliers, qui aurait été détruit au <date><sm>xvi</sm><sup>e</sup> siècle</date>.</definition>
+    <definition><typologie>vallée</typologie>, située <localisation>entre <commune insee="52315" precision="approximatif">Marnay</commune> et <commune insee="52205" precision="approximatif">Foulain</commune></localisation>, où il y avait, dit-on, un couvent de Cordeliers, qui aurait été détruit au <date><sm>xvi</sm><sup>e</sup> siècle</date>.</definition>
     <forme_ancienne>- <i>Les hermites dou Val d'Ordre,</i> <date>1276-78</date> <reference>(Longnon, Doc. II, p. 165)</reference>.</forme_ancienne>
     <commentaire>
       <p>Au <date><sm>xviii</sm><sup>e</sup> siècle</date>, le Val-Darde était encore un lieu habité, car il formait alors une communauté du bailliage de Chaumont, prévôté de Nogent-le-Roi.</p>
@@ -25704,7 +25704,7 @@
   </article>
   <article id="DT52-03881" pg="175">
     <vedette><sm>Val-de-Rognon (Le),</sm></vedette>
-    <definition><typologie>ancienne prévôté</typologie> du <localisation>bailliage de Chaumont</localisation>, qui comprenait les <localisation>territoires des communes de <commune insee="52177" precision="certain">Doulaincourt</commune> (chef-lieu), <commune insee="52044" precision="certain">Bettaincourt</commune> et <commune insee="52044" precision="certain">Roche-sur-Rognon</commune></localisation>, et des villages ci-après, les uns détruits, les autres ne formant que des hameaux : Cultru, Saint-Brice, Saint-Èvre et Villaincourt.</definition>
+    <definition><typologie>ancienne prévôté</typologie> du <localisation>bailliage de Chaumont</localisation>, qui comprenait les <localisation>territoires des communes de <commune insee="52177" precision="approximatif">Doulaincourt</commune> (chef-lieu), <commune insee="52044" precision="approximatif">Bettaincourt</commune> et <commune insee="52044" precision="approximatif">Roche-sur-Rognon</commune></localisation>, et des villages ci-après, les uns détruits, les autres ne formant que des hameaux : Cultru, Saint-Brice, Saint-Èvre et Villaincourt.</definition>
     <forme_ancienne>- <i>Vallis Rodionis,</i> <date>1140</date> <reference>(Saint-Urbain)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Vallis Rodigionis,</i> <date>1189</date> <reference>(Septfontaines)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Val de Reongnon,</i> <date>vers 1252</date> <reference>(Longnon, Doc. II, p. 172, note)</reference>.</forme_ancienne>
@@ -25914,7 +25914,7 @@
   </article>
   <article id="DT52-03906" pg="177">
     <vedette><sm>Vandelincourt (?),</sm></vedette>
-    <definition><typologie>village détruit</typologie>, dans le <localisation>voisinage de <commune insee="52242">Hortes</commune></localisation> (?).</definition>
+    <definition><typologie>village détruit</typologie>, dans le <localisation>voisinage de <commune insee="52242" precision="approximatif">Hortes</commune></localisation> (?).</definition>
     <forme_ancienne>- <i>Vicus Vandaleni curtis, qui est in potestate Hortesis</i> <reference>(chronique de Bèze, édit. Bougaud et Garnier, p. 372-373)</reference>.</forme_ancienne>
   </article>
   <article id="DT52-03907" pg="177">
@@ -25947,7 +25947,7 @@
   </article>
   <article id="DT52-03913" pg="177">
     <vedette><sm>Varenne (La),</sm></vedette>
-    <definition><typologie>fief</typologie> qui était en la <localisation>paroisse de <commune insee="52220">Giey-sur-Aujon</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> qui était en la <localisation>paroisse de <commune insee="52220" precision="approximatif">Giey-sur-Aujon</commune></localisation>.</definition>
   </article>
   <article id="DT52-03914" pg="177">
     <vedette><sm>Varenne (La),</sm></vedette>
@@ -26537,7 +26537,7 @@
   </article>
   <article id="DT52-03985" pg="181">
     <vedette><sm>Veruz,</sm></vedette>
-    <definition><typologie>hameau détruit</typologie>, dans le <localisation>voisinage de <commune insee="52472">Sexfontaine</commune></localisation>, peut-être au <localisation>territoire de <commune insee="52031" precision="approximatif">Valdelancourt</commune></localisation> <reference>(Jolibois : La Haute-Marne, p. 544 ; Roussel : Dioc. de <pg>182</pg>Langres, II, p. 114)</reference>.</definition>
+    <definition><typologie>hameau détruit</typologie>, dans le <localisation>voisinage de <commune insee="52472" precision="approximatif">Sexfontaine</commune></localisation>, peut-être au <localisation>territoire de <commune insee="52031" precision="approximatif">Valdelancourt</commune></localisation> <reference>(Jolibois : La Haute-Marne, p. 544 ; Roussel : Dioc. de <pg>182</pg>Langres, II, p. 114)</reference>.</definition>
     <forme_ancienne>- <i>Ecclesia de Veruz,</i> <date>1210</date> <reference>(Sexfontaine)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Les molins de Varuz sus Saone,</i> <date>1262</date> <reference>(Sexfontaine)</reference>.</forme_ancienne>
   </article>
@@ -26578,7 +26578,7 @@
   </article>
   <article id="DT52-03988" pg="182">
     <vedette><sm>Vésigneul,</sm></vedette>
-    <definition><typologie>lieu détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52146">Coupray</commune> et de <commune insee="52151">Cour-l'Evêque</commune></localisation>.</definition>
+    <definition><typologie>lieu détruit</typologie>, qui était dans le <localisation>voisinage de <commune insee="52146" precision="approximatif">Coupray</commune> et de <commune insee="52151" precision="approximatif">Cour-l'Evêque</commune></localisation>.</definition>
     <forme_ancienne>- <i>Vesignuel,</i> <date>1223</date> <reference>(Longuay)</reference>.</forme_ancienne>
     <commentaire>
       <p>Le finage de Vésigneul était contigu à celui de Rouville, c<sup>ne</sup> de Cour-l'Évêque.</p>
@@ -27247,7 +27247,7 @@
   </article>
   <article id="DT52-04084" pg="187">
     <vedette><sm>« <i>Villeneuve-des-Molieres</i> (<i>La</i>) »,</sm></vedette>
-    <definition><typologie>localité</typologie> qui se trouvait dans la <localisation>châtellenie de <commune insee="52311">Montigny-le-Roi</commune></localisation>.</definition>
+    <definition><typologie>localité</typologie> qui se trouvait dans la <localisation>châtellenie de <commune insee="52311" precision="approximatif">Montigny-le-Roi</commune></localisation>.</definition>
     <forme_ancienne>- <i>Girardus de Moleria</i> (?), <date>vers 1135</date> <reference>(arch. Côte-d'Or, Morment)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>La Vile Nueve des Molieres,</i> <date>1274-1275</date> <reference>(Longnon, Doc. I, n° 6989)</reference>.</forme_ancienne>
   </article>
@@ -27276,11 +27276,11 @@
   </article>
   <article id="DT52-04086" pg="187">
     <vedette><sm>Villeneuve-en-Vavre (La),</sm></vedette>
-    <definition>nom primitif de <localisation><commune insee="52107">Chanteraine</commune></localisation> <reference>(Jolibois : La Haute-Marne, p. 325)</reference>.</definition>
+    <definition>nom primitif de <localisation><commune insee="52107" precision="approximatif">Chanteraine</commune></localisation> <reference>(Jolibois : La Haute-Marne, p. 325)</reference>.</definition>
   </article>
   <article id="DT52-04087" pg="187">
     <vedette><sm>Ville-Saosne,</sm></vedette>
-    <definition><typologie>fief</typologie> qui était en la <localisation>paroisse de <commune insee="52386">Perthe</commune></localisation> <reference>(Vaveray, p. 391)</reference>.</definition>
+    <definition><typologie>fief</typologie> qui était en la <localisation>paroisse de <commune insee="52386" precision="approximatif">Perthe</commune></localisation> <reference>(Vaveray, p. 391)</reference>.</definition>
   </article>
   <article id="DT52-04088" pg="187">
     <vedette><sm>Ville-Sec,</sm></vedette>
@@ -27450,7 +27450,7 @@
   </article>
   <article id="DT52-04104" pg="189">
     <vedette><sm>Vingeanne (La),</sm></vedette>
-    <definition><typologie>rivière</typologie>, affluent de la Saône, qui prend sa source à <localisation><commune insee="52014" precision="certain">Aprey</commune></localisation>, parcourt les <localisation>territoires de <commune insee="52035">Baissey</commune>, <commune insee="52519">Vesvre</commune>, <commune insee="52529">Villegusien</commune>, <commune insee="52529">Piépape</commune>, <commune insee="52170">Dammarien</commune>, <commune insee="52126">Choilley</commune>, <commune insee="52126">Dardenay</commune>, <commune insee="52158">Cusey</commune></localisation>, et sort alors du département.</definition>
+    <definition><typologie>rivière</typologie>, affluent de la Saône, qui prend sa source à <localisation><commune insee="52014" precision="approximatif">Aprey</commune></localisation>, parcourt les <localisation>territoires de <commune insee="52035" precision="approximatif">Baissey</commune>, <commune insee="52519" precision="approximatif">Vesvre</commune>, <commune insee="52529" precision="approximatif">Villegusien</commune>, <commune insee="52529" precision="approximatif">Piépape</commune>, <commune insee="52170" precision="approximatif">Dammarien</commune>, <commune insee="52126" precision="approximatif">Choilley</commune>, <commune insee="52126" precision="approximatif">Dardenay</commune>, <commune insee="52158" precision="approximatif">Cusey</commune></localisation>, et sort alors du département.</definition>
     <forme_ancienne>- <i>Fluvius Vincenna,</i> <date>902</date> <reference>(Roserot, Dipl. carol., p. 28)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Viggenna,</i> <date>1237</date> <reference>(arch. Aube, Notre-Dame-aux-Nonnains)</reference>.</forme_ancienne>
     <forme_ancienne>- <i>Vingenna,</i> <date>1268</date> <reference>(Notre-Dame-aux-Nonnains)</reference>.</forme_ancienne>

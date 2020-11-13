@@ -198,14 +198,14 @@ Ajout de `@precision="approximatif"` dans le cas de localisations multiples :
 ### Cas 1. `@precision` manquant pour localisation multiple
 - search: `(<commune insee="[^"]+")>`
 - replace: `$1 precision="approximatif">`
-- contexte: `//definition[.//commune[position()>1]]//commune[not(@precision)]`
+- contexte: `//definition[count(descendant::commune)>1]`
 
-### Cas 3. `@precision='certain'` pour localisation multiple (erreur ?)
+### Cas 2. `@precision='certain'` pour localisation multiple (erreur ?)
 - search: `(<commune insee="[^"]+") precision="certain">`
 - replace: `$1 precision="approximatif">`
-- context: `//definition[.//commune[position()>1]]//commune[@precision='certain']` 
+- context: `//definition[count(descendant::commune)>1]` 
 
-### Cas 2. `@precision` manquant dans les localisation simple
+### Cas 3. `@precision` manquant dans les localisation simple
 - search: `(<commune insee="[^"]+")>`
 - replace: `$1 precision="approximatif">`
 
