@@ -7134,7 +7134,7 @@
   </article>
   <article id="DT28-01371" pg="37">
     <vedette><sm>Chaises (Les),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="28102" precision="certain">Clévilliers-le-Moutiers</commune></localisation>, tire son nom de la paroisse des Chaises, réunie au <localisation><commune insee="28393" precision="certain">Tremblay-le-Vicomte</commune></localisation> en <date>1790</date> et dont il ne reste plus de traces aujourd’hui.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="28102" precision="certain">Clévilliers-le-Moutiers</commune></localisation>, tire son nom de la paroisse des Chaises, réunie au Tremblay-le-Vicomte en <date>1790</date> et dont il ne reste plus de traces aujourd’hui.</definition>
   </article>
   <article id="DT28-01372" pg="37">
     <vedette><sm>Chaises (Les),</sm></vedette>
@@ -17247,7 +17247,11 @@
   <article id="DT28-03334" pg="88">
     <vedette><sm>Gué-Herbault (Le)</sm> ou plutôt <sm>Guéherbault,</sm></vedette>
     <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="28051" precision="certain">Bonneval</commune></localisation>.</definition>
-    <commentaire><p><forme_ancienne2>— <i>Gueherbaut,</i> <date>1193</date></forme_ancienne2> ; <forme_ancienne2><i>Guiherbaut,</i> <date>1251</date></forme_ancienne2> ; <forme_ancienne2><i>Guéharbault,</i> <date>1468</date> <reference>(ch. de l’abb. de Bonneval)</reference></forme_ancienne2> ; tire son nom d’une ancienne famille de Bonneval, qui avait également donné son nom à une maison de cette ville : <forme_ancienne2><i>domus de Gueherbaut, in villa Bonevallis sita, in vico qui dicitur Puteus-Inferni,</i> <date>1248</date> <reference>(ch. de l’abb. de Bonneval)</reference></forme_ancienne2>.</p></commentaire>
+    <forme_ancienne>— <i>Gueherbaut,</i> <date>1193</date> ;</forme_ancienne>
+	<forme_ancienne><i>Guiherbaut,</i> <date>1251</date> ;</forme_ancienne>
+	<forme_ancienne><i>Guéharbault,</i> <date>1468</date> <reference>(ch. de l’abb. de Bonneval)</reference> ;</forme_ancienne>
+	<forme_ancienne><i>domus de Gueherbaut, in villa Bonevallis sita, in vico qui dicitur Puteus-Inferni,</i> <date>1248</date> <reference>(ch. de l’abb. de Bonneval)</reference> ;</forme_ancienne>
+	<commentaire><p>tire son nom d’une ancienne famille de Bonneval, qui avait également donné son nom à une maison de cette ville.</p></commentaire>
   </article>
   <article id="DT28-03335" pg="88">
     <vedette><sm>Gué-Membré,</sm></vedette>
