@@ -1002,7 +1002,7 @@
   <article id="DT30-00157" pg="8" type="commune">
     <vedette><sm>Anduze,</sm></vedette>
     <definition><localisation>arrondissement d’<commune insee="30007" precision="approximatif">Alais</commune></localisation>.</definition>
-    <forme_ancienne>— ANDVSIA <reference>(inscr. du Mus. de Nimes, n° 26)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ANDVSIA,</i> <reference>(inscr. du Mus. de Nimes, n° 26)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Andusia,</i> <date>914</date> <reference>(Mén. I, pr. p. 17, c. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Anduza,</i> <date>1015</date> <reference>(Ach. Colson, ap. Mém. de l'Acad. du Gard, 1851)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Andusa,</i> <date>1022</date> <reference>(cart. de N.-D. de Nimes, ch. 153, et Hist. de Lang. II, pr. col. 173, sous la date 1020)</reference>.</forme_ancienne>
@@ -1043,7 +1043,7 @@
   </article>
   <article id="DT30-00162" pg="8">
     <vedette><sm>Anglas,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30341" precision="certain">Vauvert</commune></localisation>, sur l'emplacement de l'ancien prieuré de <sm>Saint-Martin-d'Anglas :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30341" precision="certain">Vauvert</commune></localisation>, sur l'emplacement de l'ancien prieuré de Saint-Martin-d'Anglas : <renvoi>voy. ce nom</renvoi>.</definition>
     <forme_ancienne>— <i>Angulares,</i> <date>1123</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Agglas,</i> <date>1125</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Anglars,</i> <date>1146</date> <reference>(Lay. du Tr. des ch. t. I, p. 62 et 63)</reference> ;</forme_ancienne>
@@ -1257,7 +1257,7 @@
   <article id="DT30-00200" pg="9">
     <vedette><sm>Ardèche (L'),</sm></vedette>
     <definition><typologie>rivière</typologie> qui sert de limite septentrionale au département sur les <localisation>communes du <commune insee="30124" precision="approximatif">Garn</commune>, d'<commune insee="30005" precision="approximatif">Aiguèze</commune>, de <commune insee="30290" precision="approximatif">Saint-Paulet-de-Caisson</commune> et du <commune insee="30202" precision="approximatif">Pont-Saint-Esprit</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>atr</sm> [<i>ica</i>] <reference>(inscr. des Arènes de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>atr[ica]</i> <reference>(inscr. des Arènes de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ertica, Entica</i> <reference>(chartes, <i>Bull. de l'Acad. Delph.</i> t. V)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-00201" pg="9">
@@ -3494,8 +3494,8 @@
   <article id="DT30-00584" pg="22" type="commune">
     <vedette><sm>Beaucaire,</sm></vedette>
     <definition><localisation>arrondissement de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>.</definition>
-    <forme_ancienne>— Οὔγερνον <reference>(Strab. l. IV, c. 1)</reference>.</forme_ancienne>
-    <forme_ancienne>— <sm>vgernenses</sm> <reference>(Inscr. trouv. à Beaucaire et déposée dans la chapelle du château)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Οὔγερνον</i> <reference>(Strab. l. IV, c. 1)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VGERNENSES</i> <reference>(Inscr. trouv. à Beaucaire et déposée dans la chapelle du château)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ugerno</i> <reference>(Tab. Theod.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ugernum</i> <reference>(Itin. Ant.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ugernon, quæ confinatur cum Arelaton</i> <reference>(Anon. Rav.)</reference>.</forme_ancienne>
@@ -3667,7 +3667,7 @@
   <article id="DT30-00613" pg="24">
     <vedette><sm>Bedilhan,</sm></vedette>
     <definition><typologie>lieu détruit</typologie>, <localisation>commune de <commune insee="30062" precision="certain">Calvisson</commune></localisation>.</definition>
-    <forme_ancienne>— ΒΙΔΙΛΛΑΝΟ <reference>(inscr. celt. du Nymph. de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΒΙΔΙΛΛΑΝΟ</i> <reference>(inscr. celt. du Nymph. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa Bitiliano, in valle Anagia, in territorio civitatis Nemausensis,</i> <date>926</date> <reference>(cart. de N.-D. de Nimes, ch. 145)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In terminios de villa Bidiliane, in Valle Anagia,</i> <date>1011</date> <reference>(cart. de N.-D. de Nimes, ch. 137)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>A. de Bedillano,</i> <date>1168</date> <reference>(Lay. du Tr. des ch. t. I, p. 91)</reference>.</forme_ancienne>
@@ -5278,7 +5278,7 @@
   </article>
   <article id="DT30-00913" pg="32">
     <vedette><sm>Boulbon,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancienne église rurale de <sm>Saint-Guilhem-de-Vignoles</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancienne église rurale de Saint-Guilhem-de-Vignoles <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Mas-de-Bourbon,</i> <date>1671</date> <reference>(compoix de Nimes)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-00914" pg="32">
@@ -5324,7 +5324,7 @@
   </article>
   <article id="DT30-00922" pg="32">
     <vedette><sm>Boulouzargues,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="30083" precision="approximatif">Codognan</commune> et de <commune insee="30341" precision="approximatif">Vauvert</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-Vincent-d'Olozargues</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="30083" precision="approximatif">Codognan</commune> et de <commune insee="30341" precision="approximatif">Vauvert</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-Vincent-d'Olozargues <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Villa Bonantianicus,</i> <date>1004</date> <reference>(cart. de Psalm)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa Holonzanicus,</i> <date>1031</date> <reference>(cart. de N.-D. de Nimes, ch. 109)</reference>.</forme_ancienne>
   </article>
@@ -6022,7 +6022,7 @@
   <article id="DT30-01049" pg="36" type="commune">
     <vedette><sm>Brignon,</sm></vedette>
     <definition><localisation>canton de <commune insee="30348" precision="approximatif">Vèzenobre</commune></localisation>.</definition>
-    <forme_ancienne>— BRIGINN [ones] <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>BRIGINN[ones]</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Brinno,</i> <date>1108</date> <reference>(cart. de N.-D. de Nimes, ch. 176)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Brinnonum,</i> <date>1207</date> <reference>(Mén. I, pr. p. 44, c. 1)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1237</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
@@ -6204,7 +6204,7 @@
   <article id="DT30-01076" pg="37">
     <vedette><sm>Brueis,</sm></vedette>
     <definition><typologie>village</typologie>, <localisation>commune d’<commune insee="30001" precision="certain">Aigaliers</commune></localisation>.</definition>
-    <forme_ancienne>— BRVGETIA <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>BRVGETIA</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Prioratus Beatæ-Mariæ de Brueyssio,</i> <date>1470</date> <reference>(Sauv. André, not. d'Uzès)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Brugesia,</i> <date>1488</date> <reference>(Mén. III, pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bruyès,</i> <date>1489</date> <reference>(Mén. III, pr.)</reference>.</forme_ancienne>
@@ -8794,7 +8794,7 @@
   </article>
   <article id="DT30-01542" pg="52">
     <vedette><sm>Caxoniensis (Vallis),</sm></vedette>
-    <definition><typologie>vallée inférieure&gt;</typologie> de <localisation>la Cèze</localisation>.</definition>
+    <definition><typologie>vallée inférieure</typologie> de <localisation>la Cèze</localisation>.</definition>
     <commentaire>
       <p>Elle formait, à l'<date>époque carlovingienne</date>, une viguerie ayant pour chef-lieu Bagnols (<i>Balneolæ</i>), et plus tard, sous l'administration royale, les deux vigueries de Bagnols et de Saint-Saturnin-du-Port.</p>
     </commentaire>
@@ -9001,7 +9001,7 @@
     <forme_ancienne>— <i>Cebenna</i> <reference>(César, VII, 56)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gebenna</i> <reference>(Pline, III, 4 ; Lucain, I, v. 434)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gebennæ ; Gebennici montes</i> <reference>(Pomp. Méla, II, 5)</reference>.</forme_ancienne>
-    <forme_ancienne>— Τὸ Κέμμενον ὄρος <reference>(Strab. IV, p. 128)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Τὸ Κέμμενον ὄρος</i> <reference>(Strab. IV, p. 128)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sabainatis,</i> <date>945</date> <reference>(Hist. de Lang. II, pr. col. 87)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Valles Gebennicæ,</i> <date>1693</date> <reference>(Gall. Christ. t. VI, p. 225)</reference>.</forme_ancienne>
   </article>
@@ -9890,7 +9890,7 @@
   </article>
   <article id="DT30-01721" pg="58">
     <vedette><sm>Clastre (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30308" precision="certain">Sanilhac</commune></localisation>, sur les ruines de l'ancien prieuré rural de <sm>Saint-Laurent-de-Valségane</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30308" precision="certain">Sanilhac</commune></localisation>, sur les ruines de l'ancien prieuré rural de Saint-Laurent-de-Valségane <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Terra ecclesiæ Sancti-Laurentii,</i> <date>1523</date> <reference>(P. Martin, not. d'Uzès)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La terre de la Clastre, où était anciennement la maison d'habitation des prieurs du bénéfice de Saint-Laurent-de-Valségane, au lieu de Senilhac,</i> <date>1613</date> <reference>(P. Astier, not. d'Uzès)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La maison claustralle au terroir de <pg>59</pg>Valségane,</i> <date>1641</date> <reference>(Jacq. Froment, not. de Sanilhac)</reference>.</forme_ancienne>
@@ -10223,7 +10223,7 @@
   </article>
   <article id="DT30-01781" pg="60">
     <vedette><sm>Codols,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-André-de-Codols :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-André-de-Codols : <renvoi>voy. ce nom</renvoi>.</definition>
     <forme_ancienne>— <i>In terminium de villa Codolo,</i> <date>1031</date> <reference>(cart. de N.-D. de Nimes, ch. 94)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Codols,</i> <date>1169</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Codol,</i> <date>1208</date> <reference>(Mén. I, pr. p. 44, c. 1)</reference>.</forme_ancienne>
@@ -10319,7 +10319,7 @@
   <article id="DT30-01798" pg="61" type="commune">
     <vedette><sm>Colias,</sm></vedette>
     <definition><localisation>canton de <commune insee="30212" precision="approximatif">Remoulins</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>Colliaco</sm> <reference>(Triens mérovingien)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>COLLIACO</i> <reference>(Triens mérovingien)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Coliaz,</i> <date>1151</date> <reference>(Hist. de Lang. II, pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Coliacum,</i> <date>1188</date> <reference>(cart. de Franq.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Castrum de Coliaco,</i> <date>1208</date> <reference>(généal. des Châteauneuf-Randon)</reference>.</forme_ancienne>
@@ -10471,7 +10471,7 @@
   </article>
   <article id="DT30-01819" pg="62">
     <vedette><sm>Coloures,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30156" precision="certain">Marguerittes</commune></localisation>, sur l'emplacement du prieuré rural de <sm>Saint-Thomas-de-Coloures :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30156" precision="certain">Marguerittes</commune></localisation>, sur l'emplacement du prieuré rural de Saint-Thomas-de-Coloures : <renvoi>voy. ce nom</renvoi>.</definition>
     <forme_ancienne>— <i>Villa Colonicis, in territorio civitatis Nemausensis,</i> <date>928</date> <reference>(cart. de N.-D. de Nimes, ch. 197)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa Colonizes,</i> <date>947</date> <reference>(cart. de N.-D. de Nimes, ch. 59)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa Colunzes, in comutatu Nemausensis,</i> <date>997</date> <reference>(cart. de N.-D. de Nimes, ch. 58)</reference>.</forme_ancienne>
@@ -13175,7 +13175,7 @@
   </article>
   <article id="DT30-02310" pg="77">
     <vedette><sm>Entrevignes,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30344" precision="certain">Vergèze</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-André-d'Entrevignes :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30344" precision="certain">Vergèze</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-André-d'Entrevignes : <renvoi>voy. ce nom</renvoi>.</definition>
   </article>
   <article id="DT30-02311" pg="77">
     <vedette><sm>Envers-des-Codes (L'),</sm></vedette>
@@ -13363,7 +13363,7 @@
   </article>
   <article id="DT30-02347" pg="78">
     <vedette><sm>Espeiran,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-Félix-d'Espeiran :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-Félix-d'Espeiran : <renvoi>voy. ce nom</renvoi>.</definition>
     <forme_ancienne>— <i>Aspiranum villa,</i> <date>879</date> <reference>(Mén. I, pr. p. 112, c. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Espeyranum,</i> <date>1386</date> <reference>(rép. du subs. de Charles VI)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Espeyrant,</i> <date>1828</date> <reference>(notar. de Nimes)</reference>.</forme_ancienne>
@@ -13496,7 +13496,7 @@
   </article>
   <article id="DT30-02367" pg="79">
     <vedette><sm>Estagel,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Sainte-Cécile-d'Estagel :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Sainte-Cécile-d'Estagel : <renvoi>voy. ce nom</renvoi>.</definition>
     <forme_ancienne>— <i>Mansus de Stagello, positus in valle Sinnani,</i> <date>1317</date> <reference>(arch. commun. de Vauvert)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Stagellum,</i> <date>1384</date> <reference>(dénombr. de la sénéch.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Estagel,</i> <date>1548</date> <reference>(arch. départ. C. 1787)</reference>.</forme_ancienne>
@@ -14768,12 +14768,12 @@
   </article>
   <article id="DT30-02603" pg="85">
     <vedette><sm>Fontaine-de-Goudargues,</sm></vedette>
-    <definition>réunion de plusieurs <typologie>sources</typologie> très-belles et très-abondantes qui sourdent tout <localisation>près du village de <commune insee="30131" precision="certain">Goudargues</commune></localisation> et dont une partie se jette dans la Cèze, après avoir fait tourner un moulin, et dont l'autre forme la <sm>Gambionne :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition>réunion de plusieurs <typologie>sources</typologie> très-belles et très-abondantes qui sourdent tout <localisation>près du village de <commune insee="30131" precision="certain">Goudargues</commune></localisation> et dont une partie se jette dans la Cèze, après avoir fait tourner un moulin, et dont l'autre forme la Gambionne : <renvoi>voy. ce nom</renvoi>.</definition>
   </article>
   <article id="DT30-02604" pg="85">
     <vedette><sm>Fontaine-de-Nimes (La),</sm></vedette>
     <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au pied de la colline de la Tourmagne</localisation>, à <localisation><commune insee="30189" precision="certain">Nimes</commune></localisation>, et se jette dans le Vistre sur le territoire de la même commune.</definition>
-    <forme_ancienne>— NEMAVSVS <reference>(inscr. de Nimes, passim)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>NEMAVSVS</i> <reference>(inscr. de Nimes, passim)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemausus</i> <reference>(Auson., <i>de cl. urb.</i> <sm>xix,</sm> 33)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cagantiolus,</i> <date>940</date> <reference>(cart. de N.-D. de Nimes, ch. 15)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fons-Major,</i> <date>957</date> <reference>(cart. de N.-D. de Nimes, ch. 16)</reference> ;</forme_ancienne>
@@ -16131,7 +16131,7 @@
   </article>
   <article id="DT30-02857" pg="92">
     <vedette><sm>Franquevaux,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30033" precision="certain">Beauvoisin</commune></localisation>, sur les ruines de l'ancienne abbaye de <sm>Notre-Dame-de-Franquevaux</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30033" precision="certain">Beauvoisin</commune></localisation>, sur les ruines de l'ancienne abbaye de Notre-Dame-de-Franquevaux <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Locus qui dicitur Franca-Vallis,</i> <date>1143</date> <reference>(Hist. de Lang. II, pr. c. 502)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Locus qui dicitur Libera-Vallis</i> <reference>(Hist. de Lang. II, pr. c. 502)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Franquevaux,</i> <date>1549</date> <reference>(arch. départ. C. 774)</reference>.</forme_ancienne>
@@ -16975,7 +16975,7 @@
   </article>
   <article id="DT30-03001" pg="98">
     <vedette><sm>Gavernes,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="30019" precision="certain">Aubais</commune></localisation>, sur l'emplacement du prieuré rural de <sm>Saint-Saturnin-de-Gavernes</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="30019" precision="certain">Aubais</commune></localisation>, sur l'emplacement du prieuré rural de Saint-Saturnin-de-Gavernes <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Gavernæ,</i> <date>1539</date> <reference>(Mén. IV, pr. p. 154, c. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La communauté de Gavernes,</i> <date>1674</date> <reference>(arch. départ. C. 878)</reference>.</forme_ancienne>
   </article>
@@ -17283,7 +17283,7 @@
   </article>
   <article id="DT30-03054" pg="100">
     <vedette><sm>Gleise,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="30032" precision="approximatif">Beaucaire</commune> et de <commune insee="30034" precision="approximatif">Bellegarde</commune></localisation>, sur l'emplacement de l'ancienne église rurale de <sm>Saint-Paul-de-Valor</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="30032" precision="approximatif">Beaucaire</commune> et de <commune insee="30034" precision="approximatif">Bellegarde</commune></localisation>, sur l'emplacement de l'ancienne église rurale de Saint-Paul-de-Valor <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Mas-de-Pillet,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mas-de-Gleize,</i> <date>1865</date> <reference>(notar. de Nimes)</reference>.</forme_ancienne>
   </article>
@@ -17419,7 +17419,7 @@
   </article>
   <article id="DT30-03080" pg="101">
     <vedette><sm>Goutajon (Le),</sm></vedette>
-    <definition><typologie>torrent</typologie> formé par les eaux que regorgent, après les grandes pluies, la <sm>Font-Françon</sm> et la <sm>Font-Dom</sm> <renvoi>(voy. ces noms)</renvoi>, et qui va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30061" precision="certain">Calmette</commune></localisation> <reference>(Ménard, t. II, p. 188)</reference>.</definition>
+    <definition><typologie>torrent</typologie> formé par les eaux que regorgent, après les grandes pluies, la Font-Françon et la Font-Dom <renvoi>(voy. ces noms)</renvoi>, et qui va se jeter dans la Braüne sur le <localisation>territoire de la commune de la <commune insee="30061" precision="certain">Calmette</commune></localisation> <reference>(Ménard, t. II, p. 188)</reference>.</definition>
   </article>
   <article id="DT30-03081" pg="101">
     <vedette><sm>Goutals,</sm></vedette>
@@ -18133,9 +18133,9 @@
     <vedette><sm>Hérault (L'),</sm></vedette>
     <definition><typologie>fleuve</typologie> qui a sa source au <localisation>mont Aigoual</localisation>, <localisation>commune de <commune insee="30339" precision="approximatif">Valleraugue</commune></localisation>, traverse celles de la <localisation><commune insee="30224" precision="approximatif">Rouvière</commune>, <commune insee="30229" precision="approximatif">Saint-André-de-Majencoules</commune>, <commune insee="30154" precision="approximatif">Mandagout</commune>, <commune insee="30220" precision="approximatif">Roquedur</commune>, <commune insee="30272" precision="approximatif">Saint-Julien-de-la-Nef</commune> et <commune insee="30280" precision="approximatif">Saint-Laurent-le-Minier</commune></localisation> et entre dans le département auquel il donne son nom pour aller se jeter à <localisation><commune insee="34003" precision="approximatif">Agde</commune></localisation> dans la Méditerranée.</definition>
     <forme_ancienne>— <i>Arauris</i> <reference>(Plin. <i>Hist. Nat.</i> Pomp. Mel. II, 5)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ἀραύριος <reference>(Ptol. II, 10, 2)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ῥαύραρις <reference>(Codd. Strab.)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ἄραυρις <reference>(Strab. <sm>iv,</sm> 2, 82)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ἀραύριος</i> <reference>(Ptol. II, 10, 2)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ῥαύραρις</i> <reference>(Codd. Strab.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ἄραυρις</i> <reference>(Strab. <sm>iv,</sm> 2, 82)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Araldis, Eravus</i> <reference>(basse latinité)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvius Eraur,</i> <date>1029</date> <reference>(Hist. de Lang. II, col. 185)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvius Lero,</i> <date>1157</date> <reference>(cart. de Franq.)</reference>.</forme_ancienne>
@@ -18898,7 +18898,7 @@
   </article>
   <article id="DT30-03379" pg="108">
     <vedette><sm>Jonquier (Le),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30081" precision="certain">Chusclan</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-Martin-du-Jonquier :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30081" precision="certain">Chusclan</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-Martin-du-Jonquier : <renvoi>voy. ce nom</renvoi>.</definition>
   </article>
   <article id="DT30-03380" pg="108">
     <vedette><sm>Jonquière (La),</sm></vedette>
@@ -19738,7 +19738,7 @@
   <article id="DT30-03520" pg="113" type="commune">
     <vedette><sm>Lédenon,</sm></vedette>
     <definition><localisation>canton de <commune insee="30156" precision="approximatif">Marguerittes</commune></localisation>.</definition>
-    <forme_ancienne>— LETINNONES <reference>(inscr. trouvée à Lédenon, auj. encastrée dans un mur du jardin de la maison Séguier, à Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>LETINNONES</i> <reference>(inscr. trouvée à Lédenon, auj. encastrée dans un mur du jardin de la maison Séguier, à Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa Letino,</i> <date>979</date> <reference>(cart. de N.-D. de Nimes, ch. 83)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ledenonum,</i> <date>1311</date> <reference>(arch. comm. de Colias)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1383</date> <reference>(Mén. III, pr. p. 15, c. 1)</reference>.</forme_ancienne>
@@ -21203,7 +21203,7 @@
   </article>
   <article id="DT30-03758" pg="122">
     <vedette><sm>Maransan,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30028" precision="certain">Bagnols</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-Tirce-de-Maransan</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30028" precision="certain">Bagnols</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-Tirce-de-Maransan <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Marausan,</i> <date>1375</date> <reference>(Gall. Christ. t. VI, p. 657)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-03759" pg="122">
@@ -21293,7 +21293,7 @@
   </article>
   <article id="DT30-03777" pg="123">
     <vedette><sm>Margue (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancienne église de <sm>Saint-Cyrgue-de-la-Margue</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>, sur l'emplacement de l'ancienne église de Saint-Cyrgue-de-la-Margue <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Margines,</i> <date>1071</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ecclesia de Margis,</i> <date>1125</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
   </article>
@@ -21697,7 +21697,7 @@
   </article>
   <article id="DT30-03849" pg="125">
     <vedette><sm>Mas-Boulbon,</sm></vedette>
-    <definition><typologie>ferme et maison de campagne</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de <sm>Saint-Guilhen-de-Vignoles</sm> <renvoi>(voy. ce nom)</renvoi>.</definition>
+    <definition><typologie>ferme et maison de campagne</typologie>, <localisation>commune de <commune insee="30189" precision="certain">Nimes</commune></localisation>, sur l'emplacement de l'ancien prieuré rural de Saint-Guilhen-de-Vignoles <renvoi>(voy. ce nom)</renvoi>.</definition>
     <forme_ancienne>— <i>Le Moulin-Bourbon,</i> <date>1534</date> <reference>(arch. départ. G. 176)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1700</date> <reference>(arch. départ. G. 200)</reference>.</forme_ancienne>
     <commentaire>
@@ -21890,7 +21890,7 @@
   </article>
   <article id="DT30-03890" pg="126">
     <vedette><sm>Mas-d'Argence, — Grand et Petit,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30034" precision="certain">Bellegarde</commune></localisation>, sur l'emplacement de l'ancien village d'Argence, qui avait donné son nom à la terre d'<sm>Argence :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30034" precision="certain">Bellegarde</commune></localisation>, sur l'emplacement de l'ancien village d'Argence, qui avait donné son nom à la terre d'Argence : <renvoi>voy. ce nom</renvoi>.</definition>
   </article>
   <article id="DT30-03891" pg="126">
     <vedette><sm>Mas-d'Argence (Le),</sm></vedette>
@@ -22250,7 +22250,7 @@
   </article>
   <article id="DT30-03970" pg="127">
     <vedette><sm>Mas-de-Laval,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30085" precision="certain">Colias</commune></localisation>, près des ruines de l'ancien prieuré rural de <sm>Saint-Étienne-de-Laval :</sm> <renvoi>voy. ce nom</renvoi>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="30085" precision="certain">Colias</commune></localisation>, près des ruines de l'ancien prieuré rural de Saint-Étienne-de-Laval : <renvoi>voy. ce nom</renvoi>.</definition>
   </article>
   <article id="DT30-03971" pg="127">
     <vedette><sm>Mas-de-la-Vaque,</sm></vedette>
@@ -26467,17 +26467,17 @@
   <article id="DT30-04742" pg="150" type="commune">
     <vedette><sm>Nimes,</sm></vedette>
     <definition><typologie>chef-lieu</typologie> du département.</definition>
-    <forme_ancienne>— ΝΜΥ <reference>(Boudard, <i>Numism. celtib.</i>)</reference>.</forme_ancienne>
-    <forme_ancienne>— ΝΕΜΑΥ, ΝΑΜΑΣΑΤ <reference>(De La Saussaye, <i>Num. de la Gaule Narb.</i>)</reference>.</forme_ancienne>
-    <forme_ancienne>— COL<i>onia</i> NEM<i>ausus</i> <reference>(Méd. impér. colon.)</reference>.</forme_ancienne>
-    <forme_ancienne>— ΝΑΜΑΥΣΙΚΑΒΟ <reference>(inscr. celt. du Nymphée de Nimes)</reference>.</forme_ancienne>
-    <forme_ancienne>— ΝΑΜΑΥϹΑΤΙϹ <reference>(inscr. celt. de Vaison, au musée d'Avignon)</reference>.</forme_ancienne>
-    <forme_ancienne>— RES·PVBLICA·NEMAVSESIVM <reference>(inscr. monum. au Nymphée de Nimes)</reference>.</forme_ancienne>
-    <forme_ancienne>— NEMAVSENSES <reference>(inscr. de Nimes, passim)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΝΜΥ</i> <reference>(Boudard, <i>Numism. celtib.</i>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΝΕΜΑΥ</i>, <i>ΝΑΜΑΣΑΤ</i> <reference>(De La Saussaye, <i>Num. de la Gaule Narb.</i>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>COL[onia] NEM[ausus]</i> <reference>(Méd. impér. colon.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΝΑΜΑΥΣΙΚΑΒΟ</i> <reference>(inscr. celt. du Nymphée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΝΑΜΑΥϹΑΤΙϹ</i> <reference>(inscr. celt. de Vaison, au musée d'Avignon)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>RES·PVBLICA·NEMAVSESIVM</i> <reference>(inscr. monum. au Nymphée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>NEMAVSENSES</i> <reference>(inscr. de Nimes, passim)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemausum</i> <reference>(Plin. <i>Hist. Nat.</i> III, 4)</reference>.</forme_ancienne>
-    <forme_ancienne>— Νέμαυσος <reference>(Strab. IV, <sm>i,</sm> 186)</reference>.</forme_ancienne>
-    <forme_ancienne>— ΝΕΜΑΥϹΟϹ <reference>(inscr. ap. Ménard, t. VII, 268)</reference>.</forme_ancienne>
-    <forme_ancienne>— Νεμαύσιος, Νεμαυσῖνος <reference>(Steph. Byz.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Νέμαυσος</i> <reference>(Strab. IV, <sm>i,</sm> 186)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>ΝΕΜΑΥϹΟϹ</i> <reference>(inscr. ap. Ménard, t. VII, 268)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Νεμαύσιος</i>, <i>Νεμαυσῖνος</i> <reference>(Steph. Byz.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemausus</i> <reference>(Pomp. Mela, II, 5)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemausum</i> <reference>(Itin. Ant. ; Itin. a Gad. Rom. ; Itin. Hier.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemausus</i> <reference>(Auson. <i>de Clar. Urb.</i>)</reference>.</forme_ancienne>
@@ -26542,7 +26542,7 @@
   <article id="DT30-04749" pg="151">
     <vedette><sm>Nizon (Le),</sm></vedette>
     <definition><typologie>ruisseau</typologie> qui prend sa source sur la <localisation>commune de <commune insee="30207" precision="approximatif">Pouzilhac</commune></localisation> et se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30178" precision="approximatif">Montfaucon</commune></localisation>.</definition>
-    <forme_ancienne>— LE PONT DE NIZON <reference>(inscript. de 1588, à Laudun)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>LE PONT DE NIZON</i> <reference>(inscript. de 1588, à Laudun)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Parcours : 8,300 mètres.</p>
     </commentaire>
@@ -26957,7 +26957,7 @@
   <article id="DT30-04800" pg="155">
     <vedette><sm>Notre-Dame-des-Fours,</sm></vedette>
     <definition><typologie>monastère de femmes, aujourd'hui ruiné</typologie>, <localisation>commune de <commune insee="30312" precision="certain">Sauveterre</commune></localisation>.</definition>
-    <forme_ancienne>— MONASTERIVM ⁝ DE ⁝ FVRNIS (inscr. du <date><sm>xiii</sm><sup>e</sup> siècle</date>).</forme_ancienne>
+    <forme_ancienne>— <i>MONASTERIVM ⁝ DE ⁝ FVRNIS</i> (inscr. du <date><sm>xiii</sm><sup>e</sup> siècle</date>).</forme_ancienne>
     <forme_ancienne>— <i>Monasterium Beatæ-Mariæ de Furnis, Avinionensis diocesis,</i> <date>1388</date> <reference>(Baluze, <i>Vit. pap. Aven.</i> t. II, col. 1021)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-04801" pg="155">
@@ -27334,7 +27334,7 @@
   <article id="DT30-04862" pg="157">
     <vedette><sm>Ourne (L'),</sm></vedette>
     <definition><typologie>ruisseau</typologie> qui prend sa source au <localisation>château de <commune insee="30252" precision="approximatif">Saint-Félix-de-Pallières</commune></localisation>, traverse les <localisation>communes d'<commune insee="30010" precision="approximatif">Anduze</commune> et de <commune insee="30330" precision="approximatif">Tornac</commune></localisation> et se jette dans le Gardon sur le <localisation>territoire de la commune de <commune insee="30162" precision="approximatif">Massillargues-et-Attuech</commune></localisation>.</definition>
-    <forme_ancienne>— VRNIA <reference>(inscr. de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VRNIA</i> <reference>(inscr. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sp. de Ornes,</i> <date>1157</date> <reference>(chap. de Nimes, arch. départ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'Hourme</i> <reference>(Rivoire, <i>Statist. du Gard</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'Ourne</i> <reference>(carte géol. du Gard)</reference>.</forme_ancienne>
@@ -31869,7 +31869,7 @@
     <forme_ancienne>— <i>La communauté de Remoulins,</i> <date>1620</date> <reference>(arch. départ. C. 1298)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Remolins,</i> <date>1694</date> <reference>(Armor. de Nimes)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Remoulins faisait partie de la viguerie de Beaucaire et du diocèse d'Uzès. — C'était le chef-lieu d'un des neuf doyennés de ce diocèse. — Le prieuré de Remoulins était uni au chapitre de Saint-Didier d'Avignon. Il avait pour annexe Saint-Frédémou <renvoi>(voy. <sm>Saint-Vérédème</sm>)</renvoi>. — On comptait à Remoulins 12 feux en <date>1384</date>, et en <date>1744</date>, 85 feux et 400 habitants. — La terre de Remoulins faisait originairement partie du domaine royal ; elle passa ensuite à l'ancienne maison d'Uzès, puis à celle de Crussol. — Remoulins devint, en <date>1790</date>, le chef-lieu d'un canton du district d'Uzès qui ne comprenait que quatre communes : Castillon-du-Gard, Fournès, Remoulins et Saint-Hilaire-d'Ozilhan. — Les armoiries de Remoulins sont, d'après l'Armorial de Nimes : <i>de sable, à un pal losangé d'argent et d'azur ;</i> et d'après Gastelier de la Tour : <i>de gueules, à un ormeau de sinople entre deux tours ; le mot <sm>remoulin</sm> partagé.</i></p>
+      <p>Remoulins faisait partie de la viguerie de Beaucaire et du diocèse d'Uzès. — C'était le chef-lieu d'un des neuf doyennés de ce diocèse. — Le prieuré de Remoulins était uni au chapitre de Saint-Didier d'Avignon. Il avait pour annexe Saint-Frédémou <renvoi>(voy. <sm>Saint-Vérédème</sm>)</renvoi>. — On comptait à Remoulins 12 feux en <date>1384</date>, et en <date>1744</date>, 85 feux et 400 habitants. — La terre de Remoulins faisait originairement partie du domaine royal ; elle passa ensuite à l'ancienne maison d'Uzès, puis à celle de Crussol. — Remoulins devint, en <date>1790</date>, le chef-lieu d'un canton du district d'Uzès qui ne comprenait que quatre communes : Castillon-du-Gard, Fournès, Remoulins et Saint-Hilaire-d'Ozilhan. — Les armoiries de Remoulins sont, d'après l'Armorial de Nimes : <i>de sable, à un pal losangé d'argent et d'azur ;</i> et d'après Gastelier de la Tour : <i>de gueules, à un ormeau de sinople entre deux tours ; le mot remoulin partagé.</i></p>
     </commentaire>
     <insee>30212</insee>
   </article>
@@ -32983,7 +32983,7 @@
     <forme_ancienne><date>1187</date> <reference>(cart. de Franquevaux)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ad Ruppem-Mauram,</i> <date>1220</date> <reference>(Lay. du Tr. des ch. t. I, p. 512)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Castrum de Rupe-Maura,</i> <date>1258</date> <reference>(Mén. I, pr. p. 85, c. 1)</reference>.</forme_ancienne>
-    <forme_ancienne>— <sm>apvd : rvppemmavram : nemavcen : dyoc.,</sm> <date>1314</date> <reference>(épit. du tomb. du pape Clément V, dans l'église d'Uzeste)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>APUD : RUPPEMMAVRAM : NEMAVCEN : DYOC.,</i> <date>1314</date> <reference>(épit. du tomb. du pape Clément V, dans l'église d'Uzeste)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Roca-Maura ; Vicaria Ruppis-Maure,</i> <date>1355</date> <reference>(arch. commun. de Valliguière)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Locus de Ruppe-Maura,</i> <date>1384</date> <reference>(dénombr. de la sénéch.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Locus Ruppis-Mauræ ; de Roca-Maura,</i> <date>1461</date> <reference>(reg.-cop. de lettr. roy. E, <sm>iv</sm>)</reference>.</forme_ancienne>
@@ -35803,7 +35803,7 @@
   <article id="DT30-06258" pg="213">
     <vedette><sm>Saint-Joseph,</sm></vedette>
     <definition><typologie>chapelle ruinée</typologie>, <localisation>commune de <commune insee="30217" precision="certain">Rochefort</commune></localisation>.</definition>
-    <forme_ancienne>— <date>1778</date> <reference>(arch. départ. C. 1775)</reference>. — <reference>(Trenq. <i>Notice sur Rochefort</i>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <date>1778</date> <reference>(arch. départ. C. 1775) ; Trenq. <i>Notice sur Rochefort</i></reference>.</forme_ancienne>
   </article>
   <article id="DT30-06259" pg="213">
     <vedette><sm>Saint-Julian,</sm></vedette>
@@ -35973,7 +35973,7 @@
     <forme_ancienne><date>1681</date> <reference>(arch. comm. d'Uzès, DD. 2)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1703</date> <reference>(arch. comm. d'Uzès, CC. 116)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1729</date> <reference>(arch. comm. d'Uzès, CC. 131)</reference> ;</forme_ancienne>
-    <forme_ancienne><date>1755</date> <reference>(arch. comm. d'Uzès, DD. 6. <renvoi>— Voir aussi arch. comm. d'Uzès, GG. 28, 29 et 30</renvoi>)</reference>.</forme_ancienne>
+    <forme_ancienne><date>1755</date> <reference>(arch. comm. d'Uzès, DD. 6. — Voir aussi arch. comm. d'Uzès, GG. 28, 29 et 30)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-06274" pg="215">
     <vedette><sm>Saint-Laurent,</sm></vedette>
@@ -37275,7 +37275,7 @@
   <article id="DT30-06415" pg="227">
     <vedette><sm>Saint-Sauveur-de-Védrines,</sm></vedette>
     <definition><typologie>église détruite</typologie>, <localisation>commune de <commune insee="30341" precision="certain">Vauvert</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>Virinn</sm> <reference>(inscript. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VIRINN</i> <reference>(inscript. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Salvator de Verinnis,</i> <date>1579</date> <reference>(insin. eccl. du diocèse de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sainct-Saulveur del Vernies,</i> <date>1591</date> <reference>(insin. eccl. du diocèse de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Sauveur du Caylar,</i> <date>1697</date> <reference>(insin. eccl. du diocèse de Nimes)</reference> ;</forme_ancienne>
@@ -38173,7 +38173,7 @@
     <forme_ancienne>— <i>Le balhiage de Sauue, au diocese de Nismes,</i> <date>1582</date> <reference>(Tar. univ. du dioc. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'abbaye de Saint-Pierre-de-Sauve,</i> <date>1667</date> <reference>(insin. eccl. du dioc. de Nimes)</reference>.</forme_ancienne>
     <commentaire>
-      <p><pg>234</pg>Sauve faisait originairement partie de la viguerie de Sommière et du diocèse de Nimes. — On y comptait 45 feux en <date>1384</date>. — Vers la <date>fin du <sm>xvi</sm><sup>e</sup> siècle</date>, cette petite ville devint le chef-lieu d'un bailliage composé de soixante-cinq communautés détachées pour la plupart de la viguerie de Sommière, et dont un certain nombre relevaient au spirituel des diocèses d'Uzès et de Montpellier. — Sauve fut l'un des sept archiprêtrés qui servirent à former, en <date>1694</date>, le diocèse d'Alais. — En <date>1790</date>, Sauve devint le chef-lieu d'un canton du district de Saint-Hippolyte-du-Fort composé des six communes suivantes : Logrian, Puechredon-et-Savignargues, Saint-Jean-de-Crieulon, Saint-Nazaire-des-Gardies, Saint-Pierre-de-Sivignac-et-Massillargues et Sauve. — Les seigneurs de Sauve, au moyen âge, étaient en même temps seigneurs d'Anduze. — Le monastère de Saint-Pierre de Sauve fut fondé en <date>1029</date>. — La baronnie de Sauve donnait entrée aux États de Languedoc. — Armoiries de Sauve, d'après l'Armorial de Nimes : <i>de gueules, à un mont ou rocher d'argent à six coupeaux arrondis mis en pyramide, accostés de deux tours crénelées et maçonnées de sable, appuyées sur chaque côté du rocher, du sommet duquel sort une plante de sauge, de sinople, avec ces mots : <sm>sal-sal ;</sm></i> — d'après Gastelier de La Tour : <i>d'argent, à une montagne de sable ; au sommet, une plante de sauge, de sinople, à trois branches ; une muraille crénelée avec deux tours carrées, mouvante du bas de l'écu, le tout d'or, brochant sur la montagne ; en chef : <sm>sal-sal.</sm></i></p>
+      <p><pg>234</pg>Sauve faisait originairement partie de la viguerie de Sommière et du diocèse de Nimes. — On y comptait 45 feux en <date>1384</date>. — Vers la <date>fin du <sm>xvi</sm><sup>e</sup> siècle</date>, cette petite ville devint le chef-lieu d'un bailliage composé de soixante-cinq communautés détachées pour la plupart de la viguerie de Sommière, et dont un certain nombre relevaient au spirituel des diocèses d'Uzès et de Montpellier. — Sauve fut l'un des sept archiprêtrés qui servirent à former, en <date>1694</date>, le diocèse d'Alais. — En <date>1790</date>, Sauve devint le chef-lieu d'un canton du district de Saint-Hippolyte-du-Fort composé des six communes suivantes : Logrian, Puechredon-et-Savignargues, Saint-Jean-de-Crieulon, Saint-Nazaire-des-Gardies, Saint-Pierre-de-Sivignac-et-Massillargues et Sauve. — Les seigneurs de Sauve, au moyen âge, étaient en même temps seigneurs d'Anduze. — Le monastère de Saint-Pierre de Sauve fut fondé en <date>1029</date>. — La baronnie de Sauve donnait entrée aux États de Languedoc. — Armoiries de Sauve, d'après l'Armorial de Nimes : <i>de gueules, à un mont ou rocher d'argent à six coupeaux arrondis mis en pyramide, accostés de deux tours crénelées et maçonnées de sable, appuyées sur chaque côté du rocher, du sommet duquel sort une plante de sauge, de sinople, avec ces mots : SAL-SAL</i> ; — d'après Gastelier de La Tour : <i>d'argent, à une montagne de sable ; au sommet, une plante de sauge, de sinople, à trois branches ; une muraille crénelée avec deux tours carrées, mouvante du bas de l'écu, le tout d'or, brochant sur la montagne ; en chef : SAL-SAL.</i></p>
     </commentaire>
     <insee>30311</insee>
   </article>
@@ -38799,7 +38799,7 @@
   <article id="DT30-06650" pg="237" type="commune">
     <vedette><sm>Seynes,</sm></vedette>
     <definition><localisation>canton de <commune insee="30348" precision="approximatif">Vèzenobre</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>statvmae</sm> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>STATVMAE</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Seyna,</i> <date>1384</date> <reference>(dénombr. de la sén.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Seyne,</i> <date>1535</date> <reference>(J. Ursy, not. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Seynes,</i> <date>1547</date> <reference>(arch. départ. C. 1316)</reference>.</forme_ancienne>
@@ -39397,7 +39397,7 @@
   <article id="DT30-06747" pg="241">
     <vedette><sm>Suzon,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="30048" precision="certain">Bouquet</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>segvstones</sm> <reference>(inscript. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>SEGVSTONES</i> <reference>(inscript. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le prieuré de Sainct-Jean de Suzon,</i> <date>1620</date> <reference>(insin. ecclés. du diocèse d'Uzès)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Suson,</i> <date>1715</date> <reference>(J.-B. Nolin, <i>Carte du diocèse d'Uzès</i>)</reference>.</forme_ancienne>
     <commentaire>
@@ -39950,7 +39950,7 @@
   <article id="DT30-06848" pg="244" type="commune">
     <vedette><sm>Théziers,</sm></vedette>
     <definition><localisation>canton d’<commune insee="30012" precision="approximatif">Aramon</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>tedvsia</sm> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>TEDVSIA</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Amantius de Tezeir,</i> <date>1113</date> <reference>(cart. de Saint-Vict. de Mars. ch. 848)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Tezeriæ,</i> <date>1312</date> <reference>(arch. commun. de Valliguière)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ecclesia de Teserio,</i> <date>1314</date> <reference>(Rotul. eccl. arch. municip. de Nimes)</reference>.</forme_ancienne>
@@ -41120,8 +41120,8 @@
   <article id="DT30-07055" pg="251" type="commune">
     <vedette><sm>Uzès,</sm></vedette>
     <definition><typologie>chef-lieu d'arrondissement</typologie>.</definition>
-    <forme_ancienne>— <sm>Vccetio</sm> <reference>(De La Saussaye, <i>Numism. de la Gaule Narb.</i>)</reference>.</forme_ancienne>
-    <forme_ancienne>— <sm>Vcetia</sm> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VCCETIO</i> <reference>(De La Saussaye, <i>Numism. de la Gaule Narb.</i>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VCETIA</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Castrum Ucetiense</i> <reference>(Not. prov. Gall.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ucetia,</i> <date>506</date> <reference>(D. Bouquet, <i>Excerpt. e concil.</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Uzecia, urbs Occitaniæ,</i> <date>826</date> <reference>(Præf. Manualis Dodæ)</reference>.</forme_ancienne>
@@ -42225,7 +42225,7 @@
   <article id="DT30-07219" pg="258">
     <vedette><sm>Védrines,</sm></vedette>
     <definition><typologie>lieu détruit</typologie>, <localisation>commune de <commune insee="30341" precision="certain">Vauvert</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>Virinn</sm> <reference>(inscr. du Musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VIRINN</i> <reference>(inscr. du Musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Virunas,</i> <date>1094</date> <reference>(cart. de Psalm.)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1099</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Virines,</i> <date>1115</date> <reference>(cart. de Psalm.)</reference>.</forme_ancienne>
@@ -42778,7 +42778,7 @@
   <article id="DT30-07304" pg="262">
     <vedette><sm>Vidourle (Le),</sm></vedette>
     <definition><typologie>fleuve</typologie> qui prend sa source <localisation>au-dessus de la ferme du Vidourle</localisation>, <localisation>commune de <commune insee="30296" precision="approximatif">Saint-Roman-de-Codière</commune></localisation>, traverse les <localisation>communes du <commune insee="30099" precision="approximatif">Cros</commune>, de <commune insee="30058" precision="approximatif">Cambo</commune>, <commune insee="30263" precision="approximatif">Saint-Hippolyte-du-Fort</commune>, <commune insee="30093" precision="approximatif">Conqueirac</commune>, <commune insee="30311" precision="approximatif">Sauve</commune>, <commune insee="30210" precision="approximatif">Quissac</commune>, <commune insee="30148" precision="approximatif">Liouc</commune>, <commune insee="30192" precision="approximatif">Hortoux-et-Quilhan</commune>, <commune insee="30309" precision="approximatif">Gailhan-et-Sardan</commune>, <commune insee="30349" precision="approximatif">Vic-le-Fesc</commune>, <commune insee="30144" precision="approximatif">Lèques</commune>, <commune insee="30114" precision="approximatif">Fontanès</commune>, <commune insee="30306" precision="approximatif">Salinelles</commune>, <commune insee="30321" precision="approximatif">Sommière</commune>, <commune insee="30019" precision="approximatif">Aubais</commune>, <commune insee="30004" precision="approximatif">Aiguesvives</commune>, <commune insee="30123" precision="approximatif">Galargues</commune>, <commune insee="30006" precision="approximatif">Aimargues</commune>, <commune insee="30276" precision="approximatif">Saint-Laurent-d'Aigouze</commune></localisation>, et se jette dans l'<localisation>étang de Repausset</localisation> sur le <localisation>territoire de la commune d’<commune insee="30003" precision="approximatif">Aigues-Mortes</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>Vitovsvrlo</sm> <reference>(inscr. du musée archéol. de Montpellier)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VITOVSVRLO</i> <reference>(inscr. du musée archéol. de Montpellier)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In fluvio Vidosoli,</i> <date>938</date> <reference>(cart. de N.-D. de Nimes, ch. 174)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Super fluvium Vidosole,</i> <date>963</date> <reference>(cart. de N.-D. de Nimes, ch. 173)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vitusulus,</i> <date>994</date> <reference>(cart. de Psalmody)</reference> ;</forme_ancienne>
@@ -42800,7 +42800,7 @@
   <article id="DT30-07305" pg="262">
     <vedette><sm>Vié-Cioutat,</sm></vedette>
     <definition><typologie>lieu détruit</typologie>, sur les <localisation>communes de <commune insee="30177" precision="approximatif">Monteils</commune> et de <commune insee="30259" precision="approximatif">Saint-Hilaire-de-Brethmas</commune></localisation>.</definition>
-    <forme_ancienne>— <sm>Vatrvte</sm> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>VATRVTE</i> <reference>(inscr. du musée de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Ylarius de Breto-Manso,</i> <date>1384</date> <reference>(dénombr. de la sénéch.)</reference>.</forme_ancienne>
     <commentaire>
       <p>Ruines d'un oppidum celtique (et plus tard gallo-romain), dont on retrouve encore l'enceinte.</p>
@@ -42842,7 +42842,7 @@
   <article id="DT30-07312" pg="263" type="commune">
     <vedette><sm>Vigan (Le),</sm></vedette>
     <definition><typologie>chef-lieu d'arrondissement</typologie>.</definition>
-    <forme_ancienne>— <sm>Avicantvs</sm> <reference>(inscr. de Nimes)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>AVICANTVS</i> <reference>(inscr. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Civitas Arisitana,</i> <date>542</date> <reference>(Vit. S. Germ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vicus Arisitensis ; Arisitum</i> <reference>(Greg. Turon. <i>Hist. Franc.</i> l. V, c. 5)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Locus de Vicano,</i> <date>1050</date> <reference>(Hist. de Lang. II, pr. col. 216)</reference>.</forme_ancienne>

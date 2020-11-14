@@ -23145,15 +23145,15 @@
     <vedette><sm>Mersante,</sm></vedette>
     <definition><typologie>village</typologie>, <localisation>commune de <commune insee="28340" precision="certain">Saint-Hilaire-sur-Yerre</commune></localisation>.</definition>
     <forme_ancienne>— <i>Mater-Semita,</i> <date>vers 1030</date> ;</forme_ancienne>
-    <forme_ancienne><i>Matersenta,</i> <date>vers 1050</date> ;</forme_ancienne>
-    <forme_ancienne><i>Meresent,</i> <date>vers 1180</date> <reference>(ch. du pr. de Saint-Martin de Chamars)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Matersenta,</i> <date>vers 1050</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Meresent,</i> <date>vers 1180</date> <reference>(ch. du pr. de Saint-Martin de Chamars)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Merasenta,</i> <date>vers 1080</date> <reference>(ch. du pr. d’Épernon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Amara-Semita,</i> <date>vers 1050</date> ;</forme_ancienne>
-    <forme_ancienne><i>Mèresente,</i> <date>1208</date> ;</forme_ancienne>
-    <forme_ancienne><i>Merescente,</i> <date>1228</date> ;</forme_ancienne>
-    <forme_ancienne><i>Mairesente,</i> <date>1475</date> <reference>(ch. du pr. de Saint-Hilaire-sur-Yerre)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Mèresente,</i> <date>1208</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Merescente,</i> <date>1228</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Mairesente,</i> <date>1475</date> <reference>(ch. du pr. de Saint-Hilaire-sur-Yerre)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Meresante,</i> <date>1510</date> <reference>(not. de Courtalain)</reference>.</forme_ancienne>
-    <forme_ancienne>— <date>Vers 1080</date>, Raherius donne au prieuré de Saint-Hilaire-sur-Yerre <i>fundum qui nuncupatur Mater-Semita vel Mater-Sentium, multe quippe semper ibi sentes proprio quoque obtentu et naturali situ densescunt.</i></forme_ancienne>
+    <forme_ancienne>— Raherius donne au prieuré de Saint-Hilaire-sur-Yerre <i>fundum qui nuncupatur Mater-Semita vel Mater-Sentium, multe quippe semper ibi sentes proprio quoque obtentu et naturali situ densescunt.</i> <date>vers 1080</date>.</forme_ancienne>
   </article>
   <article id="DT28-04459" pg="117" type="commune">
     <vedette><sm>Mervilliers,</sm></vedette>
@@ -26028,8 +26028,11 @@
     <vedette><sm>Noes (Les),</sm></vedette>
     <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="28134" precision="certain">Dreux</commune></localisation>.</definition>
     <forme_ancienne>— <i>Moulin de la Latte,</i> <date>1568</date> ;</forme_ancienne>
-    <forme_ancienne><i>moulin Desnos,</i> <date>1725</date> <reference>(ch. du chap. de Saint-Étienne de Dreux)</reference> ; doit le nom de <i>la Latte</i> au bruit que causait son mécanisme et que l’on comparait au choc d’une latte.</forme_ancienne>
+    <forme_ancienne><i>moulin Desnos,</i> <date>1725</date> <reference>(ch. du chap. de Saint-Étienne de Dreux)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Moulin de Réveillon,</i> <date>1778</date> <reference>(ch. de l’Hôtel-de-Ville de Dreux)</reference>.</forme_ancienne>
+    <commentaire>
+      <p>Doit le nom de <i>la Latte</i> au bruit que causait son mécanisme et que l’on comparait au choc d’une latte.</p>
+    </commentaire>
   </article>
   <article id="DT28-04989" pg="132">
     <vedette><sm>Noète (Bois de la),</sm></vedette>
@@ -32369,7 +32372,7 @@
     <commentaire><p>La chapelle a été détruite en <date>1858</date>.</p></commentaire>
   </article>
   <article id="DT28-06222" pg="165">
-    <vedette><sm>Saint-Gilles (Chemin de)</sm> ou <i>de la Foire Saint-Gilles,</i></vedette>
+    <vedette><sm>Saint-Gilles (Chemin de) ou de la Foire Saint-Gilles,</sm></vedette>
     <definition>de <localisation><commune insee="28051" precision="approximatif">Bonneval</commune></localisation> à <localisation>Lolon</localisation> (<localisation>commune de <commune insee="28353" precision="approximatif">Saint-Maur</commune></localisation>).</definition>
   </article>
   <article id="DT28-06223" pg="165">
@@ -34480,7 +34483,7 @@
     <forme_ancienne><i>Tessiliacum,</i> <date>1230</date> ;</forme_ancienne>
     <forme_ancienne><i>Tesseiliacum,</i> <date>1238</date> <reference>(ch. de l’abb. de Saint-Père-en-Vallée)</reference>.</forme_ancienne>
     <forme_ancienne>— Le fief de Tessilly s’appelait aussi <sm>fief au Chevrolais,</sm> <i>feodum Capreoli,</i> <date>1165</date> ;</forme_ancienne>
-    <forme_ancienne><i>fief ou Capréolois,</i> <date>1305</date> <reference>(ch. de l’abb. de Saint-Père-en-Vallée)</reference>, tirant ce nom de Guérin le Chevrolais, <i>Garinus Capreolus,</i> qui vivait <date>vers 1120</date>.</forme_ancienne>
+    <forme_ancienne><i>fief ou Capréolois</i> <date>1305</date> <reference>(ch. de l’abb. de Saint-Père-en-Vallée)</reference> tirant ce nom de Guérin le Chevrolais, <i>Garinus Capreolus,</i> qui vivait <date>vers 1120</date>.</forme_ancienne>
   </article>
   <article id="DT28-06597" pg="177">
     <pg>177</pg>
@@ -34901,7 +34904,7 @@
     <forme_ancienne><i>Toriol,</i> <date>1110</date> <reference>(ch. du pr. de Vieuvicq)</reference>.</forme_ancienne>
   </article>
   <article id="DT28-06667" pg="179">
-    <vedette><sm>Torrent (Le)</sm> ou <i>ravin de la Roche,</i></vedette>
+    <vedette><sm>Torrent (Le)</sm> ou <sm>ravin de la Roche,</sm></vedette>
     <definition><typologie>ravin</typologie>, prend son origine vers <localisation><commune insee="28044" precision="approximatif">Boisgasson</commune></localisation>, contourne <localisation><commune insee="28204" precision="approximatif">Langey</commune></localisation> et <localisation><commune insee="28262" precision="approximatif">Montigny-le-Gannelon</commune></localisation> et se jette dans le Loir un peu <localisation>au-dessus de <commune insee="28103" precision="approximatif">Cloyes</commune></localisation>, près de l’ancien château de la Rochevert.</definition>
   </article>
   <article id="DT28-06668" pg="179">
@@ -35555,7 +35558,7 @@
     <vedette><sm>Tronchay-Maquereau (Le),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="28324" precision="certain">Saint-Arnoult-des-Bois</commune></localisation>.</definition>
     <forme_ancienne>— <i>Trunchetum,</i> <date>1217</date> <reference>(ch. de l’abb. de Saint-Jean-en-Vallée)</reference>.</forme_ancienne>
-    <forme_ancienne>— On trouve en <date>1244</date> <reference>(ch. du chap. de Chartres)</reference> <i>Raginaldus de Truncheio, dictus Maquerel,</i> d’où ce hameau a tiré son nom.</forme_ancienne>
+    <forme_ancienne>— <i>Raginaldus de Truncheio, dictus Maquerel,</i> d’où ce hameau a tiré son nom, <date>1244</date> <reference>(ch. du chap. de Chartres)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Tronchay-Macquereau,</i> <date>1565</date> <reference>(terrier de Landelles)</reference>.</forme_ancienne>
   </article>
   <article id="DT28-06792" pg="182">
