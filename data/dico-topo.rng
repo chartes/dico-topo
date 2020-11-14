@@ -142,7 +142,7 @@
           <ref name="flow"/>
           <ref name="date"/>
           <ref name="reference"/>
-          <ref name="note"/>
+          <!--<ref name="note"/>-->
           <ref name="renvoi"/>
         </choice>
       </oneOrMore>
@@ -177,6 +177,7 @@
           <ref name="date"/><!-- certaines dates sont balisées dans les commentaires (on ne les exploite pas) -->
           <ref name="renvoi"/>
           <ref name="reference"/><!-- quelques références bibliographiques à conserver -->
+          <ref name="note"/>
         </choice>
       </oneOrMore>
     </element>
@@ -282,9 +283,11 @@
   </define>
   <define name="note">
     <a:documentation>Note de bas de page dans le dictionnaire papier</a:documentation>
-    <oneOrMore>
-      <ref name="p"/>
-    </oneOrMore>
+    <element name="note">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
   </define>
   
   <!-- contrôler, déporter ? -->
