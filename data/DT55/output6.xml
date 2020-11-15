@@ -82,7 +82,7 @@
   <article id="DT55-00013" pg="2">
     <pg>2</pg>
     <vedette><sm>Ache (L’)</sm> ou <sm>l’Esse,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55258" precision="certain">Jouy-sous-les-Côtes</commune></localisation>, passe à <localisation><commune insee="55258" precision="certain">Corniéville</commune></localisation> et à l’ancienne abbaye de Rangéval, pénètre dans le département de la Meurthe, où il se jette dans la Moselle à <localisation><commune insee="54431" precision="approximatif">Pont-à-Mousson</commune></localisation>, après un cours de 50 kil. dont 6 dans le département de la Meuse.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55258" precision="approximatif">Jouy-sous-les-Côtes</commune></localisation>, passe à <localisation><commune insee="55258" precision="approximatif">Corniéville</commune></localisation> et à l’ancienne abbaye de Rangéval, pénètre dans le département de la Meurthe, où il se jette dans la Moselle à <localisation><commune insee="54431" precision="approximatif">Pont-à-Mousson</commune></localisation>, après un cours de 50 kil. dont 6 dans le département de la Meuse.</definition>
     <forme_ancienne>— <i>Fluviolus Escio,</i> <date>932</date> <reference>(ch. de l’abb. de Bouxières)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Rivulus qui decurrit de fontibus Joey et vulgo vocatur Eyx,</i> <date>1152</date> <reference>(cart. de Rangéval, f° 31)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lou rui et lou ru d’Eys,</i> <date>1265</date> <reference>(cart. de Rangéval, f° 21)</reference>.</forme_ancienne>
@@ -301,7 +301,7 @@
   </article>
   <article id="DT55-00050" pg="3">
     <vedette><sm>Amanty (Ruisseau d’),</sm></vedette>
-    <definition>qui prend sa source à <localisation><commune insee="55005" precision="certain">Amanty</commune></localisation> et se jette dans la Meuse <localisation>près de <commune insee="55328" precision="approximatif">Maxey-sur-Vaise</commune></localisation>, après un cours de 6 kilomètres.</definition>
+    <definition>qui prend sa source à <localisation><commune insee="55005" precision="approximatif">Amanty</commune></localisation> et se jette dans la Meuse <localisation>près de <commune insee="55328" precision="approximatif">Maxey-sur-Vaise</commune></localisation>, après un cours de 6 kilomètres.</definition>
   </article>
   <article id="DT55-00051" pg="3">
     <vedette><sm>Amaranthe (Mont),</sm></vedette>
@@ -537,7 +537,7 @@
   </article>
   <article id="DT55-00080" pg="5">
     <vedette><sm>Anelle (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source aux <localisation>ouest de <commune insee="55561" precision="approximatif">Villers-devant-Dun</commune></localisation>, pénètre un instant dans le département des Ardennes, rentre dans celui de la Meuse à <localisation><commune insee="55036" precision="certain">Beauclair</commune></localisation>, qu’il traverse, pour aller se jeter dans la Wiseppe, après un cours total de 8 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source aux <localisation>ouest de <commune insee="55561" precision="approximatif">Villers-devant-Dun</commune></localisation>, pénètre un instant dans le département des Ardennes, rentre dans celui de la Meuse à <localisation><commune insee="55036" precision="approximatif">Beauclair</commune></localisation>, qu’il traverse, pour aller se jeter dans la Wiseppe, après un cours total de 8 kil.</definition>
     <forme_ancienne>— <i>In comitatu Statunensi super Asinam fluvium,</i> <date>1015</date> <reference>(cart. de Saint-Vanne)</reference>.</forme_ancienne>
   </article>
   <article id="DT55-00081" pg="5">
@@ -598,7 +598,7 @@
   </article>
   <article id="DT55-00093" pg="6">
     <vedette><sm>Annonça,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55473" precision="certain">Champlon</commune></localisation>, sur le <localisation>territoire de <commune insee="55515" precision="approximatif">Trésauvaux</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55473" precision="approximatif">Champlon</commune></localisation>, sur le <localisation>territoire de <commune insee="55515" precision="approximatif">Trésauvaux</commune></localisation>.</definition>
   </article>
   <article id="DT55-00094" pg="6">
     <vedette><sm>Annonciades (Les),</sm></vedette>
@@ -679,7 +679,7 @@
   </article>
   <article id="DT55-00106" pg="7">
     <vedette><sm>Archets (Ruisseau des),</sm></vedette>
-    <definition>qui prend sa source dans le bois dit <i>Babiémont,</i> <localisation>commune de <commune insee="55165" precision="certain">Doulcon</commune></localisation>, et se jette dans la Meuse <localisation>au-dessous de <commune insee="55167" precision="approximatif">Dun</commune></localisation>, après un cours de 3 kil.</definition>
+    <definition>qui prend sa source dans le bois dit <i>Babiémont,</i> <localisation>commune de <commune insee="55165" precision="approximatif">Doulcon</commune></localisation>, et se jette dans la Meuse <localisation>au-dessous de <commune insee="55167" precision="approximatif">Dun</commune></localisation>, après un cours de 3 kil.</definition>
   </article>
   <article id="DT55-00107" pg="7">
     <vedette><sm>Arcis-Fays,</sm></vedette>
@@ -1114,7 +1114,7 @@
   </article>
   <article id="DT55-00165" pg="11">
     <vedette><sm>Avies (Ruisseau des),</sm></vedette>
-    <definition>qui prend sa source dans les <localisation>bois de <commune insee="55577" precision="approximatif">Waly</commune></localisation>, passe à <localisation><commune insee="55577" precision="certain">Waly</commune></localisation> et se jette dans le Thabas à <localisation><commune insee="55194" precision="certain">Foucaucourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
+    <definition>qui prend sa source dans les <localisation>bois de <commune insee="55577" precision="approximatif">Waly</commune></localisation>, passe à <localisation><commune insee="55577" precision="approximatif">Waly</commune></localisation> et se jette dans le Thabas à <localisation><commune insee="55194" precision="approximatif">Foucaucourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
   </article>
   <article id="DT55-00166" pg="11" type="commune">
     <vedette><sm>Avillers,</sm></vedette>
@@ -1143,7 +1143,7 @@
   </article>
   <article id="DT55-00168" pg="11">
     <vedette><sm>Avillers (Ruisseau d’),</sm></vedette>
-    <definition>qui prend sa source dans le <localisation>département de la Moselle</localisation>, pénètre dans celui de la Meuse à <localisation><commune insee="55500" precision="certain">Haucourt</commune></localisation> et se jette dans l’Othain à <localisation><commune insee="55500" precision="certain">Houdelaucourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
+    <definition>qui prend sa source dans le <localisation>département de la Moselle</localisation>, pénètre dans celui de la Meuse à <localisation><commune insee="55500" precision="approximatif">Haucourt</commune></localisation> et se jette dans l’Othain à <localisation><commune insee="55500" precision="approximatif">Houdelaucourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
   </article>
   <article id="DT55-00169" pg="11">
     <vedette><sm>Aviot,</sm></vedette>
@@ -1326,7 +1326,7 @@
   </article>
   <article id="DT55-00195" pg="13">
     <vedette><sm>Baillon,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="certain">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55268" precision="approximatif">Lacroix-sur-Meuse</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="approximatif">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55268" precision="approximatif">Lacroix-sur-Meuse</commune></localisation>.</definition>
   </article>
   <article id="DT55-00196" pg="13">
     <vedette><sm>Baillon,</sm></vedette>
@@ -1598,11 +1598,11 @@
   </article>
   <article id="DT55-00237" pg="15">
     <vedette><sm>Barmont,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55054" precision="certain">Bislée</commune></localisation>, sur le <localisation>territoire de <commune insee="55263" precision="approximatif">Kœur-la-Grande</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55054" precision="approximatif">Bislée</commune></localisation>, sur le <localisation>territoire de <commune insee="55263" precision="approximatif">Kœur-la-Grande</commune></localisation>.</definition>
   </article>
   <article id="DT55-00238" pg="15">
     <vedette><sm>Baron (Bois le),</sm></vedette>
-    <definition><localisation>commune de <commune insee="55299" precision="certain">Loison</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><localisation>commune de <commune insee="55299" precision="approximatif">Loison</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-00239" pg="15">
     <vedette><sm>Baroncelle,</sm></vedette>
@@ -1656,7 +1656,7 @@
   </article>
   <article id="DT55-00249" pg="16">
     <vedette><sm>Barrois (Côtes du),</sm></vedette>
-    <definition><typologie>chaîne de côtes</typologie> situées à l’ouest du département, dans lequel elles pénètrent à <localisation><commune insee="55315" precision="approximatif">Mandres</commune></localisation>, se dirigeant sur <localisation><commune insee="55148" precision="certain">Rosières-en-Blois</commune></localisation> et laissant à l’est quelques coteaux détachés ; elles se rendent au <localisation><commune insee="55334" precision="approximatif">Ménil-la-Horgue</commune></localisation>, où elles font angle droit, tournent à l’ouest pour gagner <localisation><commune insee="55581" precision="approximatif">Villeroncourt</commune></localisation> et suivre les rives de l’Ornain juqu’au delà de <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation>, se continuent dans la direction du nord et vont en s’abaissant jusqu’à <localisation><commune insee="55346" precision="approximatif">Montfaucon</commune></localisation>.</definition>
+    <definition><typologie>chaîne de côtes</typologie> situées à l’ouest du département, dans lequel elles pénètrent à <localisation><commune insee="55315" precision="approximatif">Mandres</commune></localisation>, se dirigeant sur <localisation><commune insee="55148" precision="approximatif">Rosières-en-Blois</commune></localisation> et laissant à l’est quelques coteaux détachés ; elles se rendent au <localisation><commune insee="55334" precision="approximatif">Ménil-la-Horgue</commune></localisation>, où elles font angle droit, tournent à l’ouest pour gagner <localisation><commune insee="55581" precision="approximatif">Villeroncourt</commune></localisation> et suivre les rives de l’Ornain juqu’au delà de <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation>, se continuent dans la direction du nord et vont en s’abaissant jusqu’à <localisation><commune insee="55346" precision="approximatif">Montfaucon</commune></localisation>.</definition>
     <commentaire>
       <p>Ces côtes forment le plateau, dit <i>du Barrois,</i> qui occupe la plus grande partie de l’arrond. de Bar et s’étend dans ceux de Commercy et de Verdun ; les deux principales vallées qui le traversent sont celles de l’Ornain et de la Saulx.</p>
     </commentaire>
@@ -1737,7 +1737,7 @@
   </article>
   <article id="DT55-00262" pg="17">
     <vedette><sm>Basse-Meuse (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui se détache de la Meuse <localisation>au-dessus de <commune insee="55088" precision="approximatif">Burey-en-Vaux</commune></localisation>, qu’il traverse, passe à <localisation><commune insee="55381" precision="certain">Neuville-lez-Vaucouleurs</commune></localisation>, au château de la Woëvre et à Vaucouleurs, au-dessous duquel il se jette dans la Meuse après un cours de 7 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui se détache de la Meuse <localisation>au-dessus de <commune insee="55088" precision="approximatif">Burey-en-Vaux</commune></localisation>, qu’il traverse, passe à <localisation><commune insee="55381" precision="approximatif">Neuville-lez-Vaucouleurs</commune></localisation>, au château de la Woëvre et à Vaucouleurs, au-dessous duquel il se jette dans la Meuse après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-00263" pg="17">
     <vedette><sm>Basses-Écomportes (Les),</sm></vedette>
@@ -1896,7 +1896,7 @@
   </article>
   <article id="DT55-00291" pg="18">
     <vedette><sm>Baugny,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="certain">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55540" precision="approximatif">Vaux-lez-Palameix</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="approximatif">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55540" precision="approximatif">Vaux-lez-Palameix</commune></localisation>.</definition>
   </article>
   <article id="DT55-00292" pg="18">
     <vedette><sm>Baula,</sm></vedette>
@@ -2217,7 +2217,7 @@
   </article>
   <article id="DT55-00339" pg="20">
     <vedette><sm>Béchamp (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans le <localisation>département de la Moselle</localisation>, traverse l’étang de Saint-Jean, passe au <localisation>moulin d’<commune insee="55458" precision="approximatif">Étanche</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55458" precision="certain">Saint-Jean-lez-Buzy</commune></localisation>, après un cours de 4 kil. dans le département.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans le <localisation>département de la Moselle</localisation>, traverse l’étang de Saint-Jean, passe au <localisation>moulin d’<commune insee="55458" precision="approximatif">Étanche</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55458" precision="approximatif">Saint-Jean-lez-Buzy</commune></localisation>, après un cours de 4 kil. dans le département.</definition>
   </article>
   <article id="DT55-00340" pg="20">
     <vedette><sm>Bêche (Ruisseau de),</sm></vedette>
@@ -2319,7 +2319,7 @@
   </article>
   <article id="DT55-00361" pg="21">
     <vedette><sm>Belhaibois,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55156" precision="certain">Combres</commune></localisation>, sur le <localisation>territoire d’<commune insee="55228" precision="approximatif">Hannonville-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55156" precision="approximatif">Combres</commune></localisation>, sur le <localisation>territoire d’<commune insee="55228" precision="approximatif">Hannonville-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-00362" pg="21">
     <vedette><sm>Belhaine,</sm></vedette>
@@ -2372,7 +2372,7 @@
   </article>
   <article id="DT55-00372" pg="21">
     <vedette><sm>Belle-Fontaine (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de <commune insee="55445" precision="approximatif">Belle-Fontaine</commune></localisation> et passe à <localisation><commune insee="55445" precision="certain">Rouvrois-sur-Othain</commune></localisation>, en aval duquel il se jette dans l’Othain, après un cours de 4 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de <commune insee="55445" precision="approximatif">Belle-Fontaine</commune></localisation> et passe à <localisation><commune insee="55445" precision="approximatif">Rouvrois-sur-Othain</commune></localisation>, en aval duquel il se jette dans l’Othain, après un cours de 4 kilomètres.</definition>
   </article>
   <article id="DT55-00373" pg="21">
     <vedette><sm>Belle-Meuse,</sm></vedette>
@@ -2530,7 +2530,7 @@
   </article>
   <article id="DT55-00396" pg="22">
     <vedette><sm>Belrain (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à la <localisation>fontaine de la Dame</localisation>, <localisation>commune de <commune insee="55289" precision="certain">Levoncourt</commune></localisation>, passe à <localisation><commune insee="55044" precision="certain">Belrain</commune></localisation> et à <localisation><commune insee="55384" precision="certain">Nicey</commune></localisation>, où il se jette dans l’Aire après un cours de 7 kilomètres.</definition>
+    <definition>qui prend sa source à la <localisation>fontaine de la Dame</localisation>, <localisation>commune de <commune insee="55289" precision="approximatif">Levoncourt</commune></localisation>, passe à <localisation><commune insee="55044" precision="approximatif">Belrain</commune></localisation> et à <localisation><commune insee="55384" precision="approximatif">Nicey</commune></localisation>, où il se jette dans l’Aire après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-00397" pg="22" type="commune">
     <vedette><sm>Belrupt,</sm></vedette>
@@ -2673,7 +2673,7 @@
   </article>
   <article id="DT55-00423" pg="23">
     <vedette><sm>Bermont (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à la <localisation>chapelle de <commune insee="88219" precision="approximatif">Bermont</commune></localisation> (Vosges), passe à <localisation><commune insee="55217" precision="certain">Goussaincourt</commune></localisation> et à <localisation><commune insee="55089" precision="approximatif">Burey-la-Côte</commune></localisation>, au-dessous duquel il se jette dans la Meuse après un cours de 7 kilomètres.</definition>
+    <definition>qui prend sa source à la <localisation>chapelle de <commune insee="88219" precision="approximatif">Bermont</commune></localisation> (Vosges), passe à <localisation><commune insee="55217" precision="approximatif">Goussaincourt</commune></localisation> et à <localisation><commune insee="55089" precision="approximatif">Burey-la-Côte</commune></localisation>, au-dessous duquel il se jette dans la Meuse après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-00424" pg="23">
     <vedette><sm>Berna,</sm></vedette>
@@ -2681,7 +2681,7 @@
   </article>
   <article id="DT55-00425" pg="23">
     <vedette><sm>Bernatant,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Villers-sous-Bonchamp</commune></localisation>, sur le <localisation>territoire d’<commune insee="55237" precision="approximatif">Haudiomont</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Villers-sous-Bonchamp</commune></localisation>, sur le <localisation>territoire d’<commune insee="55237" precision="approximatif">Haudiomont</commune></localisation>.</definition>
   </article>
   <article id="DT55-00426" pg="23">
     <vedette><sm>Bernsongrève,</sm></vedette>
@@ -2763,7 +2763,7 @@
   </article>
   <article id="DT55-00439" pg="24">
     <vedette><sm>Bertranpont (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55406" precision="certain">Pintheville</commune></localisation> et se jette dans le Rupt-de-Bulé à <localisation><commune insee="55400" precision="certain">Parfondrupt</commune></localisation>, après un cours de 7 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55406" precision="approximatif">Pintheville</commune></localisation> et se jette dans le Rupt-de-Bulé à <localisation><commune insee="55400" precision="approximatif">Parfondrupt</commune></localisation>, après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-00440" pg="24">
     <vedette><sm>Bertucourt (Le),</sm></vedette>
@@ -3116,7 +3116,7 @@
   </article>
   <article id="DT55-00496" pg="26">
     <vedette><sm>Biqueneulle (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source au Coulmier, <localisation>commune de <commune insee="55545" precision="certain">Verdun</commune></localisation>, et se jette dans la Meuse à <localisation><commune insee="55043" precision="certain">Belleville</commune></localisation>, après un cours de 3 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source au Coulmier, <localisation>commune de <commune insee="55545" precision="approximatif">Verdun</commune></localisation>, et se jette dans la Meuse à <localisation><commune insee="55043" precision="approximatif">Belleville</commune></localisation>, après un cours de 3 kil.</definition>
     <forme_ancienne>— <i>Beguinelle,</i> <date>1498</date> <reference>(paix et accord)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bigueneulle,</i> <date>1770</date> <reference>(actes du tabell. de Verdun)</reference>.</forme_ancienne>
   </article>
@@ -3589,7 +3589,7 @@
   </article>
   <article id="DT55-00588" pg="29">
     <vedette><sm>Boncourt (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à <localisation><commune insee="55460" precision="certain">Saint-Julien</commune></localisation>, passe à <localisation><commune insee="55058" precision="certain">Boncourt</commune></localisation> et se jette dans la Meuse au bief de la Forge, après un cours de 6 kilomètres.</definition>
+    <definition>qui prend sa source à <localisation><commune insee="55460" precision="approximatif">Saint-Julien</commune></localisation>, passe à <localisation><commune insee="55058" precision="approximatif">Boncourt</commune></localisation> et se jette dans la Meuse au bief de la Forge, après un cours de 6 kilomètres.</definition>
   </article>
   <article id="DT55-00589" pg="29">
     <vedette><sm>Bonde (La),</sm></vedette>
@@ -4105,7 +4105,7 @@
   </article>
   <article id="DT55-00683" pg="32">
     <vedette><sm>Bouvret,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55280" precision="certain">Lanhères</commune></localisation>, sur le <localisation>territoire de <commune insee="55443" precision="approximatif">Rouvres</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55280" precision="approximatif">Lanhères</commune></localisation>, sur le <localisation>territoire de <commune insee="55443" precision="approximatif">Rouvres</commune></localisation>.</definition>
   </article>
   <article id="DT55-00684" pg="32">
     <vedette><sm>Bouvrot,</sm></vedette>
@@ -4248,7 +4248,7 @@
   </article>
   <article id="DT55-00700" pg="33">
     <vedette><sm>Bracquemirupt (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source <localisation>au-dessus de <commune insee="55439" precision="approximatif">Ronvaux</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55072" precision="certain">Braquis</commune></localisation> et à <localisation><commune insee="55222" precision="certain">Gussainville</commune></localisation>, où il se jette dans l’Orne après un cours de 11 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source <localisation>au-dessus de <commune insee="55439" precision="approximatif">Ronvaux</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55072" precision="approximatif">Braquis</commune></localisation> et à <localisation><commune insee="55222" precision="approximatif">Gussainville</commune></localisation>, où il se jette dans l’Orne après un cours de 11 kilomètres.</definition>
   </article>
   <article id="DT55-00701" pg="33">
     <vedette><sm>Bradon (Le),</sm></vedette>
@@ -4512,7 +4512,7 @@
   </article>
   <article id="DT55-00740" pg="35">
     <vedette><sm>Breuil,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55437" precision="certain">Romagne-sous-les-Côtes</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55437" precision="approximatif">Romagne-sous-les-Côtes</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-00741" pg="35">
     <vedette><sm>Breuil (Le),</sm></vedette>
@@ -4539,7 +4539,7 @@
   </article>
   <article id="DT55-00745" pg="35">
     <vedette><sm>Breuille,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune d’<commune insee="55394" precision="certain">Ornes</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55218" precision="approximatif">Gremilly</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune d’<commune insee="55394" precision="approximatif">Ornes</commune></localisation> ; il faisait partie de la <localisation>forêt de <commune insee="55218" precision="approximatif">Gremilly</commune></localisation>.</definition>
   </article>
   <article id="DT55-00746" pg="35">
     <vedette><sm>Breuille (Le),</sm></vedette>
@@ -4560,7 +4560,7 @@
   </article>
   <article id="DT55-00748" pg="35">
     <vedette><sm>Breux (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55077" precision="approximatif">Breux</commune></localisation> et se jette dans la Thonne à <localisation><commune insee="55022" precision="certain">Avioth</commune></localisation>, après un cours de 4 kilomètres.</definition>
+    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55077" precision="approximatif">Breux</commune></localisation> et se jette dans la Thonne à <localisation><commune insee="55022" precision="approximatif">Avioth</commune></localisation>, après un cours de 4 kilomètres.</definition>
   </article>
   <article id="DT55-00749" pg="35">
     <vedette><sm>Brevière,</sm></vedette>
@@ -4649,7 +4649,7 @@
   </article>
   <article id="DT55-00763" pg="36">
     <vedette><sm>Brigands (Les),</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55421" precision="certain">Reffroy</commune></localisation>, sur le <localisation>territoire de <commune insee="55150" precision="approximatif">Demange-aux-Eaux</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55421" precision="approximatif">Reffroy</commune></localisation>, sur le <localisation>territoire de <commune insee="55150" precision="approximatif">Demange-aux-Eaux</commune></localisation>.</definition>
   </article>
   <article id="DT55-00764" pg="36">
     <vedette><sm>Brigeat,</sm></vedette>
@@ -4876,7 +4876,7 @@
   </article>
   <article id="DT55-00798" pg="37">
     <vedette><sm>Broussey (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source sur le <localisation>territoire de <commune insee="55084" precision="approximatif">Broussey-en-Blois</commune></localisation> et va se jeter dans la Meholle à <localisation><commune insee="55475" precision="certain">Sauvoy</commune></localisation>, après un cours de 4 kilomètres.</definition>
+    <definition>qui a sa source sur le <localisation>territoire de <commune insee="55084" precision="approximatif">Broussey-en-Blois</commune></localisation> et va se jeter dans la Meholle à <localisation><commune insee="55475" precision="approximatif">Sauvoy</commune></localisation>, après un cours de 4 kilomètres.</definition>
   </article>
   <article id="DT55-00799" pg="37" type="commune">
     <vedette><sm>Broussey-en-Blois,</sm></vedette>
@@ -5131,7 +5131,7 @@
   </article>
   <article id="DT55-00847" pg="39">
     <vedette><sm>Bunet (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55254" precision="certain">Issoncourt</commune></localisation>, passe à <localisation><commune insee="55254" precision="certain">Rignaucourt</commune></localisation> et à <localisation><commune insee="55040" precision="certain">Seraucourt</commune></localisation> et se jette dans l’Aire <localisation>au-dessus d’<commune insee="55040" precision="approximatif">Amblaicourt</commune></localisation>, après un trajet de 6 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55254" precision="approximatif">Issoncourt</commune></localisation>, passe à <localisation><commune insee="55254" precision="approximatif">Rignaucourt</commune></localisation> et à <localisation><commune insee="55040" precision="approximatif">Seraucourt</commune></localisation> et se jette dans l’Aire <localisation>au-dessus d’<commune insee="55040" precision="approximatif">Amblaicourt</commune></localisation>, après un trajet de 6 kil.</definition>
   </article>
   <article id="DT55-00848" pg="39">
     <vedette><sm>Burauderie (La),</sm></vedette>
@@ -5541,7 +5541,7 @@
   </article>
   <article id="DT55-00916" pg="42">
     <vedette><sm>Capucins (Rue des),</sm></vedette>
-    <definition>à <localisation><commune insee="55029" precision="certain">Bar-le-Duc</commune></localisation> et à <localisation><commune insee="55545" precision="certain">Verdun</commune></localisation>.</definition>
+    <definition>à <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation> et à <localisation><commune insee="55545" precision="approximatif">Verdun</commune></localisation>.</definition>
   </article>
   <article id="DT55-00917" pg="42">
     <vedette><sm>Carafiole,</sm></vedette>
@@ -6089,7 +6089,7 @@
   </article>
   <article id="DT55-01027" pg="45">
     <vedette><sm>Chânot,</sm></vedette>
-    <definition><typologie>bois communal</typologie> des <localisation><commune insee="55401" precision="certain">Paroches</commune></localisation>, sur le <localisation>territoire de <commune insee="55197" precision="approximatif">Fresnes-au-Mont</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> des <localisation><commune insee="55401" precision="approximatif">Paroches</commune></localisation>, sur le <localisation>territoire de <commune insee="55197" precision="approximatif">Fresnes-au-Mont</commune></localisation>.</definition>
   </article>
   <article id="DT55-01028" pg="45">
     <vedette><sm>Chânot,</sm></vedette>
@@ -6118,7 +6118,7 @@
   </article>
   <article id="DT55-01034" pg="45">
     <vedette><sm>Chanteraine,</sm></vedette>
-    <definition><typologie>fontaine</typologie> qui prend sa source sur la <localisation>commune des <commune insee="55401" precision="certain">Paroches</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55159" precision="certain">Dompcévrin</commune></localisation>.</definition>
+    <definition><typologie>fontaine</typologie> qui prend sa source sur la <localisation>commune des <commune insee="55401" precision="approximatif">Paroches</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55159" precision="approximatif">Dompcévrin</commune></localisation>.</definition>
   </article>
   <article id="DT55-01035" pg="45">
     <vedette><sm>Chanteraine,</sm></vedette>
@@ -6158,7 +6158,7 @@
   </article>
   <article id="DT55-01044" pg="45">
     <vedette><sm>Chapelotte (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sous la côte Amarante et passe à <localisation><commune insee="55243" precision="certain">Herbeuville</commune></localisation> et à <localisation><commune insee="55457" precision="certain">Wadonville-en-Woëvre</commune></localisation>, au-dessous duquel il se jette dans le Montru.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sous la côte Amarante et passe à <localisation><commune insee="55243" precision="approximatif">Herbeuville</commune></localisation> et à <localisation><commune insee="55457" precision="approximatif">Wadonville-en-Woëvre</commune></localisation>, au-dessous duquel il se jette dans le Montru.</definition>
   </article>
   <article id="DT55-01045" pg="45">
     <vedette><sm>Chaperaute,</sm></vedette>
@@ -6174,7 +6174,7 @@
   </article>
   <article id="DT55-01048" pg="45">
     <vedette><sm>Chapitre (Le),</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55489" precision="certain">Sivry-la-Perche</commune></localisation>, sur le <localisation>territoire de <commune insee="55276" precision="approximatif">Lempire</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55489" precision="approximatif">Sivry-la-Perche</commune></localisation>, sur le <localisation>territoire de <commune insee="55276" precision="approximatif">Lempire</commune></localisation>.</definition>
   </article>
   <article id="DT55-01049" pg="45">
     <vedette><sm>Chapon,</sm></vedette>
@@ -6590,7 +6590,7 @@
   </article>
   <article id="DT55-01127" pg="48">
     <vedette><sm>Châtillon (Ruisseau de),</sm></vedette>
-    <definition>qui a sa naissance dans le bois dit <i>le Jauny,</i> passe à <localisation><commune insee="55105" precision="certain">Châtillon-sous-les-Côtes</commune></localisation> et à <localisation><commune insee="55315" precision="certain">Mandres</commune></localisation> et se jette dans la Vionnoue sur le <localisation>territoire de <commune insee="55219" precision="approximatif">Grimaucourt-en-Woëvre</commune></localisation>, après un trajet de 5 kil.</definition>
+    <definition>qui a sa naissance dans le bois dit <i>le Jauny,</i> passe à <localisation><commune insee="55105" precision="approximatif">Châtillon-sous-les-Côtes</commune></localisation> et à <localisation><commune insee="55315" precision="approximatif">Mandres</commune></localisation> et se jette dans la Vionnoue sur le <localisation>territoire de <commune insee="55219" precision="approximatif">Grimaucourt-en-Woëvre</commune></localisation>, après un trajet de 5 kil.</definition>
   </article>
   <article id="DT55-01128" pg="48">
     <vedette><sm>Châtillon-l’Abbaye,</sm></vedette>
@@ -7052,7 +7052,7 @@
   </article>
   <article id="DT55-01201" pg="52">
     <vedette><sm>Cheppe,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55065" precision="certain">Boureuilles</commune></localisation> ; donne naissance au ruisseau de la Cheppe, qui se jette dans l’Aire <localisation>en amont de <commune insee="55065" precision="approximatif">Boureuilles</commune></localisation>, après un cours de 2 kil.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55065" precision="approximatif">Boureuilles</commune></localisation> ; donne naissance au ruisseau de la Cheppe, qui se jette dans l’Aire <localisation>en amont de <commune insee="55065" precision="approximatif">Boureuilles</commune></localisation>, après un cours de 2 kil.</definition>
   </article>
   <article id="DT55-01202" pg="52">
     <vedette><sm>Cheppe,</sm></vedette>
@@ -7461,7 +7461,7 @@
   </article>
   <article id="DT55-01284" pg="54">
     <vedette><sm>Claire (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55106" precision="approximatif">Chattancourt</commune></localisation> et passe à <localisation><commune insee="55321" precision="certain">Marre</commune></localisation>, au-dessous duquel il se jette dans la Meuse, après un cours de 4 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55106" precision="approximatif">Chattancourt</commune></localisation> et passe à <localisation><commune insee="55321" precision="approximatif">Marre</commune></localisation>, au-dessous duquel il se jette dans la Meuse, après un cours de 4 kil.</definition>
   </article>
   <article id="DT55-01285" pg="54">
     <vedette><sm>Claire-Fontaine,</sm></vedette>
@@ -7482,7 +7482,7 @@
   </article>
   <article id="DT55-01289" pg="54">
     <vedette><sm>Clairs-Chênes,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55280" precision="certain">Lanhères</commune></localisation>, sur le <localisation>territoire de <commune insee="55443" precision="approximatif">Rouvres</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55280" precision="approximatif">Lanhères</commune></localisation>, sur le <localisation>territoire de <commune insee="55443" precision="approximatif">Rouvres</commune></localisation>.</definition>
   </article>
   <article id="DT55-01290" pg="54">
     <vedette><sm>Clairs-Chênes (Les),</sm></vedette>
@@ -8190,7 +8190,7 @@
   </article>
   <article id="DT55-01415" pg="60">
     <vedette><sm>Corroi,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55024" precision="certain">Azannes</commune></localisation>, sur le <localisation>territoire de <commune insee="55365" precision="approximatif">Murvaux</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55024" precision="approximatif">Azannes</commune></localisation>, sur le <localisation>territoire de <commune insee="55365" precision="approximatif">Murvaux</commune></localisation>.</definition>
   </article>
   <article id="DT55-01416" pg="60">
     <vedette><sm>Corroi,</sm></vedette>
@@ -8528,7 +8528,7 @@
   </article>
   <article id="DT55-01481" pg="62">
     <vedette><sm>Cousancelle (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55132" precision="approximatif">Cousancelles</commune></localisation>, traverse ce village et se jette dans le ruisseau de Cousances à <localisation><commune insee="55132" precision="certain">Cousances-aux-Forges</commune></localisation>, après un cours de 4 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55132" precision="approximatif">Cousancelles</commune></localisation>, traverse ce village et se jette dans le ruisseau de Cousances à <localisation><commune insee="55132" precision="approximatif">Cousances-aux-Forges</commune></localisation>, après un cours de 4 kilomètres.</definition>
   </article>
   <article id="DT55-01482" pg="62" type="commune">
     <vedette><sm>Cousancelles,</sm></vedette>
@@ -8748,7 +8748,7 @@
   </article>
   <article id="DT55-01512" pg="64">
     <vedette><sm>Criot (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55245" precision="approximatif">Heudicourt</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55096" precision="certain">Chaillon</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55245" precision="approximatif">Heudicourt</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55096" precision="approximatif">Chaillon</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-01513" pg="64">
     <vedette><sm>Crocs (Les),</sm></vedette>
@@ -8928,7 +8928,7 @@
   </article>
   <article id="DT55-01548" pg="65">
     <vedette><sm>Culot,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55316" precision="certain">Mangiennes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-01549" pg="65">
     <vedette><sm>Culotte,</sm></vedette>
@@ -9020,7 +9020,7 @@
   </article>
   <article id="DT55-01563" pg="65">
     <vedette><sm>Cuty,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55156" precision="certain">Combres</commune></localisation>, sur le <localisation>territoire de <commune insee="55515" precision="approximatif">Trésauvaux</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55156" precision="approximatif">Combres</commune></localisation>, sur le <localisation>territoire de <commune insee="55515" precision="approximatif">Trésauvaux</commune></localisation>.</definition>
   </article>
   <article id="DT55-01564" pg="65">
     <vedette><sm>Cuve (La),</sm></vedette>
@@ -9074,7 +9074,7 @@
   </article>
   <article id="DT55-01573" pg="66">
     <vedette><sm>Dahaie,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55254" precision="certain">Mondrecourt</commune></localisation> sur le <localisation>territoire d’<commune insee="55241" precision="approximatif">Heippes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55254" precision="approximatif">Mondrecourt</commune></localisation> sur le <localisation>territoire d’<commune insee="55241" precision="approximatif">Heippes</commune></localisation>.</definition>
   </article>
   <article id="DT55-01574" pg="66">
     <vedette><sm>Dahée,</sm></vedette>
@@ -9249,7 +9249,7 @@
   </article>
   <article id="DT55-01595" pg="68">
     <vedette><sm>Déal,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="certain">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="approximatif">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
   </article>
   <article id="DT55-01596" pg="68">
     <vedette><sm>Débas,</sm></vedette>
@@ -9261,7 +9261,7 @@
   </article>
   <article id="DT55-01598" pg="68">
     <vedette><sm>Deffay,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-01599" pg="68">
     <vedette><sm>Deffoy,</sm></vedette>
@@ -9333,7 +9333,7 @@
   </article>
   <article id="DT55-01610" pg="68">
     <vedette><sm>Delut (Ruisseau de),</sm></vedette>
-    <definition>qui prend naissance <localisation>au-dessus de <commune insee="55149" precision="approximatif">Delut</commune></localisation>, traverse ce village et se jette dans le Loison à <localisation><commune insee="55572" precision="certain">Vittarville</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition>qui prend naissance <localisation>au-dessus de <commune insee="55149" precision="approximatif">Delut</commune></localisation>, traverse ce village et se jette dans le Loison à <localisation><commune insee="55572" precision="approximatif">Vittarville</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-01611" pg="68" type="commune">
     <vedette><sm>Demange-aux-Eaux,</sm></vedette>
@@ -9408,7 +9408,7 @@
   </article>
   <article id="DT55-01625" pg="69">
     <vedette><sm>Deuxnouds (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55274" precision="approximatif">Deuxnouds-aux-Bois</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55274" precision="certain">Lavignéville</commune></localisation>, après un cours de 4 kil.</definition>
+    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55274" precision="approximatif">Deuxnouds-aux-Bois</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55274" precision="approximatif">Lavignéville</commune></localisation>, après un cours de 4 kil.</definition>
   </article>
   <article id="DT55-01626" pg="69" type="commune">
     <vedette><sm>Deuxnouds-aux-Bois</sm> ou <sm>Deuxnouds-en-Woëvre,</sm></vedette>
@@ -9564,7 +9564,7 @@
   </article>
   <article id="DT55-01643" pg="70">
     <vedette><sm>Dieulet,</sm></vedette>
-    <definition><typologie>forêt communale</typologie> de <localisation><commune insee="55502" precision="certain">Stenay</commune></localisation>, sur le <localisation>territoire de <commune insee="55279" precision="approximatif">Laneuville-sur-Meuse</commune></localisation>.</definition>
+    <definition><typologie>forêt communale</typologie> de <localisation><commune insee="55502" precision="approximatif">Stenay</commune></localisation>, sur le <localisation>territoire de <commune insee="55279" precision="approximatif">Laneuville-sur-Meuse</commune></localisation>.</definition>
     <forme_ancienne>— <i>Silva Doelæ,</i> <date>973</date> <reference>(ch. de l’archev. Adalbéron)</reference>.</forme_ancienne>
   </article>
   <article id="DT55-01644" pg="70">
@@ -10237,7 +10237,7 @@
   </article>
   <article id="DT55-01734" pg="77">
     <vedette><sm>Embagneux,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55299" precision="certain">Loison</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55299" precision="approximatif">Loison</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-01735" pg="77">
     <vedette><sm>Embanie,</sm></vedette>
@@ -10518,7 +10518,7 @@
   </article>
   <article id="DT55-01774" pg="79">
     <vedette><sm>Esnes (Ruisseau d’),</sm></vedette>
-    <definition>qui a sa source au-dessus du village de ce nom [<localisation><commune insee="55180" precision="certain">Esnes</commune></localisation>], passe à <localisation><commune insee="55180" precision="certain">Esnes</commune></localisation> et se jette dans le ruisseau de Forges à <localisation><commune insee="55048" precision="certain">Béthincourt</commune></localisation>, après un trajet de 5 kil.</definition>
+    <definition>qui a sa source au-dessus du village de ce nom [<localisation><commune insee="55180" precision="approximatif">Esnes</commune></localisation>], passe à <localisation><commune insee="55180" precision="approximatif">Esnes</commune></localisation> et se jette dans le ruisseau de Forges à <localisation><commune insee="55048" precision="approximatif">Béthincourt</commune></localisation>, après un trajet de 5 kil.</definition>
     <forme_ancienne>— <i>Super Helnam fluvium,</i> <date>940</date>, <date>1015</date> <reference>(cart. de Saint-Vanne)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Super Elnam fluviolum,</i> <date>952</date> <reference>(acte de fondat.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Super Helna fluvium,</i> <date>962</date> <reference>(cart. de Saint-Vanne)</reference>.</forme_ancienne>
@@ -10731,7 +10731,7 @@
   </article>
   <article id="DT55-01809" pg="81">
     <vedette><sm>Étraye (Ruisseau d’),</sm></vedette>
-    <definition>qui a sa source dans le bois dit <i>la Grande-Montagne,</i> passe à <localisation><commune insee="55183" precision="certain">Étraye</commune></localisation> et se jette dans la Tinte à <localisation><commune insee="55145" precision="certain">Damvillers</commune></localisation>, après un cours de 4 kil.</definition>
+    <definition>qui a sa source dans le bois dit <i>la Grande-Montagne,</i> passe à <localisation><commune insee="55183" precision="approximatif">Étraye</commune></localisation> et se jette dans la Tinte à <localisation><commune insee="55145" precision="approximatif">Damvillers</commune></localisation>, après un cours de 4 kil.</definition>
   </article>
   <article id="DT55-01810" pg="81">
     <vedette><sm>Étrois (Les),</sm></vedette>
@@ -10923,7 +10923,7 @@
   </article>
   <article id="DT55-01837" pg="83">
     <vedette><sm>Fancotte,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="certain">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55269" precision="approximatif">Leheymeix</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="approximatif">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55269" precision="approximatif">Leheymeix</commune></localisation>.</definition>
   </article>
   <article id="DT55-01838" pg="83">
     <vedette><sm>Fany,</sm></vedette>
@@ -10983,7 +10983,7 @@
   </article>
   <article id="DT55-01852" pg="83">
     <vedette><sm>Faux-Rupt,</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55094" precision="approximatif">Aucourt</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55094" precision="certain">Buzy</commune></localisation>, après un cours de 7 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55094" precision="approximatif">Aucourt</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55094" precision="approximatif">Buzy</commune></localisation>, après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-01853" pg="83">
     <vedette><sm>Favaleau,</sm></vedette>
@@ -11015,7 +11015,7 @@
   </article>
   <article id="DT55-01859" pg="83">
     <vedette><sm>Faye,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55142" precision="certain">Bertheléville</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55142" precision="approximatif">Bertheléville</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-01860" pg="83">
     <vedette><sm>Fayel,</sm></vedette>
@@ -11059,7 +11059,7 @@
   </article>
   <article id="DT55-01870" pg="83">
     <vedette><sm>Fays,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55566" precision="certain">Villers-sur-Meuse</commune></localisation>, sur le <localisation>territoire de <commune insee="55420" precision="approximatif">Récourt</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55566" precision="approximatif">Villers-sur-Meuse</commune></localisation>, sur le <localisation>territoire de <commune insee="55420" precision="approximatif">Récourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-01871" pg="83">
     <vedette><sm>Fays (Le),</sm></vedette>
@@ -11187,7 +11187,7 @@
   </article>
   <article id="DT55-01901" pg="83">
     <vedette><sm>Fin-de-Devant (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près de <commune insee="55156" precision="approximatif">Combres</commune></localisation>, passe à <localisation><commune insee="55473" precision="certain">Saulx-en-Woëvre</commune></localisation> et se jette dans le Longeau <localisation>au-dessus de <commune insee="55457" precision="approximatif">Saint-Hilaire</commune></localisation>, après un cours de 6 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>près de <commune insee="55156" precision="approximatif">Combres</commune></localisation>, passe à <localisation><commune insee="55473" precision="approximatif">Saulx-en-Woëvre</commune></localisation> et se jette dans le Longeau <localisation>au-dessus de <commune insee="55457" precision="approximatif">Saint-Hilaire</commune></localisation>, après un cours de 6 kilomètres.</definition>
   </article>
   <article id="DT55-01902" pg="84">
     <pg>84</pg>
@@ -11859,7 +11859,7 @@
   </article>
   <article id="DT55-02032" pg="87">
     <vedette><sm>Fourmillière (La),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55243" precision="certain">Herbeuville</commune></localisation>, sur le <localisation>territoire de <commune insee="55157" precision="approximatif">Dommartin-la-Montagne</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55243" precision="approximatif">Herbeuville</commune></localisation>, sur le <localisation>territoire de <commune insee="55157" precision="approximatif">Dommartin-la-Montagne</commune></localisation>.</definition>
   </article>
   <article id="DT55-02033" pg="87">
     <vedette><sm>Fourneau (Le),</sm></vedette>
@@ -11880,7 +11880,7 @@
   </article>
   <article id="DT55-02037" pg="88">
     <vedette><sm>Frafay,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55487" precision="certain">Seuzey</commune></localisation>, sur le <localisation>territoire de <commune insee="55160" precision="approximatif">Dompierre-aux-Bois</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55487" precision="approximatif">Seuzey</commune></localisation>, sur le <localisation>territoire de <commune insee="55160" precision="approximatif">Dompierre-aux-Bois</commune></localisation>.</definition>
   </article>
   <article id="DT55-02038" pg="88">
     <vedette><sm>Fragne,</sm></vedette>
@@ -11927,7 +11927,7 @@
   </article>
   <article id="DT55-02047" pg="88">
     <vedette><sm>Franc-Bois,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55218" precision="certain">Gremilly</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55218" precision="approximatif">Gremilly</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02048" pg="88">
     <vedette><sm>Franc-Bois,</sm></vedette>
@@ -12360,7 +12360,7 @@
   </article>
   <article id="DT55-02124" pg="91">
     <vedette><sm>Galavaux,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55437" precision="certain">Romagne-sous-les-Côtes</commune></localisation>, sur le <localisation>territoire d’<commune insee="55024" precision="approximatif">Azannes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55437" precision="approximatif">Romagne-sous-les-Côtes</commune></localisation>, sur le <localisation>territoire d’<commune insee="55024" precision="approximatif">Azannes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02125" pg="91">
     <vedette><sm>Galiotte (La),</sm></vedette>
@@ -12733,7 +12733,7 @@
   </article>
   <article id="DT55-02190" pg="93">
     <vedette><sm>Gibeaumeix (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source <localisation>près de <commune insee="54135" precision="approximatif">Colombey</commune></localisation> (Meurthe), pénètre dans le département sur la <localisation>commune de <commune insee="55097" precision="certain">Chalaines</commune></localisation> et passe à <localisation><commune insee="55434" precision="certain">Rigny-Saint-Martin</commune></localisation> et à <localisation><commune insee="55433" precision="certain">Rigny-la-Salle</commune></localisation>, au-dessous duquel il se jette dans la Meuse, après un cours de 5 kil. dans le département.</definition>
+    <definition>qui prend sa source <localisation>près de <commune insee="54135" precision="approximatif">Colombey</commune></localisation> (Meurthe), pénètre dans le département sur la <localisation>commune de <commune insee="55097" precision="approximatif">Chalaines</commune></localisation> et passe à <localisation><commune insee="55434" precision="approximatif">Rigny-Saint-Martin</commune></localisation> et à <localisation><commune insee="55433" precision="approximatif">Rigny-la-Salle</commune></localisation>, au-dessous duquel il se jette dans la Meuse, après un cours de 5 kil. dans le département.</definition>
   </article>
   <article id="DT55-02191" pg="93" type="commune">
     <vedette><sm>Gibercy,</sm></vedette>
@@ -12771,7 +12771,7 @@
   </article>
   <article id="DT55-02196" pg="94">
     <vedette><sm>Gilaumont,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Ménil-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Ménil-sous-les-Côtes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Gislodimons,</i> <date>921</date> <reference>(dipl. de Charles le Chauve)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Allodium quod dicitur Gillaumont,</i> <date>1240</date> <reference>(cartul. de Saint-Paul, p. 154)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nemus quod dicitur Gillamont,</i> <date>1240</date> <reference>(cartul. de Saint-Paul, p. 156)</reference>.</forme_ancienne>
@@ -12782,7 +12782,7 @@
   </article>
   <article id="DT55-02198" pg="94">
     <vedette><sm>Gilbéval,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Ménil-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Ménil-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02199" pg="94">
     <vedette><sm>Gilechamp,</sm></vedette>
@@ -12798,7 +12798,7 @@
   </article>
   <article id="DT55-02202" pg="94">
     <vedette><sm>Gillinperte,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune d’<commune insee="55024" precision="certain">Azannes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune d’<commune insee="55024" precision="approximatif">Azannes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02203" pg="94">
     <vedette><sm>Gillon,</sm></vedette>
@@ -13272,7 +13272,7 @@
   </article>
   <article id="DT55-02278" pg="98">
     <vedette><sm>Grand-Commun,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55481" precision="certain">Senon</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55481" precision="approximatif">Senon</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02279" pg="98">
     <vedette><sm>Grand-Cour.</sm></vedette>
@@ -13693,7 +13693,7 @@
   </article>
   <article id="DT55-02372" pg="99">
     <vedette><sm>Gruerie (La),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="certain">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55360" precision="approximatif">Mouilly</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="approximatif">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55360" precision="approximatif">Mouilly</commune></localisation>.</definition>
   </article>
   <article id="DT55-02373" pg="99">
     <vedette><sm>Grûrie (La),</sm></vedette>
@@ -13735,7 +13735,7 @@
   </article>
   <article id="DT55-02382" pg="100">
     <vedette><sm>Guénoville (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source à <localisation><commune insee="55137" precision="certain">Cuisy</commune></localisation>, passe à <localisation><commune insee="55206" precision="certain">Gercourt</commune></localisation> et se jette dans la Meuse, après un trajet de 9 kilomètres.</definition>
+    <definition>qui a sa source à <localisation><commune insee="55137" precision="approximatif">Cuisy</commune></localisation>, passe à <localisation><commune insee="55206" precision="approximatif">Gercourt</commune></localisation> et se jette dans la Meuse, après un trajet de 9 kilomètres.</definition>
   </article>
   <article id="DT55-02383" pg="100">
     <vedette><sm>Guérand (Champ-),</sm></vedette>
@@ -13743,7 +13743,7 @@
   </article>
   <article id="DT55-02384" pg="100">
     <vedette><sm>Guerlette (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans le bois dit <i>Sourcillon-Fontaine,</i> passe à <localisation><commune insee="55509" precision="certain">Thonne-le-Thil</commune></localisation> et se jette dans la Thonne à <localisation><commune insee="55511" precision="certain">Thonnelle</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans le bois dit <i>Sourcillon-Fontaine,</i> passe à <localisation><commune insee="55509" precision="approximatif">Thonne-le-Thil</commune></localisation> et se jette dans la Thonne à <localisation><commune insee="55511" precision="approximatif">Thonnelle</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-02385" pg="100" type="commune">
     <vedette><sm>Guerpont,</sm></vedette>
@@ -13776,7 +13776,7 @@
   </article>
   <article id="DT55-02390" pg="100">
     <vedette><sm>Guignaurupt (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source sur le <localisation>territoire de <commune insee="55493" precision="approximatif">Sommeilles</commune></localisation> et se jette dans la Chée <localisation>au-dessus du Val</localisation>, <localisation>commune de <commune insee="55388" precision="certain">Noyers</commune></localisation>, après un cours de 4 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source sur le <localisation>territoire de <commune insee="55493" precision="approximatif">Sommeilles</commune></localisation> et se jette dans la Chée <localisation>au-dessus du Val</localisation>, <localisation>commune de <commune insee="55388" precision="approximatif">Noyers</commune></localisation>, après un cours de 4 kil.</definition>
   </article>
   <article id="DT55-02391" pg="100">
     <vedette><sm>Guigniville</sm> ou <sm>Gnéville,</sm></vedette>
@@ -14244,7 +14244,7 @@
   </article>
   <article id="DT55-02472" pg="103">
     <vedette><sm>Harbon (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source à la <localisation>Borne-Trouée</localisation>, <localisation>commune d’<commune insee="55170" precision="certain">Écurey</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55403" precision="certain">Peuvillers</commune></localisation> et se jette dans la Tinte, après un cours de 6 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source à la <localisation>Borne-Trouée</localisation>, <localisation>commune d’<commune insee="55170" precision="approximatif">Écurey</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55403" precision="approximatif">Peuvillers</commune></localisation> et se jette dans la Tinte, après un cours de 6 kil.</definition>
   </article>
   <article id="DT55-02473" pg="103">
     <vedette><sm>Hardancourt,</sm></vedette>
@@ -14335,7 +14335,7 @@
   </article>
   <article id="DT55-02490" pg="103">
     <vedette><sm>Hartroy,</sm></vedette>
-    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55142" precision="certain">Dainville-aux-Forges</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
+    <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="55142" precision="approximatif">Dainville-aux-Forges</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-02491" pg="103" type="commune">
     <vedette><sm>Harville,</sm></vedette>
@@ -15174,7 +15174,7 @@
   </article>
   <article id="DT55-02624" pg="110">
     <vedette><sm>Heurte-Bise (La),</sm></vedette>
-    <definition><typologie>fontaine</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55391" precision="approximatif">Olizy</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55323" precision="certain">Martincourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
+    <definition><typologie>fontaine</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55391" precision="approximatif">Olizy</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55323" precision="approximatif">Martincourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
   </article>
   <article id="DT55-02625" pg="110">
     <vedette><sm>Heutume,</sm></vedette>
@@ -15223,7 +15223,7 @@
   </article>
   <article id="DT55-02633" pg="110">
     <vedette><sm>Hindelory,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55097" precision="certain">Chalaines</commune></localisation>, sur le <localisation>territoire de <commune insee="55434" precision="approximatif">Rigny-Saint-Martin</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55097" precision="approximatif">Chalaines</commune></localisation>, sur le <localisation>territoire de <commune insee="55434" precision="approximatif">Rigny-Saint-Martin</commune></localisation>.</definition>
   </article>
   <article id="DT55-02634" pg="110">
     <vedette><sm>Hinot,</sm></vedette>
@@ -15485,7 +15485,7 @@
   </article>
   <article id="DT55-02685" pg="112">
     <vedette><sm>Housse,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55008" precision="certain">Amel</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55008" precision="approximatif">Amel</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02686" pg="112">
     <vedette><sm>Houssenette,</sm></vedette>
@@ -15602,7 +15602,7 @@
   </article>
   <article id="DT55-02712" pg="112">
     <vedette><sm>Hunot,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55530" precision="certain">Varvinay</commune></localisation>, sur le <localisation>territoire de <commune insee="55312" precision="approximatif">Maizey</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55530" precision="approximatif">Varvinay</commune></localisation>, sur le <localisation>territoire de <commune insee="55312" precision="approximatif">Maizey</commune></localisation>.</definition>
   </article>
   <article id="DT55-02713" pg="112">
     <vedette><sm>Huon-Bois,</sm></vedette>
@@ -15684,7 +15684,7 @@
   </article>
   <article id="DT55-02728" pg="112">
     <vedette><sm>Hutebas (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans le <localisation>bois des Goulettes</localisation>, <localisation>commune de <commune insee="55038" precision="certain">Beaulieu</commune></localisation>, traverse la forêt d’Argonne et passe aux <localisation><commune insee="55253" precision="certain">Islettes</commune></localisation>, où il se jette dans la Biesme, après un cours de 10 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans le <localisation>bois des Goulettes</localisation>, <localisation>commune de <commune insee="55038" precision="approximatif">Beaulieu</commune></localisation>, traverse la forêt d’Argonne et passe aux <localisation><commune insee="55253" precision="approximatif">Islettes</commune></localisation>, où il se jette dans la Biesme, après un cours de 10 kilomètres.</definition>
   </article>
   <article id="DT55-02729" pg="113">
     <pg>113</pg>
@@ -15705,7 +15705,7 @@
   </article>
   <article id="DT55-02733" pg="113">
     <vedette><sm>Ingry,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55299" precision="certain">Loison</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55299" precision="approximatif">Loison</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02734" pg="113" type="commune">
     <vedette><sm>Inor,</sm></vedette>
@@ -16012,7 +16012,7 @@
   </article>
   <article id="DT55-02773" pg="115">
     <vedette><sm>Jard (Le),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55551" precision="certain">Hattonchâtel</commune></localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Viéville-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55551" precision="approximatif">Hattonchâtel</commune></localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Viéville-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-02774" pg="116">
     <pg>116</pg>
@@ -16059,7 +16059,7 @@
   </article>
   <article id="DT55-02783" pg="116">
     <vedette><sm>Jaulnay,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55095" precision="certain">Cesse</commune></localisation>, sur le <localisation>territoire de <commune insee="55279" precision="approximatif">Laneuville-sur-Meuse</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55095" precision="approximatif">Cesse</commune></localisation>, sur le <localisation>territoire de <commune insee="55279" precision="approximatif">Laneuville-sur-Meuse</commune></localisation>.</definition>
   </article>
   <article id="DT55-02784" pg="116">
     <vedette><sm>Jaulny,</sm></vedette>
@@ -16088,7 +16088,7 @@
   </article>
   <article id="DT55-02790" pg="116">
     <vedette><sm>Jean-de-Vaux,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55244" precision="certain">Herméville</commune></localisation>, sur le <localisation>territoire de <commune insee="55201" precision="approximatif">Fromezey</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55244" precision="approximatif">Herméville</commune></localisation>, sur le <localisation>territoire de <commune insee="55201" precision="approximatif">Fromezey</commune></localisation>.</definition>
   </article>
   <article id="DT55-02791" pg="116">
     <vedette><sm>Jeand’Heures,</sm></vedette>
@@ -16795,7 +16795,7 @@
   </article>
   <article id="DT55-02895" pg="122">
     <vedette><sm>Lahaymeix (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source au-dessus du village de ce nom [<localisation><commune insee="55269" precision="certain">Lahaymeix</commune></localisation>] et se jette dans le ruisseau de Thillombois <localisation>en amont de <commune insee="55584" precision="approximatif">Woimbey</commune></localisation>, après un cours de 5 kilomètres.</definition>
+    <definition>qui prend sa source au-dessus du village de ce nom [<localisation><commune insee="55269" precision="approximatif">Lahaymeix</commune></localisation>] et se jette dans le ruisseau de Thillombois <localisation>en amont de <commune insee="55584" precision="approximatif">Woimbey</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-02896" pg="122" type="commune">
     <vedette><sm>Lahayville,</sm></vedette>
@@ -17075,7 +17075,7 @@
   </article>
   <article id="DT55-02931" pg="124">
     <vedette><sm>Laneuville (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source dans la <localisation>forêt de Palisse</localisation>, passe à <localisation><commune insee="55278" precision="certain">Laneuville-au-Rupt</commune></localisation> et se jette dans la Meuse <localisation>vis-à-vis de <commune insee="55496" precision="approximatif">Sorcy</commune></localisation>, après un cours de 5 kilomètres.</definition>
+    <definition>qui prend sa source dans la <localisation>forêt de Palisse</localisation>, passe à <localisation><commune insee="55278" precision="approximatif">Laneuville-au-Rupt</commune></localisation> et se jette dans la Meuse <localisation>vis-à-vis de <commune insee="55496" precision="approximatif">Sorcy</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-02932" pg="124" type="commune">
     <vedette><sm>Laneuville-au-Rupt,</sm></vedette>
@@ -17149,7 +17149,7 @@
   </article>
   <article id="DT55-02936" pg="125">
     <vedette><sm>Lannay (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source près du bois dit <i>Montricelle,</i> traverse le <localisation>territoire d’<commune insee="55244" precision="approximatif">Herméville</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55578" precision="certain">Warcq</commune></localisation>, après un cours de 6 kil.</definition>
+    <definition>qui a sa source près du bois dit <i>Montricelle,</i> traverse le <localisation>territoire d’<commune insee="55244" precision="approximatif">Herméville</commune></localisation> et se jette dans l’Orne à <localisation><commune insee="55578" precision="approximatif">Warcq</commune></localisation>, après un cours de 6 kil.</definition>
     <forme_ancienne>— <i>Fossé de Parois,</i> <date>1760</date> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT55-02937" pg="125">
@@ -17563,7 +17563,7 @@
   </article>
   <article id="DT55-03008" pg="127">
     <vedette><sm>Lempire (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à la <localisation>fontaine de l’Oua</localisation>, <localisation>commune de <commune insee="55276" precision="certain">Lempire</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55276" precision="certain">Landrecourt</commune></localisation> et à <localisation><commune insee="55166" precision="certain">Dugny</commune></localisation>, et se jette dans la Meuse à la <localisation>Falouse</localisation>, <localisation>commune de <commune insee="55042" precision="certain">Belleray</commune></localisation>, après un cours de 12 kilomètres.</definition>
+    <definition>qui prend sa source à la <localisation>fontaine de l’Oua</localisation>, <localisation>commune de <commune insee="55276" precision="approximatif">Lempire</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55276" precision="approximatif">Landrecourt</commune></localisation> et à <localisation><commune insee="55166" precision="approximatif">Dugny</commune></localisation>, et se jette dans la Meuse à la <localisation>Falouse</localisation>, <localisation>commune de <commune insee="55042" precision="approximatif">Belleray</commune></localisation>, après un cours de 12 kilomètres.</definition>
   </article>
   <article id="DT55-03009" pg="127">
     <vedette><sm>Lengnet,</sm></vedette>
@@ -17641,7 +17641,7 @@
   </article>
   <article id="DT55-03021" pg="128">
     <vedette><sm>Levoncourt (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55282" precision="approximatif">Lavallée</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55289" precision="certain">Levoncourt</commune></localisation> et se jette dans l’Aire <localisation>au-dessous de <commune insee="55210" precision="approximatif">Gimécourt</commune></localisation>, après un trajet de 7 kilomètres.</definition>
+    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55282" precision="approximatif">Lavallée</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55289" precision="approximatif">Levoncourt</commune></localisation> et se jette dans l’Aire <localisation>au-dessous de <commune insee="55210" precision="approximatif">Gimécourt</commune></localisation>, après un trajet de 7 kilomètres.</definition>
   </article>
   <article id="DT55-03022" pg="128">
     <vedette><sm>Lia,</sm></vedette>
@@ -17673,7 +17673,7 @@
   </article>
   <article id="DT55-03029" pg="128">
     <vedette><sm>Lichot,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55064" precision="certain">Bouquemont</commune></localisation>, sur le <localisation>territoire de <commune insee="55420" precision="approximatif">Récourt</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55064" precision="approximatif">Bouquemont</commune></localisation>, sur le <localisation>territoire de <commune insee="55420" precision="approximatif">Récourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-03030" pg="128">
     <vedette><sm>Liébaut,</sm></vedette>
@@ -17689,7 +17689,7 @@
   </article>
   <article id="DT55-03033" pg="128">
     <vedette><sm>Lieuse (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>forêt de <commune insee="55502" precision="approximatif">Dieulet</commune></localisation>, traverse le <localisation>territoire de <commune insee="55037" precision="approximatif">Beaufort</commune></localisation> et passe à <localisation><commune insee="55279" precision="certain">Laneuville-sur-Meuse</commune></localisation>, où il se jette dans la Wiseppe, après un cours de 8 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>forêt de <commune insee="55502" precision="approximatif">Dieulet</commune></localisation>, traverse le <localisation>territoire de <commune insee="55037" precision="approximatif">Beaufort</commune></localisation> et passe à <localisation><commune insee="55279" precision="approximatif">Laneuville-sur-Meuse</commune></localisation>, où il se jette dans la Wiseppe, après un cours de 8 kilomètres.</definition>
   </article>
   <article id="DT55-03034" pg="128">
     <vedette><sm>Ligant,</sm></vedette>
@@ -18054,7 +18054,7 @@
   </article>
   <article id="DT55-03085" pg="132">
     <vedette><sm>Lollière,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55555" precision="certain">Ville-devant-Belrain</commune></localisation>, sur le <localisation>territoire de <commune insee="55448" precision="approximatif">Rupt-devant-Saint-Mihiel</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55555" precision="approximatif">Ville-devant-Belrain</commune></localisation>, sur le <localisation>territoire de <commune insee="55448" precision="approximatif">Rupt-devant-Saint-Mihiel</commune></localisation>.</definition>
   </article>
   <article id="DT55-03086" pg="132">
     <vedette><sm>Lombrel,</sm></vedette>
@@ -18985,7 +18985,7 @@
   </article>
   <article id="DT55-03238" pg="138">
     <vedette><sm>Malléville,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55316" precision="certain">Mangiennes</commune></localisation>, sur le <localisation>territoire de <commune insee="55124" precision="approximatif">Consenvoye</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>, sur le <localisation>territoire de <commune insee="55124" precision="approximatif">Consenvoye</commune></localisation>.</definition>
   </article>
   <article id="DT55-03239" pg="138">
     <vedette><sm>Mallot,</sm></vedette>
@@ -19041,7 +19041,7 @@
   </article>
   <article id="DT55-03252" pg="138">
     <vedette><sm>Malval (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source sur le <localisation>territoire de <commune insee="55371" precision="approximatif">Nançois-le-Grand</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55581" precision="certain">Villeroncourt</commune></localisation> et se jette dans l’Ornain à <localisation><commune insee="55372" precision="certain">Nançois-le-Petit</commune></localisation>, après un cours de 8 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source sur le <localisation>territoire de <commune insee="55371" precision="approximatif">Nançois-le-Grand</commune></localisation>, traverse ce village, passe à <localisation><commune insee="55581" precision="approximatif">Villeroncourt</commune></localisation> et se jette dans l’Ornain à <localisation><commune insee="55372" precision="approximatif">Nançois-le-Petit</commune></localisation>, après un cours de 8 kilomètres.</definition>
   </article>
   <article id="DT55-03253" pg="138">
     <vedette><sm>Malversée,</sm></vedette>
@@ -19646,11 +19646,11 @@
   </article>
   <article id="DT55-03346" pg="143">
     <vedette><sm>Masse-Noue,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Villers-sous-Bonchamp</commune></localisation>, sur le <localisation>territoire d’<commune insee="55245" precision="approximatif">Heudicourt</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Villers-sous-Bonchamp</commune></localisation>, sur le <localisation>territoire d’<commune insee="55245" precision="approximatif">Heudicourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-03347" pg="143">
     <vedette><sm>Massepré (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>forêt <pg>144</pg>de Massonge</localisation>, <localisation>commune de <commune insee="55541" precision="certain">Vavincourt</commune></localisation>, et se jette dans l’Ornain <localisation>au-dessus de <commune insee="55366" precision="approximatif">Varnay</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source dans la <localisation>forêt <pg>144</pg>de Massonge</localisation>, <localisation>commune de <commune insee="55541" precision="approximatif">Vavincourt</commune></localisation>, et se jette dans l’Ornain <localisation>au-dessus de <commune insee="55366" precision="approximatif">Varnay</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-03348" pg="144">
     <vedette><sm>Masseraumont,</sm></vedette>
@@ -20040,7 +20040,7 @@
   </article>
   <article id="DT55-03415" pg="146">
     <vedette><sm>Méligny (Ruisseau de)</sm> ou <sm>ru de Méligny,</sm></vedette>
-    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55330" precision="approximatif">Méligny-le-Grand</commune></localisation>, traverse ce village passe à <localisation><commune insee="55331" precision="certain">Méligny-le-Petit</commune></localisation> et se jette dans la Barboure à <localisation><commune insee="55322" precision="certain">Marson</commune></localisation>, après un cours de 6 kilomètres.</definition>
+    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55330" precision="approximatif">Méligny-le-Grand</commune></localisation>, traverse ce village passe à <localisation><commune insee="55331" precision="approximatif">Méligny-le-Petit</commune></localisation> et se jette dans la Barboure à <localisation><commune insee="55322" precision="approximatif">Marson</commune></localisation>, après un cours de 6 kilomètres.</definition>
   </article>
   <article id="DT55-03416" pg="146" type="commune">
     <vedette><sm>Méligny-le-Grand,</sm></vedette>
@@ -20339,7 +20339,7 @@
   </article>
   <article id="DT55-03452" pg="148">
     <vedette><sm>Metz (Le),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="certain">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="approximatif">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
   </article>
   <article id="DT55-03453" pg="148">
     <vedette><sm>Metz-le-Déléal,</sm></vedette>
@@ -20642,7 +20642,7 @@
   </article>
   <article id="DT55-03510" pg="151">
     <vedette><sm>Mogeville (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source au village de ce nom [<localisation><commune insee="55339" precision="certain">Mogeville</commune></localisation>] et se jette dans le ruisseau de Vaux <localisation>au-dessus de <commune insee="55357" precision="approximatif">Morgemoulins</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition>qui prend sa source au village de ce nom [<localisation><commune insee="55339" precision="approximatif">Mogeville</commune></localisation>] et se jette dans le ruisseau de Vaux <localisation>au-dessus de <commune insee="55357" precision="approximatif">Morgemoulins</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-03511" pg="151" type="commune">
     <vedette><sm>Mognéville,</sm></vedette>
@@ -21293,7 +21293,7 @@
   </article>
   <article id="DT55-03602" pg="157">
     <vedette><sm>Montplonne (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source <localisation>au-dessus de <commune insee="55352" precision="approximatif">Montplonne</commune></localisation>, traverse ce village et se jette dans la Saulx à <localisation><commune insee="55035" precision="certain">Bazincourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
+    <definition>qui a sa source <localisation>au-dessus de <commune insee="55352" precision="approximatif">Montplonne</commune></localisation>, traverse ce village et se jette dans la Saulx à <localisation><commune insee="55035" precision="approximatif">Bazincourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
   </article>
   <article id="DT55-03603" pg="157">
     <vedette><sm>Montquentin,</sm></vedette>
@@ -21305,7 +21305,7 @@
   </article>
   <article id="DT55-03605" pg="157">
     <vedette><sm>Montru (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui est formé <localisation>au-dessous de <commune insee="55457" precision="approximatif">Wadonville-en-Woëvre</commune></localisation> par la réunion des <localisation>ruisseaux de la Chapelotte et d’Hannonville</localisation>, passe à <localisation><commune insee="55457" precision="certain">Butgnéville</commune></localisation> et se jette dans le Longeau à <localisation><commune insee="55232" precision="certain">Harville</commune></localisation>, après un cours de 5 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui est formé <localisation>au-dessous de <commune insee="55457" precision="approximatif">Wadonville-en-Woëvre</commune></localisation> par la réunion des <localisation>ruisseaux de la Chapelotte et d’Hannonville</localisation>, passe à <localisation><commune insee="55457" precision="approximatif">Butgnéville</commune></localisation> et se jette dans le Longeau à <localisation><commune insee="55232" precision="approximatif">Harville</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-03606" pg="157">
     <vedette><sm>Montruche,</sm></vedette>
@@ -21424,7 +21424,7 @@
   </article>
   <article id="DT55-03619" pg="158">
     <vedette><sm>Moragne,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55336" precision="certain">Merles</commune></localisation>, sur le <localisation>territoire de <commune insee="55053" precision="approximatif">Billy</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55336" precision="approximatif">Merles</commune></localisation>, sur le <localisation>territoire de <commune insee="55053" precision="approximatif">Billy</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-03620" pg="158">
     <vedette><sm>Moraignes</sm> ou <sm>Morhaignes,</sm></vedette>
@@ -21450,7 +21450,7 @@
   </article>
   <article id="DT55-03624" pg="158">
     <vedette><sm>Moranpré,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55551" precision="certain">Hattonville</commune></localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Viéville</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55551" precision="approximatif">Hattonville</commune></localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Viéville</commune></localisation>.</definition>
   </article>
   <article id="DT55-03625" pg="158" type="commune">
     <vedette><sm>Moranville,</sm></vedette>
@@ -21914,7 +21914,7 @@
   </article>
   <article id="DT55-03704" pg="161">
     <vedette><sm>Moupre (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55500" precision="certain">Ollières</commune></localisation>, passe à <localisation><commune insee="55500" precision="approximatif">Réchicourt</commune></localisation> et se jette dans l’Othain à <localisation><commune insee="55500" precision="approximatif">Spincourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55500" precision="approximatif">Ollières</commune></localisation>, passe à <localisation><commune insee="55500" precision="approximatif">Réchicourt</commune></localisation> et se jette dans l’Othain à <localisation><commune insee="55500" precision="approximatif">Spincourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
   </article>
   <article id="DT55-03705" pg="161">
     <vedette><sm>Mourainvaux,</sm></vedette>
@@ -21964,7 +21964,7 @@
   </article>
   <article id="DT55-03716" pg="161">
     <vedette><sm>Mouton,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55274" precision="certain">Spada</commune></localisation>, sur le <localisation>territoire de <commune insee="55530" precision="approximatif">Varvinay</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55274" precision="approximatif">Spada</commune></localisation>, sur le <localisation>territoire de <commune insee="55530" precision="approximatif">Varvinay</commune></localisation>.</definition>
   </article>
   <article id="DT55-03717" pg="161">
     <vedette><sm>Moutots,</sm></vedette>
@@ -22082,7 +22082,7 @@
   </article>
   <article id="DT55-03737" pg="162">
     <vedette><sm>Munels,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55534" precision="certain">Vaudeville</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55534" precision="approximatif">Vaudeville</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55215" precision="approximatif">Gondrecourt</commune></localisation>.</definition>
   </article>
   <article id="DT55-03738" pg="162">
     <vedette><sm>Munémont,</sm></vedette>
@@ -22090,7 +22090,7 @@
   </article>
   <article id="DT55-03739" pg="162">
     <vedette><sm>Muniels,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55567" precision="certain">Ville-sur-Cousance</commune></localisation>, sur le <localisation>territoire de <commune insee="55497" precision="approximatif">Souhesme</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55567" precision="approximatif">Ville-sur-Cousance</commune></localisation>, sur le <localisation>territoire de <commune insee="55497" precision="approximatif">Souhesme</commune></localisation>.</definition>
   </article>
   <article id="DT55-03740" pg="162">
     <vedette><sm>Munier,</sm></vedette>
@@ -22174,7 +22174,7 @@
   </article>
   <article id="DT55-03747" pg="163">
     <vedette><sm>Murville (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à <localisation><commune insee="55215" precision="certain">Tourailles</commune></localisation> et se jette dans le Naillemont <localisation>près d’<commune insee="55247" precision="certain">Horville</commune></localisation>, après un cours de 2 kilomètres.</definition>
+    <definition>qui prend sa source à <localisation><commune insee="55215" precision="approximatif">Tourailles</commune></localisation> et se jette dans le Naillemont <localisation>près d’<commune insee="55247" precision="approximatif">Horville</commune></localisation>, après un cours de 2 kilomètres.</definition>
   </article>
   <article id="DT55-03748" pg="163">
     <vedette><sm>Mury,</sm></vedette>
@@ -22252,7 +22252,7 @@
   </article>
   <article id="DT55-03759" pg="164">
     <vedette><sm>Naillemont (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55215" precision="approximatif">Tourailles</commune></localisation> et se jette dans l’Oignon sur celui d’<localisation><commune insee="55247" precision="certain">Horville</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire de <commune insee="55215" precision="approximatif">Tourailles</commune></localisation> et se jette dans l’Oignon sur celui d’<localisation><commune insee="55247" precision="approximatif">Horville</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-03760" pg="164">
     <vedette><sm>Naisol,</sm></vedette>
@@ -22401,7 +22401,7 @@
   </article>
   <article id="DT55-03773" pg="166">
     <vedette><sm>Nant (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55504" precision="approximatif">Tannois</commune></localisation>, passe à <localisation><commune insee="55373" precision="certain">Nant-le-Grand</commune></localisation> et à <localisation><commune insee="55374" precision="certain">Nant-le-Petit</commune></localisation>, et se jette dans la Saulx <localisation>en amont de <commune insee="55501" precision="approximatif">Stainville</commune></localisation>, après un cours de 8 kilomètres.</definition>
+    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55504" precision="approximatif">Tannois</commune></localisation>, passe à <localisation><commune insee="55373" precision="approximatif">Nant-le-Grand</commune></localisation> et à <localisation><commune insee="55374" precision="approximatif">Nant-le-Petit</commune></localisation>, et se jette dans la Saulx <localisation>en amont de <commune insee="55501" precision="approximatif">Stainville</commune></localisation>, après un cours de 8 kilomètres.</definition>
   </article>
   <article id="DT55-03774" pg="166">
     <vedette><sm>Nantelle,</sm></vedette>
@@ -22513,7 +22513,7 @@
   </article>
   <article id="DT55-03789" pg="167">
     <vedette><sm>Naugipont (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source dans le <localisation>bois des Quatre-Communes</localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Vigneulles-lez-Hattonchâtel</commune></localisation>, passe à <localisation><commune insee="55386" precision="certain">Lamarche-en-Woëvre</commune></localisation>, sort du département après un cours de 6 kil. et va s’unir à la Madine dans le département de la Meurthe</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source dans le <localisation>bois des Quatre-Communes</localisation>, sur le <localisation>territoire de <commune insee="55551" precision="approximatif">Vigneulles-lez-Hattonchâtel</commune></localisation>, passe à <localisation><commune insee="55386" precision="approximatif">Lamarche-en-Woëvre</commune></localisation>, sort du département après un cours de 6 kil. et va s’unir à la Madine dans le département de la Meurthe</definition>
   </article>
   <article id="DT55-03790" pg="167">
     <vedette><sm>Naumoncel,</sm></vedette>
@@ -22570,7 +22570,7 @@
   </article>
   <article id="DT55-03801" pg="167">
     <vedette><sm>Naweton (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de <commune insee="55369" precision="approximatif">Rosières-devant-Bar</commune></localisation>, passe à <localisation><commune insee="55369" precision="approximatif">Naives-devant-Bar</commune></localisation> et à <localisation><commune insee="55029" precision="approximatif">Marbot</commune></localisation>, et se jette dans l’Ornain à <localisation><commune insee="55029" precision="certain">Bar-le-Duc</commune></localisation>, après un cours de 7 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source <localisation>au-dessus de <commune insee="55369" precision="approximatif">Rosières-devant-Bar</commune></localisation>, passe à <localisation><commune insee="55369" precision="approximatif">Naives-devant-Bar</commune></localisation> et à <localisation><commune insee="55029" precision="approximatif">Marbot</commune></localisation>, et se jette dans l’Ornain à <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation>, après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-03802" pg="167">
     <vedette><sm>Nay,</sm></vedette>
@@ -22911,7 +22911,7 @@
   </article>
   <article id="DT55-03852" pg="169">
     <vedette><sm>Noitel (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55358" precision="approximatif">Oëy</commune></localisation>, traverse ce village passe à <localisation><commune insee="55358" precision="certain">Morlaincourt</commune></localisation> et se jette dans l’Ornain <localisation>vis-à-vis de <commune insee="55214" precision="approximatif">Givrauval</commune></localisation>, après un cours de 8 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source sur le <localisation>territoire d’<commune insee="55358" precision="approximatif">Oëy</commune></localisation>, traverse ce village passe à <localisation><commune insee="55358" precision="approximatif">Morlaincourt</commune></localisation> et se jette dans l’Ornain <localisation>vis-à-vis de <commune insee="55214" precision="approximatif">Givrauval</commune></localisation>, après un cours de 8 kilomètres.</definition>
   </article>
   <article id="DT55-03853" pg="169">
     <vedette><sm>Nolévaux,</sm></vedette>
@@ -22995,7 +22995,7 @@
   </article>
   <article id="DT55-03867" pg="170">
     <vedette><sm>Notre-Dame,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-03868" pg="170">
     <vedette><sm>Notre-Dame,</sm></vedette>
@@ -23240,7 +23240,7 @@
   </article>
   <article id="DT55-03915" pg="171">
     <vedette><sm>Oclout,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="certain">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55540" precision="approximatif">Vaux-lez-Palameix</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55007" precision="approximatif">Ambly</commune></localisation>, sur le <localisation>territoire de <commune insee="55540" precision="approximatif">Vaux-lez-Palameix</commune></localisation>.</definition>
   </article>
   <article id="DT55-03916" pg="171">
     <vedette><sm>Œllons,</sm></vedette>
@@ -23530,7 +23530,7 @@
   </article>
   <article id="DT55-03961" pg="174">
     <vedette><sm>Osches (Ruisseau d’),</sm></vedette>
-    <definition>qui prend sa source au-dessus du village de ce nom [<localisation><commune insee="55395" precision="certain">Osches</commune></localisation>] et se jette dans la Cousance à <localisation><commune insee="55251" precision="certain">Ippécourt</commune></localisation>, après un trajet de 5 kilomètres.</definition>
+    <definition>qui prend sa source au-dessus du village de ce nom [<localisation><commune insee="55395" precision="approximatif">Osches</commune></localisation>] et se jette dans la Cousance à <localisation><commune insee="55251" precision="approximatif">Ippécourt</commune></localisation>, après un trajet de 5 kilomètres.</definition>
   </article>
   <article id="DT55-03962" pg="174">
     <vedette><sm>Ossat,</sm></vedette>
@@ -25623,7 +25623,7 @@
   </article>
   <article id="DT55-04396" pg="185">
     <vedette><sm>Quemines (Les),</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, sur le <localisation>territoire de <commune insee="55060" precision="approximatif">Mont-sous-les-Côtes</commune></localisation>.</definition>
   </article>
   <article id="DT55-04397" pg="185">
     <vedette><sm>Quemin-Fays,</sm></vedette>
@@ -26068,7 +26068,7 @@
   </article>
   <article id="DT55-04473" pg="188">
     <vedette><sm>Ratout,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55535" precision="certain">Vaudoncourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55299" precision="approximatif">Loison</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55535" precision="approximatif">Vaudoncourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55299" precision="approximatif">Loison</commune></localisation>.</definition>
   </article>
   <article id="DT55-04474" pg="188">
     <vedette><sm>Rattentout,</sm></vedette>
@@ -26967,7 +26967,7 @@
   </article>
   <article id="DT55-04621" pg="194">
     <vedette><sm>Riéval (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source auprès de <localisation><commune insee="55334" precision="certain">Ménil-la-Horgne</commune></localisation> et se jette dans la Meholle à <localisation><commune insee="55573" precision="approximatif">Void</commune></localisation>, après un cours de 9 kilomètres.</definition>
+    <definition>qui prend sa source auprès de <localisation><commune insee="55334" precision="approximatif">Ménil-la-Horgne</commune></localisation> et se jette dans la Meholle à <localisation><commune insee="55573" precision="approximatif">Void</commune></localisation>, après un cours de 9 kilomètres.</definition>
   </article>
   <article id="DT55-04622" pg="194" type="commune">
     <vedette><sm>Rignaucourt,</sm></vedette>
@@ -27781,7 +27781,7 @@
   </article>
   <article id="DT55-04767" pg="199">
     <vedette><sm>Rubban (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55272" precision="certain">Laimont</commune></localisation> et se jette dans la Nausonce <localisation>au-dessus de <commune insee="55560" precision="approximatif">Villers-aux-Vents</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55272" precision="approximatif">Laimont</commune></localisation> et se jette dans la Nausonce <localisation>au-dessus de <commune insee="55560" precision="approximatif">Villers-aux-Vents</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-04768" pg="199">
     <vedette><sm>Rude-Côte,</sm></vedette>
@@ -28590,7 +28590,7 @@
   </article>
   <article id="DT55-04908" pg="205">
     <vedette><sm>Saint-Jean (Rue),</sm></vedette>
-    <definition>à <localisation><commune insee="55029" precision="certain">Bar-le-Duc</commune></localisation> et à <localisation><commune insee="55527" precision="certain">Varennes</commune></localisation>.</definition>
+    <definition>à <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation> et à <localisation><commune insee="55527" precision="approximatif">Varennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-04909" pg="205">
     <vedette><sm>Saint-Jean-Baptiste,</sm></vedette>
@@ -30149,7 +30149,7 @@
   </article>
   <article id="DT55-05164" pg="218">
     <vedette><sm>Sault (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55254" precision="certain">Mondrecourt</commune></localisation> et se jette dans l’Aire à <localisation><commune insee="55040" precision="certain">Amblaincourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="55254" precision="approximatif">Mondrecourt</commune></localisation> et se jette dans l’Aire à <localisation><commune insee="55040" precision="approximatif">Amblaincourt</commune></localisation>, après un trajet de 6 kilomètres.</definition>
   </article>
   <article id="DT55-05165" pg="218">
     <vedette><sm>Saulx (La),</sm></vedette>
@@ -30176,7 +30176,7 @@
   </article>
   <article id="DT55-05169" pg="218">
     <vedette><sm>Saulx (Moulin de la),</sm></vedette>
-    <definition><localisation>commune d’<commune insee="55001" precision="certain">Abainville</commune></localisation> ; était fief à <localisation><commune insee="55001" precision="certain">Abainville</commune></localisation> (Durival).</definition>
+    <definition><localisation>commune d’<commune insee="55001" precision="approximatif">Abainville</commune></localisation> ; était fief à <localisation><commune insee="55001" precision="approximatif">Abainville</commune></localisation> (Durival).</definition>
   </article>
   <article id="DT55-05170" pg="218">
     <vedette><sm>Saulx (Ruisseau de), dit aussi <i>le Laviot,</i></sm></vedette>
@@ -30350,11 +30350,11 @@
   </article>
   <article id="DT55-05198" pg="220">
     <vedette><sm>Savonnières (Ruisseau de), dit aussi <i>ruisseau de Woëvre,</i></sm></vedette>
-    <definition>qui a sa source à <localisation><commune insee="55530" precision="certain">Savonnières-en-Woëvre</commune></localisation>, passe à <localisation><commune insee="55530" precision="certain">Varvinay</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55274" precision="certain">Lavignéville</commune></localisation>, après un cours de 5 kilomètres.</definition>
+    <definition>qui a sa source à <localisation><commune insee="55530" precision="approximatif">Savonnières-en-Woëvre</commune></localisation>, passe à <localisation><commune insee="55530" precision="approximatif">Varvinay</commune></localisation> et se jette dans le ru de Creue à <localisation><commune insee="55274" precision="approximatif">Lavignéville</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-05199" pg="220">
     <vedette><sm>Savonnières (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source <localisation>au-dessus de <commune insee="55476" precision="approximatif">Savonnières-devant-Bar</commune></localisation> et se jette dans l’Ornain à <localisation><commune insee="55029" precision="certain">Bar-le-Duc</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition>qui a sa source <localisation>au-dessus de <commune insee="55476" precision="approximatif">Savonnières-devant-Bar</commune></localisation> et se jette dans l’Ornain à <localisation><commune insee="55029" precision="approximatif">Bar-le-Duc</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-05200" pg="220" type="commune">
     <vedette><sm>Savonnières-devant-Bar,</sm></vedette>
@@ -30543,7 +30543,7 @@
   </article>
   <article id="DT55-05225" pg="221">
     <vedette><sm>Selouze,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="certain">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55268" precision="approximatif">Lacroix</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55463" precision="approximatif">Saint-Mihiel</commune></localisation>, sur le <localisation>territoire de <commune insee="55268" precision="approximatif">Lacroix</commune></localisation>.</definition>
   </article>
   <article id="DT55-05226" pg="221">
     <vedette><sm>Selouze,</sm></vedette>
@@ -30605,7 +30605,7 @@
   </article>
   <article id="DT55-05233" pg="222">
     <vedette><sm>Senoncourt (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source à <localisation><commune insee="55482" precision="certain">Senoncourt</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55012" precision="certain">Ancemont</commune></localisation>, après un cours de 7 kilomètres.</definition>
+    <definition>qui a sa source à <localisation><commune insee="55482" precision="approximatif">Senoncourt</commune></localisation> et se jette dans la Meuse à <localisation><commune insee="55012" precision="approximatif">Ancemont</commune></localisation>, après un cours de 7 kilomètres.</definition>
   </article>
   <article id="DT55-05234" pg="222" type="commune">
     <vedette><sm>Senonville,</sm></vedette>
@@ -30699,7 +30699,7 @@
   </article>
   <article id="DT55-05245" pg="222">
     <vedette><sm>Sereinval (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55531" precision="certain">Vassincourt</commune></localisation> et se jette dans la Saulx <localisation>au-dessus de <commune insee="55125" precision="approximatif">Contrisson</commune></localisation>, après un cours de 4 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source à <localisation><commune insee="55531" precision="approximatif">Vassincourt</commune></localisation> et se jette dans la Saulx <localisation>au-dessus de <commune insee="55125" precision="approximatif">Contrisson</commune></localisation>, après un cours de 4 kilomètres.</definition>
   </article>
   <article id="DT55-05246" pg="222">
     <vedette><sm>Sergents (Rue des),</sm></vedette>
@@ -30844,7 +30844,7 @@
   </article>
   <article id="DT55-05269" pg="223">
     <vedette><sm>Simaydes (Les),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55242" precision="certain">Hennemont</commune></localisation>, sur le <localisation>territoire de <commune insee="55222" precision="approximatif">Gussainville</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55242" precision="approximatif">Hennemont</commune></localisation>, sur le <localisation>territoire de <commune insee="55222" precision="approximatif">Gussainville</commune></localisation>.</definition>
   </article>
   <article id="DT55-05270" pg="223">
     <vedette><sm>Simon (Champ-),</sm></vedette>
@@ -31579,7 +31579,7 @@
   </article>
   <article id="DT55-05361" pg="231">
     <vedette><sm>Suisy (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55493" precision="approximatif">Sommeilles</commune></localisation>, traverse celui de Foyers et se jette dans la Chée <localisation>au-dessous de la Maison-du-Val</localisation>, sur la <localisation>commune de <commune insee="55378" precision="certain">Nettancourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
+    <definition>qui prend sa source sur le <localisation>territoire de <commune insee="55493" precision="approximatif">Sommeilles</commune></localisation>, traverse celui de Foyers et se jette dans la Chée <localisation>au-dessous de la Maison-du-Val</localisation>, sur la <localisation>commune de <commune insee="55378" precision="approximatif">Nettancourt</commune></localisation>, après un trajet de 4 kilomètres.</definition>
   </article>
   <article id="DT55-05362" pg="231">
     <vedette><sm>Suisserie (La),</sm></vedette>
@@ -31612,7 +31612,7 @@
   </article>
   <article id="DT55-05368" pg="231">
     <vedette><sm>Surreintrelle,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55429" precision="certain">Riaville</commune></localisation>, sur le <localisation>territoire de <commune insee="55406" precision="approximatif">Pintheville</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55429" precision="approximatif">Riaville</commune></localisation>, sur le <localisation>territoire de <commune insee="55406" precision="approximatif">Pintheville</commune></localisation>.</definition>
   </article>
   <article id="DT55-05369" pg="231">
     <vedette><sm>Surtelle,</sm></vedette>
@@ -32054,7 +32054,7 @@
   </article>
   <article id="DT55-05458" pg="233">
     <vedette><sm>Thillombois (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55506" precision="approximatif">Thillombois</commune></localisation>, traverse ce village et passe à <localisation><commune insee="55584" precision="certain">Woimbey</commune></localisation>, au N. duquel il se jette dans la Meuse, après un cours de 15 kilomètres.</definition>
+    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55506" precision="approximatif">Thillombois</commune></localisation>, traverse ce village et passe à <localisation><commune insee="55584" precision="approximatif">Woimbey</commune></localisation>, au N. duquel il se jette dans la Meuse, après un cours de 15 kilomètres.</definition>
   </article>
   <article id="DT55-05459" pg="233" type="commune">
     <vedette><sm>Thillot</sm> ou <sm>Thillot-sous-les-Côtes,</sm></vedette>
@@ -32499,7 +32499,7 @@
   </article>
   <article id="DT55-05530" pg="236">
     <vedette><sm>Trégibeau,</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55024" precision="certain">Azannes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55024" precision="approximatif">Azannes</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55316" precision="approximatif">Mangiennes</commune></localisation>.</definition>
   </article>
   <article id="DT55-05531" pg="236">
     <vedette><sm>Trélavaux,</sm></vedette>
@@ -32968,7 +32968,7 @@
   </article>
   <article id="DT55-05610" pg="239">
     <vedette><sm>Vaches (Ruisseau des),</sm></vedette>
-    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55105" precision="approximatif">Châtillon-sous-les-Côtes</commune></localisation>, arrose la <localisation>commune de <commune insee="55055" precision="certain">Blanzée</commune></localisation> <pg>240</pg>et se jette dans le ruisseau d’Eix à <localisation><commune insee="55356" precision="certain">Moranville</commune></localisation>, après un cours de 6 kilomètres.</definition>
+    <definition>qui prend sa source <localisation>au-dessus de <commune insee="55105" precision="approximatif">Châtillon-sous-les-Côtes</commune></localisation>, arrose la <localisation>commune de <commune insee="55055" precision="approximatif">Blanzée</commune></localisation> <pg>240</pg>et se jette dans le ruisseau d’Eix à <localisation><commune insee="55356" precision="approximatif">Moranville</commune></localisation>, après un cours de 6 kilomètres.</definition>
   </article>
   <article id="DT55-05611" pg="240" type="commune">
     <vedette><sm>Vâcon,</sm></vedette>
@@ -32986,7 +32986,7 @@
   </article>
   <article id="DT55-05612" pg="240">
     <vedette><sm>Vâcon (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source dans les <localisation>bois de <commune insee="55368" precision="approximatif">Naives-en-Blois</commune></localisation>, passe à <localisation><commune insee="55573" precision="certain">Vacon</commune></localisation> et se jette dans la Meholle, après un cours de 3 kilomètres.</definition>
+    <definition>qui prend sa source dans les <localisation>bois de <commune insee="55368" precision="approximatif">Naives-en-Blois</commune></localisation>, passe à <localisation><commune insee="55573" precision="approximatif">Vacon</commune></localisation> et se jette dans la Meholle, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-05613" pg="240">
     <vedette><sm>Vadeboncourt,</sm></vedette>
@@ -33055,7 +33055,7 @@
   </article>
   <article id="DT55-05622" pg="240">
     <vedette><sm>Vainvaux (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source à l’<localisation>O. de <commune insee="55106" precision="approximatif">Chattancourt</commune></localisation>, traverse ce village arrose la <localisation>commune de <commune insee="55139" precision="certain">Cumières</commune></localisation> et se jette dans la Meuse, après un cours de 6 kilom.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source à l’<localisation>O. de <commune insee="55106" precision="approximatif">Chattancourt</commune></localisation>, traverse ce village arrose la <localisation>commune de <commune insee="55139" precision="approximatif">Cumières</commune></localisation> et se jette dans la Meuse, après un cours de 6 kilom.</definition>
   </article>
   <article id="DT55-05623" pg="240">
     <vedette><sm>Vaise (La),</sm></vedette>
@@ -33149,7 +33149,7 @@
   </article>
   <article id="DT55-05643" pg="240">
     <vedette><sm>Vallis,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55327" precision="certain">Mauvages</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55533" precision="approximatif">Vaucouleurs</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55327" precision="approximatif">Mauvages</commune></localisation> ; faisait partie de la <localisation>forêt de <commune insee="55533" precision="approximatif">Vaucouleurs</commune></localisation>.</definition>
   </article>
   <article id="DT55-05644" pg="240">
     <vedette><sm>Vallon,</sm></vedette>
@@ -33572,7 +33572,7 @@
   </article>
   <article id="DT55-05709" pg="244">
     <vedette><sm>Vaudoncourt (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source <localisation>village de <commune insee="55535" precision="certain">Vaudoncourt</commune></localisation> et se jette dans l’Othain <localisation>en aval de <commune insee="55500" precision="approximatif">Spincourt</commune></localisation>, après un trajet de 2 kilomètres.</definition>
+    <definition>qui a sa source <localisation>village de <commune insee="55535" precision="approximatif">Vaudoncourt</commune></localisation> et se jette dans l’Othain <localisation>en aval de <commune insee="55500" precision="approximatif">Spincourt</commune></localisation>, après un trajet de 2 kilomètres.</definition>
   </article>
   <article id="DT55-05710" pg="244">
     <vedette><sm>Vau-Garnier,</sm></vedette>
@@ -33691,7 +33691,7 @@
   </article>
   <article id="DT55-05732" pg="245">
     <vedette><sm>Vaux (Ruisseau de)</sm> ou <sm>Ruisseau de Ville,</sm></vedette>
-    <definition>qui prend sa source dans le bois dit <i>le Vaux,</i> <localisation>commune de <commune insee="55556" precision="certain">Ville-devant-Chaumont</commune></localisation>, et se jette dans le Thil à <localisation><commune insee="55107" precision="certain">Chaumont-devant-Damvillers</commune></localisation>, où les deux cours d’eau réunis prennent le nom de <i>la Tinte.</i></definition>
+    <definition>qui prend sa source dans le bois dit <i>le Vaux,</i> <localisation>commune de <commune insee="55556" precision="approximatif">Ville-devant-Chaumont</commune></localisation>, et se jette dans le Thil à <localisation><commune insee="55107" precision="approximatif">Chaumont-devant-Damvillers</commune></localisation>, où les deux cours d’eau réunis prennent le nom de <i>la Tinte.</i></definition>
   </article>
   <article id="DT55-05733" pg="245">
     <vedette><sm>Vaux (Ruisseau de),</sm></vedette>
@@ -33700,7 +33700,7 @@
   </article>
   <article id="DT55-05734" pg="245">
     <vedette><sm>Vaux (Ruisseau de),</sm></vedette>
-    <definition>qui prend sa source à <localisation><commune insee="55472" precision="certain">Vaux-la-Grande</commune></localisation>, arrose la <localisation>commune de <commune insee="55472" precision="certain">Vaux-la-Petite</commune></localisation> et se jette dans la Barboure un peu <localisation>au-dessus de <commune insee="55067" precision="approximatif">Boviolles</commune></localisation>, après un cours de 5 kilomètres.</definition>
+    <definition>qui prend sa source à <localisation><commune insee="55472" precision="approximatif">Vaux-la-Grande</commune></localisation>, arrose la <localisation>commune de <commune insee="55472" precision="approximatif">Vaux-la-Petite</commune></localisation> et se jette dans la Barboure un peu <localisation>au-dessus de <commune insee="55067" precision="approximatif">Boviolles</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-05735" pg="245">
     <vedette><sm>Vaux-Bara (La),</sm></vedette>
@@ -34774,7 +34774,7 @@
   </article>
   <article id="DT55-05897" pg="256">
     <vedette><sm>Villers (Ruisseau de),</sm></vedette>
-    <definition>qui a sa source dans le <localisation>bois de <commune insee="55060" precision="approximatif">Bonchamps</commune></localisation> et se jette dans le Longeau à <localisation><commune insee="55060" precision="certain">Bonzée</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition>qui a sa source dans le <localisation>bois de <commune insee="55060" precision="approximatif">Bonchamps</commune></localisation> et se jette dans le Longeau à <localisation><commune insee="55060" precision="approximatif">Bonzée</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-05898" pg="256">
     <vedette><sm>Villers-aux-Cerises,</sm></vedette>
@@ -35061,7 +35061,7 @@
   </article>
   <article id="DT55-05922" pg="258">
     <vedette><sm>Vionnoue (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui a sa source dans les <localisation>bois de <commune insee="55219" precision="approximatif">Grimaucourt-en-Woëvre</commune></localisation> et se jette dans le ruisseau d’Eix à <localisation><commune insee="55244" precision="certain">Herméville</commune></localisation>, après un cours de 3 kilomètres.</definition>
+    <definition><typologie>ruisseau</typologie> qui a sa source dans les <localisation>bois de <commune insee="55219" precision="approximatif">Grimaucourt-en-Woëvre</commune></localisation> et se jette dans le ruisseau d’Eix à <localisation><commune insee="55244" precision="approximatif">Herméville</commune></localisation>, après un cours de 3 kilomètres.</definition>
   </article>
   <article id="DT55-05923" pg="258">
     <vedette><sm>Viry,</sm></vedette>
@@ -35239,7 +35239,7 @@
   </article>
   <article id="DT55-05954" pg="260">
     <vedette><sm>Voix (La),</sm></vedette>
-    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="certain">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> d’<localisation><commune insee="55248" precision="approximatif">Houdelaincourt</commune></localisation>, sur le <localisation>territoire de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation>.</definition>
   </article>
   <article id="DT55-05955" pg="260">
     <vedette><sm>Vollettes,</sm></vedette>
@@ -35632,7 +35632,7 @@
   </article>
   <article id="DT55-06018" pg="262">
     <vedette><sm>Watlemont,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55367" precision="certain">Muzeray</commune></localisation>, sur le <localisation>territoire de <commune insee="55299" precision="approximatif">Loison</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55367" precision="approximatif">Muzeray</commune></localisation>, sur le <localisation>territoire de <commune insee="55299" precision="approximatif">Loison</commune></localisation>.</definition>
   </article>
   <article id="DT55-06019" pg="262" type="commune">
     <vedette><sm>Watronville,</sm></vedette>
@@ -35678,7 +35678,7 @@
   </article>
   <article id="DT55-06021" pg="263">
     <vedette><sm>Wavril,</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55457" precision="certain">Saint-Hilaire</commune></localisation>, sur le <localisation>territoire de <commune insee="55457" precision="approximatif">Butgnéville</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55457" precision="approximatif">Saint-Hilaire</commune></localisation>, sur le <localisation>territoire de <commune insee="55457" precision="approximatif">Butgnéville</commune></localisation>.</definition>
   </article>
   <article id="DT55-06022" pg="263">
     <vedette><sm>Wavril,</sm></vedette>
@@ -35844,7 +35844,7 @@
   </article>
   <article id="DT55-06045" pg="264">
     <vedette><sm>Woëvre (La),</sm></vedette>
-    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55167" precision="certain">Dun</commune></localisation>, sur le <localisation>territoire de <commune insee="55365" precision="approximatif">Murvaux</commune></localisation>.</definition>
+    <definition><typologie>bois communal</typologie> de <localisation><commune insee="55167" precision="approximatif">Dun</commune></localisation>, sur le <localisation>territoire de <commune insee="55365" precision="approximatif">Murvaux</commune></localisation>.</definition>
   </article>
   <article id="DT55-06046" pg="265">
     <pg>265</pg>
