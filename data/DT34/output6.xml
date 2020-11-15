@@ -124,14 +124,16 @@
   <article id="DT34-00020" pg="2">
     <vedette><sm>Agathe</sm> ou <sm>Agatha,</sm></vedette>
     <definition><typologie>île</typologie> qui, suivant Ptolémée, était située près de la côte de la Gaule narbonnaise, avec une ville du même nom, dans le <localisation>voisinage de Brescou</localisation> et de l’embouchure de l’Hérault.</definition>
-    <forme_ancienne>Ἀγαθὴ μὲν νῆσος κατὰ τὴν ὁμώνυμον πόλιν <reference>(Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
-    <commentaire><p><renvoi>— Voy. Mém. sur <i>Agathe,</i> dans les publications de la soc. arch. de Montpell. t. I, p. 462.</renvoi></p></commentaire>
+    <forme_ancienne><i>Ἀγαθὴ μὲν νῆσος κατὰ τὴν ὁμώνυμον πόλιν</i> <reference>(Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
+    <commentaire>
+      <p><renvoi>— Voy. Mém. sur <i>Agathe,</i> dans les publications de la soc. arch. de Montpell. t. I, p. 462.</renvoi></p>
+    </commentaire>
   </article>
   <article id="DT34-00021" pg="2" type="commune">
     <vedette><sm>Agde,</sm></vedette>
     <definition><typologie>arrondissement</typologie> de <localisation><commune insee="34032" precision="certain">Béziers</commune></localisation>.</definition>
-    <forme_ancienne>— Ἀγαθή <reference>(Strab. l. IV ; Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ἀγαθὴ τύχη <reference>(Steph. Byzant.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ἀγαθή</i> <reference>(Strab. l. IV ; Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ἀγαθὴ τύχη</i> <reference>(Steph. Byzant.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Agatha</i> <reference>(Mela, l. II, c. 5 ; Plin. Hist. Nat. l. III, c. 4)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Agathe</i> <reference>(Anonym. Ravenn. l. IV, § 28)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Agatæ</i> <reference>(Anonym. Ravenn. l. V, § 3 ; Theodulf. in Parænesi, vers. 135)</reference>.</forme_ancienne>
@@ -475,7 +477,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34238" precision="certain">Saint-André-de-Buéges</commune></localisation>.</definition>
   </article>
   <article id="DT34-00083" pg="4">
-    <vedette><sm>Aleyrac</sm> (mieux <sm>Alayrac</sm>),</vedette>
+    <vedette><sm>Aleyrac</sm>, mieux <sm>Alayrac,</sm></vedette>
     <definition><typologie>hameau</typologie> réuni en <date>1836</date>, avec celui de <localisation>Lauret</localisation>, à la <localisation>commune de <commune insee="34297" precision="certain">Sauteyrargues</commune></localisation>.</definition>
     <forme_ancienne>— <i>Villa Alairanicos,</i> <date>804</date> <reference>(cart. Gell. 4)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Alairanichos,</i> <date>961</date> <reference>(cart. Gell. 7)</reference>.</forme_ancienne>
@@ -791,7 +793,7 @@
     <forme_ancienne><date>1255</date> <reference>(Plant. chron. præs. Lod. 186)</reference>.</forme_ancienne>
     <forme_ancienne>— Moulins d’Arboras sur le ruisseau d’Agamas ou Lagamas : <i>Molendini in rivo de Agamanco,</i> <date>1328</date> <reference>(Plant. chron. præs. Lod. 297)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Arboras,</i> <date>1193</date> <reference>(tr. des ch. H. L. III, pr. c. 174)</reference>.</forme_ancienne>
-    <forme_ancienne>— Seigneurie, ressort. à la viguerie de Gignac, <date>1529</date> <reference>(dom. de Montp. H. L. V, pr. c. 87)</reference> ;</forme_ancienne>
+    <forme_ancienne>— <i>Seigneurie, ressort. à la viguerie de Gignac,</i> <date>1529</date> <reference>(dom. de Montp. H. L. V, pr. c. 87)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1760</date> <reference>(pouillé ; tabl. des anc. dioc.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Arbouras,</i> <date>1625</date> <reference>(pouillé)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1649</date> <reference>(pouillé)</reference> ;</forme_ancienne>
@@ -901,7 +903,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de la <commune insee="34293" precision="certain">Salvetat</commune></localisation>.</definition>
   </article>
   <article id="DT34-00157" pg="7">
-    <vedette><sm>Arisdium</sm> (<i>Baronia</i>),</vedette>
+    <vedette><sm>Arisdium (Baronia),</sm></vedette>
     <definition>située dans les <localisation>diocèses de Nîmes, de Lodève et de Maguelone</localisation>, <date>1283</date> <reference>(G. christ. VI, inst. c. 159)</reference>.</definition>
   </article>
   <article id="DT34-00158" pg="7">
@@ -992,7 +994,7 @@
   </article>
   <article id="DT34-00177" pg="7">
     <vedette><sm>Artix,</sm></vedette>
-    <definition>autrement <typologie>métairie</typologie> <i>d’</i><sm>Ivernès,</sm> <typologie>ferme</typologie>, <localisation>commune et canton de <commune insee="34178" precision="approximatif">Murviel</commune></localisation>.</definition>
+    <definition>autrement <typologie>métairie</typologie> d’Ivernès, <typologie>ferme</typologie>, <localisation>commune et canton de <commune insee="34178" precision="approximatif">Murviel</commune></localisation>.</definition>
   </article>
   <article id="DT34-00178" pg="7">
     <vedette><sm>Arts,</sm></vedette>
@@ -1025,8 +1027,10 @@
       <p>Aspiran fut primitivement le chef-lieu d’un c<sup>on</sup> composé de trois c<sup>nes</sup> : Aspiran, Canet, Paulhan. Ce c<sup>on</sup> fut supprimé par arrêté des consuls du 3 brumaire <date>an <sm>x</sm></date>, et les trois c<sup>nes</sup> furent réunies au c<sup>on</sup> de Clermont.</p></commentaire>
     <insee>34013</insee></article>
   <article id="DT34-00182" pg="7">
-    <vedette><sm>Aspiran</sm> ou <sm>Aspiran-Ravanes,</sm> <date>1840</date> ; <sm>Asperan,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Aspiran,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34310" precision="certain">Thézan</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Aspiran-Ravanes,</i> <date>1840</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Asperan,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-00183" pg="7">
     <vedette><sm>Aspres (Mas des),</sm></vedette>
@@ -1798,7 +1802,7 @@
   <article id="DT34-00322" pg="12">
     <vedette><sm>Balestras,</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34192" precision="approximatif">Palavas</commune></localisation>, depuis le <date>29 janvier 1850</date>, précédemment <localisation>commune de <commune insee="34154" precision="approximatif">Mauguio</commune></localisation>.</definition>
-    <commentaire><p>— Ancien <i>Grau, Gradus,</i> ou passage de la mer, dans l’étang de Méjan ou de Lattes, que mentionnent souvent les titres de l’évêché de Montp. des consuls de mer de cette ville, etc. Ce grau, situé vis-à-vis de l’ancienne embouchure du Lez dans l’étang, a été remplacé au commencement de ce siècle par celui de Palavas, à quelques mètres à l’E. (Plans géom. des dom. de la commanderie du grand et petit Saint-Jean de Montp. <date>1751</date>. <renvoi>— Voy. aussi le plan qui accompagne l’Histoire du commerce de Montp. par M. Germain, <date>1861</date></renvoi>).</p></commentaire>
+    <commentaire><p>— Ancien <i>Grau, Gradus,</i> ou passage de la mer, dans l’étang de Méjan ou de Lattes, que mentionnent souvent les titres de l’évêché de Montp. des consuls de mer de cette ville, etc. Ce grau, situé vis-à-vis de l’ancienne embouchure du Lez dans l’étang, a été remplacé au commencement de ce siècle par celui de Palavas, à quelques mètres à l’E. (Plans géom. des dom. de la commanderie du grand et petit Saint-Jean de Montp. <date>1751</date>. <renvoi>— Voy. aussi le plan qui accompagne l’Histoire du commerce de Montp. par M. Germain, 1861</renvoi>).</p></commentaire>
   </article>
   <article id="DT34-00323" pg="12">
     <vedette><sm>Baleyrac,</sm></vedette>
@@ -2331,8 +2335,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34320" precision="certain">Vailhauquès</commune></localisation>.</definition>
   </article>
   <article id="DT34-00441" pg="14">
-    <vedette><sm>Bastide,</sm> campagne <sm>Fournier,</sm> <date>1851</date> ; <i>grange</i> et <i>usine</i> <sm>Fournier,</sm> <date>1809-1840</date> ;</vedette>
+    <vedette><sm>Bastide,</sm></vedette>
     <definition><localisation>commune de <commune insee="34028" precision="certain">Bédarieux</commune></localisation>.</definition>
+    <forme_ancienne>— <i>campagne Fournier,</i> <date>1851</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>grange et usine Fournier</i>, <date>1809-1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-00442" pg="14">
     <vedette><sm>Bastide,</sm></vedette>
@@ -2357,9 +2363,11 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34226" precision="certain">Quarante</commune></localisation>.</definition>
   </article>
   <article id="DT34-00447" pg="14">
-    <vedette><sm>Bastide (La),</sm> <date>1851</date> ; <sm>la Bâtisse,</sm> <date>1840</date> ;</vedette>
+    <vedette><sm>Bastide (La),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34311" precision="certain">Tourbes</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1851</date></forme_ancienne>
     <forme_ancienne>— <i>Bastida,</i> <date>1210</date> <reference>(reg. cur. Franc. ; H. L. III, pr. c. 222)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>la Bâtisse,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-00448" pg="14">
     <vedette><sm>Bastides,</sm></vedette>
@@ -2478,7 +2486,7 @@
   </article>
   <article id="DT34-00471" pg="15">
     <vedette><sm>Bauton,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>1<sup>er</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>1er canton</typologie>).</definition>
   </article>
   <article id="DT34-00472" pg="15">
     <vedette><sm>Bautugade,</sm></vedette>
@@ -2486,7 +2494,7 @@
     <forme_ancienne>— <i>Botenach,</i> <date>1160</date> <reference>(cart. Anian. 57 v°)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-00473" pg="15">
-    <vedette><sm>Baye,</sm> métairie Calimar,</vedette>
+    <vedette><sm>Baye, métairie Calimar,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-00474" pg="15">
@@ -2594,7 +2602,7 @@
   </article>
   <article id="DT34-00494" pg="15">
     <vedette><sm>Beau-Séjour,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-00495" pg="15">
     <vedette><sm>Beau-Séjour</sm> ou <sm>Métairie Belliol,</sm></vedette>
@@ -2957,7 +2965,7 @@
   </article>
   <article id="DT34-00575" pg="17">
     <vedette><sm>Benoît,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-00576" pg="17">
     <vedette><sm>Benoite,</sm></vedette>
@@ -3268,11 +3276,11 @@
   <article id="DT34-00642" pg="18" type="commune">
     <vedette><sm>Béziers,</sm></vedette>
     <definition><typologie>chef-lieu d’arrondissement</typologie>.</definition>
-    <forme_ancienne>— Βίλτερα et Βλίτερα <reference>(Strab. l. IV)</reference>.</forme_ancienne>
-    <forme_ancienne>— Βαίτερα, <i>ibid.</i> pour Βλίτερα, d’après d’Anville <reference>(not. des Gaul.)</reference>.</forme_ancienne>
-    <forme_ancienne>— Βαιτίραι <reference>(Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
-    <forme_ancienne>— Βητηῤῥάτων <reference>(méd. rapp. par Peiresc et Harlay)</reference>.</forme_ancienne>
-    <forme_ancienne>— Βαίταῤῥα, Βήτεῤῥα, Βηίταῤῥα <reference>(Steph. Byzant.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Βίλτερα et Βλίτερα</i> <reference>(Strab. l. IV)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Βαίτερα</i>, <i>ibid.</i> pour Βλίτερα, d’après d’Anville <reference>(not. des Gaul.)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Βαιτίραι</i> <reference>(Ptol. Geogr. l. II, c. 10)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Βητηῤῥάτων</i> <reference>(méd. rapp. par Peiresc et Harlay)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Βαίταῤῥα, Βήτεῤῥα, Βηίταῤῥα</i> <reference>(Steph. Byzant.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Septumanorum Bæterra</i> <reference>(Mela, l. II, c. 5)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bæterræ</i> <reference>(Mela, l. II, c. 5 et vases du Musée du collége romain)</reference>, d’ou l’inscr. rapp. par Gruter : <i>Sept. Bæt. Septimani Bæterrenses.</i></forme_ancienne>
     <forme_ancienne>— <i>Beterræ, Bliterræ</i> <reference>(Plin. Hist. nat. III, 4)</reference>.</forme_ancienne>
@@ -4531,7 +4539,7 @@
   </article>
   <article id="DT34-00896" pg="25">
     <vedette><sm>Brégines (Les)</sm> ou <sm>les Brézines,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>), <date>1809</date>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>), <date>1809</date>.</definition>
   </article>
   <article id="DT34-00897" pg="25">
     <vedette><sm>Brémont (Grange),</sm></vedette>
@@ -4572,7 +4580,7 @@
   <article id="DT34-00903" pg="26">
     <vedette><sm>Brescou,</sm></vedette>
     <definition><typologie>île et fort</typologie>, <localisation>commune d’<commune insee="34003" precision="certain">Agde</commune></localisation>.</definition>
-    <commentaire><p>— Cette île, avec la montagne de Cette, partage en deux le golfe du Lion. <forme_ancienne2>— Βλάσκων νῆσος <reference>(Strab. Geogr. IV ; Ptolem. Geogr. II, 10)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blascon</i> <reference>(Pline, Hist. nat. III, 5)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blasco insula</i> <reference>(Fest. Avienus, or. maritim. v. 600)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blascorum</i> <reference>(Martian. Capella, VI)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Briscou</i> <reference>(Roger de Howden, ad ann. 1191)</reference></forme_ancienne2>. <renvoi>— Voir notre notice sur les anciennes îles et presqu’îles du départ. Mém. de la Soc. arch. de Montp. I, 453 ; Annuaire de l’Hérault, <date>1842</date>, p. 33 ; Genssane, Hist. nat. de Lang. III, 273 et suiv. Bullet. de la soc. des sc. et bell. lett. de Montp. IV, 14 et suiv. et 475 ; Cellarius, d’Anville, etc.</renvoi></p>
+    <commentaire><p>— Cette île, avec la montagne de Cette, partage en deux le golfe du Lion. <forme_ancienne2>— Βλάσκων νῆσος <reference>(Strab. Geogr. IV ; Ptolem. Geogr. II, 10)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blascon</i> <reference>(Pline, Hist. nat. III, 5)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blasco insula</i> <reference>(Fest. Avienus, or. maritim. v. 600)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Blascorum</i> <reference>(Martian. Capella, VI)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Briscou</i> <reference>(Roger de Howden, ad ann. 1191)</reference></forme_ancienne2>. <renvoi>— Voir notre notice sur les anciennes îles et presqu’îles du départ. Mém. de la Soc. arch. de Montp. I, 453 ; Annuaire de l’Hérault, 1842, p. 33 ; Genssane, Hist. nat. de Lang. III, 273 et suiv. Bullet. de la soc. des sc. et bell. lett. de Montp. IV, 14 et suiv. et 475 ; Cellarius, d’Anville, etc.</renvoi></p>
       <p>L’évêque d’Agde prenait le titre de vicomte de Brescou, <date>1693</date> (év. d’Agde, lett. du viguier d’Aumes).</p></commentaire>
   </article>
   <article id="DT34-00904" pg="26">
@@ -5268,16 +5276,19 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34334" precision="certain">Vieussan</commune></localisation>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-01038" pg="29">
-    <vedette><sm>Cairoche</sm> ou <sm>Lalande,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Cairoche</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Lalande,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01039" pg="29">
     <vedette><sm>Cairol (Mas),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34300" precision="certain">Servian</commune></localisation>.</definition>
   </article>
   <article id="DT34-01040" pg="29">
-    <vedette><sm>Cairou,</sm> <date>1809</date> ; <sm>Cayrou,</sm> <date>1840</date> ;</vedette>
+    <vedette><sm>Cairou,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1809</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Cayrou,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-01041" pg="29">
     <vedette><sm>Cairou,</sm></vedette>
@@ -5443,7 +5454,7 @@
     <forme_ancienne>— <i>Calvaurola,</i> <date>1271</date> <reference>(mss de Colb. H. L. III, pr. c. 402)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-01077" pg="30">
-    <vedette><sm>Calvellum</sm> <i>podium,</i></vedette>
+    <vedette><sm>Calvellum podium,</sm></vedette>
     <definition><typologie>manse</typologie> dans l’<localisation>ancienne paroisse de Montauberon</localisation>, <localisation>près de <commune insee="34172" precision="approximatif">Montpellier</commune></localisation> ; <date>1340</date> <reference>(cart. Mag. B 47)</reference>.</definition>
   </article>
   <article id="DT34-01078" pg="30">
@@ -5552,13 +5563,13 @@
     <commentaire><p><renvoi>— Voy. <sm>Montcamel.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01100" pg="30">
-    <vedette><sm>Cami dé la Mounéda,</sm> <i>chemin de la monnaie,</i></vedette>
+    <vedette><sm>Cami dé la Mounéda,</sm> <sm>chemin de la monnaie,</sm></vedette>
     <definition><typologie>partie de la voie Domitienne</typologie> qui menait du <i>Pons ærarius,</i> sur la rivière du Lez, à <localisation>Substantion</localisation> (itiner. Burdig.).</definition>
     <forme_ancienne>— <i>Via monetæ,</i> par corruption de <i>Via munita seu militaris, lou cami mounit</i> ou <i>munit</i> <reference>(Astruc, mém. sur le Lang. 94 et 210)</reference>.</forme_ancienne>
     <commentaire><p><renvoi>— Voy. <sm>Monnier (Mont).</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-01101" pg="30">
-    <vedette><sm>Cami Roumîou, Cami das Roumîous,</sm> <i>chemin romain, chemin des Romains</i></vedette>
+    <vedette><sm>Cami Roumîou, Cami das Roumîous,</sm> <sm>chemin romain, chemin des Romains</sm></vedette>
     <commentaire><p>— C’est le nom vulgaire que, dans plusieurs communes, notamment depuis Lavérune jusqu’au canton de Florensac, on donne à la <i>voie Domitienne.</i></p></commentaire>
   </article>
   <article id="DT34-01102" pg="30">
@@ -5579,13 +5590,15 @@
     <forme_ancienne>— <i>Hospicium seu mansus de Campo Malo,</i> <date>1351</date> <reference>(cart. Mag. C 329)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-01106" pg="30">
-    <vedette><sm>Cammal,</sm> <date>1840</date> ; <sm>Camal,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Cammal,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34335" precision="certain">Villemagne</commune></localisation>.</definition>
     <forme_ancienne>— <i>Caput de Malles,</i> <date>1185</date> <reference>(Livre noir, 71)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Camal,</i> <date>1809</date> ;</forme_ancienne>
+    <forme_ancienne>— <date>1840</date></forme_ancienne>
   </article>
   <article id="DT34-01107" pg="30">
     <vedette><sm>Camman,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-01108" pg="30">
     <vedette><sm>Camp (Le),</sm></vedette>
@@ -5790,8 +5803,10 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34100" precision="certain">Ferrières</commune></localisation>.</definition>
   </article>
   <article id="DT34-01145" pg="32">
-    <vedette><sm>Campredon,</sm> <date>1856</date> ; <sm>Campedou,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Campredon,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34245" precision="certain">Saint-Chinian</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1856</date> ;</forme_ancienne>
+    <forme_ancienne>— <i>Campedou,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-01146" pg="32">
     <vedette><sm>Campredon,</sm></vedette>
@@ -5830,7 +5845,7 @@
   </article>
   <article id="DT34-01154" pg="32">
     <vedette><sm>Canal (Le)</sm> ou <sm>le Port du Canal,</sm></vedette>
-    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-01155" pg="32">
     <vedette><sm>Canal de Grave,</sm></vedette>
@@ -6375,7 +6390,7 @@
   </article>
   <article id="DT34-01262" pg="35">
     <vedette><sm>Cartarié (La),</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-01263" pg="35">
     <vedette><sm>Carteyrade,</sm></vedette>
@@ -7224,8 +7239,9 @@
     <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="34007" precision="certain">Aigues-Vives</commune></localisation>.</definition>
   </article>
   <article id="DT34-01422" pg="40">
-    <vedette><sm>Cazenove,</sm> ferme <date>1809</date> ; <sm>Cazeneuve,</sm></vedette>
-    <definition><localisation>commune de <commune insee="34297" precision="certain">Sauteyrargues-Lauret-et-Aleyrac</commune></localisation>.</definition>
+    <vedette><sm>Cazenove</sm>, <sm>Cazeneuve,</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34297" precision="certain">Sauteyrargues-Lauret-et-Aleyrac</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1809</date></forme_ancienne>
     <forme_ancienne>— <i>Casanova sive Gordanicum,</i> <date>820</date> <reference>(cart. Anian. 14)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cazeneuve,</i> hameau, <date>1851</date>.</forme_ancienne>
   </article>
@@ -8896,8 +8912,11 @@
     <forme_ancienne>— <i>El mas de Coguilla,</i> <date>1116</date> <reference>(cart. Gell. 85 v°)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-01735" pg="51">
-    <vedette><sm>Coujan,</sm> <date>1856</date> ; <sm>Fabre-Coujan,</sm> <date>1809</date> ; <sm>Caujan,</sm> <date>1840</date> ;</vedette>
+    <vedette><sm>Coujan,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune et canton de <commune insee="34178" precision="approximatif">Murviel</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1856</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Fabre-Coujan,</i> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Caujan,</i> <date>1840</date>.</forme_ancienne>
     <forme_ancienne>— <i>Cojanum,</i> <date>974</date> <reference>(arch. de l’égl. d’Alby ; Marten. Anecd. I, 126)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eccl. de Coj.</i> <date>1194</date> <reference>(Livre noir, 314 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cojan,</i> <date>1529</date>, seigneurie de la viguerie de Béziers <reference>(dom. de Montp. H. L. V, pr. c. 87)</reference>.</forme_ancienne>
@@ -9233,7 +9252,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34066" precision="certain">Cazevieille</commune></localisation>.</definition>
   </article>
   <article id="DT34-01796" pg="53">
-    <vedette><sm>Courtes-Bottes,</sm> <i>métairie</i> <sm>Fabre,</sm></vedette>
+    <vedette><sm>Courtes-Bottes,</sm> <sm>métairie Fabre,</sm></vedette>
     <definition><localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation>, <date>1809</date>.</definition>
     <commentaire><p><renvoi>— Voy. <sm>Montauberon.</sm></renvoi></p></commentaire>
   </article>
@@ -9649,8 +9668,11 @@
     <definition><typologie>villa</typologie> au <localisation>diocèse de Lodève</localisation>, <i>in terminio de villa quæ vocatur Candejamas,</i> <date>996</date> <reference>(cart. Gell. 28)</reference>.</definition>
   </article>
   <article id="DT34-01879" pg="55">
-    <vedette><sm>Curatier,</sm> <date>1856</date> ; <sm>Curatié,</sm> <date>1809</date> ; <sm>Caratier,</sm> <date>1840</date> ;</vedette>
+    <vedette><sm>Curatier,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34226" precision="certain">Quarante</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1856</date>.</forme_ancienne>
+    <forme_ancienne>— <sm>Curatié,</sm> <date>1809</date>.</forme_ancienne>
+    <forme_ancienne>— <sm>Caratier,</sm> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-01880" pg="55">
     <vedette><sm>Cure,</sm></vedette>
@@ -10258,7 +10280,7 @@
   </article>
   <article id="DT34-02017" pg="57">
     <vedette><sm>Doumergue (La)</sm> ou <sm>la Domergue,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02018" pg="57">
     <vedette><sm>Doumergue (La),</sm></vedette>
@@ -10382,7 +10404,7 @@
   </article>
   <article id="DT34-02046" pg="58">
     <vedette><sm>Dupin,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02047" pg="58">
     <vedette><sm>Dupont,</sm></vedette>
@@ -10459,11 +10481,11 @@
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34336" precision="certain">Villeneuve-lez-Béziers</commune></localisation>.</definition>
   </article>
   <article id="DT34-02065" pg="58">
-    <vedette><sm>Écluse</sm> (1<sup>re</sup>),</vedette>
+    <vedette><sm>Écluse (1re),</sm></vedette>
     <definition><typologie>moulin</typologie> sur le canal du Lez, <localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation>, sect. D.</definition>
   </article>
   <article id="DT34-02066" pg="58">
-    <vedette><sm>Écluse du canal de Grave</sm> (1<sup>re</sup>, 2<sup>e</sup>, 3<sup>e</sup>),</vedette>
+    <vedette><sm>Écluse du canal de Grave (1re, 2e, 3e),</sm></vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34129" precision="certain">Lattes</commune></localisation>.</definition>
   </article>
   <article id="DT34-02067" pg="58">
@@ -12228,7 +12250,7 @@
   <article id="DT34-02429" pg="67">
     <vedette><sm>Forum Domitii,</sm></vedette>
     <definition>d’après les anciens itinéraires de <localisation>Bordeaux</localisation> et d’<localisation>Antonin</localisation> et la carte de Peutinger (<i>Forum Domiti,</i> sur des vases du musée du Collége romain), était placé entre <localisation>Substantion</localisation> et <localisation><commune insee="34289" precision="certain">Saint-Thibéry</commune></localisation>.</definition>
-    <commentaire><p>Gariel (Ser. præs. 6) croit qu’il s’agit de Murviel ou plutôt de Fabrègues. Catel (Recherches sur l’histoire du Lang. 333) ne sait s’il faut se décider entre Fabrègues, Murviel ou Frontignan. De Valois (Not. Gall. verb. <i>Forum Domitii</i>) se détermine pour Frontignan. L’abbé Baudran (Dict. géogr. franç.) place ce <i>Forum</i> à Fabrègues ; mais dans son dictionnaire latin il adopte Frontignan. Les Bénédictins (Hist. de Lang. I, 41, 60, 601 ; V, 662) combattent l’opinion de Gariel et préfèrent, avec de Valois et avec l’abbé Baudran, Frontignan. D’Aigrefeuille (Hist. de Montpellier, disc. prélim. <sm>xxvii</sm>) met le <i>Forum Domitii</i> à Poussan. L’abbé Expilly (Dict. géogr. v° <i>Gaules</i>) indique Valmagne, c’est-à-dire Villeveyrac ; Astruc (Mém. sur le Lang. 112) suit la même indication. De Plantade (Soc. roy. des sc. de Montp. II, 68) établit ce <i>Forum</i> sur des ruines romaines qu’il découvrit à 1 kilomètre à l’orient de Fabrègues. Mais on doit à Jean-Pierre-Thomas, oncle de l’auteur de ce dictionnaire, la découverte du véritable emplacement du <i>Forum Domitii</i> à Montbazin <renvoi>(voy. son Mém. dans l’Annuaire de l’Hérault de <date>1820</date> et dans les Mém. hist. sur Montpellier et le départ. de l’Hérault, publ. en <date>1827</date> (Montpellier, in-8°).</renvoi></p></commentaire>
+    <commentaire><p>Gariel (Ser. præs. 6) croit qu’il s’agit de Murviel ou plutôt de Fabrègues. Catel (Recherches sur l’histoire du Lang. 333) ne sait s’il faut se décider entre Fabrègues, Murviel ou Frontignan. De Valois (Not. Gall. verb. <i>Forum Domitii</i>) se détermine pour Frontignan. L’abbé Baudran (Dict. géogr. franç.) place ce <i>Forum</i> à Fabrègues ; mais dans son dictionnaire latin il adopte Frontignan. Les Bénédictins (Hist. de Lang. I, 41, 60, 601 ; V, 662) combattent l’opinion de Gariel et préfèrent, avec de Valois et avec l’abbé Baudran, Frontignan. D’Aigrefeuille (Hist. de Montpellier, disc. prélim. <sm>xxvii</sm>) met le <i>Forum Domitii</i> à Poussan. L’abbé Expilly (Dict. géogr. v° <i>Gaules</i>) indique Valmagne, c’est-à-dire Villeveyrac ; Astruc (Mém. sur le Lang. 112) suit la même indication. De Plantade (Soc. roy. des sc. de Montp. II, 68) établit ce <i>Forum</i> sur des ruines romaines qu’il découvrit à 1 kilomètre à l’orient de Fabrègues. Mais on doit à Jean-Pierre-Thomas, oncle de l’auteur de ce dictionnaire, la découverte du véritable emplacement du <i>Forum Domitii</i> à Montbazin <renvoi>(voy. son Mém. dans l’Annuaire de l’Hérault de 1820 et dans les Mém. hist. sur Montpellier et le départ. de l’Hérault, publ. en 1827 (Montpellier, in-8°).</renvoi></p></commentaire>
   </article>
   <article id="DT34-02430" pg="67">
     <vedette><sm>Forum Neronis.</sm></vedette>
@@ -12825,7 +12847,7 @@
   </article>
   <article id="DT34-02534" pg="71">
     <vedette><sm>Gailhac,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>) ; <sm>la Gaillague,</sm> <typologie>jardin et métairie</typologie>, <date>1809</date>.</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>) ; la Gaillague, <typologie>jardin et métairie</typologie>, <date>1809</date>.</definition>
   </article>
   <article id="DT34-02535" pg="71">
     <vedette><sm>Gaillague (La),</sm></vedette>
@@ -12847,7 +12869,7 @@
   </article>
   <article id="DT34-02539" pg="71">
     <vedette><sm>Gal,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02540" pg="71">
     <vedette><sm>Galabert,</sm></vedette>
@@ -12883,7 +12905,7 @@
   </article>
   <article id="DT34-02547" pg="71">
     <vedette><sm>Galiberte,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02548" pg="71">
     <vedette><sm>Galière (Mas),</sm></vedette>
@@ -13014,7 +13036,7 @@
   </article>
   <article id="DT34-02570" pg="72">
     <vedette><sm>Gargailhan,</sm></vedette>
-    <definition><typologie>jardin et ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin et ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02571" pg="72">
     <vedette><sm>Gargne (La),</sm></vedette>
@@ -13320,7 +13342,7 @@
   </article>
   <article id="DT34-02633" pg="74">
     <vedette><sm>Gayonne (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02634" pg="74">
     <vedette><sm>Gayraud,</sm></vedette>
@@ -13336,7 +13358,7 @@
   </article>
   <article id="DT34-02637" pg="74">
     <vedette><sm>Gaz (Usine à),</sm></vedette>
-    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02638" pg="74">
     <vedette><sm>Gaz (Usine à),</sm></vedette>
@@ -13352,7 +13374,7 @@
   </article>
   <article id="DT34-02641" pg="74">
     <vedette><sm>Gèdre</sm> ou <sm>Grand-Gèdre,</sm></vedette>
-    <definition><typologie>sommet</typologie> élevé de 227 mètres au-dessus de la mer et dépendant du système du Salagou, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l</commune>’<commune insee="34079" precision="approximatif">Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
+    <definition><typologie>sommet</typologie> élevé de 227 mètres au-dessus de la mer et dépendant du système du Salagou, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l’Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
   </article>
   <article id="DT34-02642" pg="74">
     <vedette><sm>Gellone,</sm></vedette>
@@ -13563,7 +13585,7 @@
   </article>
   <article id="DT34-02680" pg="76">
     <vedette><sm>Ginieisse (La),</sm> <sm>Giniesse,</sm> <sm>Genieise,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
     <forme_ancienne>— <i>Genieise,</i> <date>1809</date>.</forme_ancienne>
     <forme_ancienne>— <i>Giniesse,</i> <date>1840</date>.</forme_ancienne>
     <forme_ancienne>— <i>La Ginieisse,</i> <date>1856</date>.</forme_ancienne>
@@ -13789,7 +13811,7 @@
   </article>
   <article id="DT34-02729" pg="77">
     <vedette><sm>Gourgasse,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-02730" pg="77">
     <vedette><sm>Gourgazeau,</sm> <sm>Gourgazaut,</sm></vedette>
@@ -15122,7 +15144,7 @@
     <commentaire><p><renvoi>— Voy. <sm>Chatunian.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03029" pg="85">
-    <vedette><sm>Kamanellum,</sm> <i>Villar.</i></vedette>
+    <vedette><sm>Kamanellum,</sm> Villar.</vedette>
     <commentaire><p><renvoi>— Voy. <sm>Ramanella.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03030" pg="85">
@@ -15163,7 +15185,7 @@
     <forme_ancienne>— <i>In valle de Gorgatio</i> (la vallée de Saint-Étienne-de-Gourgas) <i>in loco vocato Labellaria,</i> <date>1303</date> <reference>(Plant. chron. præs. Lod. 257)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-03039" pg="85">
-    <vedette><sm>Labeuradou</sm> ou <sm>Labeouradou</sm> <sm>(<i>l’Abreuvoir</i>),</sm></vedette>
+    <vedette><sm>Labeuradou</sm> ou <sm>Labeouradou</sm> <sm>(l’Abreuvoir),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34097" precision="certain">Félines-Hautpoul</commune></localisation>.</definition>
   </article>
   <article id="DT34-03040" pg="85" type="commune">
@@ -15625,8 +15647,9 @@
     <definition><localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation>, sect. G.</definition>
   </article>
   <article id="DT34-03140" pg="88">
-    <vedette><sm>Lassoubs,</sm> <date>1856</date> ; <sm>Rassoups,</sm></vedette>
+    <vedette><sm>Lassoubs,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de la <commune insee="34293" precision="certain">Salvetat</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1856</date>.</forme_ancienne>
     <forme_ancienne>— <i>La Soux,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Rassoups,</i> <date>1809</date>.</forme_ancienne>
     <forme_ancienne>— <i>Lassoubs,</i> <date>1856</date></forme_ancienne>
@@ -15707,7 +15730,7 @@
   </article>
   <article id="DT34-03155" pg="90">
     <vedette><sm>Lauberne,</sm></vedette>
-    <definition><typologie>sommet</typologie> d’un chaînon du système du <localisation>Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l</commune>’<commune insee="34079" precision="approximatif">Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation> ; élévation : 340 mètres au-dessus du niveau de la mer.</definition>
+    <definition><typologie>sommet</typologie> d’un chaînon du système du <localisation>Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l’Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation> ; élévation : 340 mètres au-dessus du niveau de la mer.</definition>
   </article>
   <article id="DT34-03156" pg="90">
     <vedette><sm>Laucel,</sm></vedette>
@@ -16164,7 +16187,7 @@
   <article id="DT34-03241" pg="92">
     <vedette><sm>Lergue (La),</sm></vedette>
     <definition><typologie>rivière</typologie> qui prend sa source aux <localisation><commune insee="34230" precision="approximatif">Rives</commune></localisation>, <localisation>près du <commune insee="34064" precision="approximatif">Caylar</commune></localisation>.</definition>
-    <commentaire><p>Son cours est de 38 kilomètres. Elle arrose trente-deux hectares, fait mouvoir vingt-quatre usines et se jette dans l’Hérault. La Lergue passe sur les territoires des communes des Rives, de Saint-Félix-de-l’Héras, Pégairolles, Soubès, Poujols, Fozières, Soumont, Lodève, Olmet-et-Villecun, du Puech, du Bosc, de Lacoste, de Clermont, Ceyras, Brignac, Saint-André. <forme_ancienne2>— <i>Fluvius Lirge,</i> <date>934</date> <reference>(cart. Gell. 74 v°)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Flumen quod vocatur <pg>93</pg>Lerga,</i> <date>1008</date> <reference>(cart. Gell. 14)</reference></forme_ancienne2>. — On estime l’étendue de la vallée secondaire de la Lergue à 4 myriamètres 9 kilomètres. — Il n’est pas superflu de dire que plusieurs écrivent à tort <i>l’Ergue.</i> <renvoi>— Voy. la Statistique de l’Hérault, <date>1824</date>.</renvoi></p></commentaire>
+    <commentaire><p>Son cours est de 38 kilomètres. Elle arrose trente-deux hectares, fait mouvoir vingt-quatre usines et se jette dans l’Hérault. La Lergue passe sur les territoires des communes des Rives, de Saint-Félix-de-l’Héras, Pégairolles, Soubès, Poujols, Fozières, Soumont, Lodève, Olmet-et-Villecun, du Puech, du Bosc, de Lacoste, de Clermont, Ceyras, Brignac, Saint-André. <forme_ancienne2>— <i>Fluvius Lirge,</i> <date>934</date> <reference>(cart. Gell. 74 v°)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Flumen quod vocatur <pg>93</pg>Lerga,</i> <date>1008</date> <reference>(cart. Gell. 14)</reference></forme_ancienne2>. — On estime l’étendue de la vallée secondaire de la Lergue à 4 myriamètres 9 kilomètres. — Il n’est pas superflu de dire que plusieurs écrivent à tort <i>l’Ergue.</i> <renvoi>— Voy. la Statistique de l’Hérault, 1824.</renvoi></p></commentaire>
   </article>
   <article id="DT34-03242" pg="93">
     <vedette><sm>Lescau,</sm></vedette>
@@ -16368,7 +16391,7 @@
   </article>
   <article id="DT34-03275" pg="95">
     <vedette><sm>Lieuzède,</sm></vedette>
-    <definition><typologie>montagne, chaînon</typologie> du système du Salagou, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l</commune>’<commune insee="34079" precision="approximatif">Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
+    <definition><typologie>montagne, chaînon</typologie> du système du Salagou, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l’Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
     <commentaire><p>Le sommet du Lieuzède a 367 mètres d’élévation.</p></commentaire>
   </article>
   <article id="DT34-03276" pg="95">
@@ -17347,8 +17370,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34284" precision="certain">Saint-Pons</commune></localisation>.</definition>
   </article>
   <article id="DT34-03452" pg="105">
-    <vedette><sm>Marche (La),</sm> <date>1856</date> ; <sm>Lamarche,</sm> <date>1840</date> ;</vedette>
+    <vedette><sm>Marche (La),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34147" precision="certain">Magalas</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1856</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Lamarche,</i> <date>1840</date>.</forme_ancienne>
   </article>
   <article id="DT34-03453" pg="105">
     <vedette><sm>Março,</sm></vedette>
@@ -18304,7 +18329,7 @@
   </article>
   <article id="DT34-03644" pg="112">
     <vedette><sm>Mazel,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-03645" pg="112">
     <vedette><sm>Mazelet (Le),</sm></vedette>
@@ -18784,7 +18809,7 @@
     <vedette><sm>Minerve,</sm></vedette>
     <definition><localisation>canton d’<commune insee="34189" precision="approximatif">Olonzac</commune></localisation>.</definition>
     <commentaire><p>— Anc. château dans le dioc. de Saint-Pons, qui a donné son nom au pays de <i>Minervois.</i> <forme_ancienne2>— <i>Castrum Menerba, kastrum, castellum Minerba,</i> <date>873</date> <reference>(abb. de Caunes ; H. L. I, pr. cc. 124 et 125)</reference></forme_ancienne2> ; <forme_ancienne2><date>1002</date> <reference>(chât. de Foix ; H. L. I, pr. c. 160)</reference></forme_ancienne2> ; <forme_ancienne2><date>1095</date> <reference>(cart. eccl. Narb. H. L. I, pr. c. 340)</reference></forme_ancienne2> ; <forme_ancienne2><date>1126</date> <reference>(cart. de Foix ; H. L. I, pr. c. 443)</reference></forme_ancienne2> ; <forme_ancienne2><date>1145</date> <reference>(cart. eccl. Narbon. H. L. I, pr. c. 509)</reference></forme_ancienne2> ; <forme_ancienne2><date>1165</date> <reference>(H. L. I, pr. cc. 604, 605)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Castrum, castell. de Minerva,</i> <date>1161</date> <reference>(chât. de Foix ; H. L. I, pr. c. 579)</reference></forme_ancienne2> ; <forme_ancienne2><date>1210</date> <reference>(Chron. de la guerre des Albigeois ; H. L. III, pr. c. 25)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Minerbe,</i> <date>1583</date> <reference>(H. L. V, pr. c. 284)</reference></forme_ancienne2> ; <forme_ancienne2><date>1625</date> <reference>(pouillé)</reference></forme_ancienne2> ; <forme_ancienne2><date>1649</date> <reference>(pouillé)</reference></forme_ancienne2> ; <forme_ancienne2><date>1688</date> <reference>(lett. du gr. sc.)</reference></forme_ancienne2> ; <forme_ancienne2><date>1641</date> <reference>(arch. de Minerve, reg. des naissances)</reference></forme_ancienne2> ; <forme_ancienne2><date>1703</date> <reference>(arch. de Minerve, Livre terrier)</reference></forme_ancienne2>. — La plupart des documents anciens des archives communales écrivent également <i>Minerbe.</i> <forme_ancienne2>— Toutefois on lit <i>Minerve,</i> <date>1700</date> <reference>(reg. des naissances)</reference></forme_ancienne2> ; <forme_ancienne2><date>1703</date> <reference>(terr. de Minerve ; tabl. des anc. dioc. carte de Cassini ; carte diocés.)</reference></forme_ancienne2>.</p>
-      <p>Église de Minerve. — Un autel de marbre qu’on voit dans l’église de cette commune porte cette inscription dans son épaisseur : ☩ <forme_ancienne2><i>Rusticus anno <sm>xxx</sm> episcopatus F. F.</i> c’est-à-dire <date>460</date> <reference>(G. christ. VI, inst. c. 9)</reference></forme_ancienne2>. <forme_ancienne2>— <i>S. Maria, S. Protomartyr Stephanus ac S. Michael Minervæ,</i> <date>1135</date> <reference>(2<sup>e</sup> cart. de la cath. de Narbonne, H. L. II, pr. c. 480)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Eccl. S. Steph. de Minerba,</i> <date>1165</date> <reference>(2<sup>e</sup> cart. de la cath. de Narbonne, H. L. II, pr. c. 605)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Cure de Saint-Étienne à Minerbe,</i> <date>1760</date> <reference>(pouillé)</reference></forme_ancienne2>.</p>
+      <p>Église de Minerve. — Un autel de marbre qu’on voit dans l’église de cette commune porte cette inscription dans son épaisseur : ☩ <forme_ancienne2><i>Rusticus anno XXX episcopatus F. F.</i> c’est-à-dire <date>460</date> <reference>(G. christ. VI, inst. c. 9)</reference></forme_ancienne2>. <forme_ancienne2>— <i>S. Maria, S. Protomartyr Stephanus ac S. Michael Minervæ,</i> <date>1135</date> <reference>(2<sup>e</sup> cart. de la cath. de Narbonne, H. L. II, pr. c. 480)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Eccl. S. Steph. de Minerba,</i> <date>1165</date> <reference>(2<sup>e</sup> cart. de la cath. de Narbonne, H. L. II, pr. c. 605)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Cure de Saint-Étienne à Minerbe,</i> <date>1760</date> <reference>(pouillé)</reference></forme_ancienne2>.</p>
       <p>Pays de Minervois. — Il était situé partie dans le diocèse de Narbonne, partie dans le dioc. de Saint-Pons. <forme_ancienne2>— <i>Suburbium, pagus Minerbensis,</i> <date>843</date> <reference>(bibl. roy. Baluz. ch. des R. H. L. I, pr. c. 78)</reference></forme_ancienne2> ; <forme_ancienne2><date>873</date> <reference>(abb. de Caunes ; Mabill. Diplom. 543)</reference></forme_ancienne2> ; <forme_ancienne2><date>877</date> <reference>(abb. de Caunes ; H. L. I, pr. c. 124)</reference></forme_ancienne2> ; <forme_ancienne2><date>899</date> <reference>(égl. de Narb. Martène, Anecd. I, 58)</reference></forme_ancienne2> ; <forme_ancienne2><date>1118</date> <reference>(dom. de Montp. H. L. I, pr. c. 403)</reference></forme_ancienne2> ; <forme_ancienne2><date>1146</date> <reference>(chât. de Foix, H. L. I, pr. c. 518)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Minervensis,</i> <date>1161</date> <reference>(H. L. I, pr. c. 579)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Menerbez,</i> <date>1068</date> <reference>(arch. de Barcelone ; Marca Hispan. 1134)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Minerbesium,</i> <date>1110</date> <reference>(abb. de la Grasse, H. L. II, pr. c. 375)</reference></forme_ancienne2>.</p>
       <p>Comté et vicomté. <forme_ancienne2>— <i>Alodium de Menerbense,</i> <date>1005</date> <reference>(arch. de l’égl. de Narb. H. L. II, pr. c. 163)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Comitatus Menerb.</i> <date>1068</date>, <date>1070</date>, <date>1071</date>, etc. <reference>(arch. de Barcelone ; Marca Hispan. 1137, 1153, 1154)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Vicecomes de Minerba,</i> <date>1103</date> <reference>(cart. de l’égl. de Saint-Pons ; H. L. II, pr. c. 365)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Minerbesius vicecomitatus,</i> <date>1110</date> <reference>(abb. de la Grasse ; H. L. II, pr. c. 375)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Vicecomes Minerbensis vel Minervensis,</i> <date>1125</date> <reference>(H. L. II, pr. c. 433)</reference></forme_ancienne2> ; <forme_ancienne2><date>1146</date>, <date>1161</date> <reference>(chât. de Foix, H. L. II, pr. cc. 518, 579, etc.)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Vicecomes Minerve,</i> <date>1135</date> <reference>(2<sup>e</sup> cart. de la cath. de Narb. H. L. II, pr. c. 479)</reference></forme_ancienne2>.</p>
       <p>D’après le dom. de Montp. la <i>viguerie de Minervois,</i> en la sénéch. de Carcassonne, contenait 2,371 feux en <date>1370</date> (H. L. IV, pr. c. 304) ; on n’y en comptait que 972 en <date>1387</date> et en <date>1388</date> (H. L. IV, pr. c. 305). <forme_ancienne2>— <i>Viguerye de Minerboix,</i> <date>1608</date> <reference>(arch. d’Olonzac, Livre terrier)</reference></forme_ancienne2>.</p>
@@ -18829,7 +18854,7 @@
   </article>
   <article id="DT34-03753" pg="115">
     <vedette><sm>Miquelle (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-03754" pg="115">
     <vedette><sm>Miquelle (La),</sm></vedette>
@@ -19407,7 +19432,7 @@
     <forme_ancienne><date>1240</date> <reference>(Arn. de Verd. ap. d’Aigrefeuille, II, 441)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1243</date>, <date>1245</date> <reference>(cart. Magal. E 217 et 241)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mansus vocatus Cremat de Podioferrario,</i> <date>1332</date> <reference>(cart. Magal. E 311)</reference>.</forme_ancienne>
-    <forme_ancienne>— Seigneurie, <date>1455</date> <reference>(dom. de Montp. H. L. V, pr. c. 16)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Seigneurie,</i> <date>1455</date> <reference>(dom. de Montp. H. L. V, pr. c. 16)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Montferrier,</i> dans la baronnie de <pg>121</pg>Montpellier, <date>1625</date> <reference>(pouillé)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1649</date> <reference>(pouillé)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1684</date> <reference>(pouillé)</reference> ;</forme_ancienne>
@@ -19500,7 +19525,7 @@
     <forme_ancienne>— <i>Parrochia de M.</i> <date>1292</date> <reference>(cart. Magal. D 101)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Prior de M.</i> <date>1323</date> <reference>(rôle des dîm. des égl. du dioc. de Béziers)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Montolieu,</i> <date>1341</date> <reference>(Libr. de memor.)</reference>.</forme_ancienne>
-    <forme_ancienne>— Seigneurie, <date>1455</date> <reference>(dom. de Montp. H. L. V, pr. c. 15)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Seigneurie,</i> <date>1455</date> <reference>(dom. de Montp. H. L. V, pr. c. 15)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Montolieu</i> et <i>Montaulieu,</i> <date>1527</date> <reference>(pouillé)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1673</date> <reference>(réformation des bois, 20)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1688</date> <reference>(lett. du gr. sceau)</reference> ;</forme_ancienne>
@@ -20093,7 +20118,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34129" precision="certain">Lattes</commune></localisation>.</definition>
   </article>
   <article id="DT34-03978" pg="128">
-    <vedette><sm>Moulinier,</sm> <i>grange de Pioch,</i>&gt;</vedette>
+    <vedette><sm>Moulinier,grange de Pioch,</sm></vedette>
     <definition> <typologie>ferme</typologie>, <localisation>commune de <commune insee="34103" precision="certain">Fontès</commune></localisation>.</definition>
   </article>
   <article id="DT34-03979" pg="128">
@@ -20147,8 +20172,10 @@
     <commentaire><p><renvoi>— Voy. <sm>Cami de la Mounéda.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-03989" pg="128">
-    <vedette><sm>Mounio</sm> ; <sm>Mougno,</sm> <date>1840</date> ; <sm>Monier,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Mounio</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34237" precision="certain">Roujan</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Mougno,</i> <date>1840</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Monier,</i> <date>1809</date> ;</forme_ancienne>
     <forme_ancienne>— <i>Eccl. parrochialis de villa Munioni,</i> <date>990</date> <reference>(arch. de S<sup>t</sup>-Paul de Narb. Martène, Anecd. I, 101)</reference>.</forme_ancienne>
     <commentaire><p>— Cassini avait écrit <i>Monier,</i> comme fait le recensement de <date>1809</date>.</p></commentaire>
   </article>
@@ -20508,7 +20535,7 @@
   </article>
   <article id="DT34-04045" pg="131">
     <vedette><sm>Narbonne (Pont de),</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> section</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e section</typologie>).</definition>
   </article>
   <article id="DT34-04046" pg="131">
     <vedette><sm>Narbonne (Route de),</sm></vedette>
@@ -20574,8 +20601,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34284" precision="certain">Saint-Pons</commune></localisation>.</definition>
   </article>
   <article id="DT34-04058" pg="131">
-    <vedette><sm>Naves</sm> ; <sm>Mas Navas,</sm> <date>1841</date> ; <sm>Nabes,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Naves</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34175" precision="certain">Mourèze</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Mas Navas,</i> <date>1841</date>.</forme_ancienne>
+    <forme_ancienne>— <i>Nabes,</i> <date>1809</date>.</forme_ancienne>
     <forme_ancienne>— <i>Naves,</i> <date>1210</date> <reference>(bibl. reg. G. christ. VI, inst. c. 284 ; Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Villa de Nave,</i> <date>1213</date> <reference>(cart. Anian. 48)</reference>.</forme_ancienne>
   </article>
@@ -20595,7 +20624,7 @@
   </article>
   <article id="DT34-04062" pg="131">
     <vedette><sm>Naviteau,</sm></vedette>
-    <definition><typologie>moulin</typologie> sur le Lez, présentement <sm>Bonnier,</sm> <localisation>commune de <commune insee="34057" precision="certain">Castelnau</commune></localisation>.</definition>
+    <definition><typologie>moulin</typologie> sur le Lez, présentement Bonnier, <localisation>commune de <commune insee="34057" precision="certain">Castelnau</commune></localisation>.</definition>
     <forme_ancienne>— <i>Navitaux,</i> <date>1696</date> <reference>(affranch. reg. VII, 124 v°)</reference>.</forme_ancienne>
     <commentaire><p>— Les cartes de Cassini et du diocèse de Montpellier portent <i>Moulin d’Inhabitau.</i></p></commentaire>
   </article>
@@ -20851,7 +20880,7 @@
   </article>
   <article id="DT34-04106" pg="134">
     <vedette><sm>Notre-Dame,</sm></vedette>
-    <definition><typologie>jardin et ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin et ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-04107" pg="134">
     <vedette><sm>Notre-Dame-d’Aix ou des Eaux,</sm></vedette>
@@ -21368,7 +21397,7 @@
   </article>
   <article id="DT34-04199" pg="137">
     <vedette><sm>Orb (L’),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à l’est et <localisation>au-dessus de Mézérens</localisation>, <localisation>commune de <commune insee="34231" precision="approximatif">Romiguières</commune></localisation>, court, dans l’<localisation>arrondissement de <commune insee="34142" precision="approximatif">Lodève</commune></localisation>, sur les <localisation>territoires de <commune insee="34231" precision="approximatif">Romiguières</commune>, <commune insee="34233" precision="approximatif">Roqueredonde</commune>, <commune insee="34019" precision="approximatif">Avène</commune>, <commune insee="34121" precision="approximatif">Joncels</commune>, <commune insee="34144" precision="approximatif">Lunas</commune>, <commune insee="34093" precision="approximatif">Dio</commune> et Valquières</localisation>, et fait mouvoir dans cet arrondissement neuf moulins ou usines, pénètre dans l’<localisation>arrondissement de <commune insee="34032" precision="approximatif">Béziers</commune></localisation>, entre les <localisation>cantons de <commune insee="34260" precision="approximatif">Saint-Gervais</commune> et de <commune insee="34028" precision="approximatif">Bédarieux</commune></localisation>, et serpente sur les <localisation>communes de <commune insee="34049" precision="approximatif">Camplong</commune>, <commune insee="34312" precision="approximatif">Boussagues</commune>, <commune insee="34028" precision="approximatif">Bédarieux</commune>, Mourcairol, <commune insee="34119" precision="approximatif">Hérépian</commune>, le <commune insee="34211" precision="approximatif">Poujol</commune></localisation>, où elle quitte cet arrondissement pour passer dans celui de <localisation>Saint-Pons</localisation> : elle y traverse <localisation><commune insee="34080" precision="approximatif">Colombières</commune></localisation>, <localisation><commune insee="34273" precision="approximatif">Saint-Martin-de-l</commune>’<commune insee="34273" precision="approximatif">Arçon</commune></localisation>, <localisation><commune insee="34160" precision="approximatif">Mons</commune></localisation>, <localisation><commune insee="34334" precision="approximatif">Vieussan</commune></localisation>, <localisation><commune insee="34232" precision="approximatif">Roquebrun</commune></localisation>, <localisation><commune insee="34074" precision="approximatif">Cessenon</commune></localisation>, et y fait marcher dix usines ; enfin, elle rentre dans l’<localisation>arrondissement de <commune insee="34032" precision="approximatif">Béziers</commune></localisation>, court sur les <localisation>territoires de <commune insee="34178" precision="approximatif">Murviel</commune>, <commune insee="34310" precision="approximatif">Thézan</commune>, <commune insee="34069" precision="approximatif">Cazouls-lez-Béziers</commune>, <commune insee="34140" precision="approximatif">Lignan</commune>, <commune insee="34148" precision="approximatif">Maraussan</commune>, <commune insee="34032" precision="approximatif">Béziers</commune>, <commune insee="34298" precision="approximatif">Sauvian</commune>, <commune insee="34299" precision="approximatif">Sérignan</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à l’est et <localisation>au-dessus de Mézérens</localisation>, <localisation>commune de <commune insee="34231" precision="approximatif">Romiguières</commune></localisation>, court, dans l’<localisation>arrondissement de <commune insee="34142" precision="approximatif">Lodève</commune></localisation>, sur les <localisation>territoires de <commune insee="34231" precision="approximatif">Romiguières</commune>, <commune insee="34233" precision="approximatif">Roqueredonde</commune>, <commune insee="34019" precision="approximatif">Avène</commune>, <commune insee="34121" precision="approximatif">Joncels</commune>, <commune insee="34144" precision="approximatif">Lunas</commune>, <commune insee="34093" precision="approximatif">Dio</commune> et Valquières</localisation>, et fait mouvoir dans cet arrondissement neuf moulins ou usines, pénètre dans l’<localisation>arrondissement de <commune insee="34032" precision="approximatif">Béziers</commune></localisation>, entre les <localisation>cantons de <commune insee="34260" precision="approximatif">Saint-Gervais</commune> et de <commune insee="34028" precision="approximatif">Bédarieux</commune></localisation>, et serpente sur les <localisation>communes de <commune insee="34049" precision="approximatif">Camplong</commune>, <commune insee="34312" precision="approximatif">Boussagues</commune>, <commune insee="34028" precision="approximatif">Bédarieux</commune>, Mourcairol, <commune insee="34119" precision="approximatif">Hérépian</commune>, le <commune insee="34211" precision="approximatif">Poujol</commune></localisation>, où elle quitte cet arrondissement pour passer dans celui de <localisation>Saint-Pons</localisation> : elle y traverse <localisation><commune insee="34080" precision="approximatif">Colombières</commune></localisation>, <localisation><commune insee="34273" precision="approximatif">Saint-Martin-de-l’Arçon</commune></localisation>, <localisation><commune insee="34160" precision="approximatif">Mons</commune></localisation>, <localisation><commune insee="34334" precision="approximatif">Vieussan</commune></localisation>, <localisation><commune insee="34232" precision="approximatif">Roquebrun</commune></localisation>, <localisation><commune insee="34074" precision="approximatif">Cessenon</commune></localisation>, et y fait marcher dix usines ; enfin, elle rentre dans l’<localisation>arrondissement de <commune insee="34032" precision="approximatif">Béziers</commune></localisation>, court sur les <localisation>territoires de <commune insee="34178" precision="approximatif">Murviel</commune>, <commune insee="34310" precision="approximatif">Thézan</commune>, <commune insee="34069" precision="approximatif">Cazouls-lez-Béziers</commune>, <commune insee="34140" precision="approximatif">Lignan</commune>, <commune insee="34148" precision="approximatif">Maraussan</commune>, <commune insee="34032" precision="approximatif">Béziers</commune>, <commune insee="34298" precision="approximatif">Sauvian</commune>, <commune insee="34299" precision="approximatif">Sérignan</commune></localisation>.</definition>
     <commentaire><p>On compte trente-quatre usines sur cette rivière dans l’arrondissement de Béziers. — L’Orb arrose deux cent dix hectares, parcourt 117 kilomètres et se jette dans la Méditerranée par le <i>Grau de Sérignan.</i> <renvoi>— Voy. <sm>Bagnols, Carlet, Saint-Pierre-d’Apoul.</sm></renvoi></p>
       <p>Cette rivière séparait les anciens diocèses de Narbonne et de Béziers. La vallée de l’Orb, dirigée du nord au sud comme la rivière, a une étendue de sept myriamètres.</p>
       <p><forme_ancienne2><i>Orbis</i> <reference>(Mela l. II, c. 5)</reference></forme_ancienne2> ; <forme_ancienne2><date>1106</date> <reference>(Livre noir, 75 v°)</reference></forme_ancienne2>. <forme_ancienne2>— Ὀρόϐις <reference>(Ptol. Geogr. l. II, c. 10)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Orobis</i> <reference>(Fest. Avien. Or. marit. v. 591)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Orobs</i> <reference>(Anonym. Raven. l. IV, § 28)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Orbus,</i> <date>791</date> <reference>(Concil. Narb.)</reference></forme_ancienne2> ; <forme_ancienne2><date>1178</date>, <date>1185</date> <reference>(Concil. Narb. 21 v° et 70 v°)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Orp,</i> <date>1694</date> <reference>(affranch. reg. II, 180)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Orb,</i> <date>1471</date> <reference>(arch. de Béziers ; lett. pat.)</reference></forme_ancienne2> ; <forme_ancienne2><date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(carte de Cassini ; carte diocés. et tous les documents modernes)</reference></forme_ancienne2>.</p></commentaire>
@@ -21834,7 +21863,7 @@
   </article>
   <article id="DT34-04291" pg="140">
     <vedette><sm>Pasquière (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> sect.</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e sect.</typologie>).</definition>
   </article>
   <article id="DT34-04292" pg="140">
     <vedette><sm>Passero,</sm></vedette>
@@ -22036,8 +22065,9 @@
     <forme_ancienne>— <i>Prieuré de Peillan et Montels,</i> <date>1760</date> <reference>(pouillé)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04328" pg="142">
-    <vedette><sm>Peilhes (Las)</sm> ; <sm>Pile,</sm> <date>1841</date> ;</vedette>
+    <vedette><sm>Peilhes (Las)</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34281" precision="certain">Saint-Pargoire</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Pile,</i> <date>1841</date>.</forme_ancienne>
   </article>
   <article id="DT34-04329" pg="142">
     <vedette><sm>Peillé (Mas),</sm></vedette>
@@ -22403,9 +22433,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de la <commune insee="34293" precision="certain">Salvetat</commune></localisation>.</definition>
   </article>
   <article id="DT34-04397" pg="143">
-    <vedette><sm>Peyremale</sm> ; <sm>Peyromalles,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Peyremale</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34257" precision="certain">Saint-Geniès-de-Varensal</commune></localisation>.</definition>
     <forme_ancienne>— <i>Peyremale</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Peyromalles,</i> <date>1809</date>.</forme_ancienne>
   </article>
   <article id="DT34-04398" pg="143">
     <vedette><sm>Peyremale (Col de),</sm></vedette>
@@ -23267,7 +23298,7 @@
   </article>
   <article id="DT34-04556" pg="148">
     <vedette><sm>Pont-Rouge,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
     <forme_ancienne>— <i>Pont-Rouge</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04557" pg="148">
@@ -23293,7 +23324,7 @@
   </article>
   <article id="DT34-04561" pg="148">
     <vedette><sm>Pontil (Le),</sm></vedette>
-    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-04562" pg="148" type="commune">
     <vedette><sm>Popian,</sm></vedette>
@@ -23642,7 +23673,7 @@
   </article>
   <article id="DT34-04615" pg="151">
     <vedette><sm>Poussan-le-Haut,</sm></vedette>
-    <definition><typologie>ferme et jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme et jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-04616" pg="152">
     <pg>152</pg>
@@ -24311,8 +24342,9 @@
     <commentaire><p>— D’Aigrefeuille, <i>loc. cit.</i> écrit <i>Puy-Mejan.</i></p></commentaire>
   </article>
   <article id="DT34-04736" pg="155">
-    <vedette><sm>Puech-Redoun, Puech-Redon,</sm> <date>1809</date> ;</vedette>
+    <vedette><sm>Puech-Redoun,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34279" precision="certain">Saint-Nazaire-de-Ladarez</commune></localisation>.</definition>
+    <forme_ancienne>— <i>Puech-Redon,</i> <date>1809</date>.</forme_ancienne>
     <forme_ancienne>— <i>Locus de Poio rodundo,</i> <date>vers 1031</date> <reference>(cart. Gell. 27 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Puech-Redon,</i> <date>1673</date> <reference>(réform. des bois, 58)</reference>.</forme_ancienne>
   </article>
@@ -24862,7 +24894,7 @@
   </article>
   <article id="DT34-04831" pg="159">
     <vedette><sm>Redon,</sm></vedette>
-    <definition><typologie>montagne</typologie>, dans la <localisation>vallée du Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l</commune>’<commune insee="34079" precision="approximatif">Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation> ; hauteur, 299 mètres.</definition>
+    <definition><typologie>montagne</typologie>, dans la <localisation>vallée du Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l’Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation> ; hauteur, 299 mètres.</definition>
     <forme_ancienne>— <i>In valle Redone,</i> <date>1187</date> <reference>(mss d’Aubaïs ; H. L. III, pr. c. 161)</reference>.</forme_ancienne>
   </article>
   <article id="DT34-04832" pg="159">
@@ -24872,7 +24904,7 @@
   </article>
   <article id="DT34-04833" pg="159">
     <vedette><sm>Redonnière (La)</sm> ou <sm>la Roudounière,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-04834" pg="159">
     <vedette><sm>Redounelles,</sm></vedette>
@@ -26171,7 +26203,7 @@
   </article>
   <article id="DT34-05083" pg="167">
     <vedette><sm>Rouens,</sm></vedette>
-    <definition><typologie>montagne</typologie> dans la <localisation>vallée du Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l</commune>’<commune insee="34079" precision="approximatif">Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie> dans la <localisation>vallée du Salagou</localisation>, entre <localisation><commune insee="34079" precision="approximatif">Clermont-l’Hérault</commune></localisation> et <localisation><commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
     <commentaire><p>— Hauteur, 295 mètres.</p></commentaire>
   </article>
   <article id="DT34-05084" pg="167" type="commune">
@@ -27961,7 +27993,7 @@
   </article>
   <article id="DT34-05370" pg="181">
     <vedette><sm>Saint-Hilaire-sur-le-Lez,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34172" precision="certain">Montpellier</commune></localisation> (<typologie>2e canton</typologie>).</definition>
     <commentaire><p>— Anc. prieuré dépendant du chapitre cathédral de <pg>182</pg>Montpellier. <forme_ancienne2>— <i>Priorat. S. Ylarii,</i> <date>1333</date> <reference>(stat. eccl. Magal. 12, 16 v° et 22)</reference></forme_ancienne2>. — Placé dans l’archiprêtré de Montpellier, <date>1756</date> (état offic. des égl. de Montpellier). — <i>Prieuré-cure,</i> <date>1760</date> (pouillé) ; <date>1777</date> (vis. past.). <forme_ancienne2>— <i>Saint-Hilaire</i> <reference>(cartes du dioc. de Montp. et de Cassini)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-05371" pg="182">
@@ -28026,7 +28058,7 @@
   </article>
   <article id="DT34-05383" pg="182">
     <vedette><sm>Saint-Jean-d’Aureillan,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
     <commentaire><p>— Anc. prieuré, dîmerie du chapitre de Saint-Nazaire de Béziers. <forme_ancienne2>— <i>Saint-Jean d’Aurelia, village,</i> <date>815</date> <reference>(G. christ. II, 411)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Saint-Jean d’Aureillan, cure,</i> <date>1760</date> <reference>(pouillé)</reference></forme_ancienne2>. <forme_ancienne2>— <i>S. Joannes d’Aureillan,</i> dans l’archiprêtré de Cazouls, <date>1780</date> <reference>(état offic. des égl. de Béziers)</reference></forme_ancienne2>. <forme_ancienne2>— <i>Saint-Jean d’Oreillan</i> <reference>(cartes du dioc. de Béziers et de Cassini)</reference></forme_ancienne2>.</p></commentaire>
   </article>
   <article id="DT34-05384" pg="182">
@@ -29625,7 +29657,7 @@
   <article id="DT34-05619" pg="196" type="commune">
     <vedette><sm>Saint-Thibéry,</sm></vedette>
     <definition><localisation>canton de <commune insee="34199" precision="approximatif">Pézenas</commune></localisation>.</definition>
-    <forme_ancienne>— Κεσσερώ <reference>(Ptol. Geogr. II, <sm>x</sm>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Κεσσερώ</i> <reference>(Ptol. Geogr. II, <sm>x</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cessero</i> (<i>Volcarum Tectosagum</i>) <reference>(Plin. Hist. nat. III, <sm>iv</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cessaro vel Cessaron <pg>197</pg>mansio</i> <reference>(itiner. Burdigal.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cessero sive Araura,</i> à cause du voisinage de l’Hérault <reference>(itiner. Anton. carte de Peutinger ; vases du musée du collége romain ; cf. Géogr. des Gaules de Walckenaer, tom. I, 191, et tom. III, itinéraire)</reference>.</forme_ancienne>
@@ -29999,7 +30031,7 @@
   </article>
   <article id="DT34-05684" pg="199">
     <vedette><sm>Salvan,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-05685" pg="199">
     <vedette><sm>Salvergues,</sm></vedette>
@@ -30160,7 +30192,7 @@
   </article>
   <article id="DT34-05715" pg="200">
     <vedette><sm>Sauclières,</sm></vedette>
-    <definition><typologie>écart, écluse</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>écart, écluse</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-05716" pg="200">
     <vedette><sm>Saudadier,</sm></vedette>
@@ -30459,7 +30491,7 @@
   </article>
   <article id="DT34-05760" pg="203">
     <vedette><sm>Seigneur-Donnat,</sm></vedette>
-    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>jardin</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
   </article>
   <article id="DT34-05761" pg="203">
     <vedette><sm>Seillols (Les),</sm></vedette>
@@ -30522,7 +30554,7 @@
     <commentaire><p><renvoi>— Voy. <sm>Saussol.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-05773" pg="203">
-    <vedette><sm>Septimani</sm> ou vétérans de la 7<sup>e</sup> légion,</vedette>
+    <vedette><sm>Septimani</sm> ou <sm>vétérans de la 7e légion</sm>,</vedette>
     <definition>qui peuplaient la <localisation>colonie de <commune insee="34032" precision="certain">Béziers</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bæterra Septumanorum</i> <reference>(Mela, II, 5)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bæterræ Septimanorum</i> <reference>(Plin. H. N. III, 4)</reference>.</forme_ancienne>
@@ -32492,7 +32524,7 @@
     <commentaire><p><renvoi>— Voy. <sm>Saint-Jean-d’Ognon.</sm></renvoi></p></commentaire>
   </article>
   <article id="DT34-06140" pg="214" type="commune">
-    <vedette><sm>Usclas</sm> (de Plaux, c’est-à-dire <i>de la Plaine</i>),</vedette>
+    <vedette><sm>Usclas</sm> (de Plaux, c’est-à-dire de la Plaine),</vedette>
     <definition><localisation>canton de <commune insee="34142" precision="approximatif">Lodève</commune></localisation>.</definition>
     <forme_ancienne>— <i>Usclatum villaris,</i> <date>987</date> <reference>(cart. Lod. G. christ. VI, inst. c. 270)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Usclaz,</i> <date>1116</date> <reference>(cart. Gell. 135)</reference>.</forme_ancienne>
@@ -33040,7 +33072,7 @@
   </article>
   <article id="DT34-06219" pg="218">
     <vedette><sm>Valras-le-Haut,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers (2<sup>e</sup> canton)</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers (2e canton)</commune></localisation>.</definition>
     <forme_ancienne>— <i>Terminium de Valrano in loco de Montada,</i> <date>1068</date> <reference>(Livre noir, 128 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>De Valerias,</i> <date>1153</date> <reference>(bulle d’Eugène III, Livre noir, 153 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Honor de Valirano,</i> <date>1170</date> <reference>(Livre noir, 122 v°)</reference>.</forme_ancienne>
@@ -33757,8 +33789,10 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34298" precision="certain">Sauvian</commune></localisation>.</definition>
   </article>
   <article id="DT34-06351" pg="223">
-    <vedette><sm>Vianne (Mas de),</sm> <date>1838</date> ; de <sm>Diane,</sm> <date>1851</date> ;</vedette>
+    <vedette><sm>Vianne (Mas de),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune des <commune insee="34153" precision="certain">Matelles</commune></localisation>.</definition>
+    <forme_ancienne>— <date>1838</date>.</forme_ancienne>
+    <forme_ancienne><i>Mas de Diane,</i> <date>1851</date>.</forme_ancienne>
   </article>
   <article id="DT34-06352" pg="223">
     <vedette><sm>Viargues,</sm></vedette>
@@ -34012,7 +34046,7 @@
   </article>
   <article id="DT34-06401" pg="225">
     <vedette><sm>Viguier (Le),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2<sup>e</sup> canton</typologie>).</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="34032" precision="certain">Béziers</commune></localisation> (<typologie>2e canton</typologie>).</definition>
     <forme_ancienne>— <i>Debru</i> <reference>(carte du diocèse de Béziers)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pas de Debru</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Patte de Bru et le Viguier</i> <reference>(recensem. de 1809)</reference>.</forme_ancienne>
