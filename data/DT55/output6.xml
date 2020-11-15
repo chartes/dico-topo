@@ -3313,7 +3313,7 @@
     <definition><typologie>fontaine</typologie>, <localisation>commune d’<commune insee="55177" precision="certain">Érize-la-Petite</commune></localisation>.</definition>
   </article>
   <article id="DT55-00534" pg="27">
-    <vedette><sm>Blois (Pays de),</sm> dit aussi <i>le Blaisois,</i></vedette>
+    <vedette><sm>Blois (Pays de),</sm> dit aussi <sm>le Blaisois,</sm></vedette>
     <definition><typologie>petit territoire</typologie> qui s’étendait <localisation>entre l’Ornain et la Meholle</localisation> et avait pour limites : au nord, la Voide ou pays de Void (pagus Bedensis) ; à l’est, le pays des Vaux (pagus Vallium) ; au sud, l’Ornois (pagus Odornensis) ; à l’ouest, le Barrois (pagus Barrensis) ; il faisait partie du Toulois et avait pour chef-lieu le château de Blois, <i>Blesæ</i> (carte du Toulois) ; ce château, aujourd’hui ruiné, était situé entre Broussey-en-Blois et Naives-en-Blois.</definition>
     <forme_ancienne>— <i>In Blesio, in Blesis,</i> <date>1402</date> <reference>(regest. Tull.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>En Bloys,</i> <date>1572</date> <reference>(coll. lorr. t. 243.37, P. 57)</reference>.</forme_ancienne>
@@ -5636,7 +5636,7 @@
   </article>
   <article id="DT55-00938" pg="42">
     <vedette><sm>Caturices,</sm></vedette>
-    <definition><typologie>lieu de relais ou de station</typologie>, placé sur la route consulaire <localisation>de Reims à Metz</localisation>, à <sm>ix</sm> mille pas romains d’<i>Ariola</i> et à <sm>ix</sm> mille pas de <i>Nasium.</i></definition>
+    <definition><typologie>lieu de relais ou de station</typologie>, placé sur la route consulaire <localisation>de Reims à Metz</localisation>, à IX mille pas romains d’<i>Ariola</i> et à IX mille pas de <i>Nasium.</i></definition>
     <forme_ancienne>— <i>Caturices,</i> <date><sm>iii</sm><sup>e</sup> siècle</date> <reference>(Table Théodosienne ou de Peutinger)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Caturiges,</i> <date><sm>iv</sm><sup>e</sup> siècle</date> <reference>(Itin. d’Antonin)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Caturicas, Caturigas,</i> <date>1675</date> <reference>(A. de Valois)</reference>.</forme_ancienne>
@@ -7987,7 +7987,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="55536" precision="certain">Vauquois</commune></localisation>.</definition>
   </article>
   <article id="DT55-01372" pg="59">
-    <vedette><sm>Constantine</sm> (anciennement, <i>Labévaux</i>),</vedette>
+    <vedette><sm>Constantine</sm> (anciennement, <sm>Labévaux</sm>),</vedette>
     <definition><typologie>auberge isolée</typologie>, <localisation>commune de <commune insee="55545" precision="certain">Verdun</commune></localisation>.</definition>
   </article>
   <article id="DT55-01373" pg="59">
@@ -22302,7 +22302,7 @@
   <article id="DT55-03764" pg="164" type="commune">
     <vedette><sm>Naix,</sm></vedette>
     <definition><typologie>village</typologie> sur l’Ornain, à <localisation>7 kil. au S.-E. de Ligny</localisation>.</definition>
-    <forme_ancienne>— Νᾶσιον, <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(Ptolémée)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Νᾶσιον,</i> <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(Ptolémée)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nasie,</i> <date><sm>iii</sm><sup>e</sup> siècle</date> <reference>(Table Théodosienne ou de Peutinger)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nasium,</i> <date><sm>iv</sm><sup>e</sup> siècle</date> <reference>(Itin. d’Antonin)</reference> ; <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(donat. de Bodo, évêque de Toul)</reference> ; <date>870</date> <reference>(dipl. de Charles le Chauve)</reference> ; <date>948</date> <reference>(confirmat. par Otton)</reference> ; <date>1033</date> <reference>(dipl. de Conrad)</reference> ; <date>1675</date> <reference>(A. de Valois)</reference> ; <date>1707</date> <reference>(P. Benoît)</reference> ; <date>1711</date> <reference>(pouillé)</reference> ; <date>1749</date> <reference>(pouillé)</reference> ; <date>1756</date> <reference>(D. Calmet, <i>not.</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Nasiovicu in Barrense, Naio-soco,</i> <date>époque mérovingienne</date> <reference>(tiers de sous d’or)</reference>.</forme_ancienne>
@@ -24491,7 +24491,7 @@
   </article>
   <article id="DT55-04148" pg="180">
     <pg>180</pg>
-    <vedette><sm>Pierre-Percée</sm> (<i>Pertusa-Petra</i>).</vedette>
+    <vedette><sm>Pierre-Percée</sm> (<sm>Pertusa-Petra</sm>).</vedette>
     <commentaire>
       <p><renvoi>— Voy. <sm>Borne-Trouée.</sm></renvoi></p>
     </commentaire>
@@ -25858,7 +25858,7 @@
   </article>
   <article id="DT55-04442" pg="186">
     <vedette><sm>Ramerud</sm> ou <sm>Ramru,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="55474" precision="certain">Sauvigny</commune></localisation> ; emplacement d’un palais dans lequel on présume qu’ont été frappés les deniers de Charlemagne marqués <sm>Rameirodo.</sm></definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="55474" precision="certain">Sauvigny</commune></localisation> ; emplacement d’un palais dans lequel on présume qu’ont été frappés les deniers de Charlemagne marqués Rameirodo.</definition>
   </article>
   <article id="DT55-04443" pg="186">
     <vedette><sm>Ramont (Pré-),</sm></vedette>
@@ -26575,7 +26575,7 @@
     <definition><typologie>moulin</typologie>, <localisation>commune d’<commune insee="55242" precision="certain">Hennemont</commune></localisation>.</definition>
   </article>
   <article id="DT55-04552" pg="191">
-    <vedette><sm>Renessel (Le),</sm> dit aussi <i>le Reinesé</i> ou <i>ruisseau d’Hannoncelle,</i></vedette>
+    <vedette><sm>Renessel (Le),</sm> dit aussi <sm>le Reinesé</sm> ou <sm>ruisseau d’Hannoncelle,</sm></vedette>
     <definition>qui a sa source à l’<localisation>O. de la ferme d’<commune insee="55557" precision="approximatif">Hannoncelle</commune></localisation> et se jette dans le Bertranpont <localisation>vis-à-vis d’<commune insee="55242" precision="approximatif">Hennemont</commune></localisation>, après un cours de 5 kilomètres.</definition>
   </article>
   <article id="DT55-04553" pg="191">
@@ -34067,7 +34067,7 @@
     <forme_ancienne>— <i>Urduni, Virdun, Viriduni, Viridunum,</i> <date>époque carlovingienne</date> <reference>(deniers d’argent frappés à Verdun)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Urbs Virdunensis,</i> <date>701</date> <reference>(ch. de Pepin)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Viridunum,</i> <date>870</date> <reference>(partage de l’empire)</reference> ; <date>1025</date> <reference>(ex æde beatæ Mariæ Virdunensis, stemmat. Lothar. pr.)</reference> ; <date>1072</date> <reference>(ex eadem æde, stemmat. Lothar. pr.</reference> ; <date>1095</date> <reference>(ex monasterio sancti Agerici, stemmat. Lothar.)</reference>.</forme_ancienne>
-    <forme_ancienne>— … <i>Virdunensium,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(Bertaire)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Virdunensium,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(Bertaire)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cives Virdunensis oppidi</i> <reference>(vie de saint Mesmin)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Virdunum, Virduni, urbs Clavorum,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(Bertaire)</reference> ; <date><sm>x</sm><sup>e</sup></date> et <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(monnaies épisc.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In suburbio Virdunensis castri ; Virdunensis castellum,</i> <date>952</date> <reference>(cart. de Saint-Vanne, ch. de fondat.)</reference>.</forme_ancienne>
