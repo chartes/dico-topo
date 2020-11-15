@@ -230,7 +230,7 @@
     <definition><typologie>rivière</typologie>, a ses sources principales à <localisation><commune insee="57587" precision="approximatif">Rodalbe</commune>, <commune insee="57060" precision="approximatif">Bénestroff</commune></localisation> (Meurthe) et <localisation><commune insee="57311" precision="approximatif">Acherbach</commune></localisation> (Moselle) ; elle passe sur les <localisation>territoires de <commune insee="57573" precision="approximatif">Réning</commune>, <commune insee="57346" precision="approximatif">Insming</commune>, <commune insee="57060" precision="approximatif">Bénestroff</commune>, <commune insee="57685" precision="approximatif">Vahl</commune>, <commune insee="57501" precision="approximatif">Neuf-Village</commune> et <commune insee="57723" precision="approximatif">Virming</commune></localisation>, reçoit les ruisseaux de Bénestroff, Gosemark, Hayrget-Greben, Lansbronn, Resgreben, Rhodes, et se jette dans la Sarre à <localisation><commune insee="57628" precision="approximatif">Sarralbe</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fluviolus Abelica,</i> <date>712</date> <reference>(diplom. II, p. 434)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eblica in pago Salinense,</i> <date>713</date> <reference>(diplom. II, p. 438)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Fluvius Ablica in pago Saroinse,</i> <date>713</date> <reference>(diplom. II, p. 439. <renvoi>Voy. Revue des Sociétés savantes, juin 1860</renvoi>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Fluvius Ablica in pago Saroinse,</i> <date>713</date> <reference>(diplom. II, p. 439. Voy. Revue des Sociétés savantes, juin 1860)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Alba,</i> <date>1675</date> <reference>(<i>Not. Gall.</i> p. 8)</reference>.</forme_ancienne>
     <commentaire>
       <p>Suivant plusieurs auteurs, le pays arrosé par cette rivière est l’<i>Albensis pagus</i> ou <i>Albechova</i> mentionné dans des diplômes du moyen âge ; <i>Albechouva seu pagus Albensis haud dubie a fl. Alba nomen accepit</i> (<i>Not. Gall.</i> p. 9) : ces dénominations doivent s’appliquer au Blâmontois. <renvoi>Voy. ce mot.</renvoi></p>
@@ -245,7 +245,7 @@
     <forme_ancienne>— <i>Alberhoff</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-00029" pg="2" type="commune">
-    <vedette><sm>Albestroff</sm> (se prononce <i>Allestroff,</i> vulgairement <i>Alsstroff</i>),</vedette>
+    <vedette><sm>Albestroff</sm>,</vedette>
     <definition><typologie>chef-lieu de canton</typologie>, <localisation>arrondissement de <commune insee="57132" precision="approximatif">Château-Salins</commune></localisation>.</definition>
     <forme_ancienne><pg>3</pg>— <i>Willardesdorff</i> (?) <date>966</date> <reference>(ch. de l’abb. de Vergaville)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Albertoff,</i> <date>vers 1050</date> <reference>(H. L. I, c. 431)</reference>.</forme_ancienne>
@@ -257,6 +257,7 @@
     <forme_ancienne>— <i>Albstorff, Altorff, Albtorff,</i> <date>1525</date> <reference>(papier des noms, etc.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Albestroph,</i> <date>1612</date> <reference>(titres de la châtell. d’Albestroff)</reference>.</forme_ancienne>
     <commentaire>
+      <p>Se prononce <i>Allestroff,</i> vulgairement <i>Alsstroff</i>.</p>
       <p>Albestroff était le chef-lieu d’une châtell. du temporel de l’évêché de Metz, baill. de Vic, qui ne comprenait dans le dép. de la Meurthe que les communes de Givrycourt et d’Albestroff, du canton de ce nom.</p>
       <p>En <date>1790</date>, Albestroff fut le chef-lieu d’un canton dépendant du district de Vic et formé des communes d’Albestroff, Hunskirich, Insming, Munster, Réning, Vibersviller et Vittersbourg. Ce canton s’accrut peu à peu des communes d’Altroff, Léning, Neuf-Village et Torcheville, enlevées à celui d’Altroff, qui fut supprimé.</p>
     </commentaire>
@@ -922,9 +923,12 @@
     <definition><typologie>seigneurie ou fief</typologie> à <localisation><commune insee="54092" precision="certain">Bouzanville</commune></localisation>.</definition>
   </article>
   <article id="DT54-00111" pg="8">
-    <vedette><sm>Auxonne</sm> (pron. <i>Aussonne</i>),</vedette>
+    <vedette><sm>Auxonne</sm>,</vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="54395" precision="certain">Nancy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Aussonne,</i> <date>1782</date> <reference>(table des villes, etc.)</reference>.</forme_ancienne>
+    <commentaire>
+      <p>(pron. <i>Aussonne</i>)</p>
+    </commentaire>
   </article>
   <article id="DT54-00112" pg="8">
     <vedette><sm>Aux-Vignes,</sm></vedette>
@@ -3102,19 +3106,20 @@
   </article>
   <article id="DT54-00442" pg="21">
     <vedette><sm>Bouxal (Le),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, dit <sm>de la Grande-Fontaine</sm> ou <sm>de l’Embanie,</sm> prend sa source <localisation>près de <commune insee="54074" precision="approximatif">Bienville-la-Petite</commune></localisation>, passe sur les <localisation>territoires de <commune insee="54083" precision="approximatif">Bonviller</commune>, <commune insee="54074" precision="approximatif">Bienville</commune>, <commune insee="57563" precision="approximatif">Raville</commune>, <commune insee="54176" precision="approximatif">Einville</commune></localisation>, et se jette dans le Sanon.</definition>
+    <definition><typologie>ruisseau</typologie>, dit de la Grande-Fontaine ou de l’Embanie, prend sa source <localisation>près de <commune insee="54074" precision="approximatif">Bienville-la-Petite</commune></localisation>, passe sur les <localisation>territoires de <commune insee="54083" precision="approximatif">Bonviller</commune>, <commune insee="54074" precision="approximatif">Bienville</commune>, <commune insee="57563" precision="approximatif">Raville</commune>, <commune insee="54176" precision="approximatif">Einville</commune></localisation>, et se jette dans le Sanon.</definition>
   </article>
   <article id="DT54-00443" pg="21">
     <vedette><sm>Bouxerupt (Le),</sm></vedette>
     <definition><typologie>ruisseau</typologie>, prend sa source <localisation>sous le Haut-de-la-Garde</localisation>, passe sur le <localisation>territoire d’<commune insee="54038" precision="approximatif">Azerailles</commune></localisation> et se jette dans la Meurthe.</definition>
   </article>
   <article id="DT54-00444" pg="21">
-    <vedette><sm>Bouxières</sm> (pron. <i>Boussières,</i> comme aux suivants),</vedette>
+    <vedette><sm>Bouxières</sm>,</vedette>
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="54543" precision="certain">Vallois</commune></localisation> (ermitage déjà ruiné au commencement du siècle dernier).</definition>
     <forme_ancienne>— <i>Bouxières-devant-Gilebert-Viller,</i> <date>1274</date> <reference>(Tr. des ch. l. Rosières I, n° 12)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Boixières,</i> <date>1301</date> <reference>(Tr. des ch. l. Deneuvre, n° 13)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bouxières-lez-Gerbeviller,</i> <date>1362</date> <reference>(cart. Fiefs de Nancy, f° 175)</reference>.</forme_ancienne>
     <commentaire>
+      <p>pron. <i>Boussières,</i> comme aux suivants.</p>
       <p>Il y avait un bois de Bouxières près du village d’Azerailles : <i>Bois de Bouxières dessous Aizeraule,</i> <date>1290</date> (Tr. des ch. l. Fiefs de Nancy, n° 129).</p>
     </commentaire>
   </article>
@@ -3569,7 +3574,7 @@
     <definition><typologie>moulin</typologie>, <localisation>commune d’<commune insee="57310" precision="certain">Hellering</commune></localisation>.</definition>
   </article>
   <article id="DT54-00512" pg="24" type="commune">
-    <vedette><sm>Bühl</sm> (pron. <i>Bîle</i>),</vedette>
+    <vedette><sm>Bühl</sm>,</vedette>
     <definition><localisation>canton de <commune insee="57630" precision="approximatif">Sarrebourg</commune></localisation>.</definition>
     <forme_ancienne>— <i>Büle prope Sarburg,</i> <date><sm>xv</sm><sup>e</sup> siècle</date> <reference>(obit. de la coll. de Sarrebourg, f° 29)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Beul</i> et <i>Buhel,</i> <date>1525</date> <reference>(papier des noms, etc.)</reference>.</forme_ancienne>
@@ -3579,6 +3584,7 @@
     <forme_ancienne>— <i>Biel</i> ou <i>Bihle,</i> <date>1779</date> <reference>(Descr. de la Lorr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bilh,</i> <date>1790</date> <reference>(div. du dép.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>pron. <i>Bîle</i>.</p>
       <p>Cette commune donne son nom à un ruisseau dit aussi <sm>Endenvesser.</sm> <renvoi>— Voy. ce mot.</renvoi></p>
     </commentaire>
     <insee>57119</insee>
@@ -5296,8 +5302,8 @@
     <definition><localisation>commune de <commune insee="57664" precision="approximatif">Tarquinpol</commune></localisation>, conduisant au <localisation>village de <commune insee="57246" precision="approximatif">Gelucourt</commune></localisation>.</definition>
   </article>
   <article id="DT54-00796" pg="34" type="commune">
-    <vedette><sm>Commercy</sm> (Meuse),</vedette>
-    <definition><typologie>chef-lieu d’arrondissement</typologie>, était, en <date>1751</date>, le chef-lieu d’un baillage duquel dépendaient, dans le <localisation>département de la Meurthe, les communes de Boucq, Foug, la Neuveville-derrière-Foug, Lay-Saint-Remy, Pagney-derrière-Barine et Sanzey, du canton de Toul-Nord ; Charmes-la-Côte, Choloy, Domgermain et Mont-le-Vignoble, du canton de Toul-Sud ; Gibeaumeix et Saulxures-lez-Vannes, du canton de <commune insee="54135" precision="approximatif">Colombey</commune></localisation>.</definition>
+    <vedette><sm>Commercy</sm></vedette>
+    <definition>(Meuse), <typologie>chef-lieu d’arrondissement</typologie>, était, en <date>1751</date>, le chef-lieu d’un baillage duquel dépendaient, dans le <localisation>département de la Meurthe, les communes de Boucq, Foug, la Neuveville-derrière-Foug, Lay-Saint-Remy, Pagney-derrière-Barine et Sanzey, du canton de Toul-Nord ; Charmes-la-Côte, Choloy, Domgermain et Mont-le-Vignoble, du canton de Toul-Sud ; Gibeaumeix et Saulxures-lez-Vannes, du canton de <commune insee="54135" precision="approximatif">Colombey</commune></localisation>.</definition>
     <insee>55122</insee>
   </article>
   <article id="DT54-00797" pg="34">
@@ -7054,7 +7060,7 @@
     <insee>54175</insee>
   </article>
   <article id="DT54-01070" pg="46" type="commune">
-    <vedette><sm>Einville</sm> ou <sm>Einville-au-Jard</sm> (à cause du jardin ou du parc dépendant de son château ducal),</vedette>
+    <vedette><sm>Einville</sm> ou <sm>Einville-au-Jard</sm>,</vedette>
     <definition><typologie>bourg</typologie>, <localisation>canton de <commune insee="54329" precision="approximatif">Lunéville-Nord</commune></localisation>.</definition>
     <forme_ancienne>— <i>Villa Audowino super fluvio Cernuni</i> (le Sanon) ; — <i>villa Auduinu super fluvio Cernune,</i> <date>699</date> <reference>(Diplom. II, p. 428-430)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Odowino villa super fluvio Kernone,</i> <date>715</date> <reference>(Diplom. II, p. 443)</reference>.</forme_ancienne>
@@ -7074,6 +7080,7 @@
     <forme_ancienne>— <i>Einville-au-parcq,</i> <date>1646</date> <reference>(Tr. des ch. liasse B. 5675)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Einville-au-ja,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(Armorial)</reference>.</forme_ancienne>
     <commentaire>
+      <p><i>Einville-au-Jard</i> à cause du jardin ou du parc dépendant de son château ducal.</p>
       <p>Einville, où les ducs de Lorraine avaient une jumenterie, et qui était autrefois qualifié de ville, fut le chef-lieu d’une châtellenie, baill. de Nancy, incorporée en <date>1751</date> dans le baill. de Lunéville, et qui comprenait les communes de Xousse, du c<sup>on</sup> de Blâmont ; Bauzemont, Bienville-la-Petite, Bonviller, Drouville, Einville, Maixe, Raville, Valhey et Vitrimont, du canton de Lunéville-Nord ; Crion, Hénaménil, Parroy et Sionviller, du canton de Lunéville-Sud-Est ; Gellenoncourt et Haraucourt, du canton de Saint-Nicolas ; Arracourt, Athienville (en partie), Bathelémont-lez-Bauzemont, Bures et Lezey, du canton de Vic.</p>
       <p>En <date>1698</date>, la prévôté d’Einville comprenait, outre les communes ci-dessus (moins Athienville, Lezey et Xousse), Deuxville, du canton de Lunéville-Nord ; Mouacourt, du canton de Lunéville-Sud-Est ; Coincourt, du canton de Vic.</p>
       <p>En <date>1790</date>, Einville fut le chef-lieu d’un canton dépendant du district de Lunéville et formé des c<sup>nes</sup> de Bauzemont, Bienville-la-Petite, Bonviller, Crion, Einville-au-Jard, Hénaménil, Hoëville, Parroy, Raville, Serres, Sionviller et Valhey.</p>
@@ -7412,7 +7419,7 @@
     <definition><typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="57080" precision="certain">Bickenholtz</commune></localisation> et qui, après avoir passé sur le territoire de cette commune et sur celui de Schalbach, se jette dans l’Isch.</definition>
   </article>
   <article id="DT54-01133" pg="48" type="commune">
-    <vedette><sm>Eulmont</sm> (pron. <i>Eumont ;</i> en patois, <i>Yeulmont</i>),</vedette>
+    <vedette><sm>Eulmont</sm>,</vedette>
     <definition><localisation>canton de <commune insee="54395" precision="approximatif">Nancy-Est</commune></localisation>.</definition>
     <forme_ancienne>— <i>Oemunt,</i> <date>1076</date> <reference>(H. L. I, c. 475)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Amalenmont,</i> <date>1193-1198</date> <reference>(H. L. II, c. 374)</reference>.</forme_ancienne>
@@ -7421,6 +7428,7 @@
     <forme_ancienne>— <i>Octemont,</i> <date>1526</date> <reference>(dom. de Nancy)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Huictzmontz,</i> <date>1539</date> <reference>(dom. de Nancy)</reference>.</forme_ancienne>
     <commentaire>
+      <p>Pron. <i>Eumont</i> ; en patois, <i>Yeulmont</i>.</p>
       <p>— Le fief d’Eulmont relevait de la châtell. de Nancy, baill. de cette ville.</p>
     </commentaire>
     <insee>54186</insee>
@@ -8939,7 +8947,7 @@
     <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-01378" pg="57">
-    <vedette><sm>Gérardcourt</sm> (pron. <i>Géracourt</i>),</vedette>
+    <vedette><sm>Gérardcourt</sm>,</vedette>
     <definition><typologie>hameau (seigneurie)</typologie>, <localisation>commune de <commune insee="54571" precision="certain">Ville-en-Vermois</commune></localisation>.</definition>
     <forme_ancienne>— <i>Alodium apud Giraldi curtem,</i> <date>1127-1168</date> <reference>(ch. du pr. de Flavigny)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Capella Gerardi curtis,</i> <date>1188</date> <reference>(H. L. II, c. 399)</reference>.</forme_ancienne>
@@ -8948,6 +8956,9 @@
     <forme_ancienne>— <i>Giracourt,</i> <date>1424</date> <reference>(dom. de Nancy)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Giraucourt,</i> <date>1559</date> <reference>(Tr. des ch. reg. B. 33, f° 95)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gérarcourt,</i> <date>1600</date> <reference>(dom. de Nancy)</reference>.</forme_ancienne>
+    <commentaire>
+      <p>Pron. <i>Géracourt</i>.</p>
+    </commentaire>
   </article>
   <article id="DT54-01379" pg="57">
     <vedette><sm>Gerbé,</sm></vedette>
@@ -11438,7 +11449,7 @@
     <definition><localisation>commune d’<commune insee="54026" precision="certain">Athienville</commune></localisation>.</definition>
   </article>
   <article id="DT54-01773" pg="71" type="commune">
-    <vedette><sm>Hültenhausen</sm> (on prononce vulgairement <i>Hildehouse</i>),</vedette>
+    <vedette><sm>Hültenhausen</sm> (on prononce vulgairement Hildehouse),</vedette>
     <definition><localisation>canton de <commune insee="57540" precision="approximatif">Phalsbourg</commune></localisation>.</definition>
     <forme_ancienne>— <i>Hiltenhausen,</i> <date>1589</date> <reference>(dom. de Phalsbourg)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Heltenhaussen,</i> <date>1592</date> <reference>(dom. de Phalsbourg)</reference>.</forme_ancienne>
@@ -15525,7 +15536,7 @@
     <insee>54388</insee>
   </article>
   <article id="DT54-02359" pg="96">
-    <vedette><sm>Moukenhoff</sm> (<i>ferme des mouches</i>),</vedette>
+    <vedette><sm>Moukenhoff</sm> (ferme des mouches),</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57119" precision="certain">Bühl</commune></localisation>.</definition>
   </article>
   <article id="DT54-02360" pg="96">
@@ -15936,7 +15947,7 @@
     <definition><typologie>écart (seigneurie)</typologie>, <localisation>commune de <commune insee="57742" precision="certain">Walscheid</commune></localisation>.</definition>
   </article>
   <article id="DT54-02435" pg="98" type="commune">
-    <vedette><sm>Munster</sm> (mieux <i>Münster,</i> que l’on prononce <i>Mynstre</i>),</vedette>
+    <vedette><sm>Munster</sm> (mieux Münster, que l’on prononce Mynstre),</vedette>
     <definition><localisation>canton d’<commune insee="57011" precision="approximatif">Albestroff</commune></localisation> <reference>(collégiale fondée sur la fin du <date><sm>xii</sm><sup>e</sup> siècle</date>)</reference>.</definition>
     <forme_ancienne>— <i>Ecclesia de Monstre,</i> <date>1262</date> <reference>(ch. de la cure de Munster)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>De Munstre,</i> <date>1270</date> <reference>(ch. de la cure de Munster)</reference>.</forme_ancienne>
@@ -17652,12 +17663,13 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="54329" precision="certain">Lunéville</commune></localisation>.</definition>
   </article>
   <article id="DT54-02715" pg="109" type="commune">
-    <vedette><sm>Plaine-de-Valsch</sm> (c’est-à-dire <i>Plaine en avant de Walscheid,</i> qu’on prononce <i>Walsch</i>),</vedette>
+    <vedette><sm>Plaine-de-Valsch</sm>,</vedette>
     <definition><localisation>canton de <commune insee="57630" precision="approximatif">Sarrebourg</commune></localisation>.</definition>
     <forme_ancienne>— <i>Blindewasch,</i> <date>1751</date> <reference>(état des villes, etc.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Plaine-de-Walche,</i> <date>1772</date> <reference>(Tr. des ch. fois et hommages)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Blaindevalsch, Plaindevalche, Pleindevalche</i> ou <i>Plaine de Valche,</i> anc. verrerie, convertie en village depuis quelques années, <date>1779</date> <reference>(Descr. de la Lorr.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>C’est-à-dire Plaine en avant de Walscheid, qu’on prononce <i>Walsch</i>.</p>
       <p>Il y a encore aujourd’hui une verrerie.</p>
     </commentaire>
     <insee>57544</insee>
@@ -17703,7 +17715,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="54174" precision="certain">Écrouves</commune></localisation>.</definition>
   </article>
   <article id="DT54-02726" pg="109">
-    <vedette><sm>Pointe-des-Cras</sm> (<i>corbeaux</i>),</vedette>
+    <vedette><sm>Pointe-des-Cras</sm> (corbeaux),</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="54373" precision="certain">Moncel-lez-Lunéville</commune></localisation>.</definition>
   </article>
   <article id="DT54-02727" pg="109">
@@ -18268,7 +18280,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57081" precision="certain">Bidestroff</commune></localisation>.</definition>
   </article>
   <article id="DT54-02824" pg="114">
-    <vedette><sm>Prunstmülh,</sm> et mieux <sm>Brunstmühl</sm> (<i>moulin de l’incendie</i> ou <i>moulin brûlé</i>),</vedette>
+    <vedette><sm>Prunstmülh,</sm> et mieux <sm>Brunstmühl</sm> (moulin de l’incendie ou moulin brûlé),</vedette>
     <definition><typologie>montagne</typologie>, <localisation>commune de <commune insee="57742" precision="certain">Walscheid</commune></localisation>.</definition>
     <commentaire>
       <p>— La carte de l’État-major l’appelle <i>Pyruntsmühl.</i></p>
@@ -19074,7 +19086,7 @@
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="57253" precision="certain">Gondrexange</commune></localisation>.</definition>
   </article>
   <article id="DT54-02942" pg="118">
-    <vedette><sm>Ritterwald</sm> (<i>forêt des chevaliers</i>),</vedette>
+    <vedette><sm>Ritterwald</sm> (forêt des chevaliers),</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57637" precision="certain">Schneckenbüsch</commune></localisation>.</definition>
   </article>
   <article id="DT54-02943" pg="119">
@@ -19207,7 +19219,7 @@
     </commentaire>
   </article>
   <article id="DT54-02968" pg="119">
-    <vedette><sm>Romansberg</sm> (<i>montagne des Romains</i>),</vedette>
+    <vedette><sm>Romansberg</sm> (montagne des Romains),</vedette>
     <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="57629" precision="approximatif">Sarraltroff</commune></localisation>.</definition>
   </article>
   <article id="DT54-02969" pg="119">
@@ -19356,7 +19368,7 @@
     <definition><localisation>commune de <commune insee="54276" precision="certain">Jeandelaincourt</commune></localisation>.</definition>
   </article>
   <article id="DT54-02990" pg="120">
-    <vedette><sm>Rosskopf</sm> (<i>tête de cheval</i>),</vedette>
+    <vedette><sm>Rosskopf</sm> (tête de cheval),</vedette>
     <definition><typologie>montagne</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-02991" pg="120">
@@ -19368,11 +19380,11 @@
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-02993" pg="120">
-    <vedette><sm>Rothenpfuhl</sm> (<i>rouge mare</i>),</vedette>
+    <vedette><sm>Rothenpfuhl</sm> (rouge mare),</vedette>
     <definition><typologie>montagne</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-02994" pg="120">
-    <vedette><sm>Rotherbach</sm> (<i>rouge ruisseau</i>),</vedette>
+    <vedette><sm>Rotherbach</sm> (rouge ruisseau),</vedette>
     <definition><typologie>village détruit</typologie>, <localisation>près de <commune insee="57618" precision="approximatif">Saint-Louis</commune></localisation>.</definition>
   </article>
   <article id="DT54-02995" pg="120">
@@ -19627,7 +19639,7 @@
     <definition><typologie>ruisseau</typologie>, sort du <localisation>bois Jacob</localisation>, <localisation>territoire de <commune insee="54437" precision="approximatif">Pulligny</commune></localisation>, et se jette dans le Madon.</definition>
   </article>
   <article id="DT54-03040" pg="122">
-    <vedette><sm>Saarecke</sm> (<i>angle</i> ou <i>corne de la Sarre</i>),</vedette>
+    <vedette><sm>Saarecke</sm> (angle ou corne de la Sarre),</vedette>
     <definition><typologie>moulin et château</typologie>, <localisation>commune d’<commune insee="57518" precision="certain">Oberstinzel</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sarecke,</i> <date><sm>xv</sm><sup>e</sup> siècle</date> <reference>(obituaire de la coll. de Sarrebourg, f° 53 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Place et forteresse de Sarrech,</i> <date>1460</date> <reference>(Tr. des ch. l. Steinsel, n° 6)</reference>.</forme_ancienne>
@@ -19928,7 +19940,7 @@
     <forme_ancienne>— <i>Saravensis pagus,</i> <date>1675</date> <reference>(<i>Not. Gall.</i> p. 501)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03077" pg="124" type="commune">
-    <vedette><sm>Sarrebourg</sm> (en allemand <i>Saarburg,</i> château fort sur la Sarre ; les paysans disent encore en français <i>Sallebour</i> et en patois <i>Sallebo</i>),</vedette>
+    <vedette><sm>Sarrebourg</sm>,</vedette>
     <definition><typologie>ville, chef-lieu d’arrondissement</typologie>.</definition>
     <forme_ancienne>— <i>Ponte Sarvix</i> <reference>(Itin. d’Antonin)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pontesaravi</i> <reference>(Table théod.)</reference>.</forme_ancienne>
@@ -19956,6 +19968,7 @@
     <forme_ancienne>— <i>Sarbourg,</i> <date>1595</date> <reference>(arch. de Sarrebourg)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saraviburgum vel Saraburgum, Sarburg,</i> <date>1675</date> <reference>(<i>Not. Gall.</i> p. 504)</reference>.</forme_ancienne>
     <commentaire>
+      <p>En allemand Saarburg, château fort sur la Sarre ; les paysans disent encore en français <i>Sallebour</i> et en patois <i>Sallebo</i>.</p>
       <p>Il y avait à Sarrebourg une collégiale, dite de <i>Saint-Étienne</i> <renvoi>(voy. ce mot)</renvoi>, et une commanderie de l’ordre Teutonique.</p>
       <p>Cette ville fut, dès le <date><sm>xiii</sm><sup>e</sup> siècle</date>, le chef-lieu d’un archidiaconé (<i>Joannes, archidiaconus de Sarebourch,</i> <date>1295</date> : <i>Ord. præm. ann.</i> II, c. 467) et d’un archiprêtré (<i>Andreas, archipresbiter in Sarburg,</i> <date>1235</date> : <i>Als. dipl.</i> I, p. 373).</p>
     </commentaire>
@@ -20175,7 +20188,7 @@
     </commentaire>
   </article>
   <article id="DT54-03107" pg="127" type="commune">
-    <vedette><sm>Saxon-Sion</sm> (on prononce vulgairement <i>Sachon</i>),</vedette>
+    <vedette><sm>Saxon-Sion</sm>,</vedette>
     <definition><localisation>canton de <commune insee="54563" precision="approximatif">Vézelise</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vicus qui vocatur Saisons,</i> <date>1174</date> <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Albricus de Saysons,</i> <date>1178</date> <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
@@ -20185,7 +20198,8 @@
     <forme_ancienne>— <i>Soixon sous Vaudémont,</i> <date>1496</date> <reference>(ch. des arch. de la famille d’Ourches)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Soixon,</i> <date>1550</date> <reference>(dom. de Vaudémont)</reference>.</forme_ancienne>
     <commentaire>
-      <p>— Le fief de Saxon relevait du comté de Vaudémont.</p>
+      <p>On prononce vulgairement <i>Sachon</i></p>
+      <p>Le fief de Saxon relevait du comté de Vaudémont.</p>
     </commentaire>
     <insee>54497</insee>
   </article>
@@ -20235,7 +20249,7 @@
     </commentaire>
   </article>
   <article id="DT54-03110" pg="127">
-    <vedette><sm>Schacheneck</sm> (<i>coin de rapine</i>),</vedette>
+    <vedette><sm>Schacheneck</sm> (coin de rapine),</vedette>
     <definition><typologie>écart</typologie>, <localisation>commune d’<commune insee="57300" precision="certain">Hazelbourg</commune></localisation> ; autrefois scierie et moulin reconstruit en <date>1704</date> <reference>(Tr. des ch. l. Lixheim I, n° 16)</reference>.</definition>
   </article>
   <article id="DT54-03111" pg="127">
@@ -20274,7 +20288,7 @@
   </article>
   <article id="DT54-03117" pg="128">
     <pg>128</pg>
-    <vedette><sm>Schlossgarden</sm> (<i>jardin du château</i>),</vedette>
+    <vedette><sm>Schlossgarden</sm> (jardin du château),</vedette>
     <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="57721" precision="approximatif">Vilsberg</commune></localisation>, où il y avait un ancien château.</definition>
   </article>
   <article id="DT54-03118" pg="128">
@@ -20290,7 +20304,7 @@
     <definition><typologie>moulin</typologie>, <localisation>commune d’<commune insee="57291" precision="certain">Hangviller</commune></localisation>.</definition>
   </article>
   <article id="DT54-03121" pg="128">
-    <vedette><sm>Schwanhals</sm> ou <sm>Schwanenhals</sm> (<i>col de cygne</i>),</vedette>
+    <vedette><sm>Schwanhals</sm> ou <sm>Schwanenhals</sm> (col de cygne),</vedette>
     <definition><typologie>forêt</typologie>, <localisation>commune de <commune insee="57711" precision="certain">Vibersviller</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Brackenkopf.</sm></renvoi></p>
@@ -20384,7 +20398,7 @@
     <insee>54500</insee>
   </article>
   <article id="DT54-03131" pg="128">
-    <vedette><sm>Sellenmühl</sm> ou <sm>Zellenmühl</sm> (<i>moulin de la cellule</i> ou <i>du petit couvent</i>),</vedette>
+    <vedette><sm>Sellenmühl</sm> ou <sm>Zellenmühl</sm> (moulin de la cellule ou du petit couvent),</vedette>
     <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="57304" precision="certain">Haut-Clocher</commune></localisation> ; opposé à Dorfmühl (<i>moulin du village</i>), même commune.</definition>
   </article>
   <article id="DT54-03132" pg="128">
@@ -20464,7 +20478,7 @@
     <definition><typologie>village détruit</typologie>, <localisation>entre <commune insee="57011" precision="approximatif">Albestroff</commune> et <commune insee="57394" precision="approximatif">Léning</commune></localisation>.</definition>
   </article>
   <article id="DT54-03145" pg="129" type="commune">
-    <vedette><sm>Sexey-aux-Forges</sm> (en patois <i>Xrey,</i> qu’on prononce <i>Chrey</i>),</vedette>
+    <vedette><sm>Sexey-aux-Forges</sm>,</vedette>
     <definition><localisation>canton de <commune insee="54528" precision="approximatif">Toul-Sud</commune></localisation>, ainsi appelé à cause des forges qui y existaient au <date><sm>xv</sm><sup>e</sup> siècle</date>.</definition>
     <forme_ancienne>— <i>Capella de Sisseiaco,</i> <date>982</date> <reference>(H. L. I, c. 390)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sessiacum,</i> <date>1050</date> <reference>(H. L. I, c. 429)</reference>.</forme_ancienne>
@@ -20475,6 +20489,9 @@
     <forme_ancienne>— <i>Sexey-Lanouze,</i> <date>1492</date> <reference>(dom. de Gondreville)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sexey-Larnouse,</i> <date>1568</date> <reference>(dom. de Gondreville)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Xey-aux-Forges,</i> <date>1623</date> <reference>(Tr. des ch. B. 7720)</reference>.</forme_ancienne>
+    <commentaire>
+      <p>En patois <i>Xrey,</i> qu’on prononce <i>Chrey</i></p>
+    </commentaire>
     <insee>54505</insee>
   </article>
   <article id="DT54-03146" pg="129" type="commune">
@@ -20564,7 +20581,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57298" precision="certain">Harreberg</commune></localisation>.</definition>
   </article>
   <article id="DT54-03157" pg="129">
-    <vedette><sm>Sitzesburg</sm> (<i>château de la résidence</i>),</vedette>
+    <vedette><sm>Sitzesburg</sm> (château de la résidence),</vedette>
     <definition><typologie>fort ruiné</typologie>, <localisation>près de <commune insee="57469" precision="approximatif">Mittersheim</commune></localisation>.</definition>
   </article>
   <article id="DT54-03158" pg="129" type="commune">
@@ -20657,7 +20674,7 @@
     <definition><localisation>commune de <commune insee="54470" precision="certain">Saint-Baussant</commune></localisation>.</definition>
   </article>
   <article id="DT54-03173" pg="130">
-    <vedette><sm>Sonnberg</sm> ou <sm>Sonnenberg</sm> (<i>montagne du soleil</i>),</vedette>
+    <vedette><sm>Sonnberg</sm> ou <sm>Sonnenberg</sm> (montagne du soleil),</vedette>
     <definition><typologie>montagne</typologie>, <localisation>commune de <commune insee="57742" precision="certain">Walscheid</commune></localisation>.</definition>
   </article>
   <article id="DT54-03174" pg="130" type="commune">
@@ -20733,7 +20750,7 @@
     <definition>sort de la <localisation>forêt de <commune insee="54373" precision="approximatif">Mondon</commune></localisation>, passe sur le <localisation>territoire de <commune insee="54373" precision="approximatif">Moncel-lez-Lunéville</commune></localisation> et se jette dans la Meurthe.</definition>
   </article>
   <article id="DT54-03185" pg="130">
-    <vedette><sm>Sparsbrod</sm> (<i>pain chiche</i>),</vedette>
+    <vedette><sm>Sparsbrod</sm> (pain chiche),</vedette>
     <definition><typologie>hameau</typologie>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Farbach.</sm></renvoi></p>
@@ -20753,7 +20770,7 @@
     <definition><typologie>ruisseau</typologie>, prend sa source <localisation>au-dessus de <commune insee="57098" precision="approximatif">Bourgaltroff</commune></localisation>, passe sur le territoire de cette commune, sur ceux de <localisation><commune insee="57268" precision="approximatif">Guébling</commune>, <commune insee="57706" precision="approximatif">Vergaville</commune>, <commune insee="57265" precision="approximatif">Guébestroff</commune>, <commune insee="57270" precision="approximatif">Guénestroff</commune> et <commune insee="57177" precision="approximatif">Dieuze</commune></localisation>, et se jette dans la Seille.</definition>
   </article>
   <article id="DT54-03189" pg="130">
-    <vedette><sm>Spitzberg</sm> ou <sm>Spitzenberg</sm> (<i>mont aigu</i>),</vedette>
+    <vedette><sm>Spitzberg</sm> ou <sm>Spitzenberg</sm> (mont aigu),</vedette>
     <definition><typologie>ferme et montagne</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-03190" pg="130">
@@ -20771,7 +20788,7 @@
     <definition><typologie>montagne</typologie>, <localisation>commune de <commune insee="57742" precision="certain">Walscheid</commune></localisation>.</definition>
   </article>
   <article id="DT54-03193" pg="130">
-    <vedette><sm>Stinzel</sm> (pour <i>Steinsaale,</i> salle de pierre, ou <i>Stinsæle,</i> salles de pierre),</vedette>
+    <vedette><sm>Stinzel</sm> (pour <sm>Steinsaale,</sm> salle de pierre, ou <sm>Stinsæle,</sm> salles de pierre),</vedette>
     <definition><typologie>château en ruines</typologie>, <localisation>commune de <commune insee="57506" precision="certain">Niderstinzel</commune></localisation>, anciennement appelé <i>Géroldzeck</i>.</definition>
     <commentaire>
       <p>— Stinzel est aussi le nom sous lequel on désignait le village de Niderstinzel.</p>
@@ -20803,7 +20820,7 @@
     <forme_ancienne>— <i>Stranshof,</i> <date>1344</date> <reference>(ch. de l’abb. de Vergaville)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03197" pg="130">
-    <vedette><sm>Streitwald</sm> ou <sm>Stritiwald</sm> (<i>forêt de la guerre</i> ou <i>de la querelle</i>),</vedette>
+    <vedette><sm>Streitwald</sm> ou <sm>Stritiwald</sm> (forêt de la guerre ou de la querelle),</vedette>
     <definition><typologie>partie de la vallée</typologie> d'<localisation><commune insee="57003" precision="certain">Abreschwiller</commune></localisation> où l’on a trouvé des débris de constructions que l’on croit provenir d’un ancien fort.</definition>
     <commentaire>
       <p>— C’est aussi le nom d’une montagne, c<sup>ne</sup> d’Abreschwiller.</p>
@@ -20933,7 +20950,7 @@
     <definition><typologie>village détruit</typologie>, que la tradition prétend avoir existé <localisation>près de <commune insee="54123" precision="approximatif">Chavigny</commune></localisation>.</definition>
   </article>
   <article id="DT54-03221" pg="131" type="commune">
-    <vedette><sm>Saint-Boing</sm> (par corruption <i>Sambois</i>),</vedette>
+    <vedette><sm>Saint-Boing</sm> (par corruption <sm>Sambois</sm>),</vedette>
     <definition><localisation>canton de <commune insee="54054" precision="approximatif">Bayon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Villa que dicitur Cembench,</i> <date>1177</date> <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cembeng,</i> <date>1179</date> <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
@@ -21812,7 +21829,7 @@
     </commentaire>
   </article>
   <article id="DT54-03377" pg="136">
-    <vedette><sm>Saint-Oury</sm> (mieux, <i>Saint-Ulrich</i>),</vedette>
+    <vedette><sm>Saint-Oury</sm> (mieux, Saint-Ulrich),</vedette>
     <definition><typologie>chapelle</typologie> avec pèlerinage et succursale de la maison de retraite ecclésiastique de Bon-Secours, <localisation>commune de <commune insee="57180" precision="certain">Dolving</commune></localisation>.</definition>
     <forme_ancienne>— <i>Saint-Udalric,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(reg. de l’état civil de Dolving)</reference>.</forme_ancienne>
   </article>
@@ -22927,7 +22944,7 @@
     <insee>54527</insee>
   </article>
   <article id="DT54-03572" pg="143">
-    <vedette><sm>Torchamp</sm> (mieux <i>Tors-Champ</i>),</vedette>
+    <vedette><sm>Torchamp</sm> (mieux Tors-Champ),</vedette>
     <definition><typologie>monticule à large plateau</typologie>, <localisation>entre <commune insee="57414" precision="approximatif">Lorquin</commune>, la <commune insee="57380" precision="approximatif">Neuveville-lez-Lorquin</commune>, <commune insee="57504" precision="approximatif">Niderhoff</commune> et <commune insee="57233" precision="approximatif">Fraquelfing</commune></localisation>, et au versant duquel s’élevaient autrefois : à l’est, le château du Hasard ; plus loin, une maison qu’on croit avoir appartenu aux Templiers ; au nord, la Haute-Ville <renvoi>(voy. ce mot)</renvoi>, et au sommet ouest, un moulin à vent détruit peu de temps après sa construction.</definition>
   </article>
   <article id="DT54-03573" pg="143" type="commune">
@@ -23214,7 +23231,7 @@
     <insee>54534</insee>
   </article>
   <article id="DT54-03615" pg="145">
-    <vedette><sm>Trou de Diane</sm> (en patois : <i>Poteu de Dione</i>),</vedette>
+    <vedette><sm>Trou de Diane</sm> (en patois : Poteu de Dione),</vedette>
     <definition>excavation naturelle en forme d’entonnoir, <localisation>territoire de <commune insee="54392" precision="approximatif">Moutrot</commune></localisation>.</definition>
     <forme_ancienne>— <i>Trou de Glannes</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
@@ -23339,7 +23356,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57066" precision="certain">Berthelming</commune></localisation>.</definition>
   </article>
   <article id="DT54-03639" pg="146">
-    <vedette><sm>Unterwindsburg</sm> (<i>fort sous le vent</i>),</vedette>
+    <vedette><sm>Unterwindsburg</sm> (fort sous le vent),</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57163" precision="certain">Dabo</commune></localisation>.</definition>
   </article>
   <article id="DT54-03640" pg="146">
@@ -23452,13 +23469,14 @@
     <forme_ancienne>— <i>Sancta-Maria de Walco,</i> <date>1486</date> <reference>(arch. de Toul)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03658" pg="146" type="commune">
-    <vedette><sm>Val-de-Bon-Moutier</sm> ou <sm>Val-et-Châtillon</sm> (vulgairement <i>le Val</i> pour tout le village, et en patois <i>Vala</i> pour une partie, <i>Bon-Moté</i> pour l’autre),</vedette>
+    <vedette><sm>Val-de-Bon-Moutier</sm> ou <sm>Val-et-Châtillon</sm>,</vedette>
     <definition><localisation>canton de <commune insee="57414" precision="approximatif">Lorquin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Wale,</i> <date>1265</date> <reference>(ch. de l’abb. de Haute-Seille)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lou Vault de Boinmoustier,</i> <date>1422</date> <reference>(Tr. des ch. l. Blâmont fiefs, n° 88)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Val-Bonmotier</i> <reference>(Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Val,</i> <date>1790</date> <reference>(div. du départ.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>Vulgairement <i>le Val</i> pour tout le village, et en patois <i>Vala</i> pour une partie, <i>Bon-Moté</i> pour l’autre.</p>
       <p>— Le fief de Val-de-Bon-Moutier relevait du comté de Blâmont. <renvoi>— Voy. <sm>Bon-Moutier.</sm></renvoi></p>
     </commentaire>
     <insee>54540</insee>
@@ -23598,7 +23616,7 @@
     <forme_ancienne>— <i>Val-le-duc-Thiébauld,</i> <date>1574</date> <reference>(dom. de Nancy)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03680" pg="147">
-    <vedette><sm>Valthouse (La)</sm> (pour <i>Waldhaus,</i> maison de la forêt),</vedette>
+    <vedette><sm>Valthouse (La)</sm> (pour <sm>Waldhaus,</sm> <sm>maison de la forêt</sm>),</vedette>
     <definition><typologie>ferme (fief)</typologie>, <localisation>commune de <commune insee="57686" precision="certain">Vahl</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Valtreuze,</i> <date>1699</date> <reference>(Tr. des ch. fois et hommages)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Valthous,</i> <date>1779</date> <reference>(Descr. de la Lorr.)</reference>.</forme_ancienne>
@@ -23904,7 +23922,7 @@
     <insee>54555</insee>
   </article>
   <article id="DT54-03708" pg="150" type="commune">
-    <vedette><sm>Vaxy</sm> (on prononce <i>Vachi</i>),</vedette>
+    <vedette><sm>Vaxy</sm>,</vedette>
     <definition><localisation>canton de <commune insee="57132" precision="approximatif">Château-Salins</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vaxei,</i> <date>1277</date> <reference>(Tr. des ch. l. Salm I, n° 16)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vexi,</i> <date>1289</date> <reference>(Tr. des ch. l. Amance I, n° 1)</reference>.</forme_ancienne>
@@ -23917,6 +23935,7 @@
     <forme_ancienne>— <i>Vaxey,</i> <date>1600</date> <reference>(dom. d’Amance)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vassy,</i> <date>1608</date> <reference>(Tr. des ch. l. Moyenvic II, n° 102)</reference>.</forme_ancienne>
     <commentaire>
+      <p>On prononce <i>Vachi</i>.</p>
       <p>— Le fief de Vaxy, de la baronnie de Viviers, relevait du marquisat de Pont-à-Mousson. C’était le chef-lieu du petit canton appelé <i>le Val-de-Vaxy</i> <renvoi>(voy. ce mot)</renvoi>.</p>
     </commentaire>
     <insee>57702</insee>
@@ -24220,7 +24239,7 @@
     </commentaire>
   </article>
   <article id="DT54-03741" pg="152" type="commune">
-    <vedette><sm>Vibersviller</sm> (pour <i>Wiebersweiler</i>),</vedette>
+    <vedette><sm>Vibersviller</sm> (pour <sm>Wiebersweiler</sm>),</vedette>
     <definition><localisation>canton d’<commune insee="57011" precision="approximatif">Albestroff</commune></localisation>.</definition>
     <forme_ancienne>— <i>Wyberswiller,</i> <date>1525</date> <reference>(papier des noms, etc.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Wibersweiller,</i> <date>1737</date> <reference>(Tr. des ch. l. Fénétrange VII, n° 21)</reference>.</forme_ancienne>
@@ -24756,7 +24775,7 @@
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="54089" precision="certain">Bouxières-aux-Chênes</commune></localisation>.</definition>
   </article>
   <article id="DT54-03819" pg="156" type="commune">
-    <vedette><sm>Vintersbourg</sm> (pour <i>Wintersburg</i>),</vedette>
+    <vedette><sm>Vintersbourg</sm> (pour <sm>Wintersburg</sm>),</vedette>
     <definition><localisation>canton de <commune insee="57540" precision="approximatif">Phalsbourg</commune></localisation>.</definition>
     <forme_ancienne>— <i>Winterssberg,</i> <date>1601</date> <reference>(dom. de Phalsbourg)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Wintersberg,</i> <date>1751</date> <reference>(<i>Als. ill.</i> II, p. 198)</reference>.</forme_ancienne>
@@ -25178,7 +25197,7 @@
     <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="57742" precision="certain">Walscheid</commune></localisation>.</definition>
   </article>
   <article id="DT54-03876" pg="158">
-    <vedette><sm>Wassersuppe</sm> (<i>soupe à l’eau</i>),</vedette>
+    <vedette><sm>Wassersuppe</sm> (soupe à l’eau),</vedette>
     <definition><typologie>écart</typologie>, <localisation>commune d’<commune insee="57003" precision="certain">Abreschwiller</commune></localisation>.</definition>
   </article>
   <article id="DT54-03877" pg="158">
@@ -25231,7 +25250,7 @@
     <forme_ancienne>— <i>Westerreich,</i> <date>[??]30</date> <reference>(Tr. des ch. reg. B. 284)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03886" pg="159">
-    <vedette><sm>Wische</sm> (<i>torchon</i>),</vedette>
+    <vedette><sm>Wische</sm> (torchon),</vedette>
     <definition><typologie>écart</typologie>, <localisation>commune d’<commune insee="57003" precision="certain">Abreschwiller</commune></localisation>.</definition>
   </article>
   <article id="DT54-03887" pg="159">
@@ -25255,7 +25274,7 @@
     <definition><typologie>chapelle</typologie>, <localisation>commune de <commune insee="57592" precision="certain">Romelfing</commune></localisation> ; il y avait une louvière appartenant au domaine.</definition>
   </article>
   <article id="DT54-03892" pg="159">
-    <vedette><sm>Wolfsthal</sm> (<i>vallée du loup</i>),</vedette>
+    <vedette><sm>Wolfsthal</sm> (vallée du loup),</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune d’<commune insee="57003" precision="certain">Abreschwiller</commune></localisation>.</definition>
   </article>
   <article id="DT54-03893" pg="159">
@@ -25319,7 +25338,7 @@
     <forme_ancienne>— <i>Cerbéviller,</i> <date>1779</date> <reference>(Descr. de la Lorr.)</reference>.</forme_ancienne>
   </article>
   <article id="DT54-03903" pg="159" type="commune">
-    <vedette><sm>Xermaménil</sm> (en patois <i>Chaméni</i>),</vedette>
+    <vedette><sm>Xermaménil</sm> (en patois Chaméni),</vedette>
     <definition><localisation>canton de <commune insee="54222" precision="approximatif">Gerbéviller</commune></localisation>.</definition>
     <forme_ancienne>— <i>Armemesni,</i> <date>1152</date> <reference>(cart. de l’abb. de Belchamp)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>David presbiter de Sarmanmasnil,</i> <date>1178</date> <reference>(ch. de l’abb. de Beaupré)</reference>.</forme_ancienne>
