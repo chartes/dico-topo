@@ -750,7 +750,7 @@
     <forme_ancienne><i>de Chociaco</i> <date>1369</date>,</forme_ancienne>
     <forme_ancienne><i>de Choussiaco</i> <date>XVIe</date>,</forme_ancienne>
     <forme_ancienne><i>Chalziacum</i> ou <i>Coussiacum</i> <reference>(selon Dupré)</reference> ;</forme_ancienne>
-    <forme_ancienne>Voir si <i>Choseiacum</i> <date>1121</date> <reference>(Pontlevoy ; L-&amp;-Ch 1903, col. 52)</reference> ne s’appliquerait pas à Chouzy ;</forme_ancienne>
+    <forme_ancienne>Voir si <i>Choseiacum</i> ne s’appliquerait pas à Chouzy <date>1121</date> <reference>(Pontlevoy ; L-&amp;-Ch 1903, col. 52)</reference>.</forme_ancienne>
     <commentaire>
       <p>anc. diocèse d’Orléans</p>
       <p>DNLF : domaine de <i>Caucius.</i> Ne serait-ce plutôt un domaine de la Chaussée ?</p>
@@ -3381,7 +3381,7 @@
     <insee>41257</insee>
   </article>
   <article id="DT41-00278" pg="188" type="commune">
-    <vedette><sm>Thézée</sm> (var. <sm>Thésée</sm>)</vedette>
+    <vedette><sm>Thézée</sm>, <sm>Thésée</sm></vedette>
     <forme_ancienne>— <i>De Thaisis</i> <date>1121</date>, <date>1144</date> (<i>Theseiæ,</i> selon Dupré),</forme_ancienne>
     <forme_ancienne><i>Thasciaca</i> <reference>(Peutinger, <date>IIIe</date>)</reference>,</forme_ancienne>
     <forme_ancienne><i>de Thesis</i> <date>1369</date>,</forme_ancienne>
