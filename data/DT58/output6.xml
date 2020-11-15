@@ -4706,7 +4706,7 @@
     <forme_ancienne>— <date>1689</date> <reference>(reg. des fiefs)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-00901" pg="20">
-    <vedette><sm>Bon-Saint-Jean</sm> (Le),</vedette>
+    <vedette><sm>Bon-Saint-Jean (Le),</sm></vedette>
     <definition><typologie>maison</typologie>, <localisation>commune de <commune insee="58270" precision="certain">Saint-Verain</commune></localisation>.</definition>
   </article>
   <article id="DT58-00902" pg="20">
@@ -22036,7 +22036,7 @@
     <vedette><sm>Gué-de-Frise (Le),</sm></vedette>
     <definition><typologie>hameau et poterie</typologie>, <localisation>commune de <commune insee="58270" precision="certain">Saint-Verain</commune></localisation>.</definition>
     <forme_ancienne>— <i>Guette-Frise,</i> <date>1718</date>,</forme_ancienne>
-    <forme_ancienne>et <i>Guay-de-Frise,</i> <date>1750</date> <reference>(reg. de Saint-Verain)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Guay-de-Frise,</i> <date>1750</date> <reference>(reg. de Saint-Verain)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04229" pg="88">
     <vedette><sm>Gué-de-Frise-d’en-Bas (Le),</sm></vedette>
@@ -23586,7 +23586,7 @@
     <definition><typologie>moulin détruit</typologie> mentionné en <date>1649</date> comme étant près d’Alligny-en-Morvand (terrier d’Alligny).</definition>
   </article>
   <article id="DT58-04544" pg="94">
-    <vedette><sm>Jarnois (Le Haut et le Bas</sm>),</vedette>
+    <vedette><sm>Jarnois (Le Haut et le Bas),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="58226" precision="certain">Saint-Agnan</commune></localisation>.</definition>
   </article>
   <article id="DT58-04545" pg="94">
@@ -24588,7 +24588,7 @@
     <forme_ancienne>— <i>Lantrion</i> <reference>(Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04746" pg="98">
-    <vedette><sm>Leobernagum</sm> <i>al.</i> <sm>Leobnago in agro Mariniacense,</sm></vedette>
+    <vedette><sm>Leobernagum</sm> al. <sm>Leobnago in agro Mariniacense,</sm></vedette>
     <definition><typologie>lieu détruit</typologie>, <localisation>commune de <commune insee="58273" precision="certain">Sauvigny-les-Bois</commune></localisation>, mentionné en <date>817</date> <reference>(<i>Gall. christ.</i> XII, col. 297)</reference>.</definition>
   </article>
   <article id="DT58-04747" pg="98">
@@ -25335,7 +25335,7 @@
     <definition><typologie>maison</typologie>, <localisation>commune de <commune insee="58261" precision="certain">Saint-Père</commune></localisation>, mentionnée en <date>1334</date> (A. N. fonds de Roches).</definition>
   </article>
   <article id="DT58-04909" pg="101">
-    <vedette><sm>Loptamiarlo</sm> <i>al.</i> <sm>Aptannacus villa in pago nivernensi,</sm></vedette>
+    <vedette><sm>Loptamiarlo</sm> al. <sm>Aptannacus villa in pago nivernensi,</sm></vedette>
     <forme_ancienne><date>825</date> <reference>(<i>Gall. christ.</i> IV, col. 265)</reference>.</forme_ancienne>
   </article>
   <article id="DT58-04910" pg="101">
@@ -31499,7 +31499,7 @@
   </article>
   <article id="DT58-06065" pg="127">
     <vedette><sm>Moulin Boutillat (Le),</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="58182" precision="certain">Moulins-Engilbert</commune></localisation>, porté sur la carte de Cassini. Ce moulin prit son nom d'une famille fort marquante en Nivernais au <sm>xvi</sm><sup>e</sup> et au <sm>xvii</sm><sup>e</sup> siècle.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="58182" precision="certain">Moulins-Engilbert</commune></localisation>, porté sur la carte de Cassini. Ce moulin prit son nom d'une famille fort marquante en Nivernais au XVI<sup>e</sup> et au XVII<sup>e</sup> siècle.</definition>
   </article>
   <article id="DT58-06066" pg="127">
     <vedette><sm>Moulin Boyard (Le),</sm></vedette>
@@ -32117,7 +32117,7 @@
   </article>
   <article id="DT58-06203" pg="130">
     <vedette><sm>Moulin-Neuf (Le),</sm></vedette>
-    <definition><typologie>hameau et moulin</typologie> dit <sm>des Rats,</sm> <localisation>commune de <commune insee="58226" precision="certain">Saint-Agnan</commune></localisation>.</definition>
+    <definition><typologie>hameau et moulin</typologie> dit des Rats, <localisation>commune de <commune insee="58226" precision="certain">Saint-Agnan</commune></localisation>.</definition>
   </article>
   <article id="DT58-06204" pg="130">
     <vedette><sm>Moulin-Neuf (Le),</sm></vedette>
