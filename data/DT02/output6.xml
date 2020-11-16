@@ -1138,6 +1138,7 @@
   <article id="DT02-00127" pg="9">
     <vedette><sm>Ardon (L’),</sm></vedette>
     <definition><typologie>ruisseau</typologie> qui prend sa source dans le <localisation>bois du Sauvoir</localisation>, à l’<localisation>est de Laon</localisation>, traverse les <localisation>territoires de <commune insee="02408" precision="approximatif">Laon</commune>, de <commune insee="02191" precision="approximatif">Chivy</commune>, d’<commune insee="02294" precision="approximatif">Étouvelles</commune>, de <commune insee="02413" precision="approximatif">Laval</commune>, de <commune insee="02765" precision="approximatif">Vaucelles-et-Beffecourt</commune>, d’<commune insee="02755" precision="approximatif">Urcel</commune> et de <commune insee="02661" precision="approximatif">Royaucourt-et-Chailvet</commune></localisation> et afflue dans la rivière d’Ailette à <localisation><commune insee="02661" precision="approximatif">Royaucourt-et-Chailvet</commune></localisation>, après un parcours de 13,950 mètres.</definition>
+    <forme_ancienne><i>Ardonem</i> fluvium, <date>1139</date> <reference>(ch. de l’abb. de Saint-Vincent)</reference></forme_ancienne>
     <commentaire>
       <p>Il alimente le moulin à blé de Chivy-lez-Étouvelles. — Molendinum super <i>Ardonem</i> fluvium in alodio situm, <date>1139</date> <reference>(ch. de l’abb. de Saint-Vincent)</reference>. Ce moulin, donné en <date>961</date> par l’archidiacre Herbert à l’abbaye de Saint-Vincent de Laon, a été détruit en <date>1574</date> (comptes, arch. de la ville de Laon). — Le prévôt et les gouverneurs de Laon exerçaient une fois par an le droit de pêche dans le ruisseau d’Ardon.</p>
     </commentaire>
@@ -1498,7 +1499,7 @@
     <forme_ancienne>— <i>Albentum,</i> <date>1107</date> <reference>(Martyr. de Fesmy, 730, bibl. de Cambrai)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Aubentons,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> ;</forme_ancienne>
     <forme_ancienne>Grangia que dicitur <i>Aubenton,</i> <date>1224</date> <reference>(cart. de l’abb. de Foigny, f<sup>os</sup> 190 et 2, Bibl. imp.)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Aubenton-la-Court,</i> <date>1709</date> <reference>(int. de Soissons, C 274)</reference></forme_ancienne>
+    <forme_ancienne>— <i>Aubenton-la-Court,</i> <date>1709</date> <reference>(int. de Soissons, C 274)</reference>.</forme_ancienne>
     <commentaire>
       <p>— Aubenton-la-Court « est un ancien terrouer de la deppendance autrefois de l’abbaye de Fesmy où il y avoit un fief dit <i>de Saint-Estienne.</i> Barthélemy, évêque de Laon, en étoit le seigneur fiefvé. Il le donna à cette maison religieuse, qui en possédoit la terre principalle ainsi appellée et située sur la rivière d’Aubenton composée d’Aube et de Ton, qui s’estant joints ensemble va passer par le milieu de ses pretz et lui en fait porter le nom. Est ainsi nommé pour le faire différer d’avec Aubenton-la-Ville, par l’addition de ces mots <i>la cour,</i> autrement dit la ferme, grange ou métairie d’Aubenton. Consistoit, au commencement de son établissement, en sence savoir en terres labourables, pretz, bois et étangs. Les murs de cette ferme ont servi à la construction de la place de la Capelle » (Livre de Foigny, par de Lancy, p. 18). — Cette ferme a été reconstruite en un autre endroit : <renvoi>voy. <sm>Aubenton.</sm></renvoi></p>
     </commentaire>
@@ -6057,9 +6058,17 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02620" precision="certain">Presles-et-Boves</commune></localisation>.</definition>
     <forme_ancienne>— <i>Notre-Dame-des-Boves,</i> <date>1792</date> <reference>(reg. des ventes du distr. de Soissons)</reference>.</forme_ancienne>
   </article>
-  <article id="DT02-00793" pg="37">
+  <article id="DT02-00793-01" pg="37">
     <vedette><sm>Boves (Les),</sm></vedette>
-    <definition><typologie>hameaux</typologie>, <localisation>communes de <commune insee="02662" precision="approximatif">Rozet-Saint-Albin</commune>, de <commune insee="02714" precision="approximatif">Sermoise</commune> et de <commune insee="02749" precision="approximatif">Troësnes</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02662" precision="certain">Rozet-Saint-Albin</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00793-02" pg="37">
+    <vedette><sm>Boves (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02714" precision="certain">Sermoise</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00793-03" pg="37">
+    <vedette><sm>Boves (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02749" precision="certain">Troësnes</commune></localisation>.</definition>
   </article>
   <article id="DT02-00794" pg="37">
     <vedette><sm>Bovette (La),</sm></vedette>
@@ -6640,9 +6649,41 @@
     <vedette><sm>Briquet,</sm></vedette>
     <definition><typologie>hameau et moulin à eau</typologie>, <localisation>commune de <commune insee="02054" precision="certain">Bazoches</commune></localisation>.</definition>
   </article>
-  <article id="DT02-00863" pg="40">
+  <article id="DT02-00863-01" pg="40">
     <vedette><sm>Briqueterie (La),</sm></vedette>
-    <definition><typologie>maisons isolées</typologie>, <localisation>communes de <commune insee="02101" precision="approximatif">Bosmont</commune>, la <commune insee="02109" precision="approximatif">Bouteille</commune>, <commune insee="02373" precision="approximatif">Hary</commune>, <commune insee="02426" precision="approximatif">Levergies</commune>, <commune insee="02469" precision="approximatif">Marly</commune>, <commune insee="02513" precision="approximatif">Montigny-le-Franc</commune>, <commune insee="02657" precision="approximatif">Rougeries</commune>, <commune insee="02785" precision="approximatif">Vermand</commune>, <commune insee="02826" precision="approximatif">Voulpaix</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02101" precision="certain">Bosmont</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-02" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de la <commune insee="02109" precision="certain">Bouteille</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-03" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02373" precision="certain">Hary</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-04" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02426" precision="certain">Levergies</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-05" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02469" precision="certain">Marly</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-06" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02513" precision="certain">Montigny-le-Franc</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-07" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02657" precision="certain">Rougeries</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-08" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02785" precision="certain">Vermand</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00863-09" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02826" precision="certain">Voulpaix</commune></localisation>.</definition>
   </article>
   <article id="DT02-00864" pg="40">
     <vedette><sm>Briqueterie (La),</sm></vedette>
@@ -6658,9 +6699,13 @@
       <p>— Autrefois fief vassal de la Ferté-Milon.</p>
     </commentaire>
   </article>
-  <article id="DT02-00866" pg="40">
+  <article id="DT02-00866-01" pg="40">
     <vedette><sm>Briqueterie (La),</sm></vedette>
-    <definition><typologie>petit hameau</typologie>, <localisation>communes d’<commune insee="02568" precision="approximatif">Oigny</commune> et <commune insee="02666" precision="approximatif">Rozoy-sur-Serre</commune></localisation>.</definition>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune d’<commune insee="02568" precision="certain">Oigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-00866-02" pg="40">
+    <vedette><sm>Briqueterie (La),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02666" precision="certain">Rozoy-sur-Serre</commune></localisation>.</definition>
   </article>
   <article id="DT02-00867" pg="40">
     <vedette><sm>Briqueterie (La)</sm> ou <sm>Warnelle,</sm></vedette>
@@ -8025,17 +8070,41 @@
     <vedette><sm>Carrier (Le),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02003" precision="certain">Acy</commune></localisation>.</definition>
   </article>
-  <article id="DT02-01050" pg="49">
+  <article id="DT02-01050-01" pg="49">
     <vedette><sm>Carrière (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02057" precision="approximatif">Beaurevoir</commune>, <commune insee="02180" precision="approximatif">Chéry-lez-Pouilly</commune>, <commune insee="02203" precision="approximatif">Coincy</commune>, <commune insee="02210" precision="approximatif">Condé-sur-Aisne</commune>, <commune insee="02440" precision="approximatif">Lor</commune>, <commune insee="02530" precision="approximatif">Moulins</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02057" precision="certain">Beaurevoir</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01050-02" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02180" precision="certain">Chéry-lez-Pouilly</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01050-03" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02203" precision="certain">Coincy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01050-04" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02210" precision="certain">Condé-sur-Aisne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01050-05" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02440" precision="certain">Lor</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01050-06" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02530" precision="certain">Moulins</commune></localisation>.</definition>
   </article>
   <article id="DT02-01051" pg="49">
     <vedette><sm>Carrière (La),</sm></vedette>
     <definition><typologie>moulin à vent et maison isolée</typologie>, <localisation>commune de <commune insee="02072" precision="certain">Berrieux</commune></localisation>.</definition>
   </article>
-  <article id="DT02-01052" pg="49">
+  <article id="DT02-01052-01" pg="49">
     <vedette><sm>Carrière (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02089" precision="approximatif">Billy-sur-Aisne</commune> et <commune insee="02267" precision="approximatif">Dommiers</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02089" precision="certain">Billy-sur-Aisne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01052-02" pg="49">
+    <vedette><sm>Carrière (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02267" precision="certain">Dommiers</commune></localisation>.</definition>
   </article>
   <article id="DT02-01053" pg="49">
     <vedette><sm>Carrière (La),</sm></vedette>
@@ -8219,9 +8288,13 @@
     <vedette><sm>Carrières (Les),</sm></vedette>
     <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="02445" precision="certain">Luzoir</commune></localisation> ; <typologie>vassal</typologie> de la <localisation>châtellenie d’Hirson</localisation>.</definition>
   </article>
-  <article id="DT02-01076" pg="49">
+  <article id="DT02-01076-01" pg="49">
     <vedette><sm>Carrières (Les),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02530" precision="approximatif">Moulins</commune> et <commune insee="02766" precision="approximatif">Vaudesson</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02530" precision="certain">Moulins</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01076-02" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02766" precision="certain">Vaudesson</commune></localisation>.</definition>
   </article>
   <article id="DT02-01077" pg="49">
     <vedette><sm>Carrières (Les),</sm></vedette>
@@ -8591,17 +8664,25 @@
       <p>Autrefois domaine de l’abb. de Foigny.</p>
     </commentaire>
   </article>
-  <article id="DT02-01130" pg="51">
+  <article id="DT02-01130-01" pg="51">
     <vedette><sm>Cendrière (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes d’<commune insee="02031" precision="approximatif">Aubenton</commune> et de <commune insee="02520" precision="approximatif">Mont-Notre-Dame</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune d’<commune insee="02031" precision="certain">Aubenton</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01130-02" pg="51">
+    <vedette><sm>Cendrière (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02520" precision="certain">Mont-Notre-Dame</commune></localisation>.</definition>
   </article>
   <article id="DT02-01131" pg="51">
     <vedette><sm>Cendrière (La),</sm></vedette>
     <definition><typologie>petit hameau</typologie>, <localisation>commune d’<commune insee="02282" precision="certain">Eppes</commune></localisation>.</definition>
   </article>
-  <article id="DT02-01132" pg="51">
+  <article id="DT02-01132-01" pg="51">
     <vedette><sm>Cense (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02083" precision="approximatif">Beuvardes</commune> et de <commune insee="02800" precision="approximatif">Viffort</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02083" precision="certain">Beuvardes</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01132-02" pg="51">
+    <vedette><sm>Cense (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02800" precision="certain">Viffort</commune></localisation>.</definition>
   </article>
   <article id="DT02-01133" pg="51">
     <vedette><sm>Cense (La),</sm></vedette>
@@ -9462,10 +9543,10 @@
   <article id="DT02-01246" pg="57">
     <pg>57</pg>
     <vedette><sm>Chanet (Le),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02213" precision="certain">Connigis</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02213" precision="certain">Connigis</commune></localisation> ; petit <typologie>ruisseau</typologie> affluent du Surmelin à Connigis.</definition>
     <forme_ancienne>— <i>Le Chasnet</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <commentaire>
-      <p>— Petit ruisseau affluent du Surmelin à Connigis ; il n’alimente aucune usine, et son parcours est de 800 mètres.</p>
+      <p>— Ruisseau qui n’alimente aucune usine, et son parcours est de 800 mètres.</p>
     </commentaire>
   </article>
   <article id="DT02-01247" pg="57">
@@ -9499,10 +9580,10 @@
   </article>
   <article id="DT02-01253" pg="57">
     <vedette><sm>Chanteraine,</sm></vedette>
-    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02148" precision="certain">Celles-sur-Aisne</commune></localisation>.</definition>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02148" precision="certain">Celles-sur-Aisne</commune></localisation> ; petit <typologie>ruisseau</typologie> affluent du ruisseau de Sancy à Celles-sur-Aisne.</definition>
     <forme_ancienne>— <i>Chantereine</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Petit ruisseau affluent du ruisseau de Sancy à Celles-sur-Aisne ; il prend sa source à Sancy, n’alimente aucune usine et a un parcours de 750 mètres.</p>
+      <p> Ruisseau qui prend sa source à Sancy, n’alimente aucune usine et a un parcours de 750 mètres.</p>
     </commentaire>
   </article>
   <article id="DT02-01254" pg="57">
@@ -10394,9 +10475,13 @@
     <vedette><sm>Chaussée (La),</sm></vedette>
     <definition><typologie>faubourg</typologie> de <localisation><commune insee="02173" precision="certain">Chauny</commune></localisation>, au sud.</definition>
   </article>
-  <article id="DT02-01381" pg="64">
+  <article id="DT02-01381-01" pg="64">
     <vedette><sm>Chaussée (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="02295" precision="approximatif">Étréaupont</commune> et de <commune insee="02321" precision="approximatif">Fontaine</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02295" precision="certain">Étréaupont</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01381-02" pg="64">
+    <vedette><sm>Chaussée (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02321" precision="certain">Fontaine</commune></localisation>.</definition>
   </article>
   <article id="DT02-01382" pg="64">
     <vedette><sm>Chaussée (La),</sm></vedette>
@@ -13641,6 +13726,7 @@
     <vedette><sm>Cramoiselle,</sm></vedette>
     <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02233" precision="certain">Cramaille</commune></localisation>.</definition>
     <forme_ancienne>— <i>Crenmoiselles,</i> <date>1221</date> <reference>(ch. de l’abb. d’Igny, arch. de la Marne)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Vaubourg</i>, <date>janvier 1699</date> <reference>(arch. de l’Emp. K 1277)</reference>.</forme_ancienne>
     <commentaire>
       <p>La seigneurie relevait d’Oulchy-le-Château ; elle prit le nom de <i>Vaubourg</i> en vertu de lettres patentes du mois de <date>janvier 1699</date> <reference>(arch. de l’Emp. K 1277)</reference>.</p>
     </commentaire>
@@ -13970,10 +14056,9 @@
   </article>
   <article id="DT02-01803" pg="87">
     <vedette><sm>Croanes,</sm></vedette>
-    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02177" precision="certain">Cherêt</commune></localisation>.</definition>
-    <commentaire>
-      <p>— Il donne son nom à un petit ruisseau qui prend sa source à Cherêt, passe à Bruyères, où il portait autrefois les noms de <i>Raier,</i> <date>1246</date> <reference>(cart. de l’abb. de Foigny, f° 26, Bibl. imp.)</reference>, et de <i>riu Bernart,</i> <date>1326</date> <reference>(cueilleret de l’Hôtel-Dieu de Laon, B 63)</reference>, et se jette enfin dans le ruisseau d’Ardon.</p>
-    </commentaire>
+    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02177" precision="certain">Cherêt</commune></localisation> ; il donne son nom à un petit <typologie>ruisseau</typologie> qui prend sa source à <localisation><commune insee="02177" precision="certain">Cherêt</commune></localisation>, passe à <localisation><commune insee="02128" precision="certain">Bruyères</commune></localisation>, où il portait autrefois les noms de <i>Raier</i> et de <i>riu Bernart</i>, et se jette enfin dans le ruisseau d’Ardon.</definition>
+    <forme_ancienne><i>Raier,</i> <date>1246</date> <reference>(cart. de l’abb. de Foigny, f° 26, Bibl. imp.)</reference></forme_ancienne>
+    <forme_ancienne><i>riu Bernart,</i> <date>1326</date> <reference>(cueilleret de l’Hôtel-Dieu de Laon, B 63)</reference></forme_ancienne>
   </article>
   <article id="DT02-01804" pg="87">
     <vedette><sm>Croart,</sm></vedette>
@@ -15378,13 +15463,81 @@
     <forme_ancienne>— <i>Eclusieux</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Eclosiaux,</i> <date>1782</date> <reference>(baill. d’Aubenton, B 2522)</reference>.</forme_ancienne>
   </article>
-  <article id="DT02-01980" pg="96">
+  <article id="DT02-01980-01" pg="96">
     <vedette><sm>Écluse (L’),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02070" precision="approximatif">Bernot</commune>, <commune insee="02075" precision="approximatif">Berthenicourt</commune>, <commune insee="02106" precision="approximatif">Bourg-et-Comin</commune>, <commune insee="02124" precision="approximatif">Brissy</commune>, <commune insee="02170" precision="approximatif">Châtillon-sur-Oise</commune>, <commune insee="02326" precision="approximatif">Fontenoy</commune>, <commune insee="02124" precision="approximatif">Hamégicourt</commune>, <commune insee="02366" precision="approximatif">Hannape</commune>, <commune insee="02376" precision="approximatif">Hauteville</commune>, <commune insee="02397" precision="approximatif">Jussy</commune>, <commune insee="02563" precision="approximatif">Noyal</commune>, <commune insee="02575" precision="approximatif">Origny-Sainte-Benoîte</commune>, <commune insee="02757" precision="approximatif">Vadencourt</commune> et <commune insee="02783" precision="approximatif">Verly</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02070" precision="certain">Bernot</commune></localisation>.</definition>
   </article>
-  <article id="DT02-01981" pg="96">
+  <article id="DT02-01980-02" pg="96">
     <vedette><sm>Écluse (L’),</sm></vedette>
-    <definition><typologie>petit hameau</typologie>, <localisation>communes de la <commune insee="02307" precision="approximatif">Ferté-Milon</commune>, <commune insee="02710" precision="approximatif">Seraucourt</commune>, <commune insee="02721" precision="approximatif">Sissy</commune>, <commune insee="02738" precision="approximatif">Tergnier</commune>, <commune insee="02797" precision="approximatif">Vieil-Arcy</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02075" precision="certain">Berthenicourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-03" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02106" precision="certain">Bourg-et-Comin</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-04" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02124" precision="certain">Brissy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-05" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02170" precision="certain">Châtillon-sur-Oise</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-06" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02326" precision="certain">Fontenoy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-07" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02124" precision="certain">Hamégicourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-08" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02366" precision="certain">Hannape</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-09" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02376" precision="certain">Hauteville</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-10" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02397" precision="certain">Jussy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-11" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02563" precision="certain">Noyal</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-12" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02575" precision="certain">Origny-Sainte-Benoîte</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-13" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02757" precision="certain">Vadencourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01980-14" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02783" precision="certain">Verly</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01981-01" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de la <commune insee="02307" precision="certain">Ferté-Milon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01981-02" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02710" precision="certain">Seraucourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01981-03" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02721" precision="certain">Sissy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01981-04" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02738" precision="certain">Tergnier</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01981-05" pg="96">
+    <vedette><sm>Écluse (L’),</sm></vedette>
+    <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02797" precision="certain">Vieil-Arcy</commune></localisation>.</definition>
   </article>
   <article id="DT02-01982" pg="96">
     <vedette><sm>Écluses (Les),</sm></vedette>
@@ -15995,9 +16148,29 @@
       <p>— Son origine remonte à peine à <date>1813</date>.</p>
     </commentaire>
   </article>
-  <article id="DT02-02049" pg="100">
+  <article id="DT02-02049-01" pg="100">
     <vedette><sm>Espérance (L’),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02055" precision="approximatif">Beaumé</commune>, <commune insee="02240" precision="approximatif">Croix-Fonsomme</commune>, <commune insee="02321" precision="approximatif">Fontaine</commune>, le <commune insee="02374" precision="approximatif">Haucourt</commune>, <commune insee="02522" precision="approximatif">Mont-Saint-Jean</commune> et <commune insee="02720" precision="approximatif">Sissonne</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02055" precision="certain">Beaumé</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02049-02" pg="100">
+    <vedette><sm>Espérance (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02240" precision="certain">Croix-Fonsomme</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02049-03" pg="100">
+    <vedette><sm>Espérance (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02321" precision="certain">Fontaine</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02049-04" pg="100">
+    <vedette><sm>Espérance (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune du <commune insee="02374" precision="certain">Haucourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02049-05" pg="100">
+    <vedette><sm>Espérance (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02522" precision="certain">Mont-Saint-Jean</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02049-06" pg="100">
+    <vedette><sm>Espérance (L’),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02720" precision="certain">Sissonne</commune></localisation>.</definition>
   </article>
   <article id="DT02-02050" pg="100">
     <vedette><sm>Espérance (L’),</sm></vedette>
@@ -17524,9 +17697,17 @@
     </commentaire>
     <insee>02312</insee>
   </article>
-  <article id="DT02-02220" pg="111">
+  <article id="DT02-02220-01" pg="111">
     <vedette><sm>Flavigny,</sm></vedette>
-    <definition><typologie>petits fiefs</typologie>, <localisation>communes de <commune insee="02261" precision="approximatif">Dercy</commune>, <commune insee="02566" precision="approximatif">Ognes</commune> et <commune insee="02617" precision="approximatif">Pouilly</commune></localisation>.</definition>
+    <definition><typologie>petit fief</typologie>, <localisation>commune de <commune insee="02261" precision="approximatif">Dercy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02220-02" pg="111">
+    <vedette><sm>Flavigny,</sm></vedette>
+    <definition><typologie>petit fief</typologie>, <localisation>commune de <commune insee="02566" precision="approximatif">Ognes</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02220-03" pg="111">
+    <vedette><sm>Flavigny,</sm></vedette>
+    <definition><typologie>petit fief</typologie>, <localisation>commune de <commune insee="02617" precision="approximatif">Pouilly</commune></localisation>.</definition>
   </article>
   <article id="DT02-02221" pg="111">
     <vedette><sm>Flavigny,</sm></vedette>
@@ -21533,9 +21714,21 @@
     <vedette><sm>Guinguette (La),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02327" precision="approximatif">Foreste</commune> et de <commune insee="02532" precision="approximatif">Moy</commune></localisation>.</definition>
   </article>
-  <article id="DT02-02803" pg="132">
+  <article id="DT02-02803-01" pg="132">
     <vedette><sm>Guinguette (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes d’<commune insee="02019" precision="approximatif">Annois</commune>, <commune insee="02698" precision="approximatif">Sancy</commune>, <commune insee="02699" precision="approximatif">Saponay</commune>, <commune insee="02726" precision="approximatif">Sommette-Éaucourt</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune d’<commune insee="02019" precision="certain">Annois</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02803-02" pg="132">
+    <vedette><sm>Guinguette (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02698" precision="certain">Sancy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02803-03" pg="132">
+    <vedette><sm>Guinguette (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02699" precision="certain">Saponay</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02803-04" pg="132">
+    <vedette><sm>Guinguette (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02726" precision="certain">Sommette-Éaucourt</commune></localisation>.</definition>
   </article>
   <article id="DT02-02804" pg="132" type="commune">
     <vedette><sm>Guise,</sm></vedette>
@@ -24162,6 +24355,7 @@
     <forme_ancienne>— <i>Laodunum,</i> <date>680</date> <reference>(<i>Hist. de France,</i> t. II, p. 653)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laudunum-Clavatum,</i> <date>680</date> <reference>(Gesta regum Francorum)</reference>.</forme_ancienne>
     <forme_ancienne>— Urbs <i>Laudunensis,</i> <date>842</date> <reference>(Nithardi Caroli Nepotis Hist. lib. III)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Comitatus Laudunensis,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(ex Vità sancti Remigii)</reference></forme_ancienne>
     <forme_ancienne>— <i>Laudunum mons,</i> <date>920</date> <reference>(<i>Hist. de France,</i> t. VIII, p. 368)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lucdunicum,</i> <date>963</date> <reference>(dipl. du roi Lothaire II, <i>Hist. de France,</i> t. IX, p. 628 E)</reference>.</forme_ancienne>
     <forme_ancienne>— Urbs <i>Lugdunensis,</i> <date>968</date> <reference>(dipl. du roi Lothaire II, <i>Hist. de France,</i> t. IX, p. 633 C)</reference>.</forme_ancienne>
@@ -24193,25 +24387,20 @@
     <forme_ancienne>— <i>Laudunensis parrochia,</i> <date>867</date> <reference>(epistola Hincmari arch. Rem. ad Nicolaum papam, <i>Hist. de France,</i> t. VII, p. 526 C)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laudunensis civitas,</i> <date>936</date> <reference>(<i>Hist. de France,</i> t. IX, p. 65 D)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laudunensis provincia,</i> <date>978</date> <reference>(Chronique de Guillaume de Nangis)</reference>.</forme_ancienne>
+    <forme_ancienne>—<i>Laudunesus,</i> <date>1125</date> <reference>(grand cart. de l’év. de Laon, charte 29)</reference></forme_ancienne>
+    <forme_ancienne>—<i>Laudunesium,</i> <date>1174</date> <reference>(grand cart. de l’év. de Laon, charte 2)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laudunensis episcopatus,</i> <date>1202</date> <reference>(petit cart. de l’év. de Laon, ch. 102)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Loenois,</i> <date>1276</date> <reference>(arch. comm. de Bruyères-et-Montbérault)</reference>.</forme_ancienne>
+    <forme_ancienne>— Terre de <i>Loonois,</i> <date>1282</date> <reference>(Olim, t. II, p. 218)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Loonnois,</i> <date>1293</date> <reference>(grand cart. de l’év. de Laon, ch. 211)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Laonnois,</i> <date>1347</date> <reference>(ch. de l’év. de Laon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laonnoys,</i> <date>1359</date> <reference>(arch. de l’Emp. Tr. des chartes, reg. 90, pièce 250)</reference>.</forme_ancienne>
     <forme_ancienne>— Pays de <i>Launoys,</i> <date>1367</date> <reference>(arch. de l’Emp. Tr. des chartes, reg. 99, pièce 46)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lonois,</i> <date><sm>xiv</sm><sup>e</sup> siècle</date> <reference>(actes du chap. cathédral de Laon, collection de M. Hidé)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Cette petite province avait la même étendue que le diocèse de Laon. Les prélats qui gouvernèrent celui-ci au moyen âge mirent souvent dans leur formule les mots <i>episcopus Laudunensium,</i> pour indiquer que leur autorité s’étendait sur ceux qui habitaient le Laonnois. Ce nom, dans son acception restreinte, n’indique que les domaines épiscopaux :</p>
-    </commentaire>
-    <forme_ancienne><i>Laudunesus,</i> <date>1125</date> ;</forme_ancienne>
-    <forme_ancienne><i>Laudunesium,</i> <date>1174</date> <reference>(grand cart. de l’év. de Laon, chartes 29 et 2)</reference>.</forme_ancienne>
-    <forme_ancienne>— Terre de <i>Loonois,</i> <date>1282</date> <reference>(Olim, t. II, p. 218)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Loonnois,</i> <date>1293</date> <reference>(grand cart. de l’év. de Laon, ch. 211)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Laonnois,</i> <date>1347</date> <reference>(ch. de l’év. de Laon)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>Cette petite province avait la même étendue que le diocèse de Laon. Les prélats qui gouvernèrent celui-ci au moyen âge mirent souvent dans leur formule les mots <i>episcopus Laudunensium,</i> pour indiquer que leur autorité s’étendait sur ceux qui habitaient le Laonnois. Ce nom, dans son acception restreinte, n’indique que les domaines épiscopaux : <i>Laudunesus,</i> <date>1125</date> ; <i>Laudunesium,</i> <date>1174</date> <reference>(grand cart. de l’év. de Laon, chartes 29 et 2)</reference>.— Terre de <i>Loonois,</i> <date>1282</date> <reference>(Olim, t. II, p. 218)</reference>.— <i>Loonnois,</i> <date>1293</date> <reference>(grand cart. de l’év. de Laon, ch. 211)</reference>.— <i>Laonnois,</i> <date>1347</date> <reference>(ch. de l’év. de Laon)</reference>.</p>
       <p>Ces domaines ont formé le duché de Laonnois, comprenant le comté d’Anizy et les villages de Beffecourt, Étouvelles, Fouquerolles, Laval, Lizy, Merlieux, Mons-en-Laonnois, Nouvion-le-Vineux, Presles, Urcel, Valavergny, Vaucelles et Wissignicourt.</p>
-      <p>L’évêque de Laon était, en sa qualité de duc de Laonnois, suzerain des châtellenies d’Aulnois, Montaigu, Pierrepont et Sissonne ; de la baronnie de Thiernu, etc. Son bailli rendait la justice à Laon, curia ducatus, <date>1269</date> (Olim, t. I, p. 779).</p>
-    </commentaire>
-    <forme_ancienne>— Salle de la duchée de <i>Loon,</i> <date>1336</date> <reference>(ch. de l’év. de Laon)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>L’évêque de Laon était, en sa qualité de duc de Laonnois, suzerain des châtellenies d’Aulnois, Montaigu, Pierrepont et Sissonne ; de la baronnie de Thiernu, etc. Son bailli rendait la justice à Laon, curia ducatus, <date>1269</date> (Olim, t. I, p. 779).— Salle de la duchée de <i>Loon,</i> <date>1336</date> <reference>(ch. de l’év. de Laon)</reference>.</p>
       <p>— Dès le <date><sm>xiv</sm><sup>e</sup> siècle</date>, le duché de Laonnois tendait déjà à prendre celui de duché de Laon, qu’il a conservé depuis.</p>
     </commentaire>
   </article>
@@ -25917,13 +26106,53 @@
     <vedette><sm>Maison-Berton (La),</sm></vedette>
     <definition><typologie>maison isolée</typologie>, <localisation>commune d’<commune insee="02283" precision="certain">Erlon</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03327" pg="161">
+  <article id="DT02-03327-01" pg="161">
     <vedette><sm>Maison-Blanche (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02046" precision="approximatif">Barenton-Bugny</commune>, <commune insee="02102" precision="approximatif">Bouconville</commune>, <commune insee="02133" precision="approximatif">Bucy-lez-Pierrepont</commune>, <commune insee="02178" precision="approximatif">Chermizy</commune>, <commune insee="02450" precision="approximatif">Macquigny</commune>, <commune insee="02505" precision="approximatif">Montfaucon</commune>, <commune insee="02509" precision="approximatif">Monthiers</commune>, <commune insee="02671" precision="approximatif">Saint-Aubin</commune> et <commune insee="02795" precision="approximatif">Vic-sur-Aisne</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02046" precision="certain">Barenton-Bugny</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03328" pg="161">
+  <article id="DT02-03327-02" pg="161">
     <vedette><sm>Maison-Blanche (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes de <commune insee="02189" precision="approximatif">Chivres-et-Mâchecourt</commune>, <commune insee="02443" precision="approximatif">Lucy-le-Bocage</commune> et <commune insee="02478" precision="approximatif">Merlieux-et-Fouquerolles</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02102" precision="certain">Bouconville</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-03" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02133" precision="certain">Bucy-lez-Pierrepont</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-04" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02178" precision="certain">Chermizy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-05" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02450" precision="certain">Macquigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-06" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02505" precision="certain">Montfaucon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-07" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02509" precision="certain">Monthiers</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-08" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02671" precision="certain">Saint-Aubin</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03327-09" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02795" precision="certain">Vic-sur-Aisne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03328-01" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02189" precision="certain">Chivres-et-Mâchecourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03328-02" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02443" precision="certain">Lucy-le-Bocage</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03328-03" pg="161">
+    <vedette><sm>Maison-Blanche (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02478" precision="certain">Merlieux-et-Fouquerolles</commune></localisation>.</definition>
   </article>
   <article id="DT02-03329" pg="161">
     <vedette><sm>Maison-Bleue</sm> ou <sm>Bellevue,</sm></vedette>
@@ -26126,9 +26355,21 @@
     <vedette><sm>Maison-Neuve (La),</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="02514" precision="approximatif">Montigny-Lengrain</commune> et de <commune insee="02806" precision="approximatif">Villeneuve-sur-Fère</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03371" pg="162">
+  <article id="DT02-03371-01" pg="162">
     <vedette><sm>Maison-Neuve (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02477" precision="approximatif">Mercin-et-Vaux</commune>, <commune insee="02628" precision="approximatif">Puiseux</commune>, <commune insee="02645" precision="approximatif">Reuilly-Sauvigny</commune> et <commune insee="02797" precision="approximatif">Vieil-Arcy</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02477" precision="certain">Mercin-et-Vaux</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03371-02" pg="162">
+    <vedette><sm>Maison-Neuve (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02628" precision="certain">Puiseux</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03371-03" pg="162">
+    <vedette><sm>Maison-Neuve (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02645" precision="certain">Reuilly-Sauvigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03371-04" pg="162">
+    <vedette><sm>Maison-Neuve (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02797" precision="certain">Vieil-Arcy</commune></localisation>.</definition>
   </article>
   <article id="DT02-03372" pg="162">
     <vedette><sm>Maison-Neuve (La),</sm></vedette>
@@ -26151,17 +26392,73 @@
     <vedette><sm>Maison-Roinse (La),</sm></vedette>
     <definition><typologie>petit hameau</typologie>, <localisation>commune de <commune insee="02267" precision="certain">Dommiers</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03377" pg="162">
+  <article id="DT02-03377-01" pg="162">
     <vedette><sm>Maison-Rouge (La),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>communes de <commune insee="02335" precision="approximatif">Fressancourt</commune>, <commune insee="02489" precision="approximatif">Molinchart</commune>, <commune insee="02518" precision="approximatif">Montlevon</commune>, <commune insee="02540" precision="approximatif">Nesles</commune>, <commune insee="02610" precision="approximatif">Pommiers</commune>, <commune insee="02614" precision="approximatif">Pontru</commune>, <commune insee="02686" precision="approximatif">Saint-Paul-aux-Bois</commune>, <commune insee="02800" precision="approximatif">Viffort</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02335" precision="certain">Fressancourt</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03378" pg="162">
+  <article id="DT02-03377-02" pg="162">
     <vedette><sm>Maison-Rouge (La),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="02032" precision="approximatif">Aubigny</commune>, Lesquielles-Saint-Germain, <commune insee="02498" precision="approximatif">Montaigu</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02489" precision="certain">Molinchart</commune></localisation>.</definition>
   </article>
-  <article id="DT02-03379" pg="162">
+  <article id="DT02-03377-03" pg="162">
     <vedette><sm>Maison-Rouge (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02074" precision="approximatif">Bertaucourt-Épourdon</commune>, <commune insee="02273" precision="approximatif">Dury</commune>, <commune insee="02450" precision="approximatif">Macquigny</commune>, <commune insee="02680" precision="approximatif">Saint-Gobain</commune>, <commune insee="02737" precision="approximatif">Tavaux-Pontsericourt</commune>, <commune insee="02774" precision="approximatif">Vendelles</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02518" precision="certain">Montlevon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03377-04" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02540" precision="certain">Nesles</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03377-05" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02610" precision="certain">Pommiers</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03377-06" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02614" precision="certain">Pontru</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03377-07" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02686" precision="certain">Saint-Paul-aux-Bois</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03377-08" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02800" precision="certain">Viffort</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03378-01" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02032" precision="certain">Aubigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03378-02" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02422" precision="certain">Lesquielles-Saint-Germain</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03378-03" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02498" precision="certain">Montaigu</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-01" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02074" precision="certain">Bertaucourt-Épourdon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-02" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02273" precision="certain">Dury</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-03" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02450" precision="certain">Macquigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-04" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02680" precision="certain">Saint-Gobain</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-05" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02737" precision="certain">Tavaux-Pontsericourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03379-06" pg="162">
+    <vedette><sm>Maison-Rouge (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02774" precision="certain">Vendelles</commune></localisation>.</definition>
   </article>
   <article id="DT02-03380" pg="162">
     <vedette><sm>Maison-Rousse (La),</sm></vedette>
@@ -26346,9 +26643,17 @@
     <vedette><sm>Malassise,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02521" precision="certain">Montreuil-aux-Lions</commune></localisation> ; détruite <date>vers 1815</date>.</definition>
   </article>
-  <article id="DT02-03407" pg="163">
+  <article id="DT02-03407-01" pg="163">
     <vedette><sm>Malbâtie (La),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02048" precision="approximatif">Barenton-sur-Serre</commune>, <commune insee="02408" precision="approximatif">Laon</commune>, <commune insee="02778" precision="approximatif">Vendresse-et-Troyon</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02048" precision="certain">Barenton-sur-Serre</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03407-02" pg="163">
+    <vedette><sm>Malbâtie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02408" precision="certain">Laon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03407-03" pg="163">
+    <vedette><sm>Malbâtie (La),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02778" precision="certain">Vendresse-et-Troyon</commune></localisation>.</definition>
   </article>
   <article id="DT02-03408" pg="163">
     <vedette><sm>Malbâtie (La),</sm></vedette>
@@ -26612,9 +26917,45 @@
     <vedette><sm>Maquimont,</sm></vedette>
     <definition><typologie>bois</typologie>, <localisation>commune de <commune insee="02139" precision="certain">Caillouël-Crépigny</commune></localisation> ; défriché en partie.</definition>
   </article>
-  <article id="DT02-03445" pg="164">
+  <article id="DT02-03445-01" pg="164">
     <vedette><sm>Marais (Le),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="02011" precision="approximatif">Ambleny</commune>, <commune insee="02165" precision="approximatif">Charmes</commune>, <commune insee="02234" precision="approximatif">Craonne</commune>, <commune insee="02363" precision="approximatif">Guny</commune>, <commune insee="02008" precision="approximatif">Jouy</commune>, <commune insee="02431" precision="approximatif">Liez</commune>, <commune insee="02473" precision="approximatif">Mayot</commune>, <commune insee="02593" precision="approximatif">Pasly</commune>, <commune insee="02734" precision="approximatif">Taillefontaine</commune> et <commune insee="02750" precision="approximatif">Trosly-Loire</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02011" precision="certain">Ambleny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-02" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02165" precision="certain">Charmes</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-03" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02234" precision="certain">Craonne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-04" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02363" precision="certain">Guny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-05" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02008" precision="certain">Jouy</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-06" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02431" precision="certain">Liez</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-07" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02473" precision="certain">Mayot</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-08" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02593" precision="certain">Pasly</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-09" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02734" precision="certain">Taillefontaine</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03445-10" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02750" precision="certain">Trosly-Loire</commune></localisation>.</definition>
   </article>
   <article id="DT02-03446" pg="164">
     <vedette><sm>Marais (Le),</sm></vedette>
@@ -26623,9 +26964,17 @@
       <p>— Ce domaine appartenait à l’abb. de Valsery.</p>
     </commentaire>
   </article>
-  <article id="DT02-03447" pg="164">
+  <article id="DT02-03447-01" pg="164">
     <vedette><sm>Marais (Le),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes de <commune insee="02235" precision="approximatif">Craonnelle</commune>, <commune insee="02638" precision="approximatif">Remies</commune> et <commune insee="02778" precision="approximatif">Vendresse-et-Troyon</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02235" precision="certain">Craonnelle</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03447-02" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02638" precision="certain">Remies</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-03447-03" pg="164">
+    <vedette><sm>Marais (Le),</sm></vedette>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02778" precision="certain">Vendresse-et-Troyon</commune></localisation>.</definition>
   </article>
   <article id="DT02-03448" pg="165">
     <pg>165</pg>
@@ -27499,8 +27848,9 @@
   <article id="DT02-03562" pg="170">
     <vedette><sm>Mauvason,</sm></vedette>
     <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02229" precision="certain">Courtrizy-et-Fussigny</commune></localisation> ; aujourd’hui détruit.</definition>
+    <forme_ancienne>— <i>Moulin de Mauvason,</i> <date>1452</date> <reference>(comptes de la châtell. de Pierrepont, cabinet de M. d’Imécourt)</reference></forme_ancienne>
     <commentaire>
-      <p>— Moulin de <i>Mauvason,</i> <date>1452</date> <reference>(comptes de la châtell. de Pierrepont, cabinet de M. d’Imécourt)</reference>, « lequel est de longtemps en ruyne et desmoly », <date>1474</date> (dénombr. de la châtell de Pierrepont, év. de Laon).</p>
+      <p>— Moulin de <i>Mauvason,</i> « lequel est de longtemps en ruyne et desmoly », <date>1474</date> (dénombr. de la châtell de Pierrepont, év. de Laon).</p>
     </commentaire>
   </article>
   <article id="DT02-03563" pg="170">
