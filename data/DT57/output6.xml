@@ -1745,7 +1745,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57284" precision="certain">Hallering</commune></localisation>.</definition>
   </article>
   <article id="DT57-00166" pg="16">
-    <vedette><sm>Basse-Wal</sm> ou <sm>Val-la-Basse</sm> (tabl. Par.),</vedette>
+    <vedette><sm>Basse-Wal</sm> ou <sm>Val-la-Basse</sm>,</vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="54322" precision="certain">Longuion</commune></localisation>.</definition>
     <forme_ancienne>— <i>Basse-Vual,</i> <date>1681</date> <reference>(dénomb. 20 déc.)</reference>.</forme_ancienne>
     <commentaire>
@@ -5096,7 +5096,7 @@
     <definition><typologie>station</typologie> de la <localisation>voie romaine de Metz vers Trèves</localisation> par la rive droite de la Moselle :</definition>
     <forme_ancienne><i>Divodurum ; Caranusca, XLII</i> (lege <i>XIII</i>) ; <i>Ricciaco, X ; Treveri, X</i> <reference>(Carte de Peutinger)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Il a régné longtemps une absolue incertitude sur la position de Caranusca ; une foule d’hypothèses ont été mises en avant et appuyées par diverses raisons plus ou moins plausibles. Il a été démontré que l’emplacement de cette station devait se trouver auprès du hameau d’Elzing, dans un lieu dit « <i>Heidenfeld,</i> le champ des païens. » <renvoi>(Voy. <i>Rev. d’Austr.</i> <date>1857</date>, p. 444)</renvoi>.</p>
+      <p>Il a régné longtemps une absolue incertitude sur la position de Caranusca ; une foule d’hypothèses ont été mises en avant et appuyées par diverses raisons plus ou moins plausibles. Il a été démontré que l’emplacement de cette station devait se trouver auprès du hameau d’Elzing, dans un lieu dit « <i>Heidenfeld,</i> le champ des païens. » <renvoi>(Voy. <i>Rev. d’Austr.</i> 1857, p. 444)</renvoi>.</p>
       <p>Le nom de Caranusca est défiguré en celui de <i>Gannia</i> dans le géographe du <date><sm>vi</sm><sup>e</sup> siècle</date> qu’on appelle <i>l’Anonyme de Ravenne :</i> <i>METVSA ; Gannia ; Treoris.</i></p>
     </commentaire>
   </article>
@@ -8173,7 +8173,7 @@
   </article>
   <article id="DT57-00848" pg="72">
     <vedette><sm>Ederswiller,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57556" precision="certain">Puttelange</commune></localisation> ; aujourd’hui ferme de <sm>Welschhoff.</sm></definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57556" precision="certain">Puttelange</commune></localisation> ; aujourd’hui ferme de Welschhoff.</definition>
     <forme_ancienne>— <i>Ederweiller,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
     <commentaire>
       <p>A de tout temps fait partie de la communauté de Puttelange (Dur. Lorr.) et était annexe de la paroisse de Hecken-Ranspach (<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.).</p>
@@ -12985,7 +12985,7 @@
   </article>
   <article id="DT57-01362" pg="114">
     <vedette><sm>Hauffen</sm> ou <sm>Haunfen,</sm></vedette>
-    <definition><typologie>ancien moulin</typologie> dépendant de la <localisation>seigneurie de <commune insee="57731" precision="approximatif">Wolmerange-lez-</commune><commune insee="57731" precision="approximatif">Œ</commune>utrange</localisation>.</definition>
+    <definition><typologie>ancien moulin</typologie> dépendant de la <localisation>seigneurie de <commune insee="57731" precision="approximatif">Wolmerange-lez-Œutrange</commune></localisation>.</definition>
     <forme_ancienne>— <date>1682</date> <reference>(dénombr. 18 avril)</reference>.</forme_ancienne>
   </article>
   <article id="DT57-01363" pg="114">
@@ -13821,11 +13821,11 @@
   </article>
   <article id="DT57-01458" pg="121">
     <vedette><sm>Heydackermühl,</sm></vedette>
-    <definition><typologie>5<sup>e</sup> moulin</typologie>, <localisation>commune de <commune insee="57227" precision="certain">Forbach</commune></localisation>.</definition>
+    <definition><typologie>5e moulin</typologie>, <localisation>commune de <commune insee="57227" precision="certain">Forbach</commune></localisation>.</definition>
   </article>
   <article id="DT57-01459" pg="121">
     <vedette><sm>Heydingermühl,</sm></vedette>
-    <definition><typologie>3<sup>e</sup> moulin</typologie>, <localisation>commune de <commune insee="57227" precision="certain">Forbach</commune></localisation>.</definition>
+    <definition><typologie>3e moulin</typologie>, <localisation>commune de <commune insee="57227" precision="certain">Forbach</commune></localisation>.</definition>
   </article>
   <article id="DT57-01460" pg="121">
     <vedette><sm>Hezelter,</sm></vedette>
@@ -14443,7 +14443,7 @@
   </article>
   <article type="commune" id="DT57-01520" pg="126">
     <vedette><sm>Host-Haut,</sm></vedette>
-    <definition><localisation>canton de <commune insee="57606" precision="approximatif">Saint-Avold</commune></localisation>, et <sm>Host-Bas,</sm> <typologie>hameau</typologie> son annexe.</definition>
+    <definition><localisation>canton de <commune insee="57606" precision="approximatif">Saint-Avold</commune></localisation>, et Host-Bas, <typologie>hameau</typologie> son annexe.</definition>
     <forme_ancienne>— <i>Homscit, Honkecheyt,</i> <date>875</date> <reference>(abb. Sainte-Gloss. ch. Louis le Germ.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Hoexem,</i> <date>942</date> <reference>(abb. Sainte-Gloss. ch. Th. év. de M.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Honsceit,</i> <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(abb. Neum. ch. conf.)</reference>.</forme_ancienne>
@@ -18617,7 +18617,7 @@
     <vedette><sm>Mathois (Le),</sm></vedette>
     <definition>ancien nom donné au <typologie>pays</typologie> arrosé par l’Alzette, la Chiers et la Crusne, dont une partie appartient à l’<localisation>arrondissement de <commune insee="54099" precision="approximatif">Briey</commune></localisation>.</definition>
     <commentaire>
-      <p>— Il faut bien le distinguer, sous la forme germanique ou latine de son nom (<i>Methingau, Methensis</i> ou <i>Mathensis pagus</i>), du pays de Metz (<i>Metingau, Metensis pagus</i>), avec lequel il a été jusqu’ici assez généralement confondu <renvoi>(voy. le cart. du Moy. Rhin, <i>Urkundenbuch,</i> von Beyer, t. II, p. <sm>xxix,</sm> et les <i>Mém. de l’Acad. de Metz,</i> <date>1870</date>, p. 452)</renvoi>.</p>
+      <p>— Il faut bien le distinguer, sous la forme germanique ou latine de son nom (<i>Methingau, Methensis</i> ou <i>Mathensis pagus</i>), du pays de Metz (<i>Metingau, Metensis pagus</i>), avec lequel il a été jusqu’ici assez généralement confondu <renvoi>(voy. le cart. du Moy. Rhin, <i>Urkundenbuch,</i> von Beyer, t. II, p. <sm>xxix,</sm> et les <i>Mém. de l’Acad. de Metz,</i> 1870, p. 452)</renvoi>.</p>
     </commentaire>
     <forme_ancienne>— <i>Bœvillare in pago methensi,</i> <date>926</date> <reference>(abb. Saint-Max. don. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In pago alsencensi in comitatu methingowense</i> <reference>(abb. Saint-Max. don. s. l’an)</reference>.</forme_ancienne>
@@ -19196,9 +19196,9 @@
     </commentaire>
     <forme_ancienne><i>Mediomatrici</i> <reference>(Cæs. Comm. de bel. gall. l. X, ch. <sm>iv</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— Leur ville est nommée pour la première fois par Tacite : <i>Divoduri Mediomatricorum id oppidum est</i> <reference>(Tac. Hist. I, 63)</reference>.</forme_ancienne>
-    <forme_ancienne>— Μεδιωματρίκες, ων πολις Δίουοδουρον, <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(Ptolém. l. II, ch. <sm>ix</sm>)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Μεδιωματρίκες, ων πολις Δίουοδουρον,</i> <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(Ptolém. l. II, ch. <sm>ix</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Divo Durimedio Matricorum</i> <reference>(carte de Peutinger)</reference>.</forme_ancienne>
-    <forme_ancienne>— Μεδιωματρίκοι <reference>(Strabon. l. IV, 134)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Μεδιωματρίκοι</i> <reference>(Strabon. l. IV, 134)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mediomatrices,</i> <date><sm>iv</sm><sup>e</sup> siècle</date> <reference>(Amm. Marc. Hist. l. XV, ch. <sm>iv</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Civitas Mediomatricorum Mettis,</i> sous Honorius <reference>(Not. prov. et civ. Gall. I, 122)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Metis, Meti,</i> sous Valentinien III <reference>(Not. dign. imp. rom. V, 42, 43)</reference>.</forme_ancienne>
@@ -22891,7 +22891,7 @@
     <definition><typologie>fief</typologie> sur le <localisation>territoire de <commune insee="57249" precision="approximatif">Glatigny</commune></localisation>.</definition>
   </article>
   <article id="DT57-02511" pg="197">
-    <vedette><sm>Pareid</sm> ou <sm>Parey</sm> (dép<sup>t</sup> de la Meuse).</vedette>
+    <vedette><sm>Pareid</sm> ou <sm>Parey</sm> (dépt de la Meuse).</vedette>
     <commentaire>
       <p>— Siége d’un doyenné de l’archidiaconé de Woëvre (dioc. de Verdun), qui comprenait, entre autres, les paroisses suivantes appartenant auj. au dép<sup>t</sup> de la Moselle : Aix, Allamont et Dompierre, Brainville et Porcher, Conflans, Boncourt et Puxe.</p>
     </commentaire>
@@ -24967,10 +24967,10 @@
   </article>
   <article id="DT57-02718" pg="215">
     <vedette><sm>Ricciacum,</sm></vedette>
-    <definition><typologie>2<sup>e</sup> station</typologie> de la <localisation>route romaine de Metz vers Trèves</localisation>, par la rive droite de la Moselle.</definition>
+    <definition><typologie>2e station</typologie> de la <localisation>route romaine de Metz vers Trèves</localisation>, par la rive droite de la Moselle.</definition>
     <commentaire>
       <p>Caranusca. <sm>Ricciacum, x.</sm> Treveri, <sm>x.</sm> (carte de Peutinger).</p>
-      <p>Il a régné longtemps une grande incertitude au sujet de la position de Ricciacum ; mais les beaux travaux de M. de Villers de Burgesch, en <date>1812</date>, et de M. Tessier, en <date>1822</date>, ont mis hors de doute l’emplacement de cette station à peu de distance de Ritzing, entre ce village et Launstroff <renvoi>(voir la notice de M. Tessier, dans les Mémoires de l’académie de Metz, <date>1822</date>)</renvoi>.</p>
+      <p>Il a régné longtemps une grande incertitude au sujet de la position de Ricciacum ; mais les beaux travaux de M. de Villers de Burgesch, en <date>1812</date>, et de M. Tessier, en <date>1822</date>, ont mis hors de doute l’emplacement de cette station à peu de distance de Ritzing, entre ce village et Launstroff <renvoi>(voir la notice de M. Tessier, dans les Mémoires de l’académie de Metz, 1822)</renvoi>.</p>
     </commentaire>
   </article>
   <article id="DT57-02719" pg="215">
