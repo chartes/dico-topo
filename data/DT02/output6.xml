@@ -3353,7 +3353,7 @@
   </article>
   <article id="DT02-00414" pg="22">
     <vedette><sm>Beauveau</sm> ou <sm>Bruinecourt,</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="02352" precision="certain">Gouy</commune></localisation> ; <typologie>vassal</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="02352" precision="certain">Gouy</commune></localisation> ; <typologie>vassal</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
   </article>
   <article id="DT02-00415" pg="22">
     <vedette><sm>Beauvillé,</sm></vedette>
@@ -3449,7 +3449,7 @@
   </article>
   <article id="DT02-00427" pg="23">
     <vedette><sm>Becquerel,</sm></vedette>
-    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Molendinum de <i>Becherel,</i> <date>1176</date> <reference>(cart. du chap. de Saint-Quentin, f° 98 C, Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— Moulin de <i>Bekerel,</i> <date>1272</date> <reference>(cart. de l’abb. de Saint-Quentin-en-l’Île, f. 2, arch. de l’Emp. LL 1017)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bequerel,</i> <date>1357</date> <reference>(cart. de la même abbaye, f° 1 v°, arch. de l’Emp. LL 1016)</reference>.</forme_ancienne>
@@ -3709,7 +3709,7 @@
   </article>
   <article id="DT02-00460" pg="24">
     <vedette><sm>Bellevue,</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>communes d’<commune insee="02009" precision="approximatif">Alaincourt</commune>, <commune insee="02224" precision="approximatif">Courcelles</commune>, <commune insee="02252" precision="approximatif">Cuissy-et-Geny</commune>, <commune insee="02299" precision="approximatif">Évergnicourt</commune>, <commune insee="02441" precision="approximatif">Louâtre</commune>, <commune insee="02307" precision="approximatif">Saint-Quentin</commune>, <commune insee="02769" precision="approximatif">Vaux-Andigny</commune>, <commune insee="02788" precision="approximatif">Versigny</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>communes d’<commune insee="02009" precision="approximatif">Alaincourt</commune>, <commune insee="02224" precision="approximatif">Courcelles</commune>, <commune insee="02252" precision="approximatif">Cuissy-et-Geny</commune>, <commune insee="02299" precision="approximatif">Évergnicourt</commune>, <commune insee="02441" precision="approximatif">Louâtre</commune>, <commune insee="02691" precision="approximatif">Saint-Quentin</commune>, <commune insee="02769" precision="approximatif">Vaux-Andigny</commune>, <commune insee="02788" precision="approximatif">Versigny</commune></localisation>.</definition>
   </article>
   <article id="DT02-00461" pg="24">
     <vedette><sm>Bellevue,</sm></vedette>
@@ -4736,7 +4736,7 @@
   </article>
   <article id="DT02-00590" pg="30" type="commune">
     <vedette><sm>Bohain,</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bohang,</i> <date>1138</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. II, p. 275)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Bohaing,</i> <date>1156</date> <reference>(ch. de l’abb. de Saint-Nicolas-des-Prés de Ribemont)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Buchammum,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(ch. de l’abb. de Saint-Nicolas-des-Prés de Ribemont, f° 32, LL 1015, arch. de l’Emp.)</reference>.</forme_ancienne>
@@ -5749,7 +5749,7 @@
   </article>
   <article id="DT02-00753" pg="35">
     <vedette><sm>Bourg,</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
   </article>
   <article id="DT02-00754" pg="35">
     <vedette><sm>Bourg,</sm></vedette>
@@ -6542,7 +6542,7 @@
   </article>
   <article id="DT02-00850" pg="40">
     <vedette><sm>Breuil (Le),</sm></vedette>
-    <definition><localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <commentaire>
       <p>— Predecessor noster Albertus (Viromandensis comes) in confinio suburbis Sancti-Quintini in manso indominicato loco qui dicitur <i>Broilus,</i> ubi placita et mallos tenebat jussu Lotharii (Cl. Hémeré, preuves, f° 37, Augusta Viromanduorum, etc.). — Emplacement de l’abbaye de Saint-Prix.</p>
     </commentaire>
@@ -7801,7 +7801,7 @@
   </article>
   <article id="DT02-01013" pg="47">
     <vedette><sm>Canali,</sm></vedette>
-    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation> ; aujourd’hui détruit.</definition>
+    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation> ; aujourd’hui détruit.</definition>
     <forme_ancienne>— Molendinum de <i>Canali,</i> <date>1110</date> <reference>(cart. AA de l’abb. de Saint-Quentin-en-l’Île, p. 13)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Petrus-in-Canali,</i> <date>1211</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. II, p. 545)</reference>.</forme_ancienne>
   </article>
@@ -8143,9 +8143,77 @@
     <vedette><sm>Carrière-Rouge (La),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02619" precision="certain">Prémontré</commune></localisation>.</definition>
   </article>
-  <article id="DT02-01074" pg="49">
+  <article id="DT02-01074-01" pg="49">
     <vedette><sm>Carrières (Les),</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>communes d’<commune insee="02002" precision="approximatif">Achery</commune>, <commune insee="02031" precision="approximatif">Aubenton</commune>, <commune insee="02043" precision="approximatif">Bagneux</commune>, <commune insee="02046" precision="approximatif">Barenton-Bugny</commune>, <commune insee="02112" precision="approximatif">Brancourt</commune>, <commune insee="02115" precision="approximatif">Braye-en-Laonnois</commune>, <commune insee="02148" precision="approximatif">Celles-sur-Aisne</commune>, <commune insee="02176" precision="approximatif">Chavonne</commune>, <commune insee="02180" precision="approximatif">Chéry-lez-Pouilly</commune>, <commune insee="02190" precision="approximatif">Chivres</commune>, <commune insee="02195" precision="approximatif">Ciry-Salsogne</commune>, <commune insee="02236" precision="approximatif">Crécy-au-Mont</commune>, <commune insee="02533" precision="approximatif">Muret-et-Crouttes</commune>, <commune insee="02589" precision="approximatif">Pargny-Filain</commune>, <commune insee="02619" precision="approximatif">Prémontré</commune>, <commune insee="02650" precision="approximatif">Rocquigny</commune>, <commune insee="02824" precision="approximatif">Vorges</commune>, <commune insee="02834" precision="approximatif">Wissignicourt</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02002" precision="certain">Achery</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-02" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune d'<commune insee="02031" precision="certain">Aubenton</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-03" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02043" precision="certain">Bagneux</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-04" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02046" precision="certain">Barenton-Bugny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-05" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02112" precision="certain">Brancourt</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-06" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02115" precision="certain">Braye-en-Laonnois</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-07" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02148" precision="certain">Celles-sur-Aisne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-08" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02176" precision="certain">Chavonne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-09" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02180" precision="certain">Chéry-lez-Pouilly</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-10" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02190" precision="certain">Chivres</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-11" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02195" precision="certain">Ciry-Salsogne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-12" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02236" precision="certain">Crécy-au-Mont</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-13" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02533" precision="certain">Muret-et-Crouttes</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-14" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02589" precision="certain">Pargny-Filain</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-15" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02619" precision="certain">Prémontré</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-16" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02650" precision="certain">Rocquigny</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-17" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02824" precision="certain">Vorges</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-01074-18" pg="49">
+    <vedette><sm>Carrières (Les),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02834" precision="certain">Wissignicourt</commune></localisation>.</definition>
   </article>
   <article id="DT02-01075" pg="49">
     <vedette><sm>Carrières (Les),</sm></vedette>
@@ -8262,7 +8330,7 @@
   </article>
   <article id="DT02-01097" pg="50" type="commune">
     <vedette><sm>Câtelet (Le),</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Chastelet,</i> <date>1431</date> <reference>(comptes de l’Hôtel-Dieu de Laon, E 8)</reference>.</forme_ancienne>
     <forme_ancienne>— Bourg du <i>Chastellet,</i> <date>1571</date> <reference>(délib. de la chambre des comptes de la Fère)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Castellet,</i> <date>1577</date> <reference>(chambre du clergé du dioc. de Noyon)</reference>.</forme_ancienne>
@@ -8597,7 +8665,7 @@
   </article>
   <article id="DT02-01145" pg="52">
     <vedette><sm>Cense-de-la-Prée,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <commentaire>
       <p>— Cette ferme appartenait autrefois à l’abb. de Saint-Prix ; elle était déjà détruite en <date>1595</date>.</p>
     </commentaire>
@@ -8751,7 +8819,7 @@
   </article>
   <article id="DT02-01168" pg="53">
     <vedette><sm>Cépy,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cepeium,</i> <date>1045</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. I, p. 685)</reference>.</forme_ancienne>
     <forme_ancienne>— Territorium de <i>Cepi,</i> <date>1189</date> ;</forme_ancienne>
     <forme_ancienne><i>Cypi,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(cart. de l’abb. de Fervacques, p. 234, 309)</reference>.</forme_ancienne>
@@ -15621,7 +15689,7 @@
   </article>
   <article id="DT02-02018" pg="98">
     <vedette><sm>Épargnemaille,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Espargnemaille,</i> <date>1208</date> <reference>(arch. de l’Emp. L 738)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Éparnemaille,</i> <date>1595</date> <reference>(min. de Claude Huart, notaire)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pargnemaille,</i> <date>1716</date> <reference>(tit. de l’abb. de Notre-Dame de Soissons)</reference>.</forme_ancienne>
@@ -15897,7 +15965,7 @@
   </article>
   <article id="DT02-02046" pg="99">
     <vedette><sm>Escaut,</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source au <localisation><commune insee="02523" precision="certain">Mont-Saint-Martin</commune></localisation>, <localisation>commune de <commune insee="02352" precision="certain">Gouy</commune></localisation>, passe à <localisation><commune insee="02352" precision="certain">Gouy</commune></localisation> et au <localisation><commune insee="02143" precision="certain">Catelet</commune></localisation>, alimente le canal de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>, baigne <localisation><commune insee="02776" precision="certain">Vendhuile</commune></localisation>, puis entre dans le <localisation>département du Nord</localisation> à l’extrémité du territoire de cette dernière commune.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source au <localisation><commune insee="02523" precision="certain">Mont-Saint-Martin</commune></localisation>, <localisation>commune de <commune insee="02352" precision="certain">Gouy</commune></localisation>, passe à <localisation><commune insee="02352" precision="certain">Gouy</commune></localisation> et au <localisation><commune insee="02143" precision="certain">Catelet</commune></localisation>, alimente le canal de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>, baigne <localisation><commune insee="02776" precision="certain">Vendhuile</commune></localisation>, puis entre dans le <localisation>département du Nord</localisation> à l’extrémité du territoire de cette dernière commune.</definition>
     <commentaire>
       <p><pg>100</pg>Cette rivière, que les Flamands désignent sous le nom de <i>Schelde,</i> fait mouvoir les moulins à blé de Mont-Saint-Martin, du Câtelet et de Quincampoix et est navigable à Cambrai depuis le <date><sm>xvii</sm><sup>e</sup> siècle</date>. Son parcours dans le département de l’Aisne est de 7,500 mètres.</p>
     </commentaire>
@@ -16005,7 +16073,7 @@
   </article>
   <article id="DT02-02057" pg="100" type="commune">
     <vedette><sm>Essigny-le-Petit,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Essigni,</i> <date>1147</date> ;</forme_ancienne>
     <forme_ancienne><i>Isiniacensis parrochia,</i> <date>1155</date> <reference>(cart. de l’abb. d’Homblières, p. 45 et 43)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Issegni,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(cart. de Vicoigne, arch. du Nord)</reference>.</forme_ancienne>
@@ -17368,7 +17436,7 @@
   </article>
   <article id="DT02-02212" pg="111" type="commune">
     <vedette><sm>Fieulaine,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fiulaines,</i> <date>1110</date> <reference>(cart. AA de l’abb. de Saint-Quentin-en-l’Île, p. 14)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fillene,</i> <date>1146</date> <reference>(Martène, Ampliss. coll. I, 798)</reference>.</forme_ancienne>
     <forme_ancienne>— In territorio de <i>Fillanis,</i> <date>1158</date> <reference>(cart. de l’abb. de Saint-Nicolas-des-Prés de Ribemont, f° 37)</reference>.</forme_ancienne>
@@ -17908,7 +17976,7 @@
   </article>
   <article id="DT02-02281" pg="114" type="commune">
     <vedette><sm>Fonsomme,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Funsomis,</i> <date>1140</date> ;</forme_ancienne>
     <forme_ancienne>territorium <i>Fontissome,</i> <date>1152</date> <reference>(cart. de l’abb. de Fervaques, Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— Ecclesia <i>Fontissumme,</i> <date>1164</date> <reference>(cart. de l’abb. de Foigny, f° 64, Bibl. imp.)</reference>.</forme_ancienne>
@@ -18206,7 +18274,7 @@
   </article>
   <article id="DT02-02327" pg="115" type="commune">
     <vedette><sm>Fontaine-Notre-Dame,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Fontana,</i> <date>954</date> ;</forme_ancienne>
     <forme_ancienne>territorium <i>Fontanense,</i> <date>1152</date> <reference>(cart. de l’abb. d’Homblières, p. 53 et 70)</reference>.</forme_ancienne>
     <forme_ancienne>— Tota terra que in <i>Fontanis-juxta-Fillanis</i> erat, <date>1152</date> <reference>(arch. de l’Emp. L 998)</reference>.</forme_ancienne>
@@ -19511,9 +19579,25 @@
     <vedette><sm>Garde-de-Dieu (La),</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02725" precision="certain">Sommeron</commune></localisation>.</definition>
   </article>
-  <article id="DT02-02514" pg="123">
+  <article id="DT02-02514-1" pg="123">
     <vedette><sm>Gare (La),</sm></vedette>
-    <definition><typologie>hameaux</typologie>, <localisation>communes de <commune insee="02168" precision="approximatif">Château-Thierry</commune>, <commune insee="02195" precision="approximatif">Ciry-Salsogne</commune>, <commune insee="02408" precision="approximatif">Laon</commune>, <commune insee="02722" precision="approximatif">Soissons</commune> et <commune insee="02738" precision="approximatif">Tergnier</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02168" precision="certain">Château-Thierry</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02514-2" pg="123">
+    <vedette><sm>Gare (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02195" precision="certain">Ciry-Salsogne</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02514-3" pg="123">
+    <vedette><sm>Gare (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02408" precision="certain">Laon</commune></localisation>.</definition>
+  </article>
+  <article id="DT02-02514-4" pg="123">
+    <vedette><sm>Gare (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02722" precision="certain">Soissons</commune></localisation>.</definition>    
+  </article>
+  <article id="DT02-02514-5" pg="123">
+    <vedette><sm>Gare (La),</sm></vedette>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02738" precision="certain">Tergnier</commune></localisation>.</definition>
   </article>
   <article id="DT02-02515" pg="123">
     <vedette><sm>Gare-de-Vaumoise (La),</sm></vedette>
@@ -20110,7 +20194,7 @@
   </article>
   <article id="DT02-02596" pg="126">
     <vedette><sm>Gonencourt,</sm></vedette>
-    <definition><typologie>petit fief</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>petit fief</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <commentaire>
       <p>— Relevait autrefois de Benay.</p>
     </commentaire>
@@ -21022,7 +21106,7 @@
   </article>
   <article id="DT02-02741" pg="130">
     <vedette><sm>Gréance,</sm></vedette>
-    <definition>autrefois <typologie>paroisse</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition>autrefois <typologie>paroisse</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Griancia,</i> <date>1220</date> <reference>(arch. de l’Emp. L 738)</reference>.</forme_ancienne>
     <forme_ancienne>— Ecclesia de <i>Grianchia,</i> <date>1191</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. II, p. 420)</reference>.</forme_ancienne>
   </article>
@@ -21218,7 +21302,7 @@
   </article>
   <article id="DT02-02770" pg="131">
     <vedette><sm>Gronart,</sm></vedette>
-    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Molendinum quod vocatur <i>Grounart,</i> <date>1110</date> <reference>(cart. AA de l’abb. de Saint-Quentin-en-l’Île, p. 10)</reference>.</forme_ancienne>
     <forme_ancienne>— Molendinum de <i>Grunart,</i> <date>1176</date> <reference>(preuves de Claude Hémeré, <i>Augusta Viromanduorum, etc.</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— Molendinum de <i>Gronnart,</i> <date>1176</date> <reference>(cart. du chap. de Saint-Quentin, f° 98, Bibl. imp.)</reference>.</forme_ancienne>
@@ -21918,7 +22002,7 @@
   </article>
   <article id="DT02-02855" pg="136" type="commune">
     <vedette><sm>Harly,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Altare <i>Sancti-Martini-de-Haleio,</i> <date>982</date> <reference>(cart. de l’abb. d’Homblières, p. 24)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Harli, Harleium,</i> <date>986</date> <reference>(cart. AA de l’abb. de Saint-Quentin-en-l’Île, p. 12 et 100)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Harliacum,</i> <date>1241</date> <reference>(cart. de l’abb. du Mont-Saint-Martin, p. 284)</reference>.</forme_ancienne>
@@ -22880,7 +22964,7 @@
   </article>
   <article id="DT02-02987" pg="141" type="commune">
     <vedette><sm>Homblières,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Altare Sancti-Stephani que est in villa <i>Humolarias,</i> <date>947</date> ;</forme_ancienne>
     <forme_ancienne><i>Humolariæ,</i> <date>948</date> <reference>(cart. de l’abb. d’Homblières, p. 35 et 13)</reference>.</forme_ancienne>
     <forme_ancienne>— Cella <i>Humolariensis,</i> <date>959</date> <reference>(Mabillon, <i>De Re diplomaticâ,</i> p. 571)</reference>.</forme_ancienne>
@@ -24087,10 +24171,7 @@
     <forme_ancienne>— <i>Loon,</i> <date>1257</date> <reference>(cart. de l’abb. de Saint-Michel, p. 261)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Lan,</i> <date>1433</date> <reference>(Chroniques de France, n° 26, bibl. de Lille)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Le diocèse de Laon a été formé, en <date>497</date>, d’une partie du diocèse de Reims, égale sans doute à celle que représentait le comté placé sous le commandement d’Émile, père de saint Remy (Flodoard, Bibl. imp. ms. 5575).</p>
-    </commentaire>
-    <forme_ancienne>— <i>Comitatus Laudunensis,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(ex Vità sancti Remigii)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>Le diocèse de Laon a été formé, en <date>497</date>, d’une partie du diocèse de Reims, égale sans doute à celle que représentait le comté placé sous le commandement d’Émile, père de saint Remy (Flodoard, Bibl. imp. ms. 5575).— <i>Comitatus Laudunensis,</i> <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(ex Vità sancti Remigii)</reference>.</p>
       <p>— Le diocèse de Cambrai le bornait au nord, celui de Noyon à l’ouest, celui de Soissons au sud et enfin celui de Reims à l’est. Il comprenait deux archidiaconés, dont l’un ne semble remonter qu’au <date><sm>xi</sm><sup>e</sup> siècle</date> : le grand archidiaconé, le plus ancien, était composé des doyennés ruraux de Bruyères, Laon, Marle, Montaigu, Neufchâtel et Vervins ; l’archidiaconé de Thiérache, de ceux d’Aubenton, Crécy-sur-Serre, la Fère, Guise, Mons-en-Laonnois et Ribemont. Cette subdivision ne répond pas à un état de choses plus ancien.</p>
       <p>Le doyenné rural de Laon ne comprenait que les paroisses de la ville et de la banlieue, moins la Neuville. Cette banlieue, <i>Banluca de Lauduno,</i> <date>1222</date> <reference>(grand cart. de l’év. de Laon, ch. 80)</reference>      , était composée d’Ardon, Lœuilly, Semilly, Saint-Marcel, Saint-Ladre, Champleu, la Neuville et Vaux-sous-Laon ; elle constituait avec la ville le pays ou la paix de Laon (pax Laudunensis), <date>1128</date> (grand cart. de l’év. de Laon, ch. 3). — Pays de Laon, <date>1333</date> (ch. de l’abb. du Sauvoir), qui n’était autre chose que le territoire de la commune. Celle-ci a été supprimée définitivement en <date>1331</date>, pour être administrée par un prévôt royal secondé par des gouverneurs et des conseillers électifs qui se rassemblaient dans les salles voisines de la tour dite <i>de Louis d’Outre-mer.</i> De cette tour relevaient les châtellenies de Bosmont, Coucy-le-Château, la Fère et Marle, et les seigneuries de Bouconville, Bourg-et-Comin, Brie, Fourdrain, Montloué et Neufchâtel.</p>
       <p>Indépendamment de cette prévôté, qui a été unie au bailliage de Laon en <date>1731</date>, Laon avait encore une prévôté foraine dont la juridiction s’étendait, en <date>1371</date>, sur le Soissonnais, le Laonnois, la Thiérache, le Porcien et une partie de la Champagne (arch. de l’Emp. Tr. des chartes, reg. 102, pièce 215). Le ressort de cette prévôté était primitivement celui du bailliage de Vermandois, dont le chef-lieu était à Laon ; mais ce bailliage, ayant été à diverses reprises considérablement démembré, ne comprenait plus, dans le <date><sm>xviii</sm><sup>e</sup> siècle</date>, que ce qui constitue les cantons de Laon et de Sissonne ; celui de Crécy-sur-Serre, moins Nouvion-l’Abbesse, depuis <date>1737</date>, Nouvion-le-Comte, Pont-à-Bucy, Richecourt ; celui d’Anizy-le-Château, moins Bassoles-Aulers, Pinon et Vauxaillon ; celui de Craonne, moins Œuilly en partie, Oulches, Pargnan en partie, Vassogne ; celui de Marle, moins cette ville ; celui de Neufchâtel, moins Bouffignereux, Concevreux, Condé-sur-Suippe, Dammarie, Gernicourt, Maizy en partie, Meurival, Muscourt, Roucy et la Ville-aux-Bois-lez-Pontavert ; celui de Rozoy-sur-Serre, moins Chaourse ; celui de Vervins, moins Saint-Algis, Autreppes et Gercy ; celui de Sains, moins Sains, Colonfay, le Hérie-la-Viéville, Landifay-et-Bertaignemont, Lemé, Monceau-le-Neuf, Puisieux-et-Clanlieu, le Sourd, Wiége-Faty. Il ne prenait du canton de la Fère que Brie, Fourdrain, Monceau-les-Leups, Saint-Nicolas-aux-Bois ; de celui de Coucy-le-Château, que la partie de Barizis <pg>150</pg>où se trouve l’église, Septvaux ; de celui d’Aubenton, que Coingt, Iviers, Jeantes, Mont-Saint-Jean, Saint-Clément ; de celui d’Hirson, qu’Éparcy, Origny en partie ; de celui de la Capelle, qu’Étréaupont en partie (rive gauche de l’Oise) ; de celui de Ribemont, que la Ferté-Chevresis en partie ; de celui de Vailly, que Soupir ; de celui de Braine, que Revillon et Villers-en-Prayères ; et enfin, Radouais et Brienne en partie, du canton d’Asfeld (Ardennes).</p>
@@ -24488,7 +24569,7 @@
   </article>
   <article id="DT02-03175" pg="153" type="commune">
     <vedette><sm>Lesdins,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Lesdin,</i> <date>1146</date> <reference>(cart. de Longpont)</reference>.</forme_ancienne>
     <forme_ancienne>— In territorio de <i>Lesdino,</i> <date>1248</date> <reference>(arch. de l’Emp. L 738)</reference>.</forme_ancienne>
     <forme_ancienne>— In territorio de <i>Laisdino,</i> <date>1250</date> <reference>(Livre rouge de Saint-Quentin-en-l’Île, f° 187, arch. de l’Emp. LL 1018)</reference>.</forme_ancienne>
@@ -26734,7 +26815,7 @@
   </article>
   <article id="DT02-03473" pg="165" type="commune">
     <vedette><sm>Marcy,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Marci,</i> <date>1133</date> ;</forme_ancienne>
     <forme_ancienne><i>Marceium,</i> <date>1145</date> ;</forme_ancienne>
     <forme_ancienne>territorium <i>Marchei,</i> <date>1147</date> ;</forme_ancienne>
@@ -27848,7 +27929,7 @@
   </article>
   <article id="DT02-03615" pg="172" type="commune">
     <vedette><sm>Mesnil-Saint-Laurent,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Maisnil,</i> <date>1110</date> ;</forme_ancienne>
     <forme_ancienne><i>Maisnill,</i> <date>1184</date> ;</forme_ancienne>
     <forme_ancienne>terra de <i>Maisnilio,</i> <date>1187</date> <reference>(cart. de l’abb. de Saint-Quentin-en-l’Île, p. 12, 113 et 54)</reference>.</forme_ancienne>
@@ -28002,12 +28083,10 @@
   <article id="DT02-03634" pg="173">
     <vedette><sm>Miette (La),</sm></vedette>
     <definition><typologie>ruisseau</typologie> qui prend sa source à la dernière <localisation>maison d’<commune insee="02013" precision="approximatif">Amifontaine</commune></localisation>, traverse les <localisation>territoires de <commune insee="02399" precision="approximatif">Juvincourt-et-Dammarie</commune>, de la <commune insee="02803" precision="approximatif">Ville-aux-Bois-lez-Pontavert</commune> et de <commune insee="02613" precision="approximatif">Pontavert</commune></localisation> et se joint à l’Aisne dans cette dernière commune, après un cours de 13 kilomètres.</definition>
-    <commentaire>
-      <p>Il n’alimente que deux moulins à blé.</p>
-    </commentaire>
     <forme_ancienne>— <i>Amiette,</i> <date>1739</date> <reference>(terr. de Juvincourt)</reference>.</forme_ancienne>
     <commentaire>
       <p>Ce dernier nom devrait être conservé.</p>
+      <p>Le ruisseau n’alimente que deux moulins à blé.</p>
     </commentaire>
   </article>
   <article id="DT02-03635" pg="173">
@@ -28241,7 +28320,7 @@
   </article>
   <article id="DT02-03662" pg="174">
     <vedette><sm>Molinet (Le),</sm></vedette>
-    <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation> ; aujourd’hui détruit.</definition>
+    <definition><typologie>moulin</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation> ; aujourd’hui détruit.</definition>
     <forme_ancienne>— <i>Molinellum,</i> <date>1174</date> <reference>(cart. AA de l’abb. de Saint-Quentin-en-l’Île, p. 53)</reference>.</forme_ancienne>
   </article>
   <article id="DT02-03663" pg="174">
@@ -28588,7 +28667,7 @@
   </article>
   <article id="DT02-03696" pg="177">
     <vedette><sm>Monplaisir,</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
   </article>
   <article id="DT02-03697" pg="177">
     <vedette><sm>Monplaisir,</sm></vedette>
@@ -30116,7 +30195,7 @@
   </article>
   <article id="DT02-03899" pg="186" type="commune">
     <vedette><sm>Morcourt,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Maurincurtis,</i> <date>1145</date> <reference>(cart. de l’abb. d’Homblières, p. 7)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Morocurt,</i> <date>1146</date> <reference>(ch. de l’abb. de Prémontré)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Moricurtis,</i> <date>1147</date> ;</forme_ancienne>
@@ -31543,7 +31622,7 @@
   </article>
   <article id="DT02-04174" pg="192">
     <vedette><sm>Moulin Garand (Le),</sm></vedette>
-    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <commentaire>
       <p>— Ce moulin, détruit depuis longtemps, se trouvait auprès de la porte Saint-Martin et avait pris son nom de Léger Garand, ingénieur, donataire par brevet du <date>30 septembre 1678</date> du roi Louis XIV. Garand l’avait fait construire en vertu de lettres patentes de <date>janvier 1679</date>. — Un arrêt du Conseil d’État du <date>28 mars 1683</date> a permis l’établissement de lavanderies sur les canaux de ce moulin, conformément au plan de Vauban, commissaire général des fortifications de France, et de Breteuil, intendant de Picardie (arch. de l’Emp. Q 10). — Ce moulin a été donné par ledit Garand à l’ordre du Mont-Carmel et de Saint-Lazare le <date>4 janvier 1684</date> (insin. du baill. de Saint-Quentin).</p>
     </commentaire>
@@ -31950,7 +32029,7 @@
   </article>
   <article id="DT02-04251" pg="194" type="commune">
     <vedette><sm>Moy,</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Moi,</i> <date>1174</date> <reference>(suppl. de D. Grenier, 291, Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Moyacum,</i> <date>1262</date> <reference>(Olim, t. I, p. 538)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Moy-dalez-Ribemont,</i> <date>1385</date> ;</forme_ancienne>
@@ -33164,7 +33243,7 @@
   </article>
   <article id="DT02-04364" pg="204">
     <vedette><sm>Oëstres,</sm></vedette>
-    <definition><typologie>hameau et moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>hameau et moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Hoestrum,</i> <date>986</date> ;</forme_ancienne>
     <forme_ancienne><i>Oistrum,</i> <date>1045</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. I, p. 559, 685)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Oistre,</i> <date>1230</date> <reference>(cart. de l’abb. d’Ourscamp, f° 203)</reference>.</forme_ancienne>
@@ -33325,7 +33404,7 @@
   </article>
   <article id="DT02-04378" pg="205" type="commune">
     <vedette><sm>Omissy,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ulmiceium,</i> <date>1045</date> ;</forme_ancienne>
     <forme_ancienne><i>Hulmisciacum,</i> <date>vers 1104</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. I, p. 379 et 685)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Oumissi,</i> <date>vers 1290</date> <reference>(arch. de la ville de Saint-Quentin, liasse 269)</reference>.</forme_ancienne>
@@ -34748,7 +34827,7 @@
   </article>
   <article id="DT02-04577" pg="213">
     <vedette><sm>Petit-Gossard (Le),</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
   </article>
   <article id="DT02-04578" pg="213">
     <vedette><sm>Petit-Heurtebise (Le),</sm></vedette>
@@ -36101,7 +36180,7 @@
   </article>
   <article id="DT02-04790" pg="220">
     <vedette><sm>Ponthoille</sm> ou <sm>Saint-Martin,</sm></vedette>
-    <definition><typologie>faubourg</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>faubourg</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Districtus de <i>Pontolliis,</i> <date>1120</date> ;</forme_ancienne>
     <forme_ancienne>vicus de <i>Pontoliis,</i> <date>1252</date> <reference>(Colliette, <i>Mém. du Vermandois,</i> t. II, p. 166, 556)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pontoiles,</i> <date>1258</date> <reference>(arch. de l’Emp. L 998)</reference>.</forme_ancienne>
@@ -37616,7 +37695,7 @@
   </article>
   <article id="DT02-04995" pg="228" type="commune">
     <vedette><sm>Remaucourt,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rumalcurth,</i> <date>1140</date> ;</forme_ancienne>
     <forme_ancienne><i>Rumaucourt,</i> <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(cart. de l’abb. de Vicoigne, arch. du Nord)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ramulcurt,</i> <date>1146</date> <reference>(cart. de l’abb. de Longpont)</reference>.</forme_ancienne>
@@ -37652,7 +37731,7 @@
   </article>
   <article id="DT02-04998" pg="229">
     <vedette><sm>Remicourt,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Villa <i>Rumulfi curtis,</i> <date>982</date> ;</forme_ancienne>
     <forme_ancienne><i>Remicurt,</i> <date>1168</date> <reference>(cart. d’Homblières, p. 2 et 29)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Remicort,</i> <date>1251</date> <reference>(cart. de l’abb. de Fervaques)</reference>.</forme_ancienne>
@@ -38010,7 +38089,7 @@
   </article>
   <article id="DT02-05038" pg="231" type="commune">
     <vedette><sm>Ribemont,</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ribodimons,</i> <date>1083</date> ;</forme_ancienne>
     <forme_ancienne><i>Ribotmons,</i> <date>1084</date> <reference>(suppl. de D. Grenier, 287, Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ribelmont,</i> <date>1142</date> <reference>(ch. de l’abb. de Prémontré)</reference>.</forme_ancienne>
@@ -38494,7 +38573,7 @@
   </article>
   <article id="DT02-05104" pg="234">
     <vedette><sm>Rocourt,</sm></vedette>
-    <definition><typologie>hameau et moulin à eau</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>hameau et moulin à eau</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rufficurtis,</i> <date>1045</date> ;</forme_ancienne>
     <forme_ancienne><i>Rodulficurtis,</i> <date>1076</date> ;</forme_ancienne>
     <forme_ancienne><i>Radulficurtis,</i> <date>1092</date> <reference>(Claude Héméré, <i>Augusta Viromanduorum vindicata et illustrata,</i> preuves, p. 36, 37 et 132)</reference>.</forme_ancienne>
@@ -39139,7 +39218,7 @@
   </article>
   <article id="DT02-05183" pg="238" type="commune">
     <vedette><sm>Rouvroy,</sm></vedette>
-    <definition><localisation>canton de <commune insee="02307" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="02691" precision="approximatif">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Rouvroi,</i> <date>983</date> ;</forme_ancienne>
     <forme_ancienne><i>Ruvereium,</i> <date>1130</date> <reference>(preuves de Claude Hémeré, <i>Augusta Viromanduorum, etc.</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ruvereum,</i> <date>1147</date> ;</forme_ancienne>
@@ -40315,7 +40394,7 @@
   </article>
   <article id="DT02-05354" pg="244">
     <vedette><sm>Saint-Claude,</sm></vedette>
-    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
   </article>
   <article id="DT02-05355" pg="244" type="commune">
     <vedette><sm>Saint-Clément,</sm></vedette>
@@ -41269,7 +41348,7 @@
   </article>
   <article id="DT02-05468" pg="250">
     <vedette><sm>Sainte-Pécinne,</sm></vedette>
-    <definition><typologie>chapelle</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>chapelle</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Ecclesia <i>Sancte-Pecine,</i> <date>1283</date> <reference>(Livre rouge de Saint-Quentin-en-l’Île, f° 162, arch. de l’Emp. LL 1018)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sainte-Péchine,</i> <date><sm>xiv</sm><sup>e</sup> siècle</date> <reference>(arch. de l’Emp. P 135 ; transcrits de Vermandois)</reference>.</forme_ancienne>
   </article>
@@ -41464,7 +41543,7 @@
   </article>
   <article id="DT02-05493" pg="251">
     <vedette><sm>Saint-Prix,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— Districtus <i>Sancti-Prejecti Sancti Quintini,</i> Districtus <i>Sancti-Prejecti-juxta-Sanctum-Quintinum,</i> <date>1258</date> <reference>(cart. de l’abb. de Fervaques, f° 25, Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Pry,</i> <date>1304</date> <reference>(cart. de l’abb. de Saint-Quentin-en-l’Île, f° 19, arch. de l’Emp. LL 1016)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Pril,</i> <date>1373</date> ;</forme_ancienne>
@@ -41572,7 +41651,7 @@
   </article>
   <article id="DT02-05504" pg="253" type="commune">
     <vedette><sm>Saint-Simon,</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanctus-Simon,</i> <date>1206</date> <reference>(cart. de l’abb. de Fervaques, f° 191)</reference>.</forme_ancienne>
     <forme_ancienne>— Calceia de <i>Sancto-Symone,</i> <date>1271</date> <reference>(Livre rouge de Saint-Quentin-en-l’Île, f° 156 ; arch. de l’Emp. LL 1018)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Symon,</i> <date>1296</date> <reference>(cart. du chap. de Saint-Quentin, f° 77, Bibl. imp.)</reference>.</forme_ancienne>
@@ -42085,7 +42164,7 @@
   </article>
   <article id="DT02-05566" pg="256">
     <vedette><sm>Saussois (Le),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>, aujourd’hui détruite.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>, aujourd’hui détruite.</definition>
     <forme_ancienne>— Cense de <i>Saulchoix,</i> proche la chapelle Espargnemaille, <date>1591</date> (min. de Claude Huart, notaire).</forme_ancienne>
     <commentaire>
       <p>Elle dépendait du faubourg Saint-Jean.</p>
@@ -42957,7 +43036,7 @@
   </article>
   <article id="DT02-05650" pg="264">
     <vedette><sm>Somme,</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source <localisation>au-dessous de <commune insee="02319" precision="approximatif">Fonsomme</commune></localisation>, <localisation>vers Essigny-le-Petit</localisation>, traverse le territoire de cette commune et ceux de <localisation><commune insee="02420" precision="certain">Lesdins</commune></localisation>, <localisation><commune insee="02525" precision="certain">Morcourt</commune></localisation>, <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>, <localisation><commune insee="02142" precision="certain">Castres</commune></localisation>, <localisation><commune insee="02320" precision="certain">Fontaine-les-Clercs</commune></localisation>, <localisation><commune insee="02710" precision="approximatif">Seraucourt-le-Grand</commune></localisation>, <localisation><commune insee="02367" precision="certain">Happencourt</commune></localisation>, <localisation><commune insee="02025" precision="certain">Artemps</commune></localisation>, <localisation><commune insee="02752" precision="certain">Tugny-et-Pont</commune></localisation>, <localisation><commune insee="02273" precision="certain">Dury</commune></localisation> et <localisation><commune insee="02604" precision="certain">Pithon</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source <localisation>au-dessous de <commune insee="02319" precision="approximatif">Fonsomme</commune></localisation>, <localisation>vers Essigny-le-Petit</localisation>, traverse le territoire de cette commune et ceux de <localisation><commune insee="02420" precision="certain">Lesdins</commune></localisation>, <localisation><commune insee="02525" precision="certain">Morcourt</commune></localisation>, <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>, <localisation><commune insee="02142" precision="certain">Castres</commune></localisation>, <localisation><commune insee="02320" precision="certain">Fontaine-les-Clercs</commune></localisation>, <localisation><commune insee="02710" precision="approximatif">Seraucourt-le-Grand</commune></localisation>, <localisation><commune insee="02367" precision="certain">Happencourt</commune></localisation>, <localisation><commune insee="02025" precision="certain">Artemps</commune></localisation>, <localisation><commune insee="02752" precision="certain">Tugny-et-Pont</commune></localisation>, <localisation><commune insee="02273" precision="certain">Dury</commune></localisation> et <localisation><commune insee="02604" precision="certain">Pithon</commune></localisation>.</definition>
     <commentaire>
       <p>Son parcours dans le département de l’Aisne, où elle alimente les moulins à blé de Morcourt, Moulin Brûlé, Saint-Quentin, Rocourt, Oëstres, Fontaine-les-Clercs, Seraucourt et Artemps, est de 38 kilom. 8 hectom.</p>
     </commentaire>
@@ -43122,21 +43201,19 @@
   </article>
   <article id="DT02-05664" pg="265">
     <vedette><sm>Souche (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend naissance à <localisation><commune insee="02720" precision="certain">Sissonne</commune></localisation>.</definition>
-    <commentaire>
-      <p>La première source tarit pendant six mois de l’année depuis la Viéville jusqu’au parc de Sissonne, où sont les sources principales, passe à Chivres-et-Mâchecourt, à Pierrepont, où ses bras portaient autrefois divers noms, tels que le Chêne qui entourait le château :</p>
-    </commentaire>
+    <definition><typologie>rivière</typologie> qui prend naissance à <localisation><commune insee="02720" precision="certain">Sissonne</commune></localisation>. La première source tarit pendant six mois de l’année depuis la Viéville jusqu’au parc de Sissonne, où sont les sources principales, passe à <localisation><commune insee="02189" precision="certain">Chivres-et-Mâchecourt</commune></localisation>, à <localisation><commune insee="02600" precision="certain">Pierrepont</commune></localisation>, où ses bras portaient autrefois divers noms, tels que le Chêne qui entourait le château, ou la <i>Rivière-le-Comte,</i> qui tombait dans celle de <i>Vausserye</i> et s’étendait du moulin de Chivres jusqu’à Vausserye. On la connaissait aussi sous le nom de <i>Chocque,</i> ou <i>la Roye,</i>. La Souche passe à <localisation><commune insee="02430" precision="certain">Liesse</commune>, <commune insee="02486" precision="certain">Missy-lez-Pierrepont</commune>, <commune insee="02600" precision="certain">Pierrepont</commune>, <commune insee="02353" precision="certain">Grandlup-et-Fay</commune>, <commune insee="02790" precision="certain">Vesles-et-Caumont</commune>, <commune insee="02745" precision="certain">Toulis-et-Attencourt</commune>, <commune insee="02338" precision="certain">Froidmont-et-Cohartille</commune></localisation>, qu’elle limite jusqu’à la route impériale, <localisation><commune insee="02048" precision="certain">Barenton-sur-Serre</commune>, <commune insee="02529" precision="certain">Mortiers</commune>, <commune insee="02156" precision="certain">Chalandry</commune>, <commune insee="02237" precision="certain">Crécy-sur-Serre</commune>, <commune insee="02180" precision="certain">Chéry-lez-Pouilly</commune>, <commune insee="02617" precision="certain">Pouilly</commune> et <commune insee="02027" precision="certain">Assis-sur-Serre</commune></localisation>.</definition>
     <forme_ancienne>l’eaue des <i>Chesnes,</i> <date>1453</date> <reference>(comptes de la châtellenie de Pierrepont, cabinet de M. d’Imécourt)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Chaisne,</i> <date>1605</date> ;</forme_ancienne>
-    <forme_ancienne><i>Chêne,</i> <date>1702</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
-    <forme_ancienne>— La <i>Rivière-le-Comte,</i> qui tombait dans celle de <i>Vausserye</i> et s’étendait du moulin de Chivres jusqu’à Vausserye, <date>1605</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
-    <forme_ancienne>— On la connaissait aussi sous le nom de <i>Chocque,</i> <date>1453</date> <reference>(ut supra)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Choc,</i> <date>1605</date> <reference>(ut supra)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Chêne,</i> <date>1702</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Rivière-le-Comte,</i>, <date>1605</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Chocque,</i> <date>1453</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Choc,</i> <date>1605</date> <reference>(tit. de l’év. de Laon)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Socq,</i> <date>1692</date> <reference>(arch. de l’Emp. K 1277)</reference>.</forme_ancienne>
-    <forme_ancienne>— <i>Soq,</i> <date>1701</date> <reference>(Hôtel-Dieu de Laon, E 1)</reference>, ou <i>la Roye,</i> <date>1702</date> <reference>(év. de Laon)</reference> : « La Rois foraine courant sur la rivière de <i>Chocque</i> a son cours depuis le molinet de Sissonne jusqu’au dessoubs du molin de Bransicourt et du bois de Luvry. » <date>1536</date> <reference>(comptes de la châtell. de Pierrepont).</reference>
-    </forme_ancienne>
+    <forme_ancienne>— <i>Soq,</i> <date>1701</date> <reference>(Hôtel-Dieu de Laon, E 1)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>la Roye,</i> <date>1702</date> <reference>(év. de Laon)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>La Rois foraine</i> courant sur la rivière de <i>Chocque</i> a son cours depuis le molinet de Sissonne jusqu’au dessoubs du molin de Bransicourt et du bois de Luvry. » <date>1536</date> <reference>(comptes de la châtell. de Pierrepont).</reference></forme_ancienne>
     <commentaire>
-      <p>La Souche passe à Liesse, Missy-lez-Pierrepont, Pierrepont, Grandlup-et-Fay, Vesles-et-Caumont, Toulis-et-Attencourt, Froidmont-et-Cohartille, qu’elle limite jusqu’à la route impériale, Barenton-sur-Serre, Mortiers, Chalandry, Crécy-sur-Serre, Chéry-lez-Pouilly, Pouilly et Assis-sur-Serre. Elle alimente les moulins de Froidmont et de Chalandry, le vieux moulin de Crécy et les batteuses Oudin et Turquin. — Son parcours est de 36,550 mètres. — Cette rivière allait autrefois rejoindre Dercy ; mais des travaux ont dérangé son cours, au <date><sm>xviii</sm><sup>e</sup> siècle</date>, pour faciliter la culture de terrains fertiles. Cette ancienne Souche, qui se détache à Chalandry et se jette dans la Souche à Barenton-sur-Serre, où elle porte aussi le nom de <i>Rivière-Haute,</i> offre un parcours de 1,600 mètres.</p>
+      <p>La Souche alimente les moulins de Froidmont et de Chalandry, le vieux moulin de Crécy et les batteuses Oudin et Turquin. — Son parcours est de 36,550 mètres. — Cette rivière allait autrefois rejoindre Dercy ; mais des travaux ont dérangé son cours, au <date><sm>xviii</sm><sup>e</sup> siècle</date>, pour faciliter la culture de terrains fertiles. Cette ancienne Souche, qui se détache à Chalandry et se jette dans la Souche à Barenton-sur-Serre, où elle porte aussi le nom de <i>Rivière-Haute,</i> offre un parcours de 1,600 mètres.</p>
     </commentaire>
   </article>
   <article id="DT02-05665" pg="265" type="commune">
@@ -43202,11 +43279,7 @@
     <forme_ancienne>— <i>Souppir,</i> <date>1554</date> <reference>(reg. des insin. du baill. de Vermandois)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Soupire,</i> <date>1671</date> <reference>(ch. de l’abb. de Prémontré)</reference>.</forme_ancienne>
     <commentaire>
-      <p>On remarque à Soupir une pierre qui bornait les évêchés de Laon et de Soissons :</p>
-    </commentaire>
-    <forme_ancienne><i>Lapis qui dividit Laudunensem et Suessionensem episcopatum,</i> <date>1133</date> <reference>(cart. de l’abbaye de Prémontré, f° 26, bibl. de Soissons)</reference>.</forme_ancienne>
-    <commentaire>
-      <p>— Relevait de l’évêché de Laon.</p>
+      <p>On remarque à Soupir une pierre qui bornait les évêchés de Laon et de Soissons :<i>Lapis qui dividit Laudunensem et Suessionensem episcopatum,</i> <date>1133</date> <reference>(cart. de l’abbaye de Prémontré, f° 26, bibl. de Soissons)</reference>. Relevait de l’évêché de Laon.</p>
     </commentaire>
     <insee>02730</insee>
   </article>
@@ -43777,10 +43850,7 @@
   </article>
   <article id="DT02-05742" pg="269">
     <vedette><sm>Thiérache,</sm></vedette>
-    <definition><typologie>petite province ou contrée limitée</typologie> au nord par le <localisation>Cambrésis</localisation> et le <localisation>Hainaut</localisation>, à l’est par la <localisation>Champagne</localisation>, au sud par le <localisation>Laonnois</localisation> et à l’ouest par le <localisation>Vermandois</localisation>.</definition>
-    <commentaire>
-      <p>Elle comprenait le duché de Guise, les comtés de Marle et de Ribemont, la baronnie de Rozoy et une faible partie de la baronnie de Pierrepont.</p>
-    </commentaire>
+    <definition><typologie>petite province ou contrée limitée</typologie> au nord par le <localisation>Cambrésis</localisation> et le <localisation>Hainaut</localisation>, à l’est par la <localisation>Champagne</localisation>, au sud par le <localisation>Laonnois</localisation> et à l’ouest par le <localisation>Vermandois</localisation>. Elle comprenait <localisation>le duché de Guise, les comtés de Marle et de Ribemont, la baronnie de Rozoy et une faible partie de la baronnie de Pierrepont</localisation>.</definition>
     <forme_ancienne>— <i>Teoracia pagus,</i> <date>690</date> <reference>(ex Vitâ sancti Ursmari, abbatis Laubiensis, acta SS. ord. S. Bened. part. 1, p. 255)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Terascia,</i> <date>882</date> <reference>(Annales Vedastini, <i>Hist. de France,</i> t. VIII, p. 82 D)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Terracia,</i> <date>882</date> <reference>(ex chronico de gestis Normannis, <i>Hist. de France,</i> t. VIII, p. 954)</reference>.</forme_ancienne>
@@ -45659,10 +45729,7 @@
   </article>
   <article id="DT02-05981" pg="280">
     <vedette><sm>Valois,</sm></vedette>
-    <definition><typologie>petite province</typologie> dont on ne connaît pas exactement l’étendue dans les <localisation>diocèses de Soissons, de Meaux et de Senlis</localisation>.</definition>
-    <commentaire>
-      <p>— Le ru de Parmailles la séparait du Soissonnais ; elle était limitée au nord par le Noyonnais et le Santerre, au nord-ouest et à l’ouest par le Beauvaisis, au sud par une partie de l’Île-de-France et du Multien et à l’est par le Soissonnais. — Ancien comté.</p>
-    </commentaire>
+    <definition><typologie>petite province</typologie> dont on ne connaît pas exactement l’étendue dans les <localisation>diocèses de Soissons, de Meaux et de Senlis</localisation>. Le ru de Parmailles la séparait du Soissonnais ; elle était limitée au nord par le Noyonnais et le Santerre, au nord-ouest et à l’ouest par le Beauvaisis, au sud par une partie de l’Île-de-France et du Multien et à l’est par le Soissonnais.</definition>
     <forme_ancienne>— <i>Pagus Vadensis,</i> <date>795</date> <reference>(Flodoard, <i>Hist. eccl. Remensis,</i> lib. II, cap. 18)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vadisus,</i> <date>853</date> <reference>(Baluze, <i>Capitularia Caroli calvi</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vadensis Comitatus,</i> <date>1047</date> <reference>(Duchesne, <i>Script. Franc.,</i> t. IV)</reference>.</forme_ancienne>
@@ -45675,7 +45742,7 @@
     <forme_ancienne>— <i>Vallois,</i> <date>1540</date> <reference>(comptes de l’Hôtel-Dieu de Soissons, f° 17)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Duché de Valloys,</i> <date>1561</date> <reference>(arch. de l’Emp. Q 5)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Le comté a été érigé en duché en <date>1406</date>.</p>
+      <p>Ancien comté. Le comté a été érigé en duché en <date>1406</date>.</p>
     </commentaire>
   </article>
   <article id="DT02-05982" pg="280">
@@ -46640,7 +46707,7 @@
   </article>
   <article id="DT02-06082" pg="287" type="commune">
     <vedette><sm>Vermand,</sm></vedette>
-    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02307" precision="certain">Saint-Quentin</commune></localisation>.</definition>
+    <definition><typologie>arrondissement</typologie> de <localisation><commune insee="02691" precision="certain">Saint-Quentin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Viromandis</i> <reference>(monnaie d’or mérovingienne, cab. des médailles de la Bibl. imp.)</reference>.</forme_ancienne>
     <forme_ancienne>— Castrum <i>Viromandensium</i> <reference>(Surius, 31 octobre, Vie de Saint Quentin)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vermant,</i> <date>1160</date> <reference>(suppl. de D. Grenier, 291, Bibl. imp.)</reference>.</forme_ancienne>
@@ -46649,13 +46716,7 @@
     <forme_ancienne>— <i>Sainte-Marguerite-de-Vermand,</i> <date>1672</date> <reference>(arch. comm. de Vermand)</reference>.</forme_ancienne>
     <commentaire>
       <p>Oppide gaulois le plus important des Viromandui pour la défense de leur civitas contre les Nervii. — Camp romain d’une plus grande importance au sud, territoire de Marteville.</p>
-      <p>Abbaye de Prémontré fondée, au <date><sm>xii</sm><sup>e</sup> siècle</date>, sous le vocable de Notre-Dame.</p>
-    </commentaire>
-    <forme_ancienne>— Monasterium <i>Sancte-Marie-Vermandensis</i> <reference>(coll. de D. Grenier, 24<sup>e</sup> paquet, n° 31)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ecclesia <i>Virmandi,</i> <date>1131</date> ;</forme_ancienne>
-    <forme_ancienne><i>Veromandense cœnobium,</i> <date>1135</date> <reference>(Mém. du Vermandois, t. II, p. 262 et 311)</reference>.</forme_ancienne>
-    <forme_ancienne>— Ecclesia <i>Beate-Marie-de-Vermans,</i> <date>1171</date> <reference>(Bibl. imp. fonds latin, ms. 11069)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>Abbaye de Prémontré fondée, au <date><sm>xii</sm><sup>e</sup> siècle</date>, sous le vocable de Notre-Dame. — <i>Monasterium Sancte-Marie-Vermandensis</i> <reference>(coll. de D. Grenier, 24<sup>e</sup> paquet, n° 31)</reference>. — <i>Ecclesia Virmandi,</i> <date>1131</date> ; <i>Veromandense cœnobium,</i> <date>1135</date> <reference>(Mém. du Vermandois, t. II, p. 262 et 311)</reference>. — <i>Ecclesia Beate-Marie-de-Vermans</i>, <date>1171</date> <reference>(Bibl. imp. fonds latin, ms. 11069)</reference>.</p>
       <p>La seigneurie appartenait en partie au chapitre de Saint-Quentin.</p>
       <p>Vermand fut, en <date>1790</date>, chef-lieu d’un canton comprenant le canton actuel moins Jeancourt et le Verguier.</p>
     </commentaire>
@@ -46750,13 +46811,11 @@
   <article id="DT02-06089" pg="288">
     <vedette><sm>Veromandui,</sm></vedette>
     <definition><typologie>ancien peuple</typologie> de la <localisation>Gaule Belgique</localisation>.</definition>
-    <commentaire>
-      <p>— Ils étaient limités au nord par les Nervii, à l’est par les Remi, au sud par les Bellovaci et les Remi, et enfin, à l’ouest, par les Atrebates.</p>
-    </commentaire>
     <forme_ancienne>— <i>Ρομάνδυες</i> <reference>(Ptolémée)</reference>.</forme_ancienne>
     <forme_ancienne>— Civitas <i>Veromanduorum</i> <reference>(J. César, <i>de Bello Gallico</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Veromandense territorium,</i> <date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Vie de saint Médard, évêque de Noyon)</reference>.</forme_ancienne>
     <commentaire>
+      <p>— Ils étaient limités au nord par les Nervii, à l’est par les Remi, au sud par les Bellovaci et les Remi, et enfin, à l’ouest, par les Atrebates.</p>
       <p><renvoi>— Voy. <sm>Vermandois.</sm></renvoi></p>
     </commentaire>
   </article>
@@ -48234,51 +48293,135 @@
     <definition><typologie>hameau</typologie>, <localisation>commune d’<commune insee="02286" precision="certain">Esquehéries</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Voiry,</i> <date>1745</date> <reference>(gruerie du Nouvion)</reference>.</forme_ancienne>
   </article>
-  <article id="DT02-06254" pg="299">
-    <vedette><sm>Voies anciennes.</sm></vedette>
-    <commentaire>
-      <p>— De Châtillon-sur-Oise au Câteau-Cambrésis, par Fieulaine, Méraulieu, Étaves, Seboncourt et Vaux-Andigny.</p>
-      <p>De Condren à Noyon, par Viry, Mondescourt, Babœuf et Salency.</p>
-      <p>De Corbeny à Noyon, par Craonne, Hurtebise, le territoire de Cerny-en-Laonnois, se confondant avec la route des Dames. La route de Laon à Soissons la recouvre depuis l’Ange-Gardien jusqu’à Laffaux. Elle sert de démarcation aux territoires de Terny-Sorny, Leuilly, Crécy-au-Mont, Juvigny, Selens, Morsain, Audignicourt, Blérancourdelle, et rejoint au-dessous de Nampcel la voie de Soissons à Amiens, avec laquelle elle se dirige vers Noyon.</p>
-      <p>De Cutz vers Ham, par Quierzy, Caillouël-Crépigny et Guivry.</p>
-      <p>De Laon à Arras, par Loizy, Vivaise, Monceau-les-Leups, Pont-à-Bucy, Nouvion-l’Abbesse, Sery-lez-Mézières, Mézières, Itancourt, Saint-Quentin, Pontruet et Cologne.</p>
-      <p>De Laon à Cambrai, par Aulnois et Chéry-lez-Pouilly.</p>
-      <p>De Laon à Mézières (Ardennes), par Chambry, Monceau-le-Wast, Pierrepont, les fermes de Beauvois, Rocquignicourt (village détruit), Montcornet et Rozoy-sur-Serre.</p>
-      <p>De Laon à Péronne, par Crépy, Versigny, Rogécourt, Danizy, Travecy, Remigny, Montescourt-Lizerolles, Seraucourt, Roupy, Vaux et Beauvois.</p>
-      <p>De Noyon à Villers-Cotterêts, par Attichy (Oise) et Vivières.</p>
-      <p>De Reims à Cambrai, par Nizy-le-Comte, Voyenne, Sons, Landifay, Proix, Copevoie, Bohain.</p>
-      <p>De Reims à Crépy-en-Valois, par Fismes, Mareuil-en-Dôle, Wallée, Oulchy-la-Ville, Neuilly-Saint-Front et la Ferté-Milon.</p>
-      <p>De Reims à Paris : 1° par Crézancy, Fossoy, Blesmes, Chierry, Étampes, Chézy-l’Abbaye, Nogent-l’Artaud, Charly, Crouttes et Meaux ; 2° par Fismes, Mareuil-en-Dôle, Trianges et Gandelu.</p>
-      <p>De Saint-Quentin à la Capelle, par Longchamps, Vadencourt et Lesquielles.</p>
-      <p>De Saint-Quentin à Nesles, par Savy et Étreillers.</p>
-      <p>De Saint-Quentin à Noyon.</p>
-      <p>De Soissons à Laon, par Crouy, Chavignon, Urcel, Étouvelles et Chivy-lez-Étouvelles <renvoi>(voy. les Actes de saint Ansery, évêque de Soissons, Boll. Acta sanctorum, 5 sept., p. 548, n° 14)</renvoi>.</p>
-      <p>De Soissons à Ribemont, la même que la précédente jusqu’à Chavignon. Elle passe à Chaillevois, Royaucourt, Vaucelles, Mons-en-Laonnois, Thierret, Cerny-lez-Bucy, Couvron, Monceau-les-Leups, Pont-à-Bucy, Nouvion-et-Câtillon, Fay-le-Noyer.</p>
-      <p>De Soissons à Troyes, par Taux, Hartennes, Oulchy-le-Château, Château-Thierry, Viffort, Fontenelle, Montmirail.</p>
+  <article id="DT02-06254-01" pg="299">
+    <vedette><sm>Voie ancienne de Châtillon-sur-Oise au Câteau-Cambrésis</sm></vedette>
+    <definition>par Fieulaine, Méraulieu, Étaves, Seboncourt et Vaux-Andigny.</definition>
+  </article>
+  <article id="DT02-06254-02" pg="299">
+    <vedette><sm>Voie ancienne de Condren à Noyon</sm></vedette>
+    <definition>par Viry, Mondescourt, Babœuf et Salency.</definition>
+    </article>
+  <article id="DT02-06254-03" pg="299">
+    <vedette><sm>Voie ancienne de Corbeny à Noyon</sm></vedette>
+    <definition>par Craonne, Hurtebise, le territoire de Cerny-en-Laonnois, se confondant avec la route des Dames. La route de Laon à Soissons la recouvre depuis l’Ange-Gardien jusqu’à Laffaux. Elle sert de démarcation aux territoires de Terny-Sorny, Leuilly, Crécy-au-Mont, Juvigny, Selens, Morsain, Audignicourt, Blérancourdelle, et rejoint au-dessous de Nampcel la voie de Soissons à Amiens, avec laquelle elle se dirige vers Noyon.</definition>
+    </article>
+  <article id="DT02-06254-04" pg="299">
+    <vedette><sm>Voie ancienne de Cutz vers Ham</sm></vedette>
+    <definition>par Quierzy, Caillouël-Crépigny et Guivry.</definition>
+  </article>
+  <article id="DT02-06254-05" pg="299">
+    <vedette><sm>Voie ancienne de Laon à Arras</sm></vedette>
+    <definition>par Loizy, Vivaise, Monceau-les-Leups, Pont-à-Bucy, Nouvion-l’Abbesse, Sery-lez-Mézières, Mézières, Itancourt, Saint-Quentin, Pontruet et Cologne.</definition>
+  </article>
+  <article id="DT02-06254-06" pg="299">
+    <vedette><sm>Voie ancienne de Laon à Cambrai</sm></vedette>
+    <definition>par Aulnois et Chéry-lez-Pouilly.</definition>
+  </article>
+  <article id="DT02-06254-07" pg="299">
+    <vedette><sm>Voie ancienne de Laon à Mézières (Ardennes)</sm></vedette>
+    <definition>par Chambry, Monceau-le-Wast, Pierrepont, les fermes de Beauvois, Rocquignicourt (village détruit), Montcornet et Rozoy-sur-Serre.</definition>
+  </article>
+  <article id="DT02-06254-08" pg="299">
+    <vedette><sm>Voie ancienne de Laon à Péronne</sm></vedette>
+    <definition>par Crépy, Versigny, Rogécourt, Danizy, Travecy, Remigny, Montescourt-Lizerolles, Seraucourt, Roupy, Vaux et Beauvois.</definition>
+  </article>
+  <article id="DT02-06254-09" pg="299">
+    <vedette><sm>Voie ancienne de Noyon à Villers-Cotterêts</sm></vedette>
+    <definition>par Attichy (Oise) et Vivières.</definition>
+  </article>
+  <article id="DT02-06254-10" pg="299">
+    <vedette><sm>Voie ancienne de Reims à Cambrai</sm></vedette>
+    <definition>par Nizy-le-Comte, Voyenne, Sons, Landifay, Proix, Copevoie, Bohain.</definition>
+  </article>
+  <article id="DT02-06254-11" pg="299">
+    <vedette><sm>Voie ancienne de Reims à Crépy-en-Valois</sm></vedette>
+    <definition>par Fismes, Mareuil-en-Dôle, Wallée, Oulchy-la-Ville, Neuilly-Saint-Front et la Ferté-Milon.</definition>
+  </article>
+  <article id="DT02-06254-12" pg="299">
+    <vedette><sm>Voie ancienne de Reims à Paris</sm></vedette>
+    <definition>1° par Crézancy, Fossoy, Blesmes, Chierry, Étampes, Chézy-l’Abbaye, Nogent-l’Artaud, Charly, Crouttes et Meaux ; 2° par Fismes, Mareuil-en-Dôle, Trianges et Gandelu.</definition>
+  </article>
+  <article id="DT02-06254-13" pg="299">
+    <vedette><sm>Voie ancienne de Saint-Quentin à la Capelle</sm></vedette>
+    <definition>par Longchamps, Vadencourt et Lesquielles.</definition>
+  </article>
+  <article id="DT02-06254-14" pg="299">
+    <vedette><sm>Voie ancienne de Saint-Quentin à Nesles</sm></vedette>
+    <definition>par Savy et Étreillers.</definition>
+  </article>
+  <article id="DT02-06254-15" pg="299">
+    <vedette><sm>Voie ancienne de Saint-Quentin à Noyon.</sm></vedette>
+  </article>
+  <article id="DT02-06254-16" pg="299">
+    <vedette><sm>Voie ancienne de Soissons à Laon</sm></vedette>
+    <definition>par Crouy, Chavignon, Urcel, Étouvelles et Chivy-lez-Étouvelles</definition>
+    <commentaire><p><renvoi>(voy. les Actes de saint Ansery, évêque de Soissons, Boll. Acta sanctorum, 5 sept., p. 548, n° 14)</renvoi>.</p></commentaire>
+  </article>
+  <article id="DT02-06254-17" pg="299">
+    <vedette><sm>Voie ancienne de Soissons à Ribemont</sm></vedette>
+    <definition>La même que la précédente jusqu’à Chavignon. Elle passe à Chaillevois, Royaucourt, Vaucelles, Mons-en-Laonnois, Thierret, Cerny-lez-Bucy, Couvron, Monceau-les-Leups, Pont-à-Bucy, Nouvion-et-Câtillon, Fay-le-Noyer.</definition>
+  </article>
+  <article id="DT02-06254-18" pg="299">
+    <vedette><sm>Voie ancienne de Soissons à Troyes</sm></vedette>
+    <definition>par Taux, Hartennes, Oulchy-le-Château, Château-Thierry, Viffort, Fontenelle, Montmirail.</definition>
+  </article>
+  <article id="DT02-06255-01" pg="299">
+    <vedette><sm>Voie romaine de Bavay à Reims</sm></vedette>
+    <definition>Mentionnée dans l’Itinéraire d’Antonin et la Table Théodosienne. Elle suit, depuis Étrœungt (Nord), la route impériale n° 2, de Paris à Maubeuge, avec laquelle elle se confond en très-grande partie, passe à Vervins, Rabouzy, la ferme de Deuil, la Chaussée-d’Hary, Hary, traverse la forêt du Val-Saint-Pierre, et se dirige vers le hameau de Séchelles, où se trouvait la station de <i>Catusiacum,</i> laissant sur la gauche Vigneux, dominé par un camp de 400 mètres de long sur 250 de large ; remonte vers la Ville-aux-Bois, traverse Dizy-le-Gros, Nizy-le-Comte, atteint les dernières maisons de Lor, passe l’Aisne à Évergnicourt, où se trouvait la station de <i>Muenna</i> ou d’<i>Auxenna,</i> et quitte ensuite le département de l’Aisne, en se dirigeant vers Reims.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
     </commentaire>
   </article>
-  <article id="DT02-06255" pg="299">
-    <vedette><sm>Voies romaines.</sm></vedette>
-    <commentaire>
-      <p>— <i>De Bavay à Reims,</i> mentionnée dans l’Itinéraire d’Antonin et la Table Théodosienne. Elle suit, depuis Étrœungt (Nord), la route impériale n° 2, de Paris à Maubeuge, avec laquelle elle se confond en très-grande partie, passe à Vervins, Rabouzy, la ferme de Deuil, la Chaussée-d’Hary, Hary, traverse la forêt du Val-Saint-Pierre, et se dirige vers le hameau de Séchelles, où se trouvait la station de <i>Catusiacum,</i> laissant sur la gauche Vigneux, dominé par un camp de 400 mètres de long sur 250 de large ; remonte vers la Ville-aux-Bois, traverse Dizy-le-Gros, Nizy-le-Comte, atteint les dernières maisons de Lor, passe l’Aisne à Évergnicourt, où se trouvait la station de <i>Muenna</i> ou d’<i>Auxenna,</i> et quitte ensuite le département de l’Aisne, en se dirigeant vers Reims.</p>
-      <p><i>De Bavay à Beauvais.</i> Elle pénètre dans le département de l’Aisne en séparant les territoires de Prémont et de Serain près d’un tumulus, traverse celui de Beaurevoir, dominé par un camp, Estrées, Riqueval ; atteint à 2 kilomètres de là la voie de Saint-Quentin à Arras ; suit le versant nord de la vallée de l’Omignon, passe près du tumulus de Pontru, atteint le camp de Vermand et se réunit à la voie d’Amiens à Saint-Quentin, dont elle se sépare au delà de Marteville, passe ensuite à Beauvois et Lanchy, <pg>300</pg>pour entrer dans le département de la Somme à Ugny-l’Équipée.</p>
-    </commentaire>
+  <article id="DT02-06255-02" pg="299">
+    <vedette><sm>Voie romaine de Bavay à Beauvais</sm></vedette>
+    <definition>Elle pénètre dans le département de l’Aisne en séparant les territoires de Prémont et de Serain près d’un tumulus, traverse celui de Beaurevoir, dominé par un camp, Estrées, Riqueval ; atteint à 2 kilomètres de là la voie de Saint-Quentin à Arras ; suit le versant nord de la vallée de l’Omignon, passe près du tumulus de Pontru, atteint le camp de Vermand et se réunit à la voie d’Amiens à Saint-Quentin, dont elle se sépare au delà de Marteville, passe ensuite à Beauvois et Lanchy, <pg>300</pg>pour entrer dans le département de la Somme à Ugny-l’Équipée.</definition>
     <forme_ancienne>— <i>Chaussée-Brunehaut,</i> <date>1573</date> <reference>(arch. de l’Emp. P 248-3)</reference>.</forme_ancienne>
-    <commentaire>
-      <p><i>De Reims à Thérouanne.</i> Mentionnée dans l’Itinéraire d’Antonin et la Table Théodosienne, elle passe au Câtelet, à Bony, Quennemont, Cologne, Pontruet ; atteint, avant d’entrer à Saint-Quentin, la voie de Reims à Arras, traverse Essigny-le-Grand, atteint Montescourt-Lizerolles, où se trouve un tumulus, le bois de Liez, Remigny, Vouël, où se voit un autre tumulus, Condren, remonte la butte d’Amigny, passe sur le territoire d’Autreville, s’enfonce dans la forêt basse de Coucy, pour gagner Folembray, Pont-Saint-Mard, où elle traverse l’Ailette, puis se dirigeant vers Juvigny, où se trouvent encore des bornes milliaires, parcourt Pasly après avoir laissé, à onze mètres sur la droite, le dolmen de Vaurezis, et atteint Soissons et la voie d’Agrippa qui conduisait d’Amiens à Reims.</p>
-      <p><i>De Reims à Amiens.</i> Cette voie, mentionnée dans l’Itinéraire d’Antonin, la Table Théodosienne, le testament de saint Remy et l’inscription de Tongres, passe par Fismes, le pont d’Ancy, Courcelles, Soissons, Arlaines ; elle se confond avec la route impériale n° 31 à Sermoise jusqu’au delà d’Arlaines, franchit l’Aisne au-dessous de Vic-sur-Aisne pour atteindre les hauteurs de Mouflaye, où elle entre dans le département de l’Oise près de la croix Sainte-Léocade.</p>
-      <p><i>De Reims à Arras.</i> La route impériale n° 44 la recouvre entièrement jusque vis-à-vis du territoire de Sainte-Croix, atteint la montagne d’Aubigny, qu’elle franchit pour aboutir à la Maison-Rouge, où elle se confond de nouveau avec la route impériale n° 44, jusqu’au lieu dit <i>la Fosse Grisarde,</i> descend du côté de Veslud, où elle forme la rue de la Barrière, et se dirige vers Athies, qu’elle traverse, atteint Chambry, pour laisser à droite Hordevoie, gagne Longuedeau, limite les territoires de Mesbrecourt-Richecourt et de Nouvion-Câtillon, passe à Câtillon-du-Temple, effleure les dernières maisons de Surfontaine, passe entre Neuville-Saint-Amand et Itancourt, traverse Saint-Quentin. La route impériale la recouvre ensuite jusqu’à 300 mètres au delà de Saint-Quentin. Elle se dirige vers l’extrémité nord de Pontruet et le bois de Cologne.</p>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
     </commentaire>
+  </article>
+  <article id="DT02-06255-03" pg="299">
+    <vedette><sm>Voie romaine de Reims à Thérouanne</sm></vedette>
+    <definition>Mentionnée dans l’Itinéraire d’Antonin et la Table Théodosienne, elle passe au Câtelet, à Bony, Quennemont, Cologne, Pontruet ; atteint, avant d’entrer à Saint-Quentin, la voie de Reims à Arras, traverse Essigny-le-Grand, atteint Montescourt-Lizerolles, où se trouve un tumulus, le bois de Liez, Remigny, Vouël, où se voit un autre tumulus, Condren, remonte la butte d’Amigny, passe sur le territoire d’Autreville, s’enfonce dans la forêt basse de Coucy, pour gagner Folembray, Pont-Saint-Mard, où elle traverse l’Ailette, puis se dirigeant vers Juvigny, où se trouvent encore des bornes milliaires, parcourt Pasly après avoir laissé, à onze mètres sur la droite, le dolmen de Vaurezis, et atteint Soissons et la voie d’Agrippa qui conduisait d’Amiens à Reims.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>
+  <article id="DT02-06255-04" pg="299">
+    <vedette><sm>Voie romaine de Reims à Amiens</sm></vedette>
+    <definition>Cette voie, mentionnée dans l’Itinéraire d’Antonin, la Table Théodosienne, le testament de saint Remy et l’inscription de Tongres, passe par Fismes, le pont d’Ancy, Courcelles, Soissons, Arlaines ; elle se confond avec la route impériale n° 31 à Sermoise jusqu’au delà d’Arlaines, franchit l’Aisne au-dessous de Vic-sur-Aisne pour atteindre les hauteurs de Mouflaye, où elle entre dans le département de l’Oise près de la croix Sainte-Léocade.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>
+  <article id="DT02-06255-05" pg="299">
+    <vedette><sm>Voie romaine de Reims à Arras</sm></vedette>
+    <definition>La route impériale n° 44 la recouvre entièrement jusque vis-à-vis du territoire de Sainte-Croix, atteint la montagne d’Aubigny, qu’elle franchit pour aboutir à la Maison-Rouge, où elle se confond de nouveau avec la route impériale n° 44, jusqu’au lieu dit <i>la Fosse Grisarde,</i> descend du côté de Veslud, où elle forme la rue de la Barrière, et se dirige vers Athies, qu’elle traverse, atteint Chambry, pour laisser à droite Hordevoie, gagne Longuedeau, limite les territoires de Mesbrecourt-Richecourt et de Nouvion-Câtillon, passe à Câtillon-du-Temple, effleure les dernières maisons de Surfontaine, passe entre Neuville-Saint-Amand et Itancourt, traverse Saint-Quentin. La route impériale la recouvre ensuite jusqu’à 300 mètres au delà de Saint-Quentin. Elle se dirige vers l’extrémité nord de Pontruet et le bois de Cologne.</definition>
     <forme_ancienne>— <i>Chemin-Roumeres,</i> <date>1271</date> <reference>(ch. de l’abb. de Saint-Nicolas-aux-Bois)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Chemin-Rommeres,</i> <date>1292</date> <reference>(ch. de l’Hôtel-Dieu de Laon, A I)</reference>.</forme_ancienne>
-    <commentaire>
-      <p><i>Voie de la Barbarie</i> (iter barbaricum). — De Reims à Laon, par Beauregard, Maizy, Cuissy, Cerny-en-Laonnois, Chamouille, Monthenault, Bruyères et Laon.</p>
-      <p><i>De Soissons à Senlis.</i> Elle se confond avec la route de Soissons à Vic-sur-Aisne jusqu’à Pontarcher, laisse sur sa droite Montigny-Lengrain pour atteindre ensuite le département de l’Oise. — Cette chaussée est citée dans l’Itinéraire d’Antonin.</p>
-      <p><i>De Soissons à Paris :</i> 1° par Villers-Cotterêts et Crépy-en-Valois ; 2° par Longpont, Corcy, Faverolles, la Ferté-Milon et Meaux.</p>
-      <p><i>De Saint-Quentin à Amiens,</i> par Holnon, Marteville et Vermand.</p>
-      <p>Ces chaussées ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la nomenclature qui précède a été en grande partie puisée.</p>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
     </commentaire>
   </article>
+  <article id="DT02-06255-06" pg="299">
+    <vedette><sm>Voie de la Barbarie (iter barbaricum)</sm></vedette>
+    <definition><typologie>Voie romaine</typologie> de Reims à Laon, par Beauregard, Maizy, Cuissy, Cerny-en-Laonnois, Chamouille, Monthenault, Bruyères et Laon.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>
+  <article id="DT02-06255-07" pg="299">
+    <vedette><sm>Voie romaine de Soissons à Senlis</sm></vedette>
+    <definition>Elle se confond avec la route de Soissons à Vic-sur-Aisne jusqu’à Pontarcher, laisse sur sa droite Montigny-Lengrain pour atteindre ensuite le département de l’Oise. — Cette chaussée est citée dans l’Itinéraire d’Antonin.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>
+  <article id="DT02-06255-08" pg="299">
+    <vedette><sm>Voie romaine de Soissons à Paris</sm></vedette>
+    <definition>1° par Villers-Cotterêts et Crépy-en-Valois ; 2° par Longpont, Corcy, Faverolles, la Ferté-Milon et Meaux.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>
+  <article id="DT02-06255-09" pg="299">
+    <vedette><sm>Voie romaine de Saint-Quentin à Amiens</sm></vedette>
+    <definition>Par Holnon, Marteville et Vermand.</definition>
+    <commentaire><p>Les chaussées romaines ont été parfaitement décrites dans un remarquable travail de M. Amédée Piette, où la présente nomenclature a été en grande partie puisée.</p>
+    </commentaire>
+  </article>   
   <article id="DT02-06256" pg="300">
     <vedette><sm>Vois,</sm></vedette>
     <definition><typologie>forêt</typologie>.</definition>
