@@ -5449,15 +5449,15 @@
   </article>
   <article id="DT05-01100" pg="21">
     <vedette><sm>Bric-Bouchet (Le)</sm> [Bric, rocher],</vedette>
-    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune> et Italie</localisation>.</definition>
   </article>
   <article id="DT05-01101" pg="21">
     <vedette><sm>Bric-d'Urine (Le)</sm> ou <sm>Pelvas,</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune> et Italie</localisation>.</definition>
   </article>
   <article id="DT05-01102" pg="21">
     <vedette><sm>Bric-Froid (Le),</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune> et Italie</localisation>.</definition>
   </article>
   <article id="DT05-01103" pg="21">
     <vedette><sm>Bridoins (Les),</sm></vedette>
@@ -13115,7 +13115,7 @@
   </article>
   <article id="DT05-02699" pg="49">
     <vedette><sm>Coste-Belle,</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05049" precision="approximatif">Esparron</commune>, de <commune insee="05035" precision="approximatif">Châteauneuf-d’Oze</commune> et Saint-Auban-d'Oze</localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05049" precision="approximatif">Esparron</commune>, de <commune insee="05035" precision="approximatif">Châteauneuf-d’Oze</commune> et <commune insee="05131" precision="approximatif">Saint-Auban-d'Oze</commune></localisation>.</definition>
   </article>
   <article id="DT05-02700" pg="49">
     <vedette><sm>Coste-Belle,</sm></vedette>
@@ -18803,7 +18803,7 @@
   </article>
   <article id="DT05-03923" pg="68">
     <vedette><sm>Freppier (Le),</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune></localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune> et Italie</localisation>.</definition>
   </article>
   <article id="DT05-03924" pg="68">
     <vedette><sm>Frérie (La),</sm></vedette>
@@ -21769,7 +21769,7 @@
   <article id="DT05-04565" pg="79">
     <pg>79</pg>
     <vedette><sm>Haut-Paitre (Le),</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05099" precision="certain">Oze</commune> et de Saint-Auban-d'Oze</localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05099" precision="certain">Oze</commune> et de <commune insee="05131" precision="certain">Saint-Auban-d'Oze</commune></localisation>.</definition>
   </article>
   <article id="DT05-04566" pg="79">
     <vedette><sm>Haut-Plan (Le),</sm></vedette>
@@ -23566,7 +23566,7 @@
   </article>
   <article id="DT05-04956" pg="85">
     <vedette><sm>Lauze (La),</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>communes de <commune insee="05158" precision="approximatif">Clausonne</commune>, d'<commune insee="05049" precision="approximatif">Esparron</commune> et de Saint-Auban-d'Oze</localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>communes de <commune insee="05158" precision="approximatif">Clausonne</commune>, d'<commune insee="05049" precision="approximatif">Esparron</commune> et de <commune insee="05131" precision="approximatif">Saint-Auban-d'Oze</commune></localisation>.</definition>
   </article>
   <article id="DT05-04957" pg="85">
     <vedette><sm>Lauze (La),</sm></vedette>
@@ -24700,7 +24700,7 @@
   </article>
   <article id="DT05-05201" pg="89">
     <vedette><sm>Malaure</sm> [Le mauvais vent],</vedette>
-    <definition><typologie>montagne et col</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune></localisation>.</definition>
+    <definition><typologie>montagne et col</typologie>, <localisation>commune d’<commune insee="05001" precision="certain">Abriès</commune> et Italie</localisation>.</definition>
   </article>
   <article id="DT05-05202" pg="89">
     <vedette><sm>Malaval,</sm></vedette>
@@ -26015,7 +26015,7 @@
   </article>
   <article id="DT05-05480" pg="94">
     <vedette><sm>Meouge (La),</sm></vedette>
-    <definition><typologie>rivière</typologie>. Prend sa source à <localisation>Mevouillon</localisation> (Drôme) et se jette dans le Buech, après avoir traversé les <localisation>communes de <commune insee="05160" precision="approximatif">Salérans</commune>, <commune insee="05014" precision="approximatif">Barret-le-Bas</commune>, <commune insee="05005" precision="approximatif">Antonaves</commune> et <commune insee="05034" precision="approximatif">Pomet</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie>. Prend sa source à <localisation><commune insee="26181" precision="certain">Mevouillon</commune></localisation> (Drôme) et se jette dans le Buech, après avoir traversé les <localisation>communes de <commune insee="05160" precision="approximatif">Salérans</commune>, <commune insee="05014" precision="approximatif">Barret-le-Bas</commune>, <commune insee="05005" precision="approximatif">Antonaves</commune> et <commune insee="05034" precision="approximatif">Pomet</commune></localisation>.</definition>
     <forme_ancienne>— <i>Mulgia,</i> <date>1177</date> <reference>(H.-A.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Melga,</i> <date>1177</date> <reference>(B.-du-Rhône, Malte, comm<sup>rie</sup> de Joucas)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Flumen Meuge,</i> <date>1365</date> <reference>(Is. B, 2,622)</reference>.</forme_ancienne>
@@ -41444,7 +41444,7 @@
   </article>
   <article id="DT05-08593" pg="151">
     <vedette><sm>Serre-de-l'Aigle (Le),</sm></vedette>
-    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05099" precision="approximatif">Oze</commune>, du <commune insee="05158" precision="approximatif">Saix</commune> et de Saint-Auban-d'Oze</localisation>.</definition>
+    <definition><typologie>montagne</typologie>, <localisation>communes d'<commune insee="05099" precision="approximatif">Oze</commune>, du <commune insee="05158" precision="approximatif">Saix</commune> et de <commune insee="05131" precision="approximatif">Saint-Auban-d'Oze</commune></localisation>.</definition>
   </article>
   <article id="DT05-08594" pg="151">
     <vedette><sm>Serre-de-l'Aigle (Le),</sm></vedette>
