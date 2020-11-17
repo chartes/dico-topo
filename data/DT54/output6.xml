@@ -5165,9 +5165,13 @@
     <vedette><sm>Cliancourt,</sm></vedette>
     <definition><typologie>ancienne maison de campagne au Crône</typologie>, <localisation>commune de <commune insee="54395" precision="certain">Nancy</commune></localisation>.</definition>
   </article>
-  <article id="DT54-00772" pg="33">
+  <article id="DT54-00772-01" pg="33">
     <vedette><sm>Cloître (Le),</sm></vedette>
-    <definition>nom donné à des <typologie>cantons</typologie> des <localisation>territoires de <commune insee="54047" precision="approximatif">Foulcrey</commune> et de <commune insee="54547" precision="approximatif">Vandœuvre</commune></localisation>.</definition>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54047" precision="approximatif">Foulcrey</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-00772-02" pg="33">
+    <vedette><sm>Cloître (Le),</sm></vedette>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54547" precision="approximatif">Vandœuvre</commune></localisation>.</definition>
   </article>
   <article id="DT54-00773" pg="33">
     <vedette><sm>Clos (Le),</sm></vedette>
@@ -5580,9 +5584,17 @@
     <vedette><sm>Cour</sm> ou <sm>Court (La),</sm></vedette>
     <definition><typologie>maison</typologie> forte à la <localisation><commune insee="54300" precision="certain">Neuveville-devant-Nancy</commune></localisation>.</definition>
   </article>
-  <article id="DT54-00860" pg="35">
+  <article id="DT54-00860-01" pg="35">
     <vedette><sm>Cour (La),</sm></vedette>
-    <definition><typologie>fiefs</typologie> aux <localisation>villages de <commune insee="54095" precision="approximatif">Bratte</commune>, <commune insee="54564" precision="approximatif">Viéville-en-Haye</commune> et <commune insee="54587" precision="approximatif">Vitrey</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie> au <localisation>village de <commune insee="54095" precision="certain">Bratte</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-00860-02" pg="35">
+    <vedette><sm>Cour (La),</sm></vedette>
+    <definition><typologie>fief</typologie> au <localisation>village de <commune insee="54564" precision="certain">Viéville-en-Haye</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-00860-03" pg="35">
+    <vedette><sm>Cour (La),</sm></vedette>
+    <definition><typologie>fief</typologie> au <localisation>village de <commune insee="54587" precision="certain">Vitrey</commune></localisation>.</definition>
   </article>
   <article id="DT54-00861" pg="35">
     <vedette><sm>Cour (La),</sm></vedette>
@@ -11906,10 +11918,15 @@
     <vedette><sm>Justice (Chemins ou sentiers de la),</sm></vedette>
     <definition><localisation>communes de <commune insee="54059" precision="approximatif">Belleau</commune>, <commune insee="57098" precision="approximatif">Bourgaltroff</commune>, <commune insee="54089" precision="approximatif">Bouxières-aux-Chênes</commune>, <commune insee="54111" precision="approximatif">Chaligny</commune>, <commune insee="54131" precision="approximatif">Clémery</commune>, <commune insee="54155" precision="approximatif">Deuxville</commune>, <commune insee="54174" precision="approximatif">Écrouves</commune>, <commune insee="54247" precision="approximatif">Hammeville</commune>, <commune insee="54256" precision="approximatif">Haussonville</commune>, <commune insee="54357" precision="approximatif">Maxéville</commune>, <commune insee="54364" precision="approximatif">Méréville</commune>, <commune insee="54059" precision="approximatif">Morey</commune>, <commune insee="54397" precision="approximatif">Neuves-Maisons</commune>, <commune insee="54510" precision="approximatif">Sornéville</commune>, <commune insee="54566" precision="approximatif">Vilcey-sur-Trey</commune>, <commune insee="54588" precision="approximatif">Vitrimont</commune> et <commune insee="54594" precision="approximatif">Xammes</commune></localisation>.</definition>
   </article>
-  <article id="DT54-01837" pg="74">
+  <article id="DT54-01837-01" pg="74">
     <pg>74</pg>
     <vedette><sm>Justice (La),</sm></vedette>
-    <definition><typologie>cantons</typologie> des <localisation>territoires de <commune insee="57053" precision="approximatif">Bassing</commune> et de <commune insee="54517" precision="approximatif">Thézey-Saint-Martin</commune></localisation>.</definition>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="57053" precision="certain">Bassing</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-01837-02" pg="74">
+    <pg>74</pg>
+    <vedette><sm>Justice (La),</sm></vedette>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54517" precision="certain">Thézey-Saint-Martin</commune></localisation>.</definition>
   </article>
   <article id="DT54-01838" pg="74">
     <vedette><sm>Justice (La),</sm></vedette>
@@ -13640,9 +13657,17 @@
       <p>Un titre de <date>1417</date> (Tr. des ch. l. Nancy I, n° 15) fait mention d’un bois de ce nom près du village d’Ormes.</p>
     </commentaire>
   </article>
-  <article id="DT54-02100" pg="84">
+  <article id="DT54-02100-01" pg="84">
     <vedette><sm>Maladrerie (La)</sm> et <sm>la Maladrie,</sm></vedette>
-    <definition><typologie>cantons</typologie> des <localisation>territoires de <commune insee="57081" precision="approximatif">Bidestroff</commune>, <commune insee="54170" precision="approximatif">Domptail</commune> et <commune insee="54176" precision="approximatif">Einville</commune></localisation>.</definition>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="57081" precision="certain">Bidestroff</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-02100-02" pg="84">
+    <vedette><sm>Maladrerie (La)</sm> et <sm>la Maladrie,</sm></vedette>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54170" precision="certain">Domptail</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-02100-03" pg="84">
+    <vedette><sm>Maladrerie (La)</sm> et <sm>la Maladrie,</sm></vedette>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54176" precision="certain">Einville</commune></localisation>.</definition>
     <commentaire>
       <p>Il est fait mention de ce dernier, en <date>1561</date>, dans le compte du domaine d’Einville.</p>
     </commentaire>
@@ -22570,9 +22595,13 @@
     <vedette><sm>Templiers (Bois des),</sm></vedette>
     <definition><typologie>ancien bois</typologie> à l’ordre de Malte, <localisation>commune de <commune insee="54311" precision="certain">Lenoncourt</commune></localisation>.</definition>
   </article>
-  <article id="DT54-03520" pg="140">
+  <article id="DT54-03520-01" pg="140">
     <vedette><sm>Templiers (Les),</sm></vedette>
-    <definition><typologie>canton</typologie> des <localisation>territoires de <commune insee="57229" precision="approximatif">Foulcrey</commune> et de <commune insee="54047" precision="approximatif">Barisey-la-Côte</commune></localisation>.</definition>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="57229" precision="approximatif">Foulcrey</commune></localisation>.</definition>
+  </article>
+  <article id="DT54-03520-02" pg="140">
+    <vedette><sm>Templiers (Les),</sm></vedette>
+    <definition><typologie>canton</typologie> du <localisation>territoire de <commune insee="54047" precision="approximatif">Barisey-la-Côte</commune></localisation>.</definition>
   </article>
   <article id="DT54-03521" pg="140">
     <vedette><sm>Templiers (Les),</sm></vedette>

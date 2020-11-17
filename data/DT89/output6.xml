@@ -994,7 +994,7 @@
     </commentaire>
   </article>
   <article id="DT89-00147" pg="6">
-    <vedette><sm>Avaranda</sm> (<i>grangia</i>),</vedette>
+    <vedette><sm>Avaranda (grangia),</sm></vedette>
     <definition><date>1156</date> <reference>(cart. gén. de l'Yonne, I, 541)</reference>, <typologie>lieu détruit</typologie>, <localisation>commune de <commune insee="89307" precision="certain">Pontigny</commune></localisation>.</definition>
   </article>
   <article id="DT89-00148" pg="6">
@@ -2683,7 +2683,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89418" precision="certain">Tonnerre</commune></localisation>.</definition>
   </article>
   <article id="DT89-00465-2" pg="165">
-    <vedette><sm>Besland (Mont)</sm> ou <sm><i>Château-Belin,</i></sm></vedette>
+    <vedette><sm>Besland (Mont)</sm> ou <sm>Château-Belin,</sm></vedette>
     <definition><typologie>montagne</typologie>, sur laquelle s'élevait l'ancien château de <localisation><commune insee="89418" precision="certain">Tonnerre</commune></localisation> (<reference>(Cart. de Saint-Michel de Tonnerre)</reference>.</definition>
   </article>
   <article id="DT89-00466" pg="12" type="commune">
@@ -2855,7 +2855,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89298" precision="certain">Piffonds</commune></localisation>.</definition>
   </article>
   <article id="DT89-00497" pg="13">
-    <vedette><sm>Bil-Cul</sm> ou <sm>Pain-Court,</sm> dit <i>le Rendez-vous de Chasse,</i></vedette>
+    <vedette><sm>Bil-Cul</sm> ou <sm>Pain-Court,</sm> dit <sm>le Rendez-vous de Chasse,</sm></vedette>
     <definition><typologie>maison isolée</typologie>, <localisation>commune de <commune insee="89262" precision="certain">Molosme</commune></localisation>.</definition>
   </article>
   <article id="DT89-00498" pg="13">
@@ -12159,7 +12159,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89344" precision="certain">Saint-Fargeau</commune></localisation>.</definition>
   </article>
   <article id="DT89-02139" pg="53">
-    <vedette><sm>Fons Regius</sm> (<i>monasterium</i>),</vedette>
+    <vedette><sm>Fons Regius (monasterium),</sm></vedette>
     <definition><typologie>monastère</typologie> de <localisation><commune insee="89148" precision="certain">Druyes</commune></localisation>, <date><sm>vi</sm><sup>e</sup> siècle</date> (Vie de saint Romain, dans D. Cottron ; Hist. de l'abbaye Saint-Germain d'Auxerre).</definition>
     <commentaire>
       <p>— Détruit depuis longtemps.</p>
@@ -14303,7 +14303,7 @@
     <definition><typologie>hameau</typologie>, divisé entre les <localisation>communes de <commune insee="89180" precision="approximatif">Fouchères</commune> et de <commune insee="89370" precision="approximatif">Saint-Valérien</commune></localisation>.</definition>
   </article>
   <article id="DT89-02543" pg="61">
-    <vedette><sm>Goulotte</sm> ou <sm>des Chaumes (Ruisseau de la),</sm></vedette>
+    <vedette><sm>Goulotte ou des Chaumes (Ruisseau de la),</sm></vedette>
     <definition>prend sa source à <localisation>Guilleron</localisation>, <localisation>commune d’<commune insee="89025" precision="certain">Avallon</commune></localisation>, et se jette dans le Cousin sur la même commune.</definition>
   </article>
   <article id="DT89-02544" pg="61">
@@ -17748,7 +17748,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89321" precision="certain">Ravières</commune></localisation>, qualifié ferme en <date>1787</date> <reference>(C. 101, arch. de l'Yonne)</reference>.</definition>
   </article>
   <article id="DT89-03188" pg="77" type="commune">
-    <vedette><sm>Malay-le-Roi</sm> ou <sm>le Petit,</sm></vedette>
+    <vedette><sm>Malay-le-Roi ou le Petit,</sm></vedette>
     <definition><localisation>canton de <commune insee="89387" precision="approximatif">Sens</commune></localisation> (nord).</definition>
     <forme_ancienne>— <i>Mansolacus,</i><date>657</date> <reference>(Mabil. <i>de Re Dipl.</i> 300)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Massolacum,</i><date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Frédégaire, Chron.)</reference>.</forme_ancienne>
@@ -17764,7 +17764,7 @@
     <insee>89240</insee>
   </article>
   <article id="DT89-03189" pg="77" type="commune">
-    <vedette><sm>Malay-le-Vicomte</sm> ou <sm>le Grand,</sm></vedette>
+    <vedette><sm>Malay-le-Vicomte ou le Grand,</sm></vedette>
     <definition><localisation>canton de <commune insee="89387" precision="approximatif">Sens</commune></localisation> (nord).</definition>
     <forme_ancienne>— <i>Masliacus subterior,</i><date>519</date> <reference>(cart. gén. de l'Yonne, I, 3)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Masliacus major,</i><date>1003</date> <reference>(Chron. Clar. d'Achery, II, 742)</reference>.</forme_ancienne>
@@ -18026,7 +18026,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89060" precision="certain">Bussy-le-Repos</commune></localisation>.</definition>
   </article>
   <article id="DT89-03239" pg="78">
-    <vedette><sm>Marchais-Ralu (Le),</sm> dit <sm>du Saussoy,</sm></vedette>
+    <vedette><sm>Marchais-Ralu (Le), dit du Saussoy,</sm></vedette>
     <definition><typologie>hameau</typologie> de <localisation><commune insee="89066" precision="certain">Cerisiers</commune></localisation>.</definition>
     <forme_ancienne>— <i>Marchais-Rallus,</i><date>1629</date> <reference>(abb. Saint-Remy de Sens, terrier de Sens, etc.)</reference>.</forme_ancienne>
   </article>
@@ -20521,7 +20521,7 @@
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="89346" precision="certain">Saint-Georges</commune></localisation>.</definition>
   </article>
   <article id="DT89-03690" pg="89">
-    <vedette><sm>Moulin-Brûlé</sm> ou <sm>d'Escale (Le),</sm></vedette>
+    <vedette><sm>Moulin-Brûlé ou d'Escale (Le),</sm></vedette>
     <definition><typologie>moulin</typologie>, <localisation>commune d’<commune insee="89024" precision="certain">Auxerre</commune></localisation>, <date>1491</date> (abbaye Saint-Germain).</definition>
     <forme_ancienne>— <i>Esquellez</i> dit <i>Brûlé,</i><date>1530</date> <reference>(minutes d'Armant, notaire à Auxerre)</reference>.</forme_ancienne>
     <commentaire>
@@ -23453,7 +23453,7 @@
     <insee>89307</insee>
   </article>
   <article id="DT89-04175" pg="101">
-    <vedette><sm>Pontis-Naysellarum</sm> (<i>Capella</i>),</vedette>
+    <vedette><sm>Pontis-Naysellarum (Capella),</sm></vedette>
     <definition><date>1296</date> <reference>(cart. de l'archev. de Sens, I, f° 120 v°)</reference>.</definition>
     <forme_ancienne>— <i>Chapelle-sur-le-Pont-de-Natiaux,</i> c<sup>ne</sup> d'Avrolles.</forme_ancienne>
     <forme_ancienne>— <i>Pons-Nacellarum,</i><date><sm>xvi</sm><sup>e</sup> s<sup>e</sup></date> <reference>(pouillé du dioc. de Sens)</reference>.</forme_ancienne>
@@ -24188,7 +24188,7 @@
     <definition><typologie>tuilerie</typologie>, <localisation>commune de <commune insee="89368" precision="certain">Saint-Sauveur</commune></localisation>.</definition>
   </article>
   <article id="DT89-04305" pg="105">
-    <vedette><sm>Puniacus</sm> (<i>Ager prope Castrum-Censorium</i>),</vedette>
+    <vedette><sm>Puniacus (Ager prope Castrum-Censorium),</sm></vedette>
     <definition><date><sm>viii</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l'Yonne, I, 336)</reference> ; <typologie>lieu détruit</typologie>.</definition>
   </article>
   <article id="DT89-04306" pg="105">
@@ -27209,7 +27209,7 @@
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="89408" precision="certain">Tannerre</commune></localisation>.</definition>
   </article>
   <article id="DT89-04828" pg="119">
-    <vedette><sm>Sarmasia</sm> <i>super fluvium Sedono, in pago Senonico,</i></vedette>
+    <vedette><sm>Sarmasia super fluvium Sedono, in pago Senonico,</sm></vedette>
     <definition><date>an 877</date> <reference>(cart. gén. de l'Yonne, I, 102)</reference> ; <typologie>lieu détruit</typologie>, <localisation>commune de <commune insee="89307" precision="certain">Pontigny</commune></localisation>, sur le bord du Serain.</definition>
   </article>
   <article id="DT89-04829" pg="119">
@@ -27624,7 +27624,7 @@
     <insee>89382</insee>
   </article>
   <article id="DT89-04898" pg="121">
-    <vedette><sm>Seignelay</sm> (chapelle Saint-Jean),</vedette>
+    <vedette><sm>Seignelay (chapelle Saint-Jean),</sm></vedette>
     <definition>située sur le Tureau, à gauche de la route de <localisation>Brienon</localisation> ; aujourd'hui détruite.</definition>
   </article>
   <article id="DT89-04899" pg="121" type="commune">
@@ -29199,7 +29199,7 @@
     <forme_ancienne>— <i>Tronchets,</i><date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(plan de la seigneurie, arch. de l'Yonne)</reference>.</forme_ancienne>
   </article>
   <article id="DT89-05127" pg="130">
-    <vedette><sm>Tranchet (Ruisseau du)</sm> ou <sm>de Goblot,</sm></vedette>
+    <vedette><sm>Tranchet (Ruisseau du) ou de Goblot,</sm></vedette>
     <definition>prend sa source à <localisation><commune insee="89248" precision="approximatif">Menades</commune></localisation> et se jette dans la Cure à <localisation><commune insee="89297" precision="approximatif">Pierre-Pertuis</commune></localisation>.</definition>
   </article>
   <article id="DT89-05128" pg="130">

@@ -1548,7 +1548,7 @@
   </article>
   <article id="DT57-00143" pg="14">
     <vedette><sm>Bambiderstroff,</sm></vedette>
-    <definition><localisation>commune de <commune insee="57209" precision="certain">Faulquemont</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="57209" precision="approximatif">Faulquemont</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bumbiderstorf,</i> <date>1121</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Buderstorf,</i> <date>1121</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Budestroff,</i> <date>1180</date> <reference>(abb. Longev. bulle d’Alex. III)</reference>.</forme_ancienne>
@@ -3693,7 +3693,7 @@
   </article>
   <article id="DT57-00364" pg="32">
     <vedette><sm>Bouch,</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57199" precision="certain">Molvange</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>canton de <commune insee="57199" precision="approximatif">Molvange</commune></localisation>.</definition>
   </article>
   <article type="commune" id="DT57-00365" pg="32">
     <vedette><sm>Boucheporn,</sm></vedette>
@@ -11991,7 +11991,7 @@
   </article>
   <article id="DT57-01270" pg="105">
     <vedette><sm>Guénange (Haute et Basse),</sm></vedette>
-    <definition><localisation>commune de <commune insee="57465" precision="certain">Metzerwisse</commune></localisation>, sur la rive droite de la Moselle.</definition>
+    <definition><localisation>canton de <commune insee="57465" precision="approximatif">Metzerwisse</commune></localisation>, sur la rive droite de la Moselle.</definition>
     <forme_ancienne>— <i>Geminges,</i> <date>1157</date> <reference>(abb. Saint-Martin, ann. Prem. t. X, 2)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Gananges,</i> <date>1269</date> <reference>(abb. Vill. cart. t. I, V. 18)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Guinanges,</i> <date>1303</date> <reference>(fonds de Malte, inv. liasse C)</reference>.</forme_ancienne>
@@ -13614,7 +13614,7 @@
     </commentaire>
   </article>
   <article type="commune" id="DT57-01437" pg="119">
-    <vedette><sm>Henry,</sm></vedette>
+    <vedette><sm>Herny,</sm></vedette>
     <definition><localisation>canton de <commune insee="57209" precision="approximatif">Faulquemont</commune></localisation>, à droite de la Nied française.</definition>
     <forme_ancienne>— <i>Harnex, Hernex,</i> <date>1409</date> <reference>(arch. H. de V. AA, 51)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Harney,</i> <date>1442</date> <reference>(arch. H. de V. AA, 31)</reference>.</forme_ancienne>
@@ -14180,7 +14180,7 @@
     </commentaire>
     <insee>57330</insee>
   </article>
-  <article type="commune" id="DT57-01498" pg="124">
+  <article id="DT57-01498" pg="124">
     <vedette><sm>Holving (Le Val-de-),</sm></vedette>
     <definition><localisation>canton de <commune insee="57628" precision="approximatif">Sarralbe</commune></localisation>.</definition>
     <forme_ancienne>— <i>Holbinger-Dael,</i> <date>1410</date> <reference>(Kremer, Arden. Gesch. II, 73)</reference>.</forme_ancienne>
@@ -14192,8 +14192,7 @@
     <commentaire>
       <p>Cette dénomination comprend : 1° la commune de Holving, formée de Ballering, Bettring, Diederfing, Hinzing, Hirbach et Holving ; 2° la commune de Richling.</p>
     </commentaire>
-    <insee>57330</insee>
-  </article>
+    </article>
   <article id="DT57-01499" pg="124">
     <vedette><sm>Hombourg (La Collégiale de).</sm></vedette>
     <forme_ancienne>— <i>Capitulum et ecclesia de Homburc,</i> <date>1256</date> <reference>(sém. Saint-Sim. s. l’an)</reference>.</forme_ancienne>
@@ -14321,7 +14320,7 @@
   </article>
   <article id="DT57-01506" pg="126">
     <vedette><sm>Hondelange,</sm></vedette>
-    <definition><typologie>fief</typologie>, <localisation>commune de <commune insee="54261" precision="certain">Longlaville</commune></localisation>.</definition>
+    <definition><typologie>fief</typologie>, <localisation>ancienne commune de <commune insee="54261" precision="certain">Longlaville</commune></localisation>.</definition>
     <commentaire>
       <p>— Maison, fief mouvant de la châtellenie de Longwy (<date>1701</date>, dénombr. 8 janv.).</p>
     </commentaire>
@@ -16282,9 +16281,9 @@
     <vedette><sm>Langheck,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57088" precision="certain">Bistroff</commune></localisation>.</definition>
   </article>
-  <article id="DT57-01729" pg="142">
+  <article type="commune" id="DT57-01729" pg="142">
     <vedette><sm>Laning,</sm></vedette>
-    <definition><localisation>commune de <commune insee="57262" precision="certain">Gros-Tenquin</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="57262" precision="approximatif">Gros-Tenquin</commune></localisation>.</definition>
     <forme_ancienne>— <i>Laendingen,</i> <date>1365</date> <reference>(abb. Saint-Avold. Kremer, Ard. Gesch. 11, 508)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Laningen,</i> <date>1441</date> <reference>(arrêt de réunion de <date>1680</date>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Landingen,</i> <date>1594</date> <reference>(dén. Th. Alix)</reference>.</forme_ancienne>
@@ -16293,6 +16292,7 @@
       <p>Autrefois Trois-Évêchés, baill. de Vic, cout. de l’Évêché. — Il fit partie du canton de Hellimer de <date>1790</date> à <date>1802</date>, où il fut classé dans le c<sup>on</sup> actuel.</p>
       <p>Laning, Lixing et Fremestroff ont été réunis en une commune par décret du <date>1<sup>er</sup> février 1813</date> et rétablis en communes séparées par ordonnance royale du <date>18 août 1835</date>. — Laning a pour annexes l’église de Wol et la ferme de Wallacher.</p>
     </commentaire>
+    <insee>57384</insee>
   </article>
   <article id="DT57-01730" pg="142">
     <vedette><sm>Laning (Ruisseau de).</sm></vedette>
@@ -18943,7 +18943,7 @@
       <p>Il existe à Mensberg une ruine qui porte dans le pays le nom de <i>Templie-Schloss</i> (Teissier, Hist. de Thionv.).</p>
     </commentaire>
   </article>
-  <article id="DT57-02001" pg="165">
+  <article type="commune" id="DT57-02001" pg="165">
     <vedette><sm>Menskirch,</sm></vedette>
     <definition><typologie>village</typologie>, <localisation>commune de <commune insee="57167" precision="certain">Dalstein</commune></localisation>.</definition>
     <forme_ancienne>— <i>Manickirchen,</i> <date>1130</date> <reference>(abb. Freist. ch. fond.)</reference>.</forme_ancienne>
@@ -18965,6 +18965,7 @@
       <p>Siége d’un fief et d’une justice haute, moyenne et basse, mouvant du roi de France à cause de sa châtellenie de Sierck, <date>1681</date> (dénombr. 0 août) ; Dalstein et Ingling en dépendaient, <date>1728</date> (dénombr. 28 juill.). — La maison seigneuriale s’appelait le Bourouckhaus (dénombr. 28 juill.). — Cure de l’archiprêtré de Kédange, qui avait pour annexes Dalstein et Ingling.</p>
       <p>Autrefois Trois-Évêchés, prévôté de Sierck, cout. de Lorraine. — Fut classé dans le canton de Bouzonville dès sa création, en <date>1790</date>. — Chef-lieu communal jusqu’au <date>6 juin 1811</date>, où il fut réuni à Dalstein.</p>
     </commentaire>
+    <insee>57457</insee>
   </article>
   <article id="DT57-02002" pg="165">
     <vedette><sm>Menskirch (Ruisseau de).</sm></vedette>
@@ -26038,7 +26039,7 @@
       <p>— Coule sur le territ. de la c<sup>ne</sup> de Sierck et se jette dans la Moselle.</p>
     </commentaire>
   </article>
-  <article id="DT57-02830" pg="225">
+  <article type="commune" id="DT57-02830" pg="225">
     <vedette><sm>Sablon (Le),</sm></vedette>
     <definition><localisation>3<sup>e</sup> canton de Metz</localisation>, à gauche de la Seille.</definition>
     <forme_ancienne>— <i>Savelo,</i> <date>880</date> <reference>(abb. Gorze, ch. Wala)</reference>.</forme_ancienne>
@@ -26052,6 +26053,7 @@
       <p>Autrefois Trois-Évêchés, baill. et cout. de Metz. — Érigé, en <date>1790</date>, en commune du canton d’Augny ; passa, en <date>1802</date>, dans le canton actuel. — A pour annexes Rivage, les fermes de Halsidrac et Sainte-Agathe et la maison isolée de Tivoli.</p>
       <p>C’est sur le territoire du Sablon que se trouvaient la plupart des grands monuments de Metz sous les Romains : les thermes, l’amphithéâtre (dont la redoute du Pâté occupe la place), ainsi que plusieurs des antiques édifices de la foi chrétienne dans cette ville : les abbayes Saint-Arnould et Saint-Clément, Notre-Dame-des-Champs et beaucoup d’autres, détruits dans les différents siéges que Metz eut à soutenir.</p>
     </commentaire>
+    <insee>57463</insee>
   </article>
   <article id="DT57-02831" pg="225">
     <vedette><sm>Sablon (Le),</sm></vedette>
@@ -26940,7 +26942,7 @@
   </article>
   <article id="DT57-02938" pg="233">
     <vedette><sm>Saint-Remy,</sm></vedette>
-    <definition><typologie>hermitage inhabité</typologie>, <localisation>commune de <commune insee="54382" precision="certain">Piedmont</commune></localisation>.</definition>
+    <definition><typologie>hermitage inhabité</typologie>, <localisation>ancienne commune de <commune insee="54382" precision="certain">Piedmont</commune></localisation>.</definition>
   </article>
   <article id="DT57-02939" pg="233">
     <vedette><sm>Saint-Remy,</sm></vedette>
@@ -27485,9 +27487,9 @@
       <p>Autrefois Lorraine, baill. de Sarreguemines, cout. de Lorraine. — A toujours fait partie du canton et de la c<sup>ne</sup> de Sarralbe.</p>
     </commentaire>
   </article>
-  <article id="DT57-03023" pg="237">
+  <article type="commune" id="DT57-03023" pg="237">
     <vedette><sm>Sancy (Haut et Bas-),</sm></vedette>
-    <definition><localisation>commune d’<commune insee="54029" precision="certain">Audun-le-Roman</commune></localisation>.</definition>
+    <definition><localisation>canton d’<commune insee="54029" precision="certain">Audun-le-Roman</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanceum Castrum,</i> <date>1096</date> <reference>(Berth. Hist. Lux. III, pr. <sm>xlv</sm>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanci,</i> <date>1255</date> <reference>(chap. cath. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sancey,</i> <date>1382</date> <reference>(chap. cath. s. l’an)</reference>.</forme_ancienne>
@@ -27500,6 +27502,7 @@
       <p>Autrefois Barrois, baill. de Briey, cout. de Saint-Mihiel. — Fut érigé, en <date>1790</date>, en chef-lieu d’un canton qui comprenait les c<sup>nes</sup> de Bettainvillers, Erzange, Knutange, Lommerange, Mairy, Neuchef, Nilvange, Sancy, Trieux, Tucquegnieux, et conserva ce titre sous l’organisation de l’<date>an <sm>iii</sm></date> ; passa, en <date>1802</date>, dans le canton actuel. — A pour annexe la ferme de Bazonville.</p>
       <p>Il reste encore du château des ruines considérables.</p>
     </commentaire>
+    <insee>54491</insee>
   </article>
   <article type="commune" id="DT57-03024" pg="237">
     <vedette><sm>Sanry-lez-Vigy,</sm></vedette>
@@ -29134,12 +29137,13 @@
       <p>Autrefois Lorraine, baill. de Sarreguemines, cout. de Lorraine. — Fait partie, depuis <date>1790</date>, du canton de Forbach. — Annexe de Schœneck en <date>1801</date> ; réuni avec cette commune à Forbach par décret du <date>28 décembre 1811</date> ; séparé de Forbach et réuni à Stiring-Wendel par la loi du <date>3 juin 1857</date>.</p>
     </commentaire>
   </article>
-  <article id="DT57-03209" pg="251">
+  <article type="commune" id="DT57-03209" pg="251">
     <vedette><sm>Stiring-Wendel,</sm></vedette>
     <definition><typologie>bourg et usines</typologie>, <localisation>commune de <commune insee="57227" precision="certain">Forbach</commune></localisation>.</definition>
     <commentaire>
       <p>— Les hauts fourneaux et les forges de Stiring ont été établis en <date>1846</date>, et le village a été bâti en <date>1853</date> par M. de Wendel, de Hayange. — Réuni au Vieux-Stiring et à la Verrerie-Sophie, et érigé en commune par la loi du <date>3 juin 1857</date>, sous le nom de Stiring-Wendel. — A pour annexes : le Vieux-Stiring, la <pg>252</pg>Verrerie-Sophie, Schœneck, et les chapelles de Sainte-Anne et de Sainte-Croix.</p>
     </commentaire>
+    <insee>57660</insee>
   </article>
   <article id="DT57-03210" pg="252">
     <vedette><sm>Stockbronn,</sm></vedette>
@@ -29205,7 +29209,7 @@
       <p>— Prend sa source à Klang, traverse les c<sup>nes</sup> de Klang et de Kédange sur une longueur de 5 kilom. et se jette dans la Canner.</p>
     </commentaire>
   </article>
-  <article id="DT57-03221" pg="252">
+  <article type="commune" id="DT57-03221" pg="252">
     <vedette><sm>Stuckange,</sm></vedette>
     <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="57179" precision="certain">Distroff</commune></localisation>.</definition>
     <forme_ancienne>— <i>Estuvinges,</i> <date>1230</date> <reference>(fonds de Malte, inv. liasse G.)</reference>.</forme_ancienne>
@@ -29220,6 +29224,7 @@
       <p>Partie de Stuckange dépendait de la seigneurie de Busbach (<date>1682</date>, <i>loc. cit.</i>). — Était annexe de la paroisse de Metzerwisse.</p>
       <p>Autrefois Trois-Évêchés, baill. et cout. de Thionville. — Fit partie du canton de Kœnigsmacker de <date>1790</date> à <date>1802</date> et passa à cette date dans le canton de Metzerwisse. — Commune jusqu’au <date>12 septembre 1811</date>, où un décret impérial le réunit à Distroff.</p>
     </commentaire>
+    <insee>57767</insee>
   </article>
   <article id="DT57-03222" pg="252">
     <vedette><sm>Stulermühl,</sm></vedette>
@@ -30708,7 +30713,7 @@
   </article>
   <article id="DT57-03402" pg="265">
     <vedette><sm>Vallières,</sm></vedette>
-    <definition><typologie>chapelle et hermitage</typologie>, lieu de pèlerinage en l’honneur de la Vierge, <localisation>commune de <commune insee="54227" precision="certain">Tichémont</commune></localisation>.</definition>
+    <definition><typologie>chapelle et hermitage</typologie>, lieu de pèlerinage en l’honneur de la Vierge, <localisation>ancienne commune de <commune insee="54227" precision="certain">Tichémont</commune></localisation>.</definition>
     <commentaire>
       <p>L’hermitage était une dépendance de la seign<sup>rie</sup> et de la paroisse d’Hatrize (<date><sm>xviii</sm><sup>e</sup> siècle</date>, pouillé de M.).</p>
     </commentaire>
@@ -32026,9 +32031,9 @@
       <p>Était le siége de la paroisse de Wahl-Ébersing, cure de l’archiprêtré de Morhange, dép. de l’abb. de Saint-Avold, qui comprenait : Biding, Ébersing, Frémestroff, Freybouse et Laning. (Dans la composition actuelle de la paroisse, Lixing a pris la place de Freybouse.) — Presque toute la paroisse était Lorraine, mais l’emplacement de l’église était sur le territoire des Évêchés.</p>
     </commentaire>
   </article>
-  <article id="DT57-03509" pg="279">
+  <article type="commune" id="DT57-03509" pg="279">
     <vedette><sm>Wahl-Ébersing,</sm></vedette>
-    <definition><localisation>commune de <commune insee="57262" precision="certain">Gros-Tenquin</commune></localisation>, à gauche de la Nied allemande.</definition>
+    <definition><localisation>canton de <commune insee="57262" precision="approximatif">Gros-Tenquin</commune></localisation>, à gauche de la Nied allemande.</definition>
     <forme_ancienne>— <i>Obersingen,</i> <date>1365</date> <reference>(Kremer, Ard. Gesch. II, 508)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ebersingen,</i> <date>1395</date> <reference>(cart. év. de M. t. VIII, p. 2 v°)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ebersinga, Hersinga sive Walla, Walen,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
@@ -32046,6 +32051,7 @@
       <p>Faisait partie de la communauté de Lixing et de la paroisse de Wahl : <renvoi>voy. ce mot</renvoi>.</p>
       <p>Autrefois Lorraine, baill. de Boulay, cout. de l’Évêché. — Appartint au canton de Hellimer de <date>1790</date> à <date>1802</date>, où il passa dans le canton actuel. — A le Moulin pour annexe.</p>
     </commentaire>
+    <insee>57684</insee>
   </article>
   <article type="commune" id="DT57-03510" pg="279">
     <vedette><sm>Wahl-lez-Faulquemont,</sm></vedette>
@@ -32172,7 +32178,7 @@
     <vedette><sm>Wallachey,</sm></vedette>
     <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="57384" precision="certain">Laning</commune></localisation>.</definition>
   </article>
-  <article id="DT57-03524" pg="280">
+  <article type="commune" id="DT57-03524" pg="280">
     <vedette><sm>Walmestroff,</sm></vedette>
     <definition><typologie>village</typologie>, <localisation>commune d’<commune insee="57191" precision="approximatif">Elzange</commune></localisation>, <localisation>près de la <commune insee="57079" precision="approximatif">Bibiche</commune></localisation>.</definition>
     <forme_ancienne>— <i>Walmmistorff, Walmstroff,</i> <date>1469</date> <reference>(cart. év. de M. IV)</reference>.</forme_ancienne>
@@ -32184,6 +32190,7 @@
       <p>Formait avec Haute et Basse Ham une seigneurie, haute, moyenne et basse justice (<date>1752</date>, dénombr. 16 juill.). — Siége d’un fief et d’une justice haute, moyenne et basse qui mouvait du roi de France et dépendait de la seigneurie de Metzerwisse (<date>1776</date>, dénomb. 23 déc.). — Avait une chapelle annexe de la paroisse d’Elzange.</p>
       <p>Autrefois Trois-Évêchés, baill. et cout. de Thionville. — Fit partie du canton de Kœnigsmacker de <date>1790</date> à <date>1802</date>, où il fut classé dans celui de Metzerwisse. — Commune jusqu’en <date>1812</date>, où il fut réuni à la c<sup>ne</sup> d’Elzange par décret du 30 mars.</p>
     </commentaire>
+    <insee>57689</insee>
   </article>
   <article type="commune" id="DT57-03525" pg="280">
     <vedette><sm>Walmunster,</sm></vedette>

@@ -537,7 +537,7 @@
   </article>
   <article id="DT55-00080" pg="5">
     <vedette><sm>Anelle (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source aux <localisation>ouest de <commune insee="55561" precision="approximatif">Villers-devant-Dun</commune></localisation>, pénètre un instant dans le département des Ardennes, rentre dans celui de la Meuse à <localisation><commune insee="55036" precision="approximatif">Beauclair</commune></localisation>, qu’il traverse, pour aller se jeter dans la Wiseppe, après un cours total de 8 kil.</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source aux <localisation>Forgettes, à l'ouest de <commune insee="55561" precision="approximatif">Villers-devant-Dun</commune></localisation>, pénètre un instant dans le département des Ardennes, rentre dans celui de la Meuse à <localisation><commune insee="55036" precision="approximatif">Beauclair</commune></localisation>, qu’il traverse, pour aller se jeter dans la Wiseppe, après un cours total de 8 kil.</definition>
     <forme_ancienne>— <i>In comitatu Statunensi super Asinam fluvium,</i> <date>1015</date> <reference>(cart. de Saint-Vanne)</reference>.</forme_ancienne>
   </article>
   <article id="DT55-00081" pg="5">
@@ -5466,7 +5466,7 @@
   </article>
   <article id="DT55-00898" pg="41">
     <vedette><sm>Calonne (Tranchée de),</sm></vedette>
-    <definition><typologie>grand chemin</typologie> sur les territoires et dans les <localisation>bois du <commune insee="55060" precision="approximatif">Ménil-en-Woëvre</commune>, <commune insee="55360" precision="approximatif">Mouilly</commune>, <commune insee="55465" precision="approximatif">Saint-Remy</commune>, <commune insee="55157" precision="approximatif">Dammartin-la-Montagne</commune>, <commune insee="55243" precision="approximatif">Herbeuville</commune>, <commune insee="55462" precision="approximatif">Saint-Maurice</commune> et <commune insee="55551" precision="approximatif">Hattonchâtel</commune></localisation> ; cette tranchée fut ouverte sur la fin du siècle dernier par le ministre dont elle porte le nom ; d’après la tradition, M. de Calonne l’aurait faite en partie sur le chemin établi <pg>42</pg>au <date><sm>ix</sm><sup>e</sup> siècle</date> par l’évêque Hatton pour communiquer de Verdun à la forteresse d’Hattonchâtel.</definition>
+    <definition><typologie>grand chemin</typologie> sur les territoires et dans les <localisation>bois du <commune insee="55060" precision="approximatif">Ménil-en-Woëvre</commune>, <commune insee="55360" precision="approximatif">Mouilly</commune>, <commune insee="55465" precision="approximatif">Saint-Remy</commune>, <commune insee="55157" precision="approximatif">Dommartin-la-Montagne</commune>, <commune insee="55243" precision="approximatif">Herbeuville</commune>, <commune insee="55462" precision="approximatif">Saint-Maurice</commune> et <commune insee="55551" precision="approximatif">Hattonchâtel</commune></localisation> ; cette tranchée fut ouverte sur la fin du siècle dernier par le ministre dont elle porte le nom ; d’après la tradition, M. de Calonne l’aurait faite en partie sur le chemin établi <pg>42</pg>au <date><sm>ix</sm><sup>e</sup> siècle</date> par l’évêque Hatton pour communiquer de Verdun à la forteresse d’Hattonchâtel.</definition>
   </article>
   <article id="DT55-00899" pg="42">
     <vedette><sm>Calotte (La),</sm></vedette>
@@ -16034,7 +16034,7 @@
   </article>
   <article id="DT55-02777" pg="116">
     <vedette><sm>Jardin-Fontaine,</sm></vedette>
-    <definition><typologie>hameau</typologie>, <localisation>commune de Verdun, partie commune de <commune insee="55505" precision="certain">Thierville</commune></localisation>.</definition>
+    <definition><typologie>hameau</typologie>, <localisation>commune de <commune insee="55545" precision="certain">Verdun</commune>, partie commune de <commune insee="55505" precision="certain">Thierville</commune></localisation>.</definition>
   </article>
   <article id="DT55-02778" pg="116">
     <vedette><sm>Jaré,</sm></vedette>
@@ -16191,7 +16191,7 @@
   </article>
   <article id="DT55-02808" pg="116">
     <vedette><sm>Joinville (Doyenné de) ;</sm></vedette>
-    <definition>le <typologie>doyenné</typologie> de Joinville, appartenait au <localisation>diocèse de Châlons</localisation> et à l’<localisation>archidiaconé de Perthe</localisation> ; il était formé de paroisses et d’annexes qui sont aujourd’hui réparties dans le département de la Meuse et dans celui de la Haute-Marne ; celles qui sont comprises dans la Meuse sont les suivantes : <localisation><commune insee="55010" precision="approximatif">Ancerville</commune>, <commune insee="55031" precision="approximatif">Baudonvilliers</commune>, <commune insee="55075" precision="approximatif">Brauvilliers</commune>, <commune insee="55010" precision="approximatif">Braux</commune>, <pg>117</pg>Cousances-aux-Forges, Cousancelles, Savonnière-en-Perthois, Sommelonne</localisation>.</definition>
+    <definition>le <typologie>doyenné</typologie> de Joinville, appartenait au <localisation>diocèse de Châlons</localisation> et à l’<localisation>archidiaconé de Perthe</localisation> ; il était formé de paroisses et d’annexes qui sont aujourd’hui réparties dans le département de la Meuse et dans celui de la Haute-Marne ; celles qui sont comprises dans la Meuse sont les suivantes : <localisation><commune insee="55010" precision="approximatif">Ancerville</commune>, <commune insee="55031" precision="approximatif">Baudonvilliers</commune>, <commune insee="55075" precision="approximatif">Brauvilliers</commune>, <commune insee="55010" precision="approximatif">Braux</commune>, <pg>117</pg><commune insee="55132" precision="approximatif">Cousances-aux-Forges</commune>, <commune insee="55132" precision="approximatif">Cousancelles</commune>, <commune insee="55477" precision="approximatif">Savonnière-en-Perthois</commune>, <commune insee="55494" precision="approximatif">Sommelonne</commune></localisation>.</definition>
     <forme_ancienne><i>decanatus de Joinvilla</i> <reference>(pouillé)</reference></forme_ancienne>
     <forme_ancienne><i>archidiaconatus Pertensis</i> vel <i>de Junvilla</i> <reference>(Topog. ecclés. de la France)</reference></forme_ancienne>
   </article>
@@ -23372,7 +23372,7 @@
   </article>
   <article id="DT55-03939" pg="172">
     <vedette><sm>Ormanson (L’),</sm></vedette>
-    <definition><typologie>ruisseau</typologie>, dit aussi <i>ruisseau de Mandres</i> ou <i>du val d’Ormanson,</i> qui prend sa source sur le <localisation>territoire de <commune insee="55315" precision="approximatif">Mandres</commune></localisation>, traverse ce village arrose les <localisation>finages de <commune insee="55059" precision="approximatif">Bonnet</commune>, d’<commune insee="55248" precision="approximatif">Houdelaincourt</commune>, de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation> et se jette dans l’Ornain à la <localisation><commune insee="55516" precision="approximatif">Neuville-aux-Forges</commune></localisation>, après un cours de 17 kil. ; donne son nom à la vallée dite <i>val d’Ormanson,</i> que concourt à former la chaîne des côtes d’Autel.</definition>
+    <definition><typologie>ruisseau</typologie>, dit aussi <i>ruisseau de Mandres</i> ou <i>du val d’Ormanson,</i> qui prend sa source sur le <localisation>territoire de <commune insee="55315" precision="approximatif">Mandres</commune></localisation>, traverse ce village arrose les <localisation>finages de <commune insee="55059" precision="approximatif">Bonnet</commune>, d’<commune insee="55248" precision="approximatif">Houdelaincourt</commune>, de <commune insee="55459" precision="approximatif">Saint-Joire</commune></localisation> et se jette dans l’Ornain à <localisation><commune insee="55516" precision="approximatif">Laneuville-aux-Forges</commune></localisation>, après un cours de 17 kil. ; donne son nom à la vallée dite <i>val d’Ormanson,</i> que concourt à former la chaîne des côtes d’Autel.</definition>
   </article>
   <article id="DT55-03940" pg="172">
     <vedette><sm>Orme (L’),</sm></vedette>
@@ -26420,7 +26420,7 @@
     <definition>qui prend naissance à la <localisation>fontaine des <commune insee="55423" precision="approximatif">Trois-Évêques</commune></localisation>, arrose le <localisation>territoire de <commune insee="55423" precision="approximatif">Rembercourt-aux-Pots</commune></localisation> et se jette dans le ruisseau de Marat, après un cours de 10 kilomètres.</definition>
   </article>
   <article id="DT55-04532" pg="190" type="commune">
-    <vedette><sm>Remrercourt-aux-Pots,</sm></vedette>
+    <vedette><sm>Rembercourt-aux-Pots,</sm></vedette>
     <definition><typologie>village</typologie> sur le Marnusson, à <localisation>6 kil. à l’E. de Vaubecourt</localisation>.</definition>
     <forme_ancienne>— <i>Ramisbatium, Ramisbaccium,</i> <date>755</date> <reference>(ch. de Pepin le Bref)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ramibatium, Romabach,</i> <date>984</date> <reference>(cart. de Saint-Paul, f<sup>os</sup> 74 et 76)</reference>.</forme_ancienne>
