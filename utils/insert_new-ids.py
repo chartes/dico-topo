@@ -3,6 +3,8 @@ import csv
 import re
 import time
 
+# utils % python insert_new-ids.py DT76
+
 start_time = time.time()
 
 dt_id = sys.argv[1]
