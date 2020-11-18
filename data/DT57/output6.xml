@@ -965,11 +965,9 @@
   <article id="DT57-00094" pg="9">
     <vedette><sm>Arnsberg (Le Grand-),</sm></vedette>
     <definition><localisation>commune de <commune insee="57046" precision="certain">Bærenthal</commune></localisation>.</definition>
-    <commentaire>
-      <p>— Ruines d’un château féodal du <date><sm>xii</sm><sup>e</sup> siècle</date>.</p>
-    </commentaire>
     <forme_ancienne>— <i>Arnsperg,</i> <date>1332</date> <reference>(Herzog, Edels. chron. VI, 210)</reference>.</forme_ancienne>
     <commentaire>
+      <p>— Ruines d’un château féodal du <date><sm>xii</sm><sup>e</sup> siècle</date>.</p>
       <p>Désigné par la carte de l’État-major (f° 54) sous la mention de <i>château ruiné.</i></p>
     </commentaire>
   </article>
@@ -1546,7 +1544,7 @@
     <vedette><sm>Bambesch-Mühl,</sm></vedette>
     <definition><typologie>moulin</typologie> sur la Nied allemande, <localisation>commune d’<commune insee="57015" precision="certain">Altwiller</commune></localisation>.</definition>
   </article>
-  <article id="DT57-00143" pg="14">
+  <article type="commune" id="DT57-00143" pg="14">
     <vedette><sm>Bambiderstroff,</sm></vedette>
     <definition><localisation>canton de <commune insee="57209" precision="approximatif">Faulquemont</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bumbiderstorf,</i> <date>1121</date> <reference>(abb. Longev. conf. des biens)</reference>.</forme_ancienne>
@@ -1572,6 +1570,7 @@
       <p>Bambiderstroff fut cédé par l’Impératrice-Reine le <date>16 mai 1779</date> et mis dans le bailliage de Boulay ; cout. de Luxembourg. — Paroisse de l’archiprêtré de Saint-Avold dépend. de l’abb. de Longeville-lez-Saint-Avold. — Au <date><sm>xviii</sm><sup>e</sup> siècle</date>, le curé de Bambiderstroff portait le titre d’archiprêtre de Saint-Avold (arch. comm. FF, 1).</p>
       <p>Il fut compris en <date>1790</date> dans le canton de Longeville-lez-Saint-Avold et passa en <date>1802</date> dans le canton de Faulquemont. — A pour annexes Guinkenmühl (moulin), le moulin Neuf, Kettenborn (anc. moulin) et les chapelles de Sainte-Marie et de Saint-Christophe.</p>
     </commentaire>
+    <insee>57047</insee>
   </article>
   <article id="DT57-00144" pg="14">
     <vedette><sm>Bambiderstroff (Ruisseau de).</sm></vedette>
@@ -2715,12 +2714,10 @@
   <article id="DT57-00267" pg="24">
     <vedette><sm>Beuverie (La),</sm></vedette>
     <definition><typologie>ancien hameau</typologie>, <localisation>commune des <commune insee="57200" precision="certain">Étangs</commune></localisation>.</definition>
-    <commentaire>
-      <p>A la Beuverie était l’église paroissiale de cette commune. — Dans les anciennes listes du pays Messin, les Étangs sont définis sous les noms : <i>la Beuverie</i> et <i>la Bryère.</i></p>
-    </commentaire>
     <forme_ancienne>— <i>Labeuvry, Labeuvri, Labeuvrerie,</i> <date><sm>xvii</sm><sup>e</sup> siècle</date> <reference>(arch. comm. gg. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Bouverie,</i> <date>1756</date> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>A la Beuverie était l’église paroissiale de cette commune. — Dans les anciennes listes du pays Messin, les Étangs sont définis sous les noms : <i>la Beuverie</i> et <i>la Bryère.</i></p>
       <p>Cense, fief mouvant du roi de France (<date>1681</date>, dénomb. 9 mai).</p>
       <p>Autref. Trois-Évêchés, baill. et cout. de Metz.</p>
     </commentaire>
@@ -3276,11 +3273,9 @@
   <article id="DT57-00325" pg="29">
     <vedette><sm>Blaubrunnen,</sm></vedette>
     <definition><typologie>font</typologie>, <localisation>près de <commune insee="57209" precision="approximatif">Faulquemont</commune></localisation>.</definition>
-    <commentaire>
-      <p>Cette fontaine est remarquable par la couleur bleue de ses eaux, qui sont cependant saines, et qui sont assez abondantes pour faire tourner un moulin (Dur. Lorr. II, 274).</p>
-    </commentaire>
     <forme_ancienne>— <i>Blaubronen,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(not. Lorr. art. Faulquemont)</reference>.</forme_ancienne>
     <commentaire>
+      <p>Cette fontaine est remarquable par la couleur bleue de ses eaux, qui sont cependant saines, et qui sont assez abondantes pour faire tourner un moulin (Dur. Lorr. II, 274).</p>
       <p>— En allemand : <i>Blauborn.</i> — <renvoi>Voy. <sm>Blomühl.</sm></renvoi></p>
     </commentaire>
   </article>
@@ -3855,10 +3850,7 @@
   </article>
   <article id="DT57-00380" pg="34">
     <vedette><sm>Bourennes,</sm></vedette>
-    <definition><localisation>commune de <commune insee="54525" precision="certain">Tiercelet</commune></localisation>.</definition>
-    <commentaire>
-      <p>— Village ruiné, ancien ermitage et aujourd’hui m<sup>on</sup> isolée (dict. Viv.).</p>
-    </commentaire>
+    <definition><typologie>village ruiné, ancien ermitage et aujourd’hui maison isolée</typologie> (dict. Viv.), <localisation>commune de <commune insee="54525" precision="certain">Tiercelet</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bourène,</i> <date><sm>xviii</sm><sup>e</sup> siècle</date> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <commentaire>
       <p>L’ermitage de Bourennes était la mère église de ce village et appartenait au diocèse de Trèves (doy. de Luxembourg).</p>
@@ -5177,7 +5169,7 @@
       <p>— Il prend sa source dans les prairies de Castwiller, coule à travers les communes de Castwiller et de Holving, sur une longueur de 1,500 mètres, et va ensuite se jeter dans le ruisseau de Morsbronn.</p>
     </commentaire>
   </article>
-  <article id="DT57-00525" pg="46">
+  <article type="commune" id="DT57-00525" pg="46">
     <vedette><sm>Cattenom,</sm></vedette>
     <definition><localisation>arrondissement de <commune insee="57672" precision="approximatif">Thionville</commune></localisation>, à gauche de la Moselle.</definition>
     <forme_ancienne>— <i>Cathenem,</i> <date>1182</date> <reference>(abb. Munst. ch. conf. Berth. IV, pr. <sm>xxvi</sm>)</reference>.</forme_ancienne>
@@ -5198,16 +5190,14 @@
     <forme_ancienne>— <i>Cathenom</i> <reference>(carte de Cassini)</reference>.</forme_ancienne>
     <commentaire>
       <p>— En allemand : <i>Kattenhofen.</i> — En patois : <i>Kettnoven.</i></p>
-      <p>Cattenom était le siége d’une commanderie de l’Ordre teutonique ou <i>Deutschenhaus.</i></p>
-    </commentaire>
-    <forme_ancienne>— <i>Le duchehousse de Kettenheim,</i> <date>1400</date> <reference>(Quest. de Tessier, H. Thionv. p. 432)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>Cattenom était le siége d’une commanderie de l’Ordre teutonique ou <i>Deutschenhaus.</i>— <i>Le duchehousse de Kettenheim,</i> <date>1400</date> <reference>(Quest. de Tessier, H. Thionv. p. 432)</reference>.</p>
       <p><i>Katenhem, marche d’Estault,</i> où se tenaient les journées amiables entre la cité de Metz et l’archevêque de Trèves, <date>1324</date> (chron. Prail.).</p>
       <p>Cattenom, fief du comté de Luxembourg, a donné son nom à une maison d’ancienne chevalerie qui portait pour armes : <i>coupé d’argent et de sable à l’escarboucle pommetée et fleurdelysée, à huit raies d’or, brochant sur le tout.</i></p>
       <p>De cette seigneurie dépendaient les villages de Sentzig, Kœking, Boler et Évange, chacun siége d’une justice haute, moyenne et basse (<date>1681</date>, dénombr. 21 mai) ; les villages de Garsch, Roussy-le-Village en partie, Breistroff, sauf les quatre voueries qui forment la mairie d’Hesperange, et la mairie de Daunermeyerei à Kœnigsmacker (<date>1706</date>, dénombr. 31 mars). — Il y avait, en outre, à Cattenom une seigneurie foncière appelée <i>Bourggut</i> (<date>1721</date>, dénombr. 24 mars).</p>
       <p>Siége d’une cure de l’archiprêtré de Thionville qui dépendait de l’abbaye de Munster de Luxembourg et avait pour annexe Sentzig et la Chapelle-Saint-Jacques.</p>
       <p>Autrefois Trois-Évêchés, baill. et cout. de Thionville. — Cattenom était chef-lieu, en <date>1790</date>, d’un canton qui comprenait les communes de Berg, Boust et Parth (Haute et Basse), Cattenom, Fixem, Garsch, Gawisse, Hettange-Grande, Kœking, Manom, Sentzig, Sœtrich. L’organisation de <date>1802</date> y ajouta : Algrange, Angevillers, Beuvange-sous-Saint-Michel, Beyren, Boler, Breistroff-Grande, Dodenhoven, Élange, Entrange, Escherange, Évange, Évrange, Eysing, Gandren, Hagen ou Honne, Halling, Himling, Kanfen, Kontz-Basse, Kontz-Haute, Molvange, Mondorff, Nondkeil, OEutrange, Ottange, Preische, Puttelange-lez-Rodemack, Rentgen-Haute, Rentgen-Basse, Rochonvillers, Rodemack, Roussy-le-Bourg, Roussy-le-Village, Simming, Volmerange et Zoufftgen. Depuis, ce canton a perdu les communes d’Algrange et de Manom, qui sont passées dans celui de Thionville : la première, en vertu de la loi du <date>9 avril 1841</date> ; la deuxième, en vertu d’une ordonnance du <date>2 octobre 1816</date>. — Boler, Dodenhoven, Entrange, Evange, Eysing, Gandren, Halling, Himling, Kœking, Molvange, Nondkeil, Preische, Rentgen-Haute, Roussy-le-Bourg, Simming et Sœtrich ont été réunis à d’autres communes du canton par divers décrets ou ordonnances. Beuvange-sous-Saint-Michel et Élange furent unis, le premier à Wolkrange et le second à Weymerange-Terville, communes du canton de Thionville. — A pour annexes la chapelle de Homeldange et la ferme de Hussange.</p>
     </commentaire>
+    <insee>57124</insee>
   </article>
   <article id="DT57-00526" pg="46">
     <vedette><sm>Caulre,</sm></vedette>
@@ -5814,12 +5804,10 @@
   </article>
   <article id="DT57-00595" pg="51">
     <vedette><sm>Châtel-Saint-Germain (Prieuré de).</sm></vedette>
-    <commentaire>
-      <p>— Établi par le pape Alexandre III en <date>1177</date>, réuni au <date><sm>xvi</sm><sup>e</sup> siècle</date> à la mense conventuelle de l’abbaye et remplacé par un ermitage, il dépendait de l’abb. bénéd. de Saint-Vincent de Metz.</p>
-    </commentaire>
     <forme_ancienne>— <i>Ecclesia Sancti Germani de Castello,</i> <date>1140</date> <reference>(abb. Saint-Vinc., liasse Châtel)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Prioratus Sancti Germani supra castrum,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>— Établi par le pape Alexandre III en <date>1177</date>, réuni au <date><sm>xvi</sm><sup>e</sup> siècle</date> à la mense conventuelle de l’abbaye et remplacé par un ermitage, il dépendait de l’abb. bénéd. de Saint-Vincent de Metz.</p>
       <p>Il reste quelques débris de la chapelle.</p>
     </commentaire>
   </article>
@@ -6296,7 +6284,7 @@
   </article>
   <article id="DT57-00645" pg="55">
     <vedette><sm>Clause (La),</sm></vedette>
-    <definition><typologie>ruisseau</typologie> qui prend sa source à Escherange, traverse les <localisation>communes d’<commune insee="57199" precision="approximatif">Escherange</commune> et de <commune insee="57731" precision="approximatif">Volmerange-lez-</commune>Œutrange</localisation> sur une longueur de 4 kilom. et se jette dans l’Alzette (Belgique).</definition>
+    <definition><typologie>ruisseau</typologie> qui prend sa source à Escherange, traverse les <localisation>communes d’<commune insee="57199" precision="approximatif">Escherange</commune> et de <commune insee="57731" precision="approximatif">Volmerange-lez-Œutrange</commune></localisation> sur une longueur de 4 kilom. et se jette dans l’Alzette (Belgique).</definition>
   </article>
   <article id="DT57-00646" pg="55">
     <vedette><sm>Clémency.</sm></vedette>
@@ -11307,9 +11295,7 @@
   <article id="DT57-01192" pg="100">
     <pg>100</pg>
     <vedette><sm>Gorzia (La)</sm> ou <sm>Ruisseau de Gorze.</sm></vedette>
-    <commentaire>
-      <p>— Prend sa source à la fontaine des Bouillons ou des Romains et dans le fond de Parfondval, traverse les c<sup>nes</sup> de Gorze et de Novéant sur une longueur de 8 kilom. et se jette dans la Moselle.</p>
-    </commentaire>
+    <definition>— Prend sa source <localisation>à la fontaine des Bouillons ou des Romains et dans le fond de Parfondval</localisation>, traverse les <localisation>communes de <commune insee="57254" precision="certain">Gorze</commune> et de <commune insee="57515" precision="certain">Novéant</commune></localisation> sur une longueur de 8 kilom. et se jette dans la Moselle.</definition>
     <forme_ancienne>— <i>Gorzia fluviolus,</i> <date>752</date> <reference>(abb. de Gorze, s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Haldiniacum ubi Gorzia fluviolus consurgit,</i> <date>763</date> <reference>(abb. de Gorze, s. l’an)</reference>.</forme_ancienne>
     <commentaire>
@@ -11989,7 +11975,7 @@
       <p>— Prend sa source à Guéling, c<sup>ne</sup> de Freistroff, traverse les c<sup>nes</sup> de Freistroff et de Bouzonville sur une longueur de 700 mètres et se jette dans la Nied.</p>
     </commentaire>
   </article>
-  <article id="DT57-01270" pg="105">
+  <article type="commune" id="DT57-01270" pg="105">
     <vedette><sm>Guénange (Haute et Basse),</sm></vedette>
     <definition><localisation>canton de <commune insee="57465" precision="approximatif">Metzerwisse</commune></localisation>, sur la rive droite de la Moselle.</definition>
     <forme_ancienne>— <i>Geminges,</i> <date>1157</date> <reference>(abb. Saint-Martin, ann. Prem. t. X, 2)</reference>.</forme_ancienne>
@@ -12004,6 +11990,7 @@
       <p>Guénange, fief mouvant du duché de Luxembourg, <date>1667</date> (dénombr. 7 oct.). — Le siége de la paroisse était à Haute-Guénange ; elle dépendait de l’abbaye Saint-Martin-lez-Metz, puis de la primatiale de Nancy ; faisait partie de l’archiprêtré de Thionville et avait pour annexes Basse-Guénange, Bousse, Blettange et Landrevange.</p>
       <p>Autrefois Trois-Évêchés, baill. et cout. de Thionville. — Fit partie du canton de Luttange de <date>1790</date> à <date>1802</date>, où il fut classé dans le canton actuel. — A pour annexe Guélange.</p>
     </commentaire>
+    <insee>57269</insee>
   </article>
   <article id="DT57-01271" pg="105">
     <vedette><sm>Guendersberg,</sm></vedette>
@@ -14372,13 +14359,11 @@
   </article>
   <article id="DT57-01511" pg="126">
     <vedette><sm>Horgne (La Seigneurie de la).</sm></vedette>
-    <commentaire>
-      <p>— Haute, moyenne et basse justice, sise sur le ban de Chany, <date>1734</date> (dénombr. 17 mars).</p>
-    </commentaire>
+    <definition><typologie>Haute, moyenne et basse justice</typologie>, sise sur le <localisation>ban de <commune insee="57031" precision="approximatif">Chany</commune></localisation>, <date>1734</date> (dénombr. 17 mars).</definition>
     <forme_ancienne>— <i>Horgne dans le Cunexi,</i> <date>1756</date> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
     <commentaire>
       <p><renvoi>— Voy. <sm>Chany-la-Horgne.</sm></renvoi></p>
-    </commentaire>
+    </commentaire> 
   </article>
   <article id="DT57-01512" pg="126">
     <vedette><sm>Horgne-au-Cheval-Rouge (La),</sm></vedette>
@@ -15288,12 +15273,13 @@
     </commentaire>
     <insee>57356</insee>
   </article>
-  <article id="DT57-01613" pg="134">
+  <article type="commune" id="DT57-01613" pg="134">
     <vedette><sm>Kappel-Kinger,</sm></vedette>
     <definition><typologie>commune</typologie>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Kinger</sm> (<sm>Kappel</sm> et <sm>Uber</sm>).</renvoi></p>
     </commentaire>
+    <insee>57357</insee>
   </article>
   <article id="DT57-01614" pg="134">
     <vedette><sm>Kappellenmühl,</sm></vedette>
@@ -17232,7 +17218,7 @@
     <vedette><sm>Longwy-Bas,</sm></vedette>
     <definition><typologie>village usines et paroisse</typologie>, <localisation>annexe de <commune insee="54323" precision="approximatif">Longwy-Haut</commune></localisation>.</definition>
   </article>
-  <article id="DT57-01835" pg="149">
+  <article type="commune" id="DT57-01835" pg="149">
     <vedette><sm>Longwy-Haut,</sm></vedette>
     <definition><localisation>arrondissement de <commune insee="54099" precision="approximatif">Briey</commune></localisation>, <localisation>près de la Chiers</localisation>.</definition>
     <forme_ancienne>— <i>Loncwich,</i> <date>633</date> <reference>(abb. Saint-Max. ch. Dagobert)</reference>.</forme_ancienne>
@@ -17260,6 +17246,7 @@
       <p>Les armes de Longwy sont : <i>d’azur à 2 barbeaux adossés d’or, accompagnés de deux croix trefflées au pied fiché, l’une en chef, l’autre en pointe, et costoyées de deux autres croix de même, le tout d’argent.</i> C’étaient également les armes de Bar et celles du bailliage.</p>
       <p>A pour annexes Longwy-Bas et Pulventeux.</p>
     </commentaire>
+    <insee>54323</insee>
   </article>
   <article id="DT57-01836" pg="150">
     <vedette><sm>Lorentzscheuer,</sm></vedette>
@@ -18616,9 +18603,6 @@
   <article id="DT57-01967" pg="162">
     <vedette><sm>Mathois (Le),</sm></vedette>
     <definition>ancien nom donné au <typologie>pays</typologie> arrosé par l’Alzette, la Chiers et la Crusne, dont une partie appartient à l’<localisation>arrondissement de <commune insee="54099" precision="approximatif">Briey</commune></localisation>.</definition>
-    <commentaire>
-      <p>— Il faut bien le distinguer, sous la forme germanique ou latine de son nom (<i>Methingau, Methensis</i> ou <i>Mathensis pagus</i>), du pays de Metz (<i>Metingau, Metensis pagus</i>), avec lequel il a été jusqu’ici assez généralement confondu <renvoi>(voy. le cart. du Moy. Rhin, <i>Urkundenbuch,</i> von Beyer, t. II, p. <sm>xxix,</sm> et les <i>Mém. de l’Acad. de Metz,</i> 1870, p. 452)</renvoi>.</p>
-    </commentaire>
     <forme_ancienne>— <i>Bœvillare in pago methensi,</i> <date>926</date> <reference>(abb. Saint-Max. don. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>In pago alsencensi in comitatu methingowense</i> <reference>(abb. Saint-Max. don. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Almas in pago matense,</i> <date>933</date> <reference>(abb. Gorze, ch. s. l’an)</reference>.</forme_ancienne>
@@ -18627,10 +18611,11 @@
     <forme_ancienne>— <i>Seivri on Matoi,</i> <date>1298</date> <reference>(repr. de fief, s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Viller en Mathoy,</i> <date>1530</date> <reference>(abb. Saint-Pierr<sup>t</sup>, ch. s. l’an)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Filières an Mathois,</i> <date>1612</date> <reference>(abb. Saint-Pierr<sup>t</sup>, ch. s. l’an)</reference>.</forme_ancienne>
+    <forme_ancienne>— <i>Ville-au-Montois,</i> <date>nom actuel</date>.</forme_ancienne>
     <commentaire>
-      <p>— <i>Ville-au-Montois,</i> nom actuel.</p>
       <p>Le <i>Pagus mathinsis</i> était borné par les <i>Pagi arelunensis, wavrensis, alzencensis</i> (avec lequel on a fini par le confondre), <i>bedensis</i> et <i>metensis.</i></p>
       <p>Il appartenait au duché de la Haute-Lorraine et à l’évêché de Trèves ; une partie du Luxembourg actuel y était comprise.</p>
+      <p>— Il faut bien le distinguer, sous la forme germanique ou latine de son nom (<i>Methingau, Methensis</i> ou <i>Mathensis pagus</i>), du pays de Metz (<i>Metingau, Metensis pagus</i>), avec lequel il a été jusqu’ici assez généralement confondu <renvoi>(voy. le cart. du Moy. Rhin, <i>Urkundenbuch,</i> von Beyer, t. II, p. <sm>xxix,</sm> et les <i>Mém. de l’Acad. de Metz,</i> 1870, p. 452)</renvoi>.</p>
     </commentaire>
   </article>
   <article id="DT57-01968" pg="162">
@@ -19244,9 +19229,6 @@
   </article>
   <article id="DT57-02026" pg="169">
     <vedette><sm>Metz (Le Pays de)</sm> ou <sm>Pays Messin.</sm></vedette>
-    <commentaire>
-      <p>— Ayant pour chef-lieu la cité de Metz, et en partie arrosé par la Moselle, ce pays a été quelquefois désigné dans les anciens titres par le nom de cette rivière. Le <i>pagus Metensis</i> proprement dit paraît n’avoir été qu’une partie du <i>pagus Mosellensis,</i> ce que l’on appelle aujourd’hui le pays Messin, c’est-à-dire la grande banlieue de Metz ; mais la confusion des textes a laissé croire à une étendue beaucoup plus vaste, que des auteurs en renom ont pensé pouvoir préciser. Il nous semble que la vérité consiste à identifier le <i>pagus Metensis</i> avec l’archidiaconé de Metz, comprenant les trois archiprêtrés de Metz, du Val-de-Metz et de Noisseville. Le <i>pagus Metensis</i> était borné par les <i>pagi Scarponensis, Salinensis, Nidensis, Matensis</i> et <i>Wabrensis.</i> Metz étant devenu siége d’un <i>comitatus,</i> les deux termes s’employèrent indifféremment, malgré la différence probable des circonscriptions, et de là encore une source de difficultés.</p>
-    </commentaire>
     <forme_ancienne>— <i>Metensis pagus,</i> <date>636</date> <reference>(test. diac. Grim.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ducatus moslensis in comitatu mettensi,</i> <date>783</date> <reference>(Gesta Epis. Met. D. Cal. I, pr. 291)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Pagus Mediomatricensis,</i> <date>863</date> <reference>(abb. Neum. ch. de Louis II)</reference>.</forme_ancienne>
@@ -19255,6 +19237,7 @@
     <forme_ancienne>— <i>Finis vel pagus Mettensis,</i> <date>1046</date> <reference>(archev. Trèves, ch. du roi Henri)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le pays de Mets, Metsain, Messin, le Messein, le Messain,</i> <date><sm>xv</sm><sup>e</sup>-<sm>xvii</sm><sup>e</sup> siècles</date> <reference>(chron. div.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>— Ayant pour chef-lieu la cité de Metz, et en partie arrosé par la Moselle, ce pays a été quelquefois désigné dans les anciens titres par le nom de cette rivière. Le <i>pagus Metensis</i> proprement dit paraît n’avoir été qu’une partie du <i>pagus Mosellensis,</i> ce que l’on appelle aujourd’hui le pays Messin, c’est-à-dire la grande banlieue de Metz ; mais la confusion des textes a laissé croire à une étendue beaucoup plus vaste, que des auteurs en renom ont pensé pouvoir préciser. Il nous semble que la vérité consiste à identifier le <i>pagus Metensis</i> avec l’archidiaconé de Metz, comprenant les trois archiprêtrés de Metz, du Val-de-Metz et de Noisseville. Le <i>pagus Metensis</i> était borné par les <i>pagi Scarponensis, Salinensis, Nidensis, Matensis</i> et <i>Wabrensis.</i> Metz étant devenu siége d’un <i>comitatus,</i> les deux termes s’employèrent indifféremment, malgré la différence probable des circonscriptions, et de là encore une source de difficultés.</p>
       <p>Le <i>pays Messin,</i> représentant, au moyen âge, l’ensemble du domaine politique de la cité de Metz, était partagé en un certain nombre de divisions, qui portaient les noms de : le Val-de-Metz, l’Isle, le Saulnois, le Haut-Chemin, le Franc-Alleu, le Ban de Bazailles et la terre de Gorze. Cette division, qui était celle de la république messine, subsista sous l’autorité française, sauf quelques modifications de classement : le Haut-Chemin fut absorbé dans le Saulnois, et le Franc-Alleu perdit sa dénomination ; on eut de plus le Ban de la Rotte et le Ban Saint-Pierre. Mais les trois grandes divisions continuèrent à être observées : on peut les définir sommairement en disant que la Val-de-Metz était la partie du pays Messin située à gauche de la Moselle ; l’Isle, la partie placée entre la Moselle et la Seille ; le Saulnois, celle qui s’étendait entre la Seille et la Nied et au delà <renvoi>(voy. chacune de ces divisions à son nom)</renvoi>.</p>
     </commentaire>
   </article>
@@ -20085,10 +20068,7 @@
   </article>
   <article id="DT57-02116" pg="177">
     <vedette><sm>Moselle (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui a plusieurs branches, dont deux principales : l’une, qui prend sa source à <localisation><commune insee="88081" precision="approximatif">Bussang</commune> (Vosges)</localisation> et porte son nom dès son origine ; l’autre, la Petite Moselle ou Mosellotte, qui a sa source au Grand-Ventron, et se joint à la première à Remiremont.</definition>
-    <commentaire>
-      <p>La Moselle traverse le dép<sup>t</sup> de la Meurthe, puis celui auquel elle donne son nom, dans la direction du S. au N. N. E., et y passe sur le territ. des c<sup>nes</sup> d’Arry, Novéant, Corny, Dornot, Ancy, Jouy, Ars, Vaux, Moulins, Scy, Longeville-lez-Metz, Montigny, Metz (où elle reçoit la Seille), Devant-les-Ponts, la Maxe, Woippy, Malroy, Argancy, Maizières, Ennery, Hautconcourt, Talange, Hagondange, Ay, Richemont (où elle reçoit l’Orne), Guénange, Uckange, Bertrange, Thionville (où elle reçoit la Fensch), Yutz, Maquenom, Manom, Garsch, Haute et Basse Ham, Kœnigsmacker (où elle reçoit la Canner), Cattenom, Senzich, Malling, Berg, Hunting, Haute et Basse Kontz, Rettel, Sierck et Apach, où elle sort de France, formant la séparation des grands-duchés de Luxembourg et du Bas-Rhin (Prusse rhénane), puis arrose Trèves et va se jeter dans le Rhin à Coblentz.</p>
-    </commentaire>
+    <definition><typologie>rivière</typologie> qui a plusieurs branches, dont deux principales : l’une, qui prend sa source à <localisation><commune insee="88081" precision="approximatif">Bussang</commune> (Vosges)</localisation> et porte son nom dès son origine ; l’autre, la Petite Moselle ou Mosellotte, qui a sa source au Grand-Ventron, et se joint à la première à Remiremont. La Moselle traverse le département de la Meurthe, puis celui auquel elle donne son nom, dans la direction du S. au N. N. E., et y passe sur le territ. des communes d’Arry, Novéant, Corny, Dornot, Ancy, Jouy, Ars, Vaux, Moulins, Scy, Longeville-lez-Metz, Montigny, Metz (où elle reçoit la Seille), Devant-les-Ponts, la Maxe, Woippy, Malroy, Argancy, Maizières, Ennery, Hautconcourt, Talange, Hagondange, Ay, Richemont (où elle reçoit l’Orne), Guénange, Uckange, Bertrange, Thionville (où elle reçoit la Fensch), Yutz, Maquenom, Manom, Garsch, Haute et Basse Ham, Kœnigsmacker (où elle reçoit la Canner), Cattenom, Senzich, Malling, Berg, Hunting, Haute et Basse Kontz, Rettel, Sierck et Apach, où elle sort de France, formant la séparation des grands-duchés de Luxembourg et du Bas-Rhin (Prusse rhénane), puis arrose Trèves et va se jeter dans le Rhin à Coblentz.</definition>
     <forme_ancienne>— <i>Obrinca ?</i> <date><sm>ii</sm><sup>e</sup> siècle</date> <reference>(Ptolémée)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ei sed uni fluvius creditur esse Mosella</i> <reference>(Danv. Not. Gall. 389)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mosella,</i> <date><sm>iv</sm><sup>e</sup> siècle</date> <reference>(Ausone)</reference>.</forme_ancienne>
@@ -20111,9 +20091,6 @@
   </article>
   <article id="DT57-02117" pg="177">
     <vedette><sm>Moselle (Le Pays de)</sm> ou <sm>Mosellois.</sm></vedette>
-    <commentaire>
-      <p>— Il est parlé du Mosellois dans une charte du roi Pepin en <date>753</date>, dans le règlement de Louis le Débonnaire pour le partage de ses États, en <date>835</date>, et dans d’autres actes semblables. Il est évident que le Mosellois ne se prenait pas pour tout le cours de la rivière, car dans le règlement de 835 il est distingué du Trévirois ; il l’est également, dans le partage de 870, du Toulois et du Scarponois, également situés sur la Moselle. Le rapprochement continuel dans les chartes et même souvent l’identification des deux mots <i>Mosellensis</i> et <i>Metensis</i> permettent d’affirmer que le <i>pagus, comitatus</i> ou <i>ducatus Mosellensis</i> ne comprenait que la partie située dans le voisinage de la cité de Metz.</p>
-    </commentaire>
     <forme_ancienne>— <i>Pagus Muslensæ,</i> <date>636</date> <reference>(archev. Trèv. ch. roi Dag.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Muslensis pagus,</i> <date>720</date> <reference>(abb. Prum. ch. don. Bertha)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ducatus moslisis,</i> <date>732</date> <reference>(abb. Prum. ch. don. s. l’an)</reference>.</forme_ancienne>
@@ -20137,8 +20114,9 @@
     <forme_ancienne>— <i>Pagus Muselgini,</i> <date>1354</date> <reference>(dom. Kœnigsm. Teiss. Hist. Thionv. pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Mosellanus pagus vel comitatus ; ducatus Mosellanorum, vel Mosellis, vel Moslensis, vel Mosellicorum ducatus, Moselgow, Muselgow, Muselachgowa</i> <reference>(D. Cal. not. Lorr.)</reference>.</forme_ancienne>
     <commentaire>
+      <p>— Il est parlé du Mosellois dans une charte du roi Pepin en <date>753</date>, dans le règlement de Louis le Débonnaire pour le partage de ses États, en <date>835</date>, et dans d’autres actes semblables. Il est évident que le Mosellois ne se prenait pas pour tout le cours de la rivière, car dans le règlement de 835 il est distingué du Trévirois ; il l’est également, dans le partage de 870, du Toulois et du Scarponois, également situés sur la Moselle. Le rapprochement continuel dans les chartes et même souvent l’identification des deux mots <i>Mosellensis</i> et <i>Metensis</i> permettent d’affirmer que le <i>pagus, comitatus</i> ou <i>ducatus Mosellensis</i> ne comprenait que la partie située dans le voisinage de la cité de Metz.</p>
       <p>Il ne faut pas confondre le <i>Ducatus mosellensis</i> des chartes citées plus haut avec le <i>duché de Mosellane :</i> <renvoi>voy. <sm>Mosellane (Duché de).</sm></renvoi></p>
-    </commentaire>
+     </commentaire>
   </article>
   <article type="commune" id="DT57-02118" pg="177">
     <vedette><sm>Mouaville,</sm></vedette>
@@ -21880,12 +21858,13 @@
     <vedette><sm>Nolz (Le Ban de la),</sm></vedette>
     <definition><typologie>seigneurie, haute, moyenne et basse justice</typologie>, sur le <localisation>territoire de <commune insee="57634" precision="approximatif">Saulny</commune></localisation>, fief mouvant de la châtellenie de Briey, <date>1682</date> <reference>(dénombr. du 6 mars)</reference>.</definition>
   </article>
-  <article id="DT57-02409" pg="188">
+  <article type="commune" id="DT57-02409" pg="188">
     <vedette><sm>Nomeny,</sm></vedette>
-    <definition><localisation>commune du département de la Meurthe</localisation>.</definition>
+    <definition><typologie>commune</typologie> du <localisation>département de la Meurthe</localisation>.</definition>
     <commentaire>
       <p>Était le siége d’un archiprêtré dépendant de l’archidiaconé de Vic, lequel comprenait, entre autres paroisses, les suivantes, qui font partie du dép<sup>t</sup> de la Moselle : Alémont, Buchy, Cheminot, Chérisey, Foville, Goin, Liéhon, Louvigny, Sailly, Secourt, Solgne et Thimonville.</p>
     </commentaire>
+    <insee>54400</insee>
   </article>
   <article id="DT57-02410" pg="188">
     <vedette><sm>Nondkeille,</sm></vedette>
@@ -29606,10 +29585,7 @@
     <forme_ancienne>— <i>Teter</i> <reference>(carte Cass.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Tetrichen</i> <reference>(dict. Verr.)</reference>.</forme_ancienne>
     <commentaire>
-      <p>Il y avait à Téterchen un prieuré dépendant de l’abbaye de Villers-Bettnach, <i>Prioratus de Tikerthen,</i> <date>1544</date> (pouillé de M.). — Il y existait, de plus, un couvent de religieuses Cordelières du tiers-ordre de Saint-François, fondé au <date><sm>xiii</sm><sup>e</sup> siècle</date> pour l’entretien d’un hôpital.</p>
-    </commentaire>
-    <forme_ancienne>— <i>Les sœurs de Tetterchen lez Boulay,</i> <date>1594</date> <reference>(dénomb. Th. Alix)</reference>.</forme_ancienne>
-    <commentaire>
+      <p>Il y avait à Téterchen un prieuré dépendant de l’abbaye de Villers-Bettnach, <i>Prioratus de Tikerthen,</i> <date>1544</date> (pouillé de M.). — Il y existait, de plus, un couvent de religieuses Cordelières du tiers-ordre de Saint-François, fondé au <date><sm>xiii</sm><sup>e</sup> siècle</date> pour l’entretien d’un hôpital.— <i>Les sœurs de Tetterchen lez Boulay,</i> <date>1594</date> <reference>(dénomb. Th. Alix)</reference>.</p>
       <p>— Dépendait en partie des offices et châtellenies de Boulay, Bérus et Saint-Avold, <date>1594</date> (dénombr. Th. Alix), et plus tard des seigneuries de Freistroff (<date>1681</date>, dénombr. <pg>256</pg>31 oct.), de Faulquemont (<date>1681</date>, dénombr. 6 sept.) et de Bérus (<date>1683</date>, dénombr. 22 nov.). — Était siége d’une cure de l’archiprêtré de Varize dépendant de l’abb. de Freistroff, qui avait pour annexe la cense d’Alstate (Alsch).</p>
       <p>Autrefois Lorraine, baill. de Bouzonville, cout. de Lorraine. — Fit partie du canton d’Ottonville de <date>1790</date> à <date>1802</date>, où il passa dans le canton actuel. — A pour annexe la ferme d’Alsch.</p>
     </commentaire>
@@ -33227,9 +33203,7 @@
   </article>
   <article id="DT57-03633" pg="289">
     <vedette><sm>Yron ou Iron (Ruisseau d’).</sm></vedette>
-    <commentaire>
-      <p>— Prend sa source dans les étangs de la Chaussée (Meuse), puis traverse les territ. d’Hannonville-au-Passage, Ville-sur-Yron, Ville-aux-Prés, Droitaumont (annexe de Jarny) et Conflans, où il se jette dans l’Orne.</p>
-    </commentaire>
+    <definition>Prend sa source dans les <localisation>étangs de <commune insee="55267" precision="certain">la Chaussée</commune> (Meuse)</localisation>, puis traverse les <localisation>territoires d’<commune insee="54249" precision="certain">Hannonville-au-Passage</commune>, <commune insee="54581" precision="certain">Ville-sur-Yron</commune>, <commune insee="54581" precision="certain">Ville-aux-Prés</commune>, Droitaumont (annexe de <commune insee="54273" precision="certain">Jarny</commune>) et <commune insee="54136" precision="certain">Conflans</commune></localisation>, où il se jette dans l’Orne.</definition>
     <forme_ancienne>— <i>Fluvius Oran,</i> <date>1192</date> <reference>(abb. Saint-Vinc. bulle de Cél. III)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Yroma, Yronna,</i> <date>1544</date> <reference>(pouillé de M.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Iron,</i> <date>1779</date> <reference>(Dur. Lorr.)</reference>.</forme_ancienne>

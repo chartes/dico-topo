@@ -35,7 +35,7 @@
   </article>
   <article id="DT89-00008" pg="1" type="commune">
     <vedette><sm>Accolay,</sm></vedette>
-    <definition><localisation>commune de <commune insee="89441" precision="certain">Vermanton</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="89441" precision="approximatif">Vermanton</commune></localisation>.</definition>
     <forme_ancienne>— <i>Accolatus,</i><date><sm>vii</sm><sup>e</sup> siècle</date> <reference>(Bibl. hist. de l'Yonne, I, 339)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Acolaium,</i><date>1215</date> <reference>(chap. d'Aux.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Acolacum,</i><date>1229</date> ;</forme_ancienne>
@@ -9504,7 +9504,7 @@
   </article>
   <article id="DT89-01714" pg="41" type="commune">
     <vedette><sm>Courlon,</sm></vedette>
-    <definition><localisation>commune de <commune insee="89391" precision="certain">Sergines</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="89391" precision="approximatif">Sergines</commune></localisation>.</definition>
     <forme_ancienne>— <i>Curteleonis,</i><date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(<i>Liber sacram.</i> ms bibl. de Stockholm)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Colleum,</i><date>1211</date> <reference>(abb. de Vauluisant)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Corloonis,</i><date>1224</date> <reference>(abb. Sainte-Colombe de Sens)</reference>.</forme_ancienne>
@@ -10511,7 +10511,7 @@
   </article>
   <article id="DT89-01883" pg="46" type="commune">
     <vedette><sm>Dixmont,</sm></vedette>
-    <definition><localisation>commune de <commune insee="89464" precision="certain">Villeneuve-sur-Yonne</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="89464" precision="approximatif">Villeneuve-sur-Yonne</commune></localisation>.</definition>
     <forme_ancienne>— <i>Dainmons,</i><date>vers 1163</date> <reference>(cart. gén. de l'Yonne, II, 153)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Dimo,</i><date>1226</date> <reference>(abb. Saint-Marien d'Auxerre)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Dimon,</i><date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(<i>Liber sacram.</i> ms bibl. de Stockholm)</reference>.</forme_ancienne>
@@ -21004,11 +21004,11 @@
   </article>
   <article id="DT89-03769-2" pg="90">
     <vedette><sm>Moulin à tan,</sm></vedette>
-    <definition>situé <localisation>commune de <commune insee="89079" precision="certain">Chamvres</commune></localisation>.</definition>
+    <definition>situé <localisation>commune de <commune insee="89079" precision="certain">Chamvres</commune> (Cheminot)</localisation>.</definition>
   </article>
   <article id="DT89-03769-3" pg="90">
     <vedette><sm>Moulin à tan,</sm></vedette>
-    <definition>situés <localisation>commune de <commune insee="89241" precision="certain">Malicorne</commune></localisation>.</definition>
+    <definition>situés <localisation>commune de <commune insee="89241" precision="certain">Malicorne</commune> (Sault-Pinard)</localisation>.</definition>
   </article>
   <article id="DT89-03769-4" pg="90">
     <vedette><sm>Moulin à tan,</sm></vedette>
@@ -28325,7 +28325,7 @@
   </article>
   <article id="DT89-04993" pg="125" type="commune">
     <vedette><sm>Soumaintrain,</sm></vedette>
-    <definition><localisation>commune de <commune insee="89169" precision="certain">Flogny</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="89169" precision="approximatif">Flogny</commune></localisation>.</definition>
     <forme_ancienne>— <i>Summentriacum,</i><date>1147</date> <reference>(cart. gén. de l'Yonne, I, 423)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Soubzmestreyum,</i><date>1487</date> <reference>(arch. de Sens, reg. des ordinations)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sonibus Mantrei,</i><date>1453</date> <reference>(reg. des taxes, etc. dioc. de Sens, bibl. de cette ville, archevêché)</reference>.</forme_ancienne>

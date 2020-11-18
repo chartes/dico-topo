@@ -2429,7 +2429,7 @@
     <definition><localisation>commune de <commune insee="58218" precision="certain">Prémery</commune></localisation>.</definition>
   </article>
   <article id="DT58-00433" pg="11" type="commune">
-    <vedette><sm>Beaumont-la-Febrière,</sm></vedette>
+    <vedette><sm>Beaumont-la-Ferrière,</sm></vedette>
     <definition><localisation>canton de la <commune insee="58059" precision="approximatif">Charité-sur-Loire</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bellus Mons,</i> <date>1245</date> <reference>(S.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Beaulmont-la-Ferrière,</i> <date>1384</date> <reference>(A. N.)</reference>.</forme_ancienne>
@@ -3478,7 +3478,7 @@
   </article>
   <article id="DT58-635bis" pg="15" type="commune">
     <vedette><sm>Billy,</sm></vedette>
-    <definition><localisation>commune de <commune insee="58232" precision="certain">Saint-Benin-d’Azy</commune></localisation>.</definition>
+    <definition><localisation>canton de <commune insee="58232" precision="approximatif">Saint-Benin-d’Azy</commune></localisation>.</definition>
     <forme_ancienne>— <i>Bylliacum,</i> <date>1287</date> <reference>(reg. de l'év. de Nevers).</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Biliacum,</i> <date>1478</date> <reference>(pouillé de Nevers).</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Billy-Chevannes,</i> depuis la réunion de Chevannes.</forme_ancienne>
@@ -6429,7 +6429,7 @@
   </article>
   <article id="DT58-01233" pg="26">
     <vedette><sm>Brosse (La Grande-),</sm></vedette>
-    <definition><typologie>écart</typologie>, <localisation>commune de <commune insee="58221" precision="certain">Lanty</commune></localisation>.</definition>
+    <definition><typologie>écart</typologie>, <localisation>ancienne commune de <commune insee="58221" precision="certain">Lanty</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Broce-au-Malade,</i> <date>1309</date> <reference>(Marolles)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Brosse-au-Malade,</i> <date>1689</date> <reference>(reg. des fiefs)</reference>.</forme_ancienne>
     <commentaire>
@@ -37207,7 +37207,7 @@
   </article>
   <article id="DT58-07174" pg="151">
     <vedette><sm>Pré (Le),</sm></vedette>
-    <definition><typologie>ferme</typologie>, <localisation>commune de <commune insee="58065" precision="certain">Mingot</commune></localisation>.</definition>
+    <definition><typologie>ferme</typologie>, <localisation>ancienne commune de <commune insee="58065" precision="certain">Mingot</commune></localisation>.</definition>
   </article>
   <article id="DT58-07175" pg="151">
     <vedette><sm>Pré-a-Gens,</sm></vedette>
