@@ -686,7 +686,7 @@
   </article>
   <article id="DT30-00111" pg="6">
     <vedette><sm>Alestenc (L'),</sm></vedette>
-    <definition><localisation>territoire et viguerie d'Alais</localisation>.</definition>
+    <definition><localisation>territoire et viguerie d'<commune insee="30007" precision="approximatif">Alais</commune></localisation>.</definition>
     <forme_ancienne>— <i>Vicaria Alestenqui,</i> <date>1335</date> <reference>(cart. de la seign. d'Alais, f° 19)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Terra Alestensis,</i> <date>1345</date> <reference>(cart. de la seign. d'Alais, f° 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vicaria Alestensis,</i> <date>1359</date> <reference>(cart. de la seign. d'Alais, f° 3)</reference>.</forme_ancienne>
@@ -5078,7 +5078,7 @@
   </article>
   <article id="DT30-00877" pg="31">
     <vedette><sm>Boucanet (Le),</sm></vedette>
-    <definition><typologie>plage</typologie> d'<localisation>Aiguesmortes</localisation>.</definition>
+    <definition><typologie>plage</typologie> d'<localisation><commune insee="30003" precision="approximatif">Aiguesmortes</commune></localisation>.</definition>
   </article>
   <article id="DT30-00878" pg="31">
     <vedette><sm>Bouchère (La),</sm></vedette>
@@ -6841,7 +6841,7 @@
   </article>
   <article id="DT30-01203" pg="40">
     <vedette><sm>Cadereau,</sm></vedette>
-    <definition>nom donné à plusieurs <typologie>ruisseaux</typologie> qui prennent leur source dans les garrigues au <localisation>nord de Nimes</localisation>.</definition>
+    <definition>nom donné à plusieurs <typologie>ruisseaux</typologie> qui prennent leur source dans les garrigues au <localisation>nord de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>.</definition>
     <commentaire>
       <p>On distingue :</p>
       <p>1° Le <i>Cadereau du Payrel,</i> qui prend sa source au Mas-Granon et conserve ce nom jusqu'au moment où il reçoit le Cadereau de Mirabels, avant d'entrer dans l'enceinte du Nimes romain.</p>
@@ -7604,7 +7604,7 @@
   </article>
   <article id="DT30-01329" pg="45">
     <vedette><sm>Campoussin,</sm></vedette>
-    <definition><typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition><typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-01330" pg="45">
     <vedette><sm>Campredon,</sm></vedette>
@@ -7936,7 +7936,7 @@
   </article>
   <article id="DT30-01388" pg="47">
     <vedette><sm>Canteperdrix,</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation> (Trenquier, <i>Mém. sur Montfrin</i>).</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation> (Trenquier, <i>Mém. sur Montfrin</i>).</definition>
   </article>
   <article id="DT30-01389" pg="47">
     <vedette><sm>Canteperdrix,</sm></vedette>
@@ -9043,7 +9043,7 @@
   </article>
   <article id="DT30-01579" pg="53">
     <vedette><sm>Cèze (La),</sm></vedette>
-    <definition><typologie>rivière</typologie> qui prend sa source à <localisation>Saint-André-de-Capcèze</localisation> (Lozère), entre dans le département sur <pg>54</pg>le <localisation>territoire de la commune de <commune insee="30201" precision="approximatif">Ponteils</commune></localisation> et, après en avoir arrosé toute la partie septentrionale, se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30084" precision="approximatif">Codolet</commune></localisation>.</definition>
+    <definition><typologie>rivière</typologie> qui prend sa source à <localisation><commune insee="48135" precision="approximatif">Saint-André-de-Capcèze</commune></localisation> (Lozère), entre dans le département sur <pg>54</pg>le <localisation>territoire de la commune de <commune insee="30201" precision="approximatif">Ponteils</commune></localisation> et, après en avoir arrosé toute la partie septentrionale, se jette dans le Rhône sur le <localisation>territoire de la commune de <commune insee="30084" precision="approximatif">Codolet</commune></localisation>.</definition>
     <forme_ancienne>— <i>Cicer,</i> <date>817</date> <reference>(Hist. de Lang. t. I, pr. <i>Dipl. de Louis le Débonnaire</i>)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Fluvius Cicers,</i> <date>1242</date> <reference>(Gall. Christ. t. VI, p. 618)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cisser,</i> <date>1384</date> <reference>(dénombr. de la sénéch.)</reference>.</forme_ancienne>
@@ -10278,7 +10278,7 @@
   </article>
   <article id="DT30-01789" pg="61">
     <vedette><sm>Coirane (La),</sm></vedette>
-    <definition><typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition><typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
     <forme_ancienne>— <i>La Couirane,</i> <date>1790</date> <reference>(bibl. du gr. sémin. de Nimes)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-01790" pg="61">
@@ -11341,7 +11341,7 @@
   </article>
   <article id="DT30-01971" pg="67">
     <vedette><sm>Costebelle,</sm></vedette>
-    <definition><typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition><typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-01972" pg="67">
     <vedette><sm>Costebelle,</sm></vedette>
@@ -12021,7 +12021,7 @@
   </article>
   <article id="DT30-02102" pg="70">
     <vedette><sm>Croix-Haute (La),</sm></vedette>
-    <definition><localisation>faubourg de Saint-Hippolyte-du-Fort</localisation>.</definition>
+    <definition><localisation>faubourg de <commune insee="30263" precision="certain">Saint-Hippolyte-du-Fort</commune></localisation>.</definition>
   </article>
   <article id="DT30-02103" pg="70">
     <vedette><sm>Croix-Tombée (La),</sm></vedette>
@@ -12666,7 +12666,7 @@
   </article>
   <article id="DT30-02225" pg="74">
     <vedette><sm>Doctrinaires (Les),</sm></vedette>
-    <definition><typologie>chapelle</typologie> à <localisation>Beaucaire</localisation>, bâtie vers le <date>milieu du <sm>xvii</sm><sup>e</sup> siècle</date> pour le collége des Doctrinaires de Beaucaire.</definition>
+    <definition><typologie>chapelle</typologie> à <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>, bâtie vers le <date>milieu du <sm>xvii</sm><sup>e</sup> siècle</date> pour le collége des Doctrinaires de Beaucaire.</definition>
     <commentaire>
       <p>Elle a été achetée par l'administration du canal, qui l'a convertie en magasin (Forton, <i>Nouv. Rech. hist. sur Beaucaire,</i> p. 393).</p>
     </commentaire>
@@ -16796,7 +16796,7 @@
   </article>
   <article id="DT30-02973" pg="97">
     <vedette><sm>Garrigue (La),</sm></vedette>
-    <definition><typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition><typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-02974" pg="97">
     <vedette><sm>Garrigue (La),</sm></vedette>
@@ -17264,7 +17264,7 @@
   </article>
   <article id="DT30-03050" pg="100">
     <vedette><sm>Givalon,</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-03051" pg="100">
     <vedette><sm>Glacières (Les),</sm></vedette>
@@ -17614,7 +17614,7 @@
   </article>
   <article id="DT30-03123" pg="102">
     <vedette><sm>Grange (La),</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-03124" pg="102">
     <vedette><sm>Grange (La),</sm></vedette>
@@ -17825,7 +17825,7 @@
   </article>
   <article id="DT30-03169" pg="102">
     <vedette><sm>Graveron (Le),</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-03170" pg="103">
     <pg>103</pg>
@@ -18432,7 +18432,7 @@
   </article>
   <article id="DT30-03286" pg="106">
     <vedette><sm>Ile (La Grande-),</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
     <forme_ancienne>— <date>1790</date> <reference>(bibl. du gr. sém. de Nimes)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-03287" pg="106">
@@ -18681,7 +18681,7 @@
   </article>
   <article id="DT30-03334" pg="107">
     <vedette><sm>Jarnègue,</sm></vedette>
-    <definition><typologie>île du Rhône</typologie>, entre <localisation>Beaucaire</localisation> et <localisation><commune insee="13108" precision="approximatif">Tarascon</commune></localisation>, aujourd'hui réunie par atterrissement à la <localisation>commune de <commune insee="13108" precision="approximatif">Tarascon</commune></localisation>.</definition>
+    <definition><typologie>île du Rhône</typologie>, entre <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation> et <localisation><commune insee="13108" precision="approximatif">Tarascon</commune></localisation>, aujourd'hui réunie par atterrissement à la <localisation>commune de <commune insee="13108" precision="approximatif">Tarascon</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ugernica insula,</i> <date>1185</date> <reference>(Hist. de Lang. II, pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Vernia</i> <reference>(Guill. de Puylaurens, <i>Chron.</i> cap. 44)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>La Vergne</i> <reference>(Valois, <i>Not. Gall.</i> p. 601)</reference>.</forme_ancienne>
@@ -23899,7 +23899,7 @@
   </article>
   <article id="DT30-04310" pg="134">
     <vedette><sm>Méjan,</sm></vedette>
-    <definition><typologie>quartier</typologie> de l'<localisation>intérieur de Nimes</localisation>, au moyen âge.</definition>
+    <definition><typologie>quartier</typologie> de l'<localisation>intérieur de <commune insee="30189" precision="certain">Nimes</commune></localisation>, au moyen âge.</definition>
     <forme_ancienne>— <i>Mejanum,</i> <date>1270</date> <reference>(Mén. I, pr. p. 94, c. 1)</reference>.</forme_ancienne>
     <commentaire>
       <p><renvoi>— Voy. <sm>Notre-Dame-de-Méjan.</sm></renvoi></p>
@@ -25386,7 +25386,7 @@
   </article>
   <article id="DT30-04545" pg="144">
     <vedette><sm>Moulières (Les),</sm></vedette>
-    <definition><typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition><typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-04546" pg="144">
     <vedette><sm>Moulières (Les),</sm></vedette>
@@ -26672,7 +26672,7 @@
   </article>
   <article id="DT30-04771" pg="152">
     <vedette><sm>Notre-Dame-de-Beauregard,</sm></vedette>
-    <definition><typologie>église</typologie> de <localisation>Beaucaire</localisation>, construite en <date>1682</date>, démolie en <date>1810</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
+    <definition><typologie>église</typologie> de <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>, construite en <date>1682</date>, démolie en <date>1810</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
   </article>
   <article id="DT30-04772" pg="152">
     <vedette><sm>Notre-Dame-de-Bethléem,</sm></vedette>
@@ -26710,11 +26710,11 @@
   </article>
   <article id="DT30-04774" pg="152">
     <vedette><sm>Notre-Dame-de-Bonne-Aventure,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> dans <localisation>Beaucaire</localisation>, démolie en <date>1830</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
+    <definition><typologie>ancienne chapelle</typologie> dans <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>, démolie en <date>1830</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
   </article>
   <article id="DT30-04775" pg="152">
     <vedette><sm>Notre-Dame-de-Bon-Voyage,</sm></vedette>
-    <definition><typologie>ancienne chapelle</typologie> dans <localisation>Beaucaire</localisation>, détruite en <date>1804</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
+    <definition><typologie>ancienne chapelle</typologie> dans <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>, détruite en <date>1804</date> (Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>).</definition>
   </article>
   <article id="DT30-04776" pg="152">
     <vedette><sm>Notre-Dame-de-Brueis,</sm></vedette>
@@ -26971,7 +26971,7 @@
   </article>
   <article id="DT30-04802" pg="155">
     <vedette><sm>Notre-Dame-des-Pommiers,</sm></vedette>
-    <definition><typologie>église principale</typologie> de <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>église principale</typologie> de <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <forme_ancienne>— <i>Beata-Maria de Pomeriis,</i> <date>1095</date> <reference>(Hist. de Lang. t. II, pr.)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Ecclesia Sanctæ-Mariæ,</i> <date>1276</date> <reference>(arch. départ. G. 277)</reference>.</forme_ancienne>
     <commentaire>
@@ -26993,7 +26993,7 @@
   </article>
   <article id="DT30-04804" pg="155">
     <vedette><sm>Notre-Dame-de-Vie,</sm></vedette>
-    <definition><typologie>chapelle</typologie> dans <localisation>Beaucaire</localisation>, rue de la <localisation>Condamine</localisation>.</definition>
+    <definition><typologie>chapelle</typologie> dans <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>, rue de la <localisation>Condamine</localisation>.</definition>
     <forme_ancienne>— <i>Beata-Maria de Via,</i> <date>1595</date> <reference>(Forton, <i>Nouv. Rech. hist. sur Beaucaire</i>)</reference>.</forme_ancienne>
     <commentaire>
       <p>Elle fut démolie en <date>1774</date>, et reconstruite presque sur le même emplacement (J.-V. Donat, <i>Documents hist. pour servir à l'histoire de Beaucaire</i>).</p>
@@ -27024,7 +27024,7 @@
   </article>
   <article id="DT30-04807" pg="155">
     <vedette><sm>Notre-Dame-du-Sablon,</sm></vedette>
-    <definition><typologie>église</typologie> dans <localisation>Aiguesmortes</localisation>.</definition>
+    <definition><typologie>église</typologie> dans <localisation><commune insee="30003" precision="certain">Aiguesmortes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Beata-Maria de Sabulo,</i> <date>1183</date> <reference>(cart. de Psalm.)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1592</date> <reference>(ins. eccl. du dioc. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Notre-Dame du Sablon,</i> <date>1703</date> <reference>(arch. départ. C. 932)</reference>.</forme_ancienne>
@@ -28869,7 +28869,7 @@
   </article>
   <article id="DT30-05174" pg="164">
     <vedette><sm>Pilles-Près,</sm></vedette>
-    <definition><typologie>source</typologie>, plus voisine de <localisation>Vauvert</localisation> que la précédente.</definition>
+    <definition><typologie>source</typologie>, plus voisine de <localisation><commune insee="30341" precision="approximatif">Vauvert</commune></localisation> que la précédente.</definition>
   </article>
   <article id="DT30-05175" pg="164">
     <vedette><sm>Pilot,</sm></vedette>
@@ -30276,7 +30276,7 @@
   </article>
   <article id="DT30-05430" pg="172">
     <vedette><sm>Prairie (La),</sm></vedette>
-    <definition><localisation>faubourg d'Alais</localisation>.</definition>
+    <definition><localisation>faubourg d'<commune insee="30007" precision="certain">Alais</commune></localisation>.</definition>
     <forme_ancienne>— <i>Les Jardinz,</i> <date>1789</date> <reference>(carte des États)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-05431" pg="172">
@@ -30316,7 +30316,7 @@
   </article>
   <article id="DT30-05438" pg="172">
     <vedette><sm>Prêcheurs (Les),</sm></vedette>
-    <definition><typologie>monastère de dominicains, aujourd'hui détruit</typologie>, qui a donné son nom à un <localisation>faubourg de Nimes</localisation>.</definition>
+    <definition><typologie>monastère de dominicains, aujourd'hui détruit</typologie>, qui a donné son nom à un <localisation>faubourg de <commune insee="30189" precision="certain">Nimes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Conventus Fratrum Predicatorum Nemausi,</i> <date>1263</date> <reference>(Mén. I, notes, p. 102, c. 1)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Burgus Predicatorum ; Perpresia Predicatorum extra urbem ; Perpresia sive doga Predicatorum,</i> <date>1380</date> <reference>(comp. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Les Prezicadous,</i> <date>1608</date> <reference>(Ménard, VII, p. 737)</reference>.</forme_ancienne>
@@ -30684,7 +30684,7 @@
   </article>
   <article id="DT30-05508" pg="173">
     <vedette><sm>Puech-Crémat,</sm></vedette>
-    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du Nimes romain</localisation>.</definition>
+    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du <commune insee="30189" precision="certain">Nimes</commune> romain</localisation>.</definition>
     <forme_ancienne>— <i>Podium-Crematum,</i> <date>1380</date> <reference>(comp. de Nimes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Cremat,</i> <date>1479</date> <reference>(la Taula del Poss. de Nismes)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Le Crémat,</i> <date>1547</date> <reference>(arch. départ. C. 1679)</reference>.</forme_ancienne>
@@ -30818,7 +30818,7 @@
   </article>
   <article id="DT30-05530" pg="174">
     <vedette><sm>Puech-Ferrier,</sm></vedette>
-    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du Nimes romain</localisation>.</definition>
+    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du <commune insee="30189" precision="certain">Nimes</commune> romain</localisation>.</definition>
     <forme_ancienne>— <i>Podium Ferrarium,</i> <date>1144</date> <reference>(Mén. I, pr. p. 32, c. 1)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1185</date> <reference>(Mén. I, pr. p. 40, c. 2)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1195</date> <reference>(Mén. I, pr. p. 41, c. 2)</reference>.</forme_ancienne>
@@ -30859,7 +30859,7 @@
   </article>
   <article id="DT30-05536" pg="174">
     <vedette><sm>Puech-Jésiou,</sm></vedette>
-    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du Nimes romain</localisation>.</definition>
+    <definition>l'<typologie>une des sept collines</typologie> enfermées dans l'<localisation>enceinte du <commune insee="30189" precision="certain">Nimes</commune> romain</localisation>.</definition>
     <forme_ancienne>— <i>Poium Judaïcum,</i> <date>1030</date> <reference>(cart. de N.-D. de Nimes, ch. 33)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1055</date> <reference>(Mén. I, pr. p. 22, c. 2)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Podium Judeum,</i> <date>1380</date> <reference>(compoix de Nimes)</reference>.</forme_ancienne>
@@ -31250,7 +31250,7 @@
   </article>
   <article id="DT30-05601" pg="177">
     <vedette><sm>Quatre-Capelans (Les),</sm></vedette>
-    <definition><typologie>chapitre collégial</typologie> composé de quatre prêtres, fondé dans l'<localisation>église de Vauvert</localisation> par le cardinal d'Albanie en <date>1379</date>.</definition>
+    <definition><typologie>chapitre collégial</typologie> composé de quatre prêtres, fondé dans l'<localisation>église de <commune insee="30341" precision="certain">Vauvert</commune></localisation> par le cardinal d'Albanie en <date>1379</date>.</definition>
   </article>
   <article id="DT30-05602" pg="177">
     <vedette><sm>Quatre-Chevaliers (Chapelle des),</sm></vedette>
@@ -31740,7 +31740,7 @@
   </article>
   <article id="DT30-05692" pg="180">
     <vedette><sm>Récollets (Les),</sm></vedette>
-    <definition><typologie>ancien couvent</typologie>, <localisation>hors des murs de Bagnols</localisation>.</definition>
+    <definition><typologie>ancien couvent</typologie>, <localisation>hors des murs de <commune insee="30028" precision="approximatif">Bagnols</commune></localisation>.</definition>
   </article>
   <article id="DT30-05693" pg="180">
     <vedette><sm>Reculan,</sm></vedette>
@@ -32220,7 +32220,7 @@
   </article>
   <article id="DT30-05771" pg="183">
     <vedette><sm>Ribière,</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-05772" pg="183">
     <vedette><sm>Ribière,</sm></vedette>
@@ -32544,7 +32544,7 @@
   </article>
   <article id="DT30-05832" pg="185">
     <vedette><sm>Rochebelle,</sm></vedette>
-    <definition><typologie>hameau</typologie> devenu <localisation>faubourg d'Alais</localisation>.</definition>
+    <definition><typologie>hameau</typologie> devenu <localisation>faubourg d'<commune insee="30007" precision="certain">Alais</commune></localisation>.</definition>
   </article>
   <article id="DT30-05833" pg="185">
     <vedette><sm>Rochebelle,</sm></vedette>
@@ -33309,7 +33309,7 @@
   </article>
   <article id="DT30-05961" pg="190">
     <vedette><sm>Roumanès,</sm></vedette>
-    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de Montfrin</localisation>.</definition>
+    <definition>nom d'une <typologie>section</typologie> du <localisation>cadastre de <commune insee="30179" precision="approximatif">Montfrin</commune></localisation>.</definition>
   </article>
   <article id="DT30-05962" pg="190">
     <vedette><sm>Rounious,</sm></vedette>
@@ -34108,7 +34108,7 @@
   </article>
   <article id="DT30-06083" pg="196">
     <vedette><sm>Saint-Baudile,</sm></vedette>
-    <definition><typologie>monastère ruiné</typologie>, en <localisation>hors des murs de Nimes</localisation>.</definition>
+    <definition><typologie>monastère ruiné</typologie>, en <localisation>hors des murs de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanctus-Baudilius, cellula,</i> <date>817</date> <reference>(D. Bouquet, <i>Histor. de Fr.</i> dipl. de Louis le Déb.)</reference> ;</forme_ancienne>
     <forme_ancienne><date>956</date> <reference>(Lay. du Tr. des ch. t. I, p. 14)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Baudilius,</i> <date>995</date> <reference>(cart. de N.-D. de Nimes, ch. 2)</reference> ;</forme_ancienne>
@@ -34306,7 +34306,7 @@
   </article>
   <article id="DT30-06102" pg="198">
     <vedette><sm>Saint-Celse-et-Saint-Nazaire,</sm></vedette>
-    <definition><typologie>ancienne église paroissiale</typologie> de <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>ancienne église paroissiale</typologie> de <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia Sancti-Nazarii,</i> <date>1102</date> <reference>(Hist. de Lang. II, pr.)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1276</date> <reference>(arch. départ. G. 276)</reference>. — <reference>(Forton, <i>Nouvelles Recherches historiques sur Beaucaire</i>)</reference>.</forme_ancienne>
     <commentaire>
@@ -34688,7 +34688,7 @@
   </article>
   <article id="DT30-06139" pg="202">
     <vedette><sm>Sainte-Claire,</sm></vedette>
-    <definition><typologie>monastère de femmes</typologie>, <localisation>hors des murs de Nimes</localisation>, non loin de la porte Saint-Antoine, sur l'emplacement actuel de l'hôpital général.</definition>
+    <definition><typologie>monastère de femmes</typologie>, <localisation>hors des murs de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, non loin de la porte Saint-Antoine, sur l'emplacement actuel de l'hôpital général.</definition>
     <forme_ancienne>— <i>Domus Sanctæ-Claræ,</i> <date>1240</date> <reference>(Gall. Christ. t. VI, p. 480 ; Ménard, I, p. 312)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Perpresia Sanctæ-Claræ,</i> <date>1380</date> <reference>(comp. de Nimes)</reference>.</forme_ancienne>
   </article>
@@ -34772,7 +34772,7 @@
   </article>
   <article id="DT30-06151" pg="202">
     <vedette><sm>Sainte-Élisabeth,</sm></vedette>
-    <definition><typologie>chapelle, aujourd'hui détruite</typologie>, à <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>chapelle, aujourd'hui détruite</typologie>, à <localisation><commune insee="30032" precision="certain">Beaucaire</commune></localisation>.</definition>
     <commentaire>
       <p>— Elle existait dans le cloître des Cordeliers de Beaucaire, dont la chapelle est à présent l'église paroissiale de Saint-Paul ; elle était adossée à l'église de ce monastère (Forton, <i>Nouv. Rech. hist. sur Beaucaire,</i> p. 394).</p>
     </commentaire>
@@ -34878,7 +34878,7 @@
   </article>
   <article id="DT30-06164" pg="203">
     <vedette><sm>Sainte-Pasque,</sm></vedette>
-    <definition><typologie>église entièrement disparue aujourd'hui</typologie>, à <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>église entièrement disparue aujourd'hui</typologie>, à <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <commentaire>
       <p>Elle était située près de Notre-Dame-des-Pommiers.</p>
     </commentaire>
@@ -34908,7 +34908,7 @@
   </article>
   <article id="DT30-06167" pg="203">
     <vedette><sm>Saint-Esprit,</sm></vedette>
-    <definition><typologie>chapelle de confrérie</typologie>, à <localisation>Beaucaire</localisation>, sur la place de l'<localisation>église paroissiale de Notre-Dame-des-Pommiers</localisation>.</definition>
+    <definition><typologie>chapelle de confrérie</typologie>, à <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>, sur la place de l'<localisation>église paroissiale de Notre-Dame-des-Pommiers</localisation>.</definition>
     <commentaire>
       <p>Elle appartenait à l'œuvre du Mont-de-piété. Le bureau de cette œuvre, détruite par la Révolution et rétablie en <date>1820</date>, tenait ses séances dans une salle située au-dessus de cette chapelle (Forton, <i>Nouv. Rech. hist. sur Beaucaire,</i> p. 397).</p>
     </commentaire>
@@ -34920,7 +34920,7 @@
   </article>
   <article id="DT30-06169" pg="203">
     <vedette><sm>Saint-Étienne,</sm></vedette>
-    <definition><typologie>église paroissiale</typologie>, à <localisation>Anduze</localisation>.</definition>
+    <definition><typologie>église paroissiale</typologie>, à <localisation><commune insee="30010" precision="approximatif">Anduze</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia Sancti-Stephani, qui est fundatus juxta castro <pg>204</pg>Andusie, ad ipso Mercato,</i> <date>927</date> <reference>(Mén. I, pr. p. 20, c. 1)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-06170" pg="204">
@@ -35514,7 +35514,7 @@
   </article>
   <article id="DT30-06226" pg="210">
     <vedette><sm>Saint-Jacques,</sm></vedette>
-    <definition><typologie>église, aujourd'hui détruite</typologie>, dans <localisation>Saint-Gilles</localisation> <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
+    <definition><typologie>église, aujourd'hui détruite</typologie>, dans <localisation><commune insee="30258" precision="approximatif">Saint-Gilles</commune></localisation> <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
   </article>
   <article id="DT30-06227" pg="210">
     <vedette><sm>Saint-Jacques,</sm></vedette>
@@ -35616,7 +35616,7 @@
   </article>
   <article id="DT30-06240" pg="211">
     <vedette><sm>Saint-Jean-de-Jérusalem,</sm></vedette>
-    <definition><typologie>église entièrement détruite aujourd'hui</typologie>, <localisation>hors des murs de Nimes</localisation>, au midi de la ville.</definition>
+    <definition><typologie>église entièrement détruite aujourd'hui</typologie>, <localisation>hors des murs de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, au midi de la ville.</definition>
     <forme_ancienne>— <i>Domus hospitalis Sancti-Johannis Jerosolimitani, apud Nemausum,</i> <date>1298</date> <reference>(A. Germain, <i>Hist. du commerce de Montp.</i> t. I, p. 326)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Saint-Jean-de-Jérusalem,</i> <date>1311</date> <reference>(Ménard, I, p. 466)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Puits de Saint-Jean ; Jardins de Saint-Jean,</i> <date>1671</date> <reference>(compoix de Nimes)</reference>.</forme_ancienne>
@@ -35787,7 +35787,7 @@
   </article>
   <article id="DT30-06255" pg="213">
     <vedette><sm>Saint-Jean-l'Évangéliste,</sm></vedette>
-    <definition><typologie>église ruinée</typologie>, dans <localisation>Saint-Gilles</localisation>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
+    <definition><typologie>église ruinée</typologie>, dans <localisation><commune insee="30258" precision="approximatif">Saint-Gilles</commune></localisation>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
   </article>
   <article id="DT30-06256" pg="213">
     <vedette><sm>Saint-Joseph,</sm></vedette>
@@ -35842,7 +35842,7 @@
   </article>
   <article id="DT30-06263" pg="213">
     <vedette><sm>Saint-Julien,</sm></vedette>
-    <definition><typologie>église</typologie> dans l'<localisation>enceinte d'Uzès</localisation>.</definition>
+    <definition><typologie>église</typologie> dans l'<localisation>enceinte d'<commune insee="30334" precision="certain">Uzès</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia Sancti-Juliani,</i> <date>897</date> <reference>(Gall. Christ. t. VI, instr. col. 654)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Abbatia Sancti-Juliani,</i> <date>1156</date> <reference>(Hist. de Lang. II, pr. col. 561)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Prioratus Sancti-Juliani Uceciæ,</i> <date>1488</date> <reference>(Sauv. André, not. d'Uzès)</reference>.</forme_ancienne>
@@ -35960,7 +35960,7 @@
   </article>
   <article id="DT30-06272" pg="214">
     <vedette><sm>Saint-Laurent,</sm></vedette>
-    <definition><typologie>église paroissiale</typologie> dans <localisation>Saint-Gilles</localisation>, <pg>215</pg>entièrement ruinée aujourd'hui. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
+    <definition><typologie>église paroissiale</typologie> dans <localisation><commune insee="30258" precision="approximatif">Saint-Gilles</commune></localisation>, <pg>215</pg>entièrement ruinée aujourd'hui. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
     <commentaire>
       <p>L'emplacement de cette église porte le nom de <i>Planet-de-Saint-Laurent.</i></p>
     </commentaire>
@@ -36105,7 +36105,7 @@
   </article>
   <article id="DT30-06286" pg="216">
     <vedette><sm>Saint-Lazare,</sm></vedette>
-    <definition><typologie>église ruinée</typologie>, <localisation>hors des murs de Beaucaire</localisation>.</definition>
+    <definition><typologie>église ruinée</typologie>, <localisation>hors des murs de <commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <commentaire>
       <p>Le prieuré de Saint-Lazare dépendait du prieuré des SS. Nazaire et Celse, de Beaucaire (Forton, <i>Nouv. Rech. hist. sur Beaucaire,</i> p. 370).</p>
     </commentaire>
@@ -36256,7 +36256,7 @@
   </article>
   <article id="DT30-06305" pg="217">
     <vedette><sm>Saint-Martin,</sm></vedette>
-    <definition><typologie>église détruite</typologie> à <localisation>Saint-Gilles</localisation>.</definition>
+    <definition><typologie>église détruite</typologie> à <localisation><commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanctus-Martinus apud Sanctum-Egidium,</i> <date>1150</date> <reference>(Lay. du Tr. des ch. t. I, p. 60)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>L'église Saint-Martin,</i> <date>1549</date> <reference>(arch. départ. c. 774)</reference> ;</forme_ancienne>
     <forme_ancienne><date>1736</date> <reference>(insin. ecclés. du diocèse de Nimes)</reference>. — <reference>(Rivoire, <i>Statist. du Gard,</i> II, p. 595)</reference>.</forme_ancienne>
@@ -36627,7 +36627,7 @@
   </article>
   <article id="DT30-06344" pg="221">
     <vedette><sm>Saint-Nazaire,</sm></vedette>
-    <definition><typologie>église</typologie> à <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>église</typologie> à <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <commentaire>
       <p><renvoi>— Voy. <sm>Saint-Celse-et-Saint-Nazaire.</sm></renvoi></p>
     </commentaire>
@@ -36651,7 +36651,7 @@
   </article>
   <article id="DT30-06346" pg="221">
     <vedette><sm>Saint-Nicolas,</sm></vedette>
-    <definition><typologie>église détruite</typologie> dans <localisation>Saint-Gilles</localisation>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
+    <definition><typologie>église détruite</typologie> dans <localisation><commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</definition>
   </article>
   <article id="DT30-06347" pg="221">
     <vedette><sm>Saint-Nicolas-de-Campagnac,</sm></vedette>
@@ -36704,7 +36704,7 @@
   </article>
   <article id="DT30-06353" pg="222">
     <vedette><sm>Saint-Paul,</sm></vedette>
-    <definition><typologie>église paroissiale</typologie> à <localisation>Beaucaire</localisation>.</definition>
+    <definition><typologie>église paroissiale</typologie> à <localisation><commune insee="30032" precision="approximatif">Beaucaire</commune></localisation>.</definition>
     <commentaire>
       <p>C'est l'ancienne chapelle des Cordeliers : de là vient qu'on l'appelle aussi <i>Saint-François.</i> — (Forton, <i>Nouv. Rech. hist. sur Beaucaire.</i>)</p>
     </commentaire>
@@ -36803,7 +36803,7 @@
   </article>
   <article id="DT30-06364" pg="223">
     <vedette><sm>Saint-Pierre,</sm></vedette>
-    <definition><typologie>église, aujourd'hui détruite</typologie>, dans <localisation>Saint-Gilles</localisation>.</definition>
+    <definition><typologie>église, aujourd'hui détruite</typologie>, dans <localisation><commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>.</definition>
     <forme_ancienne>— <i>Sanctus-Petrus de Pulchro-Loco,</i> <date>1211</date> <reference>(Lay. du Tr. des ch. t. I, p. 288)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Sanctus-Petrus de Via-Sacra,</i> <date>1538</date> <reference>(Gall. Christ. t. VI, instr. col. 306)</reference>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</forme_ancienne>
     <commentaire>
@@ -36954,7 +36954,7 @@
   </article>
   <article id="DT30-06382" pg="224">
     <vedette><sm>Saint-Pons,</sm></vedette>
-    <definition><typologie>église paroissiale</typologie> dans <localisation>Villeneuve-lez-Avignon</localisation>. — <reference>(Arch. départ. C. 1352)</reference>.</definition>
+    <definition><typologie>église paroissiale</typologie> dans <localisation><commune insee="30351" precision="approximatif">Villeneuve-lez-Avignon</commune></localisation>. — <reference>(Arch. départ. C. 1352)</reference>.</definition>
     <commentaire>
       <p>C'était une des 17 paroisses que l'évêché d'Avignon possédait en Languedoc.</p>
     </commentaire>
@@ -37007,7 +37007,7 @@
   <article id="DT30-06388" pg="225">
     <pg>225</pg>
     <vedette><sm>Saint-Privat,</sm></vedette>
-    <definition><typologie>église détruite</typologie>, dans <localisation>Saint-Gilles</localisation>.</definition>
+    <definition><typologie>église détruite</typologie>, dans <localisation><commune insee="30258" precision="certain">Saint-Gilles</commune></localisation>.</definition>
     <forme_ancienne>— <i>Ecclesia Sancti-Privati, infra muros veteres oppidi Sancti-Egidii sita,</i> <date>1538</date> <reference>(Gall. Christ. t. VI, instr. col. 206)</reference>. — <reference>(Rivoire, <i>Statist. du Gard,</i> t. II, p. 595)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-06389" pg="225">
@@ -37244,7 +37244,7 @@
   </article>
   <article id="DT30-06413" pg="227">
     <vedette><sm>Saint-Sauveur-de-la-Font,</sm></vedette>
-    <definition><typologie>abbaye de bénédictines</typologie>, <localisation>hors des murs de Nimes</localisation>.</definition>
+    <definition><typologie>abbaye de bénédictines</typologie>, <localisation>hors des murs de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>.</definition>
     <forme_ancienne>— <i>Monasterium Sancti-Salvatoris de Fonte,</i> <date>1141</date> <reference>(Hist. de Lang. II, pr. col. 11)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Monasterium Sancti-Salvatoris,</i> <date>1149</date> <reference>(Ménard, VII, p. 719)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Monasterium Sancti-Salvatoris de Fonte, infra muros ipsius civitatis,</i> <date>1156</date> <reference>(cart. de N.-D. de Nimes, ch. 84)</reference> ;</forme_ancienne>
@@ -40260,7 +40260,7 @@
   </article>
   <article id="DT30-06900" pg="246">
     <vedette><sm>Tour Banastière (La),</sm></vedette>
-    <definition>l'<typologie>une des tours</typologie> de l'<localisation>enceinte fortifiée de Remoulins</localisation>.</definition>
+    <definition>l'<typologie>une des tours</typologie> de l'<localisation>enceinte fortifiée de <commune insee="30212" precision="certain">Remoulins</commune></localisation>.</definition>
     <forme_ancienne>— <i>Turris Banasteria, supra Gardonem,</i> <date>1356</date> <reference>(arch. commun. de Remoulins)</reference>. — <reference>(Gr. Charvet, <i>Topogr. de Remoulins</i>)</reference>.</forme_ancienne>
   </article>
   <article id="DT30-06901" pg="246">
@@ -40654,7 +40654,7 @@
   </article>
   <article id="DT30-06977" pg="248">
     <vedette><sm>Tres-Fonts (Les)</sm> ou <sm>Tresfons,</sm></vedette>
-    <definition><typologie>source et chapelle détruite</typologie>, <localisation>sous les murs de Nimes</localisation>, lieu du martyre de saint Baudile.</definition>
+    <definition><typologie>source et chapelle détruite</typologie>, <localisation>sous les murs de <commune insee="30189" precision="approximatif">Nimes</commune></localisation>, lieu du martyre de saint Baudile.</definition>
     <forme_ancienne>— <i>B. de Tribus-Fontibus,</i> <date>1345</date> <reference>(cart. de la seign. d'Alais, f° 34)</reference>.</forme_ancienne>
     <forme_ancienne>— <i>Les Trois-Fonts,</i> <date>1548</date> <reference>(arch. départ. C. 1770)</reference>.</forme_ancienne>
   </article>
