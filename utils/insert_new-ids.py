@@ -9,7 +9,7 @@ start_time = time.time()
 
 dt_id = sys.argv[1]
 dt_dir = '../data/'+dt_id+'/'
-dt_file_path = dt_dir+'/output6.xml'
+dt_file_path = dt_dir+'/output7.xml'
 dt_ids_path  = dt_dir+'IDS_MAP.tsv'
 
 new_ids_dict = {}
