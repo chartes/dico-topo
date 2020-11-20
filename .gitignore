@@ -4,3 +4,4 @@ dt2ghs.xsl
 app/
 docs/
 utils/out/
+*IDS_MAP.tsv

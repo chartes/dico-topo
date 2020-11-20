@@ -48,7 +48,11 @@
   <define name="article.atts">
     <a:documentation>Attributs attachés à un article</a:documentation>
     <attribute name="id">
-      <a:documentation>Identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000</a:documentation>
+      <a:documentation>Identifiant de l’article attribué par l’application, formé du préfixe "P", suivi d’un nombre unique à 7 chiffres, suivi d’un chiffre de contrôle : P{0000000}{0}.</a:documentation>
+      <data type="ID"/>
+    </attribute>
+    <attribute name="old-id">
+      <a:documentation>Ancien identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000.</a:documentation>
       <data type="ID"/>
     </attribute>
     <attribute name="pg">

@@ -9,7 +9,7 @@ start_time = time.time()
 
 dt_id = sys.argv[1]
 dt_dir = '../data/'+dt_id+'/'
-dt_file_path = dt_dir+'/output7.xml'
+dt_file_path = dt_dir+'/output6.xml'
 dt_ids_path  = dt_dir+'IDS_MAP.tsv'
 
 new_ids_dict = {}
@@ -36,7 +36,7 @@ for line in inFile:
         """
         line = line.replace(
             'id="{}"'.format(old_id),
-            'id="{}" old_id="{}"'.format(new_ids_dict[old_id], old_id))
+            'id="{}" old-id="{}"'.format(new_ids_dict[old_id], old_id))
     #print(line)
     outFile.write(line)
     
