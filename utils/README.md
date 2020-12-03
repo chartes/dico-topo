@@ -1,18 +1,27 @@
-# Enrichissement des données
+Enrichissement des données
+===
 
-## Fichiers utilisés pour l'enrichissement des données
-* Recup_ville.xsl permet de récupérer leurs identifiants, le nom des communes, leurs cantons
-* Matchscript.py permet de trouver des communes à la suite d'une comparaison sur les substring
-* Injection_attr_commune.xsl ajoute l'attribut type dans la balise article
-* Injection_INSEE.xsl ajoute la balise INSEE et son code
-* add_commune.py permet d'ajouter les balises communes sur les différents noms de commune. Il fournit la liste des balises localisations qui ne corresponde pas à certaines valeurs.
-* add_Insee_Commune.py ajoute l'attribut INSEE et son code dans les balises communes. Il nous fournit un fichier csv avec les échecs.
-* Update_Commune_INSEE.py utilise le tableau de correction pour ajouter les balises communes dans les balises localisations du fichier XML
-* Update_INSEE_Code.py rajoute les codes INSEE dans les balises communes qui n'ont pas matchs
+Procédure d’insertion des codes communes pour les communes de localisation citées dans la définition des articles.
 
+## Scripts utiles
+
+### Identification des articles de type commune dans les fichiers livrés
+- `Recup_ville.xsl` pour un DT en entrée, liste dans un tableau les articles candidats de type commune.
+- `Matchscript.py` permet de trouver des communes à la suite d'une comparaison sur les substring
+- `Injection_attr_commune.xsl` ajoute l'attribut type dans la balise article
+- `Injection_INSEE.xsl` ajoute la balise INSEE et son code
+
+### Balisage des communes citées en définition des articles
+- `add_commune.py` permet d'ajouter les balises communes sur les différents noms de commune. Il fournit la liste des balises localisations qui ne corresponde pas à certaines valeurs.
+- `add_Insee_Commune.py` ajoute l'attribut INSEE et son code dans les balises communes. Il nous fournit un fichier csv avec les échecs.
+- `Update_Commune_INSEE.py` utilise le tableau de correction pour ajouter les balises communes dans les balises localisations du fichier XML
+- `Update_INSEE_Code.py` rajoute les codes INSEE dans les balises communes qui n'ont pas matchs
+
+### Injection des nouveaux ids (attribués par l’application)
+- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
 
 ## Procédure d'enrichissement du code INSEE des communes
-- Extraction des noms des communes avec le fichier Recup_ville.xsl
+- Extraction des noms des communes avec le fichier `Recup_ville.xsl`
 - Nettoyage de cette première liste sur le logiciel Dataiku
 - Normalisation de la liste pour comparaison des chaînes de caractère sur le logiciel Dataiku
 - Première comparaison en *exact match* avec le nom des communes INSEE 2011 sur le logiciel Dataiku
@@ -46,12 +55,13 @@ Il existe deux scripts de contrôle :
 ####Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
 
 1. Ajout du fichier CSV DT73 des communes extraites depuis le fichier DT73.xml 
-2. Mise en ordres des données avec suppression des espaces vides, alignement des cases et création d'une colonne qui contient une version normalisée de la commune
-3. Ajout du fichier des communes 2011 avec le code INSEE, suppression des communes qui ne sont pas du département, nettoyage des colonnes et normalisation du nom des communes
-4. Fusion des deux jeux de données en fonction des noms normalisés et ajout d'une colonne contenant le code INSEE et du nom normalisé dans le fichier DT73 
-5. Séparation en deux du fichier obtenu avec d'un côté les communes avec un code INSEE et ceux vide de l'autre
-6. Extraction des communes sans code INSEE dans un fichier CSV qui grâce est utilisé par le fichier Matchscript.py pour trouver de nouvelle correspondance. Le script nous fournit un fichier csv
-7. Le fichier csv est réutilisé dans dataiku pour un fuzzyjoin avec le fichier des communes de 2011 nettoyé et obtention du dernier fichier. 
-8. Création du fichier de correction DT73.ods avec l'ajout d'un niveau de risque. High pour ceux issue de la première fusion, Medium pour ceux de la deuxième et de Low pour la troisième.
+1. Mise en ordres des données avec suppression des espaces vides, alignement des cases et création d'une colonne qui contient une version normalisée de la commune
+1. Ajout du fichier des communes 2011 avec le code INSEE, suppression des communes qui ne sont pas du département, nettoyage des colonnes et normalisation du nom des communes
+1. Fusion des deux jeux de données en fonction des noms normalisés et ajout d'une colonne contenant le code INSEE et du nom normalisé dans le fichier DT73 
+1. Séparation en deux du fichier obtenu avec d'un côté les communes avec un code INSEE et ceux vide de l'autre
+1. Extraction des communes sans code INSEE dans un fichier CSV qui grâce est utilisé par le fichier Matchscript.py pour trouver de nouvelle correspondance. Le script nous fournit un fichier csv
+1. Le fichier csv est réutilisé dans dataiku pour un fuzzyjoin avec le fichier des communes de 2011 nettoyé et obtention du dernier fichier. 
+1. Création du fichier de correction DT73.ods avec l'ajout d'un niveau de risque. High pour ceux issue de la première fusion, Medium pour ceux de la deuxième et de Low pour la troisième.
 
 L'ensemble de la procédure est la même pour chaque département. Il suffit à chaque fois de copier la procédure et de mettre le numéro du département correspondant. 
+
