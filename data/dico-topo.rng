@@ -48,7 +48,11 @@
   <define name="article.atts">
     <a:documentation>Attributs attachés à un article</a:documentation>
     <attribute name="id">
-      <a:documentation>Identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000</a:documentation>
+      <a:documentation>Identifiant de l’article attribué par l’application, formé du préfixe "P", suivi d’un nombre unique à 7 chiffres, suivi d’un chiffre de contrôle : P{0000000}{0}.</a:documentation>
+      <data type="ID"/>
+    </attribute>
+    <attribute name="old-id">
+      <a:documentation>Ancien identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000.</a:documentation>
       <data type="ID"/>
     </attribute>
     <attribute name="pg">
@@ -120,16 +124,15 @@
         <a:documentation>Code INSEE de la commune dans laquelle se trouve le toponyme</a:documentation>
         <data type="integer"/>
       </attribute>
-      <optional>
-        <attribute name="precision">
-          <choice>
-            <value>certain</value>
-            <a:documentation>certain : le lieu est localisé dans la commune</a:documentation>
-            <value>approximatif</value>
-            <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune</a:documentation>
-          </choice>
-        </attribute>
-      </optional>
+      <attribute name="precision">
+        <a:documentation>Type de la relation entre le lieu et la commune de localisation</a:documentation>
+        <choice>
+          <value>certain</value>
+          <a:documentation>certain : le lieu est localisé dans la commune (broaderPartitive : http://vocab.getty.edu/ontology#anchor-28390563)</a:documentation>
+          <value>approximatif</value>
+          <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune (tgn3000_related_to)</a:documentation>
+        </choice>
+      </attribute>
       <text/>
     </element>
   </define>
@@ -143,7 +146,7 @@
           <ref name="flow"/>
           <ref name="date"/>
           <ref name="reference"/>
-          <ref name="note"/>
+          <!--<ref name="note"/>-->
           <ref name="renvoi"/>
         </choice>
       </oneOrMore>
@@ -177,6 +180,8 @@
           <ref name="flow"/>
           <ref name="date"/><!-- certaines dates sont balisées dans les commentaires (on ne les exploite pas) -->
           <ref name="renvoi"/>
+          <ref name="reference"/><!-- quelques références bibliographiques à conserver -->
+          <ref name="note"/>
         </choice>
       </oneOrMore>
     </element>
@@ -270,21 +275,23 @@
     </element>
   </define>
   <define name="ads">
-      <a:documentation>"Au-dessus": retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite au-dessus d'une autre). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
-      <text/>
+    <a:documentation>"Au-dessus": retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite au-dessus d'une autre). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+    <text/>
   </define>
   <define name="pti">
-      <a:documentation>"Petit" : retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite de taille plus petite). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
-      <text/>
+    <a:documentation>"Petit" : retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite de taille plus petite). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+    <text/>
     <zeroOrMore>
       <ref name="ads"/>
     </zeroOrMore>
   </define>
   <define name="note">
     <a:documentation>Note de bas de page dans le dictionnaire papier</a:documentation>
-    <oneOrMore>
-      <ref name="p"/>
-    </oneOrMore>
+    <element name="note">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
   </define>
   
   <!-- contrôler, déporter ? -->
