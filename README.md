@@ -1,7 +1,8 @@
 # Dictionnaire topographique de la France comprenant les noms de lieux anciens et modernes
-
+<p float="left">
 <img src="https://dicotopo.cths.fr/img/logo-dicotopo-cut.e1dd69d9.png" alt="logo DicoTopo" height="90"/>
 <img src="https://dicotopo.cths.fr/img/logo-cths-noir.5d1ea869.png" alt="logo CTHS" height="90"/>
+</p>
 
 Le [Dictionnaire topographique de la France](http://cths.fr/dico-topo/index.php) est une entreprise éditoriale et scientifique lancée au XIX<sup>e</sup> siècle, visant à rassembler l’ensemble des noms de lieux anciens et modernes de la France entière.
 
