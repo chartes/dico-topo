@@ -35,6 +35,14 @@
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes dans les balises localisations non-stéréotypé.
 - Un test de la validité des données est fait à chaque étape grâce à « Testscript.py» qui fournit un csv avec les chiffres qui permettent de connaître la qualité de la donnée et nous informe 
 
+## Outils de contrôle
+Il existe deux scripts de contrôle :
+
+- Testscript.py, il s'agit d'un script qui sert à compter et à contrôler les nouvelles données inscrites dans un xml à n'importe quel étape de la procédure pour être sûr qu'il n'y ait pas de code INSEE fautive et qui soit bien du référentielle de 2011, et qu'il n'y ait pas d'autre fautes.
+- TestResultatDT.py, il compare les chaînes de caractères et les modifications entre le DT original livré par Wordpro et le DT final ou à tester. Il permet de contrôler qu'aucune modification n'a altérer le DT de manière négative et que la cohérence est toujours présente.
+- Le dernier fichier se situe dans le dossier data et se nomme _OUTPUT6_VALDATION_PROCEDURE.pdf. Il s'agit d'une procédure à suivre pour être sûr que toutes les vedettes soient grammaticalement juste, qu'il n'y ait pas d'inversion de caractères, qu'il n'y ait pas de localisation mal segmenté
+  
+
 ####Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
 
 1. Ajout du fichier CSV DT73 des communes extraites depuis le fichier DT73.xml 

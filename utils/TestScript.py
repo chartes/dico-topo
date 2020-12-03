@@ -2,8 +2,21 @@ import xml.etree.ElementTree as ET
 from lxml import etree
 import csv
 
-dep = "55"
-tree = etree.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4.xml")
+dep = "89"
+tree = etree.parse("/home/corentin/Bureau/dico-topo/data/DT" + dep + "/output6.xml")
+
+dict_commune = {}
+# création d'un dictionnaire des communes de 2011 pour pouvoir trouver le nom des communes qui datent de 2011 et non celle des DT qui peuvent avoir des noms de communes disparus ou pas forcément bien orthographier
+with open("dicotopo_insee-code.csv") as csvfile:
+    ListcommunesInsee = csv.reader(csvfile, delimiter='\t', quotechar='|')
+    for communeInsee in ListcommunesInsee:
+        dict_commune[communeInsee[0]] = communeInsee[1]
+
+#controle que les codes insee correspondent à celle des années 2011
+for commune in tree.xpath("//localisation/commune/@insee"):
+    if not commune in dict_commune:
+        print(commune)
+
 #compte le nombre d'article dans le fichier xml
 count_article = 0
 for article in tree.xpath("article"):
@@ -43,7 +56,7 @@ for commune in tree.xpath("//localisation/commune/@insee"):
         count_invalideinsee += 1
 
 #Créer un fichier csv avec les différents résultats
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/ResultatTest/DT"+ dep +"_3.csv", "w") as csvfile:
+with open("/home/corentin/Bureau/Data_Linux/Tableau_Correction/ResultatTest/DT"+ dep +"_3.csv", "w") as csvfile:
     ListresultatTest = csv.writer(csvfile)
     ListresultatTest.writerow(["Nombre d'article", "Nombre de commune", "Code INSEE invalide", "Manque attribut type", "Manque balise insee", "Nombre article lié", "Balise commune sans attribut insee," ,"Balise commune avec attribut insee vide", "Attribut insee mal formé", "Pourcentage de réussite"])
     ListresultatTest.writerow([count_article, count_insee, count_leninsee, count_notype, count_noinsee, count_insee+count_commune_insee, count_commune_inseemissing, count_commune_inseeempty, count_invalideinsee, ((count_insee + count_commune_insee)/count_article)*100])
