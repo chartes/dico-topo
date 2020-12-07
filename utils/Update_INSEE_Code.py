@@ -2,10 +2,14 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 #Changer le numéro du département
-dep = "64"
+dep = "54"
+dir_path ="/home/corentink/Bureau/Dicotopo/Tableau_Correction"
+csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-desambiguisation_revuOC.csv"
+xml_in = dir_path + "/DT" + dep + "/output4.xml"
+xml_out = dir_path + "/DT" + dep + + "/output5.xml"
 d = {}
 #Crée un dictionnaire qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune à partir du fichier corriger
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation_revuOC.csv", newline='') as csvfile:
+with open(csv_in, newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter='\t')
     for communeInsee in ListcommunesInsee :
         if communeInsee[4] == "Non" or communeInsee[4] == "NON" or communeInsee[4] == "non":
@@ -16,7 +20,7 @@ with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" 
         else:
             d[communeInsee[0]] = {"".join(communeInsee[3].replace("\n","").split()): communeInsee[4]}
 
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4_2.xml")
+tree= ET.parse(xml_in)
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance
 controleList = []
@@ -85,4 +89,4 @@ for article in xml :
                              #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <div> et </div> dans le fichier final
 
 
-tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output5.xml",encoding="UTF-8",xml_declaration=True)
+tree.write(xml_out,encoding="UTF-8",xml_declaration=True)

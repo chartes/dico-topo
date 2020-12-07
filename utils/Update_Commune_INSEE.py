@@ -2,17 +2,21 @@ import xml.etree.ElementTree as ET
 import csv
 #Variable qui set à déterminer sur quel département on travaille
 dep = "54"
+dir_path ="/home/corentink/Bureau/Dicotopo/Tableau_Correction"
+csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune_OC.csv"
+xml_in = dir_path + "/DT" + dep + "/output3.xml"
+xml_out = dir_path + "/DT" + dep + + "/output4.xml"
 listC = []
 # ! Supprimer la colonne Définition qui peut créer des problèmes au moment de la réinjection des données!
 #Crée une liste qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune et la valeur à corriger si nécessaire
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune_OC.csv", newline='') as csvfile:
+with open(csv_in, newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter='\t', quotechar='|')
     for communeInsee in ListcommunesInsee :
         print(communeInsee)
         if communeInsee[4] != "Non" or communeInsee[4] != "NON":
             listC.append([communeInsee[0],communeInsee[3], communeInsee[2], communeInsee[4]])
 
-tree = ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output3.xml")
+tree = ET.parse(xml_in)
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance
 controleList = []
@@ -37,4 +41,4 @@ for article in xml :
                                     commune.text = CommuneCorrection[3]
 
 
-tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output4.xml",encoding="UTF-8",xml_declaration=True)
+tree.write(xml_out,encoding="UTF-8",xml_declaration=True)

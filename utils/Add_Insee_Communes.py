@@ -3,16 +3,21 @@ import unidecode
 import csv
 
 dep = "5"
+dir_path = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
+xml_entry = dir_path + "DT" + dep + "/output2.xml"
+dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_prepared.csv"
+xml_out = dir_path + "DT" + dep + "/output3.xml"
+tsv_out =  dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune.csv"
 d = {}
  #Crée un dictionnaire qui contient le nom et le code insee pour chaque commune du dictionnaire
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_prepared.csv", newline='') as csvfile:
+with open(dict_commune_2011, newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
     for communeInsee in ListcommunesInsee :
         #Supprime les accents pour s'assurer de la cohérence car il y a des différences d'accent entre les noms dans les corps de texte et le reste
         nCommune = unidecode.unidecode(communeInsee[1])
         d[nCommune] = communeInsee[2]
 
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output2.xml")
+tree= ET.parse(xml_entry)
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance
 controleList = []
@@ -58,7 +63,7 @@ for article in xml :
 
 
 #Crée le fichier csv des articles et des communes qui n'ont pas trouvé d'équivalent
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT"+dep+"_liageINSEE_localisation-commune.csv", "w") as csvfile:
+with open(tsv_out, "w") as csvfile:
     Listcommunerest= csv.writer(csvfile)
     Listcommunerest.writerow(['Article', 'Vedette', 'Definition', 'Localisation', 'INSEE_corrigé', 'Nom_corrigé','Commentaire'])
     testDefinition= ""
@@ -78,4 +83,4 @@ with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT"+
 print(n)
 print(nb)
 
-tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output3.xml",encoding="UTF-8",xml_declaration=True)
+tree.write(xml_out, encoding="UTF-8",xml_declaration=True)

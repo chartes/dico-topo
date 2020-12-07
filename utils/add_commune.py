@@ -146,10 +146,15 @@ def check_commune (localisation, d, precision):
 
 
 dep = "56"
-
+dir_path = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
+xml_entry = dir_path + "DT" + dep + "/DT" + dep + ".xml"
+dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_prepared.csv"
+xml_out = dir_path + "DT" + dep + "/output2.xml"
+tsv_out =  dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv"
 #Donner l'emplacement du fichier XML du dictionnaire à utiliser pour la recherche
-tree= ET.parse("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"+dep+"/DT"+dep+".xml")
+tree= ET.parse(xml_entry)
 xml = tree.getroot()
+
 #Changer nom variable en indice commune précise
 listOfCommuneIndiceP = ["commune de", "commune du", "ville du", "ville de", "village de"]
 listOfCommunedIndiceP = ["commune d’", "ville d’", "village d’", "près d’","commune d'", "ville d'", "village d'","près d'"]
@@ -165,8 +170,9 @@ test = ""
 typologie = ""
 savevedette = ""
 
+
  #Crée un dictionnaire qui contient le nom et le code insee pour chaque commune du dictionnaire
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT"+dep+"/DT" + dep + "_prepared.csv", newline='') as csvfile:
+with open(dict_commune_2011, newline='') as csvfile:
     ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
     for communeInsee in ListcommunesInsee :
         #Supprime les accents pour s'assurer de la cohérence car il y a des différences d'accent entre les noms dans les corps de texte et le reste
@@ -250,7 +256,7 @@ for article in xml:
 print(n)
 
 #Crée le fichier csv des fichiers localisations dans lequelles on ne peut pas garantir la présence d'une commune
-with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv", "w") as csvfile:
+with open(tsv_out, "w") as csvfile:
     Listcommunerest= csv.writer(csvfile)
     Listcommunerest.writerow(['Article', 'Vedette', 'Type vedette', 'Candidat', 'INSEE', 'Définition'])
     testDefinition= ""
@@ -266,7 +272,7 @@ with open("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/DT" 
             communerest[-1] = PhraseDefinition
             Listcommunerest.writerow(communerest)
 
-tree.write("/home/corentink/Bureau/Dicotopo/Tableau_Correction/DT" + dep + "/output2.xml",encoding="UTF-8",xml_declaration=True)
+tree.write(xml_out,encoding="UTF-8",xml_declaration=True)
 
 
 

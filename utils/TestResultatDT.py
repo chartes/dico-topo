@@ -7,7 +7,7 @@ dep = "89"
 dir_path = "../data/"
 file_in = dir_path+"DT"+dep+"/DT"+dep+".xml"
 file_out = dir_path+"DT"+dep+"/output6.xml"
-file_result = "out/DT"+dep+"_result.csv"
+file_result = "out/@DT"+dep+"_result"
 
 
 tree_original = etree.parse(file_in)
@@ -187,7 +187,7 @@ for article in tree.xpath("//article"):
 
 
 #Créer un fichier csv avec les différents résultats
-with open(file_result, "w") as csvfile:
+with open("{0}.csv".format(file_result), "w") as csvfile:
     ListresultatTest = csv.writer(csvfile)
     ListresultatTest.writerow (["", "DT_input", "DT_output(CF)"])
     ListresultatTest.writerow (["place(article)", count_article_in, count_article_out])

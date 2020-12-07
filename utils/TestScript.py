@@ -3,7 +3,10 @@ from lxml import etree
 import csv
 
 dep = "89"
-tree = etree.parse("/home/corentin/Bureau/dico-topo/data/DT" + dep + "/output6.xml")
+dir_path ="/home/corentin/Bureau/dico-topo/data/DT"
+xml_in = dir_path + dep + "/output6.xml"
+tsv_out = dir_path + dep + "/@result_validation_DT" + dep + ".xml"
+tree = etree.parse(xml_in)
 
 dict_commune = {}
 # création d'un dictionnaire des communes de 2011 pour pouvoir trouver le nom des communes qui datent de 2011 et non celle des DT qui peuvent avoir des noms de communes disparus ou pas forcément bien orthographier
@@ -56,7 +59,7 @@ for commune in tree.xpath("//localisation/commune/@insee"):
         count_invalideinsee += 1
 
 #Créer un fichier csv avec les différents résultats
-with open("/home/corentin/Bureau/Data_Linux/Tableau_Correction/ResultatTest/DT"+ dep +"_3.csv", "w") as csvfile:
+with open(tsv_out, "w") as csvfile:
     ListresultatTest = csv.writer(csvfile)
     ListresultatTest.writerow(["Nombre d'article", "Nombre de commune", "Code INSEE invalide", "Manque attribut type", "Manque balise insee", "Nombre article lié", "Balise commune sans attribut insee," ,"Balise commune avec attribut insee vide", "Attribut insee mal formé", "Pourcentage de réussite"])
     ListresultatTest.writerow([count_article, count_insee, count_leninsee, count_notype, count_noinsee, count_insee+count_commune_insee, count_commune_inseemissing, count_commune_inseeempty, count_invalideinsee, ((count_insee + count_commune_insee)/count_article)*100])
