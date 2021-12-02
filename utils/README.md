@@ -8,8 +8,7 @@ Procédure d’insertion des codes communes pour les communes de localisation ci
 ### Identification des articles de type commune dans les fichiers livrés
 - `Recup_ville.xsl` pour un DT en entrée, il liste dans un tableau les articles candidats de type commune.
 - `Matchscript.py` pour un tableau des articles candidats en entrées et la liste des communes du département de 2011, il fournit deux tableaux de résultat commune/insee possibles `result.csv` et dans un tableau différent le reste des articles communes possibles
-- `Injection_INSEE.xsl` prend en entrée le fichier XML qui continent l'intégralité des articles de type commune avec leur code INSEE et les intégre dans le DT
-- `Injection_attr_commune.xsl` ajoute l'attribut type dans la balise article si l'article contient une balise INSEE comme enfant
+- `Update_article_commune.py` prend en entrée le fichier `DTxx_liageINSEE_article-commune.csv` des articles communes et des codes INSEE corrigés. Il fournit le fichier un fichier XML `DTxx_communeINSEE.xml`
 
 
 ### Balisage des communes citées en définition des articles
@@ -38,10 +37,9 @@ Il existe deux scripts de contrôle :
 - Deuxième comparaison des communes restantes sur les *substring* avec le script `Matchscript.py`
 - Troisième comparaison des communes sans match en fuzzy join sur le logiciel Dataiku
 - Mise en place d'un tableur pour permettre la correction du texte  (Voir la procédure d'enrichissement détaillé sur Dataiku)
-- Correction manuel des communes dont la précision n'est pas High
-- Ajout de la balise INSEE avec son code avec le fichier `Injection_INSEE.xsl`
-- Ajout de l'attribut type avec commune dans la balise article avec le fichier `Injection_attr_commune.xsl`
-- On obtient ainsi le `DT73.xml` avec les articles des communes 
+- Correction manuel des communes dont la précision n'est pas High dans le fichier `DT73_liageINSEE_article-commune.csv`
+- Ajout de la balise INSEE et de l'attribut commune avec `Update_article_commune.py`
+- On obtient ainsi le `DT73_communeINSEE.xml` avec les articles des communes 
 
 
 ## Ajout des balises communes dans les balises localisation
