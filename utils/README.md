@@ -121,45 +121,88 @@ Procédure d’insertion des codes communes :
 
 ### `Update_Commune_INSEE.py`
 
-**Description**. 
+**Description**. Inscrire et renseigner l'attribut `@insee` sur les élements `commune` encore non lié à partir du fichier de corrections des experts. Il corrige aussi certaines erreurs contenues dans l'élément `commune`.
 
 **Input**
 
+- `data/DT{id}/output3.xml`
+- `DT{id}_liageINSEE_localisation-commune.csv` 
+
 **Output**
 
-**Note**. 
+- `data/DT{id}/output4.xml`
 
-
-pour « DTXX_liageINSEE_localisation-commune.csv » et `output3.xml` en entrée, le script ajoute les attributs insee et le code dans les balises communes qui n'ont pu être ajouter automatiquement par `add_Insee_Commune.py` dans un fichier `output4.xml`
+**Note**. Une colonne `Commentaire` est présente dans le fichier `DT{id}_liageINSEE_localisation-commune.csv`. Il comprend des corrections particulières qui doivent être faites à la main dans `data/DT{id}/output4.xml`.
 
 ### `Update_INSEE_Code.py`
 
-**Description**. 
+**Description**. Inscrire les balises `commune` et les attributs `@insee` dans les éléments `localisation` restant qui ne contiennent pas de balises `commune` à partir du tableau de correction fournit par les experts `DT{id}_liageINSEE_localisation-commune.csv`. Il précise la relation entre le lieu et la commune de localisation qui est de manière automatique `@precision='approximatif'`.
 
 **Input**
 
+- `data/DT{id}/output4.xml`
+- `DT{id}_liageINSEE_localisation-commune.csv`
+
 **Output**
+
+- `data/DT{id}/output5.xml`
 
 **Note**. 
 
 
-pour « DTXX_liageINSEE_localisation-commune-desambiguisation.csv »  et `output4.xml` en entrée. Il sort le fichier `output5.xml` en ayant intégré les balises communes et code insee dans certaines des balises localisations restantes
-
 
 ## Injection des nouveaux ids (attribués par l’application)
+  
 - `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
 
 
 ## Contrôles qualité
 
-**Le schéma !!!! – ajouter**
-
 Il existe deux scripts de contrôle :
 
-- `Testscript.py`, prend un fichier xml d'un DT ou un output en entrée et permet à travers un tableau de résultat de contrôler les injections de code insee et que les balises communes respectent les normes décidés aux débuts du projet.
-- `TestResultatDT.py`, prend le DT original livré par Wordpro et l'output à tester en entrée. Il livre deux fichiers en sortie: `@DTXX_result.csv` qui offre une comparaison chiffrer des deux DT et `@DTXX_result_commune.csv` qui permet de controler que les injections n'ont pas cassé de chaîne de caractères et ainsi nous permet de les corriger pour la création de `output6.xml`
-- Le dernier fichier se situe dans le dossier data et se nomme `_OUTPUT6_VALDATION_PROCEDURE.pdf`. Il s'agit d'une procédure à suivre pour être sûr que toutes les vedettes soient grammaticalement juste, qu'il n'y ait pas d'inversion de caractères, qu'il n'y ait pas de localisation mal segmenté
+### `Testscript.py`
 
+**Description**. Contrôle que les attributs `@insee` sur les élements `commune` sont conformes aux normes décidés au début du projet.
+
+**Input**
+- `data/DT{id}/output4.xml` ou `data/DT{id}/output5.xml`
+
+**Output**
+
+- `data/DT{id}/@result_validation_DT{id}.csv` : Liste différentes statistiques et données sur la qualité de nos enrichissement.
+  
+**Note**. 
+Ces résultats servent au suivi de la qualité des données et permettent de réaliser des corrections manuelles en cas de problème. La ligne de résultat doit être reportée dans l'issue 17 sur notre [github](https://github.com/chartes/dico-topo/issues/17). Si il s'agit d'un `data/DT{id}/output4.xml`, il faut mettre en première valeur de la ligne `DT{id}_Etape2` et pour `data/DT{id}/output5.xml`, il faut mettre `DT{id}_Etape3` dans cette première valeur.
+
+### `TestResultatDT.py`
+
+**Description**. 
+
+Compare le fichier souces livré par WordPro et le dernier état de notre travail pour contrôler qu'il n'y ait pas eu d'erreur au cours dans la balise `localisation`.
+
+**Input**
+- `DT{id}`
+- `data/DT{id}/output6.xml` 
+
+**Output**
+- `@DTXX_result.csv`: Il fournit une comparaison chiffrée du DT du départ et de `data/DT{id}/output6.xml`
+- `@DTXX_result_commune.csv` : Il renvoie les chaînes de caractères qui sont différentes entre les deux fichiers pour pouvoir les contrôler et les corriger si des erreurs ont été faites au moment de l'injection des différentes balises `commune`
+
+**Note**. 
+
+### `_OUTPUT6_VALDATION_PROCEDURE.pdf`
+
+**Description**. 
+
+Procédure à suivre pour être sûr que toutes les vedettes soient grammaticalement juste, qu'il n'y ait pas d'inversion de caractères, qu'il n'y ait pas de localisation mal segmenté ou pour s'assurer que l'indentation soit correcte dans `data/DT{id}/output6.xml`.
+
+ 
+
+### `dico-topo.rng`
+
+**Description**
+
+Les `data/DT{id}/output7.xml` doivent appeller le schéma de contrôle [dico-topo.rng](https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng) pour valider la structure du xml après les différentes interventions réalisées à partir de script ou manuellement.
   
 ## Exemple de DT73
 
