@@ -1,35 +1,170 @@
-Enrichissement des données
+LIAGES INSEE (COG 2011), documentation
 ===
 
-Procédure d’insertion des codes communes pour les communes de localisation citées dans la définition des articles.
+## Objectifs
 
-## Scripts utiles
+Procédure d’insertion des codes communes :
 
-### Identification des articles de type commune dans les fichiers livrés
-- `Recup_ville.xsl` pour un DT en entrée, il liste dans un tableau les articles candidats de type commune.
-- `Matchscript.py` pour un tableau des articles candidats en entrées et la liste des communes du département de 2011, il fournit deux tableaux de résultat commune/insee possibles `result.csv` et dans un tableau différent le reste des articles communes possibles
-- `Update_article_commune.py` prend en entrée le fichier `DTxx_liageINSEE_article-commune.csv` des articles communes et des codes INSEE corrigés. Il fournit le fichier un fichier XML `DTxx_communeINSEE.xml`
+1. pour les articles de type commune : ajout de `article/@type='commune'` et de la balise `insee` ;
+1. pour les articles localisés dans une commune : ajout en localisation de `commune/@insee`.
+
+**Output cas 1 (article de type commune)**
+
+```xml
+<article id="DT02-01486" type="commune">
+  <vedette><sm>Clacy,</sm></vedette>
+  <definition><localisation>canton de <commune insee="02408" precision="approximatif">Laon</commune></localisation>.</definition>
+  <forme_ancienne>— <i>Claciacum,</i> <date>1122</date> <reference>(cart. de l’abb. de Saint-Martin de Laon, f° 172, bibl. de Laon)</reference>.</forme_ancienne>
+  <!-- … -->
+  <insee>02196</insee>
+</article>
+```
+
+**Output cas 2 (article localisé dans une commune)**
+
+```xml
+<article id="DT02-00197" pg="13">
+  <vedette><sm>Aulnois,</sm></vedette>
+  <definition><typologie>moulin et ferme</typologie>, <localisation>commune de <commune insee="02196" precision="certain">Clacy</commune></localisation>…</definition>
+  <forme_ancienne>— Molendinum de <i>Alneto,</i> <date>1174</date> <reference>(gr. cart. de l’év. de Laon, ch. 2)</reference>.</forme_ancienne>
+    <!-- … -->
+</article>
+```
 
 
-### Balisage des communes citées en définition des articles
-- `add_commune.py` pour un DT en entrée et un tableau des communes avec leur code INSEE, liste les balises localisations qui ne correspondant pas aux demandes spécifié dans « DTXX_liageINSEE_localisation-commune-desambiguisation.csv » et donne le fichier `output2.xml` avec des balises communes dans certaines balises localisations
-- `add_Insee_Commune.py` pour l'`output2.xml` en entrée, liste les balises communes sans code code insee dans « DTXX_liageINSEE_localisation-commune.csv » et donne le fichier `output3.xml` avec l'attribut insee et son code dans les balises communes
-- `Update_Commune_INSEE.py` pour « DTXX_liageINSEE_localisation-commune.csv » et `output3.xml` en entrée, le script ajoute les attributs insee et le code dans les balises communes qui n'ont pu être ajouter automatiquement par `add_Insee_Commune.py` dans un fichier `output4.xml`
-- `Update_INSEE_Code.py` pour « DTXX_liageINSEE_localisation-commune-desambiguisation.csv »  et `output4.xml` en entrée. Il sort le fichier `output5.xml` en ayant intégré les balises communes et code insee dans certaines des balises localisations restantes
+## Identification et liage des articles de type commune
 
-## Outils de contrôle
+### `Recup_ville.xsl`
+
+**Description**. Pour un DT, repérer les articles de type commune et lister dans un CSV leur vedette et leur canton de localisation.
+
+**Input** : `DT{id}.xml`
+
+**Output** : CSV sur sortie standard. 3 colonnes :
+
+- `ID` : identifiant de l’article (de type commune) – ex. `DT02-00196`
+- `NomCommune` : vedette de l’article – ex. `Aulnois,`
+- `NomCanton` : label du canton de localisation – ex. `canton de Laon` (utile pour désambiguiser l’identification d’une commune)
+
+**Note**. Ce CSV est nettoyé dans Dataiku où le liage INSEE est fait sur `NomCommune` en différentes étapes (voir plus bas).
+
+### `Matchscript.py`
+
+**Description**. Pour les vedettes des articles de type commune non liées dans Dataiku, sortir des tableaux facilitant le liage manuel, selon différents cas.
+
+**Input**
+
+- `listcommune.csv` : liste des communes INSEE du seul département (pour déjouer les homonymies)
+- `Rest_prepared.csv` : liste des vedettes des articles de type commune pour lesquelles le liage a échoué dans Dataiku.
+
+**Output**
+
+- `result2.csv` : vedettes alignées avec des communes dont le nom contient strictement la vedette (*exactMatch*). – plusieurs candidats possibles.
+- `result3.csv` : vedettes alignées avec des communes dont le premier mot du nom est contenu dans la vedette (*exactMatch*). – plusieurs candidats possibles.
+- `rest3.csv`  : les vedettes des articles de type commune toujours non liées (pas de match).
+
+**Note**. `result2.csv` et `result3.csv` sont corrigés manuellement par les experts. `rest3.csv` sera traité dans Dataiku à coups de *fuzzy join*.
+
+
+### `Update_article_commune.py`
+
+**Description**. Inscrire dans le DT{id}.xml les liages INSEE pour les articles de type commune : ajout de `@type='commune'` et de l’élément `insee`.
+
+**Input**
+
+- `DT{id}`
+- `DT{id}_liageINSEE_article-commune.csv` : le liage INSEE validé des vedettes des articles de type commune.
+
+**Output**
+
+- `DT{id}_communeINSEE.xml` : le DT avec le liage INSEE des articles de type commune.
+
+
+## Identification et liage des communes de localisation
+
+### `add_commune.py`
+
+**Description**. Inscrire les balises `commune` pour repérer les noms de commune dans l’élément `localisation`. L’attribut `@precision` précise la relation entre le lieu et la commune de localisation :
+
+- `@precision='certain'` : le lieu est localisé dans la commune
+- `@precision='approximatif'` : le lieu est localisé de manière floue
+
+**Input**
+
+- `DT{id}`
+- `DT{id}_liageINSEE_article-commune.csv`
+
+**Output**
+
+- `data/DT{id}/output2.xml` : le DT avec un premier balisage des communes de localisation
+- `data/DT{id}/DT{id}_liageINSEE_localisation-commune-desambiguisation.csv` : liste des éléments `localisation` restant sans élément `commune`.
+
+**Note**. `DT{id}_liageINSEE_localisation-commune-desambiguisation.csv` est transmis aux experts qui y inscrivent manuellement le liage selon une méthode documentée plus bas.
+
+
+### `add_Insee_Commune.py`
+
+**Description**. Inscrire et renseigner l’attribut `@insee` sur l’élement `commune` de la localisation.
+
+**Input**
+
+- `data/DT{id}/output2.xml`
+- `DT{id}_liageINSEE_article-commune.csv`
+
+**Output**
+
+- `data/DT{id}/output3.xml` : le DT avec un premier liage des communes de localisation (inscription du code INSEE en valeur de `commune/@insee`).
+- `DT{id}_liageINSEE_localisation-commune.csv` : liste des éléments `commune` pour lesquelles le liage INSEE a échoué (impossibilité d’inscrire le code INSEE en valeur de `@insee`)
+
+**Note**. `DT{id}_liageINSEE_localisation-commune.csv` est transmis aux experts qui y inscrivent manuellement le liage selon une méthode documentée plus bas.
+
+
+### `Update_Commune_INSEE.py`
+
+**Description**. 
+
+**Input**
+
+**Output**
+
+**Note**. 
+
+
+pour « DTXX_liageINSEE_localisation-commune.csv » et `output3.xml` en entrée, le script ajoute les attributs insee et le code dans les balises communes qui n'ont pu être ajouter automatiquement par `add_Insee_Commune.py` dans un fichier `output4.xml`
+
+### `Update_INSEE_Code.py`
+
+**Description**. 
+
+**Input**
+
+**Output**
+
+**Note**. 
+
+
+pour « DTXX_liageINSEE_localisation-commune-desambiguisation.csv »  et `output4.xml` en entrée. Il sort le fichier `output5.xml` en ayant intégré les balises communes et code insee dans certaines des balises localisations restantes
+
+
+## Injection des nouveaux ids (attribués par l’application)
+- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
+
+
+## Contrôles qualité
+
+**Le schéma !!!! – ajouter**
+
 Il existe deux scripts de contrôle :
 
 - `Testscript.py`, prend un fichier xml d'un DT ou un output en entrée et permet à travers un tableau de résultat de contrôler les injections de code insee et que les balises communes respectent les normes décidés aux débuts du projet.
 - `TestResultatDT.py`, prend le DT original livré par Wordpro et l'output à tester en entrée. Il livre deux fichiers en sortie: `@DTXX_result.csv` qui offre une comparaison chiffrer des deux DT et `@DTXX_result_commune.csv` qui permet de controler que les injections n'ont pas cassé de chaîne de caractères et ainsi nous permet de les corriger pour la création de `output6.xml`
 - Le dernier fichier se situe dans le dossier data et se nomme `_OUTPUT6_VALDATION_PROCEDURE.pdf`. Il s'agit d'une procédure à suivre pour être sûr que toutes les vedettes soient grammaticalement juste, qu'il n'y ait pas d'inversion de caractères, qu'il n'y ait pas de localisation mal segmenté
 
-### Injection des nouveaux ids (attribués par l’application)
-- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
   
-## Exemple avec le DT73.xml d'un cheminement pour l'ajout de la localisation des différents articles
+## Exemple de DT73
 
 ### Procédure d'enrichissement du code INSEE des communes
+
 - Extraction des probables noms des communes du `DT73.xml` avec le fichier `Recup_ville.xsl`
 - Nettoyage de cette première liste sur le logiciel Dataiku (Voir procédure d'enrichissement )
 - Normalisation de la liste pour comparaison des chaînes de caractère sur le logiciel Dataiku
@@ -42,7 +177,8 @@ Il existe deux scripts de contrôle :
 - On obtient ainsi le `DT73_communeINSEE.xml` avec les articles des communes 
 
 
-## Ajout des balises communes dans les balises localisation
+### Ajout des balises communes dans les balises localisation
+
 - Utilisation du script `add_commune.py` qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance et fournit le fichier `output2.xml` et  `DT73_liageINSEE_localisation-commune-desambiguisation.csv`
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes.
 - Le XML récupéré sert de base pour le script suivant `add_Insee_Commune.py` , il récupère le contenu dans la balise commune puis le compare avec la liste des noms de communes et si ça correspond il ajoute un attribut insee avec son code. Il fournit le fichier `output3.xml` et le `DT73_liageINSEE_localisation-commune.csv` pour les balises communes qui n'ont pas de code insee.
@@ -55,7 +191,7 @@ Il existe deux scripts de contrôle :
 
   
 
-####Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
+### Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
 
 1. Ajout du fichier CSV DT73 des communes extraites depuis le fichier DT73.xml 
 1. Mise en ordres des données avec suppression des espaces vides, alignement des cases et création d'une colonne qui contient une version normalisée de la commune
