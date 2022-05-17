@@ -36,17 +36,22 @@ Procédure d’insertion des codes communes :
 
 ### `Recup_ville.xsl`
 
-**Description**. Pour un DT, repérer les articles de type commune et lister dans un CSV leur vedette et leur canton de localisation.
+**Description**. Pour un DT, lister les noms de communes potentielles ainsi que leur canton de localisation.
 
-**Input** : `DT{id}.xml`
+**Usage**
 
-**Output** : CSV sur sortie standard. 3 colonnes :
+```
+DT{id}$ xsltproc -o DT{id}-Recup_ville.csv ../../utils/Recup_ville.xsl DT{id}.xml
+```
+
+**Output** : TSV sur sortie standard. 3 colonnes :
 
 - `ID` : identifiant de l’article (de type commune) – ex. `DT02-00196`
 - `NomCommune` : vedette de l’article – ex. `Aulnois,`
 - `NomCanton` : label du canton de localisation – ex. `canton de Laon` (utile pour désambiguiser l’identification d’une commune)
 
-**Note**. Ce CSV est nettoyé dans Dataiku où le liage INSEE est fait sur `NomCommune` en différentes étapes (voir plus bas).
+**Note**. Ce TSV est importé dans Dataiku pour le liage INSEE (voir *Workflow* plus bas).
+
 
 ### `Matchscript.py`
 
@@ -54,8 +59,7 @@ Procédure d’insertion des codes communes :
 
 **Input**
 
-- `listcommune.csv` : liste des communes INSEE du seul département (pour déjouer les homonymies)
-- `Rest_prepared.csv` : liste des vedettes des articles de type commune pour lesquelles le liage a échoué dans Dataiku.
+- `Rest_prepared.csv` : export Dataiku de la liste des vedettes des articles de type commune pour lesquelles le liage a échoué.
 
 **Output**
 
@@ -147,18 +151,11 @@ Procédure d’insertion des codes communes :
 
 - `data/DT{id}/output5.xml`
 
-**Note**. 
-
-
-
-## Injection des nouveaux ids (attribués par l’application)
-  
-- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
-
 
 ## Contrôles qualité
 
 Il existe deux scripts de contrôle :
+
 
 ### `Testscript.py`
 
@@ -169,10 +166,11 @@ Il existe deux scripts de contrôle :
 
 **Output**
 
-- `data/DT{id}/@result_validation_DT{id}.csv` : Liste différentes statistiques et données sur la qualité de nos enrichissement.
+- `data/DT{id}/@result_validation_DT{id}.csv` : statistiques sur la qualité des enrichissements.
   
 **Note**. 
-Ces résultats servent au suivi de la qualité des données et permettent de réaliser des corrections manuelles en cas de problème. La ligne de résultat doit être reportée dans l'issue 17 sur notre [github](https://github.com/chartes/dico-topo/issues/17). Si il s'agit d'un `data/DT{id}/output4.xml`, il faut mettre en première valeur de la ligne `DT{id}_Etape2` et pour `data/DT{id}/output5.xml`, il faut mettre `DT{id}_Etape3` dans cette première valeur.
+Ces résultats servent au suivi de la qualité des données et permettent de réaliser des corrections manuelles en cas de problème. La ligne de résultat doit être reportée dans l'issue 17 sur notre [github](https://github.com/chartes/dico-topo/issues/17). S’il s'agit d'un `data/DT{id}/output4.xml`, il faut mettre en première valeur de la ligne `DT{id}_Etape2` et pour `data/DT{id}/output5.xml`, il faut mettre `DT{id}_Etape3` dans cette première valeur.
+
 
 ### `TestResultatDT.py`
 
@@ -188,14 +186,12 @@ Compare le fichier souces livré par WordPro et le dernier état de notre travai
 - `@DTXX_result.csv`: Il fournit une comparaison chiffrée du DT du départ et de `data/DT{id}/output6.xml`
 - `@DTXX_result_commune.csv` : Il renvoie les chaînes de caractères qui sont différentes entre les deux fichiers pour pouvoir les contrôler et les corriger si des erreurs ont été faites au moment de l'injection des différentes balises `commune`
 
-**Note**. 
 
 ### `_OUTPUT6_VALDATION_PROCEDURE.pdf`
 
 **Description**. 
 
 Procédure à suivre pour être sûr que toutes les vedettes soient grammaticalement juste, qu'il n'y ait pas d'inversion de caractères, qu'il n'y ait pas de localisation mal segmenté ou pour s'assurer que l'indentation soit correcte dans `data/DT{id}/output6.xml`.
-
  
 
 ### `dico-topo.rng`
@@ -203,24 +199,68 @@ Procédure à suivre pour être sûr que toutes les vedettes soient grammaticale
 **Description**
 
 Les `data/DT{id}/output7.xml` doivent appeller le schéma de contrôle [dico-topo.rng](https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng) pour valider la structure du xml après les différentes interventions réalisées à partir de script ou manuellement.
+
   
-## Exemple de DT73
+# Exemple de DT37
 
-### Procédure d'enrichissement du code INSEE des communes
+## A. Liage INSEE
 
-- Extraction des probables noms des communes du `DT73.xml` avec le fichier `Recup_ville.xsl`
-- Nettoyage de cette première liste sur le logiciel Dataiku (Voir procédure d'enrichissement )
-- Normalisation de la liste pour comparaison des chaînes de caractère sur le logiciel Dataiku
-- Première comparaison en *exact match* avec le nom des communes INSEE 2011 sur le logiciel Dataiku
-- Deuxième comparaison des communes restantes sur les *substring* avec le script `Matchscript.py`
-- Troisième comparaison des communes sans match en fuzzy join sur le logiciel Dataiku
-- Mise en place d'un tableur pour permettre la correction du texte  (Voir la procédure d'enrichissement détaillé sur Dataiku)
-- Correction manuel des communes dont la précision n'est pas High dans le fichier `DT73_liageINSEE_article-commune.csv`
-- Ajout de la balise INSEE et de l'attribut commune avec `Update_article_commune.py`
-- On obtient ainsi le `DT73_communeINSEE.xml` avec les articles des communes 
+### 1. Extraction des noms de communes potentielles
+
+Extraction des probables noms des communes du `DT37.xml` avec le fichier `Recup_ville.xsl`
+
+```
+xsltproc -o DT37-Recup_ville.csv ../../utils/Recup_ville.xsl DT37.xml
+```
+
+### 2. Dataiku, Liage
+
+Ouvrir le *Worflow* [Dataiku](https://www.dataiku.com/product/get-started/) [DT_INSEELINKING_DATAIKUWORKLOW.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DT_INSEELINKING_DATAIKUWORKLOW.zip) et le cloner `data/DT37/DT37_DATAIKUWORKLOW`
+
+#### Charger `DT37-Recup_ville.csv`
+
+- separateur : `\t`
+- première ligne comme en-tête
+
+#### Normaliser les noms de communes
+
+Dans le Worflow, utiliser la *Prepare recipe* `compute_DTid_prepared`, en veillant à bien mettre à jour l’id du DT dans les règles.
+
+**NB**. Appeler le bon département dans la *Prepare recipe* `compute_comsimp2011_prepared`.
 
 
-### Ajout des balises communes dans les balises localisation
+Outputs :
+
+- `CommuneOK` : les liages corrects (`high`), à faire valider tout de même par OC et SN.
+- `Rest_prepared` : liste des communes potentielles non liées. Exporter en TSV (`Rest_prepared.csv`), pour traitement avec `Matchscript.py`.
+
+#### Sortir de Dataiku pour traiter `Rest_prepared`
+
+```
+python Matchscript.py
+```
+**NB**. Mettre à jour la variable `dep`.
+
+
+Outputs :
+
+- `result2.csv`: la commune potentielle, suivie de la liste des propositions de liages (code INSEE + NCCENR)- `result3.csv`: idem
+- `rest3.csv`: les communes non liées
+
+#### Dataiku, traiter `rest3.csv`- Dans le Worflow Dataiku [DTid.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DTid.zip), charger `rest3` et lancer la *Prepare recipe* `compute_rest3_prepared` (=*fuzzy join* sur les noms non liés).
+- Exporter `rest3prepared.csv`.### 3. Fusionner les outputs pour validation OC/SNDans `DTid.ods` avec l'ajout d'un niveau de probabilité du liage :
+
+- `high`: bleu – `CommuneOk.csv` (Dataiku)
+- `medium`: orange - `result2.csv` et `result3.csv` (`Matchscript.py`)
+- `low`: rouge – `rest3prepared` (Dataiku)
+
+
+Récupérer le fichier validé, le convertir en TSV pour annoter les sources XML.
+
+
+## B. Annotation des sources XML
+
+### 1. Ajout en `localisation` de la balise `commune` pour lier le lieu à sa commune de rattachement
 
 - Utilisation du script `add_commune.py` qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance et fournit le fichier `output2.xml` et  `DT73_liageINSEE_localisation-commune-desambiguisation.csv`
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes.
@@ -232,18 +272,12 @@ Les `data/DT{id}/output7.xml` doivent appeller le schéma de contrôle [dico-top
 - Il faut ensuite comparer le fichier XML du départ `DT73.xml` et `output5.xml` avec `TestResultatDT.py` pour corriger les dernières erreurs possibles. Le script fournit les csv `@DT73_result.csv` pour obtenir une vision globale chiffré et le fichier `@DT73_result_commune.csv` pour corriger les dernières manuellement enregistré sous le nom `output6.xml`
 - Une dernière étape est de contrôler avec des xpaths contenues dans le fichier `_OUTPUT6_VALDATION_PROCEDURE.pdf` pour être sûr que le fichier `output6.xml` soit corrigé.
 
+
+
+
+
+## Injection des nouveaux ids (attribués par l’application)
   
+- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
 
-### Procédure d'enrichissement sur Dataiku : Exemple du département 73 (cf. DT73.zip)
-
-1. Ajout du fichier CSV DT73 des communes extraites depuis le fichier DT73.xml 
-1. Mise en ordres des données avec suppression des espaces vides, alignement des cases et création d'une colonne qui contient une version normalisée de la commune
-1. Ajout du fichier des communes 2011 avec le code INSEE, suppression des communes qui ne sont pas du département, nettoyage des colonnes innutiles et normalisation du nom des communes
-1. Fusion des deux jeux de données en fonction des noms normalisés et ajout d'une colonne contenant le code INSEE et du nom normalisé dans le fichier DT73 
-1. Séparation en deux du fichier obtenu avec d'un côté les communes avec un code INSEE et le reste de l'autre
-1. Extraction des communes sans code INSEE dans un fichier CSV qui sert de fichier d'entréer pour `Matchscript.py` pour trouver de nouvelle correspondance. Le script nous fournit un nouveau fichier de reste.
-1. Le fichier csv est réutilisé dans dataiku pour un fuzzyjoin avec le fichier des communes de 2011 nettoyé et obtention du dernier fichier. 
-1. Création du fichier de correction DT73.ods avec l'ajout d'un niveau de risque. High pour ceux issue de la première fusion de dataiku, Medium pour ceux de la deuxième issue de `Matchscript.py` et de Low pour ceux issue du fuzzyjoin
-
-L'ensemble de la procédure est la même pour chaque département. Il suffit à chaque fois de copier la procédure et de mettre le numéro du département correspondant. 
 
