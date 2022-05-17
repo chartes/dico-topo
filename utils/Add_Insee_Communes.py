@@ -2,21 +2,21 @@ import xml.etree.ElementTree as ET
 import unidecode
 import csv
 
-dep = "5"
-dir_path = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
+dep = "37"
+dir_path = "../data/"
 xml_entry = dir_path + "DT" + dep + "/output2.xml"
-dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_prepared.csv"
+dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_article-commune.csv"
 xml_out = dir_path + "DT" + dep + "/output3.xml"
 tsv_out =  dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune.csv"
 d = {}
  #Crée un dictionnaire qui contient le nom et le code insee pour chaque commune du dictionnaire
 with open(dict_commune_2011, newline='') as csvfile:
-    ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
+    ListcommunesInsee = csv.reader(csvfile, delimiter='\t', quotechar='|')
     for communeInsee in ListcommunesInsee :
         #Supprime les accents pour s'assurer de la cohérence car il y a des différences d'accent entre les noms dans les corps de texte et le reste
         nCommune = unidecode.unidecode(communeInsee[1])
-        d[nCommune] = communeInsee[2]
-
+        d[nCommune] = communeInsee[4]
+print(d)
 tree= ET.parse(xml_entry)
 xml = tree.getroot()
 #Liste qui doit contenir les informations des communes pour pouvoir contrôler les échecs de correspondance

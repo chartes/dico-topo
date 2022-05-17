@@ -145,10 +145,10 @@ def check_commune (localisation, d, precision):
     return valide
 
 
-dep = "56"
-dir_path = "/home/corentink/Bureau/Dicotopo/Tableau_Correction/"
+dep = "37"
+dir_path = "../data/"
 xml_entry = dir_path + "DT" + dep + "/DT" + dep + ".xml"
-dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_prepared.csv"
+dict_commune_2011 = dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_article-commune.csv"
 xml_out = dir_path + "DT" + dep + "/output2.xml"
 tsv_out =  dir_path + "DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv"
 #Donner l'emplacement du fichier XML du dictionnaire à utiliser pour la recherche
@@ -173,7 +173,7 @@ savevedette = ""
 
  #Crée un dictionnaire qui contient le nom et le code insee pour chaque commune du dictionnaire
 with open(dict_commune_2011, newline='') as csvfile:
-    ListcommunesInsee = csv.reader(csvfile, delimiter=',', quotechar='|')
+    ListcommunesInsee = csv.reader(csvfile, delimiter='\t', quotechar='|')
     for communeInsee in ListcommunesInsee :
         #Supprime les accents pour s'assurer de la cohérence car il y a des différences d'accent entre les noms dans les corps de texte et le reste
         nCommune = unidecode.unidecode(communeInsee[1])
@@ -202,7 +202,8 @@ for article in xml:
 
                 if localisation.tag == "localisation":
                     n = n+1
-
+                    if localisation.text is None:
+                        continue
                     #Test si c'est une commune dont la précision est connu
                     for testCommune in listOfCommuneIndiceP  :
                         if testCommune in localisation.text :
@@ -238,7 +239,7 @@ for article in xml:
                     elif len(localisation.text.split()) == 1 or 2 :
                         testmot = localisation.text.split()
                         if (len(testmot) == 2 and len(testmot[-1]) < 3) or len(testmot) == 1:
-                            testvalide = check_commune (localisation, d, precision="certaine")
+                            testvalide = check_commune (localisation, d, precision="certain")
                             if testvalide is not True :
                                 if article.attrib.get("id") == "DT56-14845" :
                                     print(localisation.text)
