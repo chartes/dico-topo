@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import csv
 #Variable qui set à déterminer sur quel département on travaille
-dep = "36"
+dep = "37"
 dir_path ="../data"
 csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune.csv"
 xml_in = dir_path + "/DT" + dep + "/output3.xml"
@@ -14,7 +14,7 @@ with open(csv_in, newline='') as csvfile:
     for communeInsee in ListcommunesInsee :
         print(communeInsee)
         if communeInsee[4] != "Non" or communeInsee[4] != "NON":
-            listC.append([communeInsee[0],communeInsee[3], communeInsee[2], communeInsee[4]])
+            listC.append([communeInsee[0],communeInsee[3], communeInsee[2], communeInsee[4], communeInsee[5]])
 
 tree = ET.parse(xml_in)
 xml = tree.getroot()
@@ -34,11 +34,12 @@ for article in xml :
                     if commune.tag == "commune":
                         for CommuneCorrection in listC:
                             #Pour ajouter l'attribut insee dans le champs commune, il faut que le numéro d'article soit bon et que la valeur compris entre les balises communes soit équivalentes à celle du tableur et que la valeur du code INSEE ne soit pas Non
-                            if CommuneCorrection[0] == NumArticle and CommuneCorrection[2] == commune.text and CommuneCorrection[1] != "NON" and CommuneCorrection[1] != "Non":
-                                commune.set('insee', CommuneCorrection[1])
+                            if CommuneCorrection[0] == NumArticle and CommuneCorrection[1] == commune.text and CommuneCorrection[3] != "NON" and CommuneCorrection[3] != "Non":
+                                print("Test")
+                                commune.set('insee', CommuneCorrection[3])
                                 #Si une entrée est présente dans le cominl[3] alors on doit la supprimer pour assurer qu'aucune erreur ne soit possible
                                 if CommuneCorrection[3] != "":
-                                    commune.text = CommuneCorrection[3]
+                                    commune.text = CommuneCorrection[4]
 
 
 tree.write(xml_out,encoding="UTF-8",xml_declaration=True)
