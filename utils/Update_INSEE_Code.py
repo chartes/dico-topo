@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 #Changer le numéro du département
-dep = "36"
+dep = "37"
 dir_path ="../data"
 csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv"
 xml_in = dir_path + "/DT" + dep + "/output4.xml"

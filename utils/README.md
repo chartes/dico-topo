@@ -312,20 +312,71 @@ On obtient :
 - `DT37_liageINSEE_localisation-commune.csv` : convertir en ODS envoyer à OC/SN pour validation
 
 
+#### Injection dans le XML des liages résiduels
+
+A. Injecter dans le fichier output3.xml les liages inscrits dans `DT37_liageINSEE_localisation-commune.ods`
+
+- Lire la colonne commentaire et faire les corrections manuelles attendues.
+- Exporter en TSV `DT37_liageINSEE_localisation-commune.ods` (sep = `\t`)
+- **NB**. Éditer variable `dep` in `Update_Commune_INSEE.py` pour appeler le bon DT… (TODO, passer en arg)
+
+```
+utils$ python3 Update_Commune_INSEE.py
+```
+
+Les codes insee sont injectés dans `definition/localisation/commune/@insee` et le nom de la commune est éventuellement corrigé (`definition/localisation/commune`).
+
+**NB**. Penser à tester la sortie `output4.xml` avec `Testscript.py` (cf plus bas, documentation des tests).
 
 
-- Utilisation du script `add_commune.py` qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance et fournit le fichier `output2.xml` et  `DT73_liageINSEE_localisation-commune-desambiguisation.csv`
-- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes.
-- Le XML récupéré sert de base pour le script suivant `add_Insee_Commune.py` , il récupère le contenu dans la balise commune puis le compare avec la liste des noms de communes et si ça correspond il ajoute un attribut insee avec son code. Il fournit le fichier `output3.xml` et le `DT73_liageINSEE_localisation-commune.csv` pour les balises communes qui n'ont pas de code insee.
-- Le tableau `DT73_liageINSEE_localisation-commune.csv` corrigé est ensuite réinjécté par le script  `Update_Commune_INSEE.py` dans `output3.xml`. Il contient un travail manuel de rajout des codes insee donc un travail de vérification manuel du fichier est à faire avant l'injection avec des possibles défauts de segmentaiton, ajout de nouvelles articles communes qui ont pu être manqués sur la première étape, faute de typo ... Une colonne commentaire est prévu à cet effet. Le script sort le fichier `output4.xml`. Il est conseillé d'utiliser le fichier `Testscript.py` sur le fichier `output4.xml` pour corriger des erreurs possibles.
--  Le tableau `DT73_liageINSEE_localisation-commune-desambiguisation.csv` corrigé est réinjécté par le script `Update_INSEE_Code.py` dans le fichier `output4.xml` Il contient un important travail manuel sur les balises localisations sans balise commmune donc il peut y avoir beaucoup de corrections manuel de tout type à réaliser donc il faut prendre son temps de bien regarder les différents commentaires notés par le correcteur. Le script fournit le fichier `output5.xml`
-- Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes dans les balises localisations non-stéréotypé.
-- Il est conseillé d'utiliser le fichier `Testscript.py` sur le fichier `output5.xml` pour corriger de possibles erreurs injectées à ce moment.
-- Il faut ensuite comparer le fichier XML du départ `DT73.xml` et `output5.xml` avec `TestResultatDT.py` pour corriger les dernières erreurs possibles. Le script fournit les csv `@DT73_result.csv` pour obtenir une vision globale chiffré et le fichier `@DT73_result_commune.csv` pour corriger les dernières manuellement enregistré sous le nom `output6.xml`
-- Une dernière étape est de contrôler avec des xpaths contenues dans le fichier `_OUTPUT6_VALDATION_PROCEDURE.pdf` pour être sûr que le fichier `output6.xml` soit corrigé.
+B. Injecter dans le fichier output4.xml les ultimes liages inscrits dans `DT37_liageINSEE_localisation-commune-desambiguisation.csv`
+
+- Exporter en TSV `DT37_liageINSEE_localisation-commune-desambiguisation.ods` (sep = `\t`)
+- **NB**. Éditer variable `dep` in `Update_INSEE_Code.py` pour appeler le bon DT… (TODO, passer en arg)
+
+```
+utils$ python3 Update_INSEE_Code.py
+```
+
+Supprimer les balises `tmp` inscrites dans la sortie `output5.xml`.
+
+
+#### Validation de `output5.xml`
+
+##### `TestScript.py`
+
+Des stats sur le DT: pourcentage liage, code INSEE inconnus, etc.
+
+```
+utils % python3 TestScript.py 37 ../data/DT37/output5.xml
+```
+
+output: `utils/out/@result_validation_DT37.csv`
 
 
 
+##### `TestResultatDT.py`
+
+Diff entre la version première du DT et l’output testé, par ex.
+
+```
+utils % python3 TestResultatDT.py 37 ../data/DT37/DT37.xml ../data/DT37/output5.xml
+```
+
+output:
+
+- `utils/out/@DT37_result.csv` : des stats camparées (nombre d’articles et de liages, etc.)- `utils/out/@DT37_result_commune.csv` : liste des localisations modifiées pour vérification.
+
+
+Enregistrer après les vérification et éventuelles corrections manuelles `output6.xml`.
+
+[Procédure de validation de output6](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/data/_OUTPUT6_VALDATION_PROCEDURE.md)
+
+
+
+#### Injection des nouveaux ids (attribués par l’application)
+  
+- `insert_new-ids.py` : prend en entrée `output6.xml` et le mapping des anciens ids et des nouveaux attribués par l’application, pour injecter ces nouveaux identifiants dans `output7.xml`.
 
 
 ## Injection des nouveaux ids (attribués par l’application)
