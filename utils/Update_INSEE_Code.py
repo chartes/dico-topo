@@ -4,7 +4,7 @@ import re
 #Changer le numéro du département
 dep = "36"
 dir_path ="../data"
-csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation_SN.csv"
+csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation.csv"
 xml_in = dir_path + "/DT" + dep + "/output4.xml"
 xml_out = dir_path + "/DT" + dep + "/output5.xml"
 d = {}
