@@ -2,8 +2,8 @@ import os
 from lxml import etree
 import csv
 
-dep = "36"
-dir_path = "/home/cfaye/Bureau/Data_Linux/Tableau_Correction/"
+dep = "37"
+dir_path = "../data/"
 xml_entry = dir_path + "DT" + dep + "/DT36.xml"
 Correct_CSV = dir_path + "DT" + dep + "/DT36_liageINSEE_article-commune_revuSN.csv"
 xml_out = dir_path + "DT" + dep + "/DT" + dep + "_CommuneINSEE.xml"

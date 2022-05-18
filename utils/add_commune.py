@@ -159,8 +159,8 @@ xml = tree.getroot()
 listOfCommuneIndiceP = ["commune de", "commune du", "ville du", "ville de", "village de"]
 listOfCommunedIndiceP = ["commune d’", "ville d’", "village d’", "près d’","commune d'", "ville d'", "village d'","près d'"]
 listofComumunesIndiceU = ["arrondissements", "cantons"]
-listofCommuneIndiceU = ["arrondissement de", "canton de", "canton du", "près de", "près du", "forêt de", "territoire de", "territoire du"]
-listofCommunedIndiceU = ["arrondissement d’", "canton d’", "territoire d’","canton d'","arrondissement d'", "territoire d'"]
+listofCommuneIndiceU = ["arrondissement de", "canton de", "canton du", "près de", "près du", "forêt de", "territoire de", "territoire du", "paroisse de"]
+listofCommunedIndiceU = ["arrondissement d’", "canton d’", "territoire d’","canton d'","arrondissement d'", "territoire d'", "paroisse d’", "paroisse d'"]
 
 #initialisation des variables
 n= 0
