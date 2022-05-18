@@ -5,7 +5,7 @@ import csv
 dep = "37"
 dir_path = "../data/"
 xml_entry = dir_path + "DT" + dep + "/DT{0}.xml".format(dep)
-Correct_CSV = dir_path + "DT" + dep + "/DT{0}_liageINSEE_article-commune_revuSN.csv".format(dep)
+Correct_CSV = dir_path + "DT" + dep + "/DT{0}_liageINSEE_article-commune.csv".format(dep)
 xml_out = dir_path + "DT" + dep + "/DT" + dep + "_CommuneINSEE.xml"
 
 
