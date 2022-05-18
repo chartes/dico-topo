@@ -12,12 +12,11 @@ def main(dep, input):
     """
     DEP : Number of departement
 
-    INPUT : XML FILES of DT to test
+    INPUT : path of XML FILES of Dicotopo
 
     output : csv in folder out @result_validation_DT**DEP**.csv
     """
-    dir_path = "../data/"
-    xml_in = dir_path + "/DT{0}/{1}".format(dep, input)
+    xml_in = "{0}".format(input)
     tsv_out = "out/@result_validation_DT" + dep + ".csv"
     tree = etree.parse(xml_in)
     dict_commune = {}

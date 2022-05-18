@@ -11,15 +11,14 @@ def main(dep, inputoriginal, inputfinal):
     """
     DEP : Number of departement
 
-    INPUTORIGINAL : Original XML files of the DT
+    INPUTORIGINAL : Path Original XML files of the DT
 
-    INPUTFINAL : Final XML files of the DT
+    INPUTFINAL : Path of Final XML files of the DT
 
     output : csv in folder out @DT**DEP**_result.csv
     """
-    dir_path = "../data/"
-    file_in = dir_path + "DT{0}/{1}".format(dep, inputoriginal)
-    file_out = dir_path+"DT{0}/{1}".format(dep, inputfinal)
+    file_in = "{0}".format(inputoriginal)
+    file_out = "{0}".format(inputfinal)
     file_result = "out/@DT"+dep+"_result"
 
 
