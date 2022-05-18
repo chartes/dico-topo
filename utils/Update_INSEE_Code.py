@@ -2,11 +2,11 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 #Changer le numéro du département
-dep = "54"
-dir_path ="/home/corentink/Bureau/Dicotopo/Tableau_Correction"
-csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-desambiguisation_revuOC.csv"
+dep = "36"
+dir_path ="../data"
+csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune-desambiguisation_SN.csv"
 xml_in = dir_path + "/DT" + dep + "/output4.xml"
-xml_out = dir_path + "/DT" + dep + + "/output5.xml"
+xml_out = dir_path + "/DT" + dep + "/output5.xml"
 d = {}
 #Crée un dictionnaire qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune à partir du fichier corriger
 with open(csv_in, newline='') as csvfile:
@@ -76,14 +76,16 @@ for article in xml :
                                             except :
                                                 print(NArticle)
                                                 continue
-                                            if "NON" in codeI:
+                                            if "NON" in codeI or "non" in codeI or "Non" in codeI:
                                                 count += 1
                                                 continue
+                                            commune.set('precision', "approximatif")
                                             commune.set('insee', codeI)
                                             count += 1
                                     else :
                                         #Ajoute le code insee dans les balises communes rajoutées
                                         for commune in phrasexml.iter("commune"):
+                                            commune.set('precision', "approximatif")
                                             commune.set('insee', Insee)
                                     localisation.append(phrasexml)
                              #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <div> et </div> dans le fichier final

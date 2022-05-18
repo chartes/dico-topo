@@ -1,11 +1,11 @@
 import xml.etree.ElementTree as ET
 import csv
 #Variable qui set à déterminer sur quel département on travaille
-dep = "54"
-dir_path ="/home/corentink/Bureau/Dicotopo/Tableau_Correction"
-csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune_OC.csv"
+dep = "36"
+dir_path ="../data"
+csv_in = dir_path + "/DT" + dep + "/DT" + dep + "_liageINSEE_localisation-commune.csv"
 xml_in = dir_path + "/DT" + dep + "/output3.xml"
-xml_out = dir_path + "/DT" + dep + + "/output4.xml"
+xml_out = dir_path + "/DT" + dep + "/output4.xml"
 listC = []
 # ! Supprimer la colonne Définition qui peut créer des problèmes au moment de la réinjection des données!
 #Crée une liste qui contient le numéro de l'article en clé à corriger et en valeur le code INSEE et le texte contenu dans la balise commune et la valeur à corriger si nécessaire
