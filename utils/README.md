@@ -262,6 +262,27 @@ Récupérer le fichier validé, le convertir en TSV pour annoter les sources XML
 
 ### 1. Ajout en `localisation` de la balise `commune` pour lier le lieu à sa commune de rattachement
 
+#### Injecter les éléments `insee` et `@type='commune'`
+
+**NB**. Éditer `Update_article_commune.py` pour appeler le bon DT… (TODO, passer en arg)
+
+```
+utils$ python Update_article_commune.py
+```
+
+#### Ajouter les éléments `commune` dans `localisation`
+
+```
+DT37$ rm DT37.xml
+DT37$ mv DT37_CommuneINSEE.xml DT37.xml
+```
+
+Push la nouvelle version de DT37
+
+```
+
+```
+
 - Utilisation du script `add_commune.py` qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance et fournit le fichier `output2.xml` et  `DT73_liageINSEE_localisation-commune-desambiguisation.csv`
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes.
 - Le XML récupéré sert de base pour le script suivant `add_Insee_Commune.py` , il récupère le contenu dans la balise commune puis le compare avec la liste des noms de communes et si ça correspond il ajoute un attribut insee avec son code. Il fournit le fichier `output3.xml` et le `DT73_liageINSEE_localisation-commune.csv` pour les balises communes qui n'ont pas de code insee.

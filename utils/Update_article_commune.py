@@ -23,7 +23,7 @@ def main():
             article[0].attrib['type'] = "commune"
             template = etree.parse("./INSEE_template.xml")
             INSEE = template.find("//insee")
-            INSEE.text = line["insee"]
+            INSEE.text = line["INSEE"]
             article[0].append(template.getroot())
             etree.strip_tags(article[0], 'tmp')
 

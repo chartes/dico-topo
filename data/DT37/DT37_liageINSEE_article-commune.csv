@@ -1,0 +1,334 @@
+ID	NomCommune	NomNormalise	NomCanton	INSEE	NCC
+DT37-00012	Abilly	ABILLY	canton de la Haye	37001	ABILLY
+DT37-00167	Ambillou	AMBILLOU	canton de Château-la-Vallière	37002	AMBILLOU
+DT37-00170	Amboise	AMBOISE	chef-lieu de canton	37003	AMBOISE
+DT37-00178	Anché	ANCHE	canton de l’Ile-Bouchard	37004	ANCHE
+DT37-00194	Angé	ANGE	canton de Montrichard	41002	Angé-sur-Cher
+DT37-00233	Antogny	ANTOGNY	canton de Sainte-Maure	37005	ANTOGNY-LE-TILLAC
+DT37-00237	Saint-Antoine-du-Rocher	SAINT-ANTOINE-DU-ROCHER	canton de Neuillé-Pont-Pierre	37206	SAINT-ANTOINE-DU-ROCHER
+DT37-00322	Argy	ARGY	canton de Buzançais	36007	ARGY
+DT37-00357	Artannes	ARTANNES	canton de Montbazon	37006	ARTANNES-SUR-INDRE
+DT37-00370	Assay	ASSAY	canton de Richelieu	37007	ASSAY
+DT37-00377	Athée	ATHEE	canton de Bléré	37008	ATHEE-SUR-CHER
+DT37-00418	Saint-Aubin	SAINT-AUBIN	canton de Neuvy-Roi	37207	SAINT-AUBIN-LE-DEPEINT
+DT37-00571	Autrèche	AUTRECHE	canton de Châteaurenault	37009	AUTRECHE
+DT37-00585	Auzouer	AUZOUER	canton de Châteaurenault	37010	AUZOUER-EN-TOURAINE
+DT37-00599	Saint-Avertin	SAINT-AVERTIN	canton de Tours-sud	37208	SAINT-AVERTIN
+DT37-00604	Avoine	AVOINE	canton et de l’arrondissement de Chinon	37011	AVOINE
+DT37-00606	Avon	AVON	canton de l’Ile-Bouchard	37012	AVON-LES-ROCHES
+DT37-00611	Avrillé	AVRILLE	canton de Langeais	37013	AVRILLE-LES-PONCEAUX
+DT37-00620	Azay-le-Féron	AZAY-LE-FERON	canton de Mézières-en-Brenne	36010	AZAY-LE-FERRON
+DT37-00622	Azay-le-Rideau	AZAY-LE-RIDEAU	arrondissement de Chinon	37014	AZAY-LE-RIDEAU
+DT37-00623	Azay-sur-Cher	AZAY-SUR-CHER	canton de Bléré	37015	AZAY-SUR-CHER
+DT37-00624	Azay-sur-Indre	AZAY-SUR-INDRE	canton et de l’arrondissement de Loches	37016	AZAY-SUR-INDRE
+DT37-00720	Balesmes	BALESMES	canton de La Haye	37017	Balesmes
+DT37-00729	Ballan	BALLAN	canton de Montbazon	37018	BALLAN-MIRE
+DT37-01041	Barrou	BARROU	canton du Grand-Pressigny	37019	BARROU
+DT37-01263	Saint-Bauld	SAINT-BAULD	canton et de l’arrondissement de Loches	37209	SAINT-BAULD
+DT37-01362	Beaulieu	BEAULIEU	canton et de l’arrondissement de Loches	37020	BEAULIEU-LES-LOCHES
+DT37-01397	Beaumont-en-Véron	BEAUMONT-EN-VERON	canton et de l’arrondissement de Chinon	37022	BEAUMONT-EN-VERON
+DT37-01398	Beaumont-la-Ronce	BEAUMONT-LA-RONCE	canton de Neuillé-Pont-Pierre	37021	BEAUMONT-LA-RONCE
+DT37-01400	Beaumont-Village	BEAUMONT-VILLAGE	canton de Montrésor	37023	BEAUMONT-VILLAGE
+DT37-01792	Benais	BENAIS	canton de Bourgueil	37024	BENAIS
+DT37-01834	Saint-Benoît	SAINT-BENOIT	canton d’Azay-le-Rideau	37210	SAINT-BENOIT-LA-FORET
+DT37-01996	Berthenay	BERTHENAY	canton de Tours-sud	37025	BERTHENAY
+DT37-02098	Betz	BETZ	canton du Grand-Pressigny	37026	BETZ-LE-CHATEAU
+DT37-02356	Bléré	BLERE	arrondissement de Tours	37027	BLERE
+DT37-03219	Bossay	BOSSAY	canton de Preuilly	37028	BOSSAY-SUR-CLAISE
+DT37-03221	Bossée	BOSSEE	canton de Ligueil	37029	BOSSEE
+DT37-03415	Boulay	BOULAY	canton de Châteaurenault	37030	BOULAY
+DT37-03669	Bourgueil	BOURGUEIL	arrondissement de Chinon	37031	BOURGUEIL
+DT37-03701	Bournan	BOURNAN	canton de Ligueil	37032	BOURNAN
+DT37-03716	Bourré	BOURRE	canton de Montrichard	41023	BOURRE
+DT37-03743	Boussay	BOUSSAY	canton de Preuilly	37033	BOUSSAY
+DT37-03836	Saint-Branchs	SAINT-BRANCHS	canton de Montbazon	37211	SAINT-BRANCHS
+DT37-03855	Braslou	BRASLOU	canton de Richelieu	37034	BRASLOU
+DT37-03905	Braye-sous-Faye	BRAYE-SOUS-FAYE	canton de Richelieu	37035	BRAYE-SOUS-FAYE
+DT37-03906	Braye-sur-Maulne	BRAYE-SUR-MAULNE	canton de Château-la-Vallière	37036	BRAYE-SUR-MAULNE
+DT37-03912	Brèche	BRECHE	canton de Château-la-Vallière	37037	BRECHES
+DT37-03935	Bréhémont	BREHEMONT	canton d’Azay-le-Rideau	37038	BREHEMONT
+DT37-03940	Breil	BREIL	canton de Noyant	49044	BREIL
+DT37-04107	Bridoré	BRIDORE	canton et de l’arrondissement de Loches	37039	BRIDORE
+DT37-04163	Brizay	BRIZAY	canton de l’Ile-Bouchard	37040	BRIZAY
+DT37-04166	Broc	BROC	canton de Noyant	49052	BROC
+DT37-04425	Bueil	BUEIL	canton de Neuvy-Roi	37041	BUEIL-EN-TOURAINE
+DT37-04643	Buxeuil	BUXEUIL	canton de Dangé	86042	BUXEUIL
+DT37-04644	Buzançais	BUZANCAIS	chef-lieu de canton	36031	BUZANCAIS
+DT37-04794	Cande	CANDE	canton et de l’arrondissement de Chinon	37042	CANDES-SAINT-MARTIN
+DT37-04806	Cangy	CANGY	canton d’Amboise	37043	CANGEY
+DT37-05187	Sainte-Catherine-de-Fierbois	SAINTE-CATHERINE-DE-FIERBOIS	canton de Sainte-Maure	37212	SAINTE-CATHERINE-DE-FIERBOIS
+DT37-05416	Céaux	CEAUX	canton et de l’arrondissement de Loudun	86044	CEAUX-EN-LOUDUN
+DT37-05422	Celle-Saint-Avent	CELLE-SAINT-AVENT	canton de la Haye	37045	CELLE-SAINT-AVANT
+DT37-05445	Céré	CERE	canton de Bléré	37046	CERE-LA-RONDE
+DT37-05447	Cerelles	CERELLES	canton de Neuillé-Pont-Pierre	37047	CERELLES
+DT37-05582	Chalonnes-sous-le-Lude	CHALONNES-SOUS-LE-LUDE	canton de Noyant	49062	CHALONNES-SOUS-LE-LUDE
+DT37-05609	Chambon	CHAMBON	canton de Preuilly	37048	CHAMBON
+DT37-05612	Chambourg	CHAMBOURG	canton et de l’arrondissement de Loches	37049	CHAMBOURG-SUR-INDRE
+DT37-05615	Chambray	CHAMBRAY	canton de Montbazon	37050	CHAMBRAY-LES-TOURS
+DT37-05764	Champigny-sur-Veude	CHAMPIGNY-SUR-VEUDE	canton de Richelieu	37051	CHAMPIGNY-SUR-VEUDE
+DT37-05873	Chançay	CHANCAY	canton de Vouvray	37052	CHANCAY
+DT37-05875	Chanceaux	CHANCEAUX	canton et de l’arrondissement de Loches	37053	CHANCEAUX-PRES-LOCHES
+DT37-05878	Chanceaux-sur-Choisille	CHANCEAUX-SUR-CHOISILLE	canton de Vouvray	37054	CHANCEAUX-SUR-CHOISILLE
+DT37-05908	Channay	CHANNAY	canton de Château-la-Vallière	37055	CHANNAY-SUR-LATHAN
+DT37-06037	Chapelle-aux-Naux	CHAPELLE-AUX-NAUX	canton d’Azay-le-Rideau	37056	CHAPELLE-AUX-NAUX
+DT37-06038	Chapelle-Blanche	CHAPELLE-BLANCHE	canton de Ligueil	37057	CHAPELLE-BLANCHE-SAINT-MARTIN
+DT37-06059	Chapelle-sur-Loire	CHAPELLE-SUR-LOIRE	canton de Bourgueil	37058	CHAPELLE-SUR-LOIRE
+DT37-06133	Charentilly	CHARENTILLY	canton de Neuillé-Pont-Pierre	37059	CHARENTILLY
+DT37-06134	Chargé	CHARGE	canton d’Amboise	37060	CHARGE
+DT37-06174	Charnizay	CHARNIZAY	canton de Preuilly	37061	CHARNIZAY
+DT37-06219	Chartre-sur-le-Loir	CHARTRE-SUR-LE-LOIR	arrondissement de Saint-Calais	72068	CHARTRE-SUR-LE-LOIR
+DT37-06324	Château-la-Vallière	CHATEAU-LA-VALLIERE	arrondissement de Tours	37062	CHATEAU-LA-VALLIERE
+DT37-06335	Châteaurenault	CHATEAURENAULT	arrondissement de Tours	37063	CHATEAU-RENAULT
+DT37-06422	Châtillon-sur-Indre	CHATILLON-SUR-INDRE	arrondissement de Châteauroux	36045	CHATILLON-SUR-INDRE
+DT37-06540	Chaumussay	CHAUMUSSAY	canton de Preuilly	37064	CHAUMUSSAY
+DT37-06623	Chaveignes	CHAVEIGNES	canton de Richelieu	37065	CHAVEIGNES
+DT37-06635	Chédigny	CHEDIGNY	canton et de l’arrondissement de Loches	37066	CHEDIGNY
+DT37-06644	Cheillé	CHEILLE	canton d’Azay-le-Rideau	37067	CHEILLE
+DT37-06656	Chemillé-sur-Dême	CHEMILLE-SUR-DEME	canton de Neuvy-Roi	37068	CHEMILLE-SUR-DEME
+DT37-06657	Chemillé-sur-Indrois	CHEMILLE-SUR-INDROIS	canton de Montrésor	37069	CHEMILLE-SUR-INDROIS
+DT37-06868	Chenonceau	CHENONCEAU	canton de Bléré	37070	CHENONCEAUX
+DT37-06870	Chenu	CHENU	canton du Lude	72077	CHENU
+DT37-07032	Chezelles	CHEZELLES	canton de l’Ile-Bouchard	37071	CHEZELLES
+DT37-07104	Chinon	CHINON	arrondissement d’Indre-et-Loire	37072	CHINON
+DT37-07113	Chissé	CHISSE	canton de Montrichard	41051	Chissay-en-Touraine
+DT37-07114	Chisseau	CHISSEAU	canton de Bléré	37073	CHISSEAUX
+DT37-07185	Chouzé-sur-Loire	CHOUZE-SUR-LOIRE	canton 288de Bourgueil	37074	CHOUZE-SUR-LOIRE
+DT37-07193	Saint-Christophe	SAINT-CHRISTOPHE	canton de Neuvy-Roi	37213	SAINT-CHRISTOPHE-SUR-LE-NAIS
+DT37-07214	Cigogné	CIGOGNE	canton de Bléré	37075	CIGOGNE
+DT37-07240	Cinais	CINAIS	canton et de l’arrondissement de Chinon	37076	CINAIS
+DT37-07251	Ciran	CIRAN	canton de Ligueil	37078	CIRAN
+DT37-07272	Civray-sur-Cher	CIVRAY-SUR-CHER	canton de Bléré	37079	CIVRAY-DE-TOURAINE
+DT37-07273	Civray-sur-Esves	CIVRAY-SUR-ESVES	canton de la Haye-Descartes	37080	CIVRAY-SUR-ESVES
+DT37-07355	Cléré	CLERE	canton de Langeais	37081	CLERE-LES-PINS
+DT37-07358	Cléré-du-Bois	CLERE-DU-BOIS	canton de Châtillon-sur-Indre	36054	CLERE-DU-BOIS
+DT37-07863	Continvoir	CONTINVOIR	canton de Langeais	37082	CONTINVOIR
+DT37-07940	Cormery	CORMERY	canton de Montbazon	37083	CORMERY
+DT37-08248	Couesme	COUESME	canton de Château-la-Vallière	37084	COUESMES
+DT37-08355	Courçay	COURCAY	canton de Bléré	37085	COURCAY
+DT37-08356	Courcelles	COURCELLES	canton de Château-la-Vallière	37086	COURCELLES-DE-TOURAINE
+DT37-08360	Courcoué	COURCOUE	canton de Richelieu	37087	COURCOUE
+DT37-08378	Courléon	COURLEON	canton de Longué	49114	COURLEON
+DT37-08461	Coussay-les-Bois	COUSSAY-LES-BOIS	canton de Pleumartin	86086	COUSSAY-LES-BOIS
+DT37-08511	Couziers	COUZIERS	canton et de l’arrondissement de Chinon	37088	COUZIERS
+DT37-08529	Cravant	CRAVANT	canton de l’Ile-Bouchard	37089	CRAVANT-LES-COTEAUX
+DT37-08577	Crissé	CRISSE	canton de l’Ile-Bouchard	37090	Crissay-sur-Manse
+DT37-08986	Crotelles	CROTELLES	canton de Châteaurenault	37092	CROTELLES
+DT37-09010	Crouzilles	CROUZILLES	canton de l’Ile-Bouchard	37093	CROUZILLES
+DT37-09067	Cussay	CUSSAY	canton de la Haye-Descartes	37094	CUSSAY
+DT37-09080	Saint-Cyr-du-Gault	SAINT-CYR-DU-GAULT	canton d’Herbault	41205	SAINT-CYR-DU-GAULT
+DT37-09081	Saint-Cyr-sur-Loire	SAINT-CYR-SUR-LOIRE	canton de Tours-nord	37214	SAINT-CYR-SUR-LOIRE
+DT37-09103	Damemarie	DAMEMARIE	canton de Châteaurenault	37095	Dame-Marie-les-Bois
+DT37-09218	Saint-Denis-hors	SAINT-DENIS-HORS	canton d’Amboise	37215	Saint-Denis-Hors
+DT37-09267	Dierre	DIERRE	canton de Bléré	37096	DIERRE
+DT37-09287	Dolus	DOLUS	canton et de l’arrondissement de Loches	37097	DOLUS-LE-SEC
+DT37-09391	Draché	DRACHE	canton de la Haye-Descartes	37098	DRACHE
+DT37-09415	Druye	DRUYE	canton de Montbazon	37099	DRUYE
+DT37-09554	Écueillé	ECUEILLE	arrondissement de Châteauroux	36069	ECUEILLE
+DT37-09626	Saint-Épain	SAINT-EPAIN	canton de Sainte-Maure	37216	SAINT-EPAIN
+DT37-09637	Épeigné-les-Bois	EPEIGNE-LES-BOIS	canton de Bléré	37100	EPEIGNE-LES-BOIS
+DT37-09638	Épeigné-sur-Dême	EPEIGNE-SUR-DEME	canton de Neuvy-Roi	37101	EPEIGNE-SUR-DEME
+DT37-09746	Essards	ESSARDS	canton de Langeais	37102	ESSARDS
+DT37-09773	Esves-le-Moutier	ESVES-LE-MOUTIER	canton de Ligueil	37103	ESVES-LE-MOUTIER
+DT37-09776	Esvres	ESVRES	canton de Montbazon	37104	ESVRES
+DT37-09934	Saint-Étienne-de-Chigny	SAINT-ETIENNE-DE-CHIGNY	canton de Tours-nord	37217	SAINT-ETIENNE-DE-CHIGNY
+DT37-09935	Saint-Étienne-des-Guérets	SAINT-ETIENNE-DES-GUERETS	canton d’Herbault	41208	SAINT-ETIENNE-DES-GUERETS
+DT37-10050	Faverolles	FAVEROLLES	canton de Montrichard	41080	FAVEROLLES-SUR-CHER
+DT37-10063	Faye-la-Vineuse	FAYE-LA-VINEUSE	canton de Richelieu	37105	FAYE-LA-VINEUSE
+DT37-10152	Ferrière	FERRIERE	canton de Neuvy-Roi	37106	FERRIERE
+DT37-10157	Ferrières-Larçon	FERRIERES-LARCON	canton du Grand-Pressigny	37107	Ferrière-Larçon
+DT37-10158	Ferrières-sur-Beaulieu	FERRIERES-SUR-BEAULIEU	canton et de l’arrondissement de Loches	37108	Ferrière-sur-Beaulieu
+DT37-10304	Saint-Flovier	SAINT-FLOVIER	canton du Grand-Pressigny	37218	SAINT-FLOVIER
+DT37-10402	Fondettes	FONDETTES	canton de Tours-nord	37109	FONDETTES
+DT37-11286	Francueil	FRANCUEIL	canton de Bléré	37110	FRANCUEIL
+DT37-12107	Genillé	GENILLE	canton de Montrésor	37111	GENILLE
+DT37-12118	Saint-Genouph	SAINT-GENOUPH	canton de Tours-sud	37219	SAINT-GENOUPH
+DT37-12135	Saint-Georges-sur-Cher	SAINT-GEORGES-SUR-CHER	canton de Montrichard	41211	SAINT-GEORGES-SUR-CHER
+DT37-12164	Saint-Germain-d’Arcé	SAINT-GERMAIN-D’ARCE	canton du Lude	72283	SAINT-GERMAIN-D'ARCE
+DT37-12166	Saint-Germain-sur-Vienne	SAINT-GERMAIN-SUR-VIENNE	canton et de l’arrondissement de Chinon	37220	SAINT-GERMAIN-SUR-VIENNE
+DT37-12415	Gizeux	GIZEUX	canton de Langeais	37112	GIZEUX
+DT37-12609	Saint-Gourgon	SAINT-GOURGON	canton de Saint-Amand	41213	SAINT-GOURGON
+DT37-13588	Guerche	GUERCHE	canton du Grand-Pressigny	37114	GUERCHE
+DT37-14160	Haye-Descartes	HAYE-DESCARTES	arrondissement de Loches	37115	Descartes
+DT37-14217	Herbault	HERBAULT	chef-lieu de canton	41101	HERBAULT
+DT37-14260	Hermites	HERMITES	canton de Châteaurenault	37116	HERMITES
+DT37-14317	Chapelle-Saint-Hippolyte	CHAPELLE-SAINT-HIPPOLYTE	canton et de l’arrondissement de Loches	37221	Saint-Hippolyte
+DT37-14349	Hommes	HOMMES	canton de Château-la-Vallière	37117	HOMMES
+DT37-14526	Huismes	HUISMES	canton et de l’arrondissement de Chinon	37118	HUISMES
+DT37-14600	Ile-Bouchard	ILE-BOUCHARD	arrondissement de Chinon	37119	ILE-BOUCHARD
+DT37-14668	Ingrandes	INGRANDES	canton de Langeais	37120	INGRANDES-DE-TOURAINE
+DT37-14854	Jaulnay	JAULNAY	canton de Richelieu	37121	JAULNAY
+DT37-14900	Saint-Jean-Saint-Germain	SAINT-JEAN-SAINT-GERMAIN	canton et de l’arrondissement de Loches	37222	SAINT-JEAN-SAINT-GERMAIN
+DT37-14920	Jeu-Maloche	JEU-MALOCHE	canton d’Écueillé	36090	JEU-MALOCHES
+DT37-15010	Joué-les-Tours	JOUE-LES-TOURS	canton de Tours-sud	37122	JOUE-LES-TOURS
+DT37-15091	Saint-Julien-de-Chèdon	SAINT-JULIEN-DE-CHEDON	canton de Montrichard	41217	SAINT-JULIEN-DE-CHEDON
+DT37-15194	La Croix-de-Bléré	LA CROIX-DE-BLERE	canton de Bléré	37091	La Croix-en-Touraine
+DT37-15237	Saint-Martin-de-Lamps	SAINT-MARTIN-DE-LAMPS	département de l’Indre	36201	SAINT-MARTIN-DE-LAMPS
+DT37-15336	Langeais	LANGEAIS	arrondissement de Chinon	37123	LANGEAIS
+DT37-15354	Larçay	LARCAY	canton de Tours-Sud	37124	LARCAY
+DT37-15371	La Riche-extra	LA RICHE-EXTRA	canton de Tours-Sud	37195	La Riche
+DT37-15431	Saint-Laurent-de-Lin	SAINT-LAURENT-DE-LIN	canton de Château-la-Vallière	37223	SAINT-LAURENT-DE-LIN
+DT37-15432	Saint-Laurent-en-Gâtines	SAINT-LAURENT-EN-GATINES	canton de Châteaurenault	37224	SAINT-LAURENT-EN-GATINES
+DT37-15480	Lémeré	LEMERE	canton de Richelieu	37125	LEMERE
+DT37-15490	Lerné	LERNE	canton et de l’arrondissement de Chinon	37126	LERNE
+DT37-15544	Liège	LIEGE	canton de Montrésor	37127	LIEGE
+DT37-15573	Lignières	LIGNIERES	canton d’Azay-le-Rideau	37128	LIGNIERES-DE-TOURAINE
+DT37-15581	Ligré	LIGRE	canton de Richelieu	37129	LIGRE
+DT37-15583	Ligueil	LIGUEIL	arrondissement de Loches	37130	LIGUEIL
+DT37-15598	Limeray	LIMERAY	canton d’Amboise	37131	LIMERAY
+DT37-15675	Loché	LOCHE	canton de Montrésor	37133	LOCHE-SUR-INDROIS
+DT37-15681	Loches	LOCHES		37132	LOCHES
+DT37-15827	Louans	LOUANS	canton de Ligueil	37134	LOUANS
+DT37-15838	Loudun	LOUDUN	chef-lieu d’arrondissement	86137	LOUDUN
+DT37-15844	Louestault	LOUESTAULT	canton de Neuvy-Roi	37135	LOUESTAULT
+DT37-15878	Louroux	LOUROUX	canton de Ligueil	37136	LOUROUX
+DT37-15909	Lublé	LUBLE	canton de Château-la-Vallière	37137	LUBLE
+DT37-15947	Lussault	LUSSAULT	canton d’Amboise	37138	LUSSAULT-SUR-LOIRE
+DT37-15957	Luynes	LUYNES	arrondissement de Tours	37139	LUYNES
+DT37-15959	Luzé	LUZE	canton de Richelieu	37140	LUZE
+DT37-15961	Luzillé	LUZILLE	canton de Bléré	37141	LUZILLE
+DT37-16045	Maillé-Lailler	MAILLE-LAILLER	canton de Sainte-Maure	37142	Maillé
+DT37-16435	Manthelan	MANTHELAN	canton de Ligueil	37143	MANTHELAN
+DT37-16492	Marçay	MARCAY	canton de Richelieu	37144	MARCAY
+DT37-16495	Marçay-sur-Esves	MARCAY-SUR-ESVES	canton de la Haye-Descartes	37145	Marcé-sur-Esves
+DT37-16588	Marcilly-sur-Maulne	MARCILLY-SUR-MAULNE	canton de Château-la-Vallière	37146	MARCILLY-SUR-MAULNE
+DT37-16589	Marcilly-sur-Vienne	MARCILLY-SUR-VIENNE	canton de Sainte-Maure	37147	MARCILLY-SUR-VIENNE
+DT37-16591	Marçon	MARCON	canton de la Chartre	72183	MARCON
+DT37-16618	Mareuil	MAREUIL	canton de Montrichard	41126	MAREUIL-SUR-CHER
+DT37-16669	Marigny-Marmande	MARIGNY-MARMANDE	canton de Richelieu	37148	MARIGNY-MARMANDE
+DT37-16753	Marray	MARRAY	canton de Neuvy-Roi	37149	MARRAY
+DT37-16758	Saint-Mars	SAINT-MARS	canton de Langeais	37077	Cinq-Mars-la-Pile
+DT37-16821	Saint-Martin-le-Beau	SAINT-MARTIN-LE-BEAU	canton d’Amboise	37225	SAINT-MARTIN-LE-BEAU
+DT37-16994	Sainte-Maure	SAINTE-MAURE	arrondissement de Chinon	37226	SAINTE-MAURE-DE-TOURAINE
+DT37-17066	Mazières	MAZIERES	canton de Langeais	37150	MAZIERES-DE-TOURAINE
+DT37-17123	Membrolle	MEMBROLLE	canton et de l’arrondissement de Tours-Nord	37151	MEMBROLLE-SUR-CHOISILLE
+DT37-17205	Méré-le-Gaulier	MERE-LE-GAULIER	canton de Pleumartin	86143	Mairé
+DT37-17236	Mesland	MESLAND	canton d’Herbaut	41137	MESLAND
+DT37-17349	Mettray	METTRAY	canton de Tours-Nord	37152	METTRAY
+DT37-17362	Mézières-en-Brenne	MEZIERES-EN-BRENNE	chef-lieu de canton	36123	MEZIERES-EN-BRENNE
+DT37-17377	saint-Michel-sur-Loire	SAINT-MICHEL-SUR-LOIRE	canton de Langeais	37227	SAINT-MICHEL-SUR-LOIRE
+DT37-17664	Monnaie	MONNAIE	canton de Vouvray	37153	MONNAIE
+DT37-17732	Montbazon	MONTBAZON	chef-lieu de canton	37154	MONTBAZON
+DT37-17777	Monthodon	MONTHODON	canton de Châteaurenault	37155	MONTHODON
+DT37-17802	Montlouis	MONTLOUIS	canton de Tours-Sud	37156	MONTLOUIS-SUR-LOIRE
+DT37-17828	Montrésor	MONTRESOR	arrondissement de Loches	37157	MONTRESOR
+DT37-17829	Montreuil	MONTREUIL	canton d’Amboise	37158	MONTREUIL-EN-TOURAINE
+DT37-17830	Montrichard	MONTRICHARD	chef-lieu de canton	41151	MONTRICHARD
+DT37-17837	Monts	MONTS	canton de Montbazon	37159	MONTS
+DT37-17874	Morand	MORAND	canton de Châteaurenault	37160	MORAND
+DT37-18142	Mosnes	MOSNES	canton d’Amboise	37161	MOSNES
+DT37-18530	Mouzay	MOUZAY	canton de Ligueil	37162	MOUZAY
+DT37-18657	Nazelles	NAZELLES	canton d’Amboise	37163	NAZELLES-NEGRON
+DT37-18662	Négron	NEGRON	canton d’Amboise	37163	NAZELLES-NEGRON
+DT37-18681	Neuil	NEUIL	canton de Sainte-Maure	37165	NEUIL
+DT37-18683	Neuillé-le-Lierre	NEUILLE-LE-LIERRE	canton 373de Vouvray	37166	NEUILLE-LE-LIERRE
+DT37-18685	Neuillé-Pont-Pierre	NEUILLE-PONT-PIERRE	arrondissement de Tours	37167	NEUILLE-PONT-PIERRE
+DT37-18688	Neuilly-le-Brignon	NEUILLY-LE-BRIGNON	canton de la Haye-Descartes	37168	NEUILLY-LE-BRIGNON
+DT37-18697	Neuville	NEUVILLE	canton de Châteaurenault	37169	NEUVILLE-SUR-BRENNE
+DT37-18705	Neuvy-Roi	NEUVY-ROI	arrondissement de Tours	37170	NEUVY-LE-ROI
+DT37-18712	Saint-Nicolas-de-Bourgueil	SAINT-NICOLAS-DE-BOURGUEIL	canton de Bourgueil	37228	SAINT-NICOLAS-DE-BOURGUEIL
+DT37-18713	Saint-Nicolas-des-Motets	SAINT-NICOLAS-DES-MOTETS	canton de Châteaurenault	37229	SAINT-NICOLAS-DES-MOTETS
+DT37-18782	Noizay	NOIZAY	canton de Vouvray	37171	NOIZAY
+DT37-18813	Nouans	NOUANS	canton de Montrésor	37173	NOUANS-LES-FONTAINES
+DT37-18814	Nouâtre	NOUATRE	canton de Sainte-Maure	37174	NOUATRE
+DT37-18882	Nouzilly	NOUZILLY	canton de Châteaurenault	37175	NOUZILLY
+DT37-18883	Noyant	NOYANT	canton de Sainte-Maure	37176	NOYANT-DE-TOURAINE
+DT37-18971	Orbigny	ORBIGNY	canton de Montrésor	37177	ORBIGNY
+DT37-19140	Saint-Ouen	SAINT-OUEN	canton d’Amboise	37230	SAINT-OUEN-LES-VIGNES
+DT37-19235	Palluau	PALLUAU	canton de Châtillon	36149	PALLUAU-SUR-INDRE
+DT37-19262	Panzoult	PANZOULT	canton de l’Ile-Bouchard	37178	PANZOULT
+DT37-19338	Parçay-Meslay	PARCAY-MESLAY	canton de Vouvray	37179	PARCAY-MESLAY
+DT37-19339	Parçay-sur-Vienne	PARCAY-SUR-VIENNE	canton de l’Ile-Bouchard	37180	PARCAY-SUR-VIENNE
+DT37-19365	Parsay	PARSAY	canton de Noyant	49234	Parçay-les-Pins
+DT37-19434	Saint-Paterne	SAINT-PATERNE	canton de Neuvy-Roi	37231	SAINT-PATERNE-RACAN
+DT37-19471	Saint-Patrice	SAINT-PATRICE	canton de Langeais	37232	SAINT-PATRICE
+DT37-19490	Paulmy	PAULMY	canton du Grand-Pressigny	37181	PAULMY
+DT37-19719	Pernay	PERNAY	canton de Neuillé-Pont-Pierre	37182	PERNAY
+DT37-19900	Perrusson	PERRUSSON	canton et de l’arrondissement de Loches	37183	PERRUSSON
+DT37-20336	Saint-Pierre-des-Corps	SAINT-PIERRE-DES-CORPS	canton de Tours-Sud	37233	SAINT-PIERRE-DES-CORPS
+DT37-20946	Pocé	POCE	canton d’Amboise	37185	POCE-SUR-CISSE
+DT37-21189	Pont-de-Ruan	PONT-DE-RUAN	canton de Montbazon	37186	PONT-DE-RUAN
+DT37-21345	Port-de-Piles	PORT-DE-PILES	département de la Vienne	86195	PORT-DE-PILES
+DT37-21429	Ports	PORTS	canton de Sainte-Maure	37187	PORTS
+DT37-21526	Pouillé	POUILLE	canton de Saint-Aignan	41110	Pouillé
+DT37-21609	Pouzay	POUZAY	canton de Sainte-Maure	37188	POUZAY
+DT37-21720	Pressigny	PRESSIGNY	arrondissement de Loches	37113	GRAND-PRESSIGNY
+DT37-21722	Pressigny	PRESSIGNY	canton du Grand-Pressigny	37184	PETIT-PRESSIGNY
+DT37-21778	Preuilly	PREUILLY	arrondissement de Loches	37189	PREUILLY-SUR-CLAISE
+DT37-22020	Pussigny	PUSSIGNY	canton de Sainte-Maure	37190	PUSSIGNY
+DT37-22143	Saint-Quentin	SAINT-QUENTIN	canton et de l’arrondissement de Loches	37234	SAINT-QUENTIN-SUR-INDROIS
+DT37-22253	Sainte-Radégonde	SAINTE-RADEGONDE	canton de Tours-Nord	37235	Sainte-Radegonde-en-Touraine
+DT37-22452	Razines	RAZINES	canton de Richelieu	37191	RAZINES
+DT37-22511	Saint-Règle	SAINT-REGLE	canton d’Amboise	37236	SAINT-REGLE
+DT37-22516	Reignac	REIGNAC	canton et de l’arrondissement de Loches	37192	REIGNAC-SUR-INDRE
+DT37-22674	Restigné	RESTIGNE	canton de Bourgueil	37193	RESTIGNE
+DT37-22690	Reugny	REUGNY	canton de Vouvray	37194	REUGNY
+DT37-22797	Richelieu	RICHELIEU	arrondissement de Chinon	37196	RICHELIEU
+DT37-22847	Rigny	RIGNY	canton d’Azay-le-Rideau	37197	RIGNY-USSE
+DT37-22863	Rillé	RILLE	canton de Château-la-Vallière	37198	RILLE
+DT37-22868	Rilly	RILLY	canton de l’Ile-Bouchard	37199	RILLY-SUR-VIENNE
+DT37-22922	Rivarennes	RIVARENNES	canton d’Azay-le-Rideau	37200	RIVARENNES
+DT37-22939	Rivière	RIVIERE	canton de l’Ile-Bouchard	37201	RIVIERE
+DT37-23030	Saint-Roch	SAINT-ROCH	canton de Neuillé-Pont-Pierre	37237	SAINT-ROCH
+DT37-23134	Roche-Clermault	ROCHE-CLERMAULT	canton et de l’arrondissement de Chinon	37202	ROCHE-CLERMAULT
+DT37-23136	Rochecorbon	ROCHECORBON	canton de Vouvray	37203	ROCHECORBON
+DT37-23214	Rochepozay	ROCHEPOZAY	département de la Vienne	86207	La Roche-Posay
+DT37-23353	Saint-Romain	SAINT-ROMAIN	canton de Leigné-sur-Usseau	86242	SAINT-ROMAIN
+DT37-23695	Rouziers	ROUZIERS	canton de Neuillé-Pont-Pierre	37204	ROUZIERS-DE-TOURAINE
+DT37-23953	Saché	SACHE	canton de d’Azay-le-Rideau	37205	SACHE
+DT37-24163	Saunay	SAUNAY	canton de Châteaurenault	37240	SAUNAY
+DT37-24218	Savigné	SAVIGNE	canton de Château-la-Vallière	37241	SAVIGNE-SUR-LATHAN
+DT37-24219	Savigny	SAVIGNY	canton et de l’arrondissement de Chinon	37242	SAVIGNY-EN-VERON
+DT37-24224	Savonnières	SAVONNIERES	canton de Tours-Sud	37243	SAVONNIERES
+DT37-24226	Sazilly	SAZILLY	canton de l’Ile-Bouchard	37244	SAZILLY
+DT37-24276	Semblançay	SEMBLANCAY	canton de Neuillé-Pont-Pierre	37245	SEMBLANCAY
+DT37-24296	Sennevières	SENNEVIERES	canton et de l’arrondissement de Loches	37246	SENNEVIERES
+DT37-24298	Saint-Senoch	SAINT-SENOCH	canton de Ligueil	37238	SAINT-SENOCH
+DT37-24305	Sepmes	SEPMES	canton de la Haye	37247	SEPMES
+DT37-24347	Seuilly	SEUILLY	canton et de l’arrondissement de Chinon	37248	SEUILLY
+DT37-24441	Sonzay	SONZAY	canton de Neuillé-Pont-Pierre	37249	SONZAY
+DT37-24446	Sorigny	SORIGNY	canton de Montbazon	37250	SORIGNY
+DT37-24526	Souvigné	SOUVIGNE	canton de Château-la-Vallière	37251	SOUVIGNE
+DT37-24527	Souvigny	SOUVIGNY	canton d’Amboise	37252	SOUVIGNY-DE-TOURAINE
+DT37-24538	Sublaines	SUBLAINES	canton de Bléré	37253	SUBLAINES
+DT37-24548	Saint-Symphorien	SAINT-SYMPHORIEN	canton de Tours-Nord	37239	Saint-Symphorien
+DT37-24686	Tauxigny	TAUXIGNY	canton et de l’arrondissement de Loches	37254	TAUXIGNY
+DT37-24688	Tavant	TAVANT	canton de l’Ile-Bouchard	37255	TAVANT
+DT37-24868	Thenay	THENAY	département de Loir-et-Cher	41257	THENAY
+DT37-24869	Theneuil	THENEUIL	canton de l’Ile-Bouchard	37256	THENEUIL
+DT37-24918	Thilouze	THILOUZE	canton d’Azay-le-Rideau	37257	THILOUZE
+DT37-24926	Thizay	THIZAY	canton et de l’arrondissement de Chinon	37258	THIZAY
+DT37-25298	Saint-Martin-de-Tournon	SAINT-MARTIN-DE-TOURNON	chef-lieu de canton	36224	TOURNON-SAINT-MARTIN
+DT37-25299	Saint-Pierre-de-Tournon	SAINT-PIERRE-DE-TOURNON	canton de Preuilly	37259	TOURNON-SAINT-PIERRE
+DT37-25308	Tours	TOURS	chef-lieu	37261	TOURS
+DT37-25311	Tour Saint-Gelin	TOUR SAINT-GELIN	canton de Richelieu	37260	TOUR-SAINT-GELIN
+DT37-25496	Trogues	TROGUES	canton de l’Ile-Bouchard	37262	TROGUES
+DT37-25602	Truyes	TRUYES	canton de Montbazon	37263	TRUYES
+DT37-25992	Vallères	VALLERES	canton d’Azay-le-Rideau	37264	VALLERES
+DT37-26010	Vallières-les-Grandes	VALLIERES-LES-GRANDES	canton de Montrichard	41267	VALLIERES-LES-GRANDES
+DT37-26091	Varennes	VARENNES	canton de Ligueil	37265	VARENNES
+DT37-26402	Veigné	VEIGNE	canton de Montbazon	37266	VEIGNE
+DT37-26410	Vellèche	VELLECHE	canton de Leigné-sur-Usseau	86280	VELLECHES
+DT37-26462	Véretz	VERETZ	canton de Tours-Sud	37267	VERETZ
+DT37-26519	Verneuil-le-Château	VERNEUIL-LE-CHATEAU	canton de Richelieu	37268	VERNEUIL-LE-CHATEAU
+DT37-26520	Verneuil-sur-Indre	VERNEUIL-SUR-INDRE	canton de Loches	37269	VERNEUIL-SUR-INDRE
+DT37-26528	Vernou	VERNOU	canton de Vouvray	37270	Vernou-sur-Brenne
+DT37-26603	Veuves	VEUVES	canton de Loir-et-Cher	41272	VEUVES
+DT37-26798	Villaines	VILLAINES	canton d’Azay-le-Rideau	37271	VILLAINES-LES-ROCHERS
+DT37-26802	Villandry	VILLANDRY	canton de Tours-Sud	37272	VILLANDRY
+DT37-26823	Ville-aux-Dames	VILLE-AUX-DAMES	canton de Tours-Nord	37273	VILLE-AUX-DAMES
+DT37-26829	Villebourg	VILLEBOURG	canton de Neuvy-Roi	37274	VILLEBOURG
+DT37-26832	Villechauve	VILLECHAUVE	canton de Saint-Amand	41278	VILLECHAUVE
+DT37-26838	Villedômain	VILLEDOMAIN	canton de Montrésor	37275	VILLEDOMAIN
+DT37-26839	Villedômer	VILLEDOMER	canton de Châteaurenault	37276	VILLEDOMER
+DT37-26853	Villeloin-Coulangé	VILLELOIN-COULANGE	canton de Montrésor	37277	VILLELOIN-COULANGE
+DT37-26882	Villeperdue	VILLEPERDUE	canton de Montbazon	37278	VILLEPERDUE
+DT37-26886	Villeporcher	VILLEPORCHER	canton de Saint-Amand	41286	VILLEPORCHER
+DT37-26933	Villiers-au-Boin	VILLIERS-AU-BOIN	canton de Château-la-Vallière	37279	VILLIERS-AU-BOUIN
+DT37-27115	Vou	VOU	canton de Ligueil	37280	VOU
+DT37-27120	Vouvray	VOUVRAY	arrondissement de Tours	37281	VOUVRAY
+DT37-27149	Yzeures	YZEURES	canton de Preuilly	37282	YZEURES-SUR-CREUSE
+DT37-27154	Allonnes	ALLONNES	arrondissement de Saumur	49002	ALLONNES
+DT37-27156	Antoigné	ANTOIGNE	arrondissement de Saumur	49009	ANTOIGNE
+DT37-27159	Brain-sur-Allonnes	BRAIN-SUR-ALLONNES	arrondissement de Saumur	49041	BRAIN-SUR-ALLONNES
+DT37-27160	Breille	BREILLE	arrondissement de Saumur	49045	BREILLE-LES-PINS
+DT37-27172	Saint-Cyran du Jambot	SAINT-CYRAN DU JAMBOT	commune et canton de Châtillon-sur-Indre	36188	SAINT-CYRAN-DU-JAMBOT
