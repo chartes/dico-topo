@@ -267,7 +267,7 @@ Récupérer le fichier validé, le convertir en TSV pour annoter les sources XML
 **NB**. Éditer `Update_article_commune.py` pour appeler le bon DT… (TODO, passer en arg)
 
 ```
-utils$ python Update_article_commune.py
+utils$ python3 Update_article_commune.py
 ```
 
 #### Ajouter les éléments `commune` dans `localisation`
@@ -279,9 +279,40 @@ DT37$ mv DT37_CommuneINSEE.xml DT37.xml
 
 Push la nouvelle version de DT37
 
+**NB**. Éditer variable `dep` in `add_commune.py` pour appeler le bon DT… (TODO, passer en arg)
+
+des *requirements*…
+
+```
+$ pip3 install Unidecode
+$ pip3 install beautifulsoup4
 ```
 
 ```
+utils$ python3 add_commune.py
+```
+
+On obtient :
+
+- `data/DT37/output2.xml`. Y supprimer les balises `tmp`.
+- `DT37_liageINSEE_localisation-commune-desambiguisation.csv` : convertir en ODS envoyer à OC/SN pour validation
+
+
+#### Ajout de `@insee` dans les éléments `commune` de `localisation`
+
+**NB**. Éditer variable `dep` in `add_commune.py` pour appeler le bon DT… (TODO, passer en arg)
+
+```
+utils$ python3 Add_Insee_Communes.py
+```
+
+On obtient :
+
+- `data/DT37/output3.xml`
+- `DT37_liageINSEE_localisation-commune.csv` : convertir en ODS envoyer à OC/SN pour validation
+
+
+
 
 - Utilisation du script `add_commune.py` qui ajoute les balises communes dans les balises localisations selon les règles établies à l'avance et fournit le fichier `output2.xml` et  `DT73_liageINSEE_localisation-commune-desambiguisation.csv`
 - Le fichier XML obtenue doit être nettoyer des balises  &lt;tmp>et &lt;/tmp> qui sont ajouter pour pouvoir placer certaines balises communes.
