@@ -10,6 +10,7 @@ def add_commune (localisation, precision):
     :param localisation: contient les informations de la balise localisation du fichier xml
     :return:
     """
+    """
     commune = localisation.text.split()
     #supprime le saut de ligne en fin de phrase qui peut gêner pour la reconnaissance du caractère par la suite
     if "\n" in commune[-1] :
@@ -17,30 +18,32 @@ def add_commune (localisation, precision):
     #Contrôle que la dernière valeur commence par une majuscule pour qu'on soit sûr de bien récupérer le nom d'une commune
     if commune[-1][0].isupper() :
         localisation.text = ' '.join(commune[:-1])+" "
+        print(localisation.text)
         #ajout de la balise commune
         newcommune = ET.SubElement(localisation,"commune", precision=precision)
         newcommune.text = commune[-1]
     else :
-        #Sépare tous les mots à l'exception des caractères et de -
-        co = re.split('([^a-zA-Z0-9À-ÿ\)\-])', localisation.text)
-        localisation.text = ""
-         #Ajout de la balise div dans la phrase final pour permettre un ajout aisé de la modification directement dans la balise localisation
-        phrase = "<tmp>"
-        testadd = False
-        for mot in co:
-            try:
-                #Le mot peut-être considéré comme une commune s'il commence par une majuscule, si il est plus grand que 2 lettres et n'est pas Les
-                testadd = mot[0].isupper() and ")" not in mot and len(mot) > 2 and "Les" not in mot
-            except:
-                phrase = phrase + mot
-            if testadd is True:
-                phrase = phrase + "<commune>" + mot + "</commune>"
-            else :
-                phrase = phrase + mot
-        phrase = phrase + "</tmp>"
-         #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <tmp> et <tmp> dans le fichier final
-        phrasexml = ET.fromstring(phrase)
-        localisation.append(phrasexml)
+    """
+    #Sépare tous les mots à l'exception des caractères et de -
+    co = re.split('([^a-zA-Z0-9À-ÿ\)\-])', localisation.text)
+    localisation.text = ""
+     #Ajout de la balise div dans la phrase final pour permettre un ajout aisé de la modification directement dans la balise localisation
+    phrase = "<tmp>"
+    testadd = False
+    for mot in co:
+        try:
+            #Le mot peut-être considéré comme une commune s'il commence par une majuscule, si il est plus grand que 2 lettres et n'est pas Les
+            testadd = mot[0].isupper() and ")" not in mot and len(mot) > 2 and "Les" not in mot
+        except:
+            phrase = phrase + mot
+        if testadd is True:
+            phrase = phrase + "<commune>" + mot + "</commune>"
+        else :
+            phrase = phrase + mot
+    phrase = phrase + "</tmp>"
+     #Transforme phrase avec l'ensemble des informations en balise xml puis l'ajoute dans localisation. Il faudra supprimer les balises <tmp> et <tmp> dans le fichier final
+    phrasexml = ET.fromstring(phrase)
+    localisation.append(phrasexml)
 
 
 def add_commune_d(localisation, precision):
@@ -204,6 +207,8 @@ for article in xml:
                     n = n+1
                     if localisation.text is None:
                         continue
+                    if article.attrib.get("id") == "DT37-04096":
+                        print(localisation.text)
                     #Test si c'est une commune dont la précision est connu
                     for testCommune in listOfCommuneIndiceP  :
                         if testCommune in localisation.text :
