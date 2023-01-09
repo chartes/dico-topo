@@ -31,6 +31,10 @@ Procédure d’insertion des codes communes :
 </article>
 ```
 
+## Workflow
+
+![INSEE linking Workflow](linking-worflow.svg)
+
 
 ## Identification et liage des articles de type commune
 
@@ -205,64 +209,102 @@ Les `data/DT{id}/output7.xml` doivent appeller le schéma de contrôle [dico-top
 
 ## A. Liage INSEE
 
-### 1. Extraction des noms de communes potentielles
-
-Extraction des probables noms des communes du `DT37.xml` avec le fichier `Recup_ville.xsl`
+### 1. Identification des potentiels articles de type commune et extraction de leur nom
 
 ```
 xsltproc -o DT37-Recup_ville.csv ../../utils/Recup_ville.xsl DT37.xml
 ```
 
-### 2. Dataiku, Liage
+### 2. Liage INSEE de ces communes extraites (Dataiku)
 
-Ouvrir le *Worflow* [Dataiku](https://www.dataiku.com/product/get-started/) [DT_INSEELINKING_DATAIKUWORKLOW.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DT_INSEELINKING_DATAIKUWORKLOW.zip) et le cloner `data/DT37/DT37_DATAIKUWORKLOW`
+Ouvrir le *Worflow* [Dataiku](https://www.dataiku.com/product/get-started/) [DT_INSEELINKING_DATAIKUWORKLOW.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DT_INSEELINKING_DATAIKUWORKLOW.zip) et le dupliquer `data/DT37/DT37_DATAIKUWORKLOW`
 
-#### Charger `DT37-Recup_ville.csv`
+#### Créer le dataset `DT37`
 
-- separateur : `\t`
-- première ligne comme en-tête
+- `NEW DATASET > Upload your files > DT37-Recup_ville.csv`
+- separateur `\t` et première ligne comme en-tête
+- renommer le dataset `DT37-Recup_ville.csv` > `DT37`
 
-#### Normaliser les noms de communes
+#### Normaliser les noms de communes candidates
 
-Dans le Worflow, utiliser la *Prepare recipe* `compute_DTid_prepared`, en veillant à bien mettre à jour l’id du DT dans les règles.
+- définir le dataset `DT37` comme input de la recette `compute_DTid_prepared` (édition de la recette > Input/Output)
+- exécuter la recette `compute_DTid_prepared` 
 
-**NB**. Appeler le bon département dans la *Prepare recipe* `compute_comsimp2011_prepared`.
+#### Normaliser les noms des communes INSEE
 
+- éditer la règle `DEP is {code}` de la recette `compute_comsimp2011_prepared` pour préparer le liage aux communes du seul département traité (DT37)
+- exécuter la recette `compute_comsimp2011_prepared`
+
+#### Liage INSEE
+
+Exécuter la recette `compute_DTid_prepared_joined`.
 
 Outputs :
 
 - `CommuneOK` : les liages corrects (`high`), à faire valider tout de même par OC et SN.
-- `Rest_prepared` : liste des communes potentielles non liées. Exporter en TSV (`Rest_prepared.csv`), pour traitement avec `Matchscript.py`.
+- `Rest_prepared` : liste des communes potentielles non liées. Exporter en TSV (`Rest_prepared.csv`, separator='\t'), pour traitement avec `Matchscript.py`.
 
-#### Sortir de Dataiku pour traiter `Rest_prepared`
+#### Traiter `Rest_prepared` (en dehors de Dataiku)
+
+- **TODO**. réécrire le script
+- **NB**. Éditer la variable `dep` (`dep = '37'`).
 
 ```
-python Matchscript.py
+utils$ python3 Matchscript.py
 ```
-**NB**. Mettre à jour la variable `dep`.
-
 
 Outputs :
 
 - `result2.csv`: la commune potentielle, suivie de la liste des propositions de liages (code INSEE + NCCENR)- `result3.csv`: idem
 - `rest3.csv`: les communes non liées
 
-#### Dataiku, traiter `rest3.csv`- Dans le Worflow Dataiku [DTid.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DTid.zip), charger `rest3` et lancer la *Prepare recipe* `compute_rest3_prepared` (=*fuzzy join* sur les noms non liés).
-- Exporter `rest3prepared.csv`.### 3. Fusionner les outputs pour validation OC/SNDans `DTid.ods` avec l'ajout d'un niveau de probabilité du liage :
+#### Dataiku, traiter `rest3.csv`Dans le Worflow Dataiku [DTid.zip](https://github.com/chartes/dico-topo/blob/enrichissement_xml_dt/utils/DTid.zip), charger `rest3` et lancer la *Prepare recipe* `compute_rest3_prepared` (=*fuzzy join* sur les noms non liés).
 
-- `high`: bleu – `CommuneOk.csv` (Dataiku)
-- `medium`: orange - `result2.csv` et `result3.csv` (`Matchscript.py`)
+- charger `rest3.csv` comme dataset `rest3`
+- définir le dataset `rest3` comme input de la recette `compute_rest3_prepared` (édition de la recette > Input/Output)
+- exécuter et exporter le dataset `rest3prepared`.### 3. Fusionner les outputs pour validation OC/SNDans `DTid.ods` avec l'ajout d'un niveau de probabilité du liage :
+
+- `high`: bleu – `CommuneOk.csv` (export du dataset Dataiku `CommuneOk`)
+- `medium`: orange - `result2.csv` et `result3.csv` (output `Matchscript.py`)
 - `low`: rouge – `rest3prepared` (Dataiku)
 
 
-Récupérer le fichier validé, le convertir en TSV pour annoter les sources XML.
+Récupérer le fichier validé par OC/SN (`DTid-etape1.ods`) :
+
+- supprimer la ponctuation à la fin des cellules (en particulier COL B: NomCommune)
+- le convertir en TSV
+- renommer le fichier `DT37_liageINSEE_article-commune.csv`
+
+Ce fichier sert à l’annotation des sources XML (ci-dessous).
 
 
 ## B. Annotation des sources XML
 
-### 1. Ajout en `localisation` de la balise `commune` pour lier le lieu à sa commune de rattachement
 
-#### Injecter les éléments `insee` et `@type='commune'`
+### 1. Typage des articles de type commune et insertion des éléments `insee`
+
+Liage des articles décrivant des communes.
+
+Par exemple, 
+
+```xml
+<article id="DT37-16588" tm="4" pg="167">
+  <vedette><sm>Marcilly-sur-Maulne,</sm></vedette>
+  <definition><typologie>commune</typologie> du…</definition>
+  <forme_ancienne>— <i>Marcillé,</i>…</forme_ancienne>
+</article>
+```
+
+devient :
+
+```xml
+<article id="DT37-16588" tm="4" pg="167" type="commune">
+  <vedette><sm>Marcilly-sur-Maulne,</sm></vedette>
+  <definition><typologie>commune</typologie> du…</definition>
+  <forme_ancienne>— <i>Marcillé,</i>…</forme_ancienne>
+  <insee>37146</insee>
+</article>
+```
 
 **NB**. Éditer `Update_article_commune.py` pour appeler le bon DT… (TODO, passer en arg)
 
@@ -270,14 +312,20 @@ Récupérer le fichier validé, le convertir en TSV pour annoter les sources XML
 utils$ python3 Update_article_commune.py
 ```
 
-#### Ajouter les éléments `commune` dans `localisation`
+Vérifier que rien n’est cassé, puis :
 
 ```
 DT37$ rm DT37.xml
 DT37$ mv DT37_CommuneINSEE.xml DT37.xml
 ```
 
-Push la nouvelle version de DT37
+Push enfin la nouvelle version de DT37.
+
+
+### 2. Ajout des éléments `commune` dans `localisation`
+
+À cette étape, on insère les seules balises `commune` avec leur attribut `@precision` dans l’élément `localisation`. Ce balisage est validé par OC/SN grâce au tableau `DT37_liageINSEE_localisation-commune-desambiguisation.csv` avant de procéder à l’insertion de l’attribut `@insee`.
+
 
 **NB**. Éditer variable `dep` in `add_commune.py` pour appeler le bon DT… (TODO, passer en arg)
 
@@ -292,13 +340,17 @@ $ pip3 install beautifulsoup4
 utils$ python3 add_commune.py
 ```
 
+Le script prend en entrée le DT et le fichier `DT37_liageINSEE_article-commune.csv`
+
 On obtient :
 
-- `data/DT37/output2.xml`. Y supprimer les balises `tmp`.
+- `data/DT37/output2.xml` :
+	- Y supprimer les balises `tmp`,
+	- **AJOUTER @precision ??? IL MANQUE 29438 atts** 
 - `DT37_liageINSEE_localisation-commune-desambiguisation.csv` : convertir en ODS envoyer à OC/SN pour validation
 
 
-#### Ajout de `@insee` dans les éléments `commune` de `localisation`
+### 3. Ajout de `@insee` dans les éléments `commune` de `localisation`
 
 **NB**. Éditer variable `dep` in `add_commune.py` pour appeler le bon DT… (TODO, passer en arg)
 
@@ -312,12 +364,12 @@ On obtient :
 - `DT37_liageINSEE_localisation-commune.csv` : convertir en ODS envoyer à OC/SN pour validation
 
 
-#### Injection dans le XML des liages résiduels
+### 4. Injection dans le XML des liages résiduels
 
 A. Injecter dans le fichier output3.xml les liages inscrits dans `DT37_liageINSEE_localisation-commune.ods`
 
 - Lire la colonne commentaire et faire les corrections manuelles attendues.
-- Exporter en TSV `DT37_liageINSEE_localisation-commune.ods` (sep = `\t`)
+- SUPPRIMER LA COLONNE 'Definition' puis exporter en TSV `DT37_liageINSEE_localisation-commune.ods` (sep = `\t`)
 - **NB**. Éditer variable `dep` in `Update_Commune_INSEE.py` pour appeler le bon DT… (TODO, passer en arg)
 
 ```
@@ -328,6 +380,9 @@ Les codes insee sont injectés dans `definition/localisation/commune/@insee` et 
 
 **NB**. Penser à tester la sortie `output4.xml` avec `Testscript.py` (cf plus bas, documentation des tests).
 
+```
+utils % python3 TestScript.py 37 ../data/DT37/output4.xml
+```
 
 B. Injecter dans le fichier output4.xml les ultimes liages inscrits dans `DT37_liageINSEE_localisation-commune-desambiguisation.csv`
 

@@ -37,7 +37,7 @@ def add_commune (localisation, precision):
         except:
             phrase = phrase + mot
         if testadd is True:
-            phrase = phrase + "<commune>" + mot + "</commune>"
+            phrase = phrase + '<commune precision="' + precision + '">' + mot + '</commune>'
         else :
             phrase = phrase + mot
     phrase = phrase + "</tmp>"
