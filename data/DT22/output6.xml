@@ -1,4 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--
+  Copyright © 2023 École nationale des chartes
+  license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
+-->
 <DICTIONNAIRE dep="22" departement="Côtes-d’Armor">
   <article id="DT22-00001" pg="91" type="commune">
     <pg>91</pg>
@@ -56,15 +61,15 @@
   </article>
   <article id="DT22-00004bis" pg="95">
     <vedette><sm>Guénézan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
   </article>
   <article id="DT22-00004ter" pg="95">
     <vedette><sm>Botlézan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
   </article>
   <article id="DT22-00004quater" pg="95">
     <vedette><sm>Trézélan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
   </article>
   <article id="DT22-00005" pg="99" type="commune">
     <pg>99</pg>
@@ -137,7 +142,7 @@
   </article>
   <article id="DT22-00010" pg="106">
     <vedette><sm>Bonen</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Rostrenen</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22266">Rostrenen</commune></localisation>.</definition>
     <commentaire>
       <p>Cette commune a été réunie à celle de Rostrenen en <date>1970</date>.</p>
     </commentaire>
@@ -253,12 +258,12 @@
   </article>
   <article id="DT22-00016bis" pg="118">
     <vedette><sm>Binivet</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de l'<commune precision="certain">Île-de-Bréhat</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de l'<commune precision="certain" insee="22016">Île-de-Bréhat</commune></localisation>.</definition>
   </article>
   <article id="DT22-00017" pg="126">
     <pg>126</pg>
     <vedette><sm>Brélévenez</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
     <commentaire>
       <p>Cette commune a été réunie à celle de Lannion en <date>1961</date>.</p>
     </commentaire>
@@ -318,7 +323,7 @@
   <article id="DT22-00022" pg="131">
     <pg>131</pg>
     <vedette><sm>Buhulien</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Buhulyen</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
     <forme_ancienne><i>Buzulien</i>, <date>1719</date> <reference>(Archives des Côtes-d’Armor, 1 G évêché de Tréguier, insinuations, fol. 118 v°)</reference>.</forme_ancienne>
     <commentaire>
@@ -373,7 +378,7 @@
   </article>
   <article id="DT22-00025bis" pg="134">
     <vedette><sm>Botmel</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Callac</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22025">Callac</commune></localisation>.</definition>
     <forme_ancienne><i>Botnumel</i>, <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 233)</reference>.</forme_ancienne>
     <forme_ancienne><i>Botmel</i>, <date>1637</date> <reference>(registres paroissiaux)</reference>.</forme_ancienne>
     <forme_ancienne><i>Bonmel</i>, <date>1778</date> <reference>(Ogée, <i>Dictionnaire historique et géographique de la province de Bretagne</i>, 1780)</reference>.</forme_ancienne>
@@ -437,7 +442,7 @@
   </article>
   <article id="DT22-00030bis" pg="143">
     <vedette><sm>Caouënnec</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Caouënnec-Lanvézéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22030">Caouënnec-Lanvézéac</commune></localisation>.</definition>
     <forme_ancienne><i>Kaouenneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>treff de Couhannec</i>, <date>1476</date> <reference>(Archives des Côtes-d’Armor, 1 E 2167)</reference>.</forme_ancienne>
     <commentaire>
@@ -761,11 +766,13 @@
   </article>    
   <article id="DT22-00052bis" pg="184">
     <vedette><sm>Landugen</sm> ou <sm>Landujen</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Duault</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22052">Duault</commune></localisation>.</definition>
     <forme_ancienne><i>Ecclesiam Sancti Tutiani</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lann Tutian</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tribum Sancti Tutiani</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
-    <p>L’ancienne paroisse de Landugen (ou Landujen) formait sous l’Ancien Régime un prieuré-cure appartenant à l’abbaye de Quimperlé. Le cartulaire de cette abbaye mentionne au <date><sm>xi</sm><sup>e</sup> siècle</date> <i>Ecclesiam Sancti Tutiani</i> <reference>(église Saint-Trujen)</reference>, <i>Lann Tutian</i> <reference>(Landugen)</reference>, <i>Tribum Sancti Tutiani</i> <reference>(trève de Saint-Tujen)</reference>. Paroisse succursale de celle de Duault, elle élut une municipalité au début de <date>1790</date>, puis la commune fut réunie à Callac en l’<date>an VIII</date>. Enfin la section de Landugen fut distraite de celle de Callac et réunie à Duault conformément à une délibération du Conseil général en date du <date>29 octobre 1874</date>. Un arrêté préfectoral aurait dû être pris pour confirmer cette décision <reference>(loi des <date>18-22 juillet 1837</date>, art. 13)</reference>. On ne l’a pas retrouvé.</p>
+    <commentaire>
+      <p>L’ancienne paroisse de Landugen (ou Landujen) formait sous l’Ancien Régime un prieuré-cure appartenant à l’abbaye de Quimperlé. Le cartulaire de cette abbaye mentionne au <date><sm>xi</sm><sup>e</sup> siècle</date> <i>Ecclesiam Sancti Tutiani</i> <reference>(église Saint-Trujen)</reference>, <i>Lann Tutian</i> <reference>(Landugen)</reference>, <i>Tribum Sancti Tutiani</i> <reference>(trève de Saint-Tujen)</reference>. Paroisse succursale de celle de Duault, elle élut une municipalité au début de <date>1790</date>, puis la commune fut réunie à Callac en l’<date>an VIII</date>. Enfin la section de Landugen fut distraite de celle de Callac et réunie à Duault conformément à une délibération du Conseil général en date du <date>29 octobre 1874</date>. Un arrêté préfectoral aurait dû être pris pour confirmer cette décision <reference>(loi des <date>18-22 juillet 1837</date>, art. 13)</reference>. On ne l’a pas retrouvé.</p>
+    </commentaire>
   </article>
   <article id="DT22-00053" pg="186" type="commune">
     <pg>186</pg>
@@ -1322,7 +1329,7 @@
   <article id="DT22-00089" pg="257">
     <pg>257</pg>
     <vedette><sm>Kerity</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Keriti</i>, <date>1189</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
     <forme_ancienne><i>Queriti</i>, <date>1198</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
     <forme_ancienne><i>Carrti</i> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
@@ -1786,7 +1793,7 @@
   <article id="DT22-00120" pg="320">
     <pg>320</pg>
     <vedette><sm>Lanvézéac</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Caouënnec-Lanvézéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22030">Caouënnec-Lanvézéac</commune></localisation>.</definition>
     <forme_ancienne><i>Lanvezeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <commentaire>
       <p>Cette commune a été réunie à celle de Caouënnec en <date>1974</date>.</p>
@@ -1849,7 +1856,7 @@
   <article id="DT22-00125" pg="327">
     <pg>327</pg>
     <vedette><sm>Lescouët-Jugon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Jugon-les-Lacs</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22084">Jugon-les-Lacs</commune></localisation>.</definition>
     <forme_ancienne><i>Leskoad-Yugon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <commentaire>
       <p>Le pape Clément VII autorisa l’érection de la chapelle Saint-Malo du Pargay en église paroissiale sous le nom de Lescouet par lettres du <date>7 mai 1380</date>. La nouvelle paroisse, formée sur le territoire de Plorec, était une succursale de la dite paroisse de Plorec <reference>(Lemasson, <i>Histoire du pays de Dinan</i> II, 195)</reference>. Elle appartenait au diocèse de Saint-Brieuc sous l’Ancien Régime et élut sa première municipalité en janvier ou <date>février 1790</date>. Le nom de Lescouët (pron. « Lêcoué ») devint officiel par le décret du <date>31 octobre 1877</date>, à la suite du dénombrement de la population (circ. du <date>12 décembre 1877</date>). Le décret du <date>13 novembre 1885</date> changea le nom de la commune en celui de Lescouët-Jugon pour la distinguer d’un autre Lescouët.</p>
@@ -1915,7 +1922,7 @@
   </article>
   <article id="DT22-00130" pg="333">
     <vedette><sm>Loguivy-lès-Lannion</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Loquivi</i>, <date>1420</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 1455)</reference>.</forme_ancienne>
     <forme_ancienne><i>Loguivy-lez-Lannion</i>, <date>1678</date>.</forme_ancienne>
     <forme_ancienne><i>Loguivy proche Lannion</i>, <date>1678</date>.</forme_ancienne>
@@ -2016,7 +2023,7 @@
   </article>
   <article id="DT22-00136bis" pg="341">
     <vedette><sm>Cadelac</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Loudéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22136">Loudéac</commune></localisation>.</definition>
   </article>
   <article id="DT22-00137" pg="347" type="commune">
     <pg>347</pg>
@@ -2082,7 +2089,7 @@
   </article>
   <article id="DT22-00142" pg="353">
     <vedette><sm>Maroué</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>Maroe</i>, <date>1225</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, p. 340)</reference>.</forme_ancienne>
     <forme_ancienne><i>Maroy</i>, <date>1256</date>.</forme_ancienne>
     <forme_ancienne><i>de Maroyo</i>, <date>1286</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, p. 127, 173, etc.)</reference>.</forme_ancienne>
@@ -2210,7 +2217,7 @@
   </article>
   <article id="DT22-00151bis" pg="367">
     <vedette><sm>Trégenestre</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Meslin</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22151">Meslin</commune></localisation>.</definition>
     <forme_ancienne><i>Treglenistre</i>, <date>fin du <sm>xiv</sm><sup>e</sup> siècle</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 382)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tréglenestre</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2979)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregenestre</i>, <date>1605</date> <reference>(Archives des Côtes-d’Armor, 1 E 2450)</reference>.</forme_ancienne>
@@ -2327,7 +2334,7 @@
   <article id="DT22-00159" pg="385">
     <pg>385</pg>
     <vedette><sm>Notre-Dame-du-Guildo</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Saint-Cast-le-Guildo</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22282">Saint-Cast-le-Guildo</commune></localisation>.</definition>
     <commentaire>
       <p>Cette ancienne commune a été réunie à celle de Saint-Cast pour former Saint-Cast-le-Guildo en <date>1971</date>.</p>
     </commentaire>
@@ -2388,7 +2395,7 @@
   </article>
   <article id="DT22-00162bis" pg="388">
     <vedette><sm>Lanvignec</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Languinech</i>, <date>1198</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 10)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lavignec</i>, <date>1601</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lanvignec</i>, <date>1790</date>.</forme_ancienne>
@@ -2645,7 +2652,7 @@
   <article id="DT22-00179" pg="434">
     <pg>434</pg>
     <vedette><sm>Pléhérel</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Fréhel</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22179">Fréhel</commune></localisation>.</definition>
     <forme_ancienne><i>Pleherel</i>, <date>1159</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 34, 122)</reference>.</forme_ancienne>
     <commentaire>
       <p>Les habitants de Pléhérel étaient dits <i>pléhérellois.</i></p>
@@ -2655,9 +2662,11 @@
   <article id="DT22-00179bis" pg="434" type="commune">
     <vedette><sm>Fréhel</sm></vedette>
     <definition><typologie>commune</typologie> formée par la réunion de Pléhérel et de Plévenon.</definition>
-    <p>On a créé pour cette commune, comme nom d’habitants, l’adjectif <i>fréhélois</i> (<i>J.O.,</i> <date>30 juin 1978</date>).</p>
-    <p>Par arrêté préfectoral du <date>29 décembre 1972</date>, Fréhel a été formé par la fusion de deux communes : a) Pléhérel, où est situé le chef-lieu ; b) Plévenon, commune associée.</p>
-    <p>Peu après cette fusion, la nouvelle commune de Fréhel a reçu, par délibération municipale du <date>9 juin 1973</date>, des armoiries proposées par M. Ermoy et qui doivent être blasonnées ainsi : <i>d’azur chapé de contre-hermines, les deux pièces du champ chargées chacune d’un besant d’or.</i></p>
+    <commentaire>
+      <p>On a créé pour cette commune, comme nom d’habitants, l’adjectif <i>fréhélois</i> (<i>J.O.,</i> <date>30 juin 1978</date>).</p>
+      <p>Par arrêté préfectoral du <date>29 décembre 1972</date>, Fréhel a été formé par la fusion de deux communes : a) Pléhérel, où est situé le chef-lieu ; b) Plévenon, commune associée.</p>
+      <p>Peu après cette fusion, la nouvelle commune de Fréhel a reçu, par délibération municipale du <date>9 juin 1973</date>, des armoiries proposées par M. Ermoy et qui doivent être blasonnées ainsi : <i>d’azur chapé de contre-hermines, les deux pièces du champ chargées chacune d’un besant d’or.</i></p>
+    </commentaire>
     <insee>22179</insee>
   </article>
   <article id="DT22-00180" pg="435" type="commune">
@@ -2812,6 +2821,7 @@
   </article>
   <article id="DT22-0190bis" pg="460">
     <vedette><sm>Pleslin</sm></vedette>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22190">Pleslin-Trigavou</commune></localisation>.</definition>
     <forme_ancienne><i>Pleslin</i>, <date>1330</date> <reference>(<i>Monuments originaux de l'histoire de saint Yves</i>, 1887)</reference>.</forme_ancienne>
     <forme_ancienne><i>Plélin</i>, <date>1780</date> <reference>(Ogée, <i>Dictionnaire historique et géographique de la province de Bretagne</i>, 1780)</reference>.</forme_ancienne>
     <commentaire>
@@ -2959,7 +2969,7 @@
   <article id="DT22-00201" pg="479" type="commune">
     <pg>479</pg>
     <vedette><sm>Plévenon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Fréhel</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22179">Fréhel</commune></localisation>.</definition>
     <forme_ancienne><i>dîme de Plevenino</i>, <date>1214</date>.</forme_ancienne>
     <forme_ancienne><i>de Plovenon (corr. Plevenon ?)</i>, <date>1240</date>.</forme_ancienne>
     <forme_ancienne><i>Plevenon</i>, <date>1256</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 50, 94, 126, etc.)</reference>.</forme_ancienne>
@@ -3110,7 +3120,7 @@
   </article>
   <article id="DT22-00210bis" pg="498">
     <vedette><sm>Lannévez</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Ploubazlanec</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22210">Ploubazlanec</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesiam de Lanneez</i>, <date>1189</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>ecclesiam de Lannevet</i>, <date>1198</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lannves</i>, <date>1202</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
@@ -3118,7 +3128,7 @@
   </article>
   <article id="DT22-00210ter" pg="498">
     <vedette><sm>Perros-Hamon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Ploubazlanec</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22210">Ploubazlanec</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesiam de Penros</i>, <date>1198</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>Penros Goilou</i>, <date>1237</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>parrochia de Penros Goilou</i>, <date>1245</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
@@ -3422,7 +3432,7 @@
   </article>
   <article id="DT22-00230" pg="546">
     <vedette><sm>Plounez</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Plonez</i>, <date>1256</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
     <forme_ancienne><i>Ploenez</i>, <date>1261</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
     <forme_ancienne><i>Ploenet</i>, <date>1266</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
@@ -3737,7 +3747,7 @@
   <article id="DT22-00252" pg="581">
     <pg>581</pg>
     <vedette><sm>La Poterie</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>La Poterie</i>, <date>1425</date> <reference>(Archives des Côtes-d’Armor, 1 E 101)</reference>.</forme_ancienne>
     <commentaire>
       <p>La Poterie fut d’abord un village de potiers sur la paroisse de Maroué. Le lieu de ce nom est cité dès <date>1425</date> <reference>(Archives des Côtes-d’Armor, 1 E 101)</reference>. Le village apparaît dès <date>1500</date> et sa chapelle Saint-Yves dès <date>1537</date> <reference>(1 E 220)</reference>. Par ordonnance épiscopale du <date>10 décembre 1607</date>, cette chapelle fut autorisée à avoir des fonts baptismaux, ce qui en fit une église paroissiale <reference>(1 E 579 et <pg>582</pg>2 G 109)</reference>. La paroisse Saint-Yves de la Poterie, qui était sous l’Ancien Régime une succursale de la paroisse de Maroué, élut sa première municipalité au début de <date>1790</date>, donnant ainsi naissance à la commune de la Poterie.</p>
@@ -3982,7 +3992,7 @@
   </article>
   <article id="DT22-00270" pg="616">
     <vedette><sm>Saint-Aaron</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesia sancti Aaron</i>, <date>1144</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
     <forme_ancienne><i>ecclesiam sancti Aaronis</i>, <date>1207</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
     <forme_ancienne><i>in parrochia de Quistenit et de Sancto Aaronio</i>, <date>1238</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
@@ -4127,7 +4137,7 @@
   </article>
   <article id="DT22-00278bis" pg="625">
     <vedette><sm>Cesson</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Saint-Brieuc</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22278">Saint-Brieuc</commune></localisation>.</definition>
     <forme_ancienne><i>Gaulterius, praetor de Cesson</i>, <date>1144</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 591)</reference>.</forme_ancienne>
     <forme_ancienne><i>presbyter de Sesson</i>, <date>1263</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 141)</reference>.</forme_ancienne>
   </article>
@@ -4449,7 +4459,7 @@
   <article id="DT22-00301" pg="682">
     <pg>682</pg>
     <vedette><sm>Saint-Igneuc</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Jugon-les-Lacs</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22084">Jugon-les-Lacs</commune></localisation>.</definition>
     <forme_ancienne><i>Sant-Yunieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Inieuc</i>, <date>1270</date> (copie de 1347 analysée dans un inventaire moderne) <reference>(<i>Anc. év.</i> III, 258)</reference>.</forme_ancienne>
     <commentaire>
@@ -4821,12 +4831,12 @@
   </article>
   <article id="DT22-00328bis" pg="715">
     <vedette><sm>Burthulet</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Saint-Servais</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22328">Saint-Servais</commune></localisation>.</definition>
   </article>
   <article id="DT22-00329" pg="717">
     <pg>717</pg>
     <vedette><sm>Saint-Solen</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lanvallay</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22118">Lanvallay</commune></localisation>.</definition>
     <forme_ancienne><i>Sant-Solen</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Solain</i>, <date>Ancien Régime</date>.</forme_ancienne>
     <forme_ancienne><i>Saint-Solen</i>, <date>1879</date> <reference>(décret du 17 mars 1879)</reference>.</forme_ancienne>
@@ -4919,7 +4929,7 @@
   <article id="DT22-00336" pg="724">
     <pg>724</pg>
     <vedette><sm>Servel</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Selvell</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
     <forme_ancienne><i>Servel</i>, <date>1543</date>.</forme_ancienne>
     <commentaire>
@@ -5080,7 +5090,7 @@
   </article>
   <article id="DT22-00348bis" pg="744">
     <vedette><sm>Sainte-Urielle</sm> ou <sm>Sainte-Eurielle</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Trédias</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22348">Trédias</commune></localisation>.</definition>
   </article>
   <article id="DT22-00349" pg="745" type="commune">
     <pg>745</pg>
@@ -5102,7 +5112,7 @@
   </article>
   <article id="DT22-00349bis" pg="745">
     <vedette><sm>Locquémeau</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain">Trédrez</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22349">Trédrez</commune></localisation>.</definition>
   </article>
   <article id="DT22-00350" pg="747" type="commune">
     <pg>747</pg>
@@ -5160,7 +5170,7 @@
   <article id="DT22-00355" pg="754">
     <pg>754</pg>
     <vedette><sm>Trégomar</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>Trégoma</i>, <date>1220</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 315)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregomar</i>, <date>1235</date> <reference>(chartes de l’abbaye de Saint-Aubin des Bois : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 84)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregoma</i>, <date>1235</date> <reference>(chartes de l’abbaye de Saint-Aubin des Bois : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 84)</reference>.</forme_ancienne>
@@ -5410,7 +5420,7 @@
   <article id="DT22-00374" pg="786">
     <pg>786</pg>
     <vedette><sm>Tressaint</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Lanvallay</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22118">Lanvallay</commune></localisation>.</definition>
     <commentaire>
       <p>Sous l’Ancien Régime, Tressaint était une paroisse du diocèse de Dol (prieuré-cure de l’abbaye de Beaulieu) située en bordure de celui de Saint-Malo. Elle a élu une municipalité au début de <date>1790</date> et la commune a été associée à celle de Lanvallay par arrêté préfectoral du <date>29 décembre 1972</date>.</p>
     </commentaire>
@@ -5540,7 +5550,7 @@
   <article id="DT22-00382" pg="795">
     <pg>795</pg>
     <vedette><sm>Trigavou</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain">Pleslin-Trigavou</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22190">Pleslin-Trigavou</commune></localisation>.</definition>
     <forme_ancienne><i>Tregavou</i>, <date>1181</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359 ; VI, 127, 136)</reference>.</forme_ancienne>
     <commentaire>
       <p><i>Tregavou</i> (<i>sic</i>) avait dès <date>1181</date> une église Sainte-Brigitte, citée dans les chartes du prieuré de Léhon <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359 ; VI, 127, 136)</reference>. Trigavou, paroisse du diocèse de Saint-Malo sous l’Ancien Régime, a élu sa première municipalité au début de <date>1790</date>.</p>
