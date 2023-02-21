@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  xml:lang="fr">
+  <a:documentation>Dico-Topo</a:documentation>
+  <start>
+    <element name="DICTIONNAIRE">
+      <a:documentation>Élément racine</a:documentation>
+      <attribute name="type">
+        <value>pouille</value>
+      </attribute>
+      <attribute name="id">
+        <data type="ID"/>
+      </attribute>
+      <ref name="head"/><!-- PO -->
+      <oneOrMore>
+        <ref name="article"/>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="article">
+    <a:documentation>Un article du dictionnaire</a:documentation>
+    <element name="article">
+      <ref name="article.atts"/>
+      <optional>
+        <ref name="pg"/>
+      </optional>
+      <ref name="vedette"/>
+      <!-- quelques rares articles sans définition (essentiellement des renvois) -->
+      <optional>
+        <ref name="definition"/>
+      </optional>
+      <optional>
+        <ref name="pouille_localisation"/>
+      </optional>
+      <oneOrMore>
+        <ref name="pouille_forme_ancienne"/>
+      </oneOrMore>
+      <!-- DT: imbrication possible des formes anciennes et des commentaires  -->
+      <!-- 
+      <optional>
+        <oneOrMore>
+          <choice>
+            <ref name="forme_ancienne"/>
+            <ref name="commentaire"/>
+          </choice>
+        </oneOrMore>
+      </optional>
+       -->
+      <optional>
+        <ref name="insee"/>
+      </optional>
+    </element>
+  </define>
+  <define name="article.atts">
+    <a:documentation>Attributs attachés à un article</a:documentation>
+    <attribute name="old-id">
+      <a:documentation>Ancien identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000.</a:documentation>
+      <data type="ID"/>
+    </attribute>
+    <optional>
+      <attribute name="id">
+        <a:documentation>Identifiant de l’article attribué par l’application, formé du préfixe "P", suivi d’un nombre unique à 7 chiffres, suivi d’un chiffre de contrôle : P{0000000}{0}.</a:documentation>
+        <data type="ID"/>
+      </attribute>
+    </optional>
+    <attribute name="pg">
+      <a:documentation>La page de l’entrée dans le dictionnaire papier</a:documentation>
+      <data type="integer"/>
+    </attribute>
+    <optional>
+      <attribute name="type">
+        <value>commune</value>
+        <a:documentation>Attribut permettant d'identifier les articles concernant les communes</a:documentation>
+      </attribute>
+    </optional>
+    <optional>
+      <attribute name="tm">
+        <a:documentation>Tome du dictionnaire le cas échéant</a:documentation>
+        <data type="integer"/>
+      </attribute>
+    </optional>
+  </define>
+  <define name="vedette">
+    <a:documentation>Vedette(s) d’un article. Contient le label du toponyme et ses éventuelles formes alternatives</a:documentation>
+    <element name="vedette">
+      <oneOrMore>
+        <choice>
+          <!-- la ponctuation se balade… -->
+          <text/>
+          <ref name="sm"/>
+          <ref name="i"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="definition">
+    <a:documentation>Définition semi-structurée</a:documentation>
+    <element name="definition">
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="typologie"/>
+          <ref name="localisation"/>
+          <ref name="sup"/>
+          <ref name="i"/>
+          <ref name="pg"/>
+          <!-- Plus rare. On conserve pour transformation HTML ? -->
+          <ref name="date"/>
+          <ref name="reference"/>
+          <ref name="renvoi"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="localisation">
+    <a:documentation>Localisation du toponyme de la vedette par rapport à son échelon supérieur (commune, canton, arrondissement, département)</a:documentation>
+    <element name="localisation">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="flow"/>
+          <ref name="commune"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="commune">
+    <a:documentation>Identifie la commune présente dans l'élément localisation</a:documentation>
+    <element name="commune">
+      <attribute name="insee">
+        <!-- obligatoire suite aux enrichissements CF -->
+        <a:documentation>Code INSEE de la commune dans laquelle se trouve le toponyme</a:documentation>
+        <data type="integer"/>
+      </attribute>
+      <attribute name="precision">
+        <a:documentation>Type de la relation entre le lieu et la commune de localisation</a:documentation>
+        <choice>
+          <value>certain</value>
+          <a:documentation>certain : le lieu est localisé dans la commune (broaderPartitive : http://vocab.getty.edu/ontology#anchor-28390563)</a:documentation>
+          <value>approximatif</value>
+          <a:documentation>approximatif : le lieu est localisé de manière floue, par exemple au sein d'un canton, d'un arrondissement, ou bien à proximité / dans les environs / en face, etc. d'une commune (tgn3000_related_to)</a:documentation>
+        </choice>
+      </attribute>
+      <text/>
+    </element>
+  </define>
+  <define name="forme_ancienne">
+    <a:documentation>Une (unique) forme ancienne datée et référencée. Contenu semi-structuré</a:documentation>
+    <!-- Le(s) label(s) de la forme ancienne à proprement parler est(sont) inscrit(s) dans <i>. -->
+    <!-- Parfois plusieurs dates pour une forme ancienne (si doute ou plusieurs occurrences) -->
+    <element name="forme_ancienne">
+      <oneOrMore>
+        <choice>
+          <ref name="flow"/>
+          <ref name="date"/>
+          <ref name="reference"/>
+          <!--<ref name="note"/>-->
+          <ref name="renvoi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="reference">
+    <a:documentation>La référence d’une forme ancienne</a:documentation>
+    <element name="reference">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="flow"/>
+          <ref name="date"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="commentaire">
+    <a:documentation>Commentaire sur le toponyme en général ou bien sur l'une des ses formes anciennes en particulier</a:documentation>
+    <element name="commentaire">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="p">
+    <a:documentation>Les paragraphes des commentaires</a:documentation>
+    <element name="p">
+      <oneOrMore>
+        <choice>
+          <ref name="flow"/>
+          <ref name="date"/><!-- certaines dates sont balisées dans les commentaires (on ne les exploite pas) -->
+          <ref name="renvoi"/>
+          <ref name="reference"/><!-- quelques références bibliographiques à conserver -->
+          <ref name="note"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="renvoi">
+    <a:documentation>Renvoi à un autre article (sans pourvoir préciser la sémantique du renvoi)</a:documentation>
+    <element name="renvoi">
+      <ref name="flow"/>
+      <optional>
+        <attribute name="corresp">
+          <!-- idéalement, pointer l’identifiant de l’article référencé -->
+          <text/>
+        </attribute>
+      </optional>
+    </element>
+  </define>
+  <define name="date">
+    <a:documentation>Dates des formes anciennes</a:documentation>
+    <element name="date">
+      <!-- les dates ne sont hélas pas standardisées (pas de @when) dans la source XML -->
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sm"/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="flow">
+    <a:documentation>Du contenu riche (typographie, structure du dictionnaire)</a:documentation>
+    <oneOrMore>
+      <choice>
+        <text/>
+        <ref name="i"/>
+        <ref name="sup"/>
+        <ref name="sm"/>
+        <ref name="pg"/>
+      </choice>
+    </oneOrMore>
+  </define>
+  <define name="i">
+    <a:documentation>Italique</a:documentation>
+    <element name="i">
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+          <!-- <ref name="sm"/> -->
+          <ref name="pg"/>
+          <!-- 
+          <ref name="ads"/>
+          <ref name="pti"/>
+           -->
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="sup">
+    <a:documentation>Exposant</a:documentation>
+    <element name="sup">
+      <text/>
+      <zeroOrMore>
+        <ref name="i"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="sm">
+    <a:documentation>Petites capitales : reproduit la typographie des dictionnaires papier</a:documentation>
+    <element name="sm">
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <!-- <ref name="pg"/> pénible pour les traitements ; on interdit ? -->
+          <ref name="i"/>
+          <ref name="sup"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="pg">
+    <a:documentation>Saut de page ; peut survenir partout</a:documentation>
+    <element name="pg">
+      <data type="integer"/>
+    </element>
+  </define>
+  <define name="insee">
+    <a:documentation>Code INSEE de la commune</a:documentation>
+    <element name="insee">
+      <text/>
+    </element>
+  </define>
+  <define name="ads">
+    <a:documentation>"Au-dessus": retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite au-dessus d'une autre). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+    <text/>
+  </define>
+  <define name="pti">
+    <a:documentation>"Petit" : retranscrit la typographie traduisant la prononciation de la forme ancienne dans le parler local (ici, une lettre écrite de taille plus petite). Présent uniquement dans le dictionnaire de la Loire.</a:documentation>
+    <text/>
+    <zeroOrMore>
+      <ref name="ads"/>
+    </zeroOrMore>
+  </define>
+  <define name="note">
+    <a:documentation>Note de bas de page dans le dictionnaire papier</a:documentation>
+    <element name="note">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <!-- contrôler, déporter ? -->
+  <define name="typologie">
+    <a:documentation>Types de lieu</a:documentation>
+    <element name="typologie">
+      <text/>
+      <!-- TODO. Définir une liste d’autorité -->
+    </element>
+  </define>
+  
+  <!-- SPÉCIFIQUE POUILLÉS -->
+  <define name="head">
+    <element name="head">
+      <a:documentation>Titre du Pouillé</a:documentation>
+      <text/>
+    </element>
+  </define>
+  
+  <define name="pouille_localisation">
+    <oneOrMore>
+      <choice>
+        <ref name="localisationpa"/>
+        <ref name="localisationde"/>
+        <ref name="localisationca"/>
+        <ref name="localisationco"/>
+        <ref name="localisation_undefined"/>
+      </choice>
+    </oneOrMore>
+  </define>
+  <define name="localisationpa">
+    <a:documentation>Pays de localisation</a:documentation>
+    <element name="localisationpa">
+      <text/>
+    </element>
+  </define>
+  <define name="localisationde">
+    <a:documentation>Département de localisation</a:documentation>
+    <element name="localisationde">
+      <text/>
+    </element>
+  </define>
+  <define name="localisationca">
+    <a:documentation>Canton de localisation</a:documentation>
+    <element name="localisationca">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="localisationco">
+    <a:documentation>Commune de localisation</a:documentation>
+    <element name="localisationco">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="localisation_undefined">
+    <a:documentation>Localisation hors cadre COG INSEE</a:documentation>
+    <element name="localisation">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="pouille_forme_ancienne">
+    <a:documentation>Notice de la forme ancienne : la forme + sa/ses références</a:documentation>
+    <element name="forme_ancienne">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="fa"/>
+          <ref name="pouille_reference"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="fa">
+    <a:documentation>La forme ancienne</a:documentation>
+    <element name="fa">
+      <text/>
+    </element>
+  </define>
+  <define name="pouille_reference">
+    <a:documentation>Référence bibliographique de la forme ancienne</a:documentation>
+    <element name="reference">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="i"/>
+          <ref name="sm"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+</grammar>
