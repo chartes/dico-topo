@@ -1,6 +1,8 @@
 .DS_Store
 dt2ghs.xsl
+.ipynb_checkpoints
 *.ttl
+njbjb
 app/
 docs/
 utils/out/
