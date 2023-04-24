@@ -7,3 +7,4 @@ app/
 docs/
 utils/out/
 *IDS_MAP.tsv
+.idea/
