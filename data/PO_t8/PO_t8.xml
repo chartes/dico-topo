@@ -1168,11 +1168,6 @@
     <localisationca>c<sup>on</sup> de Rémuzat</localisationca>
     <forme_ancienne>— <fa>Belle-Combe</fa>; prieuré, <reference>128 <sm>d</sm></reference>.</forme_ancienne>
   </article>
-  <article old-id="PO8-00165" pg="343">
-    <vedette><i>Bellegarde</i> ou <i>Bellegarde-du-Gard</i></vedette>
-    <localisationde>Gard</localisationde>
-    <localisationca>c<sup>on</sup> de Beaucaire</localisationca>
-  </article>
   <pg>344</pg>
   <article old-id="PO8-00166" pg="344">
     <vedette><i>Belvedère</i></vedette>
@@ -6552,9 +6547,9 @@
   </article>
   <article old-id="PO8-01039" pg="429">
     <vedette><i>Notre-Dame-de-Beaulieu</i></vedette>
+    <definition><localisation>aux Aliscamps</localisation></definition>
     <localisationde>Bouches-du-Rhône</localisationde>
     <localisationco>c<sup>ne</sup> d'Arles</localisationco>
-    <definition><localisation>aux Aliscamps</localisation></definition>
     <forme_ancienne>— <fa>Pulcer Locus</fa>; eccl., <reference>147 <sm>c</sm></reference>; prior, <reference>142 <sm>c</sm></reference>.</forme_ancienne>
     <forme_ancienne><fa>Beata vel Sancta Maria de Pulcro Loco</fa>; capellanus, <reference>154 <sm>b</sm></reference>; eccl., <reference>149 <sm>c</sm></reference>.</forme_ancienne>
   </article>
@@ -6603,10 +6598,10 @@
   </article>
   <article old-id="PO8-01047" pg="429">
     <vedette><i>Notre-Dame de Cure</i></vedette>
+    <definition><localisation>à Puyricard</localisation>.</definition>
     <localisationde>Bouches-du-Rhône</localisationde>
     <localisationca>c<sup>on</sup> d’Aix</localisationca>
     <localisationco>c<sup>ne</sup> d’Aix</localisationco>
-    <definition><localisation>à Puyricard</localisation>.</definition>
     <forme_ancienne>— <fa>Cura</fa>, <reference>6 <sm>d</sm></reference>.</forme_ancienne>
     <forme_ancienne><fa>Sancta Maria de Cura</fa>; eccl., <reference>22 <sm>c</sm></reference>.</forme_ancienne>
   </article>
@@ -6984,8 +6979,7 @@
   </article>
   <article old-id="PO8-01114" pg="432">
     <vedette><i>Notre-Dame d’Urbane</i></vedette>
-    <definition><typologie>église disparue</typologie></definition>
-    <definition>dans une île du Rhône entre Tarascon et Beaucaire.</definition>
+    <definition><typologie>église disparue</typologie> dans une île du Rhône entre Tarascon et Beaucaire.</definition>
     <forme_ancienne>— <fa>Urbana</fa>; eccl., <reference>190 <sm>b</sm>, 192 <sm>e</sm></reference>; rector, <reference>167 <sm>a</sm></reference>.</forme_ancienne>
   </article>
   <article old-id="PO8-01115" pg="432">
@@ -7763,8 +7757,8 @@
   </article>
   <article old-id="PO8-01239" pg="444">
     <vedette><i>Prat</i></vedette>
-    <localisationde>Drôme</localisationde>
     <definition><typologie>localité disparue</typologie>.</definition>
+    <localisationde>Drôme</localisationde>
     <forme_ancienne>— <fa>Prati</fa>; prior, <reference>232 <sm>a</sm></reference>.</forme_ancienne>
   </article>
   <pg>445</pg>
@@ -9780,10 +9774,10 @@
   </article>
   <article old-id="PO8-01570" pg="465">
     <vedette><i>Saint-Genet</i></vedette>
+    <definition><localisation>à Trinquetaille</localisation>.</definition>
     <localisationde>Bouches-du-Rhône</localisationde>
     <localisationca>c<sup>on</sup> d’Arles</localisationca>
     <localisationco>c<sup>ne</sup> d’Arles</localisationco>
-    <definition><localisation>à Trinquetaille</localisation>.</definition>
     <forme_ancienne>— <fa>Sanctus Genesius de Columna</fa>; eccl., <reference>146 <sm>c</sm></reference>.</forme_ancienne>
     <forme_ancienne><fa>Sanctus Genesius vel Genessius sive Genessus de Columpna</fa>; eccl., <reference>149 <sm>a</sm></reference>; prior, <reference>142 <sm>b</sm>, 154 <sm>f</sm>, 162 <sm>a</sm></reference>.</forme_ancienne>
     <forme_ancienne><fa>Sanctus Genesius de la Corona</fa>; eccl., <reference>135 <sm>a</sm></reference>.</forme_ancienne>
@@ -11832,9 +11826,9 @@
   </article>
   <article old-id="PO8-02030" pg="479">
     <vedette><i>Saint-Pierre-de-Fabregoule</i></vedette>
+    <definition><localisation>aux Aliscamps</localisation>.</definition>
     <localisationde>Bouches-du-Rhône</localisationde>
     <localisationco>c<sup>ne</sup> d'Arles</localisationco>
-    <definition><localisation>aux Aliscamps</localisation>.</definition>
     <forme_ancienne>— <fa>Sanctus Petrus de Fabregol</fa>, <reference>142 var. <i>f</i></reference>.</forme_ancienne>
     <forme_ancienne><fa>Sanctus Petrus de Fabregolis</fa>; eccl., <reference>149 <sm>c</sm></reference>.</forme_ancienne>
     <forme_ancienne><fa>Sanctus Petrus de Fanabregol</fa>; eccl., <reference>137 <sm>a</sm></reference>.</forme_ancienne>
@@ -11859,10 +11853,10 @@
   </article>
   <article old-id="PO8-02033" pg="480">
     <vedette><i>Saint-Pierre-de-Gallègue</i></vedette>
+    <definition><localisation>à Trinquetaille</localisation>.</definition>
     <localisationde>Bouches-du-Rhône</localisationde>
     <localisationca>c<sup>on</sup> d’Arles</localisationca>
     <localisationco>c<sup>ne</sup> d’Arles</localisationco>
-    <definition><localisation>à Trinquetaille</localisation>.</definition>
     <forme_ancienne>— <fa>Sanctus Petrus de Gallico</fa>; eccl., <reference>135 <sm>a</sm></reference>.</forme_ancienne>
   </article>
   <article old-id="PO8-02034" pg="480">
