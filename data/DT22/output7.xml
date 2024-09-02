@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
-  Copyright © 2023 École nationale des chartes
+  Copyright © 2024 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
 <DICTIONNAIRE dep="22" departement="Côtes-d’Armor">
-  <article id="DT22-00001" pg="91" type="commune">
+  <article id="P81915859" old-id="DT22-00001" pg="91" type="commune">
     <pg>91</pg>
     <vedette><sm>Allineuc</sm></vedette>
     <forme_ancienne><i>Alineug</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -18,7 +19,7 @@
     </commentaire>
     <insee>22001</insee>
   </article>
-  <article id="DT22-00002" pg="93" type="commune">
+  <article id="P67512509" old-id="DT22-00002" pg="93" type="commune">
     <pg>93</pg>
     <vedette><sm>Andel</sm></vedette>
     <forme_ancienne><i>Andael</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -29,7 +30,7 @@
     </commentaire>
     <insee>22002</insee>
   </article>
-  <article id="DT22-00003" pg="94" type="commune">
+  <article id="P40602444" old-id="DT22-00003" pg="94" type="commune">
     <pg>94</pg>
     <vedette><sm>Aucaleuc</sm></vedette>
     <forme_ancienne><i>Aikoleg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -40,7 +41,7 @@
     </commentaire>
     <insee>22003</insee>
   </article>
-  <article id="DT22-00004" pg="95" type="commune">
+  <article id="P87355626" old-id="DT22-00004" pg="95" type="commune">
     <pg>95</pg>
     <vedette><sm>Bégard</sm></vedette>
     <forme_ancienne><i>Bear</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -59,19 +60,19 @@
     </commentaire>
     <insee>22004</insee>
   </article>
-  <article id="DT22-00004bis" pg="95">
+  <article id="P30827175" old-id="DT22-00004bis" pg="95">
     <vedette><sm>Guénézan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22004" precision="certain">Bégard</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00004ter" pg="95">
+  <article id="P27431290" old-id="DT22-00004ter" pg="95">
     <vedette><sm>Botlézan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22004" precision="certain">Bégard</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00004quater" pg="95">
+  <article id="P64133004" old-id="DT22-00004quater" pg="95">
     <vedette><sm>Trézélan</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22004">Bégard</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22004" precision="certain">Bégard</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00005" pg="99" type="commune">
+  <article id="P23810633" old-id="DT22-00005" pg="99" type="commune">
     <pg>99</pg>
     <vedette><sm>Belle-Isle-en-Terre</sm></vedette>
     <forme_ancienne><i>Benech</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -88,7 +89,7 @@
     </commentaire>
     <insee>22005</insee>
   </article>
-  <article id="DT22-00006" pg="101" type="commune">
+  <article id="P80109366" old-id="DT22-00006" pg="101" type="commune">
     <pg>101</pg>
     <vedette><sm>Berhet</sm></vedette>
     <forme_ancienne><i>Berc’hed</i>, <date>1437</date> <reference>(Archives de la Loire-Atlantique, B 2982)</reference>.</forme_ancienne>
@@ -99,7 +100,7 @@
     </commentaire>
     <insee>22006</insee>
   </article>
-  <article id="DT22-00007" pg="101" type="commune">
+  <article id="P68720830" old-id="DT22-00007" pg="101" type="commune">
     <vedette><sm>Binic</sm></vedette>
     <forme_ancienne><i>Binig</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>pont de Binic</i>, <date>1419</date> <reference>(Archives des Côtes-d’Armor, 1 E 1253)</reference>.</forme_ancienne>
@@ -115,7 +116,7 @@
     </commentaire>
     <insee>22007</insee>
   </article>
-  <article id="DT22-00008" pg="104" type="commune">
+  <article id="P79010852" old-id="DT22-00008" pg="104" type="commune">
     <pg>104</pg>
     <vedette><sm>Bobital</sm></vedette>
     <forme_ancienne><i>Bobital</i>, <date>1280</date> <reference>(Cartulaire de <pg>105</pg>S. Melaine, fol. 162, d’après : Planiol, <i>Histoire des institutions de la Bretagne,</i> 2<sup>e</sup> éd., III, p. 223)</reference>.</forme_ancienne>
@@ -126,7 +127,7 @@
     </commentaire>
     <insee>22008</insee>
   </article>
-  <article id="DT22-00009" pg="105" type="commune">
+  <article id="P85415883" old-id="DT22-00009" pg="105" type="commune">
     <vedette><sm>Le Bodéo</sm></vedette>
     <forme_ancienne><i>Bodeou</i>, <date>1246</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 178 et suiv.)</reference>.</forme_ancienne>
     <forme_ancienne><i>de Bodeio</i>, <date>1271</date>.</forme_ancienne>
@@ -140,14 +141,14 @@
     </commentaire>
     <insee>22009</insee>
   </article>
-  <article id="DT22-00010" pg="106">
+  <article id="P87984203" old-id="DT22-00010" pg="106">
     <vedette><sm>Bonen</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22266">Rostrenen</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22266" precision="certain">Rostrenen</commune></localisation>.</definition>
     <commentaire>
       <p>Cette commune a été réunie à celle de Rostrenen en <date>1970</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00011" pg="107" type="commune">
+  <article id="P85493683" old-id="DT22-00011" pg="107" type="commune">
     <pg>107</pg>
     <vedette><sm>Boqueho</sm></vedette>
     <forme_ancienne><i>Bosko</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -161,7 +162,7 @@
     </commentaire>
     <insee>22011</insee>
   </article>
-  <article id="DT22-00012" pg="108" type="commune">
+  <article id="P63876617" old-id="DT22-00012" pg="108" type="commune">
     <pg>108</pg>
     <vedette><sm>La Bouillie</sm></vedette>
     <forme_ancienne><i>Buzulia</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -172,7 +173,7 @@
     </commentaire>
     <insee>22012</insee>
   </article>
-  <article id="DT22-00013" pg="109" type="commune">
+  <article id="P21872917" old-id="DT22-00013" pg="109" type="commune">
     <vedette><sm>Bourbriac</sm></vedette>
     <forme_ancienne><i>Boulvriag</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Boul-Briac</i>, <date>1631</date> <reference>(Albert Le Grand)</reference>.</forme_ancienne>
@@ -192,7 +193,7 @@
     </commentaire>
     <insee>22013</insee>
   </article>
-  <article id="DT22-00014" pg="113" type="commune">
+  <article id="P28039536" old-id="DT22-00014" pg="113" type="commune">
     <pg>113</pg>
     <vedette><sm>Bourseul</sm></vedette>
     <forme_ancienne><i>Bourc’h-Saout</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -208,7 +209,7 @@
     </commentaire>
     <insee>22014</insee>
   </article>
-  <article id="DT22-00015" pg="114" type="commune">
+  <article id="P84214342" old-id="DT22-00015" pg="114" type="commune">
     <vedette><sm>Bréhand</sm></vedette>
     <forme_ancienne><i>église de Brehant</i>, <date>vers 1132</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. I, 376 ; III, 332, 339)</reference>.</forme_ancienne>
     <forme_ancienne><i>Brehant Moncontor</i>, <date>1225</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. I, 376 ; III, 332, 339)</reference>.</forme_ancienne>
@@ -230,7 +231,7 @@
     </commentaire>
     <insee>22015</insee>
   </article>
-  <article id="DT22-00016" pg="118" type="commune">
+  <article id="P35721603" old-id="DT22-00016" pg="118" type="commune">
     <pg>118</pg>
     <vedette><sm>Bréhat (Île de)</sm></vedette>
     <forme_ancienne><i>Briad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -256,19 +257,19 @@
     </commentaire>
     <insee>22016</insee>
   </article>
-  <article id="DT22-00016bis" pg="118">
+  <article id="P38624858" old-id="DT22-00016bis" pg="118">
     <vedette><sm>Binivet</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de l'<commune precision="certain" insee="22016">Île-de-Bréhat</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de l'<commune insee="22016" precision="certain">Île-de-Bréhat</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00017" pg="126">
+  <article id="P02096742" old-id="DT22-00017" pg="126">
     <pg>126</pg>
     <vedette><sm>Brélévenez</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22113" precision="certain">Lannion</commune></localisation>.</definition>
     <commentaire>
       <p>Cette commune a été réunie à celle de Lannion en <date>1961</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00018" pg="126" type="commune">
+  <article id="P90305565" old-id="DT22-00018" pg="126" type="commune">
     <vedette><sm>Brélidy</sm></vedette>
     <forme_ancienne><i>Brelidi</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Brellidy</i>, <date>1486</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 250)</reference>.</forme_ancienne>
@@ -279,7 +280,7 @@
     </commentaire>
     <insee>22018</insee>
   </article>
-  <article id="DT22-00019" pg="127" type="commune">
+  <article id="P69323102" old-id="DT22-00019" pg="127" type="commune">
     <pg>127</pg>
     <vedette><sm>Bringolo</sm></vedette>
     <forme_ancienne><i>Bringollou</i>, <date>1608</date> <reference>(état civil)</reference>.</forme_ancienne>
@@ -292,7 +293,7 @@
     </commentaire>
     <insee>22019</insee>
   </article>
-  <article id="DT22-00020" pg="128" type="commune">
+  <article id="P61785739" old-id="DT22-00020" pg="128" type="commune">
     <pg>128</pg>
     <vedette><sm>Broons</sm></vedette>
     <forme_ancienne><i>Broon</i>, <date>1205</date> <reference>(cartulaire de l’abbaye de Boquen)</reference>.</forme_ancienne>
@@ -304,7 +305,7 @@
     </commentaire>
     <insee>22020</insee>
   </article>
-  <article id="DT22-00021" pg="130" type="commune">
+  <article id="P39163832" old-id="DT22-00021" pg="130" type="commune">
     <pg>130</pg>
     <vedette><sm>Brusvily</sm></vedette>
     <forme_ancienne><i>Brusweli</i>, <date>1156</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359, 362 ; VI, 135, 136 ; P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 689)</reference>.</forme_ancienne>
@@ -320,17 +321,17 @@
     </commentaire>
     <insee>22021</insee>
   </article>
-  <article id="DT22-00022" pg="131">
+  <article id="P64537506" old-id="DT22-00022" pg="131">
     <pg>131</pg>
     <vedette><sm>Buhulien</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22113" precision="certain">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Buhulyen</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
     <forme_ancienne><i>Buzulien</i>, <date>1719</date> <reference>(Archives des Côtes-d’Armor, 1 G évêché de Tréguier, insinuations, fol. 118 v°)</reference>.</forme_ancienne>
     <commentaire>
       <p>Cette commune a été réunie à celle de Lannion en <date>1961</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00023" pg="131" type="commune">
+  <article id="P34308024" old-id="DT22-00023" pg="131" type="commune">
     <vedette><sm>Bulat-Pestivien</sm></vedette>
     <forme_ancienne><i>Bulad-Pestivien</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Penstyffyen</i>, <date>1368</date> <reference>(taxe des bénéfices du diocèse de Quimper)</reference>.</forme_ancienne>
@@ -345,7 +346,7 @@
     </commentaire>
     <insee>22023</insee>
   </article>
-  <article id="DT22-00024" pg="133" type="commune">
+  <article id="P83209492" old-id="DT22-00024" pg="133" type="commune">
     <pg>133</pg>
     <vedette><sm>Calanhel</sm></vedette>
     <forme_ancienne><i>Kalanel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -359,7 +360,7 @@
     </commentaire>
     <insee>22024</insee>
   </article>
-  <article id="DT22-00025" pg="134" type="commune">
+  <article id="P44013296" old-id="DT22-00025" pg="134" type="commune">
     <pg>134</pg>
     <vedette><sm>Callac</sm></vedette>
     <forme_ancienne><i>Kallag</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -376,14 +377,14 @@
     </commentaire>
     <insee>22025</insee>
   </article>
-  <article id="DT22-00025bis" pg="134">
+  <article id="P41664851" old-id="DT22-00025bis" pg="134">
     <vedette><sm>Botmel</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22025">Callac</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22025" precision="certain">Callac</commune></localisation>.</definition>
     <forme_ancienne><i>Botnumel</i>, <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 233)</reference>.</forme_ancienne>
     <forme_ancienne><i>Botmel</i>, <date>1637</date> <reference>(registres paroissiaux)</reference>.</forme_ancienne>
     <forme_ancienne><i>Bonmel</i>, <date>1778</date> <reference>(Ogée, <i>Dictionnaire historique et géographique de la province de Bretagne</i>, 1780)</reference>.</forme_ancienne>
   </article>
-  <article id="DT22-00026" pg="138" type="commune">
+  <article id="P23189060" old-id="DT22-00026" pg="138" type="commune">
     <pg>138</pg>
     <vedette><sm>Calorguen</sm></vedette>
     <forme_ancienne><i>ecclesia de Karorguen</i>, <date>1182</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 689)</reference>.</forme_ancienne>
@@ -397,7 +398,7 @@
     </commentaire>
     <insee>22026</insee>
   </article>
-  <article id="DT22-00027" pg="139" type="commune">
+  <article id="P95660056" old-id="DT22-00027" pg="139" type="commune">
     <pg>139</pg>
     <vedette><sm>Le Cambout</sm></vedette>
     <forme_ancienne><i>Quembot</i>, <date><sm>xiii</sm><sup>e</sup> siècle</date>.</forme_ancienne>
@@ -408,7 +409,7 @@
     </commentaire>
     <insee>22027</insee>
   </article>
-  <article id="DT22-00028" pg="141" type="commune">
+  <article id="P94212158" old-id="DT22-00028" pg="141" type="commune">
     <pg>141</pg>
     <vedette><sm>Camlez</sm></vedette>
     <forme_ancienne><i>Kamlez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -422,7 +423,7 @@
     </commentaire>
     <insee>22028</insee>
   </article>
-  <article id="DT22-00029" pg="142" type="commune">
+  <article id="P61636940" old-id="DT22-00029" pg="142" type="commune">
     <pg>142</pg>
     <vedette><sm>Canihuel</sm></vedette>
     <forme_ancienne><i>Kanivel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -435,14 +436,14 @@
     </commentaire>
     <insee>22029</insee>
   </article>
-  <article id="DT22-00030" pg="143" type="commune">
+  <article id="P71785696" old-id="DT22-00030" pg="143" type="commune">
     <pg>143</pg>
     <vedette><sm>Caouënnec-Lanvézéac</sm></vedette>
     <insee>22030</insee>
   </article>
-  <article id="DT22-00030bis" pg="143">
+  <article id="P61253434" old-id="DT22-00030bis" pg="143">
     <vedette><sm>Caouënnec</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22030">Caouënnec-Lanvézéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22030" precision="certain">Caouënnec-Lanvézéac</commune></localisation>.</definition>
     <forme_ancienne><i>Kaouenneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>treff de Couhannec</i>, <date>1476</date> <reference>(Archives des Côtes-d’Armor, 1 E 2167)</reference>.</forme_ancienne>
     <commentaire>
@@ -450,7 +451,7 @@
       <p><pg>144</pg>Le nom breton de cette localité s’écrit <i>Kaouenneg</i>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00031" pg="144" type="commune">
+  <article id="P29803890" old-id="DT22-00031" pg="144" type="commune">
     <vedette><sm>Carnoët</sm></vedette>
     <forme_ancienne><i>Karnoed</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Carnot Pocher</i> (Carnoët en Poher), <date>1368</date> <reference>(<i>Bulletin de la commission diocésaine d’architecture et d’archéologie</i>, t. I, diocèse de Quimper, 1901, p. 45)</reference>.</forme_ancienne>
@@ -463,7 +464,7 @@
     </commentaire>
     <insee>22031</insee>
   </article>
-  <article id="DT22-00032" pg="147" type="commune">
+  <article id="P54876865" old-id="DT22-00032" pg="147" type="commune">
     <pg>147</pg>
     <vedette><sm>Caulnes</sm></vedette>
     <forme_ancienne><i>de Cauno</i>, <date>1181</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 135)</reference>.</forme_ancienne>
@@ -477,7 +478,7 @@
     </commentaire>
     <insee>22032</insee>
   </article>
-  <article id="DT22-00033" pg="148" type="commune">
+  <article id="P09367867" old-id="DT22-00033" pg="148" type="commune">
     <pg>148</pg>
     <vedette><sm>Caurel</sm></vedette>
     <forme_ancienne><i>Kaorel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -489,7 +490,7 @@
     </commentaire>
     <insee>22033</insee>
   </article>
-  <article id="DT22-00034" pg="149" type="commune">
+  <article id="P12181670" old-id="DT22-00034" pg="149" type="commune">
     <vedette><sm>Cavan</sm></vedette>
     <forme_ancienne><i>Kaouan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Kaguan</i>, <date>1283</date> <reference>(A. de Laborderie, <i>Recueil d’actes inédits</i>, 1888, p. 233)</reference>.</forme_ancienne>
@@ -501,7 +502,7 @@
     </commentaire>
     <insee>22034</insee>
   </article>
-  <article id="DT22-00035" pg="151" type="commune">
+  <article id="P26281456" old-id="DT22-00035" pg="151" type="commune">
     <pg>151</pg>
     <vedette><sm>Les Champs-Géraux</sm></vedette>
     <forme_ancienne><i>seigneurie des Champs-Geraut</i>, <date>1513</date> <reference>(Des Salles, <i>Anciennes réformations</i>, 1864, p. 125)</reference>.</forme_ancienne>
@@ -511,7 +512,7 @@
     </commentaire>
     <insee>22035</insee>
   </article>
-  <article id="DT22-00036" pg="152" type="commune">
+  <article id="P27944047" old-id="DT22-00036" pg="152" type="commune">
     <pg>152</pg>
     <vedette><sm>La Chapelle-Blanche</sm></vedette>
     <commentaire>
@@ -519,7 +520,7 @@
     </commentaire>
     <insee>22036</insee>
   </article>
-  <article id="DT22-00037" pg="153" type="commune">
+  <article id="P07725057" old-id="DT22-00037" pg="153" type="commune">
     <pg>153</pg>
     <vedette><sm>La Chapelle-Neuve</sm></vedette>
     <forme_ancienne><i>ar Chapel-Nevez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -528,7 +529,7 @@
     </commentaire>
     <insee>22037</insee>
   </article>
-  <article id="DT22-00038" pg="153" type="commune">
+  <article id="P43547304" old-id="DT22-00038" pg="153" type="commune">
     <vedette><sm>Châtelaudren</sm></vedette>
     <forme_ancienne><i>Kastell-Aodren</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Castellum Audroeni</i>, <date>1137</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 358)</reference>.</forme_ancienne>
@@ -547,7 +548,7 @@
     </commentaire>
     <insee>22038</insee>
   </article>
-  <article id="DT22-00039" pg="156" type="commune">
+  <article id="P30377396" old-id="DT22-00039" pg="156" type="commune">
     <pg>156</pg>
     <vedette><sm>La Chèze</sm></vedette>
     <forme_ancienne><i>Kaez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -561,7 +562,7 @@
     </commentaire>
     <insee>22039</insee>
   </article>
-  <article id="DT22-00040" pg="159" type="commune">
+  <article id="P40547017" old-id="DT22-00040" pg="159" type="commune">
     <pg>159</pg>
     <vedette><sm>Coadout</sm></vedette>
     <forme_ancienne><i>Koadou</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -571,7 +572,7 @@
     </commentaire>
     <insee>22040</insee>
   </article>
-  <article id="DT22-00041" pg="160" type="commune">
+  <article id="P56611597" old-id="DT22-00041" pg="160" type="commune">
     <pg>160</pg>
     <vedette><sm>Coatascorn</sm></vedette>
     <forme_ancienne><i>Koataskorn</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -584,7 +585,7 @@
     </commentaire>
     <insee>22041</insee>
   </article>
-  <article id="DT22-00042" pg="161" type="commune">
+  <article id="P64458335" old-id="DT22-00042" pg="161" type="commune">
     <pg>161</pg>
     <vedette><sm>Coatréven</sm></vedette>
     <forme_ancienne><i>Koatreven</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -601,7 +602,7 @@
     </commentaire>
     <insee>22042</insee>
   </article>
-  <article id="DT22-00043" pg="161" type="commune">
+  <article id="P40296020" old-id="DT22-00043" pg="161" type="commune">
     <vedette><sm>Coëtlogon</sm></vedette>
     <forme_ancienne><i>Coëtlogon</i>, <date>1248</date>.</forme_ancienne>
     <forme_ancienne><i>Collogon</i>, <date>1792</date> <reference>(Archives des Côtes-d’Armor, 2 E carton 64)</reference>.</forme_ancienne>
@@ -613,7 +614,7 @@
     </commentaire>
     <insee>22043</insee>
   </article>
-  <article id="DT22-00044" pg="163" type="commune">
+  <article id="P86741211" old-id="DT22-00044" pg="163" type="commune">
     <pg>163</pg>
     <vedette><sm>Coëtmieux</sm></vedette>
     <forme_ancienne><i>ecclesia S. Quirini que sita est in silva que dicitur Meuc</i>, <date>1190</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 718)</reference>.</forme_ancienne>
@@ -633,7 +634,7 @@
     </commentaire>
     <insee>22044</insee>
   </article>
-  <article id="DT22-00045" pg="165" type="commune">
+  <article id="P51180406" old-id="DT22-00045" pg="165" type="commune">
     <pg>165</pg>
     <vedette><sm>Cohiniac</sm></vedette>
     <forme_ancienne><i>Cohignac</i>, <date>1220</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 75)</reference>.</forme_ancienne>
@@ -644,7 +645,7 @@
     </commentaire>
     <insee>22045</insee>
   </article>
-  <article id="DT22-00046" pg="165" type="commune">
+  <article id="P61076777" old-id="DT22-00046" pg="165" type="commune">
     <vedette><sm>Collinée</sm></vedette>
     <forme_ancienne><i>Coeslineis</i>, <date>1433</date> <reference>(Du Paz, <i>Histoire généalogique,</i> 1619, p. 720)</reference>.</forme_ancienne>
     <forme_ancienne><i>Coelinée</i>, <date>1790</date>.</forme_ancienne>
@@ -659,7 +660,7 @@
     </commentaire>
     <insee>22046</insee>
   </article>
-  <article id="DT22-00047" pg="166" type="commune">
+  <article id="P84493749" old-id="DT22-00047" pg="166" type="commune">
     <pg>166</pg>
     <vedette><sm>Corlay</sm></vedette>
     <forme_ancienne><i>Korle</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -680,7 +681,7 @@
     </commentaire>
     <insee>22047</insee>
   </article>
-  <article id="DT22-00048" pg="169" type="commune">
+  <article id="P17802129" old-id="DT22-00048" pg="169" type="commune">
     <pg>169</pg>
     <vedette><sm>Corseul</sm></vedette>
     <forme_ancienne><i>Kersaoud</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -698,7 +699,7 @@
     </commentaire>
     <insee>22048</insee>
   </article>
-  <article id="DT22-00049" pg="171" type="commune">
+  <article id="P67741893" old-id="DT22-00049" pg="171" type="commune">
     <pg>171</pg>
     <vedette><sm>Créhen</sm></vedette>
     <forme_ancienne><i>Cherehen</i>, <date>1163</date>.</forme_ancienne>
@@ -711,7 +712,7 @@
     </commentaire>
     <insee>22049</insee>
   </article>
-  <article id="DT22-00050" pg="173" type="commune">
+  <article id="P28525397" old-id="DT22-00050" pg="173" type="commune">
     <pg>173</pg>
     <vedette><sm>Dinan</sm></vedette>
     <forme_ancienne><i>Joscelinus de Dinam</i>, <date>1040</date> <reference>(charte de fondation du Prieuré de Plougasnou)</reference>.</forme_ancienne>
@@ -730,7 +731,7 @@
     </commentaire>
     <insee>22050</insee>
   </article>
-  <article id="DT22-00051" pg="183" type="commune">
+  <article id="P66711635" old-id="DT22-00051" pg="183" type="commune">
     <pg>183</pg>
     <vedette><sm>Dolo</sm></vedette>
     <forme_ancienne><i>Dulci Loco</i>, <date>1208</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 45, 63, 69, 85, 105, 111, 179, 181, 191)</reference>.</forme_ancienne>
@@ -745,7 +746,7 @@
     </commentaire>
     <insee>22051</insee>
   </article>
-  <article id="DT22-00052" pg="184" type="commune">
+  <article id="P50516073" old-id="DT22-00052" pg="184" type="commune">
     <pg>184</pg>
     <vedette><sm>Duault</sm></vedette>
     <forme_ancienne><i>Duod</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -762,9 +763,9 @@
     </commentaire>
     <insee>22052</insee>
   </article>    
-  <article id="DT22-00052bis" pg="184">
+  <article id="P17605659" old-id="DT22-00052bis" pg="184">
     <vedette><sm>Landugen</sm> ou <sm>Landujen</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22052">Duault</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22052" precision="certain">Duault</commune></localisation>.</definition>
     <forme_ancienne><i>Ecclesiam Sancti Tutiani</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lann Tutian</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tribum Sancti Tutiani</i>, <date><sm>xi</sm><sup>e</sup> siècle</date> <reference>(Cartulaire de l'abbaye de Quimperlé)</reference>.</forme_ancienne>
@@ -772,7 +773,7 @@
       <p>L’ancienne paroisse de Landugen (ou Landujen) formait sous l’Ancien Régime un prieuré-cure appartenant à l’abbaye de Quimperlé. Le cartulaire de cette abbaye mentionne au <date><sm>xi</sm><sup>e</sup> siècle</date> <i>Ecclesiam Sancti Tutiani</i> <reference>(église Saint-Trujen)</reference>, <i>Lann Tutian</i> <reference>(Landugen)</reference>, <i>Tribum Sancti Tutiani</i> <reference>(trève de Saint-Tujen)</reference>. Paroisse succursale de celle de Duault, elle élut une municipalité au début de <date>1790</date>, puis la commune fut réunie à Callac en l’<date>an VIII</date>. Enfin la section de Landugen fut distraite de celle de Callac et réunie à Duault conformément à une délibération du Conseil général en date du <date>29 octobre 1874</date>. Un arrêté préfectoral aurait dû être pris pour confirmer cette décision <reference>(loi des <date>18-22 juillet 1837</date>, art. 13)</reference>. On ne l’a pas retrouvé.</p>
     </commentaire>
   </article>
-  <article id="DT22-00053" pg="186" type="commune">
+  <article id="P97414441" old-id="DT22-00053" pg="186" type="commune">
     <pg>186</pg>
     <vedette><sm>Eréac</sm></vedette>
     <forme_ancienne><i>Erieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -784,7 +785,7 @@
     </commentaire>
     <insee>22053</insee>
   </article>
-  <article id="DT22-00054" pg="187" type="commune">
+  <article id="P73499513" old-id="DT22-00054" pg="187" type="commune">
     <pg>187</pg>
     <vedette><sm>Erquy</sm></vedette>
     <forme_ancienne><i>Erge-war-Vor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -806,7 +807,7 @@
     </commentaire>
     <insee>22054</insee>
   </article>
-  <article id="DT22-00055" pg="191" type="commune">
+  <article id="P78218229" old-id="DT22-00055" pg="191" type="commune">
     <pg>191</pg>
     <vedette><sm>Étables-sur-Mer</sm></vedette>
     <forme_ancienne><i>Staol</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -828,7 +829,7 @@
     </commentaire>
     <insee>22055</insee>
   </article>
-  <article id="DT22-00056" pg="194" type="commune">
+  <article id="P90154893" old-id="DT22-00056" pg="194" type="commune">
     <pg>194</pg>
     <vedette><sm>Évran</sm></vedette>
     <forme_ancienne><i>Evran</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -842,7 +843,7 @@
     </commentaire>
     <insee>22056</insee>
   </article>
-  <article id="DT22-00057" pg="196" type="commune">
+  <article id="P80045749" old-id="DT22-00057" pg="196" type="commune">
     <pg>196</pg>
     <vedette><sm>Le Faouët</sm></vedette>
     <forme_ancienne><i>ar Faoued</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -857,7 +858,7 @@
     </commentaire>
     <insee>22057</insee>
   </article>
-  <article id="DT22-00058" pg="197" type="commune">
+  <article id="P55691220" old-id="DT22-00058" pg="197" type="commune">
     <pg>197</pg>
     <vedette><sm>La Ferrière</sm></vedette>
     <forme_ancienne><i>in Porrihocensi pago, ecclesiam de Ferreria et ecclesiam de Lantignac</i>, <date>1128</date> <reference>(charte du prieuré de Jugon)</reference>.</forme_ancienne>
@@ -868,7 +869,7 @@
     </commentaire>
     <insee>22058</insee>
   </article>
-  <article id="DT22-00059" pg="198" type="commune">
+  <article id="P88251769" old-id="DT22-00059" pg="198" type="commune">
     <pg>198</pg>
     <vedette><sm>Le Foeil</sm></vedette>
     <forme_ancienne><i>treff paroeschial du Feill</i>, <date>1499</date>.</forme_ancienne>
@@ -885,7 +886,7 @@
     </commentaire>
     <insee>22059</insee>
   </article>
-  <article id="DT22-00060" pg="201" type="commune">
+  <article id="P85894837" old-id="DT22-00060" pg="201" type="commune">
     <pg>201</pg>
     <vedette><sm>Gausson</sm></vedette>
     <forme_ancienne><i>Gauczon</i>, <date>1427</date> <reference>(Archives de la Loire-Atlantique, B 2978)</reference>.</forme_ancienne>
@@ -897,7 +898,7 @@
     </commentaire>
     <insee>22060</insee>
   </article>
-  <article id="DT22-00061" pg="202" type="commune">
+  <article id="P78502351" old-id="DT22-00061" pg="202" type="commune">
     <pg>202</pg>
     <vedette><sm>Glomel</sm></vedette>
     <forme_ancienne><i>Glomael</i>, <date>1368</date> <reference>(bénéfices du diocèse de Quimper)</reference>.</forme_ancienne>
@@ -909,7 +910,7 @@
     </commentaire>
     <insee>22061</insee>
   </article>
-  <article id="DT22-00062" pg="204" type="commune">
+  <article id="P76347352" old-id="DT22-00062" pg="204" type="commune">
     <pg>204</pg>
     <vedette><sm>Gomené</sm></vedette>
     <forme_ancienne><i>Gomene</i>, <date>1256</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 248, 257-260)</reference>.</forme_ancienne>
@@ -923,7 +924,7 @@
     </commentaire>
     <insee>22062</insee>
   </article>
-  <article id="DT22-00063" pg="206" type="commune">
+  <article id="P08987220" old-id="DT22-00063" pg="206" type="commune">
     <pg>206</pg>
     <vedette><sm>Gommenec’h</sm></vedette>
     <forme_ancienne><i>Gwanach</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -940,7 +941,7 @@
     </commentaire>
     <insee>22063</insee>
   </article>
-  <article id="DT22-00064" pg="206" type="commune">
+  <article id="P77501563" old-id="DT22-00064" pg="206" type="commune">
     <vedette><sm>Gouarec</sm></vedette>
     <forme_ancienne><i>Gwareg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Gilles-Gouarec</i>.</forme_ancienne>
@@ -955,7 +956,7 @@
     </commentaire>
     <insee>22064</insee>
   </article>
-  <article id="DT22-00065" pg="208" type="commune">
+  <article id="P68903511" old-id="DT22-00065" pg="208" type="commune">
     <pg>208</pg>
     <vedette><sm>Goudelin</sm></vedette>
     <forme_ancienne><i>Godelin</i>, <date>1203</date>.</forme_ancienne>
@@ -967,7 +968,7 @@
     </commentaire>
     <insee>22065</insee>
   </article>
-  <article id="DT22-00066" pg="209" type="commune">
+  <article id="P75051088" old-id="DT22-00066" pg="209" type="commune">
     <pg>209</pg>
     <vedette><sm>Le Gouray</sm></vedette>
     <forme_ancienne><i>ar Gorre</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -983,7 +984,7 @@
     </commentaire>
     <insee>22066</insee>
   </article>
-  <article id="DT22-00067" pg="211" type="commune">
+  <article id="P71077646" old-id="DT22-00067" pg="211" type="commune">
     <pg>211</pg>
     <vedette><sm>Grâces</sm></vedette>
     <forme_ancienne><i>Gras-Gwengamp</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1000,7 +1001,7 @@
     </commentaire>
     <insee>22067</insee>
   </article>
-  <article id="DT22-00068" pg="213" type="commune">
+  <article id="P53011997" old-id="DT22-00068" pg="213" type="commune">
     <pg>213</pg>
     <vedette><sm>Grâce-Uzel</sm></vedette>
     <forme_ancienne><i>Gras</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1015,7 +1016,7 @@
     </commentaire>
     <insee>22068</insee>
   </article>
-  <article id="DT22-00069" pg="213" type="commune">
+  <article id="P19761636" old-id="DT22-00069" pg="213" type="commune">
     <vedette><sm>Guenroc</sm></vedette>
     <forme_ancienne><i>Guenroc</i>, <date>1286</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 288)</reference>.</forme_ancienne>
     <forme_ancienne><i>Guenro</i>, <date>1447</date> <reference>(Des Salles, <i>Anciennes réformations</i>, 1864, p. 80, 162 et 179)</reference>.</forme_ancienne>
@@ -1025,7 +1026,7 @@
     </commentaire>
     <insee>22069</insee>
   </article>
-  <article id="DT22-00070" pg="215" type="commune">
+  <article id="P79323901" old-id="DT22-00070" pg="215" type="commune">
     <pg>215</pg>
     <vedette><sm>Guingamp</sm></vedette>
     <forme_ancienne><i>Gwengamp</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1057,7 +1058,7 @@
     </commentaire>
     <insee>22070</insee>
   </article>
-  <article id="DT22-00071" pg="227" type="commune">
+  <article id="P85908632" old-id="DT22-00071" pg="227" type="commune">
     <pg>227</pg>
     <vedette><sm>Guitté</sm></vedette>
     <forme_ancienne><i>Guité, seigneurie</i>, <date><sm>xii</sm><sup>e</sup> siècle</date>.</forme_ancienne>
@@ -1072,7 +1073,7 @@
     </commentaire>
     <insee>22071</insee>
   </article>
-  <article id="DT22-00072" pg="229" type="commune">
+  <article id="P43505353" old-id="DT22-00072" pg="229" type="commune">
     <pg>229</pg>
     <vedette><sm>Gurunhuel</sm></vedette>
     <forme_ancienne><i>Gurunuel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1082,7 +1083,7 @@
     </commentaire>
     <insee>22072</insee>
   </article>
-  <article id="DT22-00073" pg="229" type="commune">
+  <article id="P39097475" old-id="DT22-00073" pg="229" type="commune">
     <vedette><sm>La Harmoye</sm></vedette>
     <forme_ancienne><i>Lanhervoed</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lan Harmoet</i> <reference>(R. Couffon, <i>Répertoire des églises et chapelles du diocèse de Saint-Brieuc</i>)</reference>.</forme_ancienne>
@@ -1102,7 +1103,7 @@
     </commentaire>
     <insee>22073</insee>
   </article>
-  <article id="DT22-00074" pg="230" type="commune">
+  <article id="P50173049" old-id="DT22-00074" pg="230" type="commune">
     <vedette><sm>Le Haut-Corlay</sm></vedette>
     <forme_ancienne><i>Coz Corle</i> <reference>(R. Couffon, <i>Répertoire des églises et chapelles du diocèse de Saint-Brieuc</i>)</reference>.</forme_ancienne>
     <forme_ancienne><i>Vetus Corlé</i>, <date>1368</date> <reference>(listes de bénéfices, d’églises ou de paroisses du diocèse de Quimper)</reference>.</forme_ancienne>
@@ -1115,7 +1116,7 @@
     </commentaire>
     <insee>22074</insee>
   </article>
-  <article id="DT22-00075" pg="232" type="commune">
+  <article id="P67483403" old-id="DT22-00075" pg="232" type="commune">
     <pg>232</pg>
     <vedette><sm>Hémonstoir</sm></vedette>
     <forme_ancienne><i>Hemoustoer</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1131,7 +1132,7 @@
     </commentaire>
     <insee>22075</insee>
   </article>
-  <article id="DT22-00076" pg="233" type="commune">
+  <article id="P44307835" old-id="DT22-00076" pg="233" type="commune">
     <pg>233</pg>
     <vedette><sm>Hénanbihen</sm></vedette>
     <forme_ancienne><i>Henan</i>, <date>1163</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 278)</reference>.</forme_ancienne>
@@ -1147,7 +1148,7 @@
     </commentaire>
     <insee>22076</insee>
   </article>
-  <article id="DT22-00077" pg="234" type="commune">
+  <article id="P33616727" old-id="DT22-00077" pg="234" type="commune">
     <pg>234</pg>
     <vedette><sm>Hénansal</sm></vedette>
     <forme_ancienne><i>Henantsal</i>, <date>1213</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 49)</reference>.</forme_ancienne>
@@ -1158,7 +1159,7 @@
     </commentaire>
     <insee>22077</insee>
   </article>
-  <article id="DT22-00078" pg="236" type="commune">
+  <article id="P31658589" old-id="DT22-00078" pg="236" type="commune">
     <pg>236</pg>
     <vedette><sm>Hengoat</sm></vedette>
     <forme_ancienne><i>Hengoet</i>, <date>1330</date> <reference>(<i>Monuments originaux de l'histoire de saint Yves</i>, 1887)</reference>.</forme_ancienne>
@@ -1169,7 +1170,7 @@
     </commentaire>
     <insee>22078</insee>
   </article>
-  <article id="DT22-00079" pg="237" type="commune">
+  <article id="P41854644" old-id="DT22-00079" pg="237" type="commune">
     <pg>237</pg>
     <vedette><sm>Hénon</sm></vedette>
     <forme_ancienne><i>Alanus de Hennon</i>, <date>1205</date>.</forme_ancienne>
@@ -1181,7 +1182,7 @@
     </commentaire>
     <insee>22079</insee>
   </article>
-  <article id="DT22-00080" pg="240" type="commune">
+  <article id="P24290920" old-id="DT22-00080" pg="240" type="commune">
     <pg>240</pg>
     <vedette><sm>L’Hermitage-Lorge</sm></vedette>
     <forme_ancienne><i>ar Peniti</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1203,7 +1204,7 @@
     </commentaire>
     <insee>22080</insee>
   </article>
-  <article id="DT22-00081" pg="243" type="commune">
+  <article id="P58338331" old-id="DT22-00081" pg="243" type="commune">
     <pg>243</pg>
     <vedette><sm>Hillion</sm></vedette>
     <forme_ancienne><i>Helion-war-Vor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1220,7 +1221,7 @@
     </commentaire>
     <insee>22081</insee>
   </article>
-  <article id="DT22-00082" pg="245" type="commune">
+  <article id="P62960474" old-id="DT22-00082" pg="245" type="commune">
     <pg>245</pg>
     <vedette><sm>Le Hinglé</sm></vedette>
     <forme_ancienne><i>Hengleuz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1235,7 +1236,7 @@
     </commentaire>
     <insee>22082</insee>
   </article>
-  <article id="DT22-00083" pg="246" type="commune">
+  <article id="P31232387" old-id="DT22-00083" pg="246" type="commune">
     <vedette><sm>Illifaut</sm></vedette>
     <forme_ancienne><i>Lezfaou</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>terra quae Lifou (ou Lifau) vocatur</i>, <date>1008</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 359 ; A. de Laborderie, <i>Recueil d’actes inédits</i>, 1888,  p. 4)</reference>.</forme_ancienne>
@@ -1249,7 +1250,7 @@
     </commentaire>
     <insee>22083</insee>
   </article>
-  <article id="DT22-00084" pg="247" type="commune">
+  <article id="P67987559" old-id="DT22-00084" pg="247" type="commune">
     <pg>247</pg>
     <vedette><sm>Jugon-les-Lacs</sm></vedette>
     <forme_ancienne><i>Yugon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1270,7 +1271,7 @@
     </commentaire>
     <insee>22084</insee>
   </article>
-  <article id="DT22-00085" pg="252" type="commune">
+  <article id="P95523901" old-id="DT22-00085" pg="252" type="commune">
     <pg>252</pg>
     <vedette><sm>Kerbors</sm></vedette>
     <forme_ancienne><i>Kerborz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1284,7 +1285,7 @@
     </commentaire>
     <insee>22085</insee>
   </article>
-  <article id="DT22-00086" pg="254" type="commune">
+  <article id="P63129128" old-id="DT22-00086" pg="254" type="commune">
     <pg>254</pg>
     <vedette><sm>Kerfot</sm></vedette>
     <forme_ancienne><i>Kerfod</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1295,7 +1296,7 @@
     </commentaire>
     <insee>22086</insee>
   </article>
-  <article id="DT22-00087" pg="254" type="commune">
+  <article id="P81459456" old-id="DT22-00087" pg="254" type="commune">
     <vedette><sm>Kergrist-Moelou</sm></vedette>
     <forme_ancienne><i>Kergrist-Moelan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Moelou</i>, <date>1368</date> <reference>(<i>Bulletin de la commission diocésaine d’architecture et d’archéologie</i>, t. I, diocèse de Quimper, 1901, p. 42)</reference>.</forme_ancienne>
@@ -1312,7 +1313,7 @@
     </commentaire>
     <insee>22087</insee>
   </article>
-  <article id="DT22-00088" pg="256" type="commune">
+  <article id="P70657973" old-id="DT22-00088" pg="256" type="commune">
     <pg>256</pg>
     <vedette><sm>Kerien</sm></vedette>
     <forme_ancienne><i>Kerien-Boulvriac</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1324,10 +1325,10 @@
     </commentaire>
     <insee>22088</insee>
   </article>
-  <article id="DT22-00089" pg="257">
+  <article id="P40457087" old-id="DT22-00089" pg="257">
     <pg>257</pg>
     <vedette><sm>Kerity</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22162" precision="certain">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Keriti</i>, <date>1189</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
     <forme_ancienne><i>Queriti</i>, <date>1198</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
     <forme_ancienne><i>Carrti</i> <reference>(Archives des Côtes-d’Armor, 1 E 2182, 2184)</reference>.</forme_ancienne>
@@ -1339,7 +1340,7 @@
       <p>Cette commune a été réunie à celle de Paimpol en <date>1960</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00090" pg="257" type="commune">
+  <article id="P71084241" old-id="DT22-00090" pg="257" type="commune">
     <vedette><sm>Kermaria-Sulard</sm></vedette>
     <forme_ancienne><i>Kervaria-Jular</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Kervaria-Sular</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1354,7 +1355,7 @@
     </commentaire>
     <insee>22090</insee>
   </article>
-  <article id="DT22-00091" pg="258" type="commune">
+  <article id="P77912951" old-id="DT22-00091" pg="258" type="commune">
     <pg>258</pg>
     <vedette><sm>Kermoroc’h</sm></vedette>
     <forme_ancienne><i>Kervoroc’h</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1367,7 +1368,7 @@
     </commentaire>
     <insee>22091</insee>
   </article>
-  <article id="DT22-00092" pg="260" type="commune">
+  <article id="P46967879" old-id="DT22-00092" pg="260" type="commune">
     <pg>260</pg>
     <vedette><sm>Kerpert</sm></vedette>
     <forme_ancienne><i>Kerber</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1383,7 +1384,7 @@
     </commentaire>
     <insee>22092</insee>
   </article>
-  <article id="DT22-00093" pg="261" type="commune">
+  <article id="P20747922" old-id="DT22-00093" pg="261" type="commune">
     <pg>261</pg>
     <vedette><sm>Lamballe</sm></vedette>
     <forme_ancienne><i>Lambal</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1422,7 +1423,7 @@
     </commentaire>
     <insee>22093</insee>
   </article>
-  <article id="DT22-00094" pg="272" type="commune">
+  <article id="P74766891" old-id="DT22-00094" pg="272" type="commune">
     <pg>272</pg>
     <vedette><sm>Lancieux</sm></vedette>
     <forme_ancienne><i>Lanseog</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1434,7 +1435,7 @@
     </commentaire>
     <insee>22094</insee>
   </article>
-  <article id="DT22-00095" pg="274" type="commune">
+  <article id="P78059402" old-id="DT22-00095" pg="274" type="commune">
     <pg>274</pg>
     <vedette><sm>Landebaëron</sm></vedette>
     <forme_ancienne><i>Lanberon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1444,7 +1445,7 @@
     </commentaire>
     <insee>22095</insee>
   </article>
-  <article id="DT22-00096" pg="275" type="commune">
+  <article id="P77398688" old-id="DT22-00096" pg="275" type="commune">
     <pg>275</pg>
     <vedette><sm>Landébia</sm></vedette>
     <forme_ancienne><i>Landebia</i>, <date>1264</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 142, 144)</reference>.</forme_ancienne>
@@ -1455,7 +1456,7 @@
     </commentaire>
     <insee>22096</insee>
   </article>
-  <article id="DT22-00097" pg="275" type="commune">
+  <article id="P89788383" old-id="DT22-00097" pg="275" type="commune">
     <vedette><sm>La Landec</sm></vedette>
     <forme_ancienne><i>Lanadec</i> (pour <i>Lanandec</i> ?), <date>1235</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 83, 236)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lannandec</i>, <date>1236</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 83, 236)</reference>.</forme_ancienne>
@@ -1469,7 +1470,7 @@
     </commentaire>
     <insee>22097</insee>
   </article>
-  <article id="DT22-00098" pg="276" type="commune">
+  <article id="P90961581" old-id="DT22-00098" pg="276" type="commune">
     <vedette><sm>Landéhen</sm></vedette>
     <forme_ancienne><i>Landehan-war-ar-maez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Landehen</i>, <date>1426</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 1668, 1804, 2156)</reference>.</forme_ancienne>
@@ -1480,7 +1481,7 @@
     </commentaire>
     <insee>22098</insee>
   </article>
-  <article id="DT22-00099" pg="277" type="commune">
+  <article id="P68374732" old-id="DT22-00099" pg="277" type="commune">
     <vedette><sm>Lanfains</sm></vedette>
     <forme_ancienne><i>Lanfeun</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lanfain</i>, <date>1428</date> <reference>(Archives de la Loire-Atlantique, B 2979)</reference>.</forme_ancienne>
@@ -1497,7 +1498,7 @@
     </commentaire>
     <insee>22099</insee>
   </article>
-  <article id="DT22-00100" pg="279" type="commune">
+  <article id="P96663255" old-id="DT22-00100" pg="279" type="commune">
     <pg>279</pg>
     <vedette><sm>Langast</sm></vedette>
     <forme_ancienne><i>Langaal</i>, <date>vers 1330</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 376 et 380)</reference>.</forme_ancienne>
@@ -1508,7 +1509,7 @@
     </commentaire>
     <insee>22100</insee>
   </article>
-  <article id="DT22-00101" pg="280" type="commune">
+  <article id="P80564881" old-id="DT22-00101" pg="280" type="commune">
     <pg>280</pg>
     <vedette><sm>Langoat</sm></vedette>
     <forme_ancienne><i>Langoad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1520,7 +1521,7 @@
     </commentaire>
     <insee>22101</insee>
   </article>
-  <article id="DT22-00102" pg="281" type="commune">
+  <article id="P96415913" old-id="DT22-00102" pg="281" type="commune">
     <pg>281</pg>
     <vedette><sm>Langourla</sm></vedette>
     <forme_ancienne><i>parrochia de Langorla et de Sancto Veranno</i>, <date>1273</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 275, 290)</reference>.</forme_ancienne>
@@ -1532,7 +1533,7 @@
     </commentaire>
     <insee>22102</insee>
   </article>
-  <article id="DT22-00103" pg="283" type="commune">
+  <article id="P97096489" old-id="DT22-00103" pg="283" type="commune">
     <pg>283</pg>
     <vedette><sm>Langrolay-sur-Rance</sm></vedette>
     <forme_ancienne><i>Langorle</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1550,7 +1551,7 @@
     </commentaire>
     <insee>22103</insee>
   </article>
-  <article id="DT22-00104" pg="284" type="commune">
+  <article id="P11593434" old-id="DT22-00104" pg="284" type="commune">
     <pg>284</pg>
     <vedette><sm>Languédias</sm></vedette>
     <forme_ancienne><i>Langadias</i>, <date>1472</date> <reference>(Des Salles, <i>Anciennes réformations</i>, 1864, p. 310)</reference>.</forme_ancienne>
@@ -1562,7 +1563,7 @@
     </commentaire>
     <insee>22104</insee>
   </article>
-  <article id="DT22-00105" pg="285" type="commune">
+  <article id="P09109479" old-id="DT22-00105" pg="285" type="commune">
     <pg>285</pg>
     <vedette><sm>Languenan</sm></vedette>
     <forme_ancienne><i>Guerricus de Langananno</i>, <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 334 ; P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 521)</reference>.</forme_ancienne>
@@ -1578,7 +1579,7 @@
     </commentaire>
     <insee>22105</insee>
   </article>
-  <article id="DT22-00106" pg="286" type="commune">
+  <article id="P94390331" old-id="DT22-00106" pg="286" type="commune">
     <vedette><sm>Langueux</sm></vedette>
     <forme_ancienne><i>Langeoc</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Languyec</i>, <date>1369</date> <reference>(<i>Monuments du procès de canonisation du bienheureux Charles de Blois</i>, 1921)</reference>.</forme_ancienne>
@@ -1594,7 +1595,7 @@
     </commentaire>
     <insee>22106</insee>
   </article>
-  <article id="DT22-00107" pg="287" type="commune">
+  <article id="P88840193" old-id="DT22-00107" pg="287" type="commune">
     <pg>287</pg>
     <vedette><sm>Laniscat</sm></vedette>
     <forme_ancienne><i>Laniskad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1610,7 +1611,7 @@
     </commentaire>
     <insee>22107</insee>
   </article>
-  <article id="DT22-00108" pg="289" type="commune">
+  <article id="P72155030" old-id="DT22-00108" pg="289" type="commune">
     <pg>289</pg>
     <vedette><sm>Lanleff</sm></vedette>
     <forme_ancienne><i>Lanlev</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1625,7 +1626,7 @@
     </commentaire>
     <insee>22108</insee>
   </article>
-  <article id="DT22-00109" pg="290" type="commune">
+  <article id="P72766513" old-id="DT22-00109" pg="290" type="commune">
     <pg>290</pg>
     <vedette><sm>Lanloup</sm></vedette>
     <forme_ancienne><i>Lanlou</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1641,7 +1642,7 @@
     </commentaire>
     <insee>22109</insee>
   </article>
-  <article id="DT22-00110" pg="291" type="commune">
+  <article id="P76212530" old-id="DT22-00110" pg="291" type="commune">
     <pg>291</pg>
     <vedette><sm>Lanmérin</sm></vedette>
     <forme_ancienne><i>Lanvilin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1655,7 +1656,7 @@
     </commentaire>
     <insee>22110</insee>
   </article>
-  <article id="DT22-00111" pg="292" type="commune">
+  <article id="P73590946" old-id="DT22-00111" pg="292" type="commune">
     <pg>292</pg>
     <vedette><sm>Lanmodez</sm></vedette>
     <forme_ancienne><i>Lanvode</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1667,7 +1668,7 @@
     </commentaire>
     <insee>22111</insee>
   </article>
-  <article id="DT22-00112" pg="294" type="commune">
+  <article id="P20859741" old-id="DT22-00112" pg="294" type="commune">
     <pg>294</pg>
     <vedette><sm>Lannebert</sm></vedette>
     <forme_ancienne><i>Lanebeur</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1680,7 +1681,7 @@
     </commentaire>
     <insee>22112</insee>
   </article>
-  <article id="DT22-00113" pg="294" type="commune">
+  <article id="P02915653" old-id="DT22-00113" pg="294" type="commune">
     <vedette><sm>Lannion</sm></vedette>
     <forme_ancienne><i>Lannuon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lanuon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1710,7 +1711,7 @@
     </commentaire>
     <insee>22113</insee>
   </article>
-  <article id="DT22-00114" pg="308" type="commune">
+  <article id="P56150384" old-id="DT22-00114" pg="308" type="commune">
     <pg>308</pg>
     <vedette><sm>Lanrelas</sm></vedette>
     <commentaire>
@@ -1718,7 +1719,7 @@
     </commentaire>
     <insee>22114</insee>
   </article>
-  <article id="DT22-00115" pg="309" type="commune">
+  <article id="P20078264" old-id="DT22-00115" pg="309" type="commune">
     <pg>309</pg>
     <vedette><sm>Lanrivain</sm></vedette>
     <forme_ancienne><i>Laruen</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1730,7 +1731,7 @@
     </commentaire>
     <insee>22115</insee>
   </article>
-  <article id="DT22-00116" pg="312" type="commune">
+  <article id="P37919736" old-id="DT22-00116" pg="312" type="commune">
     <pg>312</pg>
     <vedette><sm>Lanrodec</sm></vedette>
     <forme_ancienne><i>Lanrodeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1740,7 +1741,7 @@
     </commentaire>
     <insee>22116</insee>
   </article>
-  <article id="DT22-00117" pg="313" type="commune">
+  <article id="P43114696" old-id="DT22-00117" pg="313" type="commune">
     <pg>313</pg>
     <vedette><sm>Lantic</sm></vedette>
     <forme_ancienne><i>Lannidic</i>, <date>1198</date> <reference>(charte de l’abbaye de Saint-Rion)</reference>.</forme_ancienne>
@@ -1755,7 +1756,7 @@
     </commentaire>
     <insee>22117</insee>
   </article>
-  <article id="DT22-00118" pg="316" type="commune">
+  <article id="P64979155" old-id="DT22-00118" pg="316" type="commune">
     <pg>316</pg>
     <vedette><sm>Lanvallay</sm></vedette>
     <forme_ancienne><i>Lanvale</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1772,7 +1773,7 @@
     </commentaire>
     <insee>22118</insee>
   </article>
-  <article id="DT22-00119" pg="318" type="commune">
+  <article id="P99775830" old-id="DT22-00119" pg="318" type="commune">
     <pg>318</pg>
     <vedette><sm>Lanvellec</sm></vedette>
     <forme_ancienne><i>Lanveleg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1787,10 +1788,10 @@
     </commentaire>
     <insee>22119</insee>
   </article>
-  <article id="DT22-00120" pg="320">
+  <article id="P78644141" old-id="DT22-00120" pg="320">
     <pg>320</pg>
     <vedette><sm>Lanvézéac</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22030">Caouënnec-Lanvézéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22030" precision="certain">Caouënnec-Lanvézéac</commune></localisation>.</definition>
     <forme_ancienne><i>Lanvezeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <commentaire>
       <p>Cette commune a été réunie à celle de Caouënnec en <date>1974</date>.</p>
@@ -1798,7 +1799,7 @@
       <p><pg>144</pg>Le nom breton de cette localité s’écrit <i>Lanvezeg</i>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00121" pg="320" type="commune">
+  <article id="P12865046" old-id="DT22-00121" pg="320" type="commune">
     <vedette><sm>Lanvollon</sm></vedette>
     <forme_ancienne><i>Lanwollon</i>, <date>1189</date> <reference>(charte de l'abbaye de Saint-Rion : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, p. 9)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lanvolon</i>, <date>1215</date> <reference>(chartes de l’abbaye de Beauport : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, p. 71)</reference>.</forme_ancienne>
@@ -1814,7 +1815,7 @@
     </commentaire>
     <insee>22121</insee>
   </article>
-  <article id="DT22-00122" pg="323" type="commune">
+  <article id="P97137161" old-id="DT22-00122" pg="323" type="commune">
     <pg>323</pg>
     <vedette><sm>Laurenan</sm></vedette>
     <forme_ancienne><i>Lokronan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1824,7 +1825,7 @@
     </commentaire>
     <insee>22122</insee>
   </article>
-  <article id="DT22-00123" pg="324" type="commune">
+  <article id="P16357730" old-id="DT22-00123" pg="324" type="commune">
     <pg>324</pg>
     <vedette><sm>Léhon</sm></vedette>
     <forme_ancienne><i>Lehum</i>, <date>1148</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 223)</reference>.</forme_ancienne>
@@ -1837,7 +1838,7 @@
     </commentaire>
     <insee>22123</insee>
   </article>
-  <article id="DT22-00124" pg="326" type="commune">
+  <article id="P40112234" old-id="DT22-00124" pg="326" type="commune">
     <pg>326</pg>
     <vedette><sm>Lescouët-Gouarec</sm></vedette>
     <forme_ancienne><i>Leskoed</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1850,17 +1851,17 @@
     </commentaire>
     <insee>22124</insee>
   </article>
-  <article id="DT22-00125" pg="327">
+  <article id="P04153958" old-id="DT22-00125" pg="327">
     <pg>327</pg>
     <vedette><sm>Lescouët-Jugon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22084">Jugon-les-Lacs</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22084" precision="certain">Jugon-les-Lacs</commune></localisation>.</definition>
     <forme_ancienne><i>Leskoad-Yugon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <commentaire>
       <p>Le pape Clément VII autorisa l’érection de la chapelle Saint-Malo du Pargay en église paroissiale sous le nom de Lescouet par lettres du <date>7 mai 1380</date>. La nouvelle paroisse, formée sur le territoire de Plorec, était une succursale de la dite paroisse de Plorec <reference>(Lemasson, <i>Histoire du pays de Dinan</i> II, 195)</reference>. Elle appartenait au diocèse de Saint-Brieuc sous l’Ancien Régime et élut sa première municipalité en janvier ou <date>février 1790</date>. Le nom de Lescouët (pron. « Lêcoué ») devint officiel par le décret du <date>31 octobre 1877</date>, à la suite du dénombrement de la population (circ. du <date>12 décembre 1877</date>). Le décret du <date>13 novembre 1885</date> changea le nom de la commune en celui de Lescouët-Jugon pour la distinguer d’un autre Lescouët.</p>
       <p>Cette commune a été réunie à celle de Jugon en <date>1973</date> pour former Jugon-les-Lacs.</p>
     </commentaire>
   </article>
-  <article id="DT22-00126" pg="327" type="commune">
+  <article id="P96403440" old-id="DT22-00126" pg="327" type="commune">
     <vedette><sm>Le Leslay</sm></vedette>
     <forme_ancienne><i>Leleslay</i>, <date>1496</date>.</forme_ancienne>
     <forme_ancienne><i>le Leslay</i>, <date>1535</date> <reference>(Archives des Côtes-d’Armor, 1 E 1522)</reference>.</forme_ancienne>
@@ -1873,7 +1874,7 @@
     </commentaire>
     <insee>22126</insee>
   </article>
-  <article id="DT22-00127" pg="328" type="commune">
+  <article id="P45105975" old-id="DT22-00127" pg="328" type="commune">
     <pg>328</pg>
     <vedette><sm>Lézardrieux</sm></vedette>
     <forme_ancienne><i>Lezardrev</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1891,7 +1892,7 @@
     </commentaire>
     <insee>22127</insee>
   </article>
-  <article id="DT22-00128" pg="331" type="commune">
+  <article id="P72867408" old-id="DT22-00128" pg="331" type="commune">
     <pg>331</pg>
     <vedette><sm>Locarn</sm></vedette>
     <forme_ancienne><i>Lokarn</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1905,7 +1906,7 @@
     </commentaire>
     <insee>22128</insee>
   </article>
-  <article id="DT22-00129" pg="333" type="commune">
+  <article id="P21805123" old-id="DT22-00129" pg="333" type="commune">
     <pg>333</pg>
     <vedette><sm>Loc-Envel</sm></vedette>
     <forme_ancienne><i>Lokenvel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1917,9 +1918,9 @@
     </commentaire>
     <insee>22129</insee>
   </article>
-  <article id="DT22-00130" pg="333">
+  <article id="P78517350" old-id="DT22-00130" pg="333">
     <vedette><sm>Loguivy-lès-Lannion</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22113" precision="certain">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Loquivi</i>, <date>1420</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 1455)</reference>.</forme_ancienne>
     <forme_ancienne><i>Loguivy-lez-Lannion</i>, <date>1678</date>.</forme_ancienne>
     <forme_ancienne><i>Loguivy proche Lannion</i>, <date>1678</date>.</forme_ancienne>
@@ -1927,7 +1928,7 @@
       <p>Cette commune a été réunie à celle de Lannion en <date>1961</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00131" pg="334" type="commune">
+  <article id="P68708969" old-id="DT22-00131" pg="334" type="commune">
     <pg>334</pg>
     <vedette><sm>Loguivy-Plougras</sm></vedette>
     <forme_ancienne><i>Logivi</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1940,7 +1941,7 @@
     </commentaire>
     <insee>22131</insee>
   </article>
-  <article id="DT22-00132" pg="336" type="commune">
+  <article id="P44476622" old-id="DT22-00132" pg="336" type="commune">
     <pg>336</pg>
     <vedette><sm>Lohuec</sm></vedette>
     <forme_ancienne><i>Loueg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1954,7 +1955,7 @@
     </commentaire>
     <insee>22132</insee>
   </article>
-  <article id="DT22-00133" pg="337" type="commune">
+  <article id="P25158656" old-id="DT22-00133" pg="337" type="commune">
     <pg>337</pg>
     <vedette><sm>Loscouët-sur-Meu</sm></vedette>
     <forme_ancienne><i>Leskoad-war-Veeun</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1968,7 +1969,7 @@
     </commentaire>
     <insee>22133</insee>
   </article>
-  <article id="DT22-00134" pg="338" type="commune">
+  <article id="P52935647" old-id="DT22-00134" pg="338" type="commune">
     <pg>338</pg>
     <vedette><sm>Louannec</sm></vedette>
     <forme_ancienne><i>Louaneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1983,7 +1984,7 @@
     </commentaire>
     <insee>22134</insee>
   </article>
-  <article id="DT22-00135" pg="340" type="commune">
+  <article id="P85444575" old-id="DT22-00135" pg="340" type="commune">
     <pg>340</pg>
     <vedette><sm>Louargat</sm></vedette>
     <forme_ancienne><i>Louargad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -1994,7 +1995,7 @@
     </commentaire>
     <insee>22135</insee>
   </article>
-  <article id="DT22-00136" pg="341" type="commune">
+  <article id="P77251728" old-id="DT22-00136" pg="341" type="commune">
     <pg>341</pg>
     <vedette><sm>Loudéac</sm></vedette>
     <forme_ancienne><i>Loudijeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2018,11 +2019,11 @@
     </commentaire>
     <insee>22136</insee>
   </article>
-  <article id="DT22-00136bis" pg="341">
+  <article id="P64402366" old-id="DT22-00136bis" pg="341">
     <vedette><sm>Cadelac</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22136">Loudéac</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22136" precision="certain">Loudéac</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00137" pg="347" type="commune">
+  <article id="P32555045" old-id="DT22-00137" pg="347" type="commune">
     <pg>347</pg>
     <vedette><sm>Maël-Carhaix</sm></vedette>
     <forme_ancienne><i>Mael-Karaez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2037,7 +2038,7 @@
     </commentaire>
     <insee>22137</insee>
   </article>
-  <article id="DT22-00138" pg="349" type="commune">
+  <article id="P82727582" old-id="DT22-00138" pg="349" type="commune">
     <pg>349</pg>
     <vedette><sm>Maël-Pestivien</sm></vedette>
     <forme_ancienne><i>Mael</i>, <date>1160</date> <reference>(communication de M. Bernard Tanguy, 30 octobre 1985)</reference>.</forme_ancienne>
@@ -2047,7 +2048,7 @@
     </commentaire>
     <insee>22138</insee>
   </article>
-  <article id="DT22-00139" pg="351" type="commune">
+  <article id="P62735375" old-id="DT22-00139" pg="351" type="commune">
     <pg>351</pg>
     <vedette><sm>Magoar</sm></vedette>
     <forme_ancienne><i>Magor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2059,7 +2060,7 @@
     </commentaire>
     <insee>22139</insee>
   </article>
-  <article id="DT22-00140" pg="352" type="commune">
+  <article id="P51598166" old-id="DT22-00140" pg="352" type="commune">
     <pg>352</pg>
     <vedette><sm>La Malhoure</sm></vedette>
     <forme_ancienne><i>La Malour</i>, <date>1427</date> <reference>(Archives de la Loire-Atlantique, B 2978)</reference>.</forme_ancienne>
@@ -2071,7 +2072,7 @@
     </commentaire>
     <insee>22140</insee>
   </article>
-  <article id="DT22-00141" pg="352" type="commune">
+  <article id="P34046052" old-id="DT22-00141" pg="352" type="commune">
     <vedette><sm>Mantallot</sm></vedette>
     <forme_ancienne><i>Mantallod</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>minihy en Mantallot</i>, <date>1437</date> <reference>(Archives de la Loire-Atlantique, B 2982)</reference>.</forme_ancienne>
@@ -2084,9 +2085,9 @@
     </commentaire>
     <insee>22141</insee>
   </article>
-  <article id="DT22-00142" pg="353">
+  <article id="P07249954" old-id="DT22-00142" pg="353">
     <vedette><sm>Maroué</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22093" precision="certain">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>Maroe</i>, <date>1225</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, p. 340)</reference>.</forme_ancienne>
     <forme_ancienne><i>Maroy</i>, <date>1256</date>.</forme_ancienne>
     <forme_ancienne><i>de Maroyo</i>, <date>1286</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, p. 127, 173, etc.)</reference>.</forme_ancienne>
@@ -2101,7 +2102,7 @@
       <p>Par la loi du <date>4 avril 1849</date>, Maroué a cédé à Saint-Aaron sa section de la Villeneuve. Enfin Maroué a été réuni à Lamballe par arrêté préfectoral du <date>29 décembre 1972</date>, à compter du <date>1<sup>er</sup> janvier 1973</date>, avec le statut de commune associée.</p>
     </commentaire>
   </article>
-  <article id="DT22-00143" pg="356" type="commune">
+  <article id="P70832750" old-id="DT22-00143" pg="356" type="commune">
     <pg>356</pg>
     <vedette><sm>Matignon</sm></vedette>
     <forme_ancienne><i>Saint-Germain-de-la-Mer</i>.</forme_ancienne>
@@ -2117,7 +2118,7 @@
     </commentaire>
     <insee>22143</insee>
   </article>
-  <article id="DT22-00144" pg="358" type="commune">
+  <article id="P62657938" old-id="DT22-00144" pg="358" type="commune">
     <pg>358</pg>
     <vedette><sm>La Méaugon</sm></vedette>
     <forme_ancienne><i>Lanvoagan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2131,7 +2132,7 @@
     </commentaire>
     <insee>22144</insee>
   </article>
-  <article id="DT22-00145" pg="359" type="commune">
+  <article id="P56705445" old-id="DT22-00145" pg="359" type="commune">
     <vedette><sm>Mégrit</sm></vedette>
     <commentaire>
       <p>L’adjectif attaché au nom de cette commune est <i>mégritien.</i> Le <i>t</i> final du nom de Mégrit ne se prononce pas.</p>
@@ -2140,7 +2141,7 @@
     </commentaire>
     <insee>22145</insee>
   </article>
-  <article id="DT22-00146" pg="360" type="commune">
+  <article id="P75663631" old-id="DT22-00146" pg="360" type="commune">
     <pg>360</pg>
     <vedette><sm>Mellionnec</sm></vedette>
     <forme_ancienne><i>Melioneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2151,7 +2152,7 @@
     </commentaire>
     <insee>22146</insee>
   </article>
-  <article id="DT22-00147" pg="362" type="commune">
+  <article id="P06255833" old-id="DT22-00147" pg="362" type="commune">
     <pg>362</pg>
     <vedette><sm>Merdrignac</sm></vedette>
     <forme_ancienne><i>Merenieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2164,7 +2165,7 @@
     </commentaire>
     <insee>22147</insee>
   </article>
-  <article id="DT22-00148" pg="364" type="commune">
+  <article id="P19686509" old-id="DT22-00148" pg="364" type="commune">
     <pg>364</pg>
     <vedette><sm>Mérillac</sm></vedette>
     <forme_ancienne><i>Maerilieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2176,7 +2177,7 @@
     </commentaire>
     <insee>22148</insee>
   </article>
-  <article id="DT22-00149" pg="364" type="commune">
+  <article id="P21779539" old-id="DT22-00149" pg="364" type="commune">
     <vedette><sm>Merléac</sm></vedette>
     <forme_ancienne><i>Merleag</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Merlieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2190,7 +2191,7 @@
     </commentaire>
     <insee>22149</insee>
   </article>
-  <article id="DT22-00150" pg="366" type="commune">
+  <article id="P14783836" old-id="DT22-00150" pg="366" type="commune">
     <pg>366</pg>
     <vedette><sm>Le Merzer</sm></vedette>
     <forme_ancienne><i>ar Merzher</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2200,7 +2201,7 @@
     </commentaire>
     <insee>22150</insee>
   </article>
-  <article id="DT22-00151" pg="367" type="commune">
+  <article id="P80129960" old-id="DT22-00151" pg="367" type="commune">
     <pg>367</pg>
     <vedette><sm>Meslin</sm></vedette>
     <forme_ancienne><i>Melin</i>, <date>1368</date> <reference>(<i>Procès de canonisation de Charles de Blois,</i> 1921, p. 421)</reference>.</forme_ancienne>
@@ -2212,14 +2213,14 @@
     </commentaire>
     <insee>22151</insee>
   </article>
-  <article id="DT22-00151bis" pg="367">
+  <article id="P86972125" old-id="DT22-00151bis" pg="367">
     <vedette><sm>Trégenestre</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22151">Meslin</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22151" precision="certain">Meslin</commune></localisation>.</definition>
     <forme_ancienne><i>Treglenistre</i>, <date>fin du <sm>xiv</sm><sup>e</sup> siècle</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 382)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tréglenestre</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2979)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregenestre</i>, <date>1605</date> <reference>(Archives des Côtes-d’Armor, 1 E 2450)</reference>.</forme_ancienne>
   </article>
-  <article id="DT22-00152" pg="368" type="commune">
+  <article id="P42076260" old-id="DT22-00152" pg="368" type="commune">
     <pg>368</pg>
     <vedette><sm>Minihy-Tréguier</sm></vedette>
     <forme_ancienne><i>ar Vinic’hi.</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2239,7 +2240,7 @@
     </commentaire>
     <insee>22152</insee>
   </article>
-  <article id="DT22-00153" pg="371" type="commune">
+  <article id="P05147546" old-id="DT22-00153" pg="371" type="commune">
     <pg>371</pg>
     <vedette><sm>Moncontour</sm></vedette>
     <forme_ancienne><i>Menez-ar-C’hont</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2264,7 +2265,7 @@
     </commentaire>
     <insee>22153</insee>
   </article>
-  <article id="DT22-00154" pg="378" type="commune">
+  <article id="P63638831" old-id="DT22-00154" pg="378" type="commune">
     <pg>378</pg>
     <vedette><sm>Morieux</sm></vedette>
     <forme_ancienne><i>Morieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2279,7 +2280,7 @@
     </commentaire>
     <insee>22154</insee>
   </article>
-  <article id="DT22-00155" pg="380" type="commune">
+  <article id="P16895868" old-id="DT22-00155" pg="380" type="commune">
     <pg>380</pg>
     <vedette><sm>La Motte</sm></vedette>
     <forme_ancienne><i>La Motte</i>, <date>1640</date>.</forme_ancienne>
@@ -2290,7 +2291,7 @@
     </commentaire>
     <insee>22155</insee>
   </article>
-  <article id="DT22-00156" pg="381" type="commune">
+  <article id="P23702996" old-id="DT22-00156" pg="381" type="commune">
     <pg>381</pg>
     <vedette><sm>Moustéru</sm></vedette>
     <forme_ancienne><i>Mousteru</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2303,7 +2304,7 @@
     </commentaire>
     <insee>22156</insee>
   </article>
-  <article id="DT22-00157" pg="382" type="commune">
+  <article id="P27623754" old-id="DT22-00157" pg="382" type="commune">
     <pg>382</pg>
     <vedette><sm>Le Moustoir</sm></vedette>
     <forme_ancienne><i>ar Vouster</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2312,7 +2313,7 @@
     </commentaire>
     <insee>22157</insee>
   </article>
-  <article id="DT22-00158" pg="382" type="commune">
+  <article id="P36926846" old-id="DT22-00158" pg="382" type="commune">
     <vedette><sm>Mûr-de-Bretagne</sm></vedette>
     <forme_ancienne><i>Mur</i>, <date>1368</date> <reference>(bénéfices du diocèse de Quimper)</reference>.</forme_ancienne>
     <forme_ancienne><i>Mûr</i>, <date>1861</date> <reference>(décret du 11 janvier 1862)</reference>.</forme_ancienne>
@@ -2328,15 +2329,15 @@
     </commentaire>
     <insee>22158</insee>
   </article>
-  <article id="DT22-00159" pg="385">
+  <article id="P86201323" old-id="DT22-00159" pg="385">
     <pg>385</pg>
     <vedette><sm>Notre-Dame-du-Guildo</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22282">Saint-Cast-le-Guildo</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22282" precision="certain">Saint-Cast-le-Guildo</commune></localisation>.</definition>
     <commentaire>
       <p>Cette ancienne commune a été réunie à celle de Saint-Cast pour former Saint-Cast-le-Guildo en <date>1971</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00160" pg="386" type="commune">
+  <article id="P62122429" old-id="DT22-00160" pg="386" type="commune">
     <pg>386</pg>
     <vedette><sm>Noyal</sm></vedette>
     <forme_ancienne><i>Noeal</i>, <date>1232</date>.</forme_ancienne>
@@ -2348,7 +2349,7 @@
     </commentaire>
     <insee>22160</insee>
   </article>
-  <article id="DT22-00161" pg="387" type="commune">
+  <article id="P52448350" old-id="DT22-00161" pg="387" type="commune">
     <pg>387</pg>
     <vedette><sm>Pabu</sm></vedette>
     <forme_ancienne><i>Pabu</i>, <date>1712</date> <reference>(R. Couffon, <i>Répertoire des églises et chapelles du diocèse de Saint-Brieuc</i>)</reference>.</forme_ancienne>
@@ -2360,7 +2361,7 @@
     </commentaire>
     <insee>22161</insee>
   </article>
-  <article id="DT22-00162" pg="388" type="commune">
+  <article id="P50857097" old-id="DT22-00162" pg="388" type="commune">
     <pg>388</pg>
     <vedette><sm>Paimpol</sm></vedette>
     <forme_ancienne><i>Pempoull</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2390,14 +2391,14 @@
     </commentaire>
     <insee>22162</insee>
   </article>
-  <article id="DT22-00162bis" pg="388">
+  <article id="P78159203" old-id="DT22-00162bis" pg="388">
     <vedette><sm>Lanvignec</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22162" precision="certain">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Languinech</i>, <date>1198</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 10)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lavignec</i>, <date>1601</date> <reference>(Archives des Côtes-d’Armor, 1 E 2182)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lanvignec</i>, <date>1790</date>.</forme_ancienne>
   </article>
-  <article id="DT22-00163" pg="395" type="commune">
+  <article id="P49238295" old-id="DT22-00163" pg="395" type="commune">
     <pg>395</pg>
     <vedette><sm>Paule</sm></vedette>
     <forme_ancienne><i>Poull</i>, <date>1368</date> <reference>(taxe des bénéfices du diocèse de Quimper)</reference>.</forme_ancienne>
@@ -2408,7 +2409,7 @@
     </commentaire>
     <insee>22163</insee>
   </article>
-  <article id="DT22-00164" pg="396" type="commune">
+  <article id="P28526378" old-id="DT22-00164" pg="396" type="commune">
     <pg>396</pg>
     <vedette><sm>Pédernec</sm></vedette>
     <forme_ancienne><i>Pederneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2420,7 +2421,7 @@
     </commentaire>
     <insee>22164</insee>
   </article>
-  <article id="DT22-00165" pg="398" type="commune">
+  <article id="P77340424" old-id="DT22-00165" pg="398" type="commune">
     <pg>398</pg>
     <vedette><sm>Penguily</sm></vedette>
     <forme_ancienne><i>des Haies</i>, <date>1243</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 240)</reference>.</forme_ancienne>
@@ -2448,7 +2449,7 @@
     </commentaire>
     <insee>22165</insee>
   </article>
-  <article id="DT22-00166" pg="400" type="commune">
+  <article id="P81872660" old-id="DT22-00166" pg="400" type="commune">
     <pg>400</pg>
     <vedette><sm>Penvénan</sm></vedette>
     <forme_ancienne><i>Pervenan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2463,7 +2464,7 @@
     </commentaire>
     <insee>22166</insee>
   </article>
-  <article id="DT22-00167" pg="405" type="commune">
+  <article id="P76152608" old-id="DT22-00167" pg="405" type="commune">
     <pg>405</pg>
     <vedette><sm>Perret</sm></vedette>
     <forme_ancienne><i>Perred</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2477,7 +2478,7 @@
     </commentaire>
     <insee>22167</insee>
   </article>
-  <article id="DT22-00168" pg="406" type="commune">
+  <article id="P23048333" old-id="DT22-00168" pg="406" type="commune">
     <pg>406</pg>
     <vedette><sm>Perros-Guirec</sm></vedette>
     <forme_ancienne><i>Perroz-Gireg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2492,7 +2493,7 @@
     </commentaire>
     <insee>22168</insee>
   </article>
-  <article id="DT22-00169" pg="412" type="commune">
+  <article id="P92930526" old-id="DT22-00169" pg="412" type="commune">
     <vedette><sm>Peumerit-Quintin</sm></vedette>
     <forme_ancienne><i>Purid-Kintin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <commentaire>
@@ -2502,7 +2503,7 @@
     </commentaire>
     <insee>22169</insee>
   </article>
-  <article id="DT22-00170" pg="413" type="commune">
+  <article id="P49956129" old-id="DT22-00170" pg="413" type="commune">
     <pg>413</pg>
     <vedette><sm>Plaine-Haute</sm></vedette>
     <forme_ancienne><i>Plen Alta</i>, <date>1254</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 141)</reference>.</forme_ancienne>
@@ -2517,7 +2518,7 @@
     </commentaire>
     <insee>22170</insee>
   </article>
-  <article id="DT22-00171" pg="416" type="commune">
+  <article id="P80181104" old-id="DT22-00171" pg="416" type="commune">
     <pg>416</pg>
     <vedette><sm>Plaintel</sm></vedette>
     <forme_ancienne><i>Pleentel</i>, <date>1311</date> <reference>(<i>La Maison Le Nepvou,</i> 1913, p. 170-171)</reference>.</forme_ancienne>
@@ -2533,7 +2534,7 @@
     </commentaire>
     <insee>22171</insee>
   </article>
-  <article id="DT22-00172" pg="418" type="commune">
+  <article id="P17570577" old-id="DT22-00172" pg="418" type="commune">
     <pg>418</pg>
     <vedette><sm>Plancoët</sm></vedette>
     <forme_ancienne><i>Plangoat</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2550,7 +2551,7 @@
     </commentaire>
     <insee>22172</insee>
   </article>
-  <article id="DT22-00173" pg="422" type="commune">
+  <article id="P53013295" old-id="DT22-00173" pg="422" type="commune">
     <pg>422</pg>
     <vedette><sm>Planguenoual</sm></vedette>
     <forme_ancienne><i>miles quidam nomine Budiocus, filius Alvei de Plogonoio</i>, <date>1095</date>.</forme_ancienne>
@@ -2570,7 +2571,7 @@
     </commentaire>
     <insee>22173</insee>
   </article>
-  <article id="DT22-00174" pg="424" type="commune">
+  <article id="P86945166" old-id="DT22-00174" pg="424" type="commune">
     <pg>424</pg>
     <vedette><sm>Pléboulle</sm></vedette>
     <forme_ancienne><i>Plubole</i>, <date>1241</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 96, 121, 135, 138, 150, 154, 160, 162, 167, 170, 186)</reference>.</forme_ancienne>
@@ -2587,7 +2588,7 @@
     </commentaire>
     <insee>22174</insee>
   </article>
-  <article id="DT22-00175" pg="425" type="commune">
+  <article id="P29571806" old-id="DT22-00175" pg="425" type="commune">
     <pg>425</pg>
     <vedette><sm>Plédéliac</sm></vedette>
     <forme_ancienne><i>Pludeliau</i>, <date>1219</date>.</forme_ancienne>
@@ -2597,7 +2598,7 @@
     </commentaire>
     <insee>22175</insee>
   </article>
-  <article id="DT22-00176" pg="428" type="commune">
+  <article id="P44761564" old-id="DT22-00176" pg="428" type="commune">
     <pg>428</pg>
     <vedette><sm>Plédran</sm></vedette>
     <forme_ancienne><i>Pludran</i>, <date>1304</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 211)</reference>.</forme_ancienne>
@@ -2614,7 +2615,7 @@
     </commentaire>
     <insee>22176</insee>
   </article>
-  <article id="DT22-00177" pg="430" type="commune">
+  <article id="P39973265" old-id="DT22-00177" pg="430" type="commune">
     <pg>430</pg>
     <vedette><sm>Pléguien</sm></vedette>
     <forme_ancienne><i>Plian</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2631,7 +2632,7 @@
     </commentaire>
     <insee>22177</insee>
   </article>
-  <article id="DT22-00178" pg="432" type="commune">
+  <article id="P96037851" old-id="DT22-00178" pg="432" type="commune">
     <pg>432</pg>
     <vedette><sm>Pléhédel</sm></vedette>
     <forme_ancienne><i>Pleherel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2646,17 +2647,17 @@
     </commentaire>
     <insee>22178</insee>
   </article>
-  <article id="DT22-00179" pg="434">
+  <article id="P38648558" old-id="DT22-00179" pg="434">
     <pg>434</pg>
     <vedette><sm>Pléhérel</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22179">Fréhel</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22179" precision="certain">Fréhel</commune></localisation>.</definition>
     <forme_ancienne><i>Pleherel</i>, <date>1159</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 34, 122)</reference>.</forme_ancienne>
     <commentaire>
       <p>Les habitants de Pléhérel étaient dits <i>pléhérellois.</i></p>
       <p><i>Pleherel</i> est cité comme paroisse dès <date>1159</date> dans le cartulaire de Saint-Aubin des Bois. Son église usait d’un sceau dès <date>1254</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 34, 122)</reference>. Cette paroisse appartenait au diocèse de Saint-Brieuc sous l’Ancien Régime et a élu sa première municipalité au début de <date>1790</date>, sous le nom de <i>Pléhérel</i>, avec deux accents. En <date>1866</date>, le bourg a été transféré du lieu appelé aujourd’hui le Vieux-Bourg (sur la baie de Saint-Brieuc) au village de l’Abbaye.</p>
     </commentaire>
   </article>
-  <article id="DT22-00179bis" pg="434" type="commune">
+  <article id="P39048634" old-id="DT22-00179bis" pg="434" type="commune">
     <vedette><sm>Fréhel</sm></vedette>
     <definition><typologie>commune</typologie> formée par la réunion de Pléhérel et de Plévenon.</definition>
     <commentaire>
@@ -2666,7 +2667,7 @@
     </commentaire>
     <insee>22179</insee>
   </article>
-  <article id="DT22-00180" pg="435" type="commune">
+  <article id="P15646574" old-id="DT22-00180" pg="435" type="commune">
     <pg>435</pg>
     <vedette><sm>Plélan-le-Petit</sm></vedette>
     <forme_ancienne><i>Ploulann-Bihan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2679,7 +2680,7 @@
     </commentaire>
     <insee>22180</insee>
   </article>
-  <article id="DT22-00181" pg="437" type="commune">
+  <article id="P26052364" old-id="DT22-00181" pg="437" type="commune">
     <pg>437</pg>
     <vedette><sm>Plélauff</sm></vedette>
     <forme_ancienne><i>Pelant</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2696,7 +2697,7 @@
     </commentaire>
     <insee>22181</insee>
   </article>
-  <article id="DT22-00182" pg="438" type="commune">
+  <article id="P00660533" old-id="DT22-00182" pg="438" type="commune">
     <pg>438</pg>
     <vedette><sm>Plélo</sm></vedette>
     <forme_ancienne><i>Peurloc’h</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2714,7 +2715,7 @@
     </commentaire>
     <insee>22182</insee>
   </article>
-  <article id="DT22-00183" pg="442" type="commune">
+  <article id="P28295790" old-id="DT22-00183" pg="442" type="commune">
     <pg>442</pg>
     <vedette><sm>Plémet</sm></vedette>
     <forme_ancienne><i>Plouvael</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2727,7 +2728,7 @@
     </commentaire>
     <insee>22183</insee>
   </article>
-  <article id="DT22-00184" pg="444" type="commune">
+  <article id="P46733148" old-id="DT22-00184" pg="444" type="commune">
     <pg>444</pg>
     <vedette><sm>Plémy</sm></vedette>
     <forme_ancienne><i>Plouevig</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2741,7 +2742,7 @@
     </commentaire>
     <insee>22184</insee>
   </article>
-  <article id="DT22-00185" pg="446" type="commune">
+  <article id="P09638757" old-id="DT22-00185" pg="446" type="commune">
     <pg>446</pg>
     <vedette><sm>Plénée-Jugon</sm></vedette>
     <forme_ancienne><i>Pleneet</i>, <date>1231</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 73, 245, 256)</reference>.</forme_ancienne>
@@ -2755,7 +2756,7 @@
     </commentaire>
     <insee>22185</insee>
   </article>
-  <article id="DT22-00186" pg="448" type="commune">
+  <article id="P11448258" old-id="DT22-00186" pg="448" type="commune">
     <pg>448</pg>
     <vedette><sm>Pléneuf-Val-André</sm></vedette>
     <forme_ancienne><i>Pluenneut</i>, <date>1330</date> <reference>(<i>Pouillés de la province de Tours,</i> éd. A. Longnon, p. 454)</reference>.</forme_ancienne>
@@ -2770,7 +2771,7 @@
     </commentaire>
     <insee>22186</insee>
   </article>
-  <article id="DT22-00187" pg="452" type="commune">
+  <article id="P33962980" old-id="DT22-00187" pg="452" type="commune">
     <pg>452</pg>
     <vedette><sm>Plérin</sm></vedette>
     <forme_ancienne><i>Plerin</i>, <date>1215</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 828)</reference>.</forme_ancienne>
@@ -2781,7 +2782,7 @@
     </commentaire>
     <insee>22187</insee>
   </article>
-  <article id="DT22-00188" pg="458" type="commune">
+  <article id="P73862669" old-id="DT22-00188" pg="458" type="commune">
     <pg>458</pg>
     <vedette><sm>Plerneuf</sm></vedette>
     <forme_ancienne><i>Plouelneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2793,7 +2794,7 @@
     </commentaire>
     <insee>22188</insee>
   </article>
-  <article id="DT22-00189" pg="459" type="commune">
+  <article id="P80324632" old-id="DT22-00189" pg="459" type="commune">
     <pg>459</pg>
     <vedette><sm>Plésidy</sm></vedette>
     <forme_ancienne><i>Plijidi</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2808,7 +2809,7 @@
     </commentaire>
     <insee>22189</insee>
   </article>
-  <article id="DT22-00190" pg="460" type="commune">
+  <article id="P75812567" old-id="DT22-00190" pg="460" type="commune">
     <pg>460</pg>
     <vedette><sm>Pleslin-Trigavou</sm></vedette>
     <commentaire>
@@ -2816,9 +2817,9 @@
     </commentaire>
     <insee>22190</insee>
   </article>
-  <article id="DT22-0190bis" pg="460">
+  <article id="P41846520" old-id="DT22-0190bis" pg="460">
     <vedette><sm>Pleslin</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22190">Pleslin-Trigavou</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22190" precision="certain">Pleslin-Trigavou</commune></localisation>.</definition>
     <forme_ancienne><i>Pleslin</i>, <date>1330</date> <reference>(<i>Monuments originaux de l'histoire de saint Yves</i>, 1887)</reference>.</forme_ancienne>
     <forme_ancienne><i>Plélin</i>, <date>1780</date> <reference>(Ogée, <i>Dictionnaire historique et géographique de la province de Bretagne</i>, 1780)</reference>.</forme_ancienne>
     <commentaire>
@@ -2827,7 +2828,7 @@
       <p>Trigavou a été associé à Pleslin pour former Pleslin-Trigavou <reference>(arrêté préfectoral du <date>29 décembre 1972</date>)</reference>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00191" pg="461" type="commune">
+  <article id="P51046976" old-id="DT22-00191" pg="461" type="commune">
     <pg>461</pg>
     <vedette><sm>Plessala</sm></vedette>
     <forme_ancienne><i>Plouzal</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2841,7 +2842,7 @@
     </commentaire>
     <insee>22191</insee>
   </article>
-  <article id="DT22-00192" pg="462" type="commune">
+  <article id="P16253799" old-id="DT22-00192" pg="462" type="commune">
     <pg>462</pg>
     <vedette><sm>Plessix-Balisson</sm></vedette>
     <forme_ancienne><i>ar Plesiz Baluzon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2856,7 +2857,7 @@
     </commentaire>
     <insee>22192</insee>
   </article>
-  <article id="DT22-00193" pg="463" type="commune">
+  <article id="P80231114" old-id="DT22-00193" pg="463" type="commune">
     <vedette><sm>Plestan</sm></vedette>
     <forme_ancienne><i>Plestam</i>, <date>1198</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 12 ; III, 67, etc.)</reference>.</forme_ancienne>
     <commentaire>
@@ -2865,7 +2866,7 @@
     </commentaire>
     <insee>22193</insee>
   </article>
-  <article id="DT22-00194" pg="465" type="commune">
+  <article id="P14060781" old-id="DT22-00194" pg="465" type="commune">
     <pg>465</pg>
     <vedette><sm>Plestin-les-Grèves</sm></vedette>
     <forme_ancienne><i>Plistin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2879,7 +2880,7 @@
     </commentaire>
     <insee>22194</insee>
   </article>
-  <article id="DT22-00195" pg="468" type="commune">
+  <article id="P09423972" old-id="DT22-00195" pg="468" type="commune">
     <pg>468</pg>
     <vedette><sm>Pleubian</sm></vedette>
     <forme_ancienne><i>Pleuvian</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2894,7 +2895,7 @@
     </commentaire>
     <insee>22195</insee>
   </article>
-  <article id="DT22-00196" pg="471" type="commune">
+  <article id="P32958206" old-id="DT22-00196" pg="471" type="commune">
     <pg>471</pg>
     <vedette><sm>Pleudaniel</sm></vedette>
     <forme_ancienne><i>Planiel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2907,7 +2908,7 @@
     </commentaire>
     <insee>22196</insee>
   </article>
-  <article id="DT22-00197" pg="473" type="commune">
+  <article id="P03072141" old-id="DT22-00197" pg="473" type="commune">
     <pg>473</pg>
     <vedette><sm>Pleudihen-sur-Rance</sm></vedette>
     <forme_ancienne><i>Ploudehan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2921,7 +2922,7 @@
     </commentaire>
     <insee>22197</insee>
   </article>
-  <article id="DT22-00198" pg="474" type="commune">
+  <article id="P88308123" old-id="DT22-00198" pg="474" type="commune">
     <pg>474</pg>
     <vedette><sm>Pleumeur-Bodou</sm></vedette>
     <forme_ancienne><i>Pleuveur-Bodou</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2937,7 +2938,7 @@
     </commentaire>
     <insee>22198</insee>
   </article>
-  <article id="DT22-00199" pg="477" type="commune">
+  <article id="P57131078" old-id="DT22-00199" pg="477" type="commune">
     <pg>477</pg>
     <vedette><sm>Pleumeur-Gautier</sm></vedette>
     <forme_ancienne><i>Pleuveur-Gaoter</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2950,7 +2951,7 @@
     </commentaire>
     <insee>22199</insee>
   </article>
-  <article id="DT22-00200" pg="478" type="commune">
+  <article id="P13022492" old-id="DT22-00200" pg="478" type="commune">
     <pg>478</pg>
     <vedette><sm>Pléven</sm></vedette>
     <forme_ancienne><i>Plouewin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -2963,10 +2964,10 @@
     </commentaire>
     <insee>22200</insee>
   </article>
-  <article id="DT22-00201" pg="479" type="commune">
+  <article id="P49071601" old-id="DT22-00201" pg="479" type="commune">
     <pg>479</pg>
     <vedette><sm>Plévenon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22179">Fréhel</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22179" precision="certain">Fréhel</commune></localisation>.</definition>
     <forme_ancienne><i>dîme de Plevenino</i>, <date>1214</date>.</forme_ancienne>
     <forme_ancienne><i>de Plovenon (corr. Plevenon ?)</i>, <date>1240</date>.</forme_ancienne>
     <forme_ancienne><i>Plevenon</i>, <date>1256</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 50, 94, 126, etc.)</reference>.</forme_ancienne>
@@ -2977,7 +2978,7 @@
     </commentaire>
     <insee>22201</insee>
   </article>
-  <article id="DT22-00202" pg="482" type="commune">
+  <article id="P25038908" old-id="DT22-00202" pg="482" type="commune">
     <pg>482</pg>
     <vedette><sm>Plévin</sm></vedette>
     <forme_ancienne><i>Plezvin</i>, <date>1371</date> <reference>(<i>Monuments du procès de canonisation du bienheureux Charles de Blois</i>, 1921)</reference>.</forme_ancienne>
@@ -2987,7 +2988,7 @@
     </commentaire>
     <insee>22202</insee>
   </article>
-  <article id="DT22-00203" pg="483" type="commune">
+  <article id="P89069663" old-id="DT22-00203" pg="483" type="commune">
     <pg>483</pg>
     <vedette><sm>Plœuc-sur-Lié</sm></vedette>
     <forme_ancienne><i>Ploueg-Breizh-Uhel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3006,7 +3007,7 @@
     </commentaire>
     <insee>22203</insee>
   </article>
-  <article id="DT22-00204" pg="486" type="commune">
+  <article id="P98284325" old-id="DT22-00204" pg="486" type="commune">
     <pg>486</pg>
     <vedette><sm>Ploëzal</sm></vedette>
     <forme_ancienne><i>Pleuzal</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3022,7 +3023,7 @@
     </commentaire>
     <insee>22204</insee>
   </article>
-  <article id="DT22-00205" pg="488" type="commune">
+  <article id="P82561380" old-id="DT22-00205" pg="488" type="commune">
     <pg>488</pg>
     <vedette><sm>Plorec-sur-Arguenon</sm></vedette>
     <forme_ancienne><i>Plorec</i>, <date>Ancien Régime</date>.</forme_ancienne>
@@ -3035,7 +3036,7 @@
     </commentaire>
     <insee>22205</insee>
   </article>
-  <article id="DT22-00206" pg="489" type="commune">
+  <article id="P31620518" old-id="DT22-00206" pg="489" type="commune">
     <pg>489</pg>
     <vedette><sm>Plouagat</sm></vedette>
     <forme_ancienne><i>Plagad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3052,7 +3053,7 @@
     </commentaire>
     <insee>22206</insee>
   </article>
-  <article id="DT22-00207" pg="492" type="commune">
+  <article id="P33406772" old-id="DT22-00207" pg="492" type="commune">
     <pg>492</pg>
     <vedette><sm>Plouaret</sm></vedette>
     <forme_ancienne><i>Plouared</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3071,7 +3072,7 @@
     </commentaire>
     <insee>22207</insee>
   </article>
-  <article id="DT22-00208" pg="494" type="commune">
+  <article id="P73516855" old-id="DT22-00208" pg="494" type="commune">
     <pg>494</pg>
     <vedette><sm>Plouasne</sm></vedette>
     <forme_ancienne><i>Plouan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3083,7 +3084,7 @@
     </commentaire>
     <insee>22208</insee>
   </article>
-  <article id="DT22-00209" pg="496" type="commune">
+  <article id="P37858652" old-id="DT22-00209" pg="496" type="commune">
     <pg>496</pg>
     <vedette><sm>Ploubalay</sm></vedette>
     <forme_ancienne><i>Plouvale</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3095,7 +3096,7 @@
     </commentaire>
     <insee>22209</insee>
   </article>
-  <article id="DT22-00210" pg="498" type="commune">
+  <article id="P12669557" old-id="DT22-00210" pg="498" type="commune">
     <pg>498</pg>
     <vedette><sm>Ploubazlanec</sm></vedette>
     <forme_ancienne><i>Pleraneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3115,23 +3116,23 @@
     </commentaire>
     <insee>22210</insee>
   </article>
-  <article id="DT22-00210bis" pg="498">
+  <article id="P34432656" old-id="DT22-00210bis" pg="498">
     <vedette><sm>Lannévez</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22210">Ploubazlanec</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22210" precision="certain">Ploubazlanec</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesiam de Lanneez</i>, <date>1189</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>ecclesiam de Lannevet</i>, <date>1198</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>Lannves</i>, <date>1202</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>capellanus de Lannevez</i>, <date>1248</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
   </article>
-  <article id="DT22-00210ter" pg="498">
+  <article id="P15943807" old-id="DT22-00210ter" pg="498">
     <vedette><sm>Perros-Hamon</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22210">Ploubazlanec</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22210" precision="certain">Ploubazlanec</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesiam de Penros</i>, <date>1198</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>Penros Goilou</i>, <date>1237</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>parrochia de Penros Goilou</i>, <date>1245</date> <reference>(chartes des abbayes de Saint-Rion et de Beauport)</reference>.</forme_ancienne>
     <forme_ancienne><i>Perros-Hamon</i>, <date>1664</date> <reference>(état civil)</reference>.</forme_ancienne>
   </article>
-  <article id="DT22-00211" pg="503" type="commune">
+  <article id="P63691892" old-id="DT22-00211" pg="503" type="commune">
     <pg>503</pg>
     <vedette><sm>Ploubezre</sm></vedette>
     <forme_ancienne><i>Plouber</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3143,7 +3144,7 @@
     </commentaire>
     <insee>22211</insee>
   </article>
-  <article id="DT22-00212" pg="506" type="commune">
+  <article id="P34682190" old-id="DT22-00212" pg="506" type="commune">
     <pg>506</pg>
     <vedette><sm>Plouëc-du-Trieux</sm></vedette>
     <forme_ancienne><i>Ploueg-Pontrev</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3158,7 +3159,7 @@
     </commentaire>
     <insee>22212</insee>
   </article>
-  <article id="DT22-00213" pg="508" type="commune">
+  <article id="P86031538" old-id="DT22-00213" pg="508" type="commune">
     <pg>508</pg>
     <vedette><sm>Plouër-sur-Rance</sm></vedette>
     <forme_ancienne><i>Plouaer</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3173,7 +3174,7 @@
     </commentaire>
     <insee>22213</insee>
   </article>
-  <article id="DT22-00214" pg="511" type="commune">
+  <article id="P20458768" old-id="DT22-00214" pg="511" type="commune">
     <pg>511</pg>
     <vedette><sm>Plouézec</sm></vedette>
     <forme_ancienne><i>Ploueg-ar-Mor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3203,7 +3204,7 @@
     </commentaire>
     <insee>22214</insee>
   </article>
-  <article id="DT22-00215" pg="514" type="commune">
+  <article id="P52052845" old-id="DT22-00215" pg="514" type="commune">
     <pg>514</pg>
     <vedette><sm>Ploufragan</sm></vedette>
     <forme_ancienne><i>plebs Fracani</i>, <date><sm>ix</sm><sup>e</sup> siècle</date> <reference>(<i>Cartulaire de Landevennec,</i> éd. La Borderie, 1888, p. 10 ; <i>Actes du colloque</i> de Landévennec, 1985, p. 324)</reference>.</forme_ancienne>
@@ -3221,7 +3222,7 @@
     </commentaire>
     <insee>22215</insee>
   </article>
-  <article id="DT22-00216" pg="517" type="commune">
+  <article id="P75625313" old-id="DT22-00216" pg="517" type="commune">
     <pg>517</pg>
     <vedette><sm>Plougonver</sm></vedette>
     <commentaire>
@@ -3230,7 +3231,7 @@
     </commentaire>
     <insee>22216</insee>
   </article>
-  <article id="DT22-00217" pg="518" type="commune">
+  <article id="P26548954" old-id="DT22-00217" pg="518" type="commune">
     <pg>518</pg>
     <vedette><sm>Plougras</sm></vedette>
     <forme_ancienne><i>Plougraz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3246,7 +3247,7 @@
     </commentaire>
     <insee>22217</insee>
   </article>
-  <article id="DT22-00218" pg="519" type="commune">
+  <article id="P30002236" old-id="DT22-00218" pg="519" type="commune">
     <vedette><sm>Plougrescant</sm></vedette>
     <forme_ancienne><i>Plougouskan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Plougouskant</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3262,7 +3263,7 @@
     </commentaire>
     <insee>22218</insee>
   </article>
-  <article id="DT22-00219" pg="523" type="commune">
+  <article id="P79934833" old-id="DT22-00219" pg="523" type="commune">
     <pg>523</pg>
     <vedette><sm>Plouguenast</sm></vedette>
     <forme_ancienne><i>Plouwinaz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3280,7 +3281,7 @@
     </commentaire>
     <insee>22219</insee>
   </article>
-  <article id="DT22-00220" pg="526" type="commune">
+  <article id="P90102913" old-id="DT22-00220" pg="526" type="commune">
     <pg>526</pg>
     <vedette><sm>Plouguernével</sm></vedette>
     <forme_ancienne><i>Plougernevel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3296,7 +3297,7 @@
     </commentaire>
     <insee>22220</insee>
   </article>
-  <article id="DT22-00221" pg="528" type="commune">
+  <article id="P93327165" old-id="DT22-00221" pg="528" type="commune">
     <pg>528</pg>
     <vedette><sm>Plouguiel</sm></vedette>
     <forme_ancienne><i>Priel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3313,7 +3314,7 @@
     </commentaire>
     <insee>22221</insee>
   </article>
-  <article id="DT22-00222" pg="531" type="commune">
+  <article id="P36258703" old-id="DT22-00222" pg="531" type="commune">
     <pg>531</pg>
     <vedette><sm>Plouha</sm></vedette>
     <forme_ancienne><i>Plouc’ha</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3330,7 +3331,7 @@
     </commentaire>
     <insee>22222</insee>
   </article>
-  <article id="DT22-00223" pg="535" type="commune">
+  <article id="P92187510" old-id="DT22-00223" pg="535" type="commune">
     <pg>535</pg>
     <vedette><sm>Plouisy</sm></vedette>
     <forme_ancienne><i>Plouisi</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3343,7 +3344,7 @@
     </commentaire>
     <insee>22223</insee>
   </article>
-  <article id="DT22-00224" pg="536" type="commune">
+  <article id="P93366008" old-id="DT22-00224" pg="536" type="commune">
     <pg>536</pg>
     <vedette><sm>Ploulec’h</sm></vedette>
     <forme_ancienne><i>Plourec’h</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3359,7 +3360,7 @@
     </commentaire>
     <insee>22224</insee>
   </article>
-  <article id="DT22-00225" pg="538" type="commune">
+  <article id="P81476062" old-id="DT22-00225" pg="538" type="commune">
     <pg>538</pg>
     <vedette><sm>Ploumagoar</sm></vedette>
     <forme_ancienne><i>Plouagor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3371,7 +3372,7 @@
     </commentaire>
     <insee>22225</insee>
   </article>
-  <article id="DT22-00226" pg="539" type="commune">
+  <article id="P24071856" old-id="DT22-00226" pg="539" type="commune">
     <pg>539</pg>
     <vedette><sm>Ploumilliau</sm></vedette>
     <forme_ancienne><i>Plouillo</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3383,7 +3384,7 @@
     </commentaire>
     <insee>22226</insee>
   </article>
-  <article id="DT22-00227" pg="541" type="commune">
+  <article id="P71048649" old-id="DT22-00227" pg="541" type="commune">
     <pg>541</pg>
     <vedette><sm>Plounérin</sm></vedette>
     <forme_ancienne><i>Plounerin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3395,7 +3396,7 @@
     </commentaire>
     <insee>22227</insee>
   </article>
-  <article id="DT22-00228" pg="543" type="commune">
+  <article id="P42102107" old-id="DT22-00228" pg="543" type="commune">
     <pg>543</pg>
     <vedette><sm>Plounévez-Moëdec</sm></vedette>
     <forme_ancienne><i>Plounevez-Moedeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3412,7 +3413,7 @@
     </commentaire>
     <insee>22228</insee>
   </article>
-  <article id="DT22-00229" pg="545" type="commune">
+  <article id="P18393867" old-id="DT22-00229" pg="545" type="commune">
     <pg>545</pg>
     <vedette><sm>Plounévez-Quintin</sm></vedette>
     <forme_ancienne><i>Plounevez-Kintin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3427,9 +3428,9 @@
     </commentaire>
     <insee>22229</insee>
   </article>
-  <article id="DT22-00230" pg="546">
+  <article id="P29290800" old-id="DT22-00230" pg="546">
     <vedette><sm>Plounez</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22162">Paimpol</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22162" precision="certain">Paimpol</commune></localisation>.</definition>
     <forme_ancienne><i>Plonez</i>, <date>1256</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
     <forme_ancienne><i>Ploenez</i>, <date>1261</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
     <forme_ancienne><i>Ploenet</i>, <date>1266</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>.</forme_ancienne>
@@ -3439,7 +3440,7 @@
       <p><i>Plonez</i> était paroisse dès <date>1256</date> <reference>(Archives des Côtes-d’Armor, <pg>390</pg>2 H Beauport, carton 61)</reference>. Cette paroisse est ensuite appelée <i>Ploenez</i> dès <date>1261</date>, <i>Ploenet</i> dès <date>1266</date> (même fonds) et enfin <i>Plounez</i> aux <date><sm>xvii</sm><sup>e</sup> et <sm>xviii</sm><sup>e</sup> siècles</date> <reference>(Archives des Côtes-d’Armor, 1 E 2183)</reference>. Cette paroisse, qui avait pour succursale et trève la ville de Paimpol et qui était parfois appelée <i>Plounez-Paimpol,</i> élut sa première municipalité au début de <date>1790</date>. Par l’ordonnance du <date>6 mai 1836</date>, Paimpol a été augmenté d’une fraction de Plounez, située sur la route de Tréguier. En échange, Plounez a reçu les villages de Keraudren et de Toulverzit, formant deux fractions et faisant précédemment partie de Lanvignec. Sur le nom de Plounez avait été formé l’adjectif <i>plounézien</i> <reference>(Kerleveo, <i>Temps d’Islande,</i> I, <date>1944</date>, p. 28)</reference>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00231" pg="547" type="commune">
+  <article id="P24446375" old-id="DT22-00231" pg="547" type="commune">
     <pg>547</pg>
     <vedette><sm>Plourac’h</sm></vedette>
     <forme_ancienne><i>Plourach</i>, <date>Ancien Régime</date>.</forme_ancienne>
@@ -3450,7 +3451,7 @@
     </commentaire>
     <insee>22231</insee>
   </article>
-  <article id="DT22-00232" pg="548" type="commune">
+  <article id="P04276920" old-id="DT22-00232" pg="548" type="commune">
     <pg>548</pg>
     <vedette><sm>Plourhan</sm></vedette>
     <forme_ancienne><i>Plourwant</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3464,7 +3465,7 @@
     </commentaire>
     <insee>22232</insee>
   </article>
-  <article id="DT22-00233" pg="549" type="commune">
+  <article id="P00300098" old-id="DT22-00233" pg="549" type="commune">
     <pg>549</pg>
     <vedette><sm>Plourivo</sm></vedette>
     <forme_ancienne><i>Plourio</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3482,7 +3483,7 @@
     </commentaire>
     <insee>22233</insee>
   </article>
-  <article id="DT22-00234" pg="552" type="commune">
+  <article id="P62329379" old-id="DT22-00234" pg="552" type="commune">
     <pg>552</pg>
     <vedette><sm>Plouvara</sm></vedette>
     <forme_ancienne><i>Plevara</i>, <date>1189</date> <reference>(Acte de fondation de l’abbaye de Saint-Rion, J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 8)</reference>.</forme_ancienne>
@@ -3496,7 +3497,7 @@
     </commentaire>
     <insee>22234</insee>
   </article>
-  <article id="DT22-00235" pg="554" type="commune">
+  <article id="P30175667" old-id="DT22-00235" pg="554" type="commune">
     <pg>554</pg>
     <vedette><sm>Plouzélambre</sm></vedette>
     <forme_ancienne><i>Plouzelambr</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3511,7 +3512,7 @@
     </commentaire>
     <insee>22235</insee>
   </article>
-  <article id="DT22-00236" pg="555" type="commune">
+  <article id="P40440660" old-id="DT22-00236" pg="555" type="commune">
     <pg>555</pg>
     <vedette><sm>Pludual</sm></vedette>
     <forme_ancienne><i>Plua</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3526,7 +3527,7 @@
     </commentaire>
     <insee>22236</insee>
   </article>
-  <article id="DT22-00237" pg="555" type="commune">
+  <article id="P28170201" old-id="DT22-00237" pg="555" type="commune">
     <vedette><sm>Pluduno</sm></vedette>
     <forme_ancienne><i>Pluduno</i>, <date>1423</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 1553)</reference>.</forme_ancienne>
     <commentaire>
@@ -3537,7 +3538,7 @@
     </commentaire>
     <insee>22237</insee>
   </article>
-  <article id="DT22-00238" pg="557" type="commune">
+  <article id="P62648282" old-id="DT22-00238" pg="557" type="commune">
     <pg>557</pg>
     <vedette><sm>Plufur</sm></vedette>
     <forme_ancienne><i>Ploefur</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
@@ -3549,7 +3550,7 @@
     </commentaire>
     <insee>22238</insee>
   </article>
-  <article id="DT22-00239" pg="558" type="commune">
+  <article id="P99227397" old-id="DT22-00239" pg="558" type="commune">
     <pg>558</pg>
     <vedette><sm>Plumaudan</sm></vedette>
     <forme_ancienne><i>Plouvaodan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3565,7 +3566,7 @@
     </commentaire>
     <insee>22239</insee>
   </article>
-  <article id="DT22-00240" pg="560" type="commune">
+  <article id="P89257223" old-id="DT22-00240" pg="560" type="commune">
     <pg>560</pg>
     <vedette><sm>Plumaugat</sm></vedette>
     <forme_ancienne><i>Plouvaelgat</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3578,7 +3579,7 @@
     </commentaire>
     <insee>22240</insee>
   </article>
-  <article id="DT22-00241" pg="562" type="commune">
+  <article id="P23472844" old-id="DT22-00241" pg="562" type="commune">
     <pg>562</pg>
     <vedette><sm>Plumieux</sm></vedette>
     <forme_ancienne><i>Plouvaeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3600,7 +3601,7 @@
     </commentaire>
     <insee>22241</insee>
   </article>
-  <article id="DT22-00242" pg="563" type="commune">
+  <article id="P12797278" old-id="DT22-00242" pg="563" type="commune">
     <pg>563</pg>
     <vedette><sm>Plurien</sm></vedette>
     <forme_ancienne><i>Plurien</i>, <date>1243</date> <reference>(chartes de l’abbaye de Saint-Aubin des Bois, J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 100 et suiv.)</reference>.</forme_ancienne>
@@ -3611,7 +3612,7 @@
     </commentaire>
     <insee>22242</insee>
   </article>
-  <article id="DT22-00243" pg="564" type="commune">
+  <article id="P28000053" old-id="DT22-00243" pg="564" type="commune">
     <pg>564</pg>
     <vedette><sm>Plusquellec</sm></vedette>
     <forme_ancienne><i>Pluskelleg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3624,7 +3625,7 @@
     </commentaire>
     <insee>22243</insee>
   </article>
-  <article id="DT22-00244" pg="565" type="commune">
+  <article id="P08750285" old-id="DT22-00244" pg="565" type="commune">
     <pg>565</pg>
     <vedette><sm>Plussulien</sm></vedette>
     <forme_ancienne><i>Plusulien</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3639,7 +3640,7 @@
     </commentaire>
     <insee>22244</insee>
   </article>
-  <article id="DT22-00245" pg="566" type="commune">
+  <article id="P15562651" old-id="DT22-00245" pg="566" type="commune">
     <pg>566</pg>
     <vedette><sm>Pluzunet</sm></vedette>
     <forme_ancienne><i>Pluzuned</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3654,7 +3655,7 @@
     </commentaire>
     <insee>22245</insee>
   </article>
-  <article id="DT22-00246" pg="569" type="commune">
+  <article id="P67697934" old-id="DT22-00246" pg="569" type="commune">
     <pg>569</pg>
     <vedette><sm>Pommeret</sm></vedette>
     <forme_ancienne><i>Pomeroit</i>, <date>1319</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 1287)</reference>.</forme_ancienne>
@@ -3666,7 +3667,7 @@
     </commentaire>
     <insee>22246</insee>
   </article>
-  <article id="DT22-00247" pg="570" type="commune">
+  <article id="P10894690" old-id="DT22-00247" pg="570" type="commune">
     <pg>570</pg>
     <vedette><sm>Pommerit-Jaudy</sm></vedette>
     <forme_ancienne><i>Peurid-ar-Roc’h</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3682,7 +3683,7 @@
     </commentaire>
     <insee>22247</insee>
   </article>
-  <article id="DT22-00248" pg="572" type="commune">
+  <article id="P06840232" old-id="DT22-00248" pg="572" type="commune">
     <pg>572</pg>
     <vedette><sm>Pommerit-le-Vicomte</sm></vedette>
     <forme_ancienne><i>Pañvrid-ar-Bescont</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3698,7 +3699,7 @@
     </commentaire>
     <insee>22248</insee>
   </article>
-  <article id="DT22-00249" pg="574" type="commune">
+  <article id="P82404422" old-id="DT22-00249" pg="574" type="commune">
     <pg>574</pg>
     <vedette><sm>Pont-Melvez</sm></vedette>
     <forme_ancienne><i>ospital de Pomelveu</i>, <date>1420</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard)</reference>.</forme_ancienne>
@@ -3708,7 +3709,7 @@
     </commentaire>
     <insee>22249</insee>
   </article>
-  <article id="DT22-00250" pg="575" type="commune">
+  <article id="P75320833" old-id="DT22-00250" pg="575" type="commune">
     <pg>575</pg>
     <vedette><sm>Pontrieux</sm></vedette>
     <forme_ancienne><i>Pontrev</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3728,7 +3729,7 @@
     </commentaire>
     <insee>22250</insee>
   </article>
-  <article id="DT22-00251" pg="579" type="commune">
+  <article id="P47148552" old-id="DT22-00251" pg="579" type="commune">
     <pg>579</pg>
     <vedette><sm>Pordic</sm></vedette>
     <forme_ancienne><i>Porzhig</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3740,10 +3741,10 @@
     </commentaire>
     <insee>22251</insee>
   </article>
-  <article id="DT22-00252" pg="581">
+  <article id="P35213882" old-id="DT22-00252" pg="581">
     <pg>581</pg>
     <vedette><sm>La Poterie</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22093" precision="certain">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>La Poterie</i>, <date>1425</date> <reference>(Archives des Côtes-d’Armor, 1 E 101)</reference>.</forme_ancienne>
     <commentaire>
       <p>La Poterie fut d’abord un village de potiers sur la paroisse de Maroué. Le lieu de ce nom est cité dès <date>1425</date> <reference>(Archives des Côtes-d’Armor, 1 E 101)</reference>. Le village apparaît dès <date>1500</date> et sa chapelle Saint-Yves dès <date>1537</date> <reference>(1 E 220)</reference>. Par ordonnance épiscopale du <date>10 décembre 1607</date>, cette chapelle fut autorisée à avoir des fonts baptismaux, ce qui en fit une église paroissiale <reference>(1 E 579 et <pg>582</pg>2 G 109)</reference>. La paroisse Saint-Yves de la Poterie, qui était sous l’Ancien Régime une succursale de la paroisse de Maroué, élut sa première municipalité au début de <date>1790</date>, donnant ainsi naissance à la commune de la Poterie.</p>
@@ -3751,7 +3752,7 @@
       <p>Enfin, par arrêté préfectoral du <date>29 décembre 1972</date>, la commune de la Poterie se trouva fusionnée avec celle de Lamballe à compter du <date>1<sup>er</sup> janvier 1973</date>, mais subsista en tant que commune associée.</p>
     </commentaire>
   </article>
-  <article id="DT22-00253" pg="584" type="commune">
+  <article id="P35723261" old-id="DT22-00253" pg="584" type="commune">
     <pg>584</pg>
     <vedette><sm>Pouldouran</sm></vedette>
     <forme_ancienne><i>treff de Plodoran</i>, <date>1427</date>.</forme_ancienne>
@@ -3763,7 +3764,7 @@
     </commentaire>
     <insee>22253</insee>
   </article>
-  <article id="DT22-00254" pg="585" type="commune">
+  <article id="P13184728" old-id="DT22-00254" pg="585" type="commune">
     <pg>585</pg>
     <vedette><sm>Prat</sm></vedette>
     <forme_ancienne><i>Prad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3779,7 +3780,7 @@
     </commentaire>
     <insee>22254</insee>
   </article>
-  <article id="DT22-00255" pg="587" type="commune">
+  <article id="P28843969" old-id="DT22-00255" pg="587" type="commune">
     <pg>587</pg>
     <vedette><sm>La Prénessaye</sm></vedette>
     <forme_ancienne><i>Perenessata</i>, <date>1263</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 989)</reference>.</forme_ancienne>
@@ -3794,7 +3795,7 @@
     </commentaire>
     <insee>22255</insee>
   </article>
-  <article id="DT22-00256" pg="588" type="commune">
+  <article id="P72913576" old-id="DT22-00256" pg="588" type="commune">
     <pg>588</pg>
     <vedette><sm>Quemper-Guézennec</sm></vedette>
     <forme_ancienne><i>Kemper-Gwezenneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3809,7 +3810,7 @@
     </commentaire>
     <insee>22256</insee>
   </article>
-  <article id="DT22-00257" pg="590" type="commune">
+  <article id="P56759027" old-id="DT22-00257" pg="590" type="commune">
     <pg>590</pg>
     <vedette><sm>Quemperven</sm></vedette>
     <forme_ancienne><i>Kemperven</i>, <date>1330</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 340)</reference>.</forme_ancienne>
@@ -3822,7 +3823,7 @@
     </commentaire>
     <insee>22257</insee>
   </article>
-  <article id="DT22-00258" pg="591" type="commune">
+  <article id="P97140622" old-id="DT22-00258" pg="591" type="commune">
     <pg>591</pg>
     <vedette><sm>Quessoy</sm></vedette>
     <forme_ancienne><i>Kaezeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3833,7 +3834,7 @@
     </commentaire>
     <insee>22258</insee>
   </article>
-  <article id="DT22-00259" pg="593" type="commune">
+  <article id="P65683885" old-id="DT22-00259" pg="593" type="commune">
     <pg>593</pg>
     <vedette><sm>Quevert</sm></vedette>
     <forme_ancienne><i>Keoveur</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3844,7 +3845,7 @@
     </commentaire>
     <insee>22259</insee>
   </article>
-  <article id="DT22-00260" pg="594" type="commune">
+  <article id="P59702275" old-id="DT22-00260" pg="594" type="commune">
     <pg>594</pg>
     <vedette><sm>Le Quillio</sm></vedette>
     <forme_ancienne><i>in nemoribus de Killiou, in parochia de Meleriac</i>, <date>1285</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 1078 et 1081)</reference>.</forme_ancienne>
@@ -3855,7 +3856,7 @@
     </commentaire>
     <insee>22260</insee>
   </article>
-  <article id="DT22-00261" pg="595" type="commune">
+  <article id="P60850911" old-id="DT22-00261" pg="595" type="commune">
     <pg>595</pg>
     <vedette><sm>Quintenic</sm></vedette>
     <forme_ancienne><i>Kinteniz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3871,7 +3872,7 @@
     </commentaire>
     <insee>22261</insee>
   </article>
-  <article id="DT22-00262" pg="597" type="commune">
+  <article id="P20862579" old-id="DT22-00262" pg="597" type="commune">
     <pg>597</pg>
     <vedette><sm>Quintin</sm></vedette>
     <forme_ancienne><i>Kintin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3892,7 +3893,7 @@
     </commentaire>
     <insee>22262</insee>
   </article>
-  <article id="DT22-00263" pg="605" type="commune">
+  <article id="P76920251" old-id="DT22-00263" pg="605" type="commune">
     <pg>605</pg>
     <vedette><sm>Le Quiou</sm></vedette>
     <forme_ancienne><i>Keou</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3903,7 +3904,7 @@
     </commentaire>
     <insee>22263</insee>
   </article>
-  <article id="DT22-00264" pg="605" type="commune">
+  <article id="P73843399" old-id="DT22-00264" pg="605" type="commune">
     <vedette><sm>La Roche-Derrien</sm></vedette>
     <forme_ancienne><i>ar Roc’h-Derrien</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>castrum de Rupe</i>, <date>vers 1165</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 640)</reference>.</forme_ancienne>
@@ -3920,7 +3921,7 @@
     </commentaire>
     <insee>22264</insee>
   </article>
-  <article id="DT22-00265" pg="608" type="commune">
+  <article id="P42912225" old-id="DT22-00265" pg="608" type="commune">
     <pg>608</pg>
     <vedette><sm>Rospez</sm></vedette>
     <forme_ancienne><i>Rospez</i>, <date>1437</date> <reference>(Archives de la Loire-Atlantique, B 2982)</reference>.</forme_ancienne>
@@ -3934,7 +3935,7 @@
     </commentaire>
     <insee>22265</insee>
   </article>
-  <article id="DT22-00266" pg="609" type="commune">
+  <article id="P54897731" old-id="DT22-00266" pg="609" type="commune">
     <vedette><sm>Rostrenen</sm></vedette>
     <commentaire>
       <p>En breton, la dernière syllabe de ce nom (<i>Rostrenen</i>, écrit comme en français) est muette. Il se prononce donc comme <i>Rostren</i>. Cela explique que l’adjectif ethnique, après avoir été <i>rostrennois</i> <reference>(<i>Sem. relig.,</i> <date>1884</date>, p. 427)</reference> et <i>rostrenenois</i> (<i>J.O.,</i> <date>25 février 1903</date>), soit devenu <i>rostrenois</i> (<i>J.O.,</i> <date>10 décembre 1908</date>), en breton <i>rostrenad,</i> au pluriel <i>rostreniz</i> <reference>(F. Vallée, <i>Grand dictionnaire français-breton,</i> <date>1931</date>, p. 665)</reference>.</p>
@@ -3953,7 +3954,7 @@
     </commentaire>
     <insee>22266</insee>
   </article>
-  <article id="DT22-00267" pg="614" type="commune">
+  <article id="P64723813" old-id="DT22-00267" pg="614" type="commune">
     <pg>614</pg>
     <vedette><sm>Rouillac</sm></vedette>
     <forme_ancienne><i>Roulieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -3963,7 +3964,7 @@
     </commentaire>
     <insee>22267</insee>
   </article>
-  <article id="DT22-00268" pg="615" type="commune">
+  <article id="P39444225" old-id="DT22-00268" pg="615" type="commune">
     <pg>615</pg>
     <vedette><sm>Ruca</sm></vedette>
     <forme_ancienne><i>Ruscha</i>, <date>1232</date> <reference>(cartulaire de l’abbaye de Saint-Aubin-des-Bois, J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 41 et suiv.)</reference>.</forme_ancienne>
@@ -3975,7 +3976,7 @@
     </commentaire>
     <insee>22268</insee>
   </article>
-  <article id="DT22-00269" pg="615" type="commune">
+  <article id="P78735107" old-id="DT22-00269" pg="615" type="commune">
     <vedette><sm>Runan</sm></vedette>
     <forme_ancienne><i>Runargant</i>, <date>1182 ou <sm>xiii</sm><sup>e</sup> siècle</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 137)</reference>.</forme_ancienne>
     <forme_ancienne><i>Runargan</i>, <date>1414</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 1171, 1495, 2218)</reference>.</forme_ancienne>
@@ -3986,9 +3987,9 @@
     </commentaire>
     <insee>22269</insee>
   </article>
-  <article id="DT22-00270" pg="616">
+  <article id="P21920009" old-id="DT22-00270" pg="616">
     <vedette><sm>Saint-Aaron</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22093" precision="certain">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesia sancti Aaron</i>, <date>1144</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
     <forme_ancienne><i>ecclesiam sancti Aaronis</i>, <date>1207</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
     <forme_ancienne><i>in parrochia de Quistenit et de Sancto Aaronio</i>, <date>1238</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 90 ; IV, 310, 312)</reference>.</forme_ancienne>
@@ -4004,7 +4005,7 @@
       <p>Enfin Saint-Aaron a été fusionné avec Lamballe par arrêté préfectoral du <date>29 décembre 1972</date>, à compter du 1<sup>er</sup> janvier suivant, recevant en même temps le statut de commune associée.</p>
     </commentaire>
   </article>
-  <article id="DT22-00271" pg="618" type="commune">
+  <article id="P46664995" old-id="DT22-00271" pg="618" type="commune">
     <pg>618</pg>
     <vedette><sm>Saint-Adrien</sm></vedette>
     <forme_ancienne><i>Sant-Drien</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4015,7 +4016,7 @@
     </commentaire>
     <insee>22271</insee>
   </article>
-  <article id="DT22-00272" pg="619" type="commune">
+  <article id="P38906784" old-id="DT22-00272" pg="619" type="commune">
     <pg>619</pg>
     <vedette><sm>Saint-Agathon</sm></vedette>
     <forme_ancienne><i>Sant-Eganton</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4029,7 +4030,7 @@
     </commentaire>
     <insee>22272</insee>
   </article>
-  <article id="DT22-00273" pg="619" type="commune">
+  <article id="P55945072" old-id="DT22-00273" pg="619" type="commune">
     <vedette><sm>Saint-Alban</sm></vedette>
     <forme_ancienne><i>parrochia de Sancto Albano</i>, <date>1256</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens <pg>620</pg> évêchés de Bretagne</i>, 1855-1879, t.  III, 127, 179, 256)</reference>.</forme_ancienne>
     <forme_ancienne><i>Sancti Albini</i>, <date>1290</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens <pg>620</pg> évêchés de Bretagne</i>, 1855-1879, t. III, 127, 179, 256)</reference>.</forme_ancienne>
@@ -4042,7 +4043,7 @@
     </commentaire>
     <insee>22273</insee>
   </article>
-  <article id="DT22-00274" pg="621" type="commune">
+  <article id="P60329731" old-id="DT22-00274" pg="621" type="commune">
     <pg>621</pg>
     <vedette><sm>Saint-André-des-Eaux</sm></vedette>
     <forme_ancienne><i>Sant-Andrev-an-Doureier</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4057,7 +4058,7 @@
     </commentaire>
     <insee>22274</insee>
   </article>
-  <article id="DT22-00275" pg="622" type="commune">
+  <article id="P69340047" old-id="DT22-00275" pg="622" type="commune">
     <pg>622</pg>
     <vedette><sm>Saint-Barnabé</sm></vedette>
     <forme_ancienne><i>villa de Kermelennan in Locduiac</i>, <date>vers 1075</date> <reference>(<i>Cartulaire de Redon</i>, éd. Courson, p. 242)</reference>.</forme_ancienne>
@@ -4069,7 +4070,7 @@
     </commentaire>
     <insee>22275</insee>
   </article>
-  <article id="DT22-00276" pg="622" type="commune">
+  <article id="P59644418" old-id="DT22-00276" pg="622" type="commune">
     <vedette><sm>Saint-Bihy</sm></vedette>
     <forme_ancienne><i>Saint-Euzèbe</i>, <date>1654</date> <reference>(Archives des Côtes-d’Armor, 2 G)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Behy</i>, <date>1654</date> <reference>(Archives des Côtes-d’Armor, 2 G)</reference>.</forme_ancienne>
@@ -4081,7 +4082,7 @@
     </commentaire>
     <insee>22276</insee>
   </article>
-  <article id="DT22-00277" pg="623" type="commune">
+  <article id="P21620620" old-id="DT22-00277" pg="623" type="commune">
     <pg>623</pg>
     <vedette><sm>Saint-Brandan</sm></vedette>
     <forme_ancienne><i>Sant-Brandan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4094,7 +4095,7 @@
     </commentaire>
     <insee>22277</insee>
   </article>
-  <article id="DT22-00278" pg="625" type="commune">
+  <article id="P33833637" old-id="DT22-00278" pg="625" type="commune">
     <pg>625</pg>
     <vedette><sm>Saint-Brieuc</sm></vedette>
     <forme_ancienne><i>Sant-Brieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4131,13 +4132,13 @@
     </commentaire>
     <insee>22278</insee>
   </article>
-  <article id="DT22-00278bis" pg="625">
+  <article id="P96716328" old-id="DT22-00278bis" pg="625">
     <vedette><sm>Cesson</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22278">Saint-Brieuc</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22278" precision="certain">Saint-Brieuc</commune></localisation>.</definition>
     <forme_ancienne><i>Gaulterius, praetor de Cesson</i>, <date>1144</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 591)</reference>.</forme_ancienne>
     <forme_ancienne><i>presbyter de Sesson</i>, <date>1263</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 141)</reference>.</forme_ancienne>
   </article>
-  <article id="DT22-00279" pg="651" type="commune">
+  <article id="P80811361" old-id="DT22-00279" pg="651" type="commune">
     <pg>651</pg>
     <vedette><sm>Saint-Caradec</sm></vedette>
     <forme_ancienne><i>Sant-Karadeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4158,7 +4159,7 @@
     </commentaire>
     <insee>22279</insee>
   </article>
-  <article id="DT22-00280" pg="653" type="commune">
+  <article id="P50442736" old-id="DT22-00280" pg="653" type="commune">
     <pg>653</pg>
     <vedette><sm>Saint-Carné</sm></vedette>
     <commentaire>
@@ -4167,7 +4168,7 @@
     </commentaire>
     <insee>22280</insee>
   </article>
-  <article id="DT22-00281" pg="653" type="commune">
+  <article id="P94682103" old-id="DT22-00281" pg="653" type="commune">
     <vedette><sm>Saint-Carreuc</sm></vedette>
     <forme_ancienne><i>Saint-Careuc</i>, <date>1614</date> <reference>(Archives des Côtes-d’Armor, 1 E <pg>654</pg>2438 et 2 G Plédran)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Carreuc</i>, <date>1614</date> <reference>(Archives des Côtes-d’Armor, 1 E <pg>654</pg>2438 et 2 G Plédran)</reference>.</forme_ancienne>
@@ -4179,7 +4180,7 @@
     </commentaire>
     <insee>22281</insee>
   </article>
-  <article id="DT22-00282" pg="655" type="commune">
+  <article id="P54822214" old-id="DT22-00282" pg="655" type="commune">
     <pg>655</pg>
     <vedette><sm>Saint-Cast-Le-Guildo</sm></vedette>
     <forme_ancienne><i>Sant-Kast</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4198,7 +4199,7 @@
     </commentaire>
     <insee>22282</insee>
   </article>
-  <article id="DT22-00283" pg="658" type="commune">
+  <article id="P85580947" old-id="DT22-00283" pg="658" type="commune">
     <pg>658</pg>
     <vedette><sm>Saint-Clet</sm></vedette>
     <forme_ancienne><i>Sant-Kleve</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4213,7 +4214,7 @@
     </commentaire>
     <insee>22283</insee>
   </article>
-  <article id="DT22-00284" pg="659" type="commune">
+  <article id="P08911231" old-id="DT22-00284" pg="659" type="commune">
     <vedette><sm>Saint-Connan</sm></vedette>
     <forme_ancienne><i>Sant-Konan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>S. Conani terram</i>, <date>milieu du <sm>xii</sm><sup>e</sup> siècle</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 641)</reference>.</forme_ancienne>
@@ -4229,7 +4230,7 @@
     </commentaire>
     <insee>22284</insee>
   </article>
-  <article id="DT22-00285" pg="661" type="commune">
+  <article id="P31245273" old-id="DT22-00285" pg="661" type="commune">
     <pg>661</pg>
     <vedette><sm>Saint-Connec</sm></vedette>
     <forme_ancienne><i>Sant-Koneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4245,7 +4246,7 @@
     </commentaire>
     <insee>22285</insee>
   </article>
-  <article id="DT22-00286" pg="662" type="commune">
+  <article id="P52413271" old-id="DT22-00286" pg="662" type="commune">
     <pg>662</pg>
     <vedette><sm>Saint-Denoual</sm></vedette>
     <forme_ancienne><i>Sant-Denwal</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4258,7 +4259,7 @@
     </commentaire>
     <insee>22286</insee>
   </article>
-  <article id="DT22-00287" pg="663" type="commune">
+  <article id="P30356913" old-id="DT22-00287" pg="663" type="commune">
     <pg>663</pg>
     <vedette><sm>Saint-Donan</sm></vedette>
     <forme_ancienne><i>Sainct-Donnan</i>, <date>1540</date> <reference>(Archives des Côtes-d’Armor, 1 E 2360)</reference>.</forme_ancienne>
@@ -4269,7 +4270,7 @@
     </commentaire>
     <insee>22287</insee>
   </article>
-  <article id="DT22-00288" pg="664" type="commune">
+  <article id="P24752981" old-id="DT22-00288" pg="664" type="commune">
     <pg>664</pg>
     <vedette><sm>Saint-Etienne-du-Gué-de-l’Isle</sm></vedette>
     <forme_ancienne><i>Sant-Stephan-ar-Dourouz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4285,7 +4286,7 @@
     </commentaire>
     <insee>22288</insee>
   </article>
-  <article id="DT22-00289" pg="666" type="commune">
+  <article id="P96995256" old-id="DT22-00289" pg="666" type="commune">
     <pg>666</pg>
     <vedette><sm>Saint-Fiacre</sm></vedette>
     <forme_ancienne><i>Sant-Fiakr</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4297,7 +4298,7 @@
     </commentaire>
     <insee>22289</insee>
   </article>
-  <article id="DT22-00290" pg="667" type="commune">
+  <article id="P01072294" old-id="DT22-00290" pg="667" type="commune">
     <pg>667</pg>
     <vedette><sm>Saint-Gelven</sm></vedette>
     <forme_ancienne><i>Sant-Jelven</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4309,7 +4310,7 @@
     </commentaire>
     <insee>22290</insee>
   </article>
-  <article id="DT22-00291" pg="668" type="commune">
+  <article id="P75384173" old-id="DT22-00291" pg="668" type="commune">
     <pg>668</pg>
     <vedette><sm>Saint-Gildas</sm></vedette>
     <forme_ancienne><i>Sant-Gweltaz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4325,7 +4326,7 @@
     </commentaire>
     <insee>22291</insee>
   </article>
-  <article id="DT22-00292" pg="669" type="commune">
+  <article id="P97682870" old-id="DT22-00292" pg="669" type="commune">
     <pg>669</pg>
     <vedette><sm>Saint-Gilles-du-Mené</sm></vedette>
     <forme_ancienne><i>Sant-Jili-ar-Menez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4336,7 +4337,7 @@
     </commentaire>
     <insee>22292</insee>
   </article>
-  <article id="DT22-00293" pg="671" type="commune">
+  <article id="P23886042" old-id="DT22-00293" pg="671" type="commune">
     <pg>671</pg>
     <vedette><sm>Saint-Gilles-les-Bois</sm></vedette>
     <forme_ancienne><i>Sant-Jili-ar-C’hoad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4357,7 +4358,7 @@
     </commentaire>
     <insee>22293</insee>
   </article>
-  <article id="DT22-00294" pg="672" type="commune">
+  <article id="P76701341" old-id="DT22-00294" pg="672" type="commune">
     <pg>672</pg>
     <vedette><sm>Saint-Gilles-Pligeaux</sm></vedette>
     <forme_ancienne><i>Sant-Jili-Plijo</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4374,7 +4375,7 @@
     </commentaire>
     <insee>22294</insee>
   </article>
-  <article id="DT22-00295" pg="674" type="commune">
+  <article id="P27858562" old-id="DT22-00295" pg="674" type="commune">
     <pg>674</pg>
     <vedette><sm>Saint-Gilles-Vieux-Marché</sm></vedette>
     <forme_ancienne><i>Sant-Jili-Kozhvarc’had</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4391,7 +4392,7 @@
     </commentaire>
     <insee>22295</insee>
   </article>
-  <article id="DT22-00296" pg="676" type="commune">
+  <article id="P09122116" old-id="DT22-00296" pg="676" type="commune">
     <pg>676</pg>
     <vedette><sm>Saint-Glen</sm></vedette>
     <forme_ancienne><i>Sant-Glan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4406,7 +4407,7 @@
     </commentaire>
     <insee>22296</insee>
   </article>
-  <article id="DT22-00297" pg="677" type="commune">
+  <article id="P58989687" old-id="DT22-00297" pg="677" type="commune">
     <pg>677</pg>
     <vedette><sm>Saint-Gouéno</sm></vedette>
     <forme_ancienne><i>Seint-Goinou</i>, <date>1279</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 285)</reference>.</forme_ancienne>
@@ -4421,7 +4422,7 @@
     </commentaire>
     <insee>22297</insee>
   </article>
-  <article id="DT22-00298" pg="678" type="commune">
+  <article id="P30228463" old-id="DT22-00298" pg="678" type="commune">
     <pg>678</pg>
     <vedette><sm>Saint-Guen</sm></vedette>
     <forme_ancienne><i>Sant-Gwen</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4431,7 +4432,7 @@
     </commentaire>
     <insee>22298</insee>
   </article>
-  <article id="DT22-00299" pg="679" type="commune">
+  <article id="P25237909" old-id="DT22-00299" pg="679" type="commune">
     <pg>679</pg>
     <vedette><sm>Saint-Hélen</sm></vedette>
     <forme_ancienne><i>Sancto Eleno</i>, <date>1363</date> <reference>(testament de Philippe dame de la Bellière : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 231)</reference>.</forme_ancienne>
@@ -4440,7 +4441,7 @@
     </commentaire>
     <insee>22299</insee>
   </article>
-  <article id="DT22-00300" pg="681" type="commune">
+  <article id="P26640306" old-id="DT22-00300" pg="681" type="commune">
     <pg>681</pg>
     <vedette><sm>Saint-Hervé</sm></vedette>
     <forme_ancienne><i>Sant-Herve</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4452,10 +4453,10 @@
     </commentaire>
     <insee>22300</insee>
   </article>
-  <article id="DT22-00301" pg="682">
+  <article id="P40202644" old-id="DT22-00301" pg="682">
     <pg>682</pg>
     <vedette><sm>Saint-Igneuc</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22084">Jugon-les-Lacs</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22084" precision="certain">Jugon-les-Lacs</commune></localisation>.</definition>
     <forme_ancienne><i>Sant-Yunieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Inieuc</i>, <date>1270</date> (copie de 1347 analysée dans un inventaire moderne) <reference>(<i>Anc. év.</i> III, 258)</reference>.</forme_ancienne>
     <commentaire>
@@ -4463,7 +4464,7 @@
       <p>Cette commune a été réunie à celle de Jugon, devenue Jugon-les-Lacs, en <date>1973</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00302" pg="682" type="commune">
+  <article id="P16994602" old-id="DT22-00302" pg="682" type="commune">
     <vedette><sm>Saint-Jacut-de-la-Mer</sm></vedette>
     <forme_ancienne><i>Sant-Yagud-ar-Mor</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Jagu</i>.</forme_ancienne>
@@ -4479,7 +4480,7 @@
     </commentaire>
     <insee>22302</insee>
   </article>
-  <article id="DT22-00303" pg="683" type="commune">
+  <article id="P66868291" old-id="DT22-00303" pg="683" type="commune">
     <pg>683</pg>
     <vedette><sm>Saint-Jacut-du-Mené</sm></vedette>
     <forme_ancienne><i>Sant-Yagud-ar-Menez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4495,7 +4496,7 @@
     </commentaire>
     <insee>22303</insee>
   </article>
-  <article id="DT22-00304" pg="684" type="commune">
+  <article id="P24310983" old-id="DT22-00304" pg="684" type="commune">
     <pg>684</pg>
     <vedette><sm>Saint-Jean-Kerdaniel</sm></vedette>
     <forme_ancienne><i>Sant-Yann-Kerdaniel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4507,7 +4508,7 @@
     </commentaire>
     <insee>22304</insee>
   </article>
-  <article id="DT22-00305" pg="685" type="commune">
+  <article id="P27890424" old-id="DT22-00305" pg="685" type="commune">
     <vedette><sm>Saint-Jouan-de-l’Isle</sm></vedette>
     <forme_ancienne><i>Sant-Youan-war-Renz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>S. Jehan de l’Isle</i>, <date>1405</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard)</reference>.</forme_ancienne>
@@ -4518,7 +4519,7 @@
     </commentaire>
     <insee>22305</insee>
   </article>
-  <article id="DT22-00306" pg="687" type="commune">
+  <article id="P77127425" old-id="DT22-00306" pg="687" type="commune">
     <pg>687</pg>
     <vedette><sm>Saint-Judoce</sm></vedette>
     <forme_ancienne><i>Sant-Yuzeg-war-Renz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4532,7 +4533,7 @@
     </commentaire>
     <insee>22306</insee>
   </article>
-  <article id="DT22-00307" pg="688" type="commune">
+  <article id="P69303262" old-id="DT22-00307" pg="688" type="commune">
     <pg>688</pg>
     <vedette><sm>Saint-Julien</sm></vedette>
     <forme_ancienne><i>Sainct-Jullien</i>, <date>1630</date> <reference>(Archives des Côtes-d’Armor, 2 G)</reference>.</forme_ancienne>
@@ -4546,7 +4547,7 @@
     </commentaire>
     <insee>22307</insee>
   </article>
-  <article id="DT22-00308" pg="690" type="commune">
+  <article id="P88683698" old-id="DT22-00308" pg="690" type="commune">
     <pg>690</pg>
     <vedette><sm>Saint-Juvat</sm></vedette>
     <forme_ancienne><i>ecclesia Sancti Juvati</i>, <date>1156</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 233 ; IV, 359, 362, 384 ; VI, 127, 135)</reference>.</forme_ancienne>
@@ -4555,7 +4556,7 @@
     </commentaire>
     <insee>22308</insee>
   </article>
-  <article id="DT22-00309" pg="691" type="commune">
+  <article id="P82335957" old-id="DT22-00309" pg="691" type="commune">
     <pg>691</pg>
     <vedette><sm>Saint-Launeuc</sm></vedette>
     <forme_ancienne><i>Sant-Leweneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4565,7 +4566,7 @@
     </commentaire>
     <insee>22309</insee>
   </article>
-  <article id="DT22-00310" pg="692" type="commune">
+  <article id="P02672586" old-id="DT22-00310" pg="692" type="commune">
     <pg>692</pg>
     <vedette><sm>Saint-Laurent</sm></vedette>
     <forme_ancienne><i>Sant-Laorañs</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4578,7 +4579,7 @@
     </commentaire>
     <insee>22310</insee>
   </article>
-  <article id="DT22-00311" pg="693" type="commune">
+  <article id="P55401444" old-id="DT22-00311" pg="693" type="commune">
     <pg>693</pg>
     <vedette><sm>Saint-Lormel</sm></vedette>
     <commentaire>
@@ -4590,7 +4591,7 @@
     </commentaire>
     <insee>22311</insee>
   </article>
-  <article id="DT22-00312" pg="694" type="commune">
+  <article id="P08482303" old-id="DT22-00312" pg="694" type="commune">
     <pg>694</pg>
     <vedette><sm>Saint-Maden</sm></vedette>
     <forme_ancienne><i>decima de S. Madino</i>, <date>fin du <sm>xii</sm><sup>e</sup> siècle</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 700)</reference>.</forme_ancienne>
@@ -4601,7 +4602,7 @@
     </commentaire>
     <insee>22312</insee>
   </article>
-  <article id="DT22-00313" pg="695" type="commune">
+  <article id="P85779026" old-id="DT22-00313" pg="695" type="commune">
     <pg>695</pg>
     <vedette><sm>Saint-Martin-des-Prés</sm></vedette>
     <forme_ancienne><i>Sancto Martino</i>, <date>1246</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 178)</reference>.</forme_ancienne>
@@ -4613,7 +4614,7 @@
     </commentaire>
     <insee>22313</insee>
   </article>
-  <article id="DT22-00314" pg="697" type="commune">
+  <article id="P35022703" old-id="DT22-00314" pg="697" type="commune">
     <pg>697</pg>
     <vedette><sm>Saint-Maudan</sm></vedette>
     <forme_ancienne><i>Saint-Meauden</i>, <date>1669</date> <reference>(état civil)</reference>.</forme_ancienne>
@@ -4626,7 +4627,7 @@
     </commentaire>
     <insee>22314</insee>
   </article>
-  <article id="DT22-00315" pg="697" type="commune">
+  <article id="P57068250" old-id="DT22-00315" pg="697" type="commune">
     <vedette><sm>Saint-Maudez</sm></vedette>
     <forme_ancienne><i>abbatia Sancti Maudeti</i>, <date>1208</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 149, 150, 165)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Maudet</i>, <date>Ancien Régime</date>.</forme_ancienne>
@@ -4640,7 +4641,7 @@
     </commentaire>
     <insee>22315</insee>
   </article>
-  <article id="DT22-00316" pg="698" type="commune">
+  <article id="P30027195" old-id="DT22-00316" pg="698" type="commune">
     <vedette><sm>Saint-Mayeux</sm></vedette>
     <forme_ancienne><i>Sant-Maeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Sant-Vek</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4658,7 +4659,7 @@
     </commentaire>
     <insee>22316</insee>
   </article>
-  <article id="DT22-00317" pg="700" type="commune">
+  <article id="P49961200" old-id="DT22-00317" pg="700" type="commune">
     <pg>700</pg>
     <vedette><sm>Saint-Méloir</sm></vedette>
     <forme_ancienne><i>Saint-Méloir près Bourseul</i>, <date>Ancien Régime</date>.</forme_ancienne>
@@ -4672,7 +4673,7 @@
     </commentaire>
     <insee>22317</insee>
   </article>
-  <article id="DT22-00318" pg="701" type="commune">
+  <article id="P92125667" old-id="DT22-00318" pg="701" type="commune">
     <pg>701</pg>
     <vedette><sm>Saint-Michel-de-Plélan</sm></vedette>
     <forme_ancienne><i>Saint-Michel</i>, <date>1617</date> <reference>(R. Couffon, <i>Répertoire des églises et chapelles du diocèse de Saint-Brieuc,</i> 3<sup>e</sup> fascicule, 1941, p. 501)</reference>.</forme_ancienne>
@@ -4685,7 +4686,7 @@
     </commentaire>
     <insee>22318</insee>
   </article>
-  <article id="DT22-00319" pg="701" type="commune">
+  <article id="P39998213" old-id="DT22-00319" pg="701" type="commune">
     <vedette><sm>Saint-Michel-en-Grève</sm></vedette>
     <forme_ancienne><i>Lokmikael-an-Traezh</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Michel-en-Grève</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
@@ -4699,7 +4700,7 @@
     </commentaire>
     <insee>22319</insee>
   </article>
-  <article id="DT22-00320" pg="703" type="commune">
+  <article id="P20799124" old-id="DT22-00320" pg="703" type="commune">
     <pg>703</pg>
     <vedette><sm>Saint-Nicodème</sm></vedette>
     <forme_ancienne><i>Sant-Nigoudem</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4708,7 +4709,7 @@
     </commentaire>
     <insee>22320</insee>
   </article>
-  <article id="DT22-00321" pg="703" type="commune">
+  <article id="P71528451" old-id="DT22-00321" pg="703" type="commune">
     <vedette><sm>Saint-Nicolas-du-Pélem</sm></vedette>
     <forme_ancienne><i>Sant-Nicolaz-ar-Pelem</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Bothoa</i>, <date>1407</date> <reference>(<i>Lettres et mandements de Jean V, duc de Bretagne</i>, éd. René Blanchard, n° 740 et 1547)</reference>.</forme_ancienne>
@@ -4723,7 +4724,7 @@
     </commentaire>
     <insee>22321</insee>
   </article>
-  <article id="DT22-00322" pg="707" type="commune">
+  <article id="P94820369" old-id="DT22-00322" pg="707" type="commune">
     <pg>707</pg>
     <vedette><sm>Saint-Péver</sm></vedette>
     <forme_ancienne><i>Sant-Pever</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4734,7 +4735,7 @@
     </commentaire>
     <insee>22322</insee>
   </article>
-  <article id="DT22-00323" pg="708" type="commune">
+  <article id="P32291984" old-id="DT22-00323" pg="708" type="commune">
     <pg>708</pg>
     <vedette><sm>Saint-Pôtan</sm></vedette>
     <forme_ancienne><i>San Postan</i>, <date>1163</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 278, 411)</reference>.</forme_ancienne>
@@ -4750,7 +4751,7 @@
     </commentaire>
     <insee>22323</insee>
   </article>
-  <article id="DT22-00324" pg="709" type="commune">
+  <article id="P24429529" old-id="DT22-00324" pg="709" type="commune">
     <pg>709</pg>
     <vedette><sm>Saint-Quay-Perros</sm></vedette>
     <forme_ancienne><i>Sant-Ke-Perroz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4765,7 +4766,7 @@
     </commentaire>
     <insee>22324</insee>
   </article>
-  <article id="DT22-00325" pg="710" type="commune">
+  <article id="P29616735" old-id="DT22-00325" pg="710" type="commune">
     <pg>710</pg>
     <vedette><sm>Saint-Quay-Portrieux</sm></vedette>
     <forme_ancienne><i>Sant-Ke-Porzh-Olued</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4787,7 +4788,7 @@
     </commentaire>
     <insee>22325</insee>
   </article>
-  <article id="DT22-00326" pg="712" type="commune">
+  <article id="P23041061" old-id="DT22-00326" pg="712" type="commune">
     <pg>712</pg>
     <vedette><sm>Saint-Rieul</sm></vedette>
     <forme_ancienne><i>Sant-Riveur</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4801,7 +4802,7 @@
     </commentaire>
     <insee>22326</insee>
   </article>
-  <article id="DT22-00327" pg="714" type="commune">
+  <article id="P76701492" old-id="DT22-00327" pg="714" type="commune">
     <pg>714</pg>
     <vedette><sm>Saint-Samson-sur-Rance</sm></vedette>
     <forme_ancienne><i>Saint-Samson-jouxte-Livet</i>, <date>Ancien Régime</date>.</forme_ancienne>
@@ -4814,7 +4815,7 @@
     </commentaire>
     <insee>22327</insee>
   </article>
-  <article id="DT22-00328" pg="715" type="commune">
+  <article id="P45864653" old-id="DT22-00328" pg="715" type="commune">
     <pg>715</pg>
     <vedette><sm>Saint-Servais</sm></vedette>
     <forme_ancienne><i>Sant-Servez-Kallac</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4825,14 +4826,14 @@
     </commentaire>
     <insee>22328</insee>
   </article>
-  <article id="DT22-00328bis" pg="715">
+  <article id="P25279265" old-id="DT22-00328bis" pg="715">
     <vedette><sm>Burthulet</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22328">Saint-Servais</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22328" precision="certain">Saint-Servais</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00329" pg="717">
+  <article id="P84424931" old-id="DT22-00329" pg="717">
     <pg>717</pg>
     <vedette><sm>Saint-Solen</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22118">Lanvallay</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22118" precision="certain">Lanvallay</commune></localisation>.</definition>
     <forme_ancienne><i>Sant-Solen</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Saint-Solain</i>, <date>Ancien Régime</date>.</forme_ancienne>
     <forme_ancienne><i>Saint-Solen</i>, <date>1879</date> <reference>(décret du 17 mars 1879)</reference>.</forme_ancienne>
@@ -4841,7 +4842,7 @@
       <p><i>Saint-Solain</i> était, sous l’Ancien Régime, une paroisse du diocèse de Dol, située en bordure de celui de Saint-Malo. Cette paroisse a élu une municipalité au début de <date>1790</date>. Son nom est devenu <i>Saint-Solen</i>, sans doute par attraction de celui de Saint-Hélen, suivant un décret du <date>17 mars 1879</date>. La commune de Saint-Solen a été associée à celle de Lanvallay par arrêté préfectoral du <date>29 décembre 1972</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00330" pg="718" type="commune">
+  <article id="P53638056" old-id="DT22-00330" pg="718" type="commune">
     <pg>718</pg>
     <vedette><sm>Saint-Thélo</sm></vedette>
     <forme_ancienne><i>Saint-Thelou</i>, <date>vers 1428</date> <reference>(Archives de la Loire-Atlantique, B 2979)</reference>.</forme_ancienne>
@@ -4856,7 +4857,7 @@
     </commentaire>
     <insee>22330</insee>
   </article>
-  <article id="DT22-00331" pg="719" type="commune">
+  <article id="P50816661" old-id="DT22-00331" pg="719" type="commune">
     <pg>719</pg>
     <vedette><sm>Sainte-Tréphine</sm></vedette>
     <forme_ancienne><i>Sant-Trifin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4871,7 +4872,7 @@
     </commentaire>
     <insee>22331</insee>
   </article>
-  <article id="DT22-00332" pg="720" type="commune">
+  <article id="P43625878" old-id="DT22-00332" pg="720" type="commune">
     <pg>720</pg>
     <vedette><sm>Saint-Trimoël</sm></vedette>
     <forme_ancienne><i>Sainct Trymouet</i>, <date>1555</date> <reference>(Archives des Côtes-d’Armor, 1 E 208)</reference>.</forme_ancienne>
@@ -4881,7 +4882,7 @@
     </commentaire>
     <insee>22332</insee>
   </article>
-  <article id="DT22-00333" pg="721" type="commune">
+  <article id="P18381596" old-id="DT22-00333" pg="721" type="commune">
     <pg>721</pg>
     <vedette><sm>Saint-Vran</sm></vedette>
     <forme_ancienne><i>Sant-Vran</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4897,7 +4898,7 @@
     </commentaire>
     <insee>22333</insee>
   </article>
-  <article id="DT22-00334" pg="722" type="commune">
+  <article id="P79483460" old-id="DT22-00334" pg="722" type="commune">
     <pg>722</pg>
     <vedette><sm>Saint-Igeaux</sm></vedette>
     <forme_ancienne><i>Sant-Ijo</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4911,7 +4912,7 @@
     </commentaire>
     <insee>22334</insee>
   </article>
-  <article id="DT22-00335" pg="723" type="commune">
+  <article id="P08429036" old-id="DT22-00335" pg="723" type="commune">
     <pg>723</pg>
     <vedette><sm>Senven-Léhart</sm></vedette>
     <forme_ancienne><i>Senon</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4922,17 +4923,17 @@
     </commentaire>
     <insee>22335</insee>
   </article>
-  <article id="DT22-00336" pg="724">
+  <article id="P09832785" old-id="DT22-00336" pg="724">
     <pg>724</pg>
     <vedette><sm>Servel</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22113">Lannion</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22113" precision="certain">Lannion</commune></localisation>.</definition>
     <forme_ancienne><i>Selvell</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
     <forme_ancienne><i>Servel</i>, <date>1543</date>.</forme_ancienne>
     <commentaire>
       <p>Cette commune a été réunie à celle de Lannion en <date>1961</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00337" pg="724" type="commune">
+  <article id="P01636090" old-id="DT22-00337" pg="724" type="commune">
     <vedette><sm>Sévignac</sm></vedette>
     <forme_ancienne><i>Sevinieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Seminiaca plebs</i>, <date>869</date> <reference>(<i>Cartulaire de Redon</i>, éd. Courson, charte <sm>cix</sm>)</reference>.</forme_ancienne>
@@ -4944,7 +4945,7 @@
     </commentaire>
     <insee>22337</insee>
   </article>
-  <article id="DT22-00338" pg="726" type="commune">
+  <article id="P10516764" old-id="DT22-00338" pg="726" type="commune">
     <pg>726</pg>
     <vedette><sm>Squiffiec</sm></vedette>
     <forme_ancienne><i>Skiñvieg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4954,7 +4955,7 @@
     </commentaire>
     <insee>22338</insee>
   </article>
-  <article id="DT22-00339" pg="727" type="commune">
+  <article id="P64695921" old-id="DT22-00339" pg="727" type="commune">
     <pg>727</pg>
     <vedette><sm>Taden</sm></vedette>
     <forme_ancienne><i>Tadduem</i>, <date>vers 1121</date> <reference>(charte du prieuré de Saint-Malo de Dinan : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 363, 393, 399)</reference>.</forme_ancienne>
@@ -4969,7 +4970,7 @@
     </commentaire>
     <insee>22339</insee>
   </article>
-  <article id="DT22-00340" pg="729" type="commune">
+  <article id="P17365387" old-id="DT22-00340" pg="729" type="commune">
     <pg>729</pg>
     <vedette><sm>Tonquédec</sm></vedette>
     <forme_ancienne><i>Tonkedeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -4983,7 +4984,7 @@
     </commentaire>
     <insee>22340</insee>
   </article>
-  <article id="DT22-00341" pg="732" type="commune">
+  <article id="P89933911" old-id="DT22-00341" pg="732" type="commune">
     <pg>732</pg>
     <vedette><sm>Tramain</sm></vedette>
     <forme_ancienne><i>Tramaen</i>, <date>1324</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 300)</reference>.</forme_ancienne>
@@ -4996,7 +4997,7 @@
     </commentaire>
     <insee>22341</insee>
   </article>
-  <article id="DT22-00342" pg="733" type="commune">
+  <article id="P00870517" old-id="DT22-00342" pg="733" type="commune">
     <pg>733</pg>
     <vedette><sm>Trébédan</sm></vedette>
     <forme_ancienne><i>Trebedraon</i>, <date>1232</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 236)</reference>.</forme_ancienne>
@@ -5006,7 +5007,7 @@
     </commentaire>
     <insee>22342</insee>
   </article>
-  <article id="DT22-00343" pg="734" type="commune">
+  <article id="P06021723" old-id="DT22-00343" pg="734" type="commune">
     <pg>734</pg>
     <vedette><sm>Trébeurden</sm></vedette>
     <forme_ancienne><i>Trebeurden</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5020,7 +5021,7 @@
     </commentaire>
     <insee>22343</insee>
   </article>
-  <article id="DT22-00344" pg="736" type="commune">
+  <article id="P80510110" old-id="DT22-00344" pg="736" type="commune">
     <pg>736</pg>
     <vedette><sm>Trébrivan</sm></vedette>
     <forme_ancienne><i>Trabriant</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5036,7 +5037,7 @@
     </commentaire>
     <insee>22344</insee>
   </article>
-  <article id="DT22-00345" pg="738" type="commune">
+  <article id="P93638656" old-id="DT22-00345" pg="738" type="commune">
     <pg>738</pg>
     <vedette><sm>Trébry</sm></vedette>
     <forme_ancienne><i>parrochia de Trebrit</i>, <date>1270</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 254, 261)</reference>.</forme_ancienne>
@@ -5050,7 +5051,7 @@
     </commentaire>
     <insee>22345</insee>
   </article>
-  <article id="DT22-00346" pg="740" type="commune">
+  <article id="P18523163" old-id="DT22-00346" pg="740" type="commune">
     <pg>740</pg>
     <vedette><sm>Trédaniel</sm></vedette>
     <forme_ancienne><i>Tredaniel</i>, <date>1275</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 279)</reference>.</forme_ancienne>
@@ -5059,7 +5060,7 @@
     </commentaire>
     <insee>22346</insee>
   </article>
-  <article id="DT22-00347" pg="742" type="commune">
+  <article id="P95158406" old-id="DT22-00347" pg="742" type="commune">
     <pg>742</pg>
     <vedette><sm>Trédarzec</sm></vedette>
     <forme_ancienne><i>Tredarzeg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5072,7 +5073,7 @@
     </commentaire>
     <insee>22347</insee>
   </article>
-  <article id="DT22-00348" pg="744" type="commune">
+  <article id="P00397755" old-id="DT22-00348" pg="744" type="commune">
     <pg>744</pg>
     <vedette><sm>Trédias</sm></vedette>
     <forme_ancienne><i>molendinum de Tredyas</i>, <date>1249</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 244)</reference>.</forme_ancienne>
@@ -5084,11 +5085,11 @@
     </commentaire>
     <insee>22348</insee>
   </article>
-  <article id="DT22-00348bis" pg="744">
+  <article id="P06051372" old-id="DT22-00348bis" pg="744">
     <vedette><sm>Sainte-Urielle</sm> ou <sm>Sainte-Eurielle</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22348">Trédias</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22348" precision="certain">Trédias</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00349" pg="745" type="commune">
+  <article id="P99443466" old-id="DT22-00349" pg="745" type="commune">
     <pg>745</pg>
     <vedette><sm>Trédrez</sm></vedette>
     <forme_ancienne><i>Tresdretz</i>, <date>1330</date> <reference>(<i>Monuments originaux de l'histoire de saint Yves</i>, 1887)</reference>.</forme_ancienne>
@@ -5106,11 +5107,11 @@
     </commentaire>
     <insee>22349</insee>
   </article>
-  <article id="DT22-00349bis" pg="745">
+  <article id="P67506214" old-id="DT22-00349bis" pg="745">
     <vedette><sm>Locquémeau</sm></vedette>
-    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune precision="certain" insee="22349">Trédrez</commune></localisation>.</definition>
+    <definition><typologie>ancienne paroisse</typologie>, <localisation>commune de <commune insee="22349" precision="certain">Trédrez</commune></localisation>.</definition>
   </article>
-  <article id="DT22-00350" pg="747" type="commune">
+  <article id="P15530159" old-id="DT22-00350" pg="747" type="commune">
     <pg>747</pg>
     <vedette><sm>Tréduder</sm></vedette>
     <forme_ancienne><i>Treduder</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5122,7 +5123,7 @@
     </commentaire>
     <insee>22350</insee>
   </article>
-  <article id="DT22-00351" pg="748" type="commune">
+  <article id="P77793609" old-id="DT22-00351" pg="748" type="commune">
     <pg>748</pg>
     <vedette><sm>Treffrin</sm></vedette>
     <forme_ancienne><i>Trefrin</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5132,7 +5133,7 @@
     </commentaire>
     <insee>22351</insee>
   </article>
-  <article id="DT22-00352" pg="749" type="commune">
+  <article id="P03074072" old-id="DT22-00352" pg="749" type="commune">
     <pg>749</pg>
     <vedette><sm>Tréfumel</sm></vedette>
     <forme_ancienne><i>ecclesia sive parochia de Trefermel (ou Trefumel ?)</i>, <date>1187, copie du <sm>xvi</sm><sup>e</sup> siècle</date> <reference>(charte du prieuré de Saint-Magloire de Léhon : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 362)</reference>.</forme_ancienne>
@@ -5141,7 +5142,7 @@
     </commentaire>
     <insee>22352</insee>
   </article>
-  <article id="DT22-00353" pg="749" type="commune">
+  <article id="P38257517" old-id="DT22-00353" pg="749" type="commune">
     <vedette><sm>Trégastel</sm></vedette>
     <forme_ancienne><i>Tregastell</i>, <date>1426</date> <reference>(Archives de la Loire-Atlantique, B 2980)</reference>.</forme_ancienne>
     <commentaire>
@@ -5151,7 +5152,7 @@
     </commentaire>
     <insee>22353</insee>
   </article>
-  <article id="DT22-00354" pg="752" type="commune">
+  <article id="P03362855" old-id="DT22-00354" pg="752" type="commune">
     <pg>752</pg>
     <vedette><sm>Tréglamus</sm></vedette>
     <forme_ancienne><i>Treglanvez</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5163,10 +5164,10 @@
     </commentaire>
     <insee>22354</insee>
   </article>
-  <article id="DT22-00355" pg="754">
+  <article id="P50812154" old-id="DT22-00355" pg="754">
     <pg>754</pg>
     <vedette><sm>Trégomar</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22093">Lamballe</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22093" precision="certain">Lamballe</commune></localisation>.</definition>
     <forme_ancienne><i>Trégoma</i>, <date>1220</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 315)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregomar</i>, <date>1235</date> <reference>(chartes de l’abbaye de Saint-Aubin des Bois : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 84)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tregoma</i>, <date>1235</date> <reference>(chartes de l’abbaye de Saint-Aubin des Bois : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. III, 84)</reference>.</forme_ancienne>
@@ -5180,7 +5181,7 @@
       <p>Par l’ordonnance du <date>28 avril 1830</date>, Trégomar a cédé à la Poterie une fraction située à l’est du village de Saint-Robin (en la Poterie). Enfin Trégomar a été fusionné avec Lamballe par arrêté préfectoral du <date>29 décembre 1972</date>, à compter du <date>1<sup>er</sup> janvier 1973</date>, tout en bénéficiant du statut de commune associée.</p>
     </commentaire>
   </article>
-  <article id="DT22-00356" pg="756" type="commune">
+  <article id="P31433679" old-id="DT22-00356" pg="756" type="commune">
     <pg>756</pg>
     <vedette><sm>Trégomeur</sm></vedette>
     <forme_ancienne><i>villa ecclesie de Tregomoer</i>, <date>1235</date> <reference>(charte de l'abbaye de Beauport : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, p. 100)</reference>.</forme_ancienne>
@@ -5197,7 +5198,7 @@
     </commentaire>
     <insee>22356</insee>
   </article>
-  <article id="DT22-00357" pg="757" type="commune">
+  <article id="P81644600" old-id="DT22-00357" pg="757" type="commune">
     <pg>757</pg>
     <vedette><sm>Trégon</sm></vedette>
     <commentaire>
@@ -5209,7 +5210,7 @@
     </commentaire>
     <insee>22357</insee>
   </article>
-  <article id="DT22-00358" pg="758" type="commune">
+  <article id="P59776742" old-id="DT22-00358" pg="758" type="commune">
     <pg>758</pg>
     <vedette><sm>Trégonneau</sm></vedette>
     <forme_ancienne><i>Tregonev</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5219,7 +5220,7 @@
     </commentaire>
     <insee>22358</insee>
   </article>
-  <article id="DT22-00359" pg="759" type="commune">
+  <article id="P59829911" old-id="DT22-00359" pg="759" type="commune">
     <pg>759</pg>
     <vedette><sm>Trégrom</sm></vedette>
     <forme_ancienne><i>Tregrom</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5230,7 +5231,7 @@
     </commentaire>
     <insee>22359</insee>
   </article>
-  <article id="DT22-00360" pg="760" type="commune">
+  <article id="P18029264" old-id="DT22-00360" pg="760" type="commune">
     <pg>760</pg>
     <vedette><sm>Trégueux</sm></vedette>
     <forme_ancienne><i>Hamo, presbiter de Treguehuc</i>, <date>1129</date> <reference>(charte de Jean, évêque de Saint-Brieuc : J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 309)</reference>.</forme_ancienne>
@@ -5247,7 +5248,7 @@
     </commentaire>
     <insee>22360</insee>
   </article>
-  <article id="DT22-00361" pg="762" type="commune">
+  <article id="P97113252" old-id="DT22-00361" pg="762" type="commune">
     <pg>762</pg>
     <vedette><sm>Tréguidel</sm></vedette>
     <forme_ancienne><i>Tregidel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5259,7 +5260,7 @@
     </commentaire>
     <insee>22361</insee>
   </article>
-  <article id="DT22-00362" pg="762" type="commune">
+  <article id="P35367823" old-id="DT22-00362" pg="762" type="commune">
     <vedette><sm>Tréguier</sm></vedette>
     <forme_ancienne><i>Landreger</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>parrochia Trecorensis</i>, <date>1330</date> <reference>(<i>Monuments originaux de l'histoire de saint Yves</i>, 1887, p. 12, 199, 200, 203, etc.)</reference>.</forme_ancienne>
@@ -5282,7 +5283,7 @@
     </commentaire>
     <insee>22362</insee>
   </article>
-  <article id="DT22-00363" pg="772" type="commune">
+  <article id="P27547033" old-id="DT22-00363" pg="772" type="commune">
     <pg>772</pg>
     <vedette><sm>Trélévern</sm></vedette>
     <forme_ancienne><i>Trelaevern</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5297,7 +5298,7 @@
     </commentaire>
     <insee>22363</insee>
   </article>
-  <article id="DT22-00364" pg="773" type="commune">
+  <article id="P77699771" old-id="DT22-00364" pg="773" type="commune">
     <pg>773</pg>
     <vedette><sm>Trélivan</sm></vedette>
     <commentaire>
@@ -5306,7 +5307,7 @@
     </commentaire>
     <insee>22364</insee>
   </article>
-  <article id="DT22-00365" pg="774" type="commune">
+  <article id="P03717286" old-id="DT22-00365" pg="774" type="commune">
     <pg>774</pg>
     <vedette><sm>Trémargat</sm></vedette>
     <forme_ancienne><i>Tremargad</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5319,7 +5320,7 @@
     </commentaire>
     <insee>22365</insee>
   </article>
-  <article id="DT22-00366" pg="775" type="commune">
+  <article id="P97372435" old-id="DT22-00366" pg="775" type="commune">
     <pg>775</pg>
     <vedette><sm>Trémel</sm></vedette>
     <forme_ancienne><i>Tremel</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5332,7 +5333,7 @@
     </commentaire>
     <insee>22366</insee>
   </article>
-  <article id="DT22-00367" pg="778" type="commune">
+  <article id="P29686411" old-id="DT22-00367" pg="778" type="commune">
     <pg>778</pg>
     <vedette><sm>Tréméloir</sm></vedette>
     <forme_ancienne><i>Tremeler</i>, <date>1163</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, p. 278)</reference>.</forme_ancienne>
@@ -5343,7 +5344,7 @@
     </commentaire>
     <insee>22367</insee>
   </article>
-  <article id="DT22-00368" pg="778" type="commune">
+  <article id="P05030515" old-id="DT22-00368" pg="778" type="commune">
     <vedette><sm>Tréméreuc</sm></vedette>
     <forme_ancienne><i>Trevereg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Guillelmus de Tremaruc</i>, <date><sm>xii</sm><sup>e</sup> siècle</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 579)</reference>.</forme_ancienne>
@@ -5355,7 +5356,7 @@
     </commentaire>
     <insee>22368</insee>
   </article>
-  <article id="DT22-00369" pg="779" type="commune">
+  <article id="P42829687" old-id="DT22-00369" pg="779" type="commune">
     <vedette><sm>Trémeur</sm></vedette>
     <forme_ancienne><i>Tremur</i>, <date>1249</date> <reference>(charte de Roland de Guitté, en faveur de l’abbaye de Boquen)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tremour</i>, <date>1346</date> <reference>(chartes du prieuré de Trédias, n° 1 ; P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 1457)</reference>.</forme_ancienne>
@@ -5365,7 +5366,7 @@
     </commentaire>
     <insee>22369</insee>
   </article>
-  <article id="DT22-00370" pg="780" type="commune">
+  <article id="P19839339" old-id="DT22-00370" pg="780" type="commune">
     <pg>780</pg>
     <vedette><sm>Tréméven</sm></vedette>
     <forme_ancienne><i>Tremeven</i>, <date>1198</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 733)</reference>.</forme_ancienne>
@@ -5376,7 +5377,7 @@
     </commentaire>
     <insee>22370</insee>
   </article>
-  <article id="DT22-00371" pg="783" type="commune">
+  <article id="P55016232" old-id="DT22-00371" pg="783" type="commune">
     <pg>783</pg>
     <vedette><sm>Trémorel</sm></vedette>
     <forme_ancienne><i>Tremorai</i>, <date>1008</date> <reference>(A. de Laborderie, <i>Recueil d’actes inédits</i>, 1888, p. 4)</reference>.</forme_ancienne>
@@ -5387,7 +5388,7 @@
     </commentaire>
     <insee>22371</insee>
   </article>
-  <article id="DT22-00372" pg="783" type="commune">
+  <article id="P68661338" old-id="DT22-00372" pg="783" type="commune">
     <vedette><sm>Trémuson</sm></vedette>
     <forme_ancienne><i>Tremusson</i>, <date>1149</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 604 ; J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 247)</reference>.</forme_ancienne>
     <forme_ancienne><i>Tremuson</i>, <date>1428</date> <reference>(Archives de la Loire-Atlantique, B 2979)</reference>.</forme_ancienne>
@@ -5401,7 +5402,7 @@
     </commentaire>
     <insee>22372</insee>
   </article>
-  <article id="DT22-00373" pg="785" type="commune">
+  <article id="P51370073" old-id="DT22-00373" pg="785" type="commune">
     <vedette><sm>Tréogan</sm></vedette>
     <forme_ancienne><i>Treogan</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Treaugan</i>, <date>1574</date>.</forme_ancienne>
@@ -5413,15 +5414,15 @@
     </commentaire>
     <insee>22373</insee>
   </article>
-  <article id="DT22-00374" pg="786">
+  <article id="P08603335" old-id="DT22-00374" pg="786">
     <pg>786</pg>
     <vedette><sm>Tressaint</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22118">Lanvallay</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22118" precision="certain">Lanvallay</commune></localisation>.</definition>
     <commentaire>
       <p>Sous l’Ancien Régime, Tressaint était une paroisse du diocèse de Dol (prieuré-cure de l’abbaye de Beaulieu) située en bordure de celui de Saint-Malo. Elle a élu une municipalité au début de <date>1790</date> et la commune a été associée à celle de Lanvallay par arrêté préfectoral du <date>29 décembre 1972</date>.</p>
     </commentaire>
   </article>
-  <article id="DT22-00375" pg="787" type="commune">
+  <article id="P94012296" old-id="DT22-00375" pg="787" type="commune">
     <pg>787</pg>
     <vedette><sm>Tressignaux</sm></vedette>
     <forme_ancienne><i>Tresigne</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5452,7 +5453,7 @@
     </commentaire>
     <insee>22375</insee>
   </article>
-  <article id="DT22-00376" pg="788" type="commune">
+  <article id="P57520913" old-id="DT22-00376" pg="788" type="commune">
     <pg>788</pg>
     <vedette><sm>Trévé</sm></vedette>
     <forme_ancienne><i>Treve</i>, <date>1149</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 604, 1026, 1032)</reference>.</forme_ancienne>
@@ -5469,7 +5470,7 @@
     </commentaire>
     <insee>22376</insee>
   </article>
-  <article id="DT22-00377" pg="789" type="commune">
+  <article id="P00909704" old-id="DT22-00377" pg="789" type="commune">
     <vedette><sm>Tréveneuc</sm></vedette>
     <forme_ancienne><i>Trevenech</i>, <date>1224</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 81, 83, 90, 110)</reference>.</forme_ancienne>
     <forme_ancienne><i>Trevenoc</i>, <date>1231</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 81, 83, 90, 110)</reference>.</forme_ancienne>
@@ -5483,7 +5484,7 @@
     </commentaire>
     <insee>22377</insee>
   </article>
-  <article id="DT22-00378" pg="791" type="commune">
+  <article id="P54644305" old-id="DT22-00378" pg="791" type="commune">
     <pg>791</pg>
     <vedette><sm>Trévérec</sm></vedette>
     <forme_ancienne><i>Trevereg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5499,7 +5500,7 @@
     </commentaire>
     <insee>22378</insee>
   </article>
-  <article id="DT22-00379" pg="791" type="commune">
+  <article id="P74336695" old-id="DT22-00379" pg="791" type="commune">
     <vedette><sm>Trévou-Tréguignec</sm></vedette>
     <forme_ancienne><i>Treou-Tregigneg</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Trevou</i>, <date>vers 1330</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 377)</reference>.</forme_ancienne>
@@ -5517,7 +5518,7 @@
     </commentaire>
     <insee>22379</insee>
   </article>
-  <article id="DT22-00380" pg="793" type="commune">
+  <article id="P77743952" old-id="DT22-00380" pg="793" type="commune">
     <pg>793</pg>
     <vedette><sm>Trévron</sm></vedette>
     <forme_ancienne><i>Treveron</i>, <date>1156</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 689, 955 ; J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359, 385, etc. ; VI, 127, 135)</reference>.</forme_ancienne>
@@ -5528,7 +5529,7 @@
     </commentaire>
     <insee>22380</insee>
   </article>
-  <article id="DT22-00381" pg="794" type="commune">
+  <article id="P82406422" old-id="DT22-00381" pg="794" type="commune">
     <pg>794</pg>
     <vedette><sm>Trézény</sm></vedette>
     <forme_ancienne><i>Trezeni</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5543,17 +5544,17 @@
     </commentaire>
     <insee>22381</insee>
   </article>
-  <article id="DT22-00382" pg="795">
+  <article id="P24227232" old-id="DT22-00382" pg="795">
     <pg>795</pg>
     <vedette><sm>Trigavou</sm></vedette>
-    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune precision="certain" insee="22190">Pleslin-Trigavou</commune></localisation>.</definition>
+    <definition><typologie>ancienne commune</typologie>, <localisation>commune de <commune insee="22190" precision="certain">Pleslin-Trigavou</commune></localisation>.</definition>
     <forme_ancienne><i>Tregavou</i>, <date>1181</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359 ; VI, 127, 136)</reference>.</forme_ancienne>
     <commentaire>
       <p><i>Tregavou</i> (<i>sic</i>) avait dès <date>1181</date> une église Sainte-Brigitte, citée dans les chartes du prieuré de Léhon <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 359 ; VI, 127, 136)</reference>. Trigavou, paroisse du diocèse de Saint-Malo sous l’Ancien Régime, a élu sa première municipalité au début de <date>1790</date>.</p>
       <p>La commune a été associée à celle de Pleslin par arrêté préfectoral du <date>29 décembre 1972</date>, pour former Pleslin-Trigavou.</p>
     </commentaire>
   </article>
-  <article id="DT22-00383" pg="797" type="commune">
+  <article id="P43784894" old-id="DT22-00383" pg="797" type="commune">
     <pg>797</pg>
     <vedette><sm>Troguery</sm></vedette>
     <forme_ancienne><i>Trogeri</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5571,7 +5572,7 @@
     </commentaire>
     <insee>22383</insee>
   </article>
-  <article id="DT22-00384" pg="797" type="commune">
+  <article id="P78789816" old-id="DT22-00384" pg="797" type="commune">
     <vedette><sm>Uzel</sm></vedette>
     <forme_ancienne><i>Usel</i>, <date>1253</date> <reference>(P.-H. Morice, <i>Mémoires pour servir de preuves à l'histoire ecclésiastique et civile de Bretagne</i>, t. I, 955)</reference>.</forme_ancienne>
     <forme_ancienne><i>parrochia de Ussello, briocensis diocesis</i>, <date>1368</date> <reference>(<i>Monuments du procès de canonisation du bienheureux Charles de Blois</i>, 1921)</reference>.</forme_ancienne>
@@ -5584,7 +5585,7 @@
     </commentaire>
     <insee>22384</insee>
   </article>
-  <article id="DT22-00385" pg="800" type="commune">
+  <article id="P08504387" old-id="DT22-00385" pg="800" type="commune">
     <pg>800</pg>
     <vedette><sm>La Vicomté-sur-Rance</sm></vedette>
     <forme_ancienne><i>La Vicomté-sur-Rance</i>, <date>1877</date> <reference>(décret du 7 avril 1877)</reference>.</forme_ancienne>
@@ -5596,7 +5597,7 @@
     </commentaire>
     <insee>22385</insee>
   </article>
-  <article id="DT22-00386" pg="802" type="commune">
+  <article id="P07621954" old-id="DT22-00386" pg="802" type="commune">
     <vedette><sm>Le Vieux-Bourg</sm></vedette>
     <forme_ancienne><i>Ar Vourc’h-Kozh</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
     <forme_ancienne><i>Kintin</i>, <date>vers 1330</date> <reference>(<i>Pouillés de la province de Tours</i>, éd. A. Longnon, p. 301 et 305)</reference>.</forme_ancienne>
@@ -5615,7 +5616,7 @@
     </commentaire>
     <insee>22386</insee>
   </article>
-  <article id="DT22-00387" pg="804" type="commune">
+  <article id="P26121980" old-id="DT22-00387" pg="804" type="commune">
     <pg>804</pg>
     <vedette><sm>Le Vieux-Marché</sm></vedette>
     <forme_ancienne><i>Ar C’hozh-Varc’had</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5629,7 +5630,7 @@
     </commentaire>
     <insee>22387</insee>
   </article>
-  <article id="DT22-00388" pg="807" type="commune">
+  <article id="P30841748" old-id="DT22-00388" pg="807" type="commune">
     <pg>807</pg>
     <vedette><sm>Vildé-Guingalan</sm></vedette>
     <forme_ancienne><i>Guengalan</i>, <date>1182</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. VI, 140)</reference>.</forme_ancienne>
@@ -5640,7 +5641,7 @@
     </commentaire>
     <insee>22388</insee>
   </article>
-  <article id="DT22-00389" pg="807" type="commune">
+  <article id="P94511587" old-id="DT22-00389" pg="807" type="commune">
     <vedette><sm>Yffiniac</sm></vedette>
     <forme_ancienne><i>Finiâ</i> <reference>(forme en patois gallo)</reference>.</forme_ancienne>
     <forme_ancienne><i>Iffiniac</i>, <date>1207</date> <reference>(J. Geslin de Bourgogne et A. de Barthélemy, <i>Anciens évêchés de Bretagne</i>, 1855-1879, t. IV, 312)</reference>.</forme_ancienne>
@@ -5661,7 +5662,7 @@
     </commentaire>
     <insee>22389</insee>
   </article>
-  <article id="DT22-00390" pg="810" type="commune">
+  <article id="P39782319" old-id="DT22-00390" pg="810" type="commune">
     <pg>810</pg>
     <vedette><sm>Yvias</sm></vedette>
     <forme_ancienne><i>Iviaz</i> <reference>(forme bretonne)</reference>.</forme_ancienne>
@@ -5674,7 +5675,7 @@
     </commentaire>
     <insee>22390</insee>
   </article>
-  <article id="DT22-00391" pg="811" type="commune">
+  <article id="P71980522" old-id="DT22-00391" pg="811" type="commune">
     <pg>811</pg>
     <vedette><sm>Yvignac</sm></vedette>
     <forme_ancienne><i>Oliverius d’Ivignaco</i>, <date>1249</date> <reference>(? collection Courtois 1249)</reference>.</forme_ancienne>
