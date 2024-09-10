@@ -23,9 +23,6 @@
     <a:documentation>Un article du dictionnaire</a:documentation>
     <element name="article">
       <ref name="article.atts"/>
-      <optional>
-        <ref name="pg"/>
-      </optional>
       <ref name="vedette"/>
       <!-- quelques rares articles sans définition (essentiellement des renvois) -->
       <optional>
@@ -55,10 +52,12 @@
       <a:documentation>Ancien identifiant de l’article, formé des lettres "DT", suivies du numéro du département, d'un tiret et du numéro d'ordre de l'article au format 00000.</a:documentation>
       <data type="ID"/>
     </attribute>
-    <attribute name="pg">
-      <a:documentation>La page de l’entrée dans le dictionnaire papier</a:documentation>
-      <data type="integer"/>
-    </attribute>
+    <optional>
+      <attribute name="pg">
+        <a:documentation>La page de l’entrée dans le dictionnaire papier</a:documentation>
+        <data type="integer"/>
+      </attribute>
+    </optional>
     <optional>
       <attribute name="type">
         <value>commune</value>
