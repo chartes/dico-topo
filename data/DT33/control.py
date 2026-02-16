@@ -137,7 +137,7 @@ if __name__ == "__main__":
     control_quality(
         '1_DT33.xml',
         '7_DT33_enriched.xml',
-        '6_T33_validated.xlsx',
+        '6_DT33_validated.xlsx',
         'dico-topo.rng',
         '8_DT33_controlled.xlsx'
     )
