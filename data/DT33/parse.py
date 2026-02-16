@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 import pandas as pd
 
-XML_PATH = Path("DT33-revu.xml")
+XML_PATH = Path("1_DT33.xml")
 
 def parse_dt33(path: Path):
     tree = ET.parse(path)

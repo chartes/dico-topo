@@ -5,9 +5,9 @@ import pandas as pd
 
 # ---------- Paths ----------
 
-XML_PATH = Path("DT33-revu.xml")
-XLSX_PATH = Path("DT33_with_insee.xlsx")
-OUT_PATH = Path("DT33-revu_with_insee.xml")
+XML_PATH = Path("1_DT33.xml")
+XLSX_PATH = Path("6_DT33_validated.xlsx")
+OUT_PATH = Path("7_DT33_enriched.xml")
 
 # ---------- 1. Load Excel: id → info ----------
 
