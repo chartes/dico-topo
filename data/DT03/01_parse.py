@@ -2,8 +2,8 @@ from pathlib import Path
 import re
 import pandas as pd
 
-XML_PATH = Path("1_DT03.XML")
-OUT_XLSX = Path("2_DT03_parsed.xlsx")
+XML_PATH = Path("src_DT03.XML")
+OUT_XLSX = Path("01_DT03_parsed.xlsx")
 
 
 def is_localisation_commune(loc: str) -> bool:

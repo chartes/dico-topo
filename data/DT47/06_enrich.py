@@ -3,9 +3,9 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 
 BASE = Path(__file__).parent
-XML_PATH = BASE / "1_DT47.xml"
-XLSX_PATH = BASE / "6_DT47_validated.xlsx"
-OUT_PATH = BASE / "7_DT47_enriched.xml"
+XML_PATH = BASE / "ref_DT47.xml"
+XLSX_PATH = BASE / "05_DT47_validated.xlsx"
+OUT_PATH = BASE / "06_DT47_enriched.xml"
 
 # ---------- 1. Charger l’Excel : id → info ----------
 

@@ -4,9 +4,9 @@ import unicodedata
 
 # ---------- Paths ----------
 
-DT_PATH = "2_DT33_parsed.xlsx"          # your DT33 table
-INSEE_PATH = "4.2_DT33_COG_2011.tsv"        # attached TSV
-OUT_PATH = "5_DT33_matched.xlsx"
+DT_PATH = "01_DT33_parsed.xlsx"          # your DT33 table
+INSEE_PATH = "ref_DT33_COG_2011.tsv"        # attached TSV
+OUT_PATH = "04_DT33_matched.xlsx"
 
 # ---------- 0. Levenshtein helper ----------
 

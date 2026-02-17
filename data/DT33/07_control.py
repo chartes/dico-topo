@@ -135,9 +135,9 @@ def control_quality(original_xml, enriched_xml, validated_excel, schema_rng, out
 if __name__ == "__main__":
     # Updated signature: added dico-topo.rng path
     control_quality(
-        '1_DT33.xml',
-        '7_DT33_enriched.xml',
-        '6_DT33_validated.xlsx',
-        'dico-topo.rng',
-        '8_DT33_controlled.xlsx'
+        'src_DT33.xml',
+        '06_DT33_enriched.xml',
+        '05_DT33_validated.xlsx',
+        'ref_dico-topo.rng',
+        '07_DT33_controlled.xlsx'
     )

@@ -25,9 +25,9 @@ from pathlib import Path
 # ==================== Configuration ====================
 
 # Chemins par défaut (peuvent être surchargés par arguments)
-DEFAULT_DT_PATH = "2_DT03_parsed.xlsx" 
-DEFAULT_INSEE_PATH = "4.2_DT03_COG_2011.tsv"
-DEFAULT_OUT_PATH = "5_DT03_matched.xlsx"
+DEFAULT_DT_PATH = "01_DT03_parsed.xlsx"
+DEFAULT_INSEE_PATH = "ref_DT03_COG_2011.tsv"
+DEFAULT_OUT_PATH = "04_DT03_matched.xlsx"
 
 # Paramètres d'appariement
 MAX_LEVENSHTEIN_DISTANCE = 1  # Distance d'édition maximale pour fuzzy matching
