@@ -1,0 +1,20 @@
+,DT_input (src_DT53),DT_output (06_DT53_enriched),xpath,commentaire
+place(article),25041,25039,//article,2 articles ont été supprimés par OC
+place.label(//vedette/sm),25045,25043,"//vedette[count(sm) = 1] = 25036
+//vedette[count(sm) > 1] = 3
+//vedette/sm = 25043
+","25,036 articles with 1 <sm> = 25,036 tags
+2 articles with 2 <sm> = 4 tags
+1 article with 3 <sm> = 3 tags
+Total: 25,036 + 4 + 3 = 25,043 tags"
+place.label(//sm) > 30,1219,1218,,
+place.commune_insee_code(//insee),0,274,//insee,ok
+place.localization_commune_insee_code(//commune/@insee),0,24993,//commune/@insee,
+codes insee non résolu(//commune[@insee='article_not_found']),0,0,,
+place_comment.content (//commentaire),2683,2681,,2 articles ont été supprimés par OC
+place_old_label (//forme_ancienne),2640,2640,,
+place_description.content (//definition),25040,25039,,"2 articles ont été supprimés par OC, dont 1 avec une définition"
+place_feature_type.term(//typologie),24201,24200,,"2 articles ont été supprimés par OC, dont 1 avec une typologie"
+place sans forme ancienne – total,23356,23354,,
+place sans forme ancienne – %,"93,27","93,27",,
+article sans id (//article[not(@id)]),0,0,//article[not(@id)],
