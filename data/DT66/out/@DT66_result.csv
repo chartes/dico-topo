@@ -1,0 +1,42 @@
+,DT_input (DT66.xml),DT_output (output7.xml),comentaire
+place(article),1169,1169,ok
+place.label(//vedette/sm),1418,1418,ok
+place.label(//sm) > 30,52,24,
+place.commune_insee_code(//insee),240,242,"uniquement dans DT_output (output7.xml) :
+DT66-00119 | 66059
+DT66-00891 | 66025"
+place.localization_commune_insee_code(//commune/@insee),732,737,"uniquement dans DT_output (output7.xml) :
+DT66-00120 | 66059
+DT66-00753 | 66165
+DT66-00826 | 66230
+DT66-00892 | 66025
+DT66-00936 | 66218
+DT66-01117 | 66156
+
+uniquement dans DT_input (DT66.xml) : 
+DT66-00891 | 66124"
+codes insee non résolu(//commune[@insee='article_not_found']),0,0,ok
+place_comment.content (//commentaire),92,92,ok
+place_old_label (//forme_ancienne),7579,7579,ok
+place_description.content (//definition),1167,1168,"uniquement dans DT_output (output7.xml) :
+DT66-00120 | commune de Corneilla-del-Vercol (Cornellà del Bercol).
+DT66-00753 | commune de Rodès (Rodés).
+DT66-00826 | commune de Vinça (Vinçà).
+DT66-00889 | commune de Cerdagne.
+DT66-00891 | commune de Cerdagne.
+DT66-00892 | commune de Bourg-Madame (la Guingueta d’Hix).
+DT66-01117 | région du « Puch de Toloso », entre l’Adesig et le ravin de la Ferrero, commune de Rabouillet (Rabolhet).
+
+uniquement dans DT_input (DT66.xml) : 
+DT66-00120 | commune de Cornellà del Bercol.
+DT66-00753 | commune de Rodés.
+DT66-00826 | commune de Vinçà.
+DT66-00891 | commune de Font-Romeu (Font Romeu).
+DT66-00892 | commune de la Guingueta d’Hix.
+DT66-01117 | (région du « Puch de Toloso », entre l’Adesig et le ravin de la Ferrero.) commune de Rabolhet."
+place_feature_type.term(//typologie),265,267,"uniquement dans DT_output (output7.xml) :
+DT66-00889 | commune
+DT66-00891 | commune"
+place sans forme ancienne – total,4,4,ok
+place sans forme ancienne – %,0.34,0.34,ok
+article sans id (//article[not(@id)]),0,0,ok

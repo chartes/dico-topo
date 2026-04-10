@@ -1,0 +1,1172 @@
+id,commune_dt,insee,type,vedette,typologie
+1,L'Albère,66001,commune,L'Albère,commune
+2,L’Albère (L'Albera),66001,,Sant Cristau,
+2,Montesquieu-des-Albères (Montesquiu),66115,,Sant Cristau,
+3,Alénya,66002,commune,Alénya,commune
+4,Alénya (Alenyà),66002,,Boaçà,
+5,Argelès-sur-Mer,66008,commune,Argelès-sur-Mer,commune
+6,Argelès-sur-Mer (Argelers),66008,,La Massana,
+7,Argelès-sur-Mer (Argelers),66008,,L’Olla,
+8,Argelès-sur-Mer (Argelers),66008,,La Pava,
+9,Argelès-sur-Mer (Argelers),66008,,Puig d’Orfila,
+10,Argelès-sur-Mer (Argelers),66008,,Pujols,
+11,Argelès-sur-Mer (Argelers),66008,,Sant Bernat,
+13,Argelès-sur-Mer (Argelers),66008,,Sant Jeroni,
+14,Argelès-sur-Mer (Argelers),66008,,Sant Julià de Rohar,
+15,Argelès-sur-Mer (Argelers),66008,,Sant Llorenç del Mont,
+16,Argelès-sur-Mer (Argelers),66008,,Santa Magdalena,
+17,Argelès-sur-Mer (Argelers),66008,,Santa Maria del Prat,
+18,Argelès-sur-Mer (Argelers),66008,,Sant Pere,
+19,Argelès-sur-Mer (Argelers),66008,,Tatzó d’Avall,
+20,Argelès-sur-Mer (Argelers),66008,,Torneules,
+21,Argelès-sur-Mer (Argelers),66008,,Ultrera,
+22,Argelès-sur-Mer (Argelers),66008,,Vallbona,
+23,Argelès-sur-Mer (Argelers),66008,,Vall de Nous,
+24,Argelès-sur-Mer (Argelers),66008,,Vallmalenya,
+25,Argelès-sur-Mer (Argelers),66008,,Vila Vella,
+26,Bages,66011,commune,Bages,commune
+27,Bages,66011,,Bajoles,
+28,Bages,66011,,Sant Joan de Reart,
+29,Baho,66012,commune,Baho,commune
+30,Baixas,66014,commune,Baixas,commune
+31,Baixas (Baixàs),66014,,Santa Caterina,
+32,Banyuls-dels-Aspres,66015,commune,Banyuls-dels-Aspres,commune
+34,Banyuls-dels-Aspres,66015,,Fontclara,
+35,Banyuls-dels-Aspres,66015,,La Guàrdia,
+36,Banyuls-dels-Aspres,66015,,Vila Vella,
+37,Banyuls-sur-Mer,66016,commune,Banyuls-sur-Mer,commune
+38,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Les Abelles,
+39,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Alamanys,
+40,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,"Armen, Elmes",
+41,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Castell Ferrer,
+42,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Castell Serradillo,
+43,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Paulilles,
+44,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Puig del Mas,
+45,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,La Roma,
+46,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Sant Joan de la Vassa,
+47,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Vall Auger,
+48,Banyuls-sur-Mer (Banyuls de la Marenda),66016,,Vallauria,
+49,Le Barcarès,66017,commune,Le Barcarès,commune
+50,La Bastide,66018,commune,La Bastide,commune
+51,La Bastide (La Bastida),66018,,Castell de Cristall,
+52,La Bastide (La Bastida),66018,,Santa Anna dels Quatre Termes,
+53,Bompas,66021,commune,Bompas,commune
+54,Bompas (Bonpàs),66021,,Canomals,
+55,Brouilla,66026,commune,Brouilla,commune
+56,Brouilla (Brullà),66026,,Darnach (Mas Tardiu),
+57,Boule-d'Amont,66022,commune,Boule-d'Amont,commune
+58,Boule-d'Amont (Bula d’Amunt),66022,,Arsós,
+59,Boule-d'Amont (Bula d’Amunt),66022,,Casals,
+60,Boule-d'Amont (Bula d’Amunt),66022,,Civenach,
+61,Boule-d'Amont (Bula d’Amunt),66022,,Lausich,
+62,Boule-d'Amont (Bula d’Amunt),66022,,Mas d’en Taix,
+63,Boule-d'Amont (Bula d’Amunt),66022,,El Monistrol,
+64,Boule-d'Amont (Bula d’Amunt),66022,,L’Oratori,
+65,Boule-d'Amont (Bula d’Amunt),66022,,La Salvetat,
+66,Boule-d'Amont (Bula d’Amunt),66022,,Serrabona,
+67,Boule-d'Amont (Bula d’Amunt),66022,,El Vilar,
+68,Bouleternère,66023,commune,Bouleternère,commune
+69,Bouleternère (Bulaternera),66023,,Altanach,
+70,Bouleternère (Bulaternera),66023,,Marsugà,
+71,Bouleternère (Bulaternera),66023,,Mas Vernós,
+72,Bouleternère (Bulaternera),66023,,Sant Nazari de Barbadell,
+73,Cabestany,66028,commune,Cabestany,commune
+74,Cabestany,66028,,Carles,
+75,Cabestany,66028,,Guardiola,
+76,Caixas,66029,commune,Caixas,commune
+77,Caixas (Caixàs),66029,,Fontcoberta,
+78,Caixas (Caixàs),66029,,Les Illes,
+79,Caixas (Caixàs),66029,,Nostra Senyora del Coll,
+80,Calce,66030,commune,Calce,commune
+81,Calce,66030,,Cavanach,
+82,Calce,66030,,Les Fonts,
+83,Calmeilles,66032,commune,Calmeilles,commune
+84,Calmeilles (Calmella),66032,,La Balma,
+85,Calmeilles (Calmella),66032,,Carcase,
+86,Camélas,66033,commune,Camélas,commune
+87,Camélas (Cameles),,,Polig,
+88,Camélas (Cameles),,,Rellà,
+89,Camélas (Cameles),,,Sant Martí de la Roca,
+90,Camélas (Cameles),,,Vallcrosa,
+91,Canet-en-Roussillon,66037,commune,Canet-en-Roussillon,commune
+92,Canet-en-Roussillon (Canet),66037,,L’Esparró,
+93,Canet-en-Roussillon (Canet),66037,,Sant Miquel de Forques,
+94,Canet-en-Roussillon (Canet),66037,,Vilarnau,
+95,Canohès,66038,commune,Canohès,commune
+96,Canohès (Cànohes),66038,,Mas de les Coves,
+97,Casefabre,66040,commune,Casefabre,commune
+98,Casefabre (Casafabre),66040,,Sant Ponç de Candell,
+99,Cases-de-Pène,66041,commune,Cases-de-Pène,commune
+100,Castelnou,66044,commune,Castelnou,commune
+101,Castelnou (Castellnou),66044,,Cubrí,
+102,Castelnou (Castellnou),66044,,Santa Maria del Mercadal,
+103,Cerbère,66048,commune,Cerbère,commune
+104,Cerbère (Cervera),66048,,Queroig,
+105,Claira,66050,commune,Claira,commune
+106,Claira (Clayrà),66050,,Combusta,
+107,Claira (Clayrà),66050,,Peracals,
+108,Claira (Clayrà),66050,,Sant Pere del Vilar,
+109,Les Cluses,66063,commune,Les Cluses,commune
+110,Cluses,66063,,Sant Pere de Sureda,
+111,Corbère,66055,commune,Corbère,commune
+112,Corbère (Corbera),66055,,Els Cortals,
+113,Corbère (Corbera),66055,,Sant Julià de Vallventosa,
+114,Corbère (Corbera),66055,,Sant Pere del Bosch,
+115,Corbère-les-Cabanes,66056,commune,Corbère-les-Cabanes,commune
+116,Corbère-les-Cabanes (Corbera la Cabana),66056,,Font de la Dou,
+117,Corneilla-la-Rivière,66058,commune,Corneilla-la-Rivière,commune
+118,Corneilla-la-Rivière (Cornellà de la Ribera),66058,,Cornellanell,
+119,,,,Corneilla-del-Vercol,
+120,,,,Nostra Senyora de Paradís,
+121,Collioure,66053,commune,Collioure,commune
+122,Collioure (Cotlliure),66053,,El Mirador,
+123,Collioure (Cotlliure),66053,,Nostra Senyora de Consolació,
+124,Collioure (Cotlliure),66053,,Port d’Amunt,
+125,Collioure (Cotlliure),66053,,Port d’Avall,
+126,Collioure (Cotlliure),66053,,Sant Elm,
+127,Collioure (Cotlliure),66053,,Torre de l’Estela ?,
+128,Collioure (Cotlliure),66053,,Torre de la Colomina,
+129,Collioure (Cotlliure),66053,,La Vila Vella,
+130,Elne,66065,commune,Elne,commune
+131,Elne (Elna),66065,,Bonit,
+132,Elne (Elna),66065,,Buada,
+133,Elne (Elna),66065,,Mossellons,
+134,Elne (Elna),66065,,Palol d’Amunt,
+135,Elne (Elna),66065,,Palol d’Avall,
+136,Elne (Elna),66065,,Santa Eugènia de Tresmals,
+137,Elne (Elna),66065,,Sant Martí de la Riba,
+138,Elne (Elna),66065,,Senadors,
+139,Espira-de-l'Agly,66069,commune,Espira-de-l'Agly,commune
+140,Espira-de-l'Agly (Espirà de l’Aglí),66069,,Mas de la Dona Morta,
+141,Espira-de-l'Agly (Espirà de l’Aglí),66069,,Nastes,
+142,Estagel,66071,commune,Estagel,commune
+143,Estagel (Estagell),66071,,Sant Vicenç,
+144,Fourques,66084,commune,Fourques,commune
+145,Fourques (Forques),66084,,Les Campanes,
+146,Fourques (Forques),66084,,Darrera el Castell,
+147,Fourques (Forques),66084,,La Montadella,
+148,Fourques (Forques),66084,,Reixach,
+149,Fourques (Forques),66084,,Sant Miquel,
+150,Fourques (Forques),66084,,Sant Sebastià,
+151,Fourques (Forques),66084,,Sant Vicenç,
+152,Fourques (Forques),66084,,Tàpies,
+153,Ille-sur-Têt,66088,commune,Ille-sur-Têt,commune
+154,Ille-sur-Têt (Illa),66088,,Annes,
+155,Ille-sur-Têt (Illa),66088,,Cases Noves,
+156,Ille-sur-Têt (Illa),66088,,Reglella,
+157,Ille-sur-Têt (Illa),66088,,Santa Maria del Remei,
+158,Ille-sur-Têt (Illa),66088,,Sant Maurici de Greulera,
+159,Ille-sur-Têt (Illa),66088,,Talaçà,
+160,Llauro,66099,commune,Llauro,commune
+161,Llupia,66101,commune,Llupia,commune
+162,Llupia (Llupià),66101,,Llupia,
+163,Llupia (Llupià),66101,,Sant Romà,
+164,Llupia (Llupià),66101,,Sant Salvador de Vilarmilà,
+165,Millas,66108,commune,Millas,commune
+166,Millas (Millars),66108,,Mas de la Garriga,
+167,Millas (Millars),66108,,Nostra Senyora de Força Real,
+168,Millas (Millars),66108,,Nostra Senyora del Remei,
+169,Millas (Millars),66108,,Sant Martí de la Riba,
+170,Montauriol,66112,commune,Montauriol,commune
+171,Montauriol,66112,,Caplou,
+172,Montauriol,66112,,"Caratg, Caralp",
+173,Montauriol,66112,,Sant Amans,
+174,Montescot,66114,commune,Montescot,commune
+175,Montescot,66114,,Avalri,
+176,Montescot,66114,,Vila Seca,
+177,Montesquieu-des-Albères,66115,commune,Montesquieu-des-Albères,commune
+178,Montesquieu-des-Albères (Montesquiu),66115,,Nostra Senyora dels Agullons,
+180,Montesquieu-des-Albères (Montesquiu),66115,,Valarqueix,
+181,Montner,66118,commune,Montner,commune
+182,Millas (Millars),66108,,Força Real,
+182,Montner,66118,,Força Real,
+183,Néfiach,66121,commune,Néfiach,commune
+184,Oms,66126,commune,Oms,commune
+185,Opoul,66127,commune,Opoul,commune
+186,Opoul (Òpol),66127,,Perellós,
+187,Opoul (Òpol),66127,,Valloriola,
+188,Ortaffa,66129,commune,Ortaffa,commune
+189,Ortaffa (Ortafà),66129,,Criag,
+190,Ortaffa (Ortafà),66129,,Terrats,
+191,Palau-del-Vidre,66133,commune,Palau-del-Vidre,commune
+192,Palau-del-Vidre (Palau del Vidre),66133,,Batipalmes,
+193,Palau-del-Vidre (Palau del Vidre),66133,,Santa Coloma d’Alemanys,
+194,Palau-del-Vidre (Palau del Vidre),66133,,Vilaclara,
+195,Peyrestortes,66138,commune,Peyrestortes,commune
+196,Passa,66134,commune,Passa,commune
+197,Passa (Passà),66134,,Monestir del Camp,
+198,Passa (Passà),66134,,La Pedra Blanca,
+199,Passa (Passà),66134,,Sant Esteve de les Vinyes,
+200,Passa (Passà),66134,,Sant Lluch,
+201,Perpignan,66136,commune,Perpignan,commune
+202,Perpignan (Perpinyà),66136,,Bajoles,
+203,Perpignan (Perpinyà),66136,,Castell — Rosselló,
+204,Perpignan (Perpinyà),66136,,Codines ?,
+205,Perpignan (Perpinyà),66136,,Les Comes,
+206,Perpignan (Perpinyà),66136,,Les Coves,
+207,Perpignan (Perpinyà),66136,,Fontcoberta,
+208,Perpignan (Perpinyà),66136,,La Llavanera,
+209,Perpignan (Perpinyà),66136,,Malloles,
+210,Perpignan (Perpinyà),66136,,"Monianum, Monnos",
+211,Perpignan (Perpinyà),66136,,Orle,
+212,Perpignan (Perpinyà),66136,,Puig Otrer,
+213,Perpignan (Perpinyà),66136,,Sant Assiscle,
+214,Perpignan (Perpinyà),66136,,burg Erbi,
+215,Perpignan (Perpinyà),66136,,Sant Genís de Tanyeres,
+216,Perpignan (Perpinyà),66136,,Santa Tecla,
+218,Perpignan (Perpinyà),66136,,Vallauria,
+219,Perpignan (Perpinyà),66136,,El Vernet,
+220,Le Perthus,66137,commune,Le Perthus,commune
+221,Perthus (El Pertús),66137,,Bellaguarda,
+222,Perthus (El Pertús),66137,,Sant Pere de Laner,
+223,Pézilla-la-Rivière,66140,commune,Pézilla-la-Rivière,commune
+224,Pézilla-la-Rivière (Pesillà de la Ribera),66140,,Sant Sadurní,
+225,Pia,66141,commune,Pia,commune
+226,Pia (Pià),66141,,Ortolanes,
+227,Pia (Pià),66141,,Tàpia,
+228,Pollestres,66144,commune,Pollestres,commune
+229,Pollestres,66144,,Barrià,
+230,Pollestres,66144,,Mas de la Garriga,
+231,Ponteilla,66145,commune,Ponteilla,commune
+232,Ponteilla (Pontellà),66145,,Caraig,
+233,Ponteilla (Pontellà),66145,,Nyils,
+234,Ponteilla (Pontellà),66145,,Sant Nicolau d’Aiguaviva,
+235,Port-Vendres,66148,commune,Port-Vendres,commune
+236,Port-Vendres (Port Vendres),66148,,Puig de Biarra,
+237,Port-Vendres (Port Vendres),66148,,Cosprons,
+238,Port-Vendres (Port Vendres),66148,,Madaloch,
+239,Prunet,66153,commune,Prunet,commune
+240,Prunet,66153,,Domnolí,
+241,Prunet,66153,,Vallelles,
+242,Rivesaltes,66164,commune,Rivesaltes,commune
+243,Rivesaltes (Ribesaltes),66164,,Gardiola,
+244,Rivesaltes (Ribesaltes),66164,,Nostra Senyora de la Garriga,
+245,Rivesaltes (Ribesaltes),66164,,Turà,
+246,Laroque-des-Albères,66093,commune,Laroque-des-Albères,commune
+247,Laroque-des-Albères (la Roca de l’Albera),66093,,Alamanys,
+248,Laroque-des-Albères (la Roca de l’Albera),66093,,Mas Montariol,
+249,Laroque-des-Albères (la Roca de l’Albera),66093,,Mas Sant Julià,
+250,Laroque-des-Albères (la Roca de l’Albera),66093,,Nostra Senyora de Tanyà,
+251,Laroque-des-Albères (la Roca de l’Albera),66093,,Sant Fructuós de Roca Vella,
+252,Saleilles,66189,commune,Saleilles,commune
+253,Saleilles (Salelles),66189,,Anglars,
+254,Salses-le-Château,66190,commune,Salses-le-Château,commune
+255,Salses-le-Château (Salses),66190,,Castell Vell,
+256,Salses-le-Château (Salses),66190,,Les Fonts de Salses,
+257,Salses-le-Château (Salses),66190,,Garrius,
+258,Salses-le-Château (Salses),66190,,Santa Coloma,
+259,Salses-le-Château (Salses),66190,,Vespella,
+260,Sainte-Colombe-la-Commanderie,66170,commune,Sainte-Colombe-la-Commanderie,commune
+261,Sainte-Marie-la-Mer,66182,commune,Sainte-Marie-la-Mer,commune
+262,Sainte-Marie-la-Mer (Santa Maria la Mar),66182,,Bigaranys,
+263,Saint-André,66168,commune,Saint-André,commune
+264,Saint-André (Sant Andreu de Sureda),66168,,Milanets,
+265,Saint-André (Sant Andreu de Sureda),66168,,Rapasag,
+266,Saint-André (Sant Andreu de Sureda),66168,,Tatzó d’Amunt,
+267,Saint-Cyprien,66171,commune,Saint-Cyprien,commune
+268,Saint-Cyprien (Sant Cebrià),66171,,Sant Esteve de Vilarasa,
+269,Saint-Estève,66172,commune,Saint-Estève,commune
+270,Saint-Estève (Sant Esteve del Monestir),66172,,Sant Mamet,
+271,Saint-Estève (Sant Esteve del Monestir),66172,,Torremilà,
+272,Saint-Féliu-d'Amont,66173,commune,Saint-Féliu-d'Amont,commune
+273,Saint-Féliu-d'Avall,66174,commune,Saint-Féliu-d'Avall,commune
+274,Saint-Féliu-d'Avall (Sant Feliu d’Avall),66174,,Sant Martí de la Riba,
+275,Saint-Génis-des-Fontaines,66175,commune,Saint-Génis-des-Fontaines,commune
+276,Saint-Génis-des-Fontaines (Sant Genís de Fontanes),66175,,Cabanes,
+277,Saint-Génis-des-Fontaines (Sant Genís de Fontanes),66175,,Les Garrigues,
+278,Saint-Génis-des-Fontaines (Sant Genís de Fontanes),66175,,Sant Miquel,
+279,Saint-Hippolyte,66176,commune,Saint-Hippolyte,commune
+280,Saint-Hippolyte (Sant Hipòlit),66176,,Conills,
+281,Saint-Hippolyte (Sant Hipòlit),66176,,Vedeirà,
+282,Saint-Jean-Lasseille,66177,commune,Saint-Jean-Lasseille,commune
+283,Saint-Laurent-de-la-Salanque,66180,commune,Saint-Laurent-de-la-Salanque,commune
+284,Saint-Laurent-de-la-Salanque (Sant Llorenç de la Salanca),66180,,Palasol,
+285,Saint-Michel-de-Llotes,66185,commune,Saint-Michel-de-Llotes,commune
+286,Saint-Michel-de-Llotes (Sant Miquel de Llotes),66185,,Montauriol,
+287,Saint-Michel-de-Llotes (Sant Miquel de Llotes),66185,,Serrat d’en Jacques,
+288,Saint-Michel-de-Llotes (Sant Miquel de Llotes),66185,,Valltorta,
+289,Saint-Nazaire,66186,commune,Saint-Nazaire,commune
+290,Saint-Nazaire (Sant Nazari),66186,,Castellar,
+291,Saint-Nazaire (Sant Nazari),66186,,Muntà,
+292,Le Soler,66195,commune,Le Soler,commune
+293,Soler (El Soler),66195,,Campillà,
+294,Soler (El Soler),66195,,Cases de Sant Pere,
+295,Soler (El Soler),66195,,L’Eula,
+296,Soler (El Soler),66195,,Santa Eugènia,
+297,Sorède,66196,commune,Sorède,commune
+298,Sorède (Sureda),66196,,Achindexi,
+299,Sorède (Sureda),66196,,Bego,
+300,Sorède (Sureda),66196,,Cabanill,
+301,Sorède (Sureda),66196,,Coberta,
+302,Sorède (Sureda),66196,,Montbran,
+303,Sorède (Sureda),66196,,Nostra Senyora del Castell,
+304,Sorède (Sureda),66196,,Novella,
+305,Sorède (Sureda),66196,,La Vall de Sant Martí,
+306,Sorède (Sureda),66196,,Santa Maria Magdalena de la Veda,
+307,Tautavel,66205,commune,Tautavel,commune
+308,Tautavel (Taltehull),66205,,Alentó,
+309,Tautavel (Taltehull),66205,,Les Fredes,
+310,Tautavel (Taltehull),66205,,Sant Martí,
+311,Tautavel (Taltehull),66205,,Les Santes Puelles,
+312,Tautavel (Taltehull),66205,,Torre del Far,
+313,Terrats,66207,commune,Terrats,commune
+314,Terrats,66207,,Cagineixi,
+315,Terrats,66207,,Ventenach,
+316,Théza,66208,commune,Théza,commune
+317,Toulouges,66213,commune,Toulouges,commune
+318,Tordères,66211,commune,Tordères,commune
+319,Tordères (Torderes),66211,,Alcet,
+320,Latour-Bas-elne,66094,commune,Latour-Bas-elne,commune
+321,Latour-Bas-elne (la Torre del Bisbe),66094,,Martí,
+322,Torreilles,66212,commune,Torreilles,commune
+323,Torreilles (Torrelles),66212,,Bignemal,
+324,Torreilles (Torrelles),66212,,Juhegues,
+325,Torreilles (Torrelles),66212,,Mudagons,
+326,Torreilles (Torrelles),66212,,Santa Eugènia de Labejà,
+327,Torreilles (Torrelles),66212,,Sant Pere de Torrelles,
+328,Tresserre,66214,commune,Tresserre,commune
+329,Tresserre (Trasserra),66214,,Nidoleres,
+330,Trouillas,66217,commune,Trouillas,commune
+331,Trouillas (Trullars),66217,,Lanetell,
+332,Trouillas (Trullars),66217,,Lintexet,
+333,Trouillas (Trullars),66217,,Mas Déu,
+334,Trouillas (Trullars),66217,,Santa Eulària,
+335,Trouillas (Trullars),66217,,Sant Salvador de Cirà,
+336,Trouillas (Trullars),66217,,Taraccarias,
+337,Thuir,66210,commune,Thuir,commune
+338,Thuir (Tuhir),66210,,Laurà,
+339,Thuir (Tuhir),66210,,Palaudà,
+340,Thuir (Tuhir),66210,,La Pietat,
+341,Thuir (Tuhir),66210,,Sant Sebastià,
+342,Villelongue-de-la-Salanque,66224,commune,Villelongue-de-la-Salanque,commune
+343,Villelongue-de-la-Salanque (Vilallonga de la Salanca),66224,,Sant Esteve del Pi,
+344,Villelongue-dels-Monts,66225,commune,Villelongue-dels-Monts,commune
+345,Villelongue-dels-Monts (Vilallonga dels Monts),66225,,Santa Maria del Vilar,
+346,Villemolaque,66226,commune,Villemolaque,commune
+347,Villemolaque (Vilamulaca),66226,,Sant Miquel de Candell,
+348,Villeneuve-la-Rivière,66228,commune,Villeneuve-la-Rivière,commune
+349,Villeneuve-de-la-Raho,66227,commune,Villeneuve-de-la-Raho,commune
+350,Villeneuve-de-la-Raho (Vilanova de Rahó),66227,,La Vila Vella,
+351,Vingrau,66231,commune,Vingrau,commune
+352,Vingrau,66231,,Jenegals,
+353,Le Boulou,66024,commune,Le Boulou,commune
+354,Boulou (El Voló),66024,,Molars,
+355,Boulou (El Voló),66024,,Ursigà,
+356,,,,Albaró,
+357,,,,Calcanet,
+358,,,,Castellà,
+359,,,,Centenarium — Centuriones,
+361,,,,Giramonts,
+362,,,,Hatxo,
+363,,,,Holesel,
+364,,,,Matallobera,
+365,,,,Nogaret,
+366,,,,Pyreneum,
+367,,,,Reixach,
+368,,,,Stabulum,
+369,,,,Topineres,
+370,,,,Torosa,
+371,,,,Tortoria,
+372,Arles-sur-Tech,66009,commune,Arles-sur-Tech,commune
+373,Arles-sur-Tech (Arles),66009,,Les Abadies,
+374,Arles-sur-Tech (Arles),66009,,Aiguabella,
+375,Arles-sur-Tech (Arles),66009,,La Batllia,
+376,Arles-sur-Tech (Arles),66009,,Bonabosch,
+377,Arles-sur-Tech (Arles),66009,,Castanyer,
+378,Arles-sur-Tech (Arles),66009,,La Clota,
+379,Arles-sur-Tech (Arles),66009,,Codalet,
+380,Arles-sur-Tech (Arles),66009,,Cugussach,
+381,Arles-sur-Tech (Arles),66009,,Felgars,
+382,Arles-sur-Tech (Arles),66009,,Fontanills,
+383,Arles-sur-Tech (Arles),66009,,Freixà,
+384,Arles-sur-Tech (Arles),66009,,La Guàrdia,
+385,Arles-sur-Tech (Arles),66009,,Les Llasseres,
+386,Arles-sur-Tech (Arles),66009,,Mas d’En Ploma,
+387,Arles-sur-Tech (Arles),66009,,Santa Creu de Quercorb,
+388,Arles-sur-Tech (Arles),66009,,Sant Pere de Riuferrer,
+389,Amélie-les-Bains,66003,commune,Amélie-les-Bains,commune
+390,Amélie-les-Bains (Els Banys d’Arles),66003,,Les Boixedes,
+391,Amélie-les-Bains (Els Banys d’Arles),66003,,El Gau,
+392,Amélie-les-Bains (Els Banys d’Arles),66003,,Montdony i Montalbà,
+393,Amélie-les-Bains (Els Banys d’Arles),66003,,Puig Alduc,
+394,Amélie-les-Bains (Els Banys d’Arles),66003,,Puig dels Banys,
+395,Amélie-les-Bains (Els Banys d’Arles),66003,,Santa Engràcia,
+396,Belpuig,66153,commune,Belpuig,commune
+397,Belpuig (Bellpuig),66153,,Castanyers,
+398,Belpuig (Bellpuig),66153,,Castellar,
+399,Belpuig (Bellpuig),66153,,Croses,
+400,Belpuig (Bellpuig),66153,,El Vilar,
+401,Céret,66049,commune,Céret,commune
+402,Céret (Ceret),66049,,Lasertet ou Les Costes,
+403,Céret (Ceret),66049,,Mas del Parer,
+404,Céret (Ceret),66049,,"Palol, Palau",
+405,Céret (Ceret),66049,,Sant Ferriol,
+406,Céret (Ceret),66049,,Sant Jordi,
+407,Corsavy,66060,commune,Corsavy,commune
+408,Corsavy (Cortsaví),66060,,Arlelles,
+409,Corsavy (Cortsaví),66060,,Les Balmes,
+410,Corsavy (Cortsaví),66060,,Batera,
+411,Corsavy (Cortsaví),66060,,Les Beges,
+412,Corsavy (Cortsaví),66060,,Gusach,
+413,Corsavy (Cortsaví),66060,,Llanser,
+414,Corsavy (Cortsaví),66060,,Leca,
+415,Corsavy (Cortsaví),66060,,Perduts,
+416,Corsavy (Cortsaví),66060,,Pla de Rodes,
+417,Corsavy (Cortsaví),66060,,La Talleda,
+418,Corsavy (Cortsaví),66060,,La Torre d’Anglars,
+419,Corsavy (Cortsaví),66060,,Uxes,
+420,Corsavy (Cortsaví),66060,,Vilalta,
+421,Coustouges,66061,commune,Coustouges,commune
+422,Coustouges (Costoja),66061,,Castell Falcó,
+423,Coustouges (Costoja),66061,,Vilaroja,
+424,Las Illas,66106,commune,Las Illas,commune
+425,Las Illas (les Illes),66106,,La Selva i l’Arbre Gros,
+426,Maureillas,66106,commune,Maureillas,commune
+427,Maureillas (Maurellàs),66106,,Comaleres,
+428,Maureillas (Maurellàs),66106,,Sant Joan de Mauranells,
+429,Maureillas (Maurellàs),66106,,Sant Martí de Fenollar,
+430,Lamanère,66091,commune,Lamanère,commune
+431,Lamanère (la Menera),66091,,Les Estanoses,
+432,Lamanère (la Menera),66091,,Mas de la Serra (?),
+433,Lamanère (la Menera),66091,,Pla del Boix,
+434,Lamanère (la Menera),66091,,Santa Cristina,
+435,Montbolo,66113,commune,Montbolo,commune
+436,Montbolo (Montboló),66113,,La Basseda,
+437,Montbolo (Montboló),66113,,Castell,
+438,Montbolo (Montboló),66113,,Cogullada,
+439,Montbolo (Montboló),66113,,Freixanet,
+440,Montbolo (Montboló),66113,,Garretoses,
+441,Montbolo (Montboló),66113,,Mas Noguer,
+442,Montbolo (Montboló),66113,,Massà,
+443,Montbolo (Montboló),66113,,Montargull,
+444,Montbolo (Montboló),66113,,"El Puig, mas del Puig",
+445,Montbolo (Montboló),66113,,Robiró,
+446,Montbolo (Montboló),66113,,Les Vernedes,
+447,Montbolo (Montboló),66113,,Can Vilasseca,
+448,Montferrer,66116,commune,Montferrer,commune
+449,Montferrer,66116,,Madaloch d’Amunt,
+450,Montferrer,66116,,Maures,
+451,Montferrer,66116,,Monells,
+452,Montferrer,66116,,La Palma,
+453,Montferrer,66116,,Sobraqués,
+455,Oms,66126,,Campells,
+456,Oms,66126,,Can Massineta,
+457,Oms,66126,,Reyrós,
+458,Palalda,66003,commune,Palalda,commune
+459,Prats-de-Mollo-la-Preste,66150,commune,Prats-de-Mollo-la-Preste,commune
+460,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Avellanedell,
+461,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,El Boix,
+462,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Burgat,
+463,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Cal Cabous,
+464,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,El Cendreu,
+465,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Coll d’Ares — Santa Margarida,
+466,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Gironella,
+467,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Guàrdia,
+468,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,El Maçanell,
+469,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Masó,
+470,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Miralles,
+471,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Nogardell et la Nogareda,
+472,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Nostra Senyora del Coral,
+473,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Perella,
+474,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Persigola,
+475,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Plana,
+476,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Plana Nera,
+477,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Presta,
+478,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Puig Morella,
+479,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Les Queroses,
+480,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Sala,
+481,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Santa Llúcia,
+482,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Sant Salvador de les Planes,
+483,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Serra Vernet,
+484,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Sous,
+485,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Tellet,
+486,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,La Torre de Mir,
+487,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Vall del Canidell,
+488,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Vallmanya,
+489,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Vilaplana,
+490,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Vilar Sec,
+491,Prats-de-Mollo-la-Preste (Prats de Molló),66150,,Vinyes Planes,
+492,Reynès,66160,commune,Reynès,commune
+493,Reynès (Reyners),66160,,"Asnar, Vilar d’Asnar",
+494,Reynès (Reyners),66160,,Bussach,
+495,Reynès (Reyners),66160,,La Montanyola,
+496,Reynès (Reyners),66160,,Sant Pau de Ceret,
+497,Reynès (Reyners),66160,,El Vilar de Reyners,
+498,Riunogues,66106,commune,Riunogues,commune
+499,Riunogues (Riunoguers),66106,,Panissars,
+500,Saint-Jean-Pla-de-Corts,66178,commune,Saint-Jean-Pla-de-Corts,commune
+501,Saint-Jean-Pla-de-Corts (Sant Joan Pla de Corts),66178,,Bosqueros,
+502,Saint-Jean-Pla-de-Corts (Sant Joan Pla de Corts),66178,,Castellet,
+503,Saint-Jean-Pla-de-Corts (Sant Joan Pla de Corts),66178,,Olius,
+504,Saint-Jean-Pla-de-Corts (Sant Joan Pla de Corts),66178,,Palau,
+505,Saint-Jean-Pla-de-Corts (Sant Joan Pla de Corts),66178,,Vilarsell,
+506,Saint-Laurent-de-Cerdans,66179,commune,Saint-Laurent-de-Cerdans,commune
+507,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,Mas Boadella,
+508,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,La Cabana,
+509,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,Cremadells,
+510,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,La Farga del Mig,
+511,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,Les Planes,
+512,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,"Serra de Montnegre, mas Montner",
+513,Saint-Laurent-de-Cerdans (Sant Llorenç de Cerdans),66179,,El Terme i mas Noell,
+514,Saint-Marsal,66183,commune,Saint-Marsal,commune
+515,Serralongue,66194,commune,Serralongue,commune
+516,Serralongue (Serrallonga),66194,,L’Abadia,
+517,Serralongue (Serrallonga),66194,,Cabrenç,
+518,Serralongue (Serrallonga),66194,,Falgós,
+519,Serralongue (Serrallonga),66194,,Fornells,
+520,Serralongue (Serrallonga),66194,,Galdares,
+521,Serralongue (Serrallonga),66194,,El Gau,
+522,Serralongue (Serrallonga),66194,,Les Illes,
+523,Taillet,66199,commune,Taillet,commune
+524,Taillet (Tallet),66199,,Nogareda,
+525,Taillet (Tallet),66199,,Nostra Senyora del Roure,
+526,Le Tech,66206,,Le Tech,
+527,Tech (El Tech),66206,,Benat,
+528,Tech (El Tech),66206,,Comalada,
+529,Tech (El Tech),66206,,Cos,
+530,Tech (El Tech),66206,,La Llau,
+531,Tech (El Tech),66206,,Manyaques,
+532,Tech (El Tech),66206,,Puig Rodon,
+533,Tech (El Tech),66206,,Sant Guillem de Combret,
+534,Tech (El Tech),66206,,Les Sitges,
+535,Tech (El Tech),66206,,Torre de Cos,
+536,Tech (El Tech),66206,,El Ventós,
+537,Tech (El Tech),66206,,Vall Fornés,
+538,Taulis,66203,commune,Taulis,commune
+539,Taulis (Teulís),66203,,Croanques,
+540,Vivès,66233,commune,Vivès,commune
+541,,,,Aquae Calidae,
+542,,,,Camp Cerdà,
+543,,,,Cassamoles,
+544,,,,Cast,
+545,,,,Castellar,
+546,,,,Cistells,
+547,,,,Coll,
+548,,,,Etaloris,
+549,,,,Fabrias,
+550,,,,Herms,
+551,,,,Montagut,
+552,Ayguatébia,66010,commune,Ayguatébia,commune
+553,Ayguatébia (Aiguatèbia),66010,,Trappa,
+554,Arboussols,66007,commune,Arboussols,commune
+555,Arboussols (Arbussols),66007,,Marcèvol,
+556,Arboussols (Arbussols),66007,,"Nossa, Coma Calenta",
+557,Arboussols (Arbussols),66007,,"Oltrera, Dotrera",
+558,La Cabanasse,66027,commune,La Cabanasse,commune
+559,la Cabanasse (la Cabanassa),66027,,La Perxa,
+560,la Cabanasse (la Cabanassa),66027,,Pujol,
+561,Campôme,66034,commune,Campôme,commune
+562,Campôme (Campome),66034,,Fornols,
+563,Campôme (Campome),66034,,Paracolls,
+564,Canaveilles,66036,commune,Canaveilles,commune
+565,Canaveilles (Canavelles),66036,,Castell de Niovol,
+566,Canaveilles (Canavelles),66036,,Les Caussines,
+567,Canaveilles (Canavelles),66036,,"Erola, Cerola",
+568,Canaveilles (Canavelles),66036,,Llar,
+569,Casteil,66043,commune,Casteil,commune
+570,Casteil (Castell),66043,,Pla Guillem,
+571,Casteil (Castell),66043,,Sant Martí de Canigó,
+572,Casteil (Castell),66043,,Torre de Goa,
+573,Catllar,66045,commune,Catllar,commune
+574,Catllar (Catllà),66045,,La Illa,
+575,Catllar (Catllà),66045,,Nostra Senyora de Riquer,
+576,Catllar (Catllà),66045,,Sant Jaume de Calahons,
+577,Caudiès-de-Conflent,66047,commune,Caudiès-de-Conflent,commune
+578,Clairà,66050,commune,Clairà,commune
+579,Clairà (Clarà),66050,,Orgeres,
+580,Clairà (Clarà),66050,,Sant Esteve de Pomers,
+581,Clairà (Clarà),66050,,Villerach,
+582,Codalet,66052,commune,Codalet,commune
+583,Codalet,66052,,Sant Joan de Dosserons,
+584,Codalet,66052,,Sant Miquel de Cuixà,
+585,Conat,66054,commune,Conat,commune
+586,Conat,66054,,Arletes,
+587,Conat,66054,,Eroles,
+588,Conat,66054,,Nabilles,
+589,Conat,66054,,Santa Creu,
+590,Conat,66054,,Santa Margarida,
+591,Conat,66054,,Vellans,
+592,Corneilla-de-Conflent,66057,commune,Corneilla-de-Conflent,commune
+593,Corneilla-de-Conflent (Cornellà de Conflent),66057,,Embullà,
+594,Corneilla-de-Conflent (Cornellà de Conflent),66057,,Les Molleres,
+595,Corneilla-de-Conflent (Cornellà de Conflent),66057,,"Sant Climent de Sagamà, ou de la Serra",
+596,Escaro,66068,commune,Escaro,commune
+597,Escaro (Escaró),66068,,Sant Jaume de Camerola,
+598,Escaro (Escaró),66068,,Aigues Caldes,
+599,Escaro (Escaró),66068,,Aituà,
+600,Escaro (Escaró),66068,,Vall Marsana,
+601,Escaro (Escaró),66068,,Veïnat d’Amunt,
+602,Escaro (Escaró),66068,,Veïnat d’Avall,
+603,Espira-de-Conflent,66070,commune,Espira-de-Conflent,commune
+604,Espira-de-Conflent (Espirà de Conflent),66070,,Brandi,
+605,Espira-de-Conflent (Espirà de Conflent),66070,,Gujach,
+606,Espira-de-Conflent (Espirà de Conflent),66070,,Noda,
+607,Espira-de-Conflent (Espirà de Conflent),66070,,Les Penades,
+608,Espira-de-Conflent (Espirà de Conflent),66070,,La Vall d’Espirà,
+609,Espira-de-Conflent (Espirà de Conflent),66070,,Vallorrera,
+610,Estoher,66073,commune,Estoher,commune
+611,Estoher,66073,,Llech,
+612,Estoher,66073,,Sant Joan de Seners,
+613,Eus,66074,commune,Eus,commune
+614,Eus,66074,,Cavalera,
+615,Eus,66074,,Coma,
+616,Eus,66074,,Costeirague,
+617,Eus,66074,,Interrius,
+618,Eus,66074,,Planiols,
+619,Eus,66074,,Stanyils,
+620,Eus,66074,,Terrades,
+621,Eus,66074,,Torrent,
+622,Fillols,66078,commune,Fillols,commune
+623,Fillols,66078,,Coll de Milleres,
+624,Fillols,66078,,Fangà,
+625,Fillols,66078,,Ligirà,
+626,Fillols,66078,,Sant Pere,
+627,Finestret,66079,commune,Finestret,commune
+628,Finestret,66079,,Casamals,
+629,Finestret,66079,,Marbet,
+630,Finestret,66079,,Massà,
+631,Finestret,66079,,Quers,
+632,Finestret,66079,,Sahilla,
+633,Fontpédrouse,66080,commune,Fontpédrouse,commune
+634,Fontpédrouse (Fontpedrosa),66080,,Aigues,
+635,Fontpédrouse (Fontpedrosa),66080,,Prats Balaguer,
+636,Fontpédrouse (Fontpedrosa),66080,,Sant Romà,
+637,Fontpédrouse (Fontpedrosa),66080,,Sant Tomàs,
+638,Fuilla,66085,commune,Fuilla,commune
+639,Fuilla (Fullà),66085,,Badabany,
+640,Fuilla (Fullà),66085,,Batipalma,
+641,Fuilla (Fullà),66085,,La Bulella,
+642,Fuilla (Fullà),66085,,"Cassanet, ou Veinat del Mig",
+643,Fuilla (Fullà),66085,,"Cercet, ou Veinat d’Amunt",
+644,Fuilla (Fullà),66085,,Era,
+645,Fuilla (Fullà),66085,,Els Inferms,
+646,Fuilla (Fullà),66085,,Sant Pere de la Roca,
+647,Glorianes,66086,commune,Glorianes,commune
+648,Glorianes,66086,,Arenyanes,
+649,Glorianes,66086,,Foixà,
+650,Glorianes,66086,,Mas de l’Alsina,
+651,Glorianes,66086,,Sofrunys,
+652,Joch,66089,commune,Joch,commune
+653,Jujols,66090,commune,Jujols,commune
+654,Jujols (Jújols),66090,,Claranell,
+655,Jujols (Jújols),66090,,Santa Coloma del Castelló,
+656,La Llagonne,66098,commune,La Llagonne,commune
+657,la Llagonne (la Llaguna),66098,,Els Cortals,
+658,la Llagonne (la Llaguna),66098,,Els Pujals,
+659,la Llagonne (la Llaguna),66098,,La Quillana,
+660,la Llagonne (la Llaguna),66098,,Sant Valentí,
+661,Marquixanes,66103,commune,Marquixanes,commune
+662,Marquixanes (Marqueixanes),66103,,Roc de Bara,
+663,Los Masos,66104,commune,Los Masos,commune
+664,Los Masos,66104,,Arboça,
+665,Los Masos,66104,,Avellanet,
+666,Los Masos,66104,,Favars,
+667,Los Masos,66104,,Joncet,
+668,Los Masos,66104,,Llonat,
+669,Los Masos,66104,,Nostra Senyora del Roure,
+670,Los Masos,66104,,La Sacristia,
+671,Mantet,66102,commune,Mantet,commune
+672,Mantet (Mentet),66102,,Caret,
+673,Molitg-les-Bains,66109,commune,Molitg-les-Bains,commune
+674,Molitg-les-Bains (Molig),66109,,Els Banys,
+675,Molitg-les-Bains (Molig),66109,,Croells,
+676,Mont-Louis,66117,commune,Mont-Louis,commune
+677,Mont-Louis (Mont Lluís),66117,,Ovança,
+678,Mosset,66119,commune,Mosset,commune
+679,Mosset,66119,,Els Avellans,
+680,Mosset,66119,,La Bastida de Mascardà,
+681,Mosset,66119,,Breses,
+682,Mosset,66119,,Canalilles,
+683,Mosset,66119,,La Carola,
+684,Mosset,66119,,Comagelada,
+685,Mosset,66119,,Corbiach,
+686,Mosset,66119,,Corts,
+687,Mosset,66119,,Coveset,
+688,Mosset,66119,,Falgueres,
+689,Mosset,66119,,Jau,
+690,Mosset,66119,,Peralada,
+691,Mosset,66119,,Pujols,
+692,Mosset,66119,,Queralt,
+693,Mosset,66119,,Rodoles,
+694,Mosset,66119,,La Rebolleda,
+695,Mosset,66119,,Sant Julià,
+696,Mosset,66119,,Vedrinyans,
+697,Nohèdes,66122,commune,Nohèdes,commune
+698,Nohèdes (Nohedes),66122,,Montellà,
+699,Nohèdes (Nohedes),66122,,La Roca de Salimans,
+700,Nyer,66123,commune,Nyer,commune
+701,Nyer,66123,,En,
+702,Nyer,66123,,Eixalada,
+703,Nyer,66123,,Porcinyans,
+704,Nyer,66123,,La Roca de Nyer,
+705,Olette,66125,commune,Olette,commune
+706,Olette (Oleta),66125,,La Bastida d’Oleta,
+707,Olette (Oleta),66125,,Èvol,
+708,Olette (Oleta),66125,,La Poma,
+709,Olette (Oleta),66125,,Tuhir d’Èvol,
+710,Urbanya,66219,commune,Urbanya,commune
+711,Urbanya (Orbanyà),66219,,Marsach,
+712,Urbanya (Orbanyà),66219,,Martiach,
+713,Oreilla,66128,commune,Oreilla,commune
+714,Oreilla (Orellà),66128,,Bordoll,
+715,Oreilla (Orellà),66128,,Celrà,
+716,Oreilla (Orellà),66128,,"Clariana, L’Escotó",
+717,Oreilla (Orellà),66128,,Guixà,
+718,Oreilla (Orellà),66128,,Maurli,
+719,Oreilla (Orellà),66128,,Ocenyes,
+720,Oreilla (Orellà),66128,,Turol,
+721,Py,66155,commune,Py,commune
+722,Py (Pi),66155,,Les Fargues,
+723,Py (Pi),66155,,La Plana,
+724,Py (Pi),66155,,"Planés, roc de Planés",
+725,Py (Pi),66155,,Pla Rossell,
+726,Py (Pi),66155,,El Veïnat,
+727,Planès,66142,commune,Planès,commune
+728,Prades,66149,commune,Prades,commune
+729,Prades (Prada),66149,,Balaga,
+730,Prades (Prada),66149,,Bohera,
+731,Prades (Prada),66149,,Cabanes,
+732,Prades (Prada),66149,,"Follonichs, Fonollichs, Fenollix",
+733,Prades (Prada),66149,,Mata,
+734,Prades (Prada),66149,,Perafita,
+735,Prades (Prada),66149,,Sant Martí de Canohà,
+736,Railleu,66157,commune,Railleu,commune
+737,Ria-Sirach,66161,commune,Ria-Sirach,commune
+738,Ria-Sirach (Rià),66161,,Cirach,
+739,Ria-Sirach (Rià),66161,,Llúgols,
+740,Ria-Sirach (Rià),66161,,Pla de Vall En So,
+741,Rigarda,66162,commune,Rigarda,commune
+742,Rigarda (Rigardà),66162,,Tarraçà,
+743,Rigarda (Rigardà),66162,,Vallorrera,
+744,Rigarda (Rigardà),66162,,Vilella,
+745,Rodès,66165,commune,Rodès,commune
+746,Rodès (Rodés),66165,,La Baur,
+747,Rodès (Rodés),66165,,Canoetes,
+748,Rodès (Rodés),66165,,Coll de Terranera,
+749,Rodès (Rodés),66165,,Croses,
+750,Rodès (Rodés),66165,,Domanova,
+751,Rodès (Rodés),66165,,Ropidera,
+752,Rodès (Rodés),66165,,Sant Pere de Belloch,
+753,,,,Vall Agra,
+754,Rodès (Rodés),66165,,Vallells,
+755,Sahorre,66166,commune,Sahorre,commune
+756,Sahorre (Sahorra),66166,,Toren,
+757,Sansa,66191,commune,Sansa,commune
+758,Sansa (Sansà),66191,,El Castellar,
+759,Sansa (Sansà),66191,,La Guardiola,
+760,Sansa (Sansà),66191,,La Valleta,
+761,Sansa (Sansà),66191,,Volpellach,
+762,Saint-Pierre-dels-Forcats,66188,commune,Saint-Pierre-dels-Forcats,commune
+763,Saint-Pierre-dels-Forcats (Sant Pere dels Forcats),66188,,Pasquers del Cambre d’Ase,
+764,Saint-Pierre-dels-Forcats (Sant Pere dels Forcats),66188,,Riufred,
+765,Sauto,66192,commune,Sauto,commune
+766,Sauto (Sautó),66192,,Algio,
+767,Sauto (Sautó),66192,,La Cassanya,
+768,Sauto (Sautó),66192,,Fetges,
+769,Sauto (Sautó),66192,,Figamà,
+770,Sauto (Sautó),66192,,Gaurat,
+771,Serdinya,66193,commune,Serdinya,commune
+772,Serdinya (Serdinyà),66193,,"Campreste, Campestre",
+773,Serdinya (Serdinyà),66193,,Flaçà,
+774,Serdinya (Serdinyà),66193,,Fustanyà,
+775,Serdinya (Serdinyà),66193,,La Guàrdia,
+776,Serdinya (Serdinyà),66193,,Els Horts,
+777,Serdinya (Serdinyà),66193,,Joncet,
+778,Serdinya (Serdinyà),66193,,Marinyans,
+779,Serdinya (Serdinyà),66193,,Mirles,
+780,Serdinya (Serdinyà),66193,,El Solà,
+781,Serdinya (Serdinyà),66193,,Els Talls,
+782,Souanyas,66197,commune,Souanyas,commune
+783,Souanyas (Soanyes),66197,,Maryans,
+784,Souanyas (Soanyes),66197,,Molí del Pont Nou,
+785,Souanyas (Soanyes),66197,,Sant Colgat,
+786,Talau,66010,commune,Talau,commune
+787,Talau,66010,,Cabrils,
+788,Talau,66010,,Moncles,
+789,Talau,66010,,Els Plans,
+790,Talau,66010,,Serramitjana,
+791,Talau,66010,,Tuèvol,
+792,Talau,66010,,Vall del Feu,
+793,Tarerach,66201,commune,Tarerach,commune
+794,Taurinya,66204,commune,Taurinya,commune
+795,Taurinya (Taurinyà),66204,,Berser,
+796,Taurinya (Taurinyà),66204,,Corts,
+797,Taurinya (Taurinyà),66204,,Llasseres,
+798,Thuès-Entre-Valls,66209,commune,Thuès-Entre-Valls,commune
+799,Thuès-Entre-Valls (Toès),66209,,Albaret,
+800,Thuès-Entre-Valls (Toès),66209,,Entrevalls,
+801,Thuès-Entre-Valls (Toès),66209,,Querençà,
+802,Thuès-Entre-Valls (Toès),66209,,Les Torres,
+803,Baillestavy,66013,commune,Baillestavy,commune
+804,Baillestavy (Vallestàvia),66013,,Les Cases,
+805,Baillestavy (Vallestàvia),66013,,Llebrera,
+806,Baillestavy (Vallestàvia),66013,,Marich,
+807,Baillestavy (Vallestàvia),66013,,Mesons,
+808,Baillestavy (Vallestàvia),66013,,Tellet,
+809,Valmanya,66221,commune,Valmanya,commune
+810,Valmanya (Vallmanya),66221,,El Castell,
+811,Vernet-les-Bains,66222,commune,Vernet-les-Bains,commune
+812,Vernet-les-Bains (Vernet),66222,,"Algadet, Aiguadet",
+813,Vernet-les-Bains (Vernet),66222,,Els Banys,
+814,Vernet-les-Bains (Vernet),66222,,Sant Sadurní de Vilallonga,
+815,Vernet-les-Bains (Vernet),66222,,Sant Vicenç de Camplong,
+816,Villefranche-de-Conflent,66223,commune,Villefranche-de-Conflent,commune
+817,Villefranche-de-Conflent (Vilafranca de Conflent),66223,,Conomari,
+818,Villefranche-de-Conflent (Vilafranca de Conflent),66223,,"Engorner, Vila vella",
+819,Villefranche-de-Conflent (Vilafranca de Conflent),66223,,Sant Andreu de Belloch,
+820,Villefranche-de-Conflent (Vilafranca de Conflent),66223,,Sant Esteve de Campelles,
+821,Villefranche-de-Conflent (Vilafranca de Conflent),66223,,Torres de Badabany,
+822,Vinça,66230,commune,Vinça,commune
+823,Vinça (Vinçà),66230,,Castelló,
+824,Vinça (Vinçà),66230,,Conillach,
+825,Vinça (Vinçà),66230,,Sahorla,
+826,,,,Santa Magdalena de Nantillà,
+827,,,,Alti,
+828,,,,Ayalbas,
+829,,,,Bruch,
+830,,,,Camp,
+831,,,,Collsendres,
+832,,,,Edio,
+833,,,,Espes,
+834,,,,Lasinyà,
+835,,,,Mahunilles,
+836,,,,Mont Aliberga,
+837,,,,Puig,
+838,,,,Remonivell,
+839,,,,Salavert,
+840,,,,Saquanton,
+841,,,,Uralla,
+842,,,,Utes,
+843,,,,Vilet,
+844,,,,Vitamarios,
+845,Les Angles,66004,commune,Les Angles,commune
+846,Angles (Els Angles),66004,,Mercadal,
+847,Angles (Els Angles),66004,,Vallsera,
+848,Fontrabiouse,66081,commune,Fontrabiouse,commune
+849,Fontrabiouse (Fontrabiosa),66081,,Esposolla,
+850,Formiguères,66082,commune,Formiguères,commune
+851,Formiguères (Formiguera),66082,,Caselles,
+852,Formiguères (Formiguera),66082,,Vall de Galba,
+853,Formiguères (Formiguera),66082,,Vilanova,
+854,Matemale,66105,commune,Matemale,commune
+855,Matemale (Matamala),66105,,Conangles,
+856,Matemale (Matamala),66105,,Creu,
+857,Puyvalador,66154,commune,Puyvalador,commune
+858,Puyvalador (Puigvalador),66154,,Coll de les Ares,
+859,Puyvalador (Puigvalador),66154,,Riutort,
+860,Réal,66159,commune,Réal,commune
+861,Réal (Real),66159,,Anglars,
+862,Réal (Real),66159,,Carramat,
+863,Réal (Real),66159,,Odelló,
+864,Angoustrine,66005,commune,Angoustrine,commune
+865,Angoustrine (Angostrina),66005,,"La Bollosa, Boneshores",
+866,Angoustrine (Angostrina),66005,,Lanós,
+867,Angoustrine (Angostrina),66005,,Pasquers del Carlit i del Tosal Colomer,
+868,Angoustrine (Angostrina),66005,,Puig Perich,
+869,Angoustrine (Angostrina),66005,,Sant Martí d’Envalls,
+870,Bolquère,66020,commune,Bolquère,commune
+871,Caldégas,66025,commune,Caldégas,commune
+872,Caldégas (Càldegues),66025,,Onzès,
+873,Dorres,66062,commune,Dorres,commune
+874,Dorres,66062,,Nostra Senyora de Belloch,
+875,Égat,66064,commune,Égat,commune
+876,Entveitg,66066,commune,Entveitg,commune
+877,Entveitg (Enveig),66066,,Bèna,
+878,Entveitg (Enveig),66066,,Brangolí,
+879,Entveitg (Enveig),66066,,Feners,
+880,Entveitg (Enveig),66066,,Llaura,
+881,Entveitg (Enveig),66066,,Maura,
+882,Entveitg (Enveig),66066,,La Vinyola,
+883,Err,66067,commune,Err,commune
+884,Estavar,66072,commune,Estavar,commune
+885,Estavar,66072,,Bajanda,
+886,Estavar,66072,,Callastre,
+887,Estavar,66072,,Palmanill,
+888,Eyne,66075,commune,Eyne,commune
+889,Font-Romeu,66124,,Font-Romeu,
+890,Font-Romeu (Font Romeu),66124,,La Calma,
+891,Font-Romeu (Font Romeu),66124,,Bourg-Madame,
+892,,,,Hix,
+893,Llo,66100,commune,Llo,commune
+894,Llo,66100,,Rohet,
+895,Llo,66100,,Sant Feliu,
+896,Llo,66100,,Torrents,
+897,Nahuja,66120,commune,Nahuja,commune
+898,Odeillo,66124,commune,Odeillo,commune
+899,Odeillo (Odelló),66124,,Vià,
+900,Osséja,66130,commune,Osséja,commune
+901,Palau-de-Cerdagne,66132,commune,Palau-de-Cerdagne,commune
+902,Porta,66146,commune,Porta,commune
+903,Porta,66146,,Camp Cardós,
+904,Porta,66146,,Cortvassill,
+905,Porta,66146,,Querol,
+906,Porté,66147,commune,Porté,commune
+907,Porté (Portè),66147,,Castell dels Moros,
+908,Porté (Portè),66147,,Pimorent,
+909,Porté (Portè),66147,,Torre Cerdana,
+910,Porté (Portè),66147,,Vall Llobera,
+911,Saillagouse,66167,commune,Saillagouse,commune
+912,Saillagouse (Sallagosa),66167,,Cases d’Ans,
+913,Saillagouse (Sallagosa),66167,,Croells,
+914,Saillagouse (Sallagosa),66167,,Ro,
+915,Saillagouse (Sallagosa),66167,,La Sponna,
+916,Saillagouse (Sallagosa),66167,,Vedrinyans,
+917,Sainte-Léocadie,66181,commune,Sainte-Léocadie,commune
+918,Sainte-Léocadie (Santa Llocaya),66181,,Concellabre,
+919,Sainte-Léocadie (Santa Llocaya),66181,,Llus,
+920,Sainte-Léocadie (Santa Llocaya),66181,,Palau,
+921,Sainte-Léocadie (Santa Llocaya),66181,,Set,
+922,Sainte-Léocadie (Santa Llocaya),66181,,Vall Famelga,
+923,Sainte-Léocadie (Santa Llocaya),66181,,Vall Sadolla,
+924,Targasonne,66202,commune,Targasonne,commune
+925,Targasonne (Targasona),66202,,Pardinella,
+926,Targasonne (Targasona),66202,,Torba,
+927,Targasonne (Targasona),66202,,Vilalta,
+928,Latour-de-Carol,66095,commune,Latour-de-Carol,commune
+929,Latour-de-Carol (la Tor de Querol),66095,,Cedret i Llinars,
+930,Latour-de-Carol (la Tor de Querol),66095,,Iravals,
+931,Latour-de-Carol (la Tor de Querol),66095,,Quers,
+932,Latour-de-Carol (la Tor de Querol),66095,,Riutès,
+933,Latour-de-Carol (la Tor de Querol),66095,,Salit,
+934,Latour-de-Carol (la Tor de Querol),66095,,Santa Eulària,
+935,Ur,66218,commune,Ur,commune
+936,,,,Florí,
+937,Valcebollère,66220,commune,Valcebollère,commune
+938,Valcebollère (Vallcebollera),66220,,Corbera,
+939,Valcebollère (Vallcebollera),66220,,El Puig,
+940,Villeneuve-des-Escaldes,66005,commune,Villeneuve-des-Escaldes,commune
+941,Villeneuve-des-Escaldes (Vilanova de les Escaldes),66005,,Les Escaldes,
+942,,,commune,Alp,commune
+943,,,,Coma,
+944,,,,Nostra Senyora de l’Ovella,
+945,,,,Puig de Nadalia,
+946,,,,Salteguell,
+947,,,,Sant Esteve de Umfred,
+948,,,,Segramorta,
+949,,,commune,Aranser,commune
+950,,,,Castell de Queralt,
+951,,,,Musser,
+952,,,commune,Aristot,commune
+953,,,,Castellnou de Carcolse,
+954,,,,Sant Vicenç de Pinsent,
+955,,,,Torrents,
+956,,,commune,Arseguell,commune
+957,,,commune,Bellver,commune
+958,,,,Baltarga,
+959,,,,Beders,
+960,,,,Bor,
+961,,,,Caborriu,
+962,,,,Cardils,
+963,,,,Cortariu,
+964,,,,Galliçà de Talló,
+965,,,,Grassantul,
+966,,,,Ingla,
+967,,,,Navascort,
+968,,,,Nefol,
+969,,,,Olia,
+970,,,,Pedra,
+971,,,,Pi,
+972,,,,Riu de Santa Maria,
+973,,,,Santa Eugènia de Nerelia,
+974,,,,Santa Magdalena,
+975,,,,Talló,
+976,,,,Vilar d’Envals,
+977,,,,Vilavedra,
+978,,,,Vilella,
+979,,,commune,Bolvir,commune
+980,,,,Mas d’Arvó,
+981,,,,Sant Climent de Soler,
+982,,,,Talltorta,
+983,,,commune,Caixáns,commune
+984,,,,Canals,
+985,,,,Les Pereres,
+986,,,commune,Cava,commune
+987,,,,Nasovell,
+988,,,,Querforadat,
+989,,,commune,Das,commune
+990,,,,Mosoll,
+991,,,,Pardinella,
+992,,,,Sanavastre,
+993,,,,Tartera,
+994,,,,Vencilles,
+995,,,commune,Ellar,commune
+996,,,,Cortàs,
+997,,,commune,Ger,commune
+998,,,,Altajo,
+999,,,,Greixar,
+1000,,,,Monmelus,
+1001,,,,Niula,
+1002,,,,Saga,
+1003,,,,Sant Pere,
+1004,,,commune,Guils,commune
+1005,,,,Saneja,
+1006,,,,Sant Martí d’Aravó,
+1007,,,commune,Isòvol,commune
+1008,,,,Alf,
+1009,,,,All,
+1010,,,,L’Arraval,
+1011,,,,Olopte,
+1012,,,,Quadres,
+1013,,,commune,Llès,commune
+1014,,,,Caborriu de la Llosa,
+1015,,,,Embret,
+1016,,,,La Llosa,
+1017,,,,Sallent,
+1018,,,,Sanillers,
+1019,,,,Travesseres,
+1020,,,,Valiella,
+1021,,,commune,Llívia,commune
+1022,,,,Cereja,
+1023,,,,Gorguja,
+1024,,,commune,Maranges,commune
+1025,,,,Gerul,
+1026,,,commune,Montellà,commune
+1027,,,,Castelló,
+1028,,,,Esconsa,
+1029,,,,Martinet,
+1030,,,,Sant Martí dels Castells,
+1031,,,,Sant Romà,
+1032,,,commune,Prats i Samsor,commune
+1033,,,,Pedrances,
+1034,,,,Saig,
+1035,,,,Samsor,
+1036,,,commune,Prullans,commune
+1037,,,,Anàs,
+1038,,,,Anes,
+1039,,,,Ardòvol,
+1040,,,,Avol,
+1041,,,,Castell de Miralles,
+1042,,,commune,Puigcerdà,commune
+1043,,,,Pallarols,
+1044,,,,Rigolisa,
+1045,,,,Ventajola,
+1046,,,commune,Riu de Pedra,commune
+1047,,,,Canals,
+1048,,,commune,Talltendre,commune
+1049,,,,Orden,
+1050,,,commune,Toloriu,commune
+1051,,,,Bar,
+1052,,,,Barbuja,
+1053,,,,Pont de Bar,
+1054,,,commune,Urg,commune
+1055,,,,Casa Sus,
+1056,,,,Escadars,
+1057,,,,Estoll,
+1058,,,,Suriguerola i Suriguera,
+1059,,,,El Vilar,
+1060,,,commune,Urus,commune
+1061,,,commune,Vilallobent,commune
+1062,,,,Aja,
+1063,,,commune,Vilech i Estana,commune
+1064,,,,Beixech,
+1065,,,,Abiell,
+1066,,,,Bau,
+1067,,,,Burrizella,
+1068,,,,Ses Cases,
+1069,,,,Castell de Pellencha,
+1070,,,,"Obag, Baga",
+1071,,,,Padravet,
+1072,,,,Pardinella,
+1073,,,,"Lo Pla, El Pla",
+1074,,,,"Lo Solà, El Solà",
+1075,,,,Tolosa,
+1076,,,,Torba,
+1077,,,,Tremes Portes,
+1078,,,,Tresmals,
+1080,Ansignan,66006,commune,Ansignan,commune
+1081,Bélesta,66019,commune,Bélesta,commune
+1082,Bélesta (Belestar),66019,,Caladroer,
+1083,Bélesta (Belestar),66019,,Jonqueroles,
+1084,Bélesta (Belestar),66019,,Llebrers,
+1085,Campoussy,66035,commune,Campoussy,commune
+1086,Campoussy (Campursi),66035,,Palmes,
+1087,Caramany,66039,commune,Caramany,commune
+1088,Cassagnes,66042,commune,Cassagnes,commune
+1089,Cassagnes (Cassanyes),66042,,Cuixós,
+1090,Cassagnes (Cassanyes),66042,,Pleus,
+1091,Caudiès-de-Fenouillèdes,66046,commune,Caudiès-de-Fenouillèdes,commune
+1092,Caudiès-de-Fenouillèdes (Caudiers de Fenolledès),66046,,Io Bouich,
+1093,Caudiès-de-Fenouillèdes (Caudiers de Fenolledès),66046,,Nostro Dono de la Val,
+1094,Caudiès-de-Fenouillèdes (Caudiers de Fenolledès),66046,,Sant Jaume,
+1095,Saint-Arnac,66169,commune,Saint-Arnac,commune
+1096,Saint-Arnac (Centernach),66169,,Borrad,
+1097,Saint-Arnac (Centernach),66169,,Derch,
+1098,Feilluns,66076,commune,Feilluns,commune
+1099,Fenouillet,66077,commune,Fenouillet,commune
+1100,,,,Castelfisel,
+1101,Fenouillet (Fenollet),66077,,Sabardà,
+1102,Fenouillet (Fenollet),66077,,Tullà,
+1103,Fosse,66083,commune,Fosse,commune
+1104,Fosse (Fossa),66083,,Les Cabanes,
+1105,Fosse (Fossa),66083,,Perles,
+1106,Lansac,66092,commune,Lansac,commune
+1107,Lesquerde,66097,commune,Lesquerde,commune
+1108,Maury,66107,commune,Maury,commune
+1109,Maury (Maurí),66107,,Querbus,
+1110,Montalba-le-Château,66111,commune,Montalba-le-Château,commune
+1111,Pézilla-de-Conflent,66139,commune,Pézilla-de-Conflent,commune
+1112,Planèzes,66143,commune,Planèzes,commune
+1113,Prats-de-Sournia,66151,commune,Prats-de-Sournia,commune
+1114,Prats-de-Sournia (Prats de Sornià),66151,,Albas,
+1115,Prugnanes,66152,commune,Prugnanes,commune
+1116,Rabouillet,66156,commune,Rabouillet,commune
+1117,,,,Matapenista,
+1118,Rabouillet (Rabolhet),66156,,Pla Llubi,
+1119,Rasiguères,66158,commune,Rasiguères,commune
+1120,Rasiguères (Rasigueres),66158,,Tornafort,
+1121,Saint-Martin-de-Fenouillet,66184,commune,Saint-Martin-de-Fenouillet,commune
+1122,Saint-Martin-de-Fenouillet (Sant Martí),66184,,Taichac,
+1123,Saint-Paul-de-Fenouillet,66187,commune,Saint-Paul-de-Fenouillet,commune
+1124,Saint-Paul-de-Fenouillet (Sant Pau de Fenolhet),66187,,Besandu,
+1125,Saint-Paul-de-Fenouillet (Sant Pau de Fenolhet),66187,,Capróno,
+1126,Saint-Paul-de-Fenouillet (Sant Pau de Fenolhet),66187,,Galamus,
+1127,Saint-Paul-de-Fenouillet (Sant Pau de Fenolhet),66187,,Peyralado,
+1128,Saint-Paul-de-Fenouillet (Sant Pau de Fenolhet),66187,,La Róco,
+1129,Sournia,66198,commune,Sournia,commune
+1130,Sournia (Sornià),66198,,Aichós,
+1131,Sournia (Sornià),66198,,Arsà,
+1132,Sournia (Sornià),66198,,Corbós,
+1133,Sournia (Sornià),66198,,Lo Puch,
+1134,Sournia (Sornià),66198,,Saichà,
+1135,Sournia (Sornià),66198,,Santo Felicitat,
+1136,Sournia (Sornià),66198,,Sant Miquel,
+1137,Sournia (Sornià),66198,,Tavernoles,
+1138,Latour-de-France,66096,commune,Latour-de-France,commune
+1139,Trévillach,66215,commune,Trévillach,commune
+1140,Trévillach (Trevilhach),66215,,Rocavert,
+1141,Trévillach (Trevilhach),66215,,Sequera,
+1142,Trilla,66216,commune,Trilla,commune
+1143,Vira,66232,commune,Vira,commune
+1144,Le Vivier,66234,commune,Le Vivier,commune
+1146,Axat,11021,commune,Axat,commune
+1147,Axat (Atsat),11021,,Baira,
+1148,Axat (Atsat),11021,,La Cremado,
+1149,Axat (Atsat),11021,,Sant Vicenç,
+1150,Counozouls,11104,commune,Counozouls,commune
+1151,Counozouls (Conosols),11104,,Le Becaud,
+1152,Gincla,11163,commune,Gincla,commune
+1153,Montfort-sur-Boulzane,11244,commune,Montfort-sur-Boulzane,commune
+1154,Lapradelle-Puilaurens,11302,commune,Lapradelle-Puilaurens,commune
+1155,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Aiguesbones,
+1156,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Camperié,
+1157,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,La Pradéllo,
+1158,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Lavanhac,
+1159,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Pechlaurens,
+1160,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Roc de la Gardiolo,
+1161,Lapradelle-Puilaurens (La Pradéllo et Pechlaurens),11302,,Salvanera,
+1162,Salvezines,11373,commune,Salvezines,commune
+1163,Saint-Martin-Lys,11358,commune,Saint-Martin-Lys,commune
+1164,Saint-Martin-Lys (Sant Martí Les),11358,,Artosols,
+1165,Saint-Martin-Lys (Sant Martí Les),11358,,Comauriolo,
+1166,Sainte-Colombe-sur-Guette,11335,commune,Sainte-Colombe-sur-Guette,commune
+1167,,,,Amariolas — Mayroles ?,
+1168,,,,Attendid,
+1169,,,,Bressols,
+1170,,,,Cases,
+1171,,,,Conredo,
+1172,,,,Envids,
+1173,,,,Favars,
+1174,,,,Fulleders,
+1175,,,,Gavaret,
+1176,,,,Peyrofito,
+1177,,,,Setago,
