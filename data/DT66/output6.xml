@@ -786,7 +786,7 @@
   </article>
   <article id="DT66-00076" tm="1" pg="32" type="commune">
     <pg>32</pg>
-    <vedette><sm>Caixas</sm>, cat. <sm>Caixàs</sm> ou <sm>Queixàs</sm></vedette>
+    <vedette><sm>Caixas</sm>, cat. <sm>Caixàs</sm> (Queixàs)</vedette>
     <definition><typologie>commune</typologie> du Roussillon.</definition>
     <forme_ancienne><i>Chexanos</i>, <date>942</date> ;</forme_ancienne>
     <forme_ancienne><i>ecclesia de Kexanos</i>, <date>1020</date> ;</forme_ancienne>
@@ -1838,7 +1838,7 @@
     <insee>66101</insee>
   </article>
   <article id="DT66-00162" tm="1" pg="42">
-    <vedette><sm>Llupia</sm>, cat. <sm>Santa Maria de Vilarmilà</sm> ou <sm>Vilarmilar</sm></vedette>
+    <vedette><sm>Llupia</sm>, cat. <sm>Santa Maria de Vilarmilà</sm> (Vilarmilar)</vedette>
     <definition><localisation>commune de <commune insee="66101" precision="certain">Llupia (Llupià)</commune></localisation>.</definition>
     <forme_ancienne><i>ecclesia Sanctae Mariae de Villare Milariis</i>, <date>1163</date> ;</forme_ancienne>
     <forme_ancienne>(B. de) <i>Vilarmilan</i>, <date>1169</date> ;</forme_ancienne>
@@ -2283,7 +2283,7 @@
     <forme_ancienne><i>ecclesia S. Petri de Villa Clara</i>, <date>1441</date>.</forme_ancienne>
   </article>
   <article id="DT66-00195" tm="1" pg="47" type="commune">
-    <vedette><sm>Peyrestortes</sm>, cat. <sm>Paretstortes</sm> ou <sm>Peirestortes</sm></vedette>
+    <vedette><sm>Peyrestortes</sm>, cat. <sm>Paretstortes</sm> (Peirestortes)</vedette>
     <definition><typologie>commune</typologie> du Roussillon.</definition>
     <forme_ancienne><i>Paredstortes</i>, <date>925</date> ;</forme_ancienne>
     <forme_ancienne><i>Parets tortes</i>, <date>1130</date> ;</forme_ancienne>
@@ -3915,7 +3915,7 @@
     <forme_ancienne><i>eccl. S. Petri de Turreliis</i>, <date>1114</date>.</forme_ancienne>
   </article>
   <article id="DT66-00328" tm="1" pg="63" type="commune">
-    <vedette><sm>Tresserre</sm>, cat. <sm>Trasserra</sm> ou <sm>Tresserra</sm></vedette>
+    <vedette><sm>Tresserre</sm>, cat. <sm>Trasserra</sm> (Tresserra)</vedette>
     <definition><typologie>commune</typologie> du Roussillon.</definition>
     <forme_ancienne><i>Trasserra</i>, <date>959</date> ;</forme_ancienne>
     <forme_ancienne><i>Tressera</i>, <date>1044</date>, <date>1050</date>, <date>1354</date> ;</forme_ancienne>
@@ -5228,7 +5228,7 @@
     <commentaire><p>Situé dans la partie méridionale de la commune, en Vallespir.</p></commentaire>
   </article>
   <article id="DT66-00458" tm="1" pg="82" type="commune">
-    <vedette><sm>Palalda</sm>, cat. <sm>Palaudà</sm> ou <sm>Palaldà</sm></vedette>
+    <vedette><sm>Palalda</sm>, cat. <sm>Palaudà</sm> (Palaldà)</vedette>
     <definition><typologie>commune</typologie> du Vallespir.</definition>
     <forme_ancienne><i>Paladdanum</i>, <date>814</date> ;</forme_ancienne>
     <forme_ancienne><i>Palatiodano</i>, <date>874</date> ;</forme_ancienne>
@@ -5530,7 +5530,7 @@
     <forme_ancienne><i>Viyes planes</i>, <date>1329</date>.</forme_ancienne>
   </article>
   <article id="DT66-00492" tm="1" pg="85" type="commune">
-    <vedette><sm>Reynès</sm>, cat. <sm>Reyners</sm> ou <sm>Reiners</sm></vedette>
+    <vedette><sm>Reynès</sm>, cat. <sm>Reyners</sm> (Reiners)</vedette>
     <definition><typologie>commune</typologie> du Vallespir.</definition>
     <forme_ancienne><i>Rio nigro estremaris</i>, <date>998</date> ;</forme_ancienne>
     <forme_ancienne><i>Rivo nigro</i>, <date>1011</date> ;</forme_ancienne>
@@ -5837,7 +5837,7 @@
     <forme_ancienne><i>Insolas</i>, <date>866</date> (locum infra fines de Serralonga).</forme_ancienne>
   </article>
   <article id="DT66-00523" tm="1" pg="89" type="commune">
-    <vedette><sm>Taillet</sm>, cat. <sm>Tallet</sm> ou <sm>Tellet</sm></vedette>
+    <vedette><sm>Taillet</sm>, cat. <sm>Tallet</sm> (Tellet)</vedette>
     <definition><typologie>commune</typologie> du Vallespir.</definition>
     <forme_ancienne><i>Teletas</i>, <date>876</date> ;</forme_ancienne>
     <forme_ancienne><i>Telledo</i>, <date>930</date> ;</forme_ancienne>
@@ -5980,7 +5980,7 @@
   </article>
   <article id="DT66-00538" tm="1" pg="91" type="commune">
     <pg>91</pg>
-    <vedette><sm>Taulis</sm>, cat. <sm>Teulís</sm> ou <sm>Taulís</sm></vedette>
+    <vedette><sm>Taulis</sm>, cat. <sm>Teulís</sm> (Taulís)</vedette>
     <definition><typologie>commune</typologie> du Vallespir.</definition>
     <forme_ancienne><i>Teulicius</i>, <date>853</date> ;</forme_ancienne>
     <forme_ancienne><i>flumen Teulicii</i>, <date>953</date> ;</forme_ancienne>
@@ -6102,7 +6102,7 @@
     <forme_ancienne><i>Trapa</i>, <date>XVIII<sup>e</sup> siècle</date>.</forme_ancienne>
   </article>
   <article id="DT66-00554" tm="1" pg="96" type="commune">
-    <vedette><sm>Arboussols</sm>, cat. <sm>Arbussols</sm> ou <sm>Arboçols</sm></vedette>
+    <vedette><sm>Arboussols</sm>, cat. <sm>Arbussols</sm> (Arboçols)</vedette>
     <definition><typologie>commune</typologie> du Conflent.</definition>
     <forme_ancienne><i>Arbussolas</i>, <date>950</date> ;</forme_ancienne>
     <forme_ancienne><i>Arbutiolam</i>, <date>958</date> ;</forme_ancienne>
@@ -7399,7 +7399,7 @@
     <forme_ancienne><i>roch de Bara</i>, <date>XVII<sup>e</sup> siècle</date>.</forme_ancienne>
   </article>
   <article id="DT66-00663" tm="1" pg="110" type="commune">
-    <vedette><sm>Los Masos</sm>, cat. <sm>Los Masos</sm> ou <sm>Els Masos</sm></vedette>
+    <vedette><sm>Los Masos</sm>, cat. <sm>Los Masos</sm> (Els Masos)</vedette>
     <definition><typologie>commune</typologie> du Conflent.</definition>
     <forme_ancienne><i>ipsa Vilaria</i>, <date>1180</date> ;</forme_ancienne>
     <forme_ancienne><i>universitat dels Vilars</i>, <date>1263</date>, <date>1358-1359</date> ;</forme_ancienne>
@@ -9670,7 +9670,7 @@
     <forme_ancienne><i>Belloc</i>, <date>1589</date>.</forme_ancienne>
   </article>
   <article id="DT66-00875" tm="1" pg="141" type="commune">
-    <vedette><sm>Égat</sm>, cat. <sm>Egat</sm> ou <sm>Eguet</sm></vedette>
+    <vedette><sm>Égat</sm>, cat. <sm>Egat</sm> (Eguet)</vedette>
     <definition><typologie>commune</typologie> de Cerdagne.</definition>
     <forme_ancienne><i>parrochia Egadde</i>, <date>839</date> ;</forme_ancienne>
     <forme_ancienne><i>Egat</i>, <date>1011</date> ;</forme_ancienne>
@@ -9831,7 +9831,7 @@
     <commentaire><p>Une partie du territoire de Palmanill a été annexée à Targasona.</p></commentaire>
   </article>
   <article id="DT66-00888" tm="1" pg="142" type="commune">
-    <vedette><sm>Eyne</sm>, cat. <sm>Eyna</sm> ou <sm>Eina</sm></vedette>
+    <vedette><sm>Eyne</sm>, cat. <sm>Eyna</sm> (Eina)</vedette>
     <definition><typologie>commune</typologie> de Cerdagne.</definition>
     <forme_ancienne><i>villa Esna</i>, <date>913</date> ;</forme_ancienne>
     <forme_ancienne><i>S. Sebastianus, monasterium juxta alveum Esna</i>, <date>965</date> ;</forme_ancienne>
@@ -10213,7 +10213,7 @@
     <forme_ancienne><i>Paladell</i>, <date>1267</date>.</forme_ancienne>
   </article>
   <article id="DT66-00921" tm="1" pg="147">
-    <vedette><sm>Set</sm>, <sm>coma de Set</sm>, aujourd'hui <sm>les Comes</sm> ?</vedette>
+    <vedette><sm>Set</sm>, <sm>coma de Set</sm> (les Comes ?)</vedette>
     <definition><localisation>commune de <commune insee="66181" precision="certain">Sainte-Léocadie (Santa Llocaya)</commune></localisation>.</definition>
     <forme_ancienne><i>villa Sed</i>, <date>991</date>, <date>1011</date> ;</forme_ancienne>
     <forme_ancienne><i>in term. ville de Coma de Set</i>, <date>1071</date> ;</forme_ancienne>
@@ -12007,7 +12007,7 @@
     <forme_ancienne><i>Palmes</i>, <date>1749</date>.</forme_ancienne>
   </article>
   <article id="DT66-01087" tm="1" pg="170" type="commune">
-    <vedette><sm>Caramany</sm>, cat. <sm>Caramany</sm> ou <sm>Caramanh</sm></vedette>
+    <vedette><sm>Caramany</sm>, cat. <sm>Caramany</sm> (Caramanh)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>Karamay</i>, <date>1211</date> ;</forme_ancienne>
     <forme_ancienne>(H. de) <i>Karamanho</i>, <i>Cara manho</i>, <date>1242</date> ;</forme_ancienne>
@@ -12028,7 +12028,7 @@
   </article>
   <article id="DT66-01088" tm="1" pg="171" type="commune">
     <pg>171</pg>
-    <vedette><sm>Cassagnes</sm>, cat. <sm>Cassanyes</sm> ou <sm>Cassanhes</sm></vedette>
+    <vedette><sm>Cassagnes</sm>, cat. <sm>Cassanyes</sm> (Cassanhes)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>Cassanias</i>, <date>889</date> ;</forme_ancienne>
     <forme_ancienne><i>villa Cassanges</i>, <date>954</date> ;</forme_ancienne>
@@ -12121,7 +12121,7 @@
   </article>
   <article id="DT66-01098" tm="1" pg="172" type="commune">
     <pg>172</pg>
-    <vedette><sm>Feilluns</sm>, cat. <sm>Felluns</sm> ou <sm>Felhuns</sm></vedette>
+    <vedette><sm>Feilluns</sm>, cat. <sm>Felluns</sm> (Felhuns)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>Sancta Maria de Fullonibus</i>, <date>1259</date> ;</forme_ancienne>
     <forme_ancienne><i>Faluns</i>, <date>1395</date> ;</forme_ancienne>
@@ -12130,7 +12130,7 @@
     <insee>66076</insee>
   </article>
   <article id="DT66-01099" tm="1" pg="172" type="commune">
-    <vedette><sm>Fenouillet</sm>, cat. <sm>Fenollet</sm> ou <sm>Fenolhet</sm></vedette>
+    <vedette><sm>Fenouillet</sm>, cat. <sm>Fenollet</sm> (Fenolhet)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>locus consecratus in honore S. Petri apostoli</i>, <i>monasterium S. Petri Fenilotensi</i>, <date>1011</date>, <date>1221</date> ;</forme_ancienne>
     <forme_ancienne><i>castellum Fenolieto</i>, <date>1021</date> ;</forme_ancienne>
@@ -12384,7 +12384,7 @@
   </article>
   <article id="DT66-01123" tm="1" pg="175" type="commune">
     <pg>175</pg>
-    <vedette><sm>Saint-Paul-de-Fenouillet</sm>, cat. <sm>Sant Pau de Fenolhet</sm> ou <sm>Fenollet</sm></vedette>
+    <vedette><sm>Saint-Paul-de-Fenouillet</sm>, cat. <sm>Sant Pau de Fenolhet</sm> (Fenollet)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>villare Monedarias ?</i>, <date>842</date> ;</forme_ancienne>
     <forme_ancienne><i>Sanctus Paulus, cenobium in comitatu Fenolietense</i>, <date>965</date> ;</forme_ancienne>
@@ -12514,7 +12514,7 @@
     <forme_ancienne><i>in valle Soriniano alode Tavernulas</i>, <date>1021</date>.</forme_ancienne>
   </article>
   <article id="DT66-01138" tm="1" pg="176" type="commune">
-    <vedette><sm>Latour-de-France</sm>, cat. <sm>La Tor</sm> ou <sm>Triniac</sm></vedette>
+    <vedette><sm>Latour-de-France</sm>, cat. <sm>La Tor</sm> (Triniac)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>turris Triniago</i>, <date>1021</date> ;</forme_ancienne>
     <forme_ancienne><i>Triniag</i>, <date>1070</date> ;</forme_ancienne>
@@ -12527,7 +12527,7 @@
     <insee>66096</insee>
   </article>
   <article id="DT66-01139" tm="1" pg="176" type="commune">
-    <vedette><sm>Trévillach</sm>, cat. <sm>Trevilhach</sm> ou <sm>Trevillach</sm></vedette>
+    <vedette><sm>Trévillach</sm>, cat. <sm>Trevilhach</sm> (Trevillach)</vedette>
     <definition><typologie>commune</typologie> du Fenolledès.</definition>
     <forme_ancienne><i>Trivilanum</i>, <date>1026</date> ;</forme_ancienne>
     <forme_ancienne><i>ecclesia S. Martini de Trivilacho</i>, <date>1356</date> ;</forme_ancienne>
