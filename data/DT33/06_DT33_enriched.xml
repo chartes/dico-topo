@@ -1463,13 +1463,15 @@
   </article>
   <article type="commune" id="DT33-00175">
     <vedette><sm>Fossès</sm></vedette>
-    <definition><localisation>commune de <commune insee="33171" precision="certain">Fossès-et-Baleyssac</commune></localisation>.</definition>
+    <definition><localisation>commune de Fossès-et-Baleyssac</localisation>.</definition>
     <forme_ancienne><i>Forsset</i> (parrochia de), <date>30 mars 1305</date> <reference>($cartulaire de Monségur, dit l'Esclapot, fol. 20, éd. <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 1-98)</reference>.</forme_ancienne>
+    <insee>33171</insee>
   </article>
   <article type="commune" id="DT33-00175bis">
     <vedette><sm>Baleyssac</sm></vedette>
-    <definition><localisation>commune de <commune insee="33171" precision="certain">Fossès-et-Baleyssac</commune></localisation>.</definition>
+    <definition><localisation>commune de Fossès-et-Baleyssac</localisation>.</definition>
     <forme_ancienne><i>Balayssac</i> (par. S. Michaelis de), <date>30 mars 1305</date> <reference>($cartulaire de Monségur, dit l'Esclapot, fol. 20, éd. <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 1-98)</reference>.</forme_ancienne>
+    <insee>33171</insee>
   </article>
   <article type="commune" id="DT33-00176">
     <vedette><sm>Fours</sm></vedette>
