@@ -6,7 +6,7 @@ import re
 
 dt_id = sys.argv[1]
 dt_dir = '../data/'+dt_id+'/'
-dt_f = dt_dir+'/output6.xml'
+dt_f = dt_dir+'/step5.xml'
 mapping_f  = dt_dir+'IDS_MAP.tsv'
 mapping_d = {} # mapping dans un dict
 
@@ -18,7 +18,7 @@ with open(mapping_f) as tsvfile:
 		mapping_d[old_id] = new_id
 
 inFile = open(dt_f, 'r')
-outFile = open(dt_dir+'output7.xml', 'w')
+outFile = open(dt_dir+'step6.xml', 'w')
 id_pattern = re.compile('article id="([^"]+)"')
 
 for line in inFile:
