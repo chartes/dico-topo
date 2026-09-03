@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
   Copyright © 2026 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
-<DICTIONNAIRE departement="Gironde" dep="33">
+<?xml-model href="../dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<DICTIONNAIRE dep="33" departement="Gironde">
   <article type="commune" id="DT33-00001">
     <vedette><sm>Abzac</sm></vedette>
     <forme_ancienne><i>Abzac</i> (in loco de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
@@ -149,15 +149,14 @@
   <article id="DT33-00018">
     <vedette><sm>Aubie</sm></vedette>
     <definition><localisation>commune d'<commune insee="33018" precision="certain">Aubie-et-Espessas</commune></localisation>.</definition>
-    <forme_ancienne><i>Albia</i> (in parrochiis de), <date>20 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Albia</i> (Sanctus Martinus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Albia</i> (cappella de), <date>1367</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Albia</i> (in parrochiis de), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Albia</i> (Sanctus Martinus de), <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00019">
     <vedette><sm>Espessas</sm></vedette>
     <definition><localisation>commune d'<commune insee="33018" precision="certain">Aubie-et-Espessas</commune></localisation>.</definition>
-    <forme_ancienne><i>Espessas</i> (a priore d’), <date>1355</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Espessans</i> (prior d’), <date>1367</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Espessas</i> (a priore d’), <date>1355</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Espessans</i> (prior d’), <date>1367</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00020">
     <vedette><sm>Audenge</sm></vedette>
@@ -269,10 +268,6 @@
     <forme_ancienne><i>Barsaco</i> (cap. de) arch. Sernensis, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Barsaco (Sanctus Vincentius de)</i>, <date>XIV<sup>e</sup> s.</date> <reference>(comptes de l’archevêché, cité dans Alexandre Nicolaï, <i>Les noms de lieux de la Gironde</i>, Bordeaux, 1938)</reference>.</forme_ancienne>
   <insee>33030</insee>
-  </article>
-  <article type="commune" id="DT33-00032">
-    <vedette><sm>Bassanne</sm></vedette>
-  <insee>33031</insee>
   </article>
   <article type="commune" id="DT33-00033">
     <vedette><sm>Bassens</sm></vedette>
@@ -389,23 +384,21 @@
   <article id="DT33-00046">
     <vedette><sm>Bernos</sm></vedette>
     <definition><localisation>commune de <commune insee="33046" precision="certain">Bernos-Beaulac</commune></localisation>.</definition>
-    <forme_ancienne><i>Taleyzone</i> (Reymundo de), <date>1289</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bernos</i> (parrochia de) de ultra Syronem, <date>21 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bernes</i> (parrochia Beate Marie de), <date>20 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bernos</i> (par. Sancte Marie de), <date>1274</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bernos</i> (Johannes de), <date>1307-1317</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bernussio</i> (capellanus de), <date>1369-1370</date> <reference>($<i>Pouillés des provinces d’Auch, de Narbonne et de Toulouse</i>, éd. Charles-Edmond Perrin et Jacques de Font-Réaulx, 2 t., Paris, 1972)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Taleyzone</i> (Reymundo de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Bernos de ultra Syronem</i> (parrochia de), <date>21 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Bernes (parrochia Beate Marie de)</i>, <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Bernussio</i> (capellanus de), <date>1369-1370</date> <reference>(<i>Pouillés des provinces d’Auch, de Narbonne et de Toulouse</i>, éd. Charles-Edmond Perrin et Jacques de Font-Réaulx, 2 t., Paris, 1972)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Bernosio</i> (de), <date>XVI<sup>e</sup> s.</date> ;</forme_ancienne>
-    <forme_ancienne><i>Bernussio / Bernossio</i>, <date>1533-1537</date> <reference>($« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Bernossio</i>, <date>1533-1537</date> <reference>(« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00047">
     <vedette><sm>Beaulac</sm></vedette>
     <definition><localisation>commune de <commune insee="33046" precision="certain">Bernos-Beaulac</commune></localisation>.</definition>
-    <forme_ancienne><i>Baulad</i> (ospitalis de), <date>1263</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914, 222)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Baulatz</i> (hospitali de), <date>21 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Baulads</i> (hospitali de), <date>21 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Baulac</i> (hospitalis Sancti Jacobi de), <date>1290</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962, 1833)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Baulaco</i> (prior de), <date>1533-1537</date> <reference>($« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Baulad</i> (ospitalis de), <date>1263</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914, 222)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Baulatz</i> (hospitali de), <date>21 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Baulads</i> (hospitali de), <date>21 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Baulac</i> (hospitalis Sancti Jacobi de), <date>1290</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962, 1833)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Baulaco</i> (prior de), <date>1533-1537</date> <reference>(« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00048">
     <vedette><sm>Berson</sm></vedette>
@@ -425,20 +418,14 @@
   <article id="DT33-00050">
     <vedette><sm>Beychac</sm></vedette>
     <definition><localisation>commune de <commune insee="33049" precision="certain">Beychac-et-Caillau</commune></localisation>.</definition>
-    <forme_ancienne><i>Baissac</i> (parropia de), <date>1er mai 1274</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Baissac</i> (loc de), <date>1er mai 1274</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bayssac et de Calhau</i> (a cappella de), <date>1326</date> <reference>($Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Bayssac</i>, <date>1361</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Beychacq</i>, <date>15 juin 1594</date> <reference>($<i>Archives historiques de la Gironde</i>, t. I, p. 412)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Baissac</i> (parropia de), <date>1er mai 1274</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Bayssac et de Calhau</i> (a cappella de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Beychacq</i>, <date>15 juin 1594</date> <reference>(<i>Archives historiques de la Gironde</i>, t. I, p. 412)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00051">
     <vedette><sm>Caillau</sm></vedette>
     <definition><localisation>commune de <commune insee="33049" precision="certain">Beychac-et-Caillau</commune></localisation>.</definition>
-    <forme_ancienne><i>Calhau</i> (parrochianus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
-  </article>
-  <article type="commune" id="DT33-00052">
-    <vedette><sm>Bieujac</sm></vedette>
-  <insee>33050</insee>
+    <forme_ancienne><i>Calhau (parrochianus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00053">
     <vedette><sm>Biganos</sm></vedette>
@@ -608,16 +595,12 @@
     <forme_ancienne><i>Brana</i> (apud insulam de), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
   <insee>33071</insee>
   </article>
-  <article type="commune" id="DT33-00074">
-    <vedette><sm>Brannens</sm></vedette>
-  <insee>33072</insee>
-  </article>
-  <article type="commune" id="DT33-00075">
-    <vedette><sm>Braud-et-Saint-Louis</sm></vedette>
+  <article id="DT33-00075">
+    <vedette><sm>Braud</sm></vedette>
+    <definition><localisation>commune de <commune insee="33073" precision="certain">Braud-et-Saint-Louis</commune></localisation>.</definition>
     <forme_ancienne><i>Brau</i> (in loco qui appellatur), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Brau (Sanctus Saturninus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Braux</i>, <date>1651</date> <reference>(N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference>.</forme_ancienne>
-  <insee>33073</insee>
   </article>
   <article type="commune" id="DT33-00076">
     <vedette><sm>Brède (La)</sm></vedette>
@@ -666,22 +649,18 @@
   <article id="DT33-00080">
     <vedette><sm>Cabanac</sm></vedette>
     <definition><localisation>commune de <commune insee="33077" precision="certain">Cabanac-et-Villagrains</commune></localisation>.</definition>
-    <forme_ancienne><i>Cabanach (Guillelmo de) canonico</i>, <date>1100-1120</date> <reference>($<i>Cartulaire de l'église collégiale Saint-Seurin de Bordeaux</i>, éd. Jean-Auguste Brutails, Bordeaux, 1897)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cabanac</i> (W. de), <date>1110-1143</date> <reference>($<i>Cartulaire de l'église collégiale Saint-Seurin de Bordeaux</i>, éd. Jean-Auguste Brutails, Bordeaux, 1897)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cabanac</i> (ecclesiam Sancti Martini de), <date>1173</date> <reference>(bulle d’Alexandre III)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cabanag</i> (al sorbei de), <date>1276</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cabanach</i> (Guillelmo de) canonico, <date>1100-1120</date> <reference>(<i>Cartulaire de l'église collégiale Saint-Seurin de Bordeaux</i>, éd. Jean-Auguste Brutails, Bordeaux, 1897)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cabanac</i> (W. de), <date>1110-1143</date> <reference>(<i>Cartulaire de l'église collégiale Saint-Seurin de Bordeaux</i>, éd. Jean-Auguste Brutails, Bordeaux, 1897)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cabanac (ecclesiam Sancti Martini de)</i>, <date>1173</date> <reference>(bulle d’Alexandre III)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cabanag</i> (al sorbei de), <date>1276</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Cabanas</i> (parrochiis de) et d’Embayrens, <date>1273</date> <reference>(Hommages à Édouard I<sup>er</sup>)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cabanaco</i> (parrochia Sancti Martini de), <date>1293</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cabenhak</i>, <date>1299</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Cabanaco (parrochia Sancti Martini de)</i>, <date>1293</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cabenhak</i>, <date>1299</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00081">
     <vedette><sm>Villagrains</sm></vedette>
     <definition><localisation>commune de <commune insee="33077" precision="certain">Cabanac-et-Villagrains</commune></localisation>.</definition>
-    <forme_ancienne><i>Viliangres</i> (par. de), <date>1276</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference>.</forme_ancienne>
-  </article>
-  <article type="commune" id="DT33-00082">
-    <vedette><sm>Cabara</sm></vedette>
-  <insee>33078</insee>
+    <forme_ancienne><i>Viliangres</i> (par. de), <date>1276</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00083">
     <vedette><sm>Cadarsac</sm></vedette>
@@ -736,24 +715,24 @@
     <forme_ancienne><i>Cambis</i> (cappella de) arch. Benaugensis, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   <insee>33084</insee>
   </article>
-  <article type="commune" id="DT33-00089">
-    <vedette><sm>Camblanes-et-Meynac</sm></vedette>
+  <article id="DT33-00089">
+    <vedette><sm>Camblanes</sm></vedette>
+    <definition><localisation>commune de <commune insee="33085" precision="certain">Camblanes-et-Meynac</commune></localisation>.</definition>
     <forme_ancienne><i>Campalonas</i> (apud), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camlanas</i>, <date>1184-1192</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camplanas</i>, <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camplanas</i> (in palude de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camplanis</i> (a cappella de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camblanes</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
-  <insee>33085</insee>
   </article>
-  <article type="commune" id="DT33-00090">
+  <article id="DT33-00090">
     <vedette><sm>Camiac-et-Saint-Denis</sm></vedette>
+    <definition><localisation>commune de <commune insee="33086" precision="certain">Camiac-et-Saint-Denis</commune></localisation>.</definition>
     <forme_ancienne><i>Caminiacum</i>, <i>Camiacum</i>, <i>Camniacum</i>, <date>XI<sup>e</sup>-XII<sup>e</sup> s.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camiag</i>, <date>XI<sup>e</sup>-XII<sup>e</sup> s.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Caminhaco</i> (parrochia de), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camiac (Sanctus Martinus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Camillac</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
-  <insee>33086</insee>
   </article>
   <article type="commune" id="DT33-00091">
     <vedette><sm>Camiran</sm></vedette>
@@ -765,6 +744,7 @@
     <vedette><sm>Camps-sur-l’Isle</sm></vedette>
     <forme_ancienne><i>Campis</i> (de), <date>1283</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sancti Petri de Campis</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33088</insee>
   </article>
   <article type="commune" id="DT33-00093">
     <vedette><sm>Campugnan</sm></vedette>
@@ -813,11 +793,12 @@
   <insee>33095</insee>
   </article>
   <article type="commune" id="DT33-00100">
-    <vedette><sm>Carbon Blanc</sm></vedette>
+    <vedette><sm>Carbon-Blanc</sm></vedette>
     <forme_ancienne><i>Carbone (de) alias Crassa Umbra</i> (??), <date>1107-1118</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carbonelli</i> (Vitalis), <date>1143</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Boni Loci (Conventum)</i>, <date>1291</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962, 1952)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carbonio</i> (Johane de), <date>1333</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33096</insee>
   </article>
   <article type="commune" id="DT33-00101">
     <vedette><sm>Carcans</sm></vedette>
@@ -836,12 +817,13 @@
   <insee>33098</insee>
   </article>
   <article type="commune" id="DT33-00103">
-    <vedette><sm>Carignan de Bordeaux</sm></vedette>
+    <vedette><sm>Carignan-de-Bordeaux</sm></vedette>
     <forme_ancienne><i>Carinan</i>, <i>Karinan</i>, <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carenhan</i> (Bernardus d’Aroquer de), <date>1273-1289</date> <reference>(Hommages à Édouard I<sup>er</sup>)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carinhan</i>, <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carinhanum</i> (Helias de), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Carinhaco (cappella) de Inter duo Maria</i>, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
+  <insee>33099</insee>
   </article>
   <article type="commune" id="DT33-00104">
     <vedette><sm>Cars</sm></vedette>
@@ -868,6 +850,7 @@
   <article type="commune" id="DT33-00107">
     <vedette><sm>Castelmoron-d’Albret</sm></vedette>
     <forme_ancienne><i>Castri Mauronis</i> (de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+  <insee>33103</insee>
   </article>
   <article type="commune" id="DT33-00108">
     <vedette><sm>Castelnau-de-Médoc</sm></vedette>
@@ -956,10 +939,6 @@
     <forme_ancienne><i>Casalicis</i> (ecclesiam de), <date>1363</date> <reference>(Georges Millardet, <i>Recueil de textes des anciens dialectes landais</i>, Paris, 1910)</reference>.</forme_ancienne>
   <insee>33115</insee>
   </article>
-  <article type="commune" id="DT33-00119">
-    <vedette><sm>Cazats</sm></vedette>
-  <insee>33116</insee>
-  </article>
   <article type="commune" id="DT33-00120">
     <vedette><sm>Cazaugitat</sm></vedette>
     <forme_ancienne><i>Casaugitat</i> (Petrus de), <date>8 juin 1367</date> <reference>(sentence sur limites du fief de Cazes)</reference> ;</forme_ancienne>
@@ -969,9 +948,9 @@
   <article id="DT33-00121">
     <vedette><sm>Cazaux</sm></vedette>
     <definition><localisation>commune de <commune insee="33529" precision="certain">La Teste-de-Buch</commune></localisation>.</definition>
-    <forme_ancienne><i>Casalibus</i> (Petrus de), <date>1299</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Casaus</i> (Arnaldus de), <date>1307-1317</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Casalibus</i> (Sanctus Petrus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Casalibus</i> (Petrus de), <date>1299</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Casaus</i> (Arnaldus de), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Casalibus (Sanctus Petrus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00122">
     <vedette><sm>Cénac</sm></vedette>
@@ -1033,10 +1012,6 @@
     <forme_ancienne><i>Sissaco</i> (pro cappella de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   <insee>33125</insee>
   </article>
-  <article type="commune" id="DT33-00130">
-    <vedette><sm>Civrac-de-Blaye</sm></vedette>
-  <insee>33126</insee>
-  </article>
   <article type="commune" id="DT33-00131">
     <vedette><sm>Civrac-en-Médoc</sm></vedette>
     <forme_ancienne><i>Syvraco</i> (cappella de) arch. Sparre, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
@@ -1051,11 +1026,12 @@
   <insee>33127</insee>
   </article>
   <article type="commune" id="DT33-00133">
-    <vedette><sm>Clairac</sm></vedette>
+    <vedette><sm>Cleyrac</sm></vedette>
     <forme_ancienne><i>Clairaco</i> (ecclesia Sancti Petri de), <date>1284</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Clayrac</i>, <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Clayracum</i>, <i>Cleriacum</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Clarak</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+  <insee>33129</insee>
   </article>
   <article type="commune" id="DT33-00134">
     <vedette><sm>Coimères</sm></vedette>
@@ -1080,10 +1056,6 @@
     <forme_ancienne><i>Coms</i>, <date>1299</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Comps</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33132</insee>
-  </article>
-  <article type="commune" id="DT33-00137">
-    <vedette><sm>Coubeyrac</sm></vedette>
-  <insee>33133</insee>
   </article>
   <article type="commune" id="DT33-00138">
     <vedette><sm>Couquèques</sm></vedette>
@@ -1228,11 +1200,11 @@
     <forme_ancienne><i>Doloson</i> (parrochia de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne>
   <insee>33153</insee>
   </article>
-  <article type="commune" id="DT33-00158">
-    <vedette><sm>Églisottes-et-Chalaures (Les)</sm></vedette>
+  <article id="DT33-00158">
+    <vedette><sm>Églisottes (Les)</sm></vedette>
+    <definition><localisation>commune des <commune insee="33154" precision="certain">Églisottes-et-Chalaures</commune></localisation>.</definition>
     <forme_ancienne><i>La Stela (Sanctus Petrus de)</i>, <date>1339-1340</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Stella (Sancti Patri de)</i>, <date>1367</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
-  <insee>33154</insee>
   </article>
   <article type="commune" id="DT33-00159">
     <vedette><sm>Escaudes</sm></vedette>
@@ -1359,14 +1331,14 @@
     <forme_ancienne><i>Fontaneto</i> (de), <date>1126-1127</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference>.</forme_ancienne>
   <insee>33170</insee>
   </article>
-  <article type="commune" id="DT33-00175">
+  <article id="DT33-00175">
     <vedette><sm>Fossès</sm></vedette>
-    <definition><localisation>commune de Fossès-et-Baleyssac</localisation>.</definition>
+    <definition><localisation>commune de <commune insee="33171" precision="certain">Fossès-et-Baleyssac</commune></localisation>.</definition>
     <forme_ancienne><i>Forsset</i> (parrochia de), <date>30 mars 1305</date> <reference>(cartulaire de Monségur, dit l'Esclapot, fol. 20, éd. <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 1-98)</reference>.</forme_ancienne>
   </article>
-  <article type="commune" id="DT33-00175 bis">
+  <article id="DT33-00175 bis">
     <vedette><sm>Baleyssac</sm></vedette>
-    <definition><localisation>commune de Fossès-et-Baleyssac</localisation>.</definition>
+    <definition><localisation>commune de <commune insee="33171" precision="certain">Fossès-et-Baleyssac</commune></localisation>.</definition>
     <forme_ancienne><i>Balayssac</i> (par. S. Michaelis de), <date>30 mars 1305</date> <reference>(cartulaire de Monségur, dit l'Esclapot, fol. 20, éd. <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 1-98)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00176">
@@ -1440,13 +1412,13 @@
   <article id="DT33-00185">
     <vedette><sm>Gardegan</sm></vedette>
     <definition><localisation>commune de <commune insee="33181" precision="certain">Gardegan-et-Tourtirac</commune></localisation></definition>
-    <forme_ancienne><i>Gardegano</i> (cap. de), <date>1342</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Gardegan</i> (Sanctus Martinus de), <date>1361</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Gardegano</i> (cap. de), <date>1342</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Gardegan (Sanctus Martinus de)</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00186">
     <vedette><sm>Tourtirac</sm></vedette>
     <definition><localisation>commune de <commune insee="33181" precision="certain">Gardegan-et-Tourtirac</commune></localisation></definition>
-    <forme_ancienne><i>Tortiraco</i> (cap.), <date>1342</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Tortiraco</i> (cap.), <date>1342</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00187">
     <vedette><sm>Gauriac</sm></vedette>
@@ -1541,8 +1513,9 @@
     <forme_ancienne><i>Gravignan</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference>.</forme_ancienne>
   <insee>33192</insee>
   </article>
-  <article type="commune" id="DT33-00198">
-    <vedette><sm>Grayan-et-l’Hôpital</sm></vedette>
+  <article id="DT33-00198">
+    <vedette><sm>Grayan</sm></vedette>
+    <definition><localisation>commune de <commune insee="33193" precision="certain">Grayan-et-l’Hôpital</commune></localisation></definition>
     <forme_ancienne><i>Graia</i>, <date>s.d.</date> <reference>(DR)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Greiano</i> (de), <date>s.d.</date> <reference>(DR)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Grayano (a cappella Sancti Petri de)</i>, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
@@ -1596,10 +1569,6 @@
     <forme_ancienne><i>Guian</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference>.</forme_ancienne>
   <insee>33199</insee>
   </article>
-  <article type="commune" id="DT33-00205">
-    <vedette><sm>Haillan (Le)</sm></vedette>
-  <insee>33200</insee>
-  </article>
   <article type="commune" id="DT33-00206">
     <vedette><sm>Haux</sm></vedette>
     <forme_ancienne><i>Fau</i> (apud), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
@@ -1630,8 +1599,8 @@
   </article>
   <article id="DT33-00209">
     <vedette><sm>Marestanh</sm></vedette>
-    <definition>ancien prieuré, <localisation>paroisse de Sainte-Hélène de l’Étang ou <commune insee="33203" precision="imatif">Hourtin</commune></localisation>.</definition>
-    <forme_ancienne><i>Marestandus</i> (dominus), <date>1294</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+    <definition>ancien prieuré, <localisation>paroisse de Sainte-Hélène de l’Étang ou <commune insee="33203" precision="certain">Hourtin</commune></localisation>.</definition>
+    <forme_ancienne><i>Marestandus</i> (dominus), <date>1294</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00210">
     <vedette><sm>Hure</sm></vedette>
@@ -1671,20 +1640,19 @@
   <article id="DT33-00214">
     <vedette><sm>Jau</sm></vedette>
     <definition><localisation>commune de <commune insee="33208" precision="certain">Jau-Dignac-et-Loirac</commune></localisation>.</definition>
-    <forme_ancienne><i>Jau</i> (Sanctus Petrus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Isle de Iau ou Petite Flandre de Medoc</i>, <date>1651</date> <reference>($N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Jau (Sanctus Petrus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Isle de Iau ou Petite Flandre de Medoc</i>, <date>1651</date> <reference>(N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00215">
     <vedette><sm>Dignac</sm></vedette>
     <definition><localisation>commune de <commune insee="33208" precision="certain">Jau-Dignac-et-Loirac</commune></localisation>.</definition>
-    <forme_ancienne><i>Dinhac</i> (Sanctus Petrus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Dinhac (Sanctus Petrus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00216">
     <vedette><sm>Loirac</sm></vedette>
     <definition><localisation>commune de <commune insee="33208" precision="certain">Jau-Dignac-et-Loirac</commune></localisation>.</definition>
-    <forme_ancienne><i>Esloyrac</i> (Sanctus Romanus de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Esloyrac</i> (Sanctus Romanus de), <date>XIII<sup>e</sup> s.</date> <reference>($pouillé du diocèse de Bordeaux, éd. <i>Archives historiques de la Gironde</i>, t. XLIV, 1909, p. 1-21)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Esloyraco</i> (de), <date>1339</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Esloyrac (Sanctus Romanus de)</i>, <date>XIII<sup>e</sup> s.</date> <reference>(pouillé du diocèse de Bordeaux, éd. <i>Archives historiques de la Gironde</i>, t. XLIV, 1909, p. 1-21)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Esloyraco</i> (de), <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00217">
     <vedette><sm>Jugazan</sm></vedette>
@@ -1721,7 +1689,7 @@
   <article id="DT33-00222">
     <vedette><sm>Lacanau-de-Mios</sm></vedette>
     <definition><localisation>commune de <commune insee="33284" precision="certain">Mios</commune></localisation>.</definition>
-    <forme_ancienne><i>Lacanau de Flourence</i> <reference>($Jacques Baurein, <i>Variétés bordeloises, ou Essai historique et critique sur la toponymie ancienne et moderne du diocèse de Bordeaux</i>, 6 t., Bordeaux, 1784-1786, rééd. en 4 t., Bordeaux, 1876, t. III, p. 365)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Lacanau de Flourence</i> <reference>(Jacques Baurein, <i>Variétés bordeloises, ou Essai historique et critique sur la toponymie ancienne et moderne du diocèse de Bordeaux</i>, 6 t., Bordeaux, 1784-1786, rééd. en 4 t., Bordeaux, 1876, t. III, p. 365)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00223">
     <vedette><sm>Ladaux</sm></vedette>
@@ -1792,10 +1760,6 @@
     <forme_ancienne><i>Landaroat</i> (parochia de), <date>1290</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   <insee>33223</insee>
   </article>
-  <article type="commune" id="DT33-00231">
-    <vedette><sm>Landerrouet-sur-Ségur</sm></vedette>
-  <insee>33224</insee>
-  </article>
   <article type="commune" id="DT33-00232">
     <vedette><sm>Landiras</sm></vedette>
     <forme_ancienne><i>Landirans</i> (a domino de), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
@@ -1852,12 +1816,12 @@
   <article id="DT33-00237">
     <vedette><sm>Cassy</sm></vedette>
     <definition><localisation>commune de <commune insee="33229" precision="certain">Lanton</commune></localisation>.</definition>
-    <forme_ancienne><i>Casse</i> (decime de), <date>1235</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Casse</i> (decime de), <date>1235</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00238">
     <vedette><sm>Taussat</sm></vedette>
     <definition><localisation>commune de <commune insee="33229" precision="certain">Lanton</commune></localisation>.</definition>
-    <forme_ancienne><i>Taussac</i> (decime de), <date>1235</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Taussac</i> (decime de), <date>1235</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00239">
     <vedette><sm>Lapouyade</sm></vedette>
@@ -1908,25 +1872,23 @@
   <article id="DT33-00245">
     <vedette><sm>Lège</sm></vedette>
     <definition><localisation>commune de <commune insee="33236" precision="certain">Lège-Cap-Ferret</commune></localisation>.</definition>
-    <forme_ancienne><i>Legia</i> (ecclesiam de), <date>1169</date> <reference>($<i>Archives historiques de la Gironde</i>, t. IV, 1863, p. 4)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Legio</i> (Arnaldo de), <date>1235</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Legiam</i> (apud), <date>1235</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Legia</i>, <date>1289</date> <reference>($<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lege in Bordelois</i>, <date>1379</date> <reference>($lettre-patente, éd. <i>Archives historiques de la Gironde</i>, t. XVI, 1878, p. 166)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Letge</i>, <date>1630</date> <reference>($Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lietge</i>, <date>1651</date> <reference>($N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lietge</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Liege</i>, <date>XVIII<sup>e</sup> s.</date> <reference>($Carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Legia</i> (ecclesiam de), <date>1169</date> <reference>(<i>Archives historiques de la Gironde</i>, t. IV, 1863, p. 4)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Legio</i> (Arnaldo de), <date>1235</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Legiam</i> (apud), <date>1235</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Lege in Bordelois</i>, <date>1379</date> <reference>(lettre-patente, éd. <i>Archives historiques de la Gironde</i>, t. XVI, 1878, p. 166)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Letge</i>, <date>1630</date> <reference>(Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Lietge</i>, <date>1651</date> <reference>(N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Liege</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00246">
     <vedette><sm>Cap-Ferret</sm></vedette>
     <definition><localisation>commune de <commune insee="33236" precision="certain">Lège-Cap-Ferret</commune></localisation>.</definition>
-    <forme_ancienne><i>Curianum</i> (?) <reference>($Ptolémée, cité dans Jacques Baurein, <i>Variétés bordeloises, ou Essai historique et critique sur la toponymie ancienne et moderne du diocèse de Bordeaux</i>, 6 t., Bordeaux, 1784-1786, rééd. en 4 t., Bordeaux, 1876, t. III, p. 411)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Curianum</i> (?) <reference>(Ptolémée, cité dans Jacques Baurein, <i>Variétés bordeloises, ou Essai historique et critique sur la toponymie ancienne et moderne du diocèse de Bordeaux</i>, 6 t., Bordeaux, 1784-1786, rééd. en 4 t., Bordeaux, 1876, t. III, p. 411)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Punta mala</i> (?), <date>1436</date> <reference>(Portulan de Bianco)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cap de Horret</i>, <date>1630</date> <reference>($Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cap de Horret</i>, <date>1630</date> <reference>(Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Cap de Horet</i>, <date>1645</date> <reference>(Carte de Boisseau)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cap Brunet</i>, <date>1733</date> <reference>($Bernard Antoine Jaillot, <i>Extrait de la carte du gouvernement général de Guienne et Gascogne</i>)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cap du Feret</i>, <date>XVIII<sup>e</sup> s.</date> <reference>($Carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Cap Brunet</i>, <date>1733</date> <reference>(Bernard Antoine Jaillot, <i>Extrait de la carte du gouvernement général de Guienne et Gascogne</i>)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Cap du Feret</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00247">
     <vedette><sm>Léogeats</sm></vedette>
@@ -1949,14 +1911,13 @@
   <article id="DT33-00249">
     <vedette><sm>Lerm</sm></vedette>
     <definition><localisation>commune de <commune insee="33239" precision="certain">Lerm-et-Musset</commune></localisation>.</definition>
-    <forme_ancienne><i>Heremo</i> (parrochia de), <date>20 mars 1273</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Heremo</i> (par. Sancte Marie de), <date>1274</date> <reference>($<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914, n° 34)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Heremo</i> (de), <date>1283</date> <reference>($<i>Gascon Register A</i>, éd. George P. Cuttino, 3 t., Londres, 1975-1976, t. II, n° 101)</reference> ?.</forme_ancienne>
+    <forme_ancienne><i>Heremo</i> (parrochia de), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Heremo (par. Sancte Marie de)</i>, <date>1274</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914, n° 34)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00250">
     <vedette><sm>Musset</sm></vedette>
     <definition><localisation>commune de <commune insee="33239" precision="certain">Lerm-et-Musset</commune></localisation>.</definition>
-    <forme_ancienne><i>Musseto</i> (rector de), <date>1533-1537</date> <reference>($« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Musseto</i> (rector de), <date>1533-1537</date> <reference>(« Levée des décimes en 1533, 1535 et 1537. Comptes de Jean de Plas, évêque de Bazas », éd. Leo Drouyn, dans <i>Archives historiques de la Gironde</i>, t. XXVIII, 1893, p. 356-387)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00251">
     <vedette><sm>Lesparre-Médoc</sm></vedette>
@@ -1982,18 +1943,18 @@
   <article id="DT33-00253">
     <vedette><sm>Lèves (Les)</sm></vedette>
     <definition><localisation>commune de <commune insee="33242" precision="certain">Lèves-et-Thoumeyragues</commune></localisation>.</definition>
-    <forme_ancienne><i>Lobias</i> (capellanus de Las), <date>1083</date> <reference>($Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lubies</i> (Les), <date>1126</date> <reference>($Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lobias</i> (Siguinus de), <date>1137</date> <reference>($Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lobiis</i> (ad altare Sancti Petri de), <date>1137</date> <reference>($Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lubias</i> (la glieya de Las), <date>1278</date> <reference>($<i>Archives historiques de la Gironde</i>, t. XXXII, p. 86)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Lubiis</i> (cappella de), <date>1326</date> <reference>($Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Las Lobias</i> (capellanus de), <date>1083</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Les Lubies</i>, <date>1126</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Lobias</i> (Siguinus de), <date>1137</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Lobiis</i> (ad altare Sancti Petri de), <date>1137</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Las Lubias</i> (la glieya de), <date>1278</date> <reference>(<i>Archives historiques de la Gironde</i>, t. XXXII, p. 86)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Lubiis</i> (cappella de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00254">
     <vedette><sm>Thoumeyragues</sm></vedette>
     <definition><localisation>commune de <commune insee="33242" precision="certain">Lèves-et-Thoumeyragues</commune></localisation>.</definition>
-    <forme_ancienne><i>Tomeragas</i> (Raimundi de), <date>1137</date> <reference>($Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Comeraguas</i> (cappella de), <date>1326</date> <reference>($Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Tomeragas</i> (Raimundi de), <date>1137</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Comeraguas</i> (cappella de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00255">
     <vedette><sm>Libourne</sm></vedette>
@@ -2090,6 +2051,7 @@
     <vedette><sm>Loupiac-de-La Réole</sm></vedette>
     <forme_ancienne><i>Lupiacensi</i> (Guillelmo), <date>1040-1087</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Lopiaco</i> (a priore de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
+  <insee>33254</insee>
   </article>
   <article type="commune" id="DT33-00267">
     <vedette><sm>Lucmau</sm></vedette>
@@ -2119,8 +2081,9 @@
     <forme_ancienne><i>Lugaucent</i> (Claremons de), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   <insee>33258</insee>
   </article>
-  <article type="commune" id="DT33-00271">
-    <vedette><sm>Lugon-et-l’Île-du-Carney</sm></vedette>
+  <article id="DT33-00271">
+    <vedette><sm>Lugon</sm></vedette>
+    <definition><localisation>commune de <commune insee="33259" precision="certain">Lugon-et-l’Île-du-Carney</commune></localisation>.</definition>
     <forme_ancienne><i>Lugon</i> (cap. de, prior de), <date>1342</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00272">
@@ -2171,10 +2134,6 @@
     <forme_ancienne><i>Marsanes</i>, <date>XIII<sup>e</sup> s.</date> <reference>(cartulaire du prieuré Sainte-Geneviève de Fronsac, éd. <i>Archives historiques de la Gironde</i>, t. XXXVIII, 1903)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Marssanes</i>, <date>XIV<sup>e</sup> s.</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33266</insee>
-  </article>
-  <article type="commune" id="DT33-00278">
-    <vedette><sm>Marcheprime</sm></vedette>
-  <insee>33555</insee>
   </article>
   <article type="commune" id="DT33-00279">
     <vedette><sm>Marcillac</sm></vedette>
@@ -2239,22 +2198,15 @@
     <forme_ancienne><i>Masselhas</i> (Petri de), <date>1378</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33276</insee>
   </article>
-  <article type="commune" id="DT33-00289">
-    <vedette><sm>Massugas</sm></vedette>
-  <insee>33277</insee>
-  </article>
   <article type="commune" id="DT33-00290">
     <vedette><sm>Mauriac</sm></vedette>
     <forme_ancienne><i>Maurihac</i>, <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference>.</forme_ancienne>
   <insee>33278</insee>
   </article>
-  <article type="commune" id="DT33-00291">
-    <vedette><sm>Mazères</sm></vedette>
-  <insee>33279</insee>
-  </article>
   <article type="commune" id="DT33-00292">
     <vedette><sm>Mazion</sm></vedette>
     <forme_ancienne><i>Mazeon (Sancta Maria de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33280</insee>
   </article>
   <article type="commune" id="DT33-00293">
     <vedette><sm>Mérignac</sm></vedette>
@@ -2360,10 +2312,10 @@
     <forme_ancienne><i>Molhaco</i> (cappella de), <date>1342</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33295</insee>
   </article>
-  <article type="commune" id="DT33-00307">
-    <vedette><sm>Mouliets-et-Villemartin</sm></vedette>
+  <article id="DT33-00307">
+    <vedette><sm>Villemartin</sm></vedette>
+    <definition><localisation>commune de <commune insee="33296" precision="certain">Mouliers-et-Villemartin</commune></localisation>.</definition>
     <forme_ancienne><i>Villam Meritum</i> (super), <date>1126-1147</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne>
-  <insee>33296</insee>
   </article>
   <article type="commune" id="DT33-00308">
     <vedette><sm>Moulis-en-Médoc</sm></vedette>
@@ -2394,16 +2346,14 @@
   <article id="DT33-00312">
     <vedette><sm>Naujan</sm></vedette>
     <definition><localisation>commune de <commune insee="33301" precision="certain">Naujan-et-Postiac</commune></localisation>.</definition>
-    <forme_ancienne><i>Nauian</i> (parrochia Sancti Petri de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Nauian</i> (Donatus presbiter de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Nauian (parrochia Sancti Petri de)</i>, <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Nauiano</i> (de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Naugianum</i> (apud), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Naugianum</i> (apud), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne> 
   </article>
   <article id="DT33-00313">
     <vedette><sm>Postiac</sm></vedette>
     <definition><localisation>commune de <commune insee="33301" precision="certain">Naujan-et-Postiac</commune></localisation>.</definition>
-    <forme_ancienne><i>Posteac</i> (terram de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Posteac</i> (parrochia de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Posteac</i> (parrochia de ; terram de), <date>s.d.</date> <reference>(Cartulaire de La Sauve)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00314">
     <vedette><sm>Néac</sm></vedette>
@@ -2424,10 +2374,6 @@
     <forme_ancienne><i>Nariyan (Sanctus Martinus de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Nereyan</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33303</insee>
-  </article>
-  <article type="commune" id="DT33-00316">
-    <vedette><sm>Neuffons</sm></vedette>
-  <insee>33304</insee>
   </article>
   <article type="commune" id="DT33-00317">
     <vedette><sm>Nizan (Le)</sm></vedette>
@@ -2532,16 +2478,12 @@
   <article id="DT33-00331">
     <vedette><sm>Petit-Palais</sm></vedette>
     <definition><localisation>commune de <commune insee="33320" precision="certain">Petit-Palais-et-Cornemps</commune></localisation>.</definition>
-    <forme_ancienne><i>Pales</i> (Sanctus Petrus de), <date>1341</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Pales</i> (cappella de), <date>1342</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Pales</i> (cappella de), <date>1357</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Pales</i> (Sanctus Petrus de), <date>1398</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Pales (Sanctus Petrus de)</i>, <date>1341</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00332">
     <vedette><sm>Cornemps</sm></vedette>
     <definition><localisation>commune de <commune insee="33320" precision="certain">Petit-Palais-et-Cornemps</commune></localisation>.</definition>
-    <forme_ancienne><i>Cornemps</i> (Sancta Maria de), <date>1341</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Cornemps</i> (Sancta Maria de), <date>1398</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Cornemps (Sancta Maria de)</i>, <date>1341</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00333">
     <vedette><sm>Peujard</sm></vedette>
@@ -2589,6 +2531,7 @@
     <forme_ancienne><i>Plana Silva</i>, <date>1268</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Plana Silva</i> (monasterii de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Planasilva</i> (abbas de), <date>1360</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33326</insee>
   </article>
   <article type="commune" id="DT33-00339">
     <vedette><sm>Podensac</sm></vedette>
@@ -2743,9 +2686,9 @@
   <article id="DT33-00359">
     <vedette><sm>Pyla-sur-Mer</sm></vedette>
     <definition><localisation>commune de <commune insee="33529" precision="certain">La Teste-de-Buch</commune></localisation>.</definition>
-    <forme_ancienne><i>La Pile, Le Viel Pile</i>, <date>1630</date> <reference>($Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>La Pile</i>, <i>Le Viel Pile</i>, <date>1630</date> <reference>(Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Pila</i>, <date>1714</date> <reference>(DR)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Pilat</i>, <date>XVIII<sup>e</sup> s.</date> <reference>($Carte de Cassini)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Pilat</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00360">
     <vedette><sm>Queyrac</sm></vedette>
@@ -2839,10 +2782,6 @@
     <forme_ancienne><i>Riperia (Sancta Maria de)</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33356</insee>
   </article>
-  <article type="commune" id="DT33-00369">
-    <vedette><sm>Roaillan</sm></vedette>
-  <insee>33357</insee>
-  </article>
   <article type="commune" id="DT33-00370">
     <vedette><sm>Romagne</sm></vedette>
     <forme_ancienne><i>Romana</i>, <i>Romania</i>, <date>XI<sup>e</sup>-XIII<sup>e</sup> s.</date> <reference>(Cartulaire de La Sauve)</reference> ;</forme_ancienne>
@@ -2853,10 +2792,6 @@
     <vedette><sm>Roquebrune</sm></vedette>
     <forme_ancienne><i>Rokebrunam</i>, <date>1157</date> <reference>(DR)</reference>.</forme_ancienne>
   <insee>33359</insee>
-  </article>
-  <article type="commune" id="DT33-00372">
-    <vedette><sm>Roquille (La)</sm></vedette>
-  <insee>33360</insee>
   </article>
   <article type="commune" id="DT33-00373">
     <vedette><sm>Ruch</sm></vedette>
@@ -2907,33 +2842,26 @@
     <forme_ancienne><i>Sancto Andres Cubzac</i> (de), <date>1388</date> <reference>(DR)</reference>.</forme_ancienne>
   <insee>33366</insee>
   </article>
-  <article type="commune" id="DT33-00379">
-    <vedette><sm>Saint-André-du-Bois</sm></vedette>
-  <insee>33367</insee>
-  </article>
   <article id="DT33-00380">
     <vedette><sm>Saint-André</sm></vedette>
     <definition><localisation>commune de <commune insee="33369" precision="certain">Saint-André-et-Appelles</commune></localisation>.</definition>
-    <forme_ancienne><i>Sanctus Andreas</i>, <date>1361</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Sanctus Andreas</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00381">
     <vedette><sm>Appelles</sm></vedette>
     <definition><localisation>commune de <commune insee="33369" precision="certain">Saint-André-et-Appelles</commune></localisation>.</definition>
-    <forme_ancienne><i>Apela</i> (capela de), <date>1326</date> <reference>($Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Apela</i> (capela de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00382">
     <vedette><sm>Saint-Androny</sm></vedette>
     <forme_ancienne><i>Sanctus Andronicus</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33370</insee>
   </article>
-  <article type="commune" id="DT33-00383">
-    <vedette><sm>Saint-Antoine</sm></vedette>
-  <insee>33371</insee>
-  </article>
   <article type="commune" id="DT33-00384">
     <vedette><sm>Saint-Antoine-sur-l’Isle</sm></vedette>
     <forme_ancienne><i>Sancti Antonii</i> (hospitalis), <date>1310</date> <reference>(<i>Le patrimoine des communes de la Gironde</i>, Paris, 2001, p. 628)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sanctus Antonius de Pizone</i>, <date>1360</date> <reference>(<i>Le patrimoine des communes de la Gironde</i>, Paris, 2001, p. 628)</reference>.</forme_ancienne>
+  <insee>33373</insee>
   </article>
   <article type="commune" id="DT33-00385">
     <vedette><sm>Saint-Aubin-de-Blaye</sm></vedette>
@@ -2949,13 +2877,6 @@
     <vedette><sm>Saint-Aubin-de-Médoc</sm></vedette>
     <forme_ancienne><i>Sancto Albino</i>, <date>1279</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   <insee>33376</insee>
-  </article>
-  <article type="commune" id="DT33-00388">
-    <vedette><sm>Saint-Avit-de-Soulège</sm></vedette>
-  <insee>33377</insee>
-  </article>
-  <article type="commune" id="DT33-00389">
-    <vedette><sm>Saint-Avit–Saint-Nazaire</sm></vedette>
   </article>
   <article type="commune" id="DT33-00390">
     <vedette><sm>Saint-Brice</sm></vedette>
@@ -3016,6 +2937,7 @@
     <vedette><sm>Saint-Ciers-d’Abzac</sm></vedette>
     <forme_ancienne><i>Sanctus Siricus de Absaco</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sanctus Ciricus de Absac</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33387</insee>
   </article>
   <article type="commune" id="DT33-00399">
     <vedette><sm>Saint-Ciers-de-Canesse</sm></vedette>
@@ -3091,10 +3013,6 @@
     <forme_ancienne><i>Sancte Eulalie in Baresio</i> (a cappellano), <date>1332</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33397</insee>
   </article>
-  <article type="commune" id="DT33-00409">
-    <vedette><sm>Saint-Exupéry</sm></vedette>
-  <insee>33398</insee>
-  </article>
   <article type="commune" id="DT33-00410">
     <vedette><sm>Saint-Félix-de-Foncaude</sm></vedette>
     <forme_ancienne><i>Sanctus Felix de Savinhaco</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
@@ -3107,10 +3025,6 @@
     <forme_ancienne><i>Sancti Ffermerii</i> (abbate), <date>1281</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   <insee>33400</insee>
   </article>
-  <article type="commune" id="DT33-00412">
-    <vedette><sm>Sainte-Florence</sm></vedette>
-  <insee>33401</insee>
-  </article>
   <article type="commune" id="DT33-00413">
     <vedette><sm>Sainte-Foy-la-Grande</sm></vedette>
     <forme_ancienne><i>Sancta Fides</i>, <date>1255</date> <reference>(DR)</reference> ;</forme_ancienne>
@@ -3119,10 +3033,6 @@
     <forme_ancienne><i>Seinte Fe</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sancte Fidis</i> (prior bastidie), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   <insee>33402</insee>
-  </article>
-  <article type="commune" id="DT33-00414">
-    <vedette><sm>Sainte-Foy-la-Longue</sm></vedette>
-  <insee>33403</insee>
   </article>
   <article type="commune" id="DT33-00415">
     <vedette><sm>Sainte-Gemme</sm></vedette>
@@ -3157,13 +3067,10 @@
     <forme_ancienne><i>Sanctus Genesius de Lobaut</i>, <date>1339-1340</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33408</insee>
   </article>
-  <article type="commune" id="DT33-00420">
-    <vedette><sm>Saint-Genis-du-Bois</sm></vedette>
-  <insee>33409</insee>
-  </article>
   <article type="commune" id="DT33-00421">
     <vedette><sm>Saint-Germain-de-la-Grave</sm></vedette>
     <forme_ancienne><i>Sanctus Germanus</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33411</insee>
   </article>
   <article type="commune" id="DT33-00422">
     <vedette><sm>Saint-Germain-de-la-Rivière</sm></vedette>
@@ -3180,6 +3087,7 @@
     <forme_ancienne><i>Esteville</i>, <date>1636</date> <reference>(<i>Bulletin de la Société archéologique de Bordeaux</i>, t. XV)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Estevil</i>, <date>1651</date> <reference>(<i>Bulletin de la Société archéologique de Bordeaux</i>, t. XV)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Esteuil</i>, <date>1647</date> <reference>(<i>Bulletin de la Société archéologique de Bordeaux</i>, t. XV)</reference>.</forme_ancienne>
+  <insee>33412</insee>
   </article>
   <article type="commune" id="DT33-00424">
     <vedette><sm>Saint-Germain-du-Puch</sm></vedette>
@@ -3199,6 +3107,7 @@
   <article type="commune" id="DT33-00426">
     <vedette><sm>Saint-Girons-d’Aiguevives</sm></vedette>
     <forme_ancienne><i>Sanctus Geronicius de Aquis Vivis</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33416</insee>
   </article>
   <article type="commune" id="DT33-00427">
     <vedette><sm>Sainte-Hélène</sm></vedette>
@@ -3240,16 +3149,19 @@
     <forme_ancienne><i>Ilhac</i> (Aykam d’), <date>1299</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Ilhac</i> (madona na Marquesa d’), <date>1311</date> <reference>(donation, éd. <i>Archives historiques de la Gironde</i>, t. XVI, 1878, p. 65)</reference>  ;</forme_ancienne>
     <forme_ancienne><i>Hilhac (Sanctus Johannes de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33422</insee>
   </article>
   <article type="commune" id="DT33-00433">
     <vedette><sm>Saint-Julien-de-Beychevelle</sm></vedette>
     <forme_ancienne><i>Sanctorum Juliani</i> (capella), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Saint Iulien</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Baiserville</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference>.</forme_ancienne>
+  <insee>33423</insee>
   </article>
   <article type="commune" id="DT33-00434">
     <vedette><sm>Saint-Laurent-d’Arce</sm></vedette>
     <forme_ancienne><i>Saint Laurent d’Arce</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
+  <insee>33425</insee>
   </article>
   <article type="commune" id="DT33-00435">
     <vedette><sm>Saint-Laurent-des-Combes</sm></vedette>
@@ -3260,10 +3172,6 @@
     <vedette><sm>Saint-Laurent-du-Bois</sm></vedette>
     <forme_ancienne><i>Sancti Laurencii (in parrochiis)</i>, <date>20 mars 1273/1274</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference>.</forme_ancienne>
   <insee>33427</insee>
-  </article>
-  <article type="commune" id="DT33-00437">
-    <vedette><sm>Saint-Laurent-du-Plan</sm></vedette>
-  <insee>33428</insee>
   </article>
   <article type="commune" id="DT33-00438">
     <vedette><sm>Saint-Laurent-Médoc</sm></vedette>
@@ -3352,20 +3260,12 @@
     <forme_ancienne><i>Sanctus Marianus</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33439</insee>
   </article>
-  <article type="commune" id="DT33-00449">
-    <vedette><sm>Saint-Martial</sm></vedette>
-  <insee>33440</insee>
-  </article>
   <article type="commune" id="DT33-00450">
     <vedette><sm>Saint-Martin-de-Laye</sm></vedette>
     <forme_ancienne><i>Sanctus Martinus de Leya</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Leya</i> (in parrochia de), <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Laye (Saint Martin de)</i> <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
   <insee>33442</insee>
-  </article>
-  <article type="commune" id="DT33-00451">
-    <vedette><sm>Saint-Martin-de-Lerm</sm></vedette>
-  <insee>33443</insee>
   </article>
   <article type="commune" id="DT33-00452">
     <vedette><sm>Saint-Martin-de-Sescas</sm></vedette>
@@ -3406,6 +3306,7 @@
     <forme_ancienne><i>Derans</i> (domus de), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Ayran</i> (la meson de), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Ayran (mota de) in Burdigalesio</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+  <insee>33448</insee>
   </article>
   <article type="commune" id="DT33-00458">
     <vedette><sm>Saint-Médard-en-Jalles</sm></vedette>
@@ -3433,10 +3334,6 @@
     <forme_ancienne><i>Sancti Michaelis</i> (prior), <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33451</insee>
   </article>
-  <article type="commune" id="DT33-00461">
-    <vedette><sm>Saint-Michel-de-Lapujade</sm></vedette>
-  <insee>33453</insee>
-  </article>
   <article type="commune" id="DT33-00462">
     <vedette><sm>Saint-Michel-de-Rieufret</sm></vedette>
     <forme_ancienne><i>Sancti Michaelis de Rivofrigido</i> (par. de), <date>21 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
@@ -3459,10 +3356,6 @@
     <forme_ancienne><i>Sancti Paladii de La Landa sive de Vitrazes</i>, <date>1360</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33456</insee>
   </article>
-  <article type="commune" id="DT33-00465">
-    <vedette><sm>Saint-Pardon-de-Conques</sm></vedette>
-  <insee>33457</insee>
-  </article>
   <article type="commune" id="DT33-00466">
     <vedette><sm>Saint-Paul</sm></vedette>
     <forme_ancienne><i>Sanctus Paulus</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
@@ -3471,6 +3364,7 @@
   <article type="commune" id="DT33-00467">
     <vedette><sm>Saint-Pey-d’Armens</sm></vedette>
     <forme_ancienne><i>Ermenx</i>, <date>XIV<sup>e</sup> s.</date> <reference>(DR)</reference>.</forme_ancienne>
+  <insee>33459</insee>
   </article>
   <article type="commune" id="DT33-00468">
     <vedette><sm>Saint-Pey-de-Castets</sm></vedette>
@@ -3482,14 +3376,12 @@
   <article type="commune" id="DT33-00469">
     <vedette><sm>Saint-Philippe-d’Aiguille</sm></vedette>
     <forme_ancienne><i>Aguilha</i>, <date>1254</date> <reference>(DR)</reference>.</forme_ancienne>
-  </article>
-  <article type="commune" id="DT33-00470">
-    <vedette><sm>Saint-Philippe-du-Seignal</sm></vedette>
-  <insee>33462</insee>
+  <insee>33461</insee>
   </article>
   <article type="commune" id="DT33-00471">
     <vedette><sm>Saint-Pierre-d’Aurillac</sm></vedette>
     <forme_ancienne><i>Sancti Petri de Sancto Aurelard</i>, <date>1195</date> <reference>(Ch. Grellet-Balguerie, « Cartulaire du prieuré de Saint-Pierre de La Réole », dans <i>Archives historiques de la Gironde</i>, t. V, 1863, p. 99-186)</reference>.</forme_ancienne>
+  <insee>33463</insee>
   </article>
   <article type="commune" id="DT33-00472">
     <vedette><sm>Saint-Pierre-de-Bat</sm></vedette>
@@ -3516,20 +3408,12 @@
     <forme_ancienne><i>Sanctus Quintinius</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33467</insee>
   </article>
-  <article type="commune" id="DT33-00476">
-    <vedette><sm>Sainte-Radegonde</sm></vedette>
-  <insee>33468</insee>
-  </article>
   <article type="commune" id="DT33-00477">
     <vedette><sm>Saint-Romain-la-Virvée</sm></vedette>
     <forme_ancienne><i>Sancti Romani</i> (parochia), <date>1281</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sanctus Romanus de Burcias</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sanctus Romanus</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33470</insee>
-  </article>
-  <article type="commune" id="DT33-00478">
-    <vedette><sm>Saint-Sauveur</sm></vedette>
-  <insee>33471</insee>
   </article>
   <article type="commune" id="DT33-00479">
     <vedette><sm>Saint-Sauveur-de-Puynormand</sm></vedette>
@@ -3541,14 +3425,6 @@
     <vedette><sm>Saint-Savin</sm></vedette>
     <forme_ancienne><i>Sanctus Savinus</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33473</insee>
-  </article>
-  <article type="commune" id="DT33-00481">
-    <vedette><sm>Saint-Selve</sm></vedette>
-  <insee>33474</insee>
-  </article>
-  <article type="commune" id="DT33-00482">
-    <vedette><sm>Saint-Seurin-de-Bourg</sm></vedette>
-  <insee>33475</insee>
   </article>
   <article type="commune" id="DT33-00483">
     <vedette><sm>Saint-Seurin-de-Cadourne</sm></vedette>
@@ -3562,8 +3438,9 @@
   <insee>33477</insee>
   </article>
   <article type="commune" id="DT33-00485">
-    <vedette><sm>Saint-Seurin-sur-L’Isle</sm></vedette>
+    <vedette><sm>Saint-Seurin-sur-l’Isle</sm></vedette>
     <forme_ancienne><i>Sanctus Severinus de Camps</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33478</insee>
   </article>
   <article type="commune" id="DT33-00486">
     <vedette><sm>Saint-Sève</sm></vedette>
@@ -3576,10 +3453,6 @@
     <forme_ancienne><i>Sanctus Sulpicius</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33480</insee>
   </article>
-  <article type="commune" id="DT33-00488">
-    <vedette><sm>Saint-Sulpice-de-Guilleragues</sm></vedette>
-  <insee>33481</insee>
-  </article>
   <article type="commune" id="DT33-00489">
     <vedette><sm>Saint-Sulpice-de-Pommiers</sm></vedette>
     <forme_ancienne><i>Pomeys</i>, <date>1294</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
@@ -3590,15 +3463,15 @@
   <article id="DT33-00490">
     <vedette><sm>Saint-Sulpice</sm></vedette>
     <definition><localisation>commune de <commune insee="33483" precision="certain">Saint-Sulpice-et-Cameyrac</commune></localisation>.</definition>
-    <forme_ancienne><i>Sancti Sulpicii Inter duo Maria</i>, <date>1285</date> <reference>($<i>Rôles gascons</i>, t. II, éd. Charles Bémont, Paris, 1896, 904)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Sancti Suplicii</i> (cappella), <date>1326</date> <reference>($Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Sanctus Sulpicius</i>, <date>1361</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Sancti Sulpicii Inter duo Maria</i>, <date>1285</date> <reference>(<i>Rôles gascons</i>, t. II, éd. Charles Bémont, Paris, 1896, 904)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Sancti Suplicii</i> (cappella), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Sanctus Sulpicius</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article id="DT33-00491">
     <vedette><sm>Cameyrac</sm></vedette>
     <definition><localisation>commune de <commune insee="33483" precision="certain">Saint-Sulpice-et-Cameyrac</commune></localisation>.</definition>
-    <forme_ancienne><i>Catmayrac</i>, <date>XIV<sup>e</sup> s.</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
-    <forme_ancienne><i>Camayraco</i> (Sanctus Ciricus de), <date>1398</date> <reference>($Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+    <forme_ancienne><i>Catmayrac</i>, <date>XIV<sup>e</sup> s.</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
+    <forme_ancienne><i>Camayraco (Sanctus Ciricus de)</i>, <date>1398</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   </article>
   <article type="commune" id="DT33-00492">
     <vedette><sm>Saint-Symphorien</sm></vedette>
@@ -3606,20 +3479,13 @@
     <forme_ancienne><i>Sanctus Simphorianus</i> <reference>(pouillé du diocèse de Bordeaux, éd. <i>Archives historiques de la Gironde</i>, t. XLIV, 1909, p. 1-21, à la p. 7)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sancto Sinferino</i> (de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sent Semphorin</i> (Isabelle de), <date>1373</date> <reference>(confirmation, éd. <i>Archives historiques de la Gironde</i>, t. XVI, 1878, p. 156)</reference>.</forme_ancienne>
+  <insee>33484</insee>
   </article>
   <article type="commune" id="DT33-00493">
     <vedette><sm>Sainte-Terre</sm></vedette>
     <forme_ancienne><i>Sancte Terre (in parrochiis Inter Dordonya)</i>, <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sancta Terra</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33485</insee>
-  </article>
-  <article type="commune" id="DT33-00494">
-    <vedette><sm>Saint-Trojan</sm></vedette>
-  <insee>33486</insee>
-  </article>
-  <article type="commune" id="DT33-00495">
-    <vedette><sm>Saint-Vincent-de-Paul</sm></vedette>
-  <insee>33487</insee>
   </article>
   <article type="commune" id="DT33-00496">
     <vedette><sm>Saint-Vincent-de-Pertignas</sm></vedette>
@@ -3645,10 +3511,6 @@
     <forme_ancienne><i>Sancti Babiani</i> (parrochia), <date>20 mars 1273</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sancti Viviani de Batz</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
   <insee>33491</insee>
-  </article>
-  <article type="commune" id="DT33-00500">
-    <vedette><sm>Saint-Yzan-de-Soudiac</sm></vedette>
-  <insee>33492</insee>
   </article>
   <article type="commune" id="DT33-00501">
     <vedette><sm>Saint-Yzans-de-Médoc</sm></vedette>
@@ -3679,6 +3541,7 @@
     <forme_ancienne><i>Salabeau</i> (in parrochiis de), <date>1273</date> <reference>(Hommages à Édouard I<sup>er</sup>)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Salabovis</i> (fortalicium), <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Salobeu</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+  <insee>33496</insee>
   </article>
   <article type="commune" id="DT33-00505">
     <vedette><sm>Salles</sm></vedette>
@@ -3689,9 +3552,10 @@
   <insee>33498</insee>
   </article>
   <article type="commune" id="DT33-00506">
-    <vedette><sm>Salles-de-Castillon ou Salles (Les)</sm></vedette>
+    <vedette><sm>Salles-de-Castillon (Les)</sm> ou <sm>Salles (Les)</sm></vedette>
     <forme_ancienne><i>Salis (Sanctus Petrus de)</i>, <date>1341</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Salas</i>, <date>1361</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33499</insee>
   </article>
   <article type="commune" id="DT33-00507">
     <vedette><sm>Samonac</sm></vedette>
@@ -3747,6 +3611,7 @@
     <forme_ancienne><i>Salve Terre</i>, <date>1305</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Salvaterra</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Salve Terre (La Bastide)</i>, <date>1307-1317</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
+  <insee>33506</insee>
   </article>
   <article type="commune" id="DT33-00514">
     <vedette><sm>Sauviac</sm></vedette>
@@ -3767,9 +3632,10 @@
   <insee>33508</insee>
   </article>
   <article type="commune" id="DT33-00516">
-    <vedette><sm>Savignac-de-L’Isle</sm></vedette>
+    <vedette><sm>Savignac-de-l’Isle</sm></vedette>
     <forme_ancienne><i>Savinhaco (Sanctus Felix de)</i>, <date>1339</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Savignac</i>, <date>XVIII<sup>e</sup> s.</date> <reference>(Carte de Cassini)</reference>.</forme_ancienne>
+  <insee>33509</insee>
   </article>
   <article type="commune" id="DT33-00517">
     <vedette><sm>Semens</sm></vedette>
@@ -3785,10 +3651,6 @@
     <forme_ancienne><i>Sentedz</i> (castrum de), <date>1276</date> <reference>(<i>Recueil d'actes relatifs à l'administration des rois d'Angleterre en Guyenne au XIII<sup>e</sup> siècle</i>, éd. Charles Bémont, Paris, 1914)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Sentes</i> (par. de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference>.</forme_ancienne>
   <insee>33511</insee>
-  </article>
-  <article type="commune" id="DT33-00519">
-    <vedette><sm>Sigalens</sm></vedette>
-  <insee>33512</insee>
   </article>
   <article type="commune" id="DT33-00520">
     <vedette><sm>Sillas</sm></vedette>
@@ -3844,6 +3706,7 @@
     <forme_ancienne><i>Sancto Illaris</i> (de), <date>1274</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Anthalhano</i> (de), <date>1289</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Autelhano</i> (preceptor hospitalis de), <date>1360</date> <reference>(Leo Drouyn, <i>Comptes de l'archevêché de Bordeaux</i>, dans <i>Archives historiques de la Gironde</i>, t. XXI, p. 1-706 et t. XXII, p. 1-641)</reference>.</forme_ancienne>
+  <insee>33519</insee>
   </article>
   <article type="commune" id="DT33-00527">
     <vedette><sm>Taillecavat</sm></vedette>
@@ -3913,10 +3776,6 @@
     <forme_ancienne><i>Le Teix</i>, <date>1630</date> <reference>(Gudocus Hondius, <i>Carte de Bourdelois, pays de Medoc et la prevosté de Bearn</i>)</reference>.</forme_ancienne>
   <insee>33527</insee>
   </article>
-  <article type="commune" id="DT33-00535">
-    <vedette><sm>Temple (Le)</sm></vedette>
-  <insee>33528</insee>
-  </article>
   <article type="commune" id="DT33-00536">
     <vedette><sm>Teste-de-Buch (La)</sm></vedette>
     <forme_ancienne><i>Civitas Boiorum</i>, <date>vers 400</date> ;</forme_ancienne>
@@ -3925,6 +3784,7 @@
     <forme_ancienne><i>La Testa in Bogio (parrochia de)</i>, <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference> ;</forme_ancienne>
     <forme_ancienne><i>La Teste ou Cap de Buch</i>, <date>1651</date> <reference>(N. Sanson d'Abbeville, <i>Carte du gouvernement général de Guyenne et Gascogne</i>)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Teste de Buc</i>, <date>XVII<sup>e</sup> s.</date> <reference>(Carte)</reference>.</forme_ancienne>
+  <insee>33529</insee>
   </article>
   <article type="commune" id="DT33-00537">
     <vedette><sm>Teuillac</sm></vedette>
@@ -4061,10 +3921,6 @@
     <forme_ancienne><i>Bertuye</i>, <date>1299</date> <reference>(<i>Rôles gascons</i>, éd. Francisque Michel, Charles Bémont et Yves Renouard, 4 t., Paris, 1885-1962)</reference> ;</forme_ancienne>
     <forme_ancienne><i>Bertholio</i> (ab abbate de), <date>1326</date> <reference>(Ph. Tamizey de Laroque, « Compte des subsides levés pour le pape dans l'archevêché de Bordeaux », dans <i>Archives historiques de la Gironde</i>, t. XIX, p. 187-246)</reference>.</forme_ancienne>
   <insee>33545</insee>
-  </article>
-  <article type="commune" id="DT33-00553">
-    <vedette><sm>Vignonet</sm></vedette>
-  <insee>33546</insee>
   </article>
   <article type="commune" id="DT33-00554">
     <vedette><sm>Villandraut</sm></vedette>
