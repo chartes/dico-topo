@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/chartes/dico-topo/master/data/dico-topo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--
-  Copyright © 2022 École nationale des chartes
+  Copyright © 2026 École nationale des chartes
   license: https://creativecommons.org/licenses/by-nc-nd/3.0/fr/
 -->
 <DICTIONNAIRE dep="37" departement="Indre-et-Loire">
